@@ -1,0 +1,6840 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official - Subject to Final Review
+
+   IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+CLIFFORD B. MEACHAM,              :
+ET AL.,                           :
+            Petitioners           :
+       v.                         :  No. 06-1505
+KNOLLS ATOMIC POWER               :
+LABORATORY, AKA KAPL,             :
+INC., ET AL.                      :
+- - - - - - - - - - - - - - - - - x
+                       Washington, D.C.
+                       Wednesday, April 23, 2008
+
+              The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:15 a.m.
+APPEARANCES:
+KEVIN K. RUSSELL, ESQ., Washington, D.C.; on behalf
+   of the Petitioners.
+DARYL JOSEFFER, ESQ., Assistant to the Solicitor
+   General, Department of Justice, Washington, D.C.; on
+   behalf of the United States, as amicus curiae,
+   supporting the Petitioners.
+SETH P. WAXMAN, ESQ., Washington, D.C.; on behalf of
+   the Respondents.
+
+1
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+                   C O N T E N T S
+ORAL ARGUMENT OF                                  PAGE
+KEVIN K. RUSSELL, ESQ.
+   On behalf of the Petitioners                      3
+DARYL JOSEFFER, ESQ.
+   On behalf of the United States, as amicus
+   curiae, supporting the Petitioners               17
+SETH P. WAXMAN, ESQ.
+   On behalf of the Respondents                     27
+REBUTTAL ARGUMENT OF
+KEVIN K. RUSSELL, ESQ.
+   On behalf of the Petitioners                     50
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+2
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+                  P R O C E E D I N G S
+                                            (11:15 a.m.)
+            CHIEF JUSTICE ROBERTS:  We'll hear argument
+next in Case 06-1505, Meacham versus Knolls Atomic Power
+Laboratory.
+            Mr. Russell.
+               ORAL ARGUMENT OF KEVIN K. RUSSELL
+                  ON BEHALF OF THE PETITIONERS
+            MR. RUSSELL:  Mr. Chief Justice, and may it
+please the Court:
+            This case presents a single important but
+narrow question.  Everyone agrees that under the
+reasonable factor other than age provision of the Age
+Discrimination in Employment Act, a business practice
+that is reasonable is not unlawful even if it has a
+disparate impact on older workers.  The question here is
+simply what happens in cases in which the proof on
+reasonableness is in equipoise, which party bears the
+risk of nonpersuasion.  And on that question the statute
+is not silent such as to leave to the courts to decide
+for themselves what answer makes the most sense.
+            JUSTICE KENNEDY:  Is there a hypothetical
+universe where a scheme that discriminates on the basis
+of age is reasonable, but there is another alternative
+that doesn't discriminate on the basis of age?  Is the
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+3
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+first alternative still reasonable, or does the
+existence of a nondiscriminating alternative make it
+unreasonable?
+            MR. RUSSELL:  This Court made quite clear in
+City of Jackson that the existence of alternatives,
+while sufficient perhaps to satisfy Wards Cove and to
+show a violation under Section 4(a)(2), is not
+sufficient to show that the action is unreasonable.  And
+that's what the Court found to be the case in Smith.  So
+the standards are, in fact, quite different.
+            The reasonable factor other than age
+provision looks at the reasonableness of the actual,
+existing practice, and that's where the "because of age"
+refers to the business practice there.  It doesn't --
+            JUSTICE KENNEDY:  If that's true, then is it
+necessary either on the burden of production or burden
+of persuasion aspect of the case to consider other
+alternatives?
+            MR. RUSSELL:  It is in our view necessary in
+order to decide whether there is a --
+            JUSTICE KENNEDY:  Why is it necessary in
+light of the answer you gave me at the outset?
+            MR. RUSSELL:  It is necessary in order to
+establish whether you even get to the RFOA provision.
+By its terms --
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+4
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+            JUSTICE KENNEDY:  Whether you even get to --
+            MR. RUSSELL:  Even get to it, because by its
+terms the RFOA provision only applies to conduct that is
+otherwise prohibited by Section 4(a)(2), and the test
+for whether something is otherwise prohibited under
+Section 4(a)(2) is Wards Cove.
+            This Court in Smith said that language,
+which was identical to the language Congress used to
+describe the unlawful- employment practice in Title VII,
+has the same meaning in both statutes.  And in order to
+establish a violation of Wards Cove, you do have to
+often look at questions of alternatives.
+            JUSTICE GINSBURG:  Mr. Russell, this is the
+problem that I have with your double inquiry.  First,
+you decide business necessity.  Then you decide
+reasonable factor other than age.  Once you determine
+that there is no business necessity, there is a readily
+available alternative, so what you're left with is a
+pretext for age discrimination, what -- what function is
+there for anything else to perform?
+            I mean, I understand the business necessity,
+whether you have it pre-1991 or post, but I don't
+understand putting this other test on top of it.  It
+sounds like you're making it harder for the -- for the
+plaintiff.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+5
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+            MR. RUSSELL:  Well, we think that the
+layering of the tests arises out of the structure of the
+statute as Congress wrote it.  If this Court disagrees
+with us, however, and thinks that there is room in the
+statutory language to treat the language of 4(a)(2)
+differently in some sense or to apply a different Wards
+Cove test, then you're still left with the question of
+who bears the burden of reasonableness.
+            And on that grounds we agree entirely with
+the EEOC that that question is still determined by the
+language of the statute, which makes quite clear that
+Congress thought that this was an exception to liability
+upon which the employer bears the burden of proof.  And
+it made that -- made that clear both by setting the RFOA
+up as an exception to liability, which this Court has
+long told Congress will be construed as establishing an
+affirmative defense absent strong indications of
+contrary legislative intent, and by sandwiching that
+defense in the same sentence as two other affirmative
+defenses, which would be a very strange thing to do if
+Congress in fact intended the courts to figure out, you
+know, one of the three is not like the others, That it's
+intended, instead, as a modification of the definition.
+            And, third, Congress I think it -- it does,
+and it is telling that, in defining the unlawful
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+6
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+employment practice, that is in defining the plaintiff's
+case in chief, Congress used the same language that it
+did in Title VII, and this Court has never construed
+that language to require proof of unreasonableness.
+            CHIEF JUSTICE ROBERTS:  Well, your friend,
+of course, makes the point that the age discrimination
+prohibition is narrower in scope than Title VII, that
+there are more likely to be instances in which a
+reasonable factor other than age came into play than
+there would be a basis for discrimination on the basis
+of race.
+            MR. RUSSELL:  We acknowledge that.  This
+Court pointed out in Smith that Congress itself
+recognized that there was a difference between age and
+other kinds of discrimination; but it took that
+difference into account not by defining the unlawful
+employment practice differently, but by providing age
+discrimination defendants a capacious defense that's not
+available to any other defendant in a Federal employment
+discrimination statute, and by in 1991 not extending the
+modifications to Wards Cove to ADEA plaintiffs.
+            Congress already specifically addressed this
+question of whether Wards Cove should be adjusted in
+order to make age discrimination claims harder to prove
+than Title VII claims, and it agreed that it should; but
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+7
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+it didn't do it in the way that Respondents suggest.
+Instead they lowered the bar for Title VII plaintiffs
+and left in place the Wards Cove test for age
+discrimination.
+            JUSTICE ALITO:  Isn't it a strain to say
+that an employment practice was because of an
+individual's age, but at the same time was based on
+reasonable factors other than age?
+            MR. RUSSELL:  Well --
+            JUSTICE ALITO:  Doesn't the latter negate
+the former or come very close to negating the former?
+And if that's the case doesn't that suggest that it's
+not really an affirmative defense but what's necessary
+to show liability?
+            MR. RUSSELL:  I don't think it does.  We use
+the example in our brief of a weight-lifting
+requirement.  It's quite possible for that requirement,
+and quite likely, that it will have a disparate impact
+on older workers because of their age.  The effect will
+be felt by workers because of their age.  At the same
+time, it is quite possible that that practice itself
+will be entirely reasonable.  And the difference is
+between what the "because of age" refers to in the two
+different provisions.
+            So if you look on page 3 of the blue brief,
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+8
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+you have the language of the RFOA provision, and the
+reasonable -- the "factors other than age" refers to in
+that case the differentiation, that is the business
+practice itself.  But if you turn to the prior page on
+page 1A and look at the language of (a)(2), the business
+practice, that is, the limiting, segregating, or
+classifying, doesn't have to be because of age.  There
+wouldn't be a disparate treatment claim.  Instead what
+"because of age" refers to there is the effect of that
+facially neutral practice.  That is, the employee has to
+show that the neutral practice deprives or tends to
+deprive people of opportunities because of their age.
+            And the way that you do that is through the
+first step of the Wards Cove analysis, by showing that
+the practice falls more heavily on older workers as a
+group, so that you can reach the conclusion that the
+plaintiff is feeling the effect because of her age as
+opposed to because of her sex or some other reason
+specific to her.  So it's not the fact that a showing of
+RFOA negates the showing that a disparate impact is felt
+because of age by the plaintiff.
+            As we were -- as I was mentioning before,
+the language of the statute we think strongly points in
+favor of an ordinary reading of this as an affirmative
+defense.  The Respondent's principal objection is that
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+9
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+this doesn't give adequate weight to the differences
+between age and other forms of discrimination.  But as I
+mentioned, we -- we do think that Congress took that
+into account in a different way, and there is, we think,
+quite an important value here in providing Congress
+clear rules of interpretation so that it knows when it
+enacts statutes using a particular formulation the
+courts will construe it in an ordinary way, absent some
+compelling indication to the contrary.
+            We recognize, of course, in Betts that this
+Court found such a compelling counter-indication in the
+legislative history of that statute, and in the -- the
+law's traditional treatment of benefits -- retirement
+benefits and seniority rights.  But Respondents can't
+point to any kind of similar showing in this case that
+Congress would have intended this catch-all provision to
+mean something other than what it seems to say.
+            JUSTICE GINSBURG:  The expression comes from
+the Equal Pay Act, with a substitution.  In the Equal
+Pay Act it's "any other factor other than sex" and here
+it's "a reasonable factor other than age."  And my
+impression is that that formulation in this Equal Pay
+Act has been rather problematic.  First, you have to
+find there is a differential between the pay of men and
+the pay of women, so -- and then you go to any other
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+10
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+factor other than sex.
+            Are you suggesting any different analysis
+for the age category than for the sex category.
+            MR. RUSSELL:  Well, certainly what you have
+to show before you get to the defense is different in
+the two statutes.  They are similar in the sense that
+neither requires proof of intentional discrimination.
+For example, in Corning Glass Works all the plaintiffs
+showed there was that a facially neutral practice, that
+is paying the night shift folks more than the day shift
+folks, resulted in women getting paid less than men for
+the same work, and that was sufficient to shift the
+burden over to the employer to show that it was based on
+any other factor other than age.
+            And in here we think that it's similar, that
+the plaintiff has to show that a neutral employment
+practice has a disparate impact on the basis of age.  We
+think in our view, in addition, the plaintiff has to
+make the full Wards Cove showing that would be
+sufficient in Title VII to establish liability
+conclusively.  And at that point, then the burden does
+shift to the employer but it's a modest burden.
+            JUSTICE KENNEDY:  The burden of production,
+of course.
+            MR. RUSSELL:  Yes.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+11
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+            JUSTICE KENNEDY:  And what about the burden
+of persuasion?
+            MR. RUSSELL:  The burden of persuasion as
+well.  We think that this is --
+            JUSTICE KENNEDY:  Why is it that if the
+employer has the burden of production, and I assume that
+is satisfied by his saying, here's the plan that we
+used, here are the factors we used, here is the reason
+we used them.  What is so difficult for the -- what is
+the difficulty in saying that the employee then has to
+show that that is unreasonable?
+            MR. RUSSELL:  Well, we think there are some
+difficulties, but it's ultimately I think beside the
+point.  The question is not what rule would make sense,
+but what does the statute -- what rule does the statute
+contemplate?  And we think by phrasing the RFOA
+provision as a traditional affirmative defense --
+            JUSTICE KENNEDY:  You think the statute
+doesn't make sense, so we don't --
+            MR. RUSSELL:  I think the statute makes
+perfect sense the way it's written, but if you
+disagree --
+            JUSTICE GINSBURG:  Your point that it's
+sandwiched between two things that are clearly
+affirmative defenses, BFOQ, the employer has the buried
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+12
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+of production and persuasion.  And I forgot what the
+third one --
+            MR. RUSSELL:  The foreign law exception.
+            JUSTICE GINSBURG:  Is also an affirmative
+defense.  So I take it your point is why should this
+middle one be any different?
+            MR. RUSSELL:  Yes, we think it would be
+entirely odd for Congress --
+            JUSTICE KENNEDY:  Well, I'm well aware of
+the statutory format here.  But what I want to ask is
+why is it beyond the employee's means and capacity to
+show that this is unreasonable?  It seems to me that
+that's the gravamen of this case.
+            MR. RUSSELL:  I don't think it's beyond the
+employee's means.  I don't think it's an impossible
+burden.  Certainly Congress could have written the
+statute in a way that imposed that burden on the
+employees.  We do think that it makes sense because --
+that the factors that weigh in on the reasonableness
+tend to be in the employer's possession and they have
+better access to it; it makes sense for them to bear the
+burden.
+            But ultimately our argument isn't grounded
+on the claim that it would be impossible for Congress to
+have imposed that burden.  It's grounded on the claim
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+13
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+that the text of the statute indicates that Congress
+made a different decision, that is it accommodated the
+employers' interests in dealing with the special facts
+of age discrimination differently.
+            JUSTICE KENNEDY:  Well, if I find the text
+of the statute neutral or at least not clear, then it is
+proper for me to ask as a matter of efficiency where the
+burden should be placed, is it not?
+            MR. RUSSELL:  It is.  It is.  And my answer
+is that we do think that most of the facts going to
+reasonableness are in the employer's possession.
+            CHIEF JUSTICE ROBERTS:  Well, but the facts
+-- I mean, given discovery, that doesn't seem a very
+compelling case.  Once you require the employer to come
+up -- in other words, the burden of production -- and
+say, well, the reason we did it was this, then it's just
+a matter of discovery.  The plaintiff can say, oh, well,
+then let me depose that person who is the head of, you
+know, whatever the department.  If it's for safety
+reasons, for some reason, or training issues, well, then
+we depose the person who is in charge of training or
+safety and ask them those questions.  And it doesn't
+seem to me that the fact that the employer possesses the
+information, given very liberal discovery we have, is
+much of a factor.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+14
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+            MR. RUSSELL:  Well, that's true in every
+case in which informational disadvantages are cited as a
+reason for putting the burden of proof on one party or
+the other.  Discovery can always mitigate that
+disadvantage.
+            But we ultimately think, you know, if you
+find the statute so ambiguous as to think that it's a
+really critical consideration of what makes the most
+sense, then you ought to defer to the judgment of the
+EEOC on this question.
+            I would like to address if I could one
+specific --
+            JUSTICE GINSBURG:  But the argument was that
+EEOC never spoke to disparate impact?
+            MR. RUSSELL:  Well, it's certainly clear
+that the EEOC -- what their position is, and that they
+read their regulation as addressing disparate impact;
+and we think that, although it's an inartfully drafted
+regulation, by using the terms "individual claim of
+discriminatory treatment" rather than the term of art
+"disparate treatment," the language is broad enough to
+bear their reading, particularly when you see that it
+was enacted in the aftermath of a Department of Labor
+regulation that nobody disputes addresses
+disparate-impact cases, and it has no indication that
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+15
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+they were disavowing that position.
+            But if I could address the one other
+objective --
+            JUSTICE ALITO:  In this area of the law,
+"treatment" and "impact" are words that have
+tremendously different meaning.  Isn't it strange to
+argue that they used the term "treatment" when they
+really meant "impact"?
+            MR. RUSSELL:  Well, I -- I think that the
+terms of art are "adverse impact" and "disparate
+treatment."  And so that their failure to use either one
+of those, I think, supports the idea that they weren't
+talking about either one specifically.  I agree, it's --
+it's a hard to read regulation.
+            But if I could turn, for a moment, to the
+Adams Fruit objection, which is Respondent's insistence
+that this is not the kind of question that the Court
+should defer to an agency on.  My point is simply that
+this is a substantive question of law.  It's a question
+of whether reasonableness is an element of the unlawful
+employment practice in section 4(a)(2), the same kind of
+question this Court asked in Smith when it decided
+whether discriminatory intent was an element of the
+4(a)(2) cause of action.
+            And the -- Congress has delegated authority
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+16
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+to the EEOC to address those kinds of questions.  In
+fact, it went so far as to delegate to the authority --
+delegate to the EEOC the authority not only to construe
+the exceptions that are in the Act, but to create
+additional exceptions.  So I think Congress would be
+very surprised, indeed, to find out that this is not the
+sort of question to which it had delegated authority to
+the EEOC to answer.
+            If I could reserve the remainder of my time.
+            CHIEF JUSTICE ROBERTS:  Thank you, Counsel.
+            Mr. Joseffer.
+             ORAL ARGUMENT OF DARYL JOSEFFER
+             ON BEHALF OF THE UNITED STATES,
+                    AS AMICUS CURIAE,
+               SUPPORTING THE PETITIONERS
+            MR. JOSEFFER:  Mr. Chief Justice, and may it
+please the Court:
+            Congress enacted the ADEA against a settled
+background rule that defendants bear the burden of
+persuasion on affirmative defenses and other exceptions
+to liability.  And Congress made very clear in the
+statute that the "reasonable factors other than age"
+provision is precisely such an affirmative defense.  It
+did so first by saying that the provision applies to
+activities that are "otherwise prohibited by subsection
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+17
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+A."
+            That has to mean that liability for
+disparate impacts exists under subsection A without
+regard to whether the employment practice is based on
+reasonable factors other than age.  The latter inquiry
+is then a defense to the liability that would "otherwise
+exist" under subsection A.
+            The second is a point that Justice Ginsburg
+made, which is that this subsection (f)(1) lists three
+different defenses right in a row.  It appears to be
+common ground that the other two are clearly affirmative
+defenses as to which the employer bears the burden of
+persuasion.  And considering that all three are
+introduced by the same "otherwise prohibited" language
+and they are set forth in a single sentence separated
+only by commas, there is no basis for distinguishing
+among them.
+            Now, the defendant's main argument seems --
+            JUSTICE KENNEDY:  I'm not sure that if the
+statute contains three different conditions, three
+different commands, that it follows that the procedural
+implementations for all of these has to be the same.
+            Do you have any authority for that
+proposition?
+            MR. JOSEFFER:  No.  I mean, it's just a
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+18
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+matter of how to interpret the particular statute.  And
+since our point here is that this is a subsection on its
+face --
+            JUSTICE KENNEDY:  If you want to say that
+Congress was well aware of burden of persuasion, burden
+of production problems with affirmative action, then
+they wouldn't have drafted it this way, that's one
+thing.  I'm not sure that that's true.
+            JUSTICE SCALIA:  I suppose you could appeal
+to the maxim noscitur ex sociis, couldn't you --
+            MR. JOSEFFER:  Right.
+            JUSTICE SCALIA:  -- and say if it's in with
+two other chickens, it's probably a chicken?
+            MR. JOSEFFER:  Exactly.  I mean, words are
+generally known by the company they keep.  And with
+these three in a row, it would presumptively assume that
+they are all --
+            CHIEF JUSTICE ROBERTS:  These are not words.
+They are operative provisions of law.
+            MR. JOSEFFER:  Right.  They are three
+separate clauses that are set forth, introduced by the
+same, in our view, dispositive language, which is the
+"otherwise prohibited" phrase.
+            It's also the only way to make sense of the
+statute as a whole, because the defendant's view seems
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+19
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+to be that "because of age" under subsection (a)(2) and
+"reasonable factors other than age" under subsection
+(f)(1), should essentially be conflated such that the
+second, more specific provision is essentially
+surplusage.
+            JUSTICE ALITO:  Do you think that "based on
+reasonable factors other than age" in the ADEA means
+something different from because of such -- I'm sorry,
+that the -- because of an individual's age in the ADEA
+means something different from because of such
+individual's race, color, religion, sex or national
+origin?
+            MR. JOSEFFER:  It modifies -- it modifies
+something different.  "Based on reasonable factors other
+than age" modifies the underlying employment practice,
+the differentiation.  Over an (a)(2) -- and this was the
+basis of the Court's decision in Smith in part --
+"because of" does not modify the underlying employment
+practice.  It modifies the adverse effect of the
+unemployment practice.  In other words, the statute
+refers to -- and this is on page 1a of the blue brief
+appendix -- it refers to an employment practice such as
+a classification that adversely affects an individual
+because of that individual's age.
+            So "because of" logically modifies what
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+20
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+comes before it, which is "adverse effect."  And that's
+confirmed by the fact that the first sentence that talks
+about the employment practices is written in the plural,
+whereas "adverse effect" and "because of" are written in
+the singular with respect to individual, which is
+another point the Court made in footnote 6 in Smith.
+            And that also has to be the case because
+disparate impact liability is not based on intent.  It
+doesn't matter why the employer draft -- has the
+employment practice.  What matters is the effect.  So in
+any disparate impact case there are two basic inquiries:
+the first is, is there an adverse effect on the
+protected class; and the second is, has the business
+practice nonetheless justifiable.
+            And here Congress broke those two out.
+Subsection (a)(2) addresses is there an adverse effect
+on the -- on the protected class.  And then in (f)(1),
+Congress specifically addressed the justification
+standard.  That's one reason that we disagree with
+Petitioners about their four-part test.  Here Congress
+clearly -- here the first part of Wards Cove tells us
+whether there is an adverse effect under subsection
+(a)(2).  But then when it comes to the justification
+step, Congress clearly said that the justification is a
+reasonable factor other than age.  So there is no need
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+21
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+to read in a different justification standard from the
+second and third prongs of Wards Cove.
+            JUSTICE GINSBURG:  The problem is that you
+would be making this provision more generous to the
+plaintiff than -- for example, in Title VII the defense
+is business necessity; the employer has the burden of
+production; the employee has the burden of persuasion.
+Here you'd read -- you're saying you come into the
+covered category, you were shown because of age through
+impact, and then the burden -- the total burden is on
+the employer.
+            Am -- am I making myself clear here?
+            MR. JOSEFFER:  I think -- I think I
+understand the question.  This statute is far more
+employer-friendly in the standard than Title VII because
+it relies on the reasonable factors -- the
+reasonableness defense, which is a much lower standard
+than the business necessity test under Title VII.  That
+reflects the fact that there are more innocent
+explanations for age disparity.
+            The separate question here, though, on
+burden of persuasion, I think the key point there is
+that in Wards Cove this Court only had the equivalent of
+(a)(2) to work with.  So it had not much textual basis
+to go on with respect to the second and third factors of
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+22
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+Wards Cove and burden-shifting.  The Court had to do a
+lot of gap-filling once it recognized the disparate
+impact claim.
+            Since then, however, in every one of these
+related civil rights statutes that Congress has enacted,
+it has spoken more clearly on the justification stage;
+and has always in every one of these statutes put that
+burden on the defendant.  It did it in Equal Pay Act,
+according to this Court's decision in Corning Glass.  It
+did it in the revised Title VII.  It did it here.  And
+even in the Americans with Disabilities Act, Congress
+specified that business necessity is a "defense."
+            CHIEF JUSTICE ROBERTS:  Counsel, I was
+surprised not to see Chevron cited in your brief.  What
+-- what sort of deference do you think we should give
+the EEOC regulations here?
+            MR. JOSEFFER:  Auer -- in our view the
+regulation itself as far as it goes is entitled to
+Chevron deference, because it's a notice and comment
+rulemaking pursuant to delegated legislative authority.
+We recognize, however, that the regulation on its face
+is at best inartfully written; and therefore, the
+question is how to interpret the regulation.
+            We think EEOC's interpretation of its
+regulation in context is reasonable for a combination of
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+23
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+a few factors.  First, the Department of Labor
+contemporaneously enacted a regulation putting the
+burden on the employer in all cases.
+            Second, when the EEOC took over rulemaking
+authority, it didn't insert this unusual discriminatory
+treatment language in there, but the EEOC's position at
+that time and ever since has been that it did not intend
+a substantive change.
+            And third, discriminatory treatment, while
+it undoubtedly throws a real wrench in -- or wrinkle
+into things -- excuse me -- and takes us out of Chevron
+and into Auer, is not a term of art.  Disparate
+treatment is a term of art.  The regulations otherwise
+use the phrase "different treatment," but discriminatory
+treatment is at best confusing, especially
+considering --
+            CHIEF JUSTICE ROBERTS:  I'm sorry.  I
+thought Auer deference tells you how to interpret the
+regulation.  And having once interpreted the regulation,
+you need to know what to do with it.
+            MR. JOSEFFER:  My understanding of Auer
+deference is that the agency gets deference as the
+reasonable interpretation of its regulation.  And the
+agency has consistent --
+            CHIEF JUSTICE ROBERTS:  We know what the
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+24
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+regulation -- we give it deference; we know what the
+regulation means.  Now, does that regulation, as
+understood in light of Auer deference, get Chevron
+deference or something else?
+            MR. JOSEFFER:  It would get Chevron
+deference.  I mean, I think the two-step process is the
+regulation here, in our view, is clearly entitled to
+Chevron deference as far as it goes.  And if you defer
+under Auer to the agency's view of its regulation, then
+that makes the Chevron case.  But it's through the lens
+of Auer.
+            And finally, as a policy matter, Justice
+Kennedy, one can reasonably place this burden of
+persuasion either way.  I mean this Court put it one
+place in Wards Cove.  Congress immediately abrogated
+Wards Cove and put it in the other place.  The sky is
+not going to fall either way.  But even if the text
+wasn't so clear, one would logically put it on the
+employer for a few reasons:  First, all else being
+equal, the employer is at least in a better decision to
+explain the reasonableness of its very own business
+practice.
+            And, second, the parties are not ordinarily
+expected to prove a negative, which is what the
+plaintiff would have to do here.  And that's why in
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+25
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+every statute enacted after 1964, which is the first --
+            CHIEF JUSTICE ROBERTS:  Why is it proving a
+negative?  They would just have to prove that it was or
+was not a reasonable factor other than age.
+            MR. JOSEFFER:  Right, and --
+            JUSTICE KENNEDY:  Yes, and just adding on to
+the Chief Justice, it seems the employer is the one that
+would prove the negative.  He has to say there were no
+-- here is a whole universe of other frameworks, and
+none of these work.
+            MR. JOSEFFER:  No, it's a very simple
+two-part test.  Once the plaintiff has established an
+adverse effect, an adverse impact -- I mean, even the
+defendant agrees that presumptively establishes
+liability, because the defendant agrees to bear at least
+the burden of production at that point.
+            And the question for the employer is just to
+show that its business practices -- own business
+practice is reasonable, is supported by some reasonable
+factor other than age.  And it ought not be hard for an
+employer, especially considering that the reasonableness
+standard is not very daunting, to explain why its own
+business practice is reasonable.  And if an employer
+can't even persuade someone that its own business
+practice is reasonable, then the odds are that there is
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+26
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+a problem.
+            Thank you.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            Mr. Waxman.
+             ORAL ARGUMENT OF SETH P. WAXMAN
+              ON BEHALF OF THE RESPONDENTS
+            MR. WAXMAN:  Mr. Chief Justice, and may it
+please the Court:
+            I want to make an argument both from
+elegance and from function and from structure.  Under
+the employment discrimination -- a wide range of
+employment discrimination, beginning with this Court's
+decision in McDonnell Douglas, this Court has applied a
+three-step balance-shifting paradigm in order to help
+juries resolve the question of whether discrimination
+occurred.  In the disparate treatment cases there is a
+burden -- the first step, the plaintiff has to establish
+a prima facie case that he was the subject of disparate
+treatment because of his race or sex.
+            The burden of production then shifts to the
+defendant in order to explain, under disparate treatment
+cases, a legitimate nondiscriminatory reason, which
+eliminates the presumption consistent with Evidence Rule
+301, and the burden of proof then resumes on the
+plaintiff to prove discrimination because of the
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+27
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+prohibited characteristic.
+            Now, in Wards Cove, this Court looked both
+to Rule 301 and to the paradigm in other discrimination
+cases to apply a three-part test, in which there is a
+burden of proof to establish a presumption, a burden of
+production to neutralize it, and then a burden of proof
+to show because of race.
+            The Second Circuit has done exactly that in
+this case, and we think they are right not just because
+that harmonizes this Court's prior discrimination cases,
+and not just because three seems to be more elegant than
+the four steps that the Petitioners want or the two
+steps that the Government wants, but because it makes
+sense.
+            And this goes directly to the question, I
+think it was, that Justice Alito asked:  Whether or not
+the "reasonable factors other than age" inquiry is
+simply what's necessary to show liability, that is, that
+it was because of.
+            The ADEA doesn't prohibit disparate
+treatment.  It doesn't prohibit disparate impact.  It
+prohibits -- doesn't prohibit employment practices
+simply because they correlate negatively with age.  A
+plaintiff has to prove that he has suffered adverse
+employment action because of his age.  And the question
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+28
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+whether an employer based its action on reasonable
+factors other than age is part and parcel of that
+inquiry.  It's not a free-standing --
+            JUSTICE GINSBURG:  Mr. Waxman, the first
+part --
+            MR. WAXMAN:  -- confession and avoidance
+defense.
+            JUSTICE GINSBURG:  The way you phrased the
+first part, it sounded to me like you were going back to
+the interpretation that this Court rejected, that is,
+under the Age Discrimination Act there is only
+differential treatment, not neutral factor with a
+differential impact.
+            MR. WAXMAN:  No, not at all.  Not at all.
+If I said that, I certainly don't want to be mistaken.
+We are not up here arguing that there is no disparate
+impact theory of liability under the ADEA as there is
+under Title VII.  This Court resolved that question in
+Smith, and it resolved it in large part by reference to
+the "reasonable factors other than age" provision, which
+Justice Stevens' opinion for a plurality of the Court
+explained that, when you have a disparate treatment
+case, if the plaintiff proves that his -- his or her
+treatment -- if the defendant proves that it was because
+of something other than age, it isn't disparate
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+29
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+treatment.
+            The fact that there is an RFOA provision, we
+think, does reflect the fact that there is the potential
+for liability under disparate impact, but as this Court
+explained, it's narrower.  And it's narrower because --
+not only because the 1991 amendments didn't apply to age
+cases; it's narrower, because as this Court has
+recognized in almost every age case it has decided, age
+-- unlike race and sex and religion and national origin
+-- often does -- sad to say by somebody who is in his
+second decade of protection under the ADEA -- often does
+correlate with reasonable employment factors.
+            And the fact that all -- what it means is
+that at step one of the burden-shifting analysis, the
+Wards Cove analysis, which in a race or sex case
+establishes a strong presumption that the employment
+action was because of race or sex because there are so
+few employment characteristics that do correlate
+negatively with one's race or one's gender, it's a
+strong presumption which nonetheless need be met only by
+a burden of production.
+            This Court has recognized that in the age
+context, the presumption actually is quite weak.  And it
+would be more than perverse to adopt the Government's
+proposal, which is that notwithstanding the much weaker
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+30
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+inference, the burden of persuasion is now on the
+employer, not the employee.  And, in fact, the principal
+problem, I would say, with the Government the EEOC
+proposal --
+            JUSTICE STEVENS:  Mr. Waxman, what do you do
+about the language "otherwise prohibited"?
+            MR. WAXMAN:  Excuse me?
+            JUSTICE STEVENS:  What do you do about that
+language in the statute?
+            MR. WAXMAN:  May I just finish my sentence
+--
+            JUSTICE STEVENS:  Sure.
+            MR. WAXMAN:  -- Justice Stevens, and go
+right to "otherwise prohibited"?
+            The government's proposal under which, once
+the employer establishes the statistical disparity, the
+burden of proof shifts to the employer, equates what
+this Court has said over and over again is a prima facie
+case or a presumption into liability.  It would dictate
+precisely the opposite result that this Court found in
+St. Mary's Honor Center.  It would allow the jury, upon
+silence by the defendant, not to say, well, you may
+consider this presumption to be enough if you don't hear
+any other evidence.  It would tell the jury the proof of
+statistical disparity is proof of discrimination.  And
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+31
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+that's just wrong.
+            Now, "otherwise prohibited" --
+            JUSTICE STEVENS:  Even that, there's a
+question about not merely statistical disparity, but a
+causal connection between an identified practice --
+            MR. WAXMAN:  Right.
+            JUSTICE STEVENS:  -- in the disparity.
+            MR. WAXMAN:  That's exactly right.
+            Now, with respect to the structure of the
+statute and "otherwise prohibited," the -- my friends on
+the other side of this case turn almost everything on
+the fact that the "reasonable factors other than age"
+provision applies in -- in subsection (f) and is -- as
+Justice Ginsburg said -- is sandwiched in between two
+other provisions that, for argument's sake, let's just
+acknowledge are affirmative defenses on which the
+employer would bear the burden of proof.  And why
+doesn't that prove anything?
+            I'll go first to "otherwise prohibited" and
+then explain why the sandwich effect is no more
+persuasive here than it was to the Court in Betts.
+            "Otherwise prohibited" means that it is
+prohibited subject to the following conditions.  It
+doesn't say who bears the burden of those conditions.
+            What it reflects, Justice Stevens, is this
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+32
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+fact.  You could have taken everything that is in F and
+just put it into A, but you would then have had to put
+it into B and C and E.  And so what Congress said was --
+it didn't say not -- things that are prohibited in
+Section A won't be unlawful if X, Y and Z.  It says
+"otherwise prohibited" in those sections.
+            In other words, it doesn't -- it means
+nothing other than it's prohibited subject to the
+following conditions.  Now, I will acknowledge for
+argument's purposes -- and it actually suits my argument
+-- to show that the BFOQ defense and the
+foreign-employer defense are affirmative defenses.
+Because as we -- as we know from Black's Law Dictionary
+and this Court's decisions, Dixon, for example, an
+affirmative defense is a defense that says:  I admit the
+allegations of the complaint, but I have a justification
+for it that the law recognizes.
+            Now, that's --
+            JUSTICE SOUTER:  Isn't it -- isn't the --
+isn't the weak point in your argument the following:
+Your argument assumes that when the employer implicitly
+says I admit the allegations the complainant made, that
+the employer is admitting, in effect, to disparate
+treatment.  That he is saying:  I did it because it was
+my purpose to discriminate against the old.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+33
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+            But if we read the "because" language as
+also admitting the meaning, "I did it or it had an
+impact by reason of the age, regardless of my intent,"
+then this incongruity that you are arguing about
+disappears.
+            MR. WAXMAN:  No.  It is quite to the
+contrary, unless -- and it may be the case that I'm
+completely misunderstanding you.
+            The point is that at step one the plaintiff
+has to prove a statistical disparity, a substantial,
+negative, statistical correlation.  And that raises a
+presumption that what was otherwise a neutral -- appears
+to be a neutral factor was, in fact, because of age.
+That these --
+            JUSTICE SOUTER:  In other words, for the
+purpose of discriminating against the old.
+            MR. WAXMAN:  Whether it's --
+            JUSTICE SOUTER:  And that's -- that's
+disparate treatment.
+            MR. WAXMAN:  Well, no.  What this -- what
+this Court said in Griggs is there are proof problems.
+There are plenty of instances in which there is
+undiscovered, unreconciled, unacknowledged inferences
+about people.  And old people is the perfect example
+where there is no history of invidious discrimination.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+34
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+There is no prior hurdle that, unlike black people and
+women had to overcome -- which was another factor in
+Griggs.  It's that we all get old, and people have
+preconceptions sometimes about the enormity of
+limitations of age which may not be justified.
+            So the way that these defenses, the
+sandwich, if you will, works is the plaintiff under
+Wards Cove shows his statistical case.  It's a prima
+facie -- it shows that there is a disparate impact,
+period.  But the statute --
+            JUSTICE STEVENS:  Mr. Waxman, you have to
+keep in mind they are not just showing a disparate
+impact.  Because of a particular practice there is a
+disparate impact.  That's what you leave out.  So the
+quality of the practice is what is at issue, and the
+defendant doesn't come in and say I admit that it was
+unlawful.  He first tries to prove it was necessary, and
+he fails on that.  And if he fails on that, he has the
+lesser burden of proving reasonableness.
+            MR. WAXMAN:  No, well let -- let me see if I
+can't address Justice Souter's point first.  I do think
+I understand your point, which is what's wrong with the
+Petitioner's case.  But, Justice Souter, the point is
+that once a prima facie case is established in an age
+case -- let's just take the three provisions that are at
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+35
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+issue in (f)(1).
+            Under BFOQ, the employer gets up and says:
+Well, ladies and gentlemen, the judge is going to tell
+you that they have established a prima facie case that
+the way that these otherwise neutral -- that this was
+because of the plaintiff's age.  And you know what?  I
+admit it.  I, in fact, admit that it was by accident
+because of age.
+            JUSTICE SOUTER:  In an impact -- no.  In an
+impact case, he is saying:  I admit that the impact
+falls more heavily on the old.
+            MR. WAXMAN:  Correct.
+            JUSTICE SOUTER:  And -- and it seems to me
+that's all he has to admit in an impact case.  And he
+does so, and then he --
+            MR. WAXMAN:  What he basically says is:  I
+agree that age was the factor, but I have an excuse for
+it.  And, similarly, in the third exception, the
+foreign-employers exception, he comes in and says:  You
+have heard all of the statistics.  And you know what?  I
+did do this to disadvantage old people, because my plant
+is in a country that discriminates -- that makes it
+illegal for people over 65 to work.  But --
+            CHIEF JUSTICE ROBERTS:  But then he is
+not -- he didn't do it to discriminate against old
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+36
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+people.  He did it because the foreign country requires
+him --
+            MR. WAXMAN:  That's correct.  And that's why
+I admit -- I admit that I did this in a way that had a
+disparate impact on old people.  I did it, if you will,
+in order to -- I have a justification for it.  Whereas,
+in the reasonable factors other than age, the assertion
+is everybody understands that the plaintiff has the
+ultimate burden to prove that he or she suffered an
+adverse employment action because of age, not because of
+some factor that for entirely good reasons correlates
+with age.  And the showing that there is a statistical
+--
+            JUSTICE SOUTER:  Well, then you're -- then
+you're just saying that there -- that there is no such
+thing as a disparate-impact case.
+            MR. WAXMAN:  No.
+            JUSTICE SOUTER:  You're saying -- you're
+saying that there's got to be a disparate-treatment
+case.
+            MR. WAXMAN:  No, no; not at all.
+            JUSTICE SOUTER:  Well, then I'm not
+following you.
+            MR. WAXMAN:  Let's take their -- let's take
+their 50-pound hypothetical.  The employer says:  Okay,
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+37
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+from now on all of our employees have to be able to lift
+50 pounds over their head, you know, 10 times in 30
+seconds.  And older people or women -- let's say older
+people, you know, say:  Well, statistically, that has
+wiped us out.  That has had a substantial -- a
+substantial adverse effect on us because we are old, and
+we have less upper body strength.
+            The employer then gives -- comes forward
+with a legitimate, nondiscriminatory reason or a
+reasonable factor other than age, and says, for example,
+well, you know, this is -- we need our employees to be
+able to lift strong things.  If the plaintiff comes back
+and says, I am an accountant, that's not reasonable,
+it's a very different case than if this is a requirement
+imposed on stocking clerks in an auto parts -- auto
+parts shop where you do have to lift very heavy things
+over your head.
+            In other words, the paradigm that this Court
+set out in Wards Cove applies exactly the same way.  It
+applies a three-part test except that at step three the
+standard of justification is different.
+            And this, I think -- I hope, Justice
+Stephens, goes to your question.  In Wards Cove this
+Court said you show a prima facie case of a disparate
+impact.  The burden then -- the burden of production
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+38
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+then shifts to the employer to explain that it was --
+there is a business -- to articulate a business
+justification for the facially neutral requirement.
+            And what the plaintiff then has to do is
+bear the burden of proving that that wasn't a business
+necessity; that there is one other way, one other way in
+which it could have been done; and, therefore --
+            JUSTICE KENNEDY:  But you there agree that
+there is a distinction between "business necessity" and
+"business reasonableness"?
+            MR. WAXMAN:  Yes.  And, in fact, I think
+it's sort of embedded in the very opening of the blue
+brief in this case, where the Petitioner says:  Well,
+the Court has sometimes used the word "business
+justification," and the Court has sometimes used the
+word "business necessity," and we don't really think
+that means anything, so we use the words
+interchangeably.
+            But this case shows that it means everything
+because at step three of Wards Cove the petitioner --
+the plaintiff's burden is proving that it is -- that
+there is one other way -- that all you have to show is
+that it wasn't a necessity to do it that way in order to
+achieve your objective and the employee wins.
+            But because of the differential in
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+39
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+correlation between age and employment factors, in this
+case it is a business justification; that is, the
+employee has to come in and say it just wasn't
+reasonable to use that.
+            And this case is a perfect example.  Here we
+have a research lab that has one client.  It's the
+nuclear reactor division of the United States submarine
+unit.  And they come, and they say -- and there is no
+dispute about the facts here -- they say the Cold War is
+over.  We aren't going to have as much work for you.
+And since you're cost-plus, you're going to have to
+reduce your work force; and because we are in a
+different kind of war, we have new missions.  You are
+going to have to design and engineer and implement
+things that you hadn't done it before.  And so you need
+to figure out a way to go ahead and do this.
+            And what the company did was to go through
+all of its units and then subunits and sections, and
+say:  Given the new mission that the Navy has told us we
+are going to have to occupy, do you have people -- do
+you have more people than you're going to get paid for
+to do what you have to do?
+            If the answer is yes -- if the answer is no,
+you're fine.  If the answer is yes, please consider the
+following:  What are the skills within the people within
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+40
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+your section, subsection, or unit that are excess, that
+in light of the reduced and changed mission we don't
+need?  Identify those skills.  Then go through each one
+of your employees; and if it is an employee with that
+skill, rank them on a scale of 1 to 10 according to four
+different characteristics:  Seniority, which gives a
+benefit to older workers; recent job-performance
+ratings; the criticality of the other skills they have,
+do they have some other skill that is going to be
+required; and their flexibility -- how willing have they
+been, or are they, to learn new skills?
+            And the company has a training manual.  It
+goes through and trains the managers to do this.  It is
+approved by the Department of Energy and the Department
+of the Navy.  But after the managers engage in this
+analysis and prepare this matrix, they then have to
+justify it before a central review board, which the
+plaintiff's own expert acknowledged was set up in order
+to make the managers defend each decision and make sure
+that those judgments corresponded with overall
+management's responsibilities.
+            JUSTICE GINSBURG:  Still, the numbers, the
+way it came out, are rather startling.  That there were
+31 people who were RIF'd; and of those, 30 turn out to
+be over 40.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+41
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+            MR. WAXMAN:  That's correct.  And as the
+district court found and the court of appeals found,
+those were strikingly stark numbers.  They were so stark
+that they came to the immediate attention of the
+company's management and general counsel, Mr. Correa,
+who was -- who looked at this and said:  We are going to
+get sued for age discrimination.  What should we do
+about this?
+            And what he did about this, what the proof
+showed, is he went back and said:  Is each one of these
+decisions justifiable?  Did they really apply these
+factors?  He testified that he considered just saying:
+We'll go back and redo it so that the age distribution
+comes out right.  But he was concerned that the New York
+human rights law, which defines -- this is sort of
+astounding -- defines "older worker" as somebody over
+18, does have a reverse-discrimination provision.
+            But the point here is -- and, therefore, he
+decided:  We did this right; we used a matrix that
+unrebutted testimony said was the paradigm in industry.
+            JUSTICE GINSBURG:  But the terms
+"flexibility," "criticality" -- I mean the way you
+described it, it sounds very mechanical, mathematical.
+But those terms are -- they call for some human
+judgment.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+42
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+            MR. WAXMAN:  They definitely do.  And the
+second question that was presented in this case, which
+the Court didn't accept, was an assertion by the
+Petitioner that the Second Circuit had assertedly held
+that where a reasonable factor other than age derives
+from a subjective judgment, the Second Circuit had held
+that it was immune from review under disparate-impact
+theory, which, as the Government pointed out in its
+invitation brief, is not at all what the Second Circuit
+held.
+            The point is that this Court in Smith and
+earlier in Hazen Paper and earlier age cases was highly
+cognizant of the fact that unless there is a test that
+implies that -- that applies certainty for employers,
+there is going to be -- age -- if this standard isn't
+reasonable and if it isn't up to the other side to prove
+that it's unreasonable, employers are essentially going
+to take age into account.  They are going to do what
+Mr. Correa testified he wouldn't do, which is rejigger
+the results to come up with a -- a percentage that more
+approximated the balance in the work force.  And that,
+this Court has said repeatedly --
+            JUSTICE GINSBURG:  Well, maybe because he
+thought that, given the subjectivity of some of these
+factors, that there was at least unconscious age bias in
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+43
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+the decisions that were made.
+            MR. WAXMAN:  Well, Justice Ginsburg, that is
+why -- and it was testimony both from the employees in
+the case and from our uncross-examined expert and even
+their expert -- the review board -- the company set up a
+central review board which was trained and which
+examined every single manager about every single
+decision, whether you call it subjective or objective.
+            Now, the district court -- the trial court
+who heard the testimony said that he -- he deemed
+flexibility and criticality objective.  He said they
+were objective factors because of all the instructions
+that were given, which we have reprinted in the joint
+appendix in this case.  But even assuming -- and I
+certainly take your point, Justice Ginsburg, that if you
+ask a manager to evaluate an employee on the degree of
+criticality of that employee's skills or the flexibility
+of that employee, you can give her all the training in
+the world.  You can give her a 16-point checklist.
+Ultimately, you're relying on a judgment by a human
+being of another human being.
+            But why would we not want employers to do
+that?  Why would we want them to -- to retreat to the
+safe harbor of some safe quota.  You know, gee, we have
+a 60/40 split in our work force; and, wow, these
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+44
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+numbers, we did it according to Hoyle.  We've done --
+this is the paradigm RIF process, but go back and do it
+in a way that comes out with a specific set of numbers.
+            CHIEF JUSTICE ROBERTS:  Counsel, is your
+recent discussion about what happened here go simply to,
+I guess, your alternative argument, that we should
+affirm because you're right, regardless of who bears the
+burden; or does it really go to the legal question
+before us?
+            MR. WAXMAN:  Well, I think it goes to both.
+I mean it goes to -- it simply -- it certainly goes to
+the question over whether, whoever has the burden on
+reasonableness, you ought to do what you did in Smith
+and what the Eleventh Circuit did in Montalvo, which is
+the case you cited in Smith.  And in --
+            JUSTICE STEVENS:  Here we have a jury
+verdict that was affirmed by the court of appeals.
+            MR. WAXMAN:  Well, we have a jury verdict.
+We have a jury verdict under Wards Cove.  The court of
+appeals, as we pointed out in -- to the court of appeals
+the first time and in our petition for certiorari here
+the last time and to the court of appeals the second
+time and to this Court on pages 4, 5, and 7 of our brief
+in opposition this time -- the court of appeals was
+simply wrong in both step one and step three of Wards
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+45
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+Cove.  This is even assuming Wards Cove were the test.
+There is -- under step three of Wards Cove, which is how
+this case was tried, it was concededly the plaintiff's
+burden to prove that there was some other way, one other
+way, to do what the company wanted that established that
+this wasn't a business necessity.  And I will represent
+to the Court that in five and a half weeks of testimony
+there is not one sentence of evidence to that effect.
+            JUSTICE GINSBURG:  But that was taken out of
+it by Judge Jacobs when he redid it.  He said, we were
+on the wrong track with business necessity.  Business
+necessity is out.  It's only reasonable factor of age.
+            MR. WAXMAN:  What Judge Jacobs said is the
+case was tried under business necessity, under which the
+plaintiffs at least had to prove that there was some
+other way that the company could equally have achieved
+its objectives.
+            JUSTICE STEVENS:  Well, wasn't the issue of
+reasonable factor under age tried in the trial court
+when the case was tried?
+            MR. WAXMAN:  No, because the EEOC regulation
+at the time, regulation (d), which deals with
+disparate-impact cases, said that reasonable -- the
+reasonable factors other than age provision is proven
+by, and only by, the business-necessity defense, a
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+46
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+defense as to which the plaintiffs bear the burden.
+            And, in fact, in Wards Cove, the Government
+in Wards Cove was on the employer's side.  The
+Government urged the court to do exactly what it did.
+And under the Government's own regulation 1625.7(d), the
+burden of proving reasonable factors other than age was
+correctly on the plaintiff, but incorrectly equated with
+the substantive showing of business.
+            JUSTICE GINSBURG:  Is that --
+            JUSTICE STEVENS:  Am I correct to understand
+that your trial counsel then took the position you must
+prove business necessity?  I mean an absence of business
+necessity, rather than reasonableness.  They didn't
+advance their strongest defense.
+            MR. WAXMAN:  Well, no, we took the position
+that reasonable factors other than age was a separate
+test and was a separate defense.
+            JUSTICE STEVENS:  Right.
+            MR. WAXMAN:  The judge instructed the jury
+to the contrary and said under Wards Cove --
+            JUSTICE GINSBURG:  Was Judge Pooler wrong,
+then?  She said, in effect:  You forfeited reasonable
+factor other than sex, because you didn't bring it up.
+You were going on business necessity.
+            MR. WAXMAN:  Well, what happened was -- I
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+47
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+mean, Judge Pooler is wrong in certain respects, but not
+that respect.  We -- our answer pleaded reasonable
+factors other than age, but we didn't -- neither we nor
+our opponents asked for a separate instruction on
+reasonable factors other than age.  The jury was
+instructed on the Wards Cove analysis because --
+            JUSTICE GINSBURG:  The jury didn't hear a
+word about reasonable factors other than age.  They
+heard about business necessity.
+            MR. WAXMAN:  That's correct.  I mean that --
+and that's because -- you could say that it was a mutual
+mistake by everyone involved.  But the EEOC had directed
+under subsection (d) of its regulations that reasonable
+factor other than age could be established only by
+proving business necessity.  And both parties --
+            JUSTICE STEVENS:  As everybody now knows,
+that was wrong.
+            MR. WAXMAN:  That's correct.  And the -- my
+point is we are --  we are entitled to judgment in our
+favor.  We are entitled to an affirmance because, number
+one, the Second Circuit was correct that the burden of
+proving reasonableness was on them, and the -- the
+Petitioners have acknowledged expressly on page 53 of
+their blue brief that if in fact it is true that the
+Second -- if the Second Circuit is in fact correct, then
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+48
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+the judgment is affirmed, that is, they say when a --
+"While a defendant has no obligation to press an issue
+upon which the plaintiff bears the burden of proof --
+and therefore the Second Circuit may have been justified
+in reviewing the evidence of reasonableness in light of
+its holding that Petitioners bore the burden of proof"
+--
+            JUSTICE STEVENS:  But did you plead this as
+an affirmative defense?  Did you plead it as an
+affirmative defense?
+            MR. WAXMAN:  We pleaded it as a -- I can't
+bring the complaint to mind, but we pleaded it as a
+separately specified defense, yes.  We said, in our
+answer to the complaint, we said this is a reasonable
+factor other than age.
+            And so we are -- everyone acknowledges that
+if the Second Circuit is correct as to where the burden
+applies, the judgment should be affirmed.  Our
+submission is that the judgment has to be affirmed
+whether or not the burden applies as the Second Circuit
+held.
+            Thank you.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            Mr. Russell, you have four minutes
+remaining.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+49
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+              REBUTTAL ARGUMENT OF KEVIN K. RUSSELL
+                  ON BEHALF OF THE PETITIONERS
+            MR. RUSSELL:  I'd like to begin by
+addressing the general legal question that the Court
+granted cert on, and particularly going back to this
+idea, this assertion that the proof of the RFOA is
+somehow a negation of the obligation that the plaintiff
+has to prove that they have suffered a disparate impact
+because of age.  It is simply incorrect.  It's based --
+as, Justice Souter, I think you were suggesting in some
+of your questions -- on a confusion about what the
+"because of age" requirement is in a disparate-impact
+case under Section 4(a)(2).  The requirement under
+Section 4(a)(2) is simply to show that the effect of the
+practice is felt because of age, while the defense in
+the RFOA provision is to show that the practice itself
+is reasonable even though it has this effect.
+            JUSTICE ALITO:  Well, the practice -- if a
+practice correlates with a number of -- statistically
+correlates with a number of different factors, is it
+because of all of those factors?
+            MR. RUSSELL:  I think, under Wards Cove,
+this Court has said that it does, and so under Wards
+Cove you establish that the discrimination is felt by
+older workers because of age by showing that all the
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+50
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+workers as a group suffer disproportionately from it.
+            JUSTICE SOUTER:  Wards Cove, in other words,
+says "because" may mean "correlation" and it mean
+"purpose," either one.
+            MR. RUSSELL:  Yes.  I mean --
+            JUSTICE SOUTER:  Yes.
+            MR. RUSSELL:  But I think all you have to
+show under 4(a)(2) is that the practice tends to
+disadvantage older workers because of their age.  And so
+again in our weight -- weight example, the employer
+admits in our weight example that the effect of the
+neutral practice is to fall more heavily, is to restrict
+the employment opportunities of older workers because of
+age, but says, even if that's true -- even if there is a
+disparate impact because of age-- we are still entitled
+to the defense because the practice itself is
+reasonable.
+            It's also -- I would like to address the
+suggestion that Griggs is directed -- or disparate
+impact is directed at ferreting out intentional
+discrimination.  Certainly it serves that function in
+many cases, but that's not the sole purpose of it.  And
+it's simply not the purpose of the prima facie case in
+Wards Cove to give rise to an inference of intentional
+discrimination, and the fact that it doesn't as strongly
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+51
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+in the age case I think isn't a reason to think that
+Congress intended the courts to develop a different test
+for showing what's otherwise prohibited under 4(a)(2).
+            And, finally, if I could address some of the
+questions regarding what happened in this case.  This
+case, Justice Stevens, was not tried with reasonableness
+in mind, both because Respondents abandoned their
+"reasonable factor other than age" defense, which they
+had raised as an affirmative defense in their answer.  I
+believe Mr. Waxman is incorrect when he suggests that
+they in fact asked for instructions.
+            JUSTICE STEVENS:  Well, if he put in all the
+evidence he's described, that would not have proven
+business necessity.  It seems to me that evidence had to
+go to the issue of reasonableness.
+            MR. RUSSELL:  It may have been relevant to
+reasonableness, but that's not why it was put in.
+Before the trial began --
+            JUSTICE STEVENS:  Was he arguing that it was
+necessary to follow this one downsizing practice?
+            MR. RUSSELL:  They certainly, I think --
+they used that argument to show that they had a business
+justification and to try to rebut our showing of
+alternative, equally effective practices.  But it was
+clear by the time of trial that -- you know, they had
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+52
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+proposed jury instructions that didn't ask for
+reasonableness to be part of the case.  We proceeded
+with the case on the assumption that we would be
+entitled to prevail under these instructions so long
+that we showed that the current practice, reasonable or
+not, had a disparate impact and was subject to an
+equally effective alternative.
+            JUSTICE STEVENS:  And just one other detail,
+Did -- the district judge not instruct the jury on this
+defense?
+            MR. RUSSELL:  It did not.
+            JUSTICE STEVENS:  It did not?
+            MR. RUSSELL:  The only instruction was that
+we'd be entitled to prevail if we showed Wards Cove, and
+its --
+            JUSTICE STEVENS:  You have an unusual case
+where the decisive issue, at least when you get to this
+Court, is something the jury never passed on.
+            MR. RUSSELL:  Well, I think that's right.
+And ordinarily I think you would say that the
+defendants, by not raising the issue to the jury, if
+it's an affirmative defense, have waived it.  They ask
+for an excuse, given the change in law.  We don't think
+that the change in law excuses their failure to waive
+it.  The regulation that they point to they themselves
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+53
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+have argued here isn't entitled to much of any
+deference.  And, in fact, at the same time they were
+simultaneously arguing that there wasn't even any
+disparate-impact liability in the first place under the
+ADEA.  So I don't think they can actually claim that
+they were relying on that.
+            Thank you.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            The case is submitted.
+            (Whereupon, at 12:15 p.m. the case in the
+above-entitled matter was submitted.)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+54
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+A
+
+abandoned 52:7
+able 38:1,12
+above-entitled
+
+1:14 54:11
+
+abrogated 25:15
+absence 47:12
+absent 6:17 10:8
+accept 43:3
+access 13:21
+accident 36:7
+accommodated
+
+14:2
+
+account 7:16
+10:4 43:18
+accountant
+
+38:13
+
+achieve 39:24
+achieved 46:16
+acknowledge
+7:12 32:16
+33:9
+
+acknowledged
+41:18 48:23
+acknowledges
+
+49:16
+
+Act 3:14 10:19
+10:20,23 17:4
+23:8,11 29:11
+action 4:8 16:24
+
+19:6 28:25
+29:1 30:17
+37:10
+
+activities 17:25
+actual 4:12
+Adams 16:16
+adding 26:6
+addition 11:18
+additional 17:5
+address 15:11
+
+16:2 17:1
+35:21 51:18
+52:4
+
+addressed 7:22
+
+addresses 15:24
+
+21:18
+
+21:16
+
+addressing
+15:17 50:4
+ADEA 7:21
+
+17:18 20:7,9
+28:20 29:17
+30:11 54:5
+
+adequate 10:1
+adjusted 7:23
+admit 33:15,22
+35:16 36:7,7
+36:10,14 37:4
+37:4
+
+admits 51:11
+admitting 33:23
+
+34:2
+
+adopt 30:24
+advance 47:14
+adverse 16:10
+20:19 21:1,4
+21:12,16,22
+26:13,13 28:24
+37:10 38:6
+
+adversely 20:23
+affirm 45:7
+affirmance
+
+48:20
+
+affirmative 6:17
+6:19 8:13 9:24
+12:17,25 13:4
+17:20,23 18:11
+19:6 32:16
+33:12,15 49:9
+49:10 52:9
+53:22
+
+affirmed 45:17
+
+49:1,18,19
+
+aftermath 15:23
+age 3:13,13,24
+3:25 4:11,13
+5:16,19 7:6,9
+7:14,17,24 8:3
+8:7,8,19,20,23
+9:2,7,9,12,17
+9:21 10:2,21
+11:3,14,17
+14:4 17:22
+18:5 20:1,2,7,9
+
+20:15,24 21:25
+22:9,20 26:4
+26:20 28:17,23
+28:25 29:2,11
+29:20,25 30:6
+30:8,8,22
+32:12 34:3,13
+35:5,24 36:6,8
+36:17 37:7,10
+37:12 38:10
+40:1 42:7,13
+43:5,12,15,18
+43:25 46:12,19
+46:24 47:6,16
+48:3,5,8,14
+49:15 50:9,12
+50:15,25 51:9
+51:14,15 52:1
+52:8
+
+agency 16:18
+
+24:22,24
+
+agency's 25:9
+agree 6:9 16:13
+
+36:17 39:8
+agreed 7:25
+agrees 3:12
+26:14,15
+
+ahead 40:16
+AKA 1:8
+AL 1:4,9
+Alito 8:5,10 16:4
+
+20:6 28:16
+50:18
+
+allegations
+33:16,22
+allow 31:21
+alternative 3:24
+4:1,2 5:18 45:6
+52:24 53:7
+
+alternatives 4:5
+
+4:18 5:12
+
+ambiguous 15:7
+amendments
+
+30:6
+
+Americans
+
+23:11
+
+amicus 1:22 2:6
+
+55
+
+Alderson Reporting Company
+
+17:14
+
+analysis 9:14
+
+11:2 30:14,15
+41:16 48:6
+answer 3:21
+
+4:22 14:9 17:8
+40:23,23,24
+48:2 49:14
+52:9
+
+appeal 19:9
+appeals 42:2
+
+45:17,20,20,22
+45:24
+
+APPEARAN...
+
+appears 18:10
+
+1:17
+
+34:12
+
+44:14
+
+24:12,13
+
+articulate 39:2
+asked 16:22
+28:16 48:4
+52:11
+
+aspect 4:17
+assertedly 43:4
+assertion 37:7
+
+43:3 50:6
+
+Assistant 1:20
+assume 12:6
+
+19:16
+
+assumes 33:21
+assuming 44:14
+
+46:1
+
+assumption 53:3
+astounding
+
+Atomic 1:7 3:4
+attention 42:4
+Auer 23:17
+
+24:12,18,21
+25:3,9,11
+
+authority 16:25
+17:2,3,7 18:23
+23:20 24:5
+auto 38:15,15
+available 5:18
+
+7:19
+
+avoidance 29:6
+aware 13:9 19:5
+a.m 1:16 3:2
+
+B
+B 1:3 33:3
+back 29:9 38:12
+42:10,13 45:2
+50:5
+
+background
+
+17:19
+
+balance 43:21
+balance-shifting
+
+27:14
+bar 8:2
+based 8:7 11:13
+18:4 20:6,14
+21:8 29:1 50:9
+
+appendix 20:22
+
+42:16
+
+applied 27:13
+applies 5:3
+
+17:24 32:13
+38:19,20 43:14
+49:18,20
+
+apply 6:6 28:4
+
+30:6 42:11
+
+approved 41:14
+approximated
+
+43:21
+
+April 1:12
+area 16:4
+argue 16:7
+argued 54:1
+arguing 29:16
+
+34:4 52:19
+54:3
+
+argument 1:15
+2:2,10 3:3,7
+13:23 15:13
+17:12 18:18
+27:5,9 33:10
+33:20,21 45:6
+50:1 52:22
+argument's
+
+32:15 33:10
+
+arises 6:2
+art 15:20 16:10
+
+Official - Subject to Final Review
+
+basic 21:11
+basically 36:16
+basis 3:23,25
+
+7:10,10 11:17
+18:16 20:17
+22:24
+
+bear 13:21
+
+15:22 17:19
+26:15 32:17
+39:5 47:1
+
+bears 3:18 6:8
+
+6:13 18:12
+32:24 45:7
+49:3
+
+began 52:18
+beginning 27:12
+behalf 1:18,22
+
+1:24 2:4,6,9,12
+3:8 17:13 27:6
+50:2
+
+believe 52:10
+benefit 41:7
+benefits 10:13
+
+10:14
+
+best 23:22 24:15
+better 13:21
+
+25:20
+
+Betts 10:10
+
+32:21
+
+beyond 13:11,14
+BFOQ 12:25
+33:11 36:2
+
+bias 43:25
+black 35:1
+Black's 33:13
+blue 8:25 20:21
+
+39:12 48:24
+board 41:17
+
+44:5,6
+
+body 38:7
+bore 49:6
+brief 8:16,25
+20:21 23:14
+39:13 43:9
+45:23 48:24
+
+bring 47:23
+
+49:12
+
+broad 15:21
+broke 21:15
+burden 4:16,16
+6:8,13 11:13
+11:21,22,23
+12:1,3,6 13:16
+13:17,22,25
+14:8,15 15:3
+17:19 18:12
+19:5,5 22:6,7
+22:10,10,22
+23:8 24:3
+25:13 26:16
+27:17,20,24
+28:5,5,6 30:21
+31:1,17 32:17
+32:24 35:19
+37:9 38:25,25
+39:5,21 45:8
+45:12 46:4
+47:1,6 48:21
+49:3,6,17,20
+
+burden-shifting
+
+23:1 30:14
+buried 12:25
+business 3:14
+4:14 5:15,17
+5:21 9:3,5
+21:13 22:6,18
+23:12 25:21
+26:18,18,23,24
+39:2,2,5,9,10
+39:14,16 40:2
+46:6,11,11,14
+47:8,12,12,24
+48:9,15 52:14
+52:22
+
+business-nece...
+
+46:25
+
+C
+
+C 2:1 3:1 33:3
+call 42:24 44:8
+capacious 7:18
+capacity 13:11
+case 3:4,11 4:9
+4:17 7:2 8:12
+
+9:3 10:15
+13:13 14:14
+15:2 21:7,11
+25:10 27:18
+28:9 29:23
+30:8,15 31:19
+32:11 34:7
+35:8,23,24,25
+36:4,10,14
+37:16,20 38:14
+38:24 39:13,19
+40:2,5 43:2
+44:4,14 45:15
+46:3,14,20
+50:13 51:23
+52:1,5,6 53:2,3
+53:16 54:9,10
+cases 3:17 15:25
+24:3 27:16,22
+28:4,10 30:7
+43:12 46:23
+51:22
+
+catch-all 10:16
+category 11:3,3
+
+22:9
+
+causal 32:5
+cause 16:24
+Center 31:21
+central 41:17
+
+44:6
+
+cert 50:5
+certain 48:1
+certainly 11:4
+13:16 15:15
+29:15 44:15
+45:11 51:21
+52:21
+
+certainty 43:14
+certiorari 45:21
+change 24:8
+
+53:23,24
+
+changed 41:2
+characteristic
+
+28:1
+
+characteristics
+
+30:18 41:6
+charge 14:21
+
+checklist 44:19
+Chevron 23:14
+23:19 24:11
+25:3,5,8,10
+chicken 19:13
+chickens 19:13
+chief 3:3,9 7:2,5
+14:12 17:10,16
+19:18 23:13
+24:17,25 26:2
+26:7 27:3,7
+36:24 45:4
+49:23 54:8
+Circuit 28:8
+
+43:4,6,9 45:14
+48:21,25 49:4
+49:17,20
+
+cited 15:2 23:14
+
+45:15
+City 4:5
+civil 23:5
+claim 9:8 13:24
+
+13:25 15:19
+23:3 54:5
+
+claims 7:24,25
+class 21:13,17
+classification
+
+20:23
+
+classifying 9:7
+clauses 19:21
+clear 4:4 6:11,14
+
+10:6 14:6
+15:15 17:21
+22:12 25:18
+52:25
+
+clearly 12:24
+
+18:11 21:21,24
+23:6 25:7
+clerks 38:15
+client 40:6
+CLIFFORD 1:3
+close 8:11
+cognizant 43:13
+Cold 40:9
+color 20:11
+combination
+
+23:25
+
+come 8:11 14:14
+
+22:8 35:16
+40:3,8 43:20
+
+comes 10:18
+
+21:1,23 36:19
+38:8,12 42:14
+45:3
+
+commands
+
+18:21
+
+commas 18:16
+comment 23:19
+common 18:11
+company 19:15
+
+40:17 41:12
+44:5 46:5,16
+
+company's 42:5
+compelling 10:9
+
+10:11 14:14
+complainant
+
+33:22
+
+complaint 33:16
+
+49:12,14
+
+completely 34:8
+concededly 46:3
+concerned 42:14
+conclusion 9:16
+conclusively
+
+11:21
+
+conditions 18:20
+32:23,24 33:9
+
+conduct 5:3
+confession 29:6
+confirmed 21:2
+conflated 20:3
+confusing 24:15
+confusion 50:11
+Congress 5:8
+6:3,12,16,21
+6:24 7:2,13,22
+10:3,5,16 13:8
+13:16,24 14:1
+16:25 17:5,18
+17:21 19:5
+21:15,18,20,24
+23:5,11 25:15
+33:3 52:2
+
+connection 32:5
+
+56
+
+Alderson Reporting Company
+
+consider 4:17
+31:23 40:24
+consideration
+
+15:8
+
+considered
+
+42:12
+
+considering
+18:13 24:16
+26:21
+
+12:16
+
+24:2
+
+30:23
+
+consistent 24:24
+
+27:23
+
+construe 10:8
+
+17:3
+
+7:3
+
+construed 6:16
+
+contains 18:20
+contemplate
+
+contemporane...
+
+context 23:25
+
+contrary 6:18
+
+10:9 34:7
+47:20
+
+Corning 11:8
+
+23:9
+
+Correa 42:5
+
+43:19
+
+correct 36:12
+
+37:3 42:1
+47:10 48:10,18
+48:21,25 49:17
+
+correctly 47:7
+correlate 28:23
+
+30:12,18
+
+correlates 37:11
+
+50:19,20
+correlation
+34:11 40:1
+51:3
+
+corresponded
+
+41:20
+
+cost-plus 40:11
+counsel 17:10
+23:13 27:3
+42:5 45:4
+
+Official - Subject to Final Review
+
+47:11 49:23
+54:8
+
+counter-indic...
+
+criticality 41:8
+
+42:22 44:11,17
+curiae 1:22 2:7
+
+country 36:22
+
+current 53:5
+
+17:14
+
+10:11
+
+37:1
+
+course 7:6 10:10
+
+11:24
+
+court 1:1,15
+
+3:10 4:4,9 5:7
+6:3,15 7:3,13
+10:11 16:17,22
+17:17 21:6
+22:23 23:1
+25:14 27:8,13
+28:2 29:10,18
+29:21 30:4,7
+30:22 31:18,20
+32:21 34:21
+38:18,24 39:14
+39:15 42:2,2
+43:3,11,22
+44:9,9 45:17
+45:19,20,22,23
+45:24 46:7,19
+47:4 50:4,23
+53:18
+
+courts 3:20 6:21
+
+10:8 52:2
+
+Court's 20:17
+23:9 27:12
+28:10 33:14
+
+Cove 4:6 5:6,11
+6:7 7:21,23 8:3
+9:14 11:19
+21:21 22:2,23
+23:1 25:15,16
+28:2 30:15
+35:8 38:19,23
+39:20 45:19
+46:1,1,2 47:2,3
+47:20 48:6
+50:22,24 51:2
+51:24 53:14
+covered 22:9
+create 17:4
+critical 15:8
+
+D
+
+d 3:1 46:22
+
+48:13
+
+DARYL 1:20
+
+2:5 17:12
+
+daunting 26:22
+day 11:10
+dealing 14:3
+deals 46:22
+decade 30:11
+decide 3:20 4:20
+
+5:15,15
+
+decided 16:22
+
+30:8 42:19
+decision 14:2
+20:17 23:9
+25:20 27:13
+41:19 44:8
+
+decisions 33:14
+
+42:11 44:1
+
+decisive 53:17
+deemed 44:10
+defend 41:19
+defendant 7:19
+23:8 26:14,15
+27:21 29:24
+31:22 35:16
+49:2
+
+defendants 7:18
+
+17:19 53:21
+defendant's
+18:18 19:25
+
+defense 6:17,19
+7:18 8:13 9:25
+11:5 12:17
+13:5 17:23
+18:6 22:5,17
+23:12 29:7
+33:11,12,15,15
+46:25 47:1,14
+47:17 49:9,10
+
+49:13 50:15
+51:16 52:8,9
+53:10,22
+
+defenses 6:20
+12:25 17:20
+18:10,12 32:16
+33:12 35:6
+
+defer 15:9 16:18
+
+25:8
+
+deference 23:15
+23:19 24:18,22
+24:22 25:1,3,4
+25:6,8 54:2
+
+defines 42:15,16
+defining 6:25
+
+7:1,16
+
+definitely 43:1
+definition 6:23
+degree 44:16
+delegate 17:2,3
+delegated 16:25
+
+17:7 23:20
+department
+1:21 14:19
+15:23 24:1
+41:14,14
+
+depose 14:18,21
+deprive 9:12
+deprives 9:11
+derives 43:5
+describe 5:9
+described 42:23
+
+52:13
+
+design 40:14
+detail 53:8
+determine 5:16
+determined 6:10
+develop 52:2
+dictate 31:19
+Dictionary
+
+33:13
+
+difference 7:14
+
+7:16 8:22
+
+differences 10:1
+different 4:10
+6:6 8:24 10:4
+11:2,5 13:6
+
+14:2 16:6
+18:10,20,21
+20:8,10,14
+22:1 24:14
+38:14,21 40:13
+41:6 50:20
+52:2
+
+differential
+
+10:24 29:12,13
+39:25
+
+differentiation
+
+9:3 20:16
+
+differently 6:6
+
+7:17 14:4
+
+difficult 12:9
+difficulties
+
+12:13
+
+difficulty 12:10
+directed 48:12
+
+51:19,20
+
+directly 28:15
+Disabilities
+
+23:11
+
+disadvantage
+15:5 36:21
+51:9
+
+disadvantages
+
+disagree 12:22
+
+15:2
+
+21:19
+
+disagrees 6:3
+disappears 34:5
+disavowing 16:1
+discovery 14:13
+14:17,24 15:4
+
+discriminate
+3:25 33:25
+36:25
+
+discriminates
+3:23 36:22
+
+discriminating
+
+34:16
+
+discrimination
+3:14 5:19 7:6
+7:10,15,18,20
+7:24 8:4 10:2
+11:7 14:4
+
+57
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+27:11,12,15,25
+28:3,10 29:11
+31:25 34:25
+42:7 50:24
+51:21,25
+
+discriminatory
+
+15:20 16:23
+24:5,9,14
+
+discussion 45:5
+disparate 3:16
+8:18 9:8,20
+11:17 15:14,17
+15:21 16:10
+18:3 21:8,11
+23:2 24:12
+27:16,18,21
+28:20,21 29:16
+29:22,25 30:4
+33:23 34:19
+35:9,12,14
+37:5 38:24
+50:8 51:15,19
+53:6
+
+disparate-imp...
+
+15:25 37:16
+43:7 46:23
+50:12 54:4
+
+disparate-trea...
+
+37:19
+
+disparity 22:20
+31:16,25 32:4
+32:7 34:10
+dispositive
+
+disproportion...
+
+19:22
+
+51:1
+
+dispute 40:9
+disputes 15:24
+distinction 39:9
+distinguishing
+
+distribution
+
+18:16
+
+42:13
+
+district 42:2
+44:9 53:9
+
+division 40:7
+Dixon 33:14
+
+double 5:14
+Douglas 27:13
+downsizing
+
+52:20
+
+draft 21:9
+drafted 15:18
+
+D.C 1:11,18,21
+
+19:7
+
+1:24
+
+E
+
+E 2:1 3:1,1 33:3
+earlier 43:12,12
+EEOC 6:10
+
+15:10,14,16
+17:1,3,8 23:16
+24:4 31:3
+46:21 48:12
+EEOC's 23:24
+
+24:6
+
+effect 8:19 9:9
+
+9:17 20:19
+21:1,4,10,12
+21:16,22 26:13
+32:20 33:23
+38:6 46:8
+47:22 50:14,17
+51:11
+
+effective 52:24
+
+53:7
+
+efficiency 14:7
+either 4:16
+
+16:11,13 25:14
+25:17 51:4
+
+elegance 27:10
+elegant 28:11
+element 16:20
+
+16:23
+
+Eleventh 45:14
+eliminates 27:23
+embedded 39:12
+employee 9:10
+
+12:10 22:7
+31:2 39:24
+40:3 41:4
+44:16,18
+
+employees 13:18
+
+38:1,11 41:4
+44:3
+
+employee's
+
+13:11,15 44:17
+
+employer 6:13
+11:13,22 12:6
+12:25 14:14,23
+18:12 21:9
+22:6,11 24:3
+25:19,20 26:7
+26:17,21,23
+29:1 31:2,16
+31:17 32:17
+33:21,23 36:2
+37:25 38:8
+39:1 51:10
+
+employers 14:3
+43:14,17 44:22
+
+employer's
+
+13:20 14:11
+47:3
+
+employer-frie...
+
+22:15
+
+employment
+
+3:14 5:9 7:1,17
+7:19 8:6 11:16
+16:21 18:4
+20:15,18,22
+21:3,10 27:11
+27:12 28:22,25
+30:12,16,18
+37:10 40:1
+51:13
+
+enacted 15:23
+
+17:18 23:5
+24:2 26:1
+enacts 10:7
+Energy 41:14
+engage 41:15
+engineer 40:14
+enormity 35:4
+entirely 6:9 8:22
+
+13:8 37:11
+entitled 23:18
+25:7 48:19,20
+51:15 53:4,14
+54:1
+
+equal 10:19,19
+
+10:22 23:8
+25:20
+
+equally 46:16
+52:24 53:7
+equated 47:7
+equates 31:17
+equipoise 3:18
+equivalent
+
+22:23
+
+26:21
+
+especially 24:15
+
+ESQ 1:18,20,24
+
+2:3,5,8,11
+
+essentially 20:3
+
+20:4 43:17
+establish 4:24
+5:11 11:20
+27:17 28:5
+50:24
+
+established
+
+26:12 35:24
+36:4 46:5
+48:14
+
+establishes
+
+26:14 30:16
+31:16
+
+establishing
+
+6:16
+
+ET 1:4,9
+evaluate 44:16
+everybody 37:8
+
+48:16
+
+evidence 27:23
+
+31:24 46:8
+49:5 52:13,14
+
+ex 19:10
+exactly 19:14
+
+28:8 32:8
+38:19 47:4
+
+examined 44:7
+example 8:16
+
+11:8 22:5
+33:14 34:24
+38:10 40:5
+51:10,11
+
+exception 6:12
+
+6:15 13:3
+36:18,19
+
+exceptions 17:4
+
+17:5,20
+
+excess 41:1
+excuse 24:11
+31:7 36:17
+53:23
+
+excuses 53:24
+exist 18:7
+existence 4:2,5
+existing 4:13
+exists 18:3
+expected 25:24
+expert 41:18
+
+44:4,5
+
+explain 25:21
+26:22 27:21
+32:20 39:1
+
+explained 29:22
+
+30:5
+
+explanations
+
+22:20
+
+expression
+
+10:18
+
+expressly 48:23
+extending 7:20
+
+F
+
+f 18:9 20:3 21:17
+
+32:13 33:1
+36:1
+
+face 19:3 23:21
+facially 9:10
+11:9 39:3
+facie 27:18
+
+31:18 35:9,24
+36:4 38:24
+51:23
+
+fact 4:10 6:21
+9:19 14:23
+17:2 21:2
+22:19 30:2,3
+30:13 31:2
+32:12 33:1
+34:13 36:7
+39:11 43:13
+
+58
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+47:2 48:24,25
+51:25 52:11
+54:2
+
+factor 3:13 4:11
+5:16 7:9 10:20
+10:21 11:1,14
+14:25 21:25
+26:4,20 29:12
+34:13 35:2
+36:17 37:11
+38:10 43:5
+46:12,19 47:23
+48:14 49:15
+52:8
+
+factors 8:8 9:2
+
+12:8 13:19
+17:22 18:5
+20:2,7,14
+22:16,25 24:1
+28:17 29:2,20
+30:12 32:12
+37:7 40:1
+42:12 43:25
+44:12 46:24
+47:6,16 48:3,5
+48:8 50:20,21
+facts 14:3,10,12
+
+40:9
+
+fails 35:18,18
+failure 16:11
+
+53:24
+
+fall 25:17 51:12
+falls 9:15 36:11
+far 17:2 22:14
+
+23:18 25:8
+
+favor 9:24 48:20
+Federal 7:19
+feeling 9:17
+felt 8:20 9:20
+
+50:15,24
+
+ferreting 51:20
+figure 6:21
+
+40:16
+
+finally 25:12
+
+52:4
+
+find 10:24 14:5
+
+15:7 17:6
+
+fine 40:24
+finish 31:10
+first 4:1 5:14
+9:14 10:23
+17:24 21:2,12
+21:21 24:1
+25:19 26:1
+27:17 29:4,9
+32:19 35:17,21
+45:21 54:4
+
+five 46:7
+flexibility 41:10
+42:22 44:11,17
+
+folks 11:10,11
+follow 52:20
+following 32:23
+33:9,20 37:23
+40:25
+
+follows 18:21
+footnote 21:6
+force 40:12
+
+43:21 44:25
+foreign 13:3
+
+foreign-emplo...
+
+foreign-emplo...
+
+37:1
+
+33:12
+
+36:19
+
+forfeited 47:22
+forgot 13:1
+format 13:10
+former 8:11,11
+forms 10:2
+formulation
+
+10:7,22
+
+forth 18:15
+
+19:21
+
+forward 38:8
+found 4:9 10:11
+
+31:20 42:2,2
+four 28:12 41:5
+
+49:24
+
+four-part 21:20
+frameworks
+
+free-standing
+
+26:9
+
+29:3
+
+friend 7:5
+friends 32:10
+Fruit 16:16
+full 11:19
+function 5:19
+27:10 51:21
+
+G
+
+G 3:1
+gap-filling 23:2
+gee 44:24
+gender 30:19
+general 1:21
+42:5 50:4
+
+generally 19:15
+generous 22:4
+gentlemen 36:3
+getting 11:11
+Ginsburg 5:13
+10:18 12:23
+13:4 15:13
+18:8 22:3 29:4
+29:8 32:14
+41:22 42:21
+43:23 44:2,15
+46:9 47:9,21
+48:7
+
+give 10:1 23:15
+25:1 44:18,19
+51:24
+
+given 14:13,24
+40:19 43:24
+44:13 53:23
+gives 38:8 41:6
+Glass 11:8 23:9
+go 10:25 22:25
+31:13 32:19
+40:16,17 41:3
+42:13 45:2,5,8
+52:15
+
+goes 23:18 25:8
+
+28:15 38:23
+41:13 45:10,11
+45:11
+
+going 14:10
+25:17 29:9
+36:3 40:10,11
+
+40:14,20,21
+41:9 42:6
+43:15,17,18
+47:24 50:5
+good 37:11
+Government
+28:13 31:3
+43:8 47:2,4
+government's
+30:24 31:15
+47:5
+
+granted 50:5
+gravamen 13:13
+Griggs 34:21
+35:3 51:19
+ground 18:11
+grounded 13:23
+
+13:25
+
+grounds 6:9
+group 9:16 51:1
+guess 45:6
+H
+half 46:7
+happened 45:5
+
+47:25 52:5
+happens 3:17
+harbor 44:24
+hard 16:14
+
+26:20
+
+harder 5:24
+
+7:24
+
+harmonizes
+
+28:10
+
+Hazen 43:12
+head 14:18 38:2
+
+hear 3:3 31:23
+
+38:17
+
+48:7
+
+heard 36:20
+44:10 48:9
+heavily 9:15
+36:11 51:12
+heavy 38:16
+held 43:4,6,10
+
+49:21
+
+help 27:14
+
+highly 43:12
+history 10:12
+
+34:25
+
+holding 49:6
+Honor 31:21
+hope 38:22
+Hoyle 45:1
+human 42:15,24
+
+44:20,21
+hurdle 35:1
+hypothetical
+3:22 37:25
+
+I
+
+idea 16:12 50:6
+identical 5:8
+identified 32:5
+Identify 41:3
+illegal 36:23
+immediate 42:4
+immediately
+
+25:15
+
+immune 43:7
+impact 3:16
+8:18 9:20
+11:17 15:14,17
+16:5,8,10 21:8
+21:11 22:10
+23:3 26:13
+28:21 29:13,17
+30:4 34:3 35:9
+35:13,14 36:9
+36:10,10,14
+37:5 38:25
+50:8 51:15,20
+53:6
+
+impacts 18:3
+implement
+
+40:14
+
+18:22
+
+implementati...
+
+implicitly 33:21
+implies 43:14
+important 3:11
+
+10:5
+
+imposed 13:17
+13:25 38:15
+
+59
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+inartfully 15:18
+
+intentional 11:7
+
+impossible
+13:15,24
+impression
+
+10:22
+
+23:22
+
+34:4
+
+52:10
+
+incongruity
+
+incorrect 50:9
+
+incorrectly 47:7
+indicates 14:1
+indication 10:9
+
+15:25
+
+indications 6:17
+individual 15:19
+
+20:23 21:5
+
+individual's 8:7
+
+20:9,11,24
+
+industry 42:20
+inference 31:1
+
+51:24
+
+inferences 34:23
+information
+
+informational
+
+14:24
+
+15:2
+
+innocent 22:19
+inquiries 21:11
+inquiry 5:14
+18:5 28:17
+29:3
+
+insert 24:5
+insistence 16:16
+instances 7:8
+
+34:22
+
+instruct 53:9
+instructed 47:19
+
+instruction 48:4
+
+48:6
+
+53:13
+
+instructions
+44:12 52:11
+53:1,4
+
+intend 24:7
+intended 6:21
+6:23 10:16
+
+52:2
+
+intent 6:18
+16:23 21:8
+34:3
+
+51:20,24
+
+interchangeably
+
+39:18
+
+interests 14:3
+interpret 19:1
+23:23 24:18
+interpretation
+
+10:6 23:24
+24:23 29:10
+
+interpreted
+
+24:19
+
+introduced
+
+18:14 19:21
+
+invidious 34:25
+invitation 43:9
+involved 48:12
+issue 35:15 36:1
+
+46:18 49:2
+52:15 53:17,21
+
+issues 14:20
+
+J
+
+Jackson 4:5
+Jacobs 46:10,13
+job-performa...
+
+41:7
+
+joint 44:13
+Joseffer 1:20 2:5
+
+17:11,12,16
+18:25 19:11,14
+19:20 20:13
+22:13 23:17
+24:21 25:5
+26:5,11
+
+judge 36:3 46:10
+46:13 47:19,21
+48:1 53:9
+
+judgment 15:9
+
+42:25 43:6
+44:20 48:19
+49:1,18,19
+judgments
+
+41:20
+
+juries 27:15
+jury 31:21,24
+45:16,18,19
+47:19 48:5,7
+53:1,9,18,21
+Justice 1:21 3:3
+3:9,22 4:15,21
+5:1,13 7:5 8:5
+8:10 10:18
+11:23 12:1,5
+12:18,23 13:4
+13:9 14:5,12
+15:13 16:4
+17:10,16 18:8
+18:19 19:4,9
+19:12,18 20:6
+22:3 23:13
+24:17,25 25:12
+26:2,6,7 27:3,7
+28:16 29:4,8
+29:21 31:5,8
+31:12,13 32:3
+32:7,14,25
+33:19 34:15,18
+35:11,21,23
+36:9,13,24
+37:14,18,22
+38:22 39:8
+41:22 42:21
+43:23 44:2,15
+45:4,16 46:9
+46:18 47:9,10
+47:18,21 48:7
+48:16 49:8,23
+50:10,18 51:2
+51:6 52:6,12
+52:19 53:8,12
+53:16 54:8
+
+justifiable 21:14
+
+42:11
+
+justification
+21:18,23,24
+22:1 23:6
+33:16 37:6
+38:21 39:3,15
+40:2 52:23
+
+justified 35:5
+
+49:4
+
+justify 41:17
+
+K
+
+K 1:18 2:3,11
+
+3:7 50:1
+KAPL 1:8
+keep 19:15
+
+35:12
+
+Kennedy 3:22
+4:15,21 5:1
+11:23 12:1,5
+12:18 13:9
+14:5 18:19
+19:4 25:13
+26:6 39:8
+
+KEVIN 1:18 2:3
+
+2:11 3:7 50:1
+
+key 22:22
+kind 10:15
+
+16:17,21 40:13
+kinds 7:15 17:1
+Knolls 1:7 3:4
+know 6:22 14:19
+15:6 24:20,25
+25:1 33:13
+36:6,20 38:2,4
+38:11 44:24
+52:25
+
+known 19:15
+knows 10:6
+
+48:16
+
+L
+lab 40:6
+Labor 15:23
+
+24:1
+
+3:5
+
+Laboratory 1:8
+
+ladies 36:3
+language 5:7,8
+6:5,5,11 7:2,4
+9:1,5,23 15:21
+18:14 19:22
+24:6 31:6,9
+34:1
+
+large 29:19
+law 13:3 16:4,19
+19:19 33:13,17
+42:15 53:23,24
+
+law's 10:13
+layering 6:2
+learn 41:11
+leave 3:20 35:14
+left 5:18 6:7 8:3
+legal 45:8 50:4
+legislative 6:18
+10:12 23:20
+
+legitimate 27:22
+
+38:9
+
+lens 25:10
+lesser 35:19
+let's 32:15 35:25
+37:24,24 38:3
+liability 6:12,15
+
+8:14 11:20
+17:21 18:2,6
+21:8 26:15
+28:18 29:17
+30:4 31:19
+54:4
+
+liberal 14:24
+lift 38:1,12,16
+light 4:22 25:3
+
+41:2 49:5
+
+limitations 35:5
+limiting 9:6
+lists 18:9
+logically 20:25
+
+25:18
+
+long 6:16 53:4
+look 5:12 8:25
+
+9:5
+
+looked 28:2 42:6
+looks 4:12
+lot 23:2
+lower 22:17
+lowered 8:2
+
+M
+
+main 18:18
+making 5:24
+
+22:4,12
+
+60
+
+Alderson Reporting Company
+
+management
+
+management's
+
+manager 44:7
+
+42:5
+
+41:21
+
+44:16
+
+managers 41:13
+
+41:15,19
+
+manual 41:12
+Mary's 31:21
+mathematical
+
+matrix 41:16
+
+42:23
+
+42:19
+
+matter 1:14 14:7
+
+14:17 19:1
+21:9 25:12
+54:11
+
+matters 21:10
+maxim 19:10
+McDonnell
+
+27:13
+
+Meacham 1:3
+
+3:4
+
+mean 5:21 10:17
+14:13 18:2,25
+19:14 25:6,14
+26:13 42:22
+45:11 47:12
+48:1,10 51:3,3
+51:5
+
+meaning 5:10
+
+16:6 34:2
+
+means 13:11,15
+20:7,10 25:2
+30:13 32:22
+33:7 39:17,19
+
+meant 16:8
+mechanical
+
+42:23
+
+men 10:24 11:11
+mentioned 10:3
+mentioning 9:22
+merely 32:4
+met 30:20
+middle 13:6
+mind 35:12
+
+Official - Subject to Final Review
+
+49:12 52:7
+
+minutes 49:24
+mission 40:19
+
+41:2
+
+missions 40:13
+mistake 48:12
+mistaken 29:15
+misunderstan...
+
+34:8
+
+mitigate 15:4
+modest 11:22
+modification
+
+modifications
+
+6:23
+
+7:21
+
+modifies 20:13
+
+20:13,15,19,25
+
+modify 20:18
+moment 16:15
+Montalvo 45:14
+mutual 48:11
+
+N
+N 2:1,1 3:1
+narrow 3:12
+narrower 7:7
+
+30:5,5,7
+
+national 20:11
+
+30:9
+
+Navy 40:19
+
+41:15
+
+necessary 4:16
+
+4:19,21,23
+8:13 28:18
+35:17 52:20
+necessity 5:15
+5:17,21 22:6
+22:18 23:12
+39:6,9,16,23
+46:6,11,12,14
+47:12,13,24
+48:9,15 52:14
+
+need 21:25
+
+24:20 30:20
+38:11 40:15
+41:3
+
+negate 8:10
+
+negates 9:20
+negating 8:11
+negation 50:7
+negative 25:24
+26:3,8 34:11
+
+negatively 28:23
+
+30:19
+
+neither 11:7
+
+48:3
+
+neutral 9:10,11
+11:9,16 14:6
+29:12 34:12,13
+36:5 39:3
+51:12
+
+neutralize 28:6
+never 7:3 15:14
+
+53:18
+
+new 40:13,19
+41:11 42:14
+
+night 11:10
+nondiscrimin...
+
+4:2
+
+nondiscrimin...
+
+27:22 38:9
+
+nonpersuasion
+
+3:19
+
+noscitur 19:10
+notice 23:19
+notwithstandi...
+
+30:25
+
+nuclear 40:7
+number 48:20
+
+50:19,20
+
+numbers 41:22
+
+42:3 45:1,3
+
+O
+O 2:1 3:1
+objection 9:25
+
+16:16
+
+objective 16:3
+39:24 44:8,11
+44:12
+
+objectives 46:17
+obligation 49:2
+
+50:7
+
+occupy 40:20
+
+occurred 27:16
+odd 13:8
+odds 26:25
+oh 14:17
+Okay 37:25
+old 33:25 34:16
+
+34:24 35:3
+36:11,21,25
+37:5 38:6
+
+older 3:16 8:19
+
+9:15 38:3,3
+41:7 42:16
+50:25 51:9,13
+once 5:16 14:14
+
+23:2 24:19
+26:12 31:15
+35:24
+
+one's 30:19,19
+opening 39:12
+operative 19:19
+opinion 29:21
+opponents 48:4
+opportunities
+9:12 51:13
+opposed 9:18
+opposite 31:20
+opposition
+
+45:24
+
+oral 1:14 2:2 3:7
+
+17:12 27:5
+order 4:20,23
+
+5:10 7:24
+27:14,21 37:6
+39:23 41:18
+
+ordinarily 25:23
+
+53:20
+
+ordinary 9:24
+
+origin 20:12
+
+10:8
+
+30:9
+
+ought 15:9
+
+26:20 45:13
+
+outset 4:22
+overall 41:20
+overcome 35:2
+
+P
+
+P 1:24 2:8 3:1
+
+27:5
+
+page 2:2 8:25
+9:4,5 20:21
+48:23
+
+pages 45:23
+paid 11:11 40:21
+Paper 43:12
+paradigm 27:14
+
+28:3 38:18
+42:20 45:2
+parcel 29:2
+part 20:17 21:21
+
+29:2,5,9,19
+53:2
+
+particular 10:7
+
+19:1 35:13
+particularly
+15:22 50:5
+parties 25:23
+
+48:15
+
+parts 38:15,16
+party 3:18 15:3
+passed 53:18
+pay 10:19,20,22
+10:24,25 23:8
+
+paying 11:10
+people 9:12
+
+34:24,24 35:1
+35:3 36:21,23
+37:1,5 38:3,4
+40:20,21,25
+41:24
+
+percentage
+
+43:20
+
+perfect 12:21
+34:24 40:5
+perform 5:20
+period 35:10
+person 14:18,21
+persuade 26:24
+persuasion 4:17
+
+12:2,3 13:1
+17:20 18:13
+19:5 22:7,22
+25:14 31:1
+persuasive
+
+61
+
+Alderson Reporting Company
+
+32:21
+
+perverse 30:24
+petition 45:21
+petitioner 39:13
+
+39:20 43:4
+
+Petitioners 1:5
+1:19,23 2:4,7
+2:12 3:8 17:15
+21:20 28:12
+48:23 49:6
+50:2
+
+Petitioner's
+
+phrase 19:23
+
+35:23
+
+24:14
+
+phrased 29:8
+phrasing 12:16
+place 8:3 25:13
+25:15,16 54:4
+
+placed 14:8
+plaintiff 5:25
+
+9:17,21 11:16
+11:18 14:17
+22:5 25:25
+26:12 27:17,25
+28:24 29:23
+34:9 35:7 37:8
+38:12 39:4
+47:7 49:3 50:7
+
+plaintiffs 7:21
+
+8:2 11:8 46:15
+47:1
+
+plaintiff's 7:1
+36:6 39:21
+41:18 46:3
+
+plan 12:7
+plant 36:21
+play 7:9
+plead 49:8,9
+pleaded 48:2
+
+49:11,12
+please 3:10
+17:17 27:8
+40:24
+
+plenty 34:22
+plural 21:3
+plurality 29:21
+
+Official - Subject to Final Review
+
+33:4,6,8 52:3
+prohibition 7:7
+prohibits 28:22
+prongs 22:2
+proof 3:17 6:13
+7:4 11:7 15:3
+27:24 28:5,6
+31:17,24,25
+32:17 34:21
+42:9 49:3,6
+50:6
+
+proper 14:7
+proposal 30:25
+
+31:4,15
+
+proposed 53:1
+proposition
+
+protected 21:13
+
+18:24
+
+21:17
+
+protection 30:11
+prove 7:24
+
+25:24 26:3,8
+27:25 28:24
+32:18 34:10
+35:17 37:9
+43:16 46:4,15
+47:12 50:8
+proven 46:24
+
+52:13
+
+proves 29:23,24
+providing 7:17
+
+10:5
+
+proving 26:2
+
+35:19 39:5,21
+47:6 48:15,22
+provision 3:13
+
+4:12,24 5:3 9:1
+10:16 12:17
+17:23,24 20:4
+22:4 29:20
+30:2 32:13
+42:17 46:24
+50:16
+
+provisions 8:24
+
+19:19 32:15
+35:25
+
+purpose 33:25
+
+34:16 51:4,22
+51:23
+
+purposes 33:10
+pursuant 23:20
+put 23:7 25:14
+25:16,18 33:2
+33:2 52:12,17
+
+putting 5:23
+15:3 24:2
+p.m 54:10
+Q
+
+quality 35:15
+question 3:12,16
+
+3:19 6:7,10
+7:23 12:14
+15:10 16:17,19
+16:19,22 17:7
+22:14,21 23:23
+26:17 27:15
+28:15,25 29:18
+32:4 38:23
+43:2 45:8,12
+50:4
+
+questions 5:12
+
+14:22 17:1
+50:11 52:5
+quite 4:4,10
+
+6:11 8:17,18
+8:21 10:5
+30:23 34:6
+quota 44:24
+
+R
+
+R 3:1
+race 7:11 20:11
+
+27:19 28:7
+30:9,15,17,19
+
+raised 52:9
+raises 34:11
+raising 53:21
+range 27:11
+rank 41:5
+ratings 41:8
+reach 9:16
+reactor 40:7
+read 15:17
+
+point 7:6 10:15
+11:21 12:14,23
+13:5 16:18
+18:8 19:2 21:6
+22:22 26:16
+33:20 34:9
+35:21,22,23
+42:18 43:11
+44:15 48:19
+53:25
+
+pointed 7:13
+43:8 45:20
+points 9:23
+policy 25:12
+Pooler 47:21
+
+48:1
+
+position 15:16
+
+16:1 24:6
+47:11,15
+
+possesses 14:23
+possession 13:20
+
+14:11
+
+possible 8:17,21
+post 5:22
+potential 30:3
+pounds 38:2
+Power 1:7 3:4
+practice 3:14
+
+4:13,14 5:9 7:1
+7:17 8:6,21 9:4
+9:6,10,11,15
+11:9,17 16:21
+18:4 20:15,19
+20:20,22 21:10
+21:14 25:22
+26:19,23,25
+32:5 35:13,15
+50:15,16,18,19
+51:8,12,16
+52:20 53:5
+
+prepare 41:16
+presented 43:2
+presents 3:11
+press 49:2
+presumption
+27:23 28:5
+30:16,20,23
+31:19,23 34:12
+
+presumptively
+19:16 26:14
+pretext 5:19
+prevail 53:4,14
+pre-1991 5:22
+prima 27:18
+
+31:18 35:8,24
+36:4 38:24
+51:23
+
+principal 9:25
+
+31:2
+
+35:1
+
+prior 9:4 28:10
+
+probably 19:13
+problem 5:14
+
+22:3 27:1 31:3
+
+problematic
+
+problems 19:6
+
+procedural
+
+10:23
+
+34:21
+
+18:21
+
+proceeded 53:2
+process 25:6
+
+45:2
+
+production 4:16
+
+11:23 12:6
+13:1 14:15
+19:6 22:7
+26:16 27:20
+28:6 30:21
+38:25
+
+practices 21:3
+26:18 28:22
+52:24
+
+precisely 17:23
+
+preconceptions
+
+31:20
+
+35:4
+
+prohibit 28:20
+
+28:21,22
+
+prohibited 5:4,5
+
+17:25 18:14
+19:23 28:1
+31:6,14 32:2
+32:10,19,22,23
+
+62
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+16:14 22:1,8
+34:1
+
+readily 5:17
+reading 9:24
+
+15:22
+
+real 24:10
+really 8:13 15:8
+
+16:8 39:16
+42:11 45:8
+
+reason 9:18 12:8
+14:16,20 15:3
+21:19 27:22
+34:3 38:9 52:1
+reasonable 3:13
+3:15,24 4:1,11
+5:16 7:9 8:8,22
+9:2 10:21
+17:22 18:5
+20:2,7,14
+21:25 22:16
+23:25 24:23
+26:4,19,19,23
+26:25 28:17
+29:1,20 30:12
+32:12 37:7
+38:10,13 40:4
+43:5,16 46:12
+46:19,23,24
+47:6,16,22
+48:2,5,8,13
+49:14 50:17
+51:17 52:8
+53:5
+
+reasonableness
+3:18 4:12 6:8
+13:19 14:11
+16:20 22:17
+25:21 26:21
+35:19 39:10
+45:13 47:13
+48:22 49:5
+52:6,15,17
+53:2
+
+reasonably
+
+25:13
+
+reasons 14:20
+25:19 37:11
+
+rebut 52:23
+REBUTTAL
+
+2:10 50:1
+
+recognize 10:10
+
+23:21
+
+recognized 7:14
+
+23:2 30:8,22
+
+recognizes
+
+33:17
+
+redid 46:10
+redo 42:13
+reduce 40:12
+reduced 41:2
+reference 29:19
+refers 4:14 8:23
+9:2,9 20:21,22
+
+reflect 30:3
+reflects 22:19
+
+32:25
+
+regard 18:4
+regarding 52:5
+regardless 34:3
+
+45:7
+
+regulation 15:17
+15:19,24 16:14
+23:18,21,23,25
+24:2,19,19,23
+25:1,2,2,7,9
+46:21,22 47:5
+53:25
+
+regulations
+
+23:16 24:13
+48:13
+
+rejected 29:10
+rejigger 43:19
+related 23:5
+relevant 52:16
+relies 22:16
+religion 20:11
+
+relying 44:20
+
+30:9
+
+54:6
+
+remainder 17:9
+remaining 49:25
+repeatedly
+
+43:22
+
+represent 46:6
+
+reprinted 44:13
+require 7:4
+
+14:14
+
+required 41:10
+requirement
+
+8:17,17 38:14
+39:3 50:12,13
+
+requires 11:7
+
+37:1
+
+research 40:6
+reserve 17:9
+resolve 27:15
+resolved 29:18
+
+29:19
+
+respect 21:5
+22:25 32:9
+48:2
+
+respects 48:1
+Respondents
+1:25 2:9 8:1
+10:14 27:6
+52:7
+
+Respondent's
+9:25 16:16
+
+responsibilities
+
+41:21
+
+restrict 51:12
+result 31:20
+resulted 11:11
+results 43:20
+resumes 27:24
+retirement
+
+10:13
+
+retreat 44:23
+reverse-discri...
+
+42:17
+
+review 41:17
+43:7 44:5,6
+
+reviewing 49:5
+revised 23:10
+RFOA 4:24 5:3
+
+6:14 9:1,20
+12:16 30:2
+50:6,16
+RIF 45:2
+RIF'd 41:24
+right 18:10
+
+19:11,20 26:5
+28:9 31:14
+32:6,8 42:14
+42:19 45:7
+47:18 53:19
+rights 10:14
+23:5 42:15
+
+rise 51:24
+risk 3:19
+ROBERTS 3:3
+
+7:5 14:12
+17:10 19:18
+23:13 24:17,25
+26:2 27:3
+36:24 45:4
+49:23 54:8
+
+room 6:4
+row 18:10 19:16
+rule 12:14,15
+17:19 27:23
+28:3
+
+rulemaking
+23:20 24:4
+
+rules 10:6
+Russell 1:18 2:3
+
+2:11 3:6,7,9
+4:4,19,23 5:2
+5:13 6:1 7:12
+8:9,15 11:4,25
+12:3,12,20
+13:3,7,14 14:9
+15:1,15 16:9
+49:24 50:1,3
+50:22 51:5,7
+52:16,21 53:11
+53:13,19
+S
+S 2:1 3:1
+sad 30:10
+safe 44:24,24
+safety 14:19,22
+sake 32:15
+sandwich 32:20
+
+35:7
+
+sandwiched
+12:24 32:14
+
+sandwiching
+
+6:18
+
+satisfied 12:7
+satisfy 4:6
+saying 12:7,10
+
+17:24 22:8
+33:24 36:10
+37:15,18,19
+42:12
+
+says 33:5,15,22
+
+36:2,16,19
+37:25 38:10,13
+39:13 51:3,14
+
+scale 41:5
+SCALIA 19:9
+
+19:12
+
+scheme 3:23
+scope 7:7
+second 18:8 20:4
+21:13 22:2,25
+24:4 25:23
+28:8 30:11
+43:2,4,6,9
+45:22 48:21,25
+48:25 49:4,17
+49:20
+
+seconds 38:3
+section 4:7 5:4,6
+
+16:21 33:5
+41:1 50:13,14
+
+sections 33:6
+
+see 15:22 23:14
+
+40:18
+
+35:20
+
+segregating 9:6
+seniority 10:14
+
+41:6
+
+sense 3:21 6:6
+11:6 12:14,19
+12:21 13:18,21
+15:9 19:24
+28:14
+
+sentence 6:19
+18:15 21:2
+31:10 46:8
+
+separate 19:21
+
+22:21 47:16,17
+
+63
+
+Alderson Reporting Company
+
+Official - Subject to Final Review
+
+48:4
+
+separated 18:15
+separately 49:13
+serves 51:21
+set 18:15 19:21
+38:19 41:18
+44:5 45:3
+
+SETH 1:24 2:8
+
+27:5
+
+setting 6:14
+settled 17:18
+sex 9:18 10:20
+11:1,3 20:11
+27:19 30:9,15
+30:17 47:23
+
+shift 11:10,10,12
+
+11:22
+
+shifts 27:20
+31:17 39:1
+shop 38:16
+show 4:7,8 8:14
+9:11 11:5,13
+11:16 12:11
+13:12 26:18
+28:7,18 33:11
+38:24 39:22
+50:14,16 51:8
+52:22
+
+showed 11:9
+
+42:10 53:5,14
+showing 9:14,19
+
+9:20 10:15
+11:19 35:12
+37:12 47:8
+50:25 52:3,23
+
+shown 22:9
+shows 35:8,9
+
+side 32:11 43:16
+
+39:19
+
+47:3
+
+silence 31:22
+silent 3:20
+similar 10:15
+
+11:6,15
+
+similarly 36:18
+simple 26:11
+simply 3:17
+
+16:18 28:18,23
+45:5,11,25
+50:9,14 51:23
+simultaneously
+
+54:3
+
+single 3:11
+
+18:15 44:7,7
+singular 21:5
+skill 41:5,9
+skills 40:25 41:3
+41:8,11 44:17
+
+sky 25:16
+Smith 4:9 5:7
+7:13 16:22
+20:17 21:6
+29:19 43:11
+45:13,15
+sociis 19:10
+sole 51:22
+Solicitor 1:20
+somebody 30:10
+
+42:16
+
+sorry 20:8 24:17
+sort 17:7 23:15
+39:12 42:15
+sounded 29:9
+sounds 5:24
+
+42:23
+
+Souter 33:19
+
+34:15,18 35:23
+36:9,13 37:14
+37:18,22 50:10
+51:2,6
+
+Souter's 35:21
+special 14:3
+specific 9:19
+15:12 20:4
+45:3
+
+specifically 7:22
+
+16:13 21:18
+specified 23:12
+
+49:13
+
+split 44:25
+spoke 15:14
+spoken 23:6
+St 31:21
+stage 23:6
+
+standard 21:19
+
+22:1,15,17
+26:22 38:21
+43:15
+
+standards 4:10
+stark 42:3,3
+startling 41:23
+States 1:1,15,22
+2:6 17:13 40:7
+statistical 31:16
+
+31:25 32:4
+34:10,11 35:8
+37:12
+
+statistically 38:4
+
+50:19
+
+statistics 36:20
+statute 3:19 6:3
+6:11 7:20 9:23
+10:12 12:15,15
+12:18,20 13:17
+14:1,6 15:7
+17:22 18:20
+19:1,25 20:20
+22:14 26:1
+31:9 32:10
+35:10
+
+statutes 5:10
+
+10:7 11:6 23:5
+23:7
+
+statutory 6:5
+
+13:10
+
+step 9:14 21:24
+27:17 30:14
+34:9 38:20
+39:20 45:25,25
+46:2
+
+Stephens 38:23
+steps 28:12,13
+Stevens 29:21
+31:5,8,12,13
+32:3,7,25
+35:11 45:16
+46:18 47:10,18
+48:16 49:8
+52:6,12,19
+53:8,12,16
+
+stocking 38:15
+
+strain 8:5
+strange 6:20
+
+16:6
+
+strength 38:7
+strikingly 42:3
+strong 6:17
+
+30:16,20 38:12
+strongest 47:14
+strongly 9:23
+
+51:25
+
+structure 6:2
+27:10 32:9
+subject 27:18
+32:23 33:8
+53:6
+
+subjective 43:6
+
+44:8
+
+subjectivity
+
+43:24
+
+submarine 40:7
+submission
+
+submitted 54:9
+
+49:19
+
+54:11
+
+subsection
+
+17:25 18:3,7,9
+19:2 20:1,2
+21:16,22 32:13
+41:1 48:13
+substantial
+
+34:10 38:5,6
+
+substantive
+16:19 24:8
+47:8
+
+substitution
+
+10:19
+
+subunits 40:18
+sued 42:7
+suffer 51:1
+suffered 28:24
+
+37:9 50:8
+
+sufficient 4:6,8
+
+11:12,20
+
+suggest 8:1,12
+suggesting 11:2
+
+50:10
+
+suggestion
+
+64
+
+Alderson Reporting Company
+
+51:19
+
+suggests 52:10
+suits 33:10
+supported 26:19
+supporting 1:23
+
+2:7 17:15
+
+supports 16:12
+suppose 19:9
+Supreme 1:1,15
+sure 18:19 19:8
+
+31:12 41:19
+
+surplusage 20:5
+surprised 17:6
+
+23:14
+
+T
+
+T 2:1,1
+take 13:5 35:25
+37:24,24 43:18
+44:15
+
+taken 33:1 46:9
+takes 24:11
+talking 16:13
+talks 21:2
+tell 31:24 36:3
+telling 6:25
+tells 21:21 24:18
+tend 13:20
+tends 9:11 51:8
+term 15:20 16:7
+
+24:12,13
+
+terms 4:25 5:3
+15:19 16:10
+42:21,24
+
+test 5:4,23 6:7
+
+8:3 21:20
+22:18 26:12
+28:4 38:20
+43:13 46:1
+47:17 52:2
+
+testified 42:12
+
+43:19
+
+testimony 42:20
+
+44:3,10 46:7
+
+tests 6:2
+text 14:1,5 25:17
+textual 22:24
+
+Thank 17:10
+27:2,3 49:22
+49:23 54:7,8
+theory 29:17
+
+thing 6:20 19:8
+
+43:8
+
+37:16
+
+things 12:24
+24:11 33:4
+38:12,16 40:15
+
+think 6:1,24
+
+8:15 9:23 10:3
+10:4 11:15,18
+12:4,12,13,16
+12:18,20 13:7
+13:14,15,18
+14:10 15:6,7
+15:18 16:9,12
+17:5 20:6
+22:13,13,22
+23:15,24 25:6
+28:9,16 30:3
+35:21 38:22
+39:11,16 45:10
+50:10,22 51:7
+52:1,1,21
+53:19,20,23
+54:5
+
+thinks 6:4
+third 6:24 13:2
+22:2,25 24:9
+36:18
+
+thought 6:12
+24:18 43:24
+three 6:22 18:9
+
+18:13,20,20
+19:16,20 28:11
+35:25 38:20
+39:20 45:25
+46:2
+
+three-part 28:4
+
+38:20
+
+three-step 27:14
+throws 24:10
+time 8:7,21 17:9
+24:7 45:21,22
+45:23,24 46:22
+
+Official - Subject to Final Review
+
+52:25 54:2
+
+times 38:2
+Title 5:9 7:3,7
+
+7:25 8:2 11:20
+22:5,15,18
+23:10 29:18
+told 6:16 40:19
+top 5:23
+total 22:10
+track 46:11
+traditional
+
+10:13 12:17
+trained 44:6
+training 14:20
+14:21 41:12
+44:18
+
+trains 41:13
+treat 6:5
+treatment 9:8
+
+10:13 15:20,21
+16:5,7,11 24:6
+24:9,13,14,15
+27:16,19,21
+28:21 29:12,22
+29:24 30:1
+33:24 34:19
+tremendously
+
+16:6
+
+trial 44:9 46:19
+47:11 52:18,25
+tried 46:3,14,19
+
+46:20 52:6
+
+tries 35:17
+true 4:15 15:1
+
+19:8 48:24
+51:14
+
+try 52:23
+turn 9:4 16:15
+32:11 41:24
+two 6:19 8:23
+11:6 12:24
+18:11 19:13
+21:11,15 28:12
+32:14
+
+two-part 26:12
+two-step 25:6
+
+U
+
+ultimate 37:9
+ultimately 12:13
+
+13:23 15:6
+44:20
+
+unacknowled...
+
+unconscious
+
+34:23
+
+43:25
+
+44:4
+
+34:23
+
+24:10
+
+20:20
+
+uncross-exam...
+
+underlying
+20:15,18
+
+understand 5:21
+
+5:23 22:14
+35:22 47:10
+understanding
+
+understands
+
+24:21
+
+37:8
+
+understood 25:3
+undiscovered
+
+undoubtedly
+
+unemployment
+
+unit 40:8 41:1
+United 1:1,15,22
+2:6 17:13 40:7
+
+units 40:18
+universe 3:23
+
+26:9
+
+unlawful 3:15
+5:9 6:25 7:16
+16:20 33:5
+35:17
+
+unreasonable
+4:3,8 12:11
+13:12 43:17
+
+unreasonable...
+
+unrebutted
+
+7:4
+
+42:20
+
+34:23
+
+unreconciled
+
+unusual 24:5
+
+53:16
+
+upper 38:7
+urged 47:4
+use 8:15 16:11
+24:14 39:17
+40:4
+
+V
+
+v 1:6
+value 10:5
+verdict 45:17,18
+
+45:19
+
+versus 3:4
+view 4:19 11:18
+19:22,25 23:17
+25:7,9
+
+VII 5:9 7:3,7,25
+8:2 11:20 22:5
+22:15,18 23:10
+29:18
+
+violation 4:7
+
+5:11
+
+W
+
+waive 53:24
+waived 53:22
+want 13:10 19:4
+
+27:9 28:12
+29:15 44:22,23
+
+wanted 46:5
+wants 28:13
+war 40:9,13
+Wards 4:6 5:6
+5:11 6:6 7:21
+7:23 8:3 9:14
+11:19 21:21
+22:2,23 23:1
+25:15,16 28:2
+30:15 35:8
+38:19,23 39:20
+45:19,25 46:1
+46:2 47:2,3,20
+48:6 50:22,23
+51:2,24 53:14
+
+Washington
+
+1:11,18,21,24
+
+wasn't 25:18
+
+39:5,23 40:3
+46:6,18 54:3
+Waxman 1:24
+2:8 27:4,5,7
+29:4,6,14 31:5
+31:7,10,13
+32:6,8 34:6,17
+34:20 35:11,20
+36:12,16 37:3
+37:17,21,24
+39:11 42:1
+43:1 44:2
+45:10,18 46:13
+46:21 47:15,19
+47:25 48:10,18
+49:11 52:10
+way 8:1 9:13
+10:4,8 12:21
+13:17 19:7,24
+25:14,17 29:8
+35:6 36:5 37:4
+38:19 39:6,6
+39:22,23 40:16
+41:23 42:22
+45:3 46:4,5,16
+
+weak 30:23
+
+33:20
+
+weaker 30:25
+Wednesday
+
+1:12
+
+weeks 46:7
+weigh 13:19
+weight 10:1
+
+51:10,10,11
+weight-lifting
+
+8:16
+
+went 17:2 42:10
+weren't 16:12
+We'll 3:3 42:13
+We've 45:1
+wide 27:11
+willing 41:10
+wins 39:24
+wiped 38:5
+women 10:25
+11:11 35:2
+38:3
+
+65
+
+Alderson Reporting Company
+
+word 39:14,16
+
+48:8
+
+words 14:15
+
+16:5 19:14,18
+20:20 33:7
+34:15 38:18
+39:17 51:2
+work 11:12
+
+22:24 26:10
+36:23 40:10,12
+43:21 44:25
+worker 42:16
+workers 3:16
+8:19,20 9:15
+41:7 50:25
+51:1,9,13
+
+works 11:8 35:7
+world 44:19
+wouldn't 9:8
+19:7 43:19
+wow 44:25
+wrench 24:10
+wrinkle 24:10
+written 12:21
+13:16 21:3,4
+23:22
+
+wrong 32:1
+
+35:22 45:25
+46:11 47:21
+48:1,17
+wrote 6:3
+X
+
+x 1:2,10 33:5
+
+Y
+
+Y 33:5
+York 42:14
+
+Z
+
+Z 33:5
+
+0
+
+06-1505 1:6 3:4
+
+1
+
+1 18:9 20:3
+21:17 36:1
+
+Official - Subject to Final Review
+
+41:5
+
+1a 9:5 20:21
+10 38:2 41:5
+11:15 1:16 3:2
+12:15 54:10
+16-point 44:19
+1625.7(d) 47:5
+17 2:7
+18 42:17
+1964 26:1
+1991 7:20 30:6
+
+2
+
+2 9:5 20:1,16
+
+21:16,23 22:24
+
+2008 1:12
+23 1:12
+27 2:9
+
+3
+3 2:4 8:25
+30 38:2 41:24
+301 27:24 28:3
+31 41:24
+4
+
+4 45:23
+4(a)(2) 4:7 5:4,6
+
+6:5 16:21,24
+50:13,14 51:8
+52:3
+
+40 41:25
+5
+
+5 45:23
+50 2:12 38:2
+50-pound 37:25
+53 48:23
+6
+
+6 21:6
+60/40 44:25
+65 36:23
+7
+
+7 45:23
+
+66
+
+Alderson Reporting Company
+
+

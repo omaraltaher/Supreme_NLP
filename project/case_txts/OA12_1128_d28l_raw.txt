@@ -1,0 +1,8700 @@
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+MEDTRONIC, INC., 
+
+                
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 12­1128 
+
+ v. 
+
+                       
+
+: 
+
+BOSTON SCIENTIFIC 
+
+               
+
+: 
+
+CORPORATION, ET AL. 
+
+             
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Tuesday, November 5, 2013 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 1:00 p.m. 
+
+APPEARANCES: 
+
+SETH P. WAXMAN, ESQ., Washington, D.C.; on behalf of 
+
+ Petitioner. 
+
+CURTIS E. GANNON, ESQ., Assistant to the Solicitor 
+
+ General, Department of Justice, Washington, D.C.; for 
+
+ United States, as amicus curiae, supporting 
+
+ Petitioner. 
+
+ARTHUR I. NEUSTADT, ESQ., Alexandria, Virginia; on 
+
+ behalf of Respondents. 
+
+ 
+
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+1
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+SETH P. WAXMAN, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+3 
+
+ORAL ARGUMENT OF 
+
+CURTIS E. GANNON, ESQ. 
+
+ For United States, as amicus curiae, 
+
+ supporting the Petitioner 
+
+                      
+
+15 
+
+ORAL ARGUMENT OF 
+
+ARTHUR I. NEUSTADT, ESQ. 
+
+ On behalf of the Respondent 
+
+                    
+
+23 
+
+REBUTTAL ARGUMENT OF 
+
+SETH P. WAXMAN, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+52 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (1:00 p.m.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+this afternoon in Case 12­1128, Medtronic v. Boston 
+
+Scientific Corporation. 
+
+ Mr. Waxman. 
+
+ ORAL ARGUMENT OF SETH P. WAXMAN 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. WAXMAN: 
+
+Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+ Patent law places the burden of proving 
+
+infringement on the patentee.  And until this case, it 
+
+was settled that the burden does not shift if the issue 
+
+arises in a declaratory action seeking a judgment of 
+
+non­infringement.  The Federal circuit imposed a 
+
+different rule in suits brought under MedImmune where 
+
+the party seeking a declaration of non­infringement is a 
+
+licensee.  That was error. 
+
+ Allocation of the burden of proof inheres in 
+
+the governing substantive law, while the Declaratory 
+
+Judgment Act is procedural only and does not change 
+
+substantive rights.  The burden of proof in MedImmune 
+
+actions, like all other declaratory actions, remains 
+
+where it would have rested in the equivalent coercive 
+
+suit brought by that patentee. 
+
+3
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ JUSTICE ALITO: 
+
+Now, this concerns just the 
+
+risk of nonpersuasion.  It doesn't concern the burden of 
+
+production; is that right? 
+
+ MR. WAXMAN: 
+
+That's correct.  That's ­­
+
+that's the issue in this case.  Although as we point 
+
+out, that the word "burden of proof" ­­ I think the word 
+
+"burden of proof" used in the opinion below could be 
+
+thought to be addressed to both points, but the parties 
+
+agree that the relevant consideration here is the burden 
+
+of proof and that trial judges do retain discretion to 
+
+make rules about ordering ­­ the ordering of proof in 
+
+patent cases. 
+
+ JUSTICE ALITO: 
+
+Well, if that's all that's 
+
+involved, then the case doesn't seem to amount to quite 
+
+as much as one might have thought otherwise, does it? 
+
+If ­­ suppose the ­­ the patentee has the burden of 
+
+production, so they would have to explain why there was 
+
+infringement; they would have to introduce proof of 
+
+infringement. 
+
+ And the only difference is who wins when 
+
+the ­­ the factfinder thinks that it is exactly in 
+
+equipoise. 
+
+ MR. WAXMAN: 
+
+Right.  Well, that, of course, 
+
+was not what happened in ­­ not what the Respondent 
+
+maintained should happen in this case.  But taking your 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+question as it is, this Court has pointed out repeatedly 
+
+that the burden of ­­ where the burden of persuasion 
+
+rests is very often outcome ­­ outcome determinative. 
+
+And that is certainly true in patent cases.  What the 
+
+jury is told about who has the burden of persuasion is 
+
+surpassingly important in many cases, including many 
+
+patent cases. 
+
+ And that's the issue in this case. 
+
+I mean, 
+
+the substantive ­­ the ­­ the reason why the Federal 
+
+circuit erred is clearly doctrinal, which is this Court 
+
+has said, over and over again, that burdens of proof, 
+
+like standards of proof, are substantive.  They inhere 
+
+in the substantive right, and the Court has also said, 
+
+repeatedly, that the declaratory judgment action is 
+
+procedural only and doesn't change substantive rights. 
+
+ But I think if you go to a ­­ to the policy 
+
+question, Justice Alito, reversing the burden in a 
+
+declaratory action would impair the purpose and utility 
+
+of the Declaratory Judgment Act, which was enacted to 
+
+provide a mechanism for determining how the equivalent 
+
+coercive action would be resolved without the ­­ without 
+
+requiring the declaratory judgment plaintiff to subject 
+
+itself to retrospective liability. 
+
+ And, indeed, shifting the burden would 
+
+threaten the issue preclusive effect of the declaratory 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+judgment, frustrated ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+It seems to me we 
+
+could ­­ all that may be true, but we need to cut down 
+
+to the basic issue, which is MedImmune changes all that. 
+
+The idea is you're moving along with the license, 
+
+everybody's happy.  All of a sudden, you jump into 
+
+court.  Why shouldn't you have the burden as the party 
+
+who seeks to disturb the status quo? 
+
+ MR. WAXMAN: 
+
+Well, the ­­ the reason, 
+
+Mr. Chief Justice, is the reason that the burden of 
+
+proof is substantive, and a declaratory judgment action 
+
+under the Act is not ­­ is aimed not to change any 
+
+substantive rights.  And that's why all of the decided 
+
+cases in this area, except for the one below, left the 
+
+burden exactly where substantive patent law left it. 
+
+ JUSTICE KENNEDY: 
+
+Does it help your answer 
+
+or ­­ or does it limit the theory of your case too much 
+
+to say that, in this case, there is a controversy 
+
+satisfying the declaratory judgment rules because the 
+
+patentholder gave notice of potential ­­ or of 
+
+infringement?  Am I right about that? 
+
+ MR. WAXMAN: 
+
+You're right about that, and 
+
+that would be true, Justice Kennedy, on all MedImmune 
+
+cases. 
+
+ JUSTICE KENNEDY: 
+
+Now, could we ­­ or should 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+we make the case turn on that, or can we say, with 
+
+declaratory judgment, there has to be a dispute, we ­­
+
+we know that a dispute is likely, a controversy, so the 
+
+formality of a notice is not important. 
+
+ MR. WAXMAN: 
+
+Well, I don't know that it's a 
+
+formality of a notice.  I mean, the issue that this 
+
+Court addressed in MedImmune ­­ the question that you're 
+
+raising, I think, is one that goes to Article III 
+
+jurisdiction.  You can't use the declaratory judgment 
+
+procedure to get the Court to answer a hypothetical 
+
+question. 
+
+ JUSTICE KENNEDY: 
+
+Well, it goes to me to ­­
+
+a basic question of fairness.  When I picked up this 
+
+case, I thought, how is the patentholder supposed to 
+
+know what all these new inventions are?  What does it 
+
+know about it?  But then I answered my own question by 
+
+saying, well, it gave notice of infringement. 
+
+ But ­­ that's why I've asked if the notice 
+
+is essential to your position? 
+
+ MR. WAXMAN: 
+
+I think the notice is the ­­
+
+well, it's essential to the Article III MedImmune 
+
+question, whether or not there actually is a case or 
+
+controversy. 
+
+ So, in this case, it's perfectly obvious 
+
+because the ­­ the license requires Medtronic to 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+affirmatively go to Mirowski within 30 days of 
+
+introducing any product and not only tell ­­ providing 
+
+notice of the product, but providing the manual ­­ the 
+
+diagrams and the manuals that are given to physicians so 
+
+that Mirowski can determine, within 60 days, whether or 
+
+not to assert infringement. 
+
+ In MedImmune, you didn't have that 
+
+procedure, but the Court still held in the context of 
+
+that case that, because Genentech had made clear that it 
+
+thought that the Cabilly patent covered the accused 
+
+devices, there was sufficient ­­ sufficiently concrete 
+
+controversy that MedImmune did not have to stop paying 
+
+royalties and breach the license. 
+
+ And ­­ and so, therefore ­­ I think I may be 
+
+talking around your question, but I am trying to get to 
+
+the point that the ­­ the requirement of some notice, 
+
+the ­­ the patentee ­­ there's no declaratory judgment 
+
+jurisdiction if the patentee doesn't know about the 
+
+product, has ­­ has never done anything to suggest that 
+
+the product ­­ that his or her patent reads on the 
+
+product. 
+
+ But that is an Article III question that 
+
+would be ­­ you wouldn't get to the burden of proof if 
+
+you couldn't satisfy MedImmune. 
+
+ JUSTICE GINSBURG: 
+
+Mr. Waxman, what do you 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+make of the ­­ the patent listing non­infringement as an 
+
+affirmative defense in an infringement suit? 
+
+ MR. WAXMAN: 
+
+We agree with the articulation 
+
+of the point by the Solicitor General in the United 
+
+States brief, which is that the cases have recognized 
+
+that non­infringement can either be a general defense ­­
+
+that is, when ­­ when non­infringement is simply a 
+
+general denial of a cause of ­­ of a claim of 
+
+infringement, it is not an affirmative defense. 
+
+ But there are particular types of 
+
+non­infringement claims.  And the ones that I'm familiar 
+
+with are prosecution history estoppel and the 
+
+experimental use exception that are affirmative 
+
+defenses. 
+
+ In other words, those are situations in 
+
+which the alleged infringer says, hey, I'm not saying 
+
+that your patent doesn't read ­­ all the claims of your 
+
+patent don't read on my invention; I'm claiming 
+
+non­infringement because I was making experimental use, 
+
+and that has affirmatively been determined by Congress 
+
+not to infringe. 
+
+ Or, yes, your ­­ the elements of your claim 
+
+read upon my invention, but during the prosecution of 
+
+the patent in the Patent Office, you disclaimed some 
+
+claim scope, and under prosecution history estoppel, 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ this Court elucidated in Festow, there is no 
+
+ infringement. 
+
+ This is a case involving a general denial of 
+
+ infringement, and therefore, it is not an affirmative 
+
+ defense. 
+
+ JUSTICE GINSBURG: 
+
+What you ­­ what you just 
+
+ responded, that would go as well for an alleged 
+
+ infringer who is not a licensee, right? 
+
+ MR. WAXMAN: 
+
+Yes.  I mean ­­ absolutely.  I 
+
+ mean, the point here ­­
+
+ JUSTICE GINSBURG: 
+
+This here ­­ this case is 
+
+ about the difference between the licensee and the 
+
+ non­licensee. 
+
+ MR. WAXMAN: 
+
+Right.  So a defense of 
+
+ non­infringement ­­ a general defense of 
+
+ non­infringement is not an affirmative defense.  And in 
+
+ the ­­ the potential or correlative coercive action 
+
+ which would have been a suit for patent infringement by 
+
+ Mirowski, had we ceased making the royalty payments, 
+
+ they would have borne the burden of proving 
+
+ infringement, unless we raised an affirmative defense, 
+
+ like prosecution history estoppel or experimental use, in which case we 
+
+would have the burden. 
+
+ The point of the Declaratory Judgment Act is 
+
+ that the burden is left exactly where it would have 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23 
+
+24
+
+25
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ been, had there been no ­­ had this identical issue 
+
+ arisen in the absence of the declaratory judgment 
+
+ procedure. 
+
+ And in this respect, it is identical to the 
+
+ jury trial right, which this Court held in Beacon 
+
+ Theatres v. Westover, is also an element of the 
+
+ substantive claim and also cannot be deprived by the 
+
+ peculiarity of a declaratory judgment being a claim for 
+
+ an equitable remedy. 
+
+ JUSTICE KAGAN: 
+
+Mr. Waxman, as I understand 
+
+ it, the agreement in this case identified certain 
+
+ patents and contemplated that there would be disputes 
+
+ about whether particular products of Medtronic violated 
+
+ or infringed or practiced, whatever, those patents. 
+
+ But there might be some other kinds of 
+
+ agreements which, instead, identify certain products ­­
+
+ MR. WAXMAN: 
+
+Mm­hmm. 
+
+ JUSTICE KAGAN: 
+
+­­ and essentially treat 
+
+ those as infringing products in the absence of a 
+
+ license.  In that sort of agreement, would you make the 
+
+ same kind of claim, that if Medtronic had that agreement 
+
+ that identified certain products, but Medtronic woke up 
+
+ one day and said, you know what, we don't think that 
+
+ those products infringe, we essentially want to 
+
+ relitigate our agreement, can Medtronic come to court 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ and do that via a declaratory judgment action? 
+
+ And if so, who would bear the burden of 
+
+ proof? 
+
+ MR. WAXMAN: 
+
+So if I understand your 
+
+ question, first, to ­­ to go to the license in this 
+
+ case.  This case not only involves products that 
+
+ didn't ­­ that aren't specifically articulated in a 
+
+ license agreement; neither the patents nor the products 
+
+ at issue in this case had even been conceived, much less 
+
+ in existence, at the time the license agreement was in 
+
+ effect. 
+
+ But in ­­ if I understand your question, in 
+
+ a situation in which I make Widget A and you claim that 
+
+ you have the patent that reads on that widget, and I ­­
+
+ you agree to license me to do it, if the license ­­ if 
+
+ payment of the license depends upon a determination that 
+
+ it otherwise would be infringing, I can file a 
+
+ declaratory judgment action and seek a declaration that 
+
+ it's not infringing. 
+
+ That is, if the cover ­­ if the license 
+
+ covers only products that otherwise would infringe, I 
+
+ can bring a DEC action, claiming non­infringement, and 
+
+ you would bear the burden, assuming that you had 
+
+ threatened, in some way, to enforce your patent against 
+
+ me. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ In ­­ in the ­­ the situation that ­­ sort 
+
+ of bogeyman situation that Mirowski and the ­­ the 
+
+ intellectual property owner's brief articulate, which ­­
+
+ imagine, which is you license ­­ I have a ­­ I have a 
+
+ product, you have a patent, you license it to me, and I 
+
+ turn around the next day and sue for ­­ a declaration of 
+
+ non­infringement, there are any number of ways that you, 
+
+ as the patentee, could protect yourself from that 
+
+ extraordinary eventuality. 
+
+ You could provide, for example, that ­­ I ­­
+
+ you would require me to issue a ­­ you know, to ­­ to ­­
+
+ to pay a paid­up royalty for all use.  Or you could 
+
+ simply say, we don't care whether the patent infringes 
+
+ or not; you agree to pay me three dollars per unit sold. 
+
+ Or you could put a provision in that would say, if you 
+
+ sue for patent infringement, the royalty rate goes to 
+
+ 3X. 
+
+ Or, for that matter, if you sue, that 
+
+ will ­­ that can ­­ I can deem that a breach of the 
+
+ license agreement and ­­ and recover the ­­ the remedies 
+
+ that patent law allows, an injunction and treble damages 
+
+ and attorneys' fees in the context of a ­­ a willful 
+
+ action. 
+
+ I want to underscore, although the Federal 
+
+ circuit made a broad rule, exactly what we have here. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ In this case, Mirowski ­­ this license is from 1991. 
+
+ Mirowski ­­ it's not in the record, but there's no 
+
+ dispute that Mirowski has received hundreds of millions 
+
+ of dollars of royalties from Medtronic for its patents. 
+
+ It gets, as a benefit of this license ­­
+
+ notice, as I said, within 30 days of every new product 
+
+ and the manual, and it can require Medtronic to start 
+
+ accruing royalties and an interest rate of 2 ­­ of 2 
+
+ points over prime, as soon as it sends us a notice. 
+
+ And moreover, in the ­­ in the litigation 
+
+ tolling agreement, we agree that, even though we are not 
+
+ a party in the referenced St. Jude action, we would be 
+
+ bound by any determination in that adjudication, 
+
+ whereas, otherwise, we wouldn't. 
+
+ So this license agreement was enormously 
+
+ beneficial and couldn't be farther from the scenario of 
+
+ I have a widget, I agree to license it, and the next 
+
+ day, I turn around and sue you.  But, in that event, 
+
+ there would be lots and lots of remedies. 
+
+ I do want to underscore one other thing, 
+
+ that the Federal circuit said that it was applying this 
+
+ special rule only in MedImmune­type cases.  But the 
+
+ rationale of the court is that what causes the burden to 
+
+ shift is the absence of a counterclaim for infringement. 
+
+ That would have, for example, caused the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ burden to shift in the Myriad case that this Court 
+
+ decided last term, where there was one researcher at NYU 
+
+ who had standing to bring a declaratory judgment action. 
+
+ There was no basis for Myriad to claim 
+
+ infringement because he had made clear that he 
+
+ wouldn't ­­ he wouldn't engage in the research and 
+
+ clinical work that he was going to, so long as he was in 
+
+ risk of patent infringement remedies.  And that ­­ the 
+
+ source of the rule ­­ the source of the law where the 
+
+ burden of proof lies, is in substantive patent law.  And 
+
+ this Court has said, for 125 years, that it rests with 
+
+ the infringer. 
+
+ What neither the Federal circuit nor my 
+
+ friend on the other side of this case has ever 
+
+ identified is what is the source of the rule that shifts 
+
+ the burden in a declaratory judgment action?  It can't 
+
+ be the Declaratory Judgment Act because that Act is 
+
+ procedural only. 
+
+ If I can reserve the balance of my time? 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Gannon. 
+
+ ORAL ARGUMENT OF CURTIS E. GANNON, 
+
+ FOR UNITED STATES, AS AMICUS CURIAE, 
+
+ SUPPORTING THE PETITIONER 
+
+ MR. GANNON: 
+
+Mr. Chief Justice, and may it 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ please the Court: 
+
+ The government agrees that using the same 
+
+ burden of proof that would apply in the hypothetical 
+
+ coercive action that underlies the Declaratory Judgment 
+
+ Act is the best thing to do in this mirror image 
+
+ declaratory judgment action.  That best serves the 
+
+ purposes of the Declaratory Judgment Act and allows for 
+
+ final resolution of the types of controversies that this 
+
+ Court contemplated in MedImmune. 
+
+ If I could turn to Justice Kagan's points 
+
+ about an incident in which the parties had actually 
+
+ agreed to ­­ whether certain products were covered by a 
+
+ particular license. 
+
+ That would be different from the situation 
+
+ we have here because the products in question here 
+
+ weren't actually in existence at the time of the 
+
+ underlying license agreement.  The whole point of that 
+
+ aspect of the license agreement was to, as you said, 
+
+ channel future disputes into this particular dispute 
+
+ resolution mechanism. 
+
+ JUSTICE SOTOMAYOR: 
+
+Are ­­ are you 
+
+ suggesting that the burden­shifting rule should be 
+
+ different in the hypothetical Justice Kagan ­­
+
+ MR. GANNON: 
+
+I was not about to suggest 
+
+ that, Justice Sotomayor.  I was going to say that I 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ think that's the ­­ that ­­ that that would probably be 
+
+ the least logical way to deal with the quandary that 
+
+ might arise from thinking that somebody is then trying 
+
+ to breach the license. 
+
+ And we don't think there's any license 
+
+ breach here because there wasn't any prior agreement on 
+
+ the fact that these future products were going to be 
+
+ covered by the ­­ by these patents, that they'd be 
+
+ practicing these patents. 
+
+ But, even if there were some concern about 
+
+ the licensee turning around and challenging the 
+
+ agreement that it had previously made, it seems like the 
+
+ problem there is either that they should be estopped by 
+
+ what they already said in the agreement or Lear needs to 
+
+ be extended to keep them from being estopped in that 
+
+ way.  But shifting the burden of proof seems like an odd 
+
+ way to get at solving whatever the quandary there might 
+
+ be. 
+
+ And I think that, at some point, this ­­
+
+ this also interweaves with a point that the Chief 
+
+ Justice made, about whether Medtronic here is seeking to 
+
+ change the status quo.  And we don't think that 
+
+ Medtronic is seeking to change the status quo here, for 
+
+ a couple different reasons. 
+
+ One of them is, as I was just saying, that 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ the agreement here didn't actually reach ­­ the license 
+
+ agreement here didn't ­­ it didn't include a meeting of 
+
+ the minds about whether these particular future products 
+
+ would be covered by these patents, including one of the 
+
+ patents was reissued after the time of the license. 
+
+ And also, this license agreement expressly 
+
+ preserved the parties' ability, including Medtronic's 
+
+ ability, to challenge both the validity and the 
+
+ enforceability of the patent.  That's at page 13 of the 
+
+ Joint Appendix.  And so there's no way in which I think 
+
+ it can be legitimately said that Medtronic is trying to 
+
+ either get out of its contractual obligations or to 
+
+ change the status quo. 
+
+ The status quo, right now, is that the 
+
+ royalties are collecting in a certified account, and so, 
+
+ in a sense, both parties are trying to change the status 
+
+ quo, in trying to get the stream of royalties that 
+
+ either is applicable to these products or isn't, on the 
+
+ basis of the resolution of a question that the parties 
+
+ had not decided, but said would be decided in a 
+
+ declaratory judgment action like this. 
+
+ And we think that the best way to think of a 
+
+ declaratory judgment action like this is that it is the 
+
+ mirror image of the underlying coercive hypothetical 
+
+ action that could have been brought against Medtronic. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well ­­ well, but I 
+
+ guess the argument is that it's the mirror image of an 
+
+ action that could not have been brought because 
+
+ Medtronic is paying royalties. 
+
+ MR. GANNON: 
+
+Well, the same thing is true in 
+
+ MedImmune, and I think that the Court noted that the ­­
+
+ in MedImmune, that the Declaratory Judgment Act was 
+
+ intended to help get the party out of the dilemma it 
+
+ would be in, in deciding whether it should continue to 
+
+ be effectively coerced into paying royalties that it 
+
+ thinks it doesn't need to pay or exposing itself to the 
+
+ risks associated with ­­ with breaching the license 
+
+ and ­­ and being subject to treble damages, attorneys' 
+
+ fees, and the other remedies that would be available 
+
+ under the Patent Act. 
+
+ And, yet, even though there had been no 
+
+ infringement in that case and no breach of the contract 
+
+ in that case, which is also true here, because, so far, 
+
+ everybody has been behaving the way the license expected 
+
+ them to behave, the Court recognized that the parties 
+
+ had a concrete dispute about the applicability of the 
+
+ patents to those particular products, that the scope of 
+
+ the contract was not going to require payment of 
+
+ royalties where the patent did not apply, and said that 
+
+ the ­­ the issues that were going to be resolved in the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ declaratory judgment action there were going to involve 
+
+ questions of patent validity, patent enforceability, and 
+
+ scope of coverage, patent infringement, which is exactly 
+
+ what we have here. 
+
+ Medtronic has raised in their complaint ­­
+
+ the well­pleaded complaint that you would look to here, 
+
+ is one that arises under the Patent Act and includes 
+
+ claims involving all three of those issues, just as was 
+
+ the case in MedImmune. 
+
+ JUSTICE GINSBURG: 
+
+I take it you disagree 
+
+ with the ­­ we have one friend of the Court brief that 
+
+ says this is not a case arising under the patent law; it 
+
+ arises under contract law.  It's a contract case with a 
+
+ patent issue. 
+
+ MR. GANNON: 
+
+Yes, Justice Ginsburg, we do 
+
+ disagree with that.  We think that this case involves a 
+
+ claim that arises under the patent laws, for the reasons 
+
+ that I was just saying. 
+
+ I think that the way to ­­ the way to 
+
+ conceptualize this is to look to what the well­pleaded 
+
+ complaint would be in the hypothetical coercive action 
+
+ that would be being brought against Medtronic if we 
+
+ didn't have the problem presented by the fact that they 
+
+ haven't actually breached the contract or infringed at 
+
+ this point. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ And we have every reason to think that that 
+
+ hypothetical coercive action is one that arises under 
+
+ the patent laws because it's one involving infringement. 
+
+ That's the dispute that the parties acknowledge that 
+
+ they have. 
+
+ In the litigation tolling agreement at page 
+
+ 20 of the Joint Appendix, it talks about the fact that 
+
+ the parties have a dispute under Section 271 of the 
+
+ Patent Act.  In the red brief here, Mirowski has ­­ has 
+
+ told us on page 48 that, if Medtronic were to cease 
+
+ paying royalties, that the recourse would be that they 
+
+ would bring an infringement suit.  And the complaint 
+
+ here in paragraph 5 alleges that the claim here arises 
+
+ under the Patent Act. 
+
+ And because it does arise under the Patent 
+
+ Act and because it's clear here that all of the 
+
+ defensive issues would also be Federal, as I mentioned 
+
+ before, I think there is no dispute here that this ­­
+
+ this would arise under the patent laws, which would 
+
+ provide for district court jurisdiction under Section 
+
+ 1338 and exclusive appellate jurisdiction in the Federal 
+
+ circuit under Section 1295(a), even before the 
+
+ amendments in the America Invents Act in 2011. 
+
+ I think that there is one other point that 
+
+ would be worth making in response to some of the amicus 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ briefs about the ­­ the potential problems here 
+
+ associated with whether the parties have an incentive to 
+
+ enter into these type of licensing arrangements. 
+
+ As Mr. Waxman already explained, the 
+
+ patentholder here got lots of benefits out of ­­ out of 
+
+ entering into an agreement like this, notwithstanding 
+
+ the fact that they would leave themselves open to 
+
+ precisely the suits that the agreement contemplated, 
+
+ which was a suit involving both infringement and 
+
+ validity questions; and that, under the circumstances, 
+
+ there's ­­ they had plenty of incentive to enter into a 
+
+ license agreement, notwithstanding the fact that they 
+
+ would continue to bear the same burden of proof that 
+
+ they would bear in every other procedural context in 
+
+ which patent infringement claims have arisen up until 
+
+ now. 
+
+ And so I think that, in that sense, 
+
+ that's ­­ that's not a sea change from their 
+
+ perspective.  And ­­ and, yet, even if they were to 
+
+ think it so, as Mr. Waxman explained, a licensor in that 
+
+ context would have several mechanisms that they could 
+
+ use in order to rejigger the balance between the parties 
+
+ if they wanted to. 
+
+ And ­­ and I think that we agree with ­­
+
+ with everything on the list that Mr. Waxman mentioned, 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ including having fully paid­up licenses or allowing a 
+
+ suit for infringement or invalidity to constitute a 
+
+ termination of the license that would allow the 
+
+ patentholder to bring an infringement action. 
+
+ If there are no further questions, we would 
+
+ urge the Court to reverse. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Neustadt. 
+
+ ORAL ARGUMENT OF ARTHUR I. NEUSTADT 
+
+ ON BEHALF OF THE RESPONDENTS 
+
+ MR. NEUSTADT: 
+
+Thank you, Your Honor. 
+
+ Mr. Chief Justice, and may it please the Court: 
+
+ The Federal circuit got it right in this 
+
+ case.  The Federal circuit took the well­settled law on 
+
+ burden of proof, and it applied it to two stipulated 
+
+ facts and reached a conclusion that it had to reach.  It 
+
+ was controlled by it. 
+
+ The two stipulated facts were, number one, 
+
+ when Mirowski's counsel, me, wrote letters to Medtronic, 
+
+ that was not a notice of infringement.  There could be 
+
+ no infringement in this case.  Infringement is defined 
+
+ as "using a patented invention without authority." 
+
+ Medtronic had authority.  It was licensed. 
+
+ The second stipulated fact ­­ and this is at 
+
+ page 51 of the Joint Appendix ­­ is that Medtronic is a 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ licensee.  It cannot be an infringer.  So everything 
+
+ that you say about infringement involves a completely 
+
+ different situation. 
+
+ There was no shifting of the burden of 
+
+ proof.  The well­settled law that I referred to is the 
+
+ normal default rule.  The normal default rule is perhaps 
+
+ one of the most fundamental tenets of our jurisprudence. 
+
+ It says that, if a party files a complaint and seeks 
+
+ relief, it has the responsibility to prove that it is 
+
+ entitled to that relief. 
+
+ And the normal default rule has the word 
+
+ "default" in there because it refers to the fact that 
+
+ the statute doesn't decide the burden of proof.  And 
+
+ there's no dispute in this case that the statute does 
+
+ not decide the burden of proof. 
+
+ So ­­
+
+ JUSTICE SCALIA: 
+
+But ­­ but you could say 
+
+ that about any declaratory judgment action.  You can say 
+
+ the person bringing the declaratory judgment action is 
+
+ seeking the relief.  And if ­­ if we follow what you 
+
+ said, that then the burden shifts in every declaratory 
+
+ judgment action.  And it clearly doesn't. 
+
+ I mean, we ­­ we've said, time and again, 
+
+ that the burden of proof normally does not shift. 
+
+ What's different here? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. NEUSTADT: 
+
+I'll tell you what's 
+
+ different here.  The difference is that there is no 
+
+ infringement.  Medtronic is a licensee.  As a result, 
+
+ there can be no coercive counterclaim.  As the Chief 
+
+ Justice noted, they're paying royalties.  There is no 
+
+ infringement. 
+
+ JUSTICE GINSBURG: 
+
+How about a permissive 
+
+ counterclaim? 
+
+ MR. NEUSTADT: 
+
+Pardon me? 
+
+ JUSTICE GINSBURG: 
+
+How about a permissive 
+
+ counterclaim? 
+
+ MR. NEUSTADT: 
+
+A permissive counterclaim, by 
+
+ definition, would have nothing to do with the issue that 
+
+ is involved. 
+
+ JUSTICE GINSBURG: 
+
+But could ­­ could the 
+
+ patentholder bring in the declaratory action a 
+
+ counterclaim for infringement? 
+
+ MR. NEUSTADT: 
+
+No, they cannot because 
+
+ Medtronic is a licensee.  They cannot be an infringer. 
+
+ And the difference ­­
+
+ JUSTICE KAGAN: 
+
+Well, they can be an 
+
+ infringer, Mr. Neustadt, if ­­
+
+ MR. NEUSTADT: 
+
+Pardon me? 
+
+ JUSTICE KAGAN: 
+
+They can be an infringer if 
+
+ they say, we're ignoring our agreement, we're not paying 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ royalties, but we're going to go on and continue making 
+
+ the product. 
+
+ Then MVF would say they would be infringing. 
+
+ And that's the world that MedImmune imagines is 
+
+ happening.  It says ­­
+
+ MR. NEUSTADT: 
+
+No.  I'm sorry, I interrupted 
+
+ you.  Go ahead. 
+
+ JUSTICE KAGAN: 
+
+No, I'm finished. 
+
+ MR. NEUSTADT: 
+
+No, I'm sorry.  I didn't mean 
+
+ to interrupt you. 
+
+ Okay. 
+
+That's not what happened in 
+
+ MedImmune.  First, if you change ­­ if you change the 
+
+ facts and Medtronic starts infringing because it stops 
+
+ paying royalties, of course, you get different results. 
+
+ Here's what happened in MedImmune, in our situation ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I'm not sure how you're 
+
+ receiving royalties.  It's in an escrow account. 
+
+ MR. NEUSTADT: 
+
+Medtronic is holding the 
+
+ money. 
+
+ JUSTICE SOTOMAYOR: 
+
+Yes, but it's in an 
+
+ escrow account.  You can't touch it, right? 
+
+ MR. NEUSTADT: 
+
+Well, we do not have access 
+
+ to the money that they're holding, correct. 
+
+ JUSTICE SOTOMAYOR: 
+
+Right.  So how are you 
+
+ getting paid?  Why isn't there a technical infringement? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. NEUSTADT: 
+
+Well, there can't be ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Because you're not 
+
+ receiving the money. 
+
+ MR. NEUSTADT: 
+
+Because we agreed to that in 
+
+ the agreement.  That's part of our agreement. 
+
+ JUSTICE SOTOMAYOR: 
+
+Yes, but you're still 
+
+ not receiving the money. 
+
+ MR. NEUSTADT: 
+
+But we don't ­­ we agreed to 
+
+ not receiving the money.  Everyone is operating in 
+
+ accordance with the license.  We can't say, you're 
+
+ withholding money and not paying it to us. 
+
+ JUSTICE SOTOMAYOR: 
+
+And you agreed they 
+
+ could sue you. 
+
+ MR. NEUSTADT: 
+
+Pardon me? 
+
+ JUSTICE SOTOMAYOR: 
+
+You agreed they could 
+
+ sue you under a Declaratory Judgment Act to find out 
+
+ whether or not they're infringing, correct? 
+
+ MR. NEUSTADT: 
+
+That's right. 
+
+ JUSTICE SOTOMAYOR: 
+
+All right.  So why 
+
+ shouldn't you be bound by that ­­
+
+ MR. NEUSTADT: 
+
+I'm sorry? 
+
+ JUSTICE SOTOMAYOR: 
+
+Why shouldn't you be 
+
+ bound by that agreement? 
+
+ MR. NEUSTADT: 
+
+Oh, we are bound by the 
+
+ agreement that ­­
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE SOTOMAYOR: 
+
+To prove that they're 
+
+ infringing. 
+
+ MR. NEUSTADT: 
+
+No, they're not infringing. 
+
+ It's claim coverage.  Medtronic cannot infringe because 
+
+ they're a licensee.  The dispute is over claim coverage. 
+
+ It's not infringement.  That's why we cannot have a 
+
+ counterclaim for infringement. 
+
+ Justice Scalia's question, the big 
+
+ difference is that we cannot counterclaim for 
+
+ infringement.  Under the normal default rule, where the 
+
+ party seeking relief has the burden of proof, you have 
+
+ to look at the case, and you have to ask yourself ­­
+
+ JUSTICE KENNEDY: 
+
+I don't ­­ I don't 
+
+ understand.  Suppose the licensee says, this isn't 
+
+ covered by the agreement at all, we're not going to pay 
+
+ you anything.  And it starts to manufacture its 
+
+ products.  That's ­­ that's the whole point.  That’s 
+
+ outside the agreement, they are not going to pay you 
+
+ anything. 
+
+ MR. NEUSTADT: 
+
+Well, they just ­­
+
+ JUSTICE KENNEDY: 
+
+Or am I missing something? 
+
+ MR. NEUSTADT: 
+
+Yes, I believe you are.  What 
+
+ Medtronic wants in this license is they want an 
+
+ insurance policy for their future products.  The problem 
+
+ is that they could ­­ if they don't have a license, they 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ can get enjoined.  So they build this insurance policy 
+
+ so that they're protected, and then they even have a 
+
+ provision whereby they can go and file a DJ action. 
+
+ Now, as I was saying, there are two types of 
+
+ DJ actions in this circumstance.  One is where the 
+
+ accused infringer says, I am not infringing, and I want 
+
+ a DJ to that effect.  In that response, where you are 
+
+ talking about infringement and not claim coverage, the 
+
+ patentee has to counterclaim.  It's compulsory. 
+
+ The patentee then has the burden of proof in 
+
+ that case because he has claimed infringement. 
+
+ JUSTICE SCALIA: 
+
+It seems to me it is often 
+
+ the case, in declaratory judgment actions, that the 
+
+ defendant in the action cannot counterclaim.  I mean, it 
+
+ typically occurs when somebody doesn't want to be in 
+
+ breach of contract and ­­ and brings a suit to 
+
+ see ­­ you know, claiming if I do this I won't be in 
+
+ breach. 
+
+ The other side can't counterclaim because 
+
+ the person hasn't been in breach.  The whole purpose of 
+
+ the declaratory judgment statute is to enable you to sue 
+
+ before the other side has a cause of action against you. 
+
+ That's the whole purpose of it. 
+
+ So ­­ so why should the fact that the other 
+
+ side doesn't have a counterclaim change anything? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+29
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ That's usually the situation. 
+
+ MR. NEUSTADT: 
+
+Because, under the normal 
+
+ default rule, if only one party is seeking relief, that 
+
+ party has the burden of proof.  You get into a more 
+
+ complicated situation ­­
+
+ JUSTICE SCALIA: 
+
+But we are not dealing with 
+
+ the normal default rule.  We are dealing with a 
+
+ declaratory judgment statute, and we've said, time and 
+
+ time again, that it doesn't alter the burden of proof. 
+
+ And your response is, well, it does when the other side 
+
+ can't counterclaim.  And my response to that is, 
+
+ usually, the other side can't counterclaim. 
+
+ MR. NEUSTADT: 
+
+The ­­ if you take the normal 
+
+ default rule as set forth in Schaffer, which is the case 
+
+ we cite, and it's this Court's precedent involving an 
+
+ individual education program, and this Court 
+
+ specifically states if the parents bring the suit, they 
+
+ have the burden of proof because they're seeking relief. 
+
+ And if the school district brings a suit, 
+
+ they have the burden of proof because they're the ones 
+
+ who are seeking relief.  Wherever you have a case where 
+
+ only one party is seeking relief, the normal default 
+
+ rule is applicable, and the party that seeks relief has 
+
+ to prove it. 
+
+ JUSTICE GINSBURG: 
+
+But that was not ­­ Weast 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ was not ­­ was not a patent infringement case.  It 
+
+ wasn't a declaratory ­­ it wasn't a declaratory 
+
+ judgment, was it? 
+
+ MR. NEUSTADT: 
+
+It wasn't, but that doesn't 
+
+ make any difference, because there's no exception for 
+
+ declaratory judgment cases in the normal default rule. 
+
+ It's based ­­
+
+ JUSTICE BREYER: 
+
+Well, why shouldn't there 
+
+ be? 
+
+ MR. NEUSTADT: 
+
+I'm sorry? 
+
+ JUSTICE BREYER: 
+
+I mean, why shouldn't there 
+
+ be?  I take what you're saying is that their claim is, 
+
+ look ­­ you called it claim scope or something.  What 
+
+ did you call it? 
+
+ MR. NEUSTADT: 
+
+Claim coverage. 
+
+ JUSTICE BREYER: 
+
+Claim coverage.  They say, 
+
+ we have a product, and it doesn't violate the ­­ the 
+
+ patent for the reason that the claims in the patent 
+
+ don't cover it. 
+
+ MR. NEUSTADT: 
+
+Correct. 
+
+ JUSTICE BREYER: 
+
+Now, you want to call that 
+
+ a claim coverage.  I would call it no infringement. 
+
+ Call it what you wish.  But the fact is there are ­­ and 
+
+ moreover, you couldn't bring a counterclaim because he's 
+
+ already agreed that, if he loses his suit, he'll pay you 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ the money.  So there's nothing to claim for. 
+
+ MR. NEUSTADT: 
+
+That's correct. 
+
+ JUSTICE BREYER: 
+
+Yes, I know.  Now, all 
+
+ that's true. 
+
+ MR. NEUSTADT: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+But, nonetheless, the fact 
+
+ is in many claims ­­ in many instances, though perhaps 
+
+ not yours, this kind of claim, i.e., that person's 
+
+ patent does not cover my product ­­
+
+ MR. NEUSTADT: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+­­ is actually a way of 
+
+ saying whether your product infringes the patent, one 
+
+ way of saying that.  So their point is, call it what you 
+
+ wish, but where you have a claim which amounts to a 
+
+ claim that my product does not infringe his patent, the 
+
+ rule that should apply is the person who owns the patent 
+
+ should have to prove that the claims do cover the 
+
+ product. 
+
+ And there are a lot of good reasons, et 
+
+ cetera, that they put in their brief why that should be 
+
+ so.  It's easiest for the patentee to know in what 
+
+ respect it violates the claim.  Normally, a patent, 
+
+ being a monopoly, should not have too many advantages 
+
+ beyond the scope of the monopoly. 
+
+ And we don't like false patents because 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ that ­­ you'd have different results in the same kind of 
+
+ patent with different people depending upon whether, in 
+
+ some other instance, your client brought a suit or 
+
+ whether this was ­­ I mean, you've read the arguments. 
+
+ So looking at those functional arguments, is 
+
+ there any answer that you have to their point, other 
+
+ than cases in different subject matters, where burdens 
+
+ of proof did shift? 
+
+ MR. NEUSTADT: 
+
+Well, the answer to your 
+
+ question is that the normal default rule is a 
+
+ fundamental tenet, that you can't go into court and say, 
+
+ it's the responsibility of the defendant to disprove the 
+
+ allegations of my complaint. 
+
+ In cases where you have the counterclaim, of 
+
+ course, the patentee is going to have the burden of 
+
+ proof.  In cases where there can be no counterclaim, you 
+
+ have only one party seeking relief, and that party has 
+
+ the burden of proof. 
+
+ And it follows from the normal default rule, 
+
+ which is the rule of the Court ­­ rule of this Court. 
+
+ It's the established rule of the land.  It's a 
+
+ fundamental tenet that a party cannot come into court ­­
+
+ JUSTICE SCALIA: 
+
+Then the Declaratory 
+
+ Judgment Act doesn't change it; that's your position? 
+
+ What do you do about the res judicata 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+33
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ problem?  Let's assume that we put the burden of proof 
+
+ where you want it.  Okay?  So this declaratory judgment 
+
+ action is defeated.  All right? 
+
+ Nonetheless, they say, still and all, we are 
+
+ going to go ahead and not pay any royalties.  And, then, 
+
+ you bring ­­ you bring an infringement action, right? 
+
+ MR. NEUSTADT: 
+
+Right. 
+
+ JUSTICE SCALIA: 
+
+Is ­­ is the prior decision 
+
+ res judicata, or are you going to have to relitigate the 
+
+ whole thing, but, this time, with the burden of proof on 
+
+ you? 
+
+ MR. NEUSTADT: 
+
+No, you're not going to have 
+
+ to relitigate the whole thing. 
+
+ JUSTICE SCALIA: 
+
+Why not?  You never ­­ you 
+
+ never established that you're entitled to any ­­ any 
+
+ infringement damages. 
+
+ MR. NEUSTADT: 
+
+I agree, but you're not going 
+
+ to have to relitigate the whole thing.  This issue is 
+
+ going to be decided on preponderance of the evidence. 
+
+ And we don't have the burden.  They have the burden on 
+
+ that.  Once that's decided ­­
+
+ JUSTICE SCALIA: 
+
+No, you ­­ you would 
+
+ normally have the burden as ­­ as the person claiming 
+
+ infringement. 
+
+ MR. NEUSTADT: 
+
+Oh, of course. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE SCALIA: 
+
+Of course. 
+
+ MR. NEUSTADT: 
+
+Of course. 
+
+ JUSTICE SCALIA: 
+
+Right?  So you'll have to 
+
+ relitigate the whole thing because you ­­ you never 
+
+ established that there was infringement.  In the 
+
+ declaratory judgment action, all you've established is 
+
+ that they didn't prove non­infringement. 
+
+ MR. NEUSTADT: 
+
+Yeah.  That's all true, and 
+
+ I'm not arguing with it. 
+
+ JUSTICE SCALIA: 
+
+So we have to relitigate 
+
+ the whole thing. 
+
+ MR. NEUSTADT: 
+
+No.  First of all ­­
+
+ JUSTICE SCALIA: 
+
+What's the alternative? 
+
+ MR. NEUSTADT: 
+
+Okay.  I will give you two 
+
+ answers.  The first answer is you are never going to get 
+
+ this situation because the last thing in the world 
+
+ Medtronic wants to do is give up its license.  So it's 
+
+ not going to ­­ it's not going to stop paying royalties. 
+
+ The same thing in ­­
+
+ JUSTICE SCALIA: 
+
+It's my hypothetical, okay? 
+
+ (Laughter.) 
+
+ MR. NEUSTADT: 
+
+Okay.  Now, to follow your ­­
+
+ to follow ­­ to follow your hypothetical, the court who, 
+
+ say, tries the issue with respect to whether or not 
+
+ there's claim coverage ­­ and let's say we prevail 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ on that.  When there's a subsequent infringement action, 
+
+ you're correct, we cannot say that they're estopped by 
+
+ res judicata or issue preclusion. 
+
+ But we can say, Your Honor, you've seen this 
+
+ entire case.  Now, where it was preponderance of the 
+
+ evidence before, it's now preponderance of the evidence 
+
+ on the other side.  It may be the difference between 
+
+ 49.9 and 50.5.  And we're going to bring a motion for 
+
+ summary judgment and ­­
+
+ JUSTICE SCALIA: 
+
+So your answer is, Justice 
+
+ Scalia, you're right, but it doesn't matter very much. 
+
+ That's your answer, right? 
+
+ MR. NEUSTADT: 
+
+And I've got one further 
+
+ answer to that. 
+
+ JUSTICE SCALIA: 
+
+Okay. 
+
+ MR. NEUSTADT: 
+
+And that is, there is no 
+
+ exception to ­­ to 100 percent lack of finality with 
+
+ respect to the normal default rule.  The normal default 
+
+ rule is more important than saying that, if there is a 
+
+ little bit of chance of a lack of finality, we're going 
+
+ to throw out the entire normal default rule in ­­ in 
+
+ favor of this rule and put the burden of proof on the 
+
+ party who is not even seeking any relief. 
+
+ And there was no shifting in this case. 
+
+ Shifting involves starting with a position, shifting to 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ another position.  As soon as they filed the suit and 
+
+ you're the only party seeking relief, they would have 
+
+ the burden of proof. 
+
+ Now, if they are infringing, we can 
+
+ counterclaim.  Then we're going to have the burden of 
+
+ proof because that's an issue where you have two parties 
+
+ seeking relief, and that's a little more complicated. 
+
+ JUSTICE GINSBURG: 
+
+Why ­­ why isn't that 
+
+ true here?  Because you are seeking release of the 
+
+ escrowed funds. 
+
+ MR. NEUSTADT: 
+
+We're not seeking it in the 
+
+ suit.  The way the agreement was between the parties was 
+
+ if Medtronic disagrees with our assessment, then they 
+
+ can go ahead and file a DJ action, and if they can 
+
+ prevail in that DJ action, they won't have to pay.  We 
+
+ seek nothing in the suit.  We have no counterclaim. 
+
+ We're asking for nothing. 
+
+ As to Justice Kennedy's question before, as 
+
+ notice of infringement, there was no notice of 
+
+ infringement.  What we told them was there was claim 
+
+ coverage.  And there's a big difference between claim 
+
+ coverage and infringement. 
+
+ If we tell them that we're asserting 
+
+ infringement, we're going to have the burden of proof. 
+
+ We can't assert infringement because they're the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ licensee. 
+
+ JUSTICE KENNEDY: 
+
+Well, there would have 
+
+ been infringement if you had refused to pay the royalty, 
+
+ and ­­
+
+ MR. NEUSTADT: 
+
+If they had ­­
+
+ JUSTICE KENNEDY: 
+
+And if they had refused to 
+
+ pay the royalty and you were covered, then ­­ then there 
+
+ would have been infringement. 
+
+ MR. NEUSTADT: 
+
+But then you're changing all 
+
+ the facts around.  That's not ­­ that's not what we're 
+
+ dealing with in this case. 
+
+ JUSTICE KENNEDY: 
+
+All right.  I understand. 
+
+ MR. NEUSTADT: 
+
+And in MedImmune ­­
+
+ JUSTICE KAGAN: 
+
+Well, Mr. Neustadt, I think 
+
+ I just disagree with that.  You keep on saying it's a 
+
+ question of claim coverage, but the question of claim 
+
+ coverage, all that is, is part of an infringement 
+
+ analysis. 
+
+ And that's the analysis, as Justice Kennedy 
+
+ said, that's the analysis that would have been 
+
+ appropriate if Medtronic had stopped paying royalties 
+
+ and MVF had sued Medtronic as a result for patent 
+
+ infringement. 
+
+ And that's the world that we're supposed to 
+
+ imagine after MedImmune, is if, contra the ­­ the actual 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+38
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ agreement, the licensee stopped paying royalties, and we 
+
+ think about an infringement suit. 
+
+ MR. NEUSTADT: 
+
+No.  That is ­­ permit me to 
+
+ disagree with you.  MedImmune was not involved with 
+
+ that.  Here was the problem in MedImmune:  The MedImmune 
+
+ did not want to continue to pay the royalties, but it 
+
+ needed the license.  80 percent of its product line was 
+
+ dependent upon that license. 
+
+ So as a matter of sheer rigidity, they could 
+
+ not not pay the royalty.  They will lose their whole 
+
+ business.  They wanted to get into Federal court.  At 
+
+ that time, the Federal circuit had a Gen­Probe ruling 
+
+ which says, everyone's paying royalties, there's no 
+
+ dispute.  In MedImmune, this Court reversed.  You said, 
+
+ there's enough of a controversy for MedImmune to have 
+
+ this ­­ to ­­ to go in with the DJ action. 
+
+ In that suit, it'd be exactly like this 
+
+ suit.  The patentee could not counterclaim because there 
+
+ is no infringement.  MedImmune is still paying its 
+
+ royalties. 
+
+ So in the MedImmune case ­­ but they never 
+
+ got to it because ­­ because that MedImmune case was 
+
+ settled ­­ you have the exact same situation we have 
+
+ here, which is that there is no counterclaim, and 
+
+ therefore, MedImmune, who is seeking relief, has the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ burden to show it's entitled to relief. 
+
+ JUSTICE BREYER: 
+
+Well, how ­­ what do you do 
+
+ with the government's argument here, which I take it as 
+
+ being on page 17, they make an argument which, as I 
+
+ understood it ­­ which is a big qualification ­­ the ­­
+
+ the ­­ some of these things are awfully complicated. 
+
+ You might have a ­­ a claim or, really, it's a set of 
+
+ claims that cover 48 pages with all kinds of symbols 
+
+ and ­­ and 42 different sort of division possibilities. 
+
+ And ­­ and then the ­­ the so­called 
+
+ infringer, or the person who falls outside the coverage, 
+
+ is looking at his product, and it's one of the most 
+
+ complex things you've ever seen.  And he has to think to 
+
+ himself, well, how ­­ how am I supposed ­­ how does the 
+
+ claim cover this?  And ­­ and it's ­­ there are many, 
+
+ many, many possibilities. 
+
+ I take it that's what they mean when they 
+
+ say it makes sense to put the burden of demonstrating 
+
+ how the claim limitations map onto the accused product 
+
+ because infringement may be found only when the product 
+
+ falls within the scope ­­ scope of the asserted claim or 
+
+ claims in every respect. 
+
+ Your client, who's the patentee, knows how. 
+
+ Otherwise, he wouldn't be bringing this infringement 
+
+ suit or the inside­the­coverage suit or responding to 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ someone who says it's outside the coverage. 
+
+ But ­­ but the person who is the alleged 
+
+ infringer might not know it, and therefore, it makes 
+
+ sense to put everything in the same place; notice of 
+
+ infringement, burden of production, burden of proof. 
+
+ And that way, it will be easier to focus on what's at 
+
+ stake. 
+
+ That's what I take it their argument is. 
+
+If 
+
+ I've not got it right, you're certainly ­­
+
+ MR. NEUSTADT: 
+
+I think it's pretty close. 
+
+ JUSTICE BREYER: 
+
+All right. 
+
+ MR. NEUSTADT: 
+
+It's absolutely not true. 
+
+ First of all ­­ well, the first answer ­­
+
+ and I'll get to the second answer ­­ is if you have that 
+
+ and say, well, it's more convenient for us to do it, 
+
+ you're creating a patent law exception to the normal 
+
+ default. 
+
+ And that's something you keep telling the 
+
+ Federal circuit not to do.  Like in eBay, don't create a 
+
+ separate patent rule for injunctions. 
+
+ JUSTICE KAGAN: 
+
+It's ­­ it's not a patent 
+
+ law exception.  It's the recognition that a procedural 
+
+ device that simply changes the nominal status of the 
+
+ parties doesn't change the substantive rules and that 
+
+ the burden of proof counts as a substantive issue. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+41
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. NEUSTADT: 
+
+But you only have that 
+
+ substantive rule where the patentee counterclaims.  When 
+
+ the patentee counterclaims, you have two parties seeking 
+
+ relief.  Naturally, the patentee has the burden of 
+
+ proof.  If there is no counterclaim, there can be no 
+
+ infringement.  You're just talking about claim coverage. 
+
+ But it's the second part of your question, 
+
+ Justice Breyer, what happens is the ­­ the patentee, 
+
+ when they give notice of claim coverage, they can tell 
+
+ them.  There's no mysteries ­­
+
+ JUSTICE BREYER: 
+
+But do they have to tell 
+
+ them? 
+
+ MR. NEUSTADT: 
+
+Well, they always do. 
+
+ There's no mystery.  If ­­
+
+ JUSTICE BREYER: 
+
+They always do? 
+
+ MR. NEUSTADT: 
+
+Well, sure.  I mean, if you 
+
+ go into the suit, the first question is interrogatory, 
+
+ why do you think this ­­ why do you think this is 
+
+ covered?  So there's no mystery as to that.  And it's 
+
+ much easier to prove non­infringement than to prove 
+
+ infringement because these are governed by the all 
+
+ elements rule. 
+
+ The all elements rule means that if the 
+
+ patentee wants to prove infringement of a claim that has 
+
+ ten elements, he's got to prove ten elements or in ­­ or 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+42
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ in your example, many more. 
+
+ For the person who is ­­ is the licensee, 
+
+ you want to prove non­infringement, he has to only pick 
+
+ one of those elements and say, I don't have it. 
+
+ JUSTICE BREYER: 
+
+I see, that's a 
+
+ good point.  So what you're saying is that page 19 or 
+
+ whatever I quoted is a made­up thing, which doesn't 
+
+ ever ­­ never really exists in your experience. 
+
+ MR. NEUSTADT: 
+
+Oh, that's right. 
+
+ JUSTICE BREYER: 
+
+Because the first question 
+
+ would be, well, you tell me how ­­ how this infringes. 
+
+ MR. NEUSTADT: 
+
+Yeah.  And that argument 
+
+ wasn't even presented to the Federal circuit before its 
+
+ decision.  And the Federal circuit would have openly 
+
+ rejected it and say, you've got to be kidding. 
+
+ JUSTICE BREYER: 
+
+So you're saying, I don't 
+
+ really care about what is an action where there is an 
+
+ infringement action or there even could be one in the 
+
+ circumstances before us, that's not my case because 
+
+ they're going to pay me forever, if they lose this 
+
+ declaratory judgment, so there's no shift. 
+
+ And where there's no shift, you ought to 
+
+ follow the rules for where there's no shift, which is 
+
+ that the burden lies on the person bringing the suit. 
+
+ MR. NEUSTADT: 
+
+That's exactly right. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+43
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+ JUSTICE BREYER: 
+
+That's your argument? 
+
+ MR. NEUSTADT: 
+
+Yes.  The analysis that the 
+
+ Federal circuit did is they've got a burden of proof 
+
+ issue. 
+
+ JUSTICE BREYER: 
+
+I ­­ I see. 
+
+ MR. NEUSTADT: 
+
+Let me find the controlling 
+
+ law.  The controlling law is the normal default rule. 
+
+ I've got only one party here seeking relief, and that's 
+
+ the ­­ the licensee, so why shouldn't he prove this? 
+
+ JUSTICE BREYER: 
+
+And your argument is that 
+
+ the horribles don't exist because the one on page 19 
+
+ never has come up, and as far as the no ­­ no res 
+
+ judicata, I don't care because I'll come to the same 
+
+ result with a different means. 
+
+ MR. NEUSTADT: 
+
+Yeah.  And then ­­
+
+16 
+
+   
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ JUSTICE BREYER: 
+
+And any other ­­ is there 
+
+ any other ­­ is there any other practical point that 
+
+ they brought up that you want respond to? 
+
+ MR. NEUSTADT: 
+
+Oh, sure.  Hundreds of 
+
+ claims, that's ridiculous ­­ you know, the courts say, 
+
+ hey ­­ you know, I have other cases on my docket, get 
+
+ down to five claims. 
+
+ Anticipate any argument? 
+
+The person suing, 
+
+ the DJ licensee, doesn't have to anticipate any 
+
+44
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ argument.  He said, you told me it was these claims. 
+
+ And we even had an agreement with him we couldn't go 
+
+ over 30.  And all I got to do is say, in claim 1, we don't 
+
+ have element number 6.  In Claim 2, we don't have 
+
+ element number 4.  It's a very simple manner.  There is 
+
+ no problem whatsoever there. 
+
+ So what the Federal Circuit did is, I've got 
+
+ a burden of proof issue.  Let me find the controlling 
+
+ law.  I’ll look to the Supreme Court.  The Supreme Court says 
+
+ there is a normal default rule, and it's the party 
+
+ seeking relief. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Yes, but you are 
+
+ overlooking the ­­ the elephant in the room, which is 
+
+ the relief they are seeking is protection against the 
+
+ relief that you would be seeking, but for the 
+
+ declaratory judgment action. 
+
+ MR. NEUSTADT: 
+
+We ­­ we can never seek it 
+
+ because they are not infringing.  And we do not have to 
+
+ file a counterclaim for claim coverage because there is 
+
+ no requirement that we do so.  There is no coercive 
+
+ complaint.  If they are suing ­­ if there was a 
+
+ non­infringement situation, we'd would have to file the 
+
+ coercive complaint. 
+
+ JUSTICE SCALIA: 
+
+The Declaratory Judgment 
+
+ Act is addressed to potential coercion, not actual 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+45
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ coercion.  That's the whole point.  You should be able 
+
+ to bring the suit before coercion is applied. 
+
+ Now, it is true that you're not applying 
+
+ coercion right now, but what they're worried about is, 
+
+ if they stop paying the royalties, you will apply 
+
+ coercion, and the Declaratory Judgment Act is a way of 
+
+ getting this on the table before a court without their 
+
+ having to go into default and incurring all the 
+
+ penalties, but it is not intended to shift the burden of 
+
+ proof. 
+
+ MR. NEUSTADT: 
+
+Well, it doesn't shift the 
+
+ burden of proof. 
+
+ JUSTICE SCALIA: 
+
+It does shift the burden of 
+
+ proof because if what they are worried about is your 
+
+ claiming infringement and ­­ and exacting a penalty from 
+
+ them for their not paying the royalties that the 
+
+ agreement provides, okay, that's what they are worried 
+
+ about. 
+
+ The Declaratory Judgment Act enables them to 
+
+ sue beforehand, before they incur liability.  That's its 
+
+ whole purpose, and its purpose is not to shift the 
+
+ burden of proof. 
+
+ MR. NEUSTADT: 
+
+The ­­ in answer to your ­­
+
+ your hypothetical, I agree with you on all of that.  But 
+
+ as in the MedImmune case, MedImmune ends up with the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+46
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ burden of proof.  MedImmune says, I've got to get a 
+
+ resolution to this question.  I want you to overrule 
+
+ Gen­Pro, I want to show why the ­­ why my product is not 
+
+ covered. 
+
+ Well, all of that's fine, there is nothing 
+
+ the matter with that, there is no coercion.  It's just 
+
+ that, when MedImmune does this, it's going to have the 
+
+ burden to show it. 
+
+ JUSTICE BREYER: 
+
+But you would agree with 
+
+ this, you would agree that, if that agreement of yours 
+
+ read a little differently, if MedImmune ­­ if they had 
+
+ said ­­ you know, we are not going to pay royalties 
+
+ until your client brings an infringement suit, which you 
+
+ intend to do, at that point, if you'd made that promise, 
+
+ you would have the burden of proof because you'd bring 
+
+ an infringement suit. 
+
+ MR. NEUSTADT: 
+
+Well, of course. 
+
+ JUSTICE BREYER: 
+
+And if they said either an 
+
+ infringement suit or a declaratory judgment action, 
+
+ then, again, you would have the burden of proof, even in 
+
+ the declaratory judgment action because then they would 
+
+ be totally parallel. 
+
+ I mean, then you'd have, if you brought the 
+
+ infringement suit, it's yours.  And then, in the 
+
+ declaratory judgment action, it should be true, too, in 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+47
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ your view. 
+
+ MR. NEUSTADT: 
+
+Well, the way it is, if you 
+
+ have one party seeking relief, the licensee ­­
+
+ JUSTICE BREYER: 
+
+But I mean ­­
+
+ MR. NEUSTADT: 
+
+­­ the licensee's got the 
+
+ burden. 
+
+ JUSTICE BREYER: 
+
+The answer is yes or no. 
+
+ The answer is yes or no.  That is, am I right in ­­ in 
+
+ understanding your argument that if that agreement had 
+
+ said you can bring either kind of suit, either we ­­
+
+ yes, we the patentee, will bring a suit, in which case, 
+
+ you will defend it; or if you bring it first, you can 
+
+ bring a declaratory judgment action, okay, for the same 
+
+ thing. 
+
+ If it had said that and the agreement had 
+
+ held up the royalties until one or the other was 
+
+ decided, then your client, the patentee, would have the 
+
+ burden of proof in either because it's exactly the same 
+
+ thing. 
+
+ You could have brought ­­ are you following 
+
+ me? 
+
+ MR. NEUSTADT: 
+
+No, I'm afraid not. 
+
+ JUSTICE BREYER: 
+
+Okay.  Skip it. 
+
+ (Laughter.) 
+
+ MR. NEUSTADT: 
+
+So, really, what the Federal 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+48
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ circuit did ­­ said there was no shifting here.  First, 
+
+ you've got to look to who's got the burden of proof. 
+
+ You get that from Schaffer, the normal default rule, 
+
+ only one party seeking relief. 
+
+ And then they said, and besides, the 
+
+ patentee could not have brought suit because you can’t 
+
+ accuse him of infringement.  So you have a simple case of 
+
+ only one party seeking relief; that party has the 
+
+ burden. 
+
+ And you would have that anyway even ­­ even 
+
+ without this agreement, because only one party can bring 
+
+ suit.  It's just like in Schaffer.  This party brings 
+
+ suit, they have the burden.  Other party brings suit, 
+
+ they have the burden. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+So you are really 
+
+ looking at it, though, from the point of view of a contract 
+
+ action, rather than a patent action. 
+
+ MR. NEUSTADT: 
+
+Well, it can't be a patent 
+
+ action because the whole purpose of the license is not 
+
+ to have an infringer.  And it is a contract action and 
+
+ that gets into the jurisdictional question. 
+
+ And, to answer Justice Ginsburg's question, 
+
+ yes, there isn't the usual jurisdiction that you would 
+
+ have in a patent infringement action.  And this comes 
+
+ from the unanimous opinion of this Court earlier this 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+49
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ year in Gunn vs. Minton, in which I think Your Honor ­­
+
+ Your Honor was the author, which says that that's just a 
+
+ contract action. 
+
+ Just having a patent question doesn't get 
+
+ you into Federal court. 
+
+ JUSTICE KAGAN: 
+
+But Mr. Neustadt, I was under 
+
+ the impression that, according to this contract, if 
+
+ Medtronic stops paying royalties, you can bring not 
+
+ only a contract suit, but, in fact, a patent suit. 
+
+ MR. NEUSTADT: 
+
+Well ­­
+
+ JUSTICE KAGAN: 
+
+An infringement suit. 
+
+ MR. NEUSTADT: 
+
+­­ that has nothing to do 
+
+ with the contract because then they've breached the 
+
+ contract. 
+
+ JUSTICE KAGAN: 
+
+But you can bring an 
+
+ infringement suit according to the very agreement that 
+
+ you signed. 
+
+ MR. NEUSTADT: 
+
+It's not in accordance with 
+
+ the agreement.  We can't bring an infringement suit. 
+
+ They are not infringing. 
+
+ JUSTICE KAGAN: 
+
+They are infringing if they 
+
+ break the contract, and they stop paying royalties. 
+
+ MR. NEUSTADT: 
+
+Oh, sure. 
+
+ JUSTICE KAGAN: 
+
+And then you can bring an 
+
+ infringement suit. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+50
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. NEUSTADT: 
+
+Well, of course.  But that's 
+
+ not the situation we face here.  That ­­ that's always 
+
+ been true.  I mean, if they want to, if the burden of 
+
+ proof is so burdensome to them, just go ahead and 
+
+ breach.  And then we will sue them, and we will have the 
+
+ burden of proof. 
+
+ JUSTICE SCALIA: 
+
+You can always say that in 
+
+ declaratory judgment actions, that is not the situation 
+
+ we face.  The Declaratory Judgment Act posits a 
+
+ hypothetical situation.  It always does. 
+
+ MR. NEUSTADT: 
+
+You cannot say that we’re going to ­­
+
+ JUSTICE SCALIA: 
+
+I am worried that you are 
+
+ going to sue me later.  You are not suing me now. 
+
+ That's not the situation I face.  But I worry that you 
+
+ will sue me later. 
+
+ MR. NEUSTADT: 
+
+But you have ­­ but how can I 
+
+ sue later if you're continuing to pay royalties?  That 
+
+ was ­­ that was the MedImmune situation.  MedImmune 
+
+ said, I've got to pay you royalties ­­
+
+ JUSTICE SCALIA: 
+
+They don't want to ­­ they 
+
+ don't want to continue to pay royalties.  That's the 
+
+ point.  That's why they bring the Declaratory Judgment 
+
+ Act, so that the court can tell them, you don't have to 
+
+ pay royalties because this stuff is not covered. 
+
+ MR. NEUSTADT: 
+
+Well, that's absolutely 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+51
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ right.  But in that case ­­ and the court didn't rule 
+
+ upon it because it got remanded ­­ they would have the 
+
+ burden of proof because they are the only party seeking 
+
+ relief.  You can't say not only ­­
+
+ JUSTICE GINSBURG: 
+
+You cite ­­ you cite the 
+
+ default rule, and you rely on that totally.  But there 
+
+ are other rules on burden of proof, for example, the 
+
+ party who has better access to the information, so it's 
+
+ not as though there is this firm rule with no 
+
+ exceptions. 
+
+ I take it, from your answers to 
+
+ Justice Scalia, that you are saying in every declaratory 
+
+ judgment action where only one party is seeking relief, 
+
+ that party has the burden of proof.  So you're not 
+
+ limiting this to patent cases; is that right? 
+
+ MR. NEUSTADT: 
+
+Oh, that's correct.  That's 
+
+ the normal default rule.  And there should be no 
+
+ exception to that. 
+
+ I see my light is red. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Waxman, you have three minutes 
+
+ remaining. 
+
+ REBUTTAL ARGUMENT OF SETH P. WAXMAN 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. WAXMAN: 
+
+I'd be happy to respond to any 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+52
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+
+3
+
+4
+
+
+5
+
+
+6
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ questions that the Court has. 
+
+
+ Otherwise, I think we’ll submit on the briefs. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Okay.  Thank you 
+
+
+ counsel.  Counsel. 
+
+
+ The case is submitted. 
+
+ (Whereupon, at 1:54 p.m., the case in the 
+
+ above­entitled matter was submitted.) 
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+53 
+
+Alderson Reporting Company 
+
+affirmative 9:2,9 
+9:13 10:4,16,21 
+affirmatively 8:1 
+
+9:20 
+
+afraid 48:22 
+afternoon 3:4 
+agree 4:9 9:3 12:15 
+
+13:14 14:11,17 
+22:24 34:17 46:24 
+47:9,10 
+
+agreed 16:12 27:4 
+27:8,12,15 31:25 
+
+agreement 11:11 
+
+Official 
+Official
+
+38:20 44:2 
+
+answer 6:16 7:10 
+
+amount 4:14 
+amounts 32:14 
+analysis 38:18,19 
+
+articulated 12:7 
+articulation 9:3 
+asked 7:18 
+asking 37:17 
+aspect 16:18 
+33:6,9 35:15 
+assert 8:6 37:25 
+36:10,12,14 41:13  asserted 40:21 
+asserting 37:23 
+41:14 46:23 48:7 
+assessment 37:13 
+48:8 49:22 
+assistant 1:18 
+associated 19:12 
+
+answered 7:16 
+answers 35:15 
+
+52:11 
+
+22:2 
+
+anticipate 44:24,25  assume 34:1 
+anyway 49:10 
+
+assuming 12:23 
+attorneys 13:22 
+
+19:13 
+
+applicability 19:21  available 19:14 
+applicable 18:18 
+
+awfully 40:6 
+
+11:20,21,25 12:8 
+12:10 13:20 14:11  appearances 1:15 
+14:15 16:17,18 
+appellate 21:21 
+17:6,12,14 18:1,2  appendix 18:10 
+18:6 21:6 22:6,8 
+22:12 25:25 27:5 
+27:5,23,25 28:15 
+28:18 37:12 39:1 
+45:2 46:17 47:10 
+48:9,15 49:11 
+50:16,19 
+
+applied 23:15 46:2 
+apply 16:3 19:24 
+
+32:16 46:5 
+
+21:7 23:25 
+
+30:23 
+
+A 
+
+ability 18:7,8 
+able 46:1 
+aboveentitled 1:12 
+
+53:7 
+
+absence 11:2,19 
+
+14:24 
+
+absolutely 10:9 
+
+41:12 51:25 
+
+access 26:22 52:8 
+account 18:15 
+
+26:17,21 
+
+accruing 14:8 
+accuse 49:7 
+accused 8:10 29:6 
+
+40:19 
+
+acknowledge 21:4 
+act 3:21 5:19 6:12 
+10:24 15:17,17 
+16:5,7 19:7,15 
+20:7 21:9,14,16 
+21:23 27:16 33:24 
+45:25 46:6,19 
+51:9,23 
+
+action 3:14 5:14,18  agreements 11:16 
+
+agrees 16:2 
+ahead 26:7 34:5 
+
+5:21 6:11 10:17 
+12:1,18,22 13:23 
+37:14 51:4 
+14:12 15:3,16 
+aimed 6:12 
+16:4,6 18:21,23 
+al 1:7 
+18:25 19:3 20:1 
+alexandria 1:22 
+20:21 21:2 23:4 
+24:18,19,22 25:16  alito 4:1,13 5:17 
+29:3,14,22 34:3,6  allegations 33:13 
+alleged 9:16 10:7 
+35:6 36:1 37:14 
+37:15 39:16 43:17 
+43:18 45:16 47:19  alleges 21:13 
+47:21,25 48:13 
+49:17,17,19,20,24  allow 23:3 
+50:3 52:13 
+
+allocation 3:19 
+
+41:2 
+
+actions 3:23,23 
+29:5,13 51:8 
+
+allowing 23:1 
+allows 13:21 16:7 
+alter 30:9 
+alternative 35:13 
+amendments 21:23  arthur 1:22 2:10 
+america 21:23 
+adjudication 14:13  amicus 1:20 2:7 
+advantages 32:23 
+
+actual 38:25 45:25 
+addressed 4:8 7:7 
+
+article 7:8,21 8:22 
+articulate 13:3 
+
+20:17 21:2,13 
+
+15:23 21:25 
+
+45:25 
+
+23:9 
+
+B 
+
+balance 15:19 
+
+22:22 
+
+applying 14:21 
+
+46:3 
+
+based 31:7 
+basic 6:4 7:13 
+basis 15:4 18:19 
+beacon 11:5 
+bear 12:2,23 22:13 
+
+appropriate 38:21 
+area 6:14 
+arent 12:7 
+arguing 35:9 
+argument 1:13 2:2  behalf 1:16,23 2:4 
+
+22:14 
+
+2:5,9,12 3:3,7 
+15:22 19:2 23:9 
+40:3,4 41:8 43:12  behave 19:20 
+44:1,10,24 45:1 
+48:9 52:23 
+
+behaving 19:19 
+believe 28:22 
+beneficial 14:16 
+arguments 33:4,5 
+benefit 14:5 
+arisen 11:2 22:15 
+arises 3:14 20:7,13  benefits 22:5 
+
+arising 20:12 
+arrangements 22:3  beyond 32:24 
+
+best 16:5,6 18:22 
+better 52:8 
+
+big 28:8 37:21 40:5 
+bit 36:20 
+bogeyman 13:2 
+borne 10:20 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Page 54 
+
+boston 1:6 3:4 
+bound 14:13 27:20 
+
+27:23,24 
+
+breach 8:13 13:19 
+
+17:4,6 19:17 
+29:16,18,20 51:5 
+
+breached 20:24 
+
+50:13 
+
+breaching 19:12 
+break 50:22 
+breyer 31:8,11,16 
+31:21 32:3,6,11 
+40:2 41:11 42:8 
+42:11,15 43:5,10 
+43:16 44:1,5,10 
+44:17 47:9,18 
+48:4,7,23 
+
+21:9 32:20 
+
+briefs 22:1 53:2 
+bring 12:22 15:3 
+
+21:12 23:4 25:16 
+30:17 31:24 34:6 
+34:6 36:8 46:2 
+47:15 48:10,11,12 
+48:13 49:11 50:8 
+50:15,19,24 51:22 
+
+bringing 24:19 
+
+40:24 43:24 
+
+brings 29:16 30:19 
+
+47:13 49:12,13 
+
+18:25 19:3 20:22 
+33:3 44:19 47:23 
+48:20 49:6 
+
+build 29:1 
+burden 3:11,13,19 
+3:22 4:2,6,7,9,16 
+5:2,2,5,17,24 6:7 
+6:10,15 8:23 
+10:20,23,25 12:2 
+12:23 14:23 15:1 
+15:10,16 16:3 
+17:16 22:13 23:15 
+24:4,13,15,21,24 
+
+author 50:2 
+authority 23:22,23  brief 9:5 13:3 20:11 
+
+2:11,14 3:8 23:10  broad 13:25 
+52:24 
+
+brought 3:16,25 
+
+Official 
+
+38:16,16 40:7,15 
+40:19,21 42:6,9 
+42:24 45:3,4,19 
+
+claimed 29:11 
+claiming 9:18 
+
+constitute 23:2 
+contemplated 
+
+11:12 16:9 22:8 
+context 8:8 13:22 
+
+22:14,21 
+
+12:22 29:17 34:23  continue 19:9 
+46:15 
+
+22:13 26:1 39:6 
+51:21 
+
+continuing 51:17 
+contra 38:25 
+contract 19:17,23 
+
+claims 9:11,17 20:8 
+22:15 31:18 32:7 
+32:17 40:8,22 
+44:21,23 45:1 
+
+clear 8:9 15:5 
+
+21:16 
+
+clearly 5:10 24:22 
+client 33:3 40:23 
+
+contractual 18:12 
+controlled 23:17 
+controlling 44:6,7 
+
+47:13 48:17 
+clinical 15:7 
+close 41:10 
+coerced 19:10 
+coercion 45:25 46:1  controversy 6:18 
+
+controversies 16:8 
+
+45:8 
+
+20:13,13,24 29:16 
+49:16,20 50:3,7,9  courts 30:15 44:21 
+cover 12:20 31:19 
+50:13,14,22 
+32:9,17 40:8,15 
+
+Page 55 
+
+court 1:1,13 3:10 
+
+5:1,10,13 6:7 7:7 
+7:10 8:8 10:1 
+11:5,25 14:23 
+15:1,11 16:1,9 
+19:6,20 20:11 
+21:20 23:6,12 
+30:16 33:11,20,20 
+33:22 35:23 39:11 
+39:14 45:9,9 46:7 
+49:25 50:5 51:23 
+52:1 53:1 
+
+coverage 20:3 28:4 
+
+28:5 29:8 31:15 
+31:16,22 35:25 
+37:21,22 38:16,17 
+40:11 41:1 42:6,9 
+45:19 
+
+covered 8:10 16:12 
+
+17:8 18:4 28:15 
+38:7 42:19 47:4 
+51:24 
+
+covers 12:21 
+create 41:19 
+creating 41:16 
+curiae 1:20 2:7 
+
+15:23 
+
+curtis 1:18 2:6 
+
+cause 9:8 29:22 
+
+6:14,24 9:5 14:22 
+31:6 33:7,14,16 
+44:22 52:15 
+
+28:11 29:10 30:4 
+30:9,18,20 33:15 
+33:18 34:1,10,20 
+34:20,23 36:22 
+37:3,5,24 40:1,18  caused 14:25 
+causes 14:23 
+41:5,5,25 42:4 
+43:24 44:3 45:8 
+cease 21:10 
+46:9,12,13,22 
+ceased 10:19 
+47:1,8,15,20 48:6  certain 11:11,16,22 
+48:18 49:2,9,13 
+49:14 51:3,6 52:3  certainly 5:4 41:9 
+52:7,14 
+
+16:12 
+
+certified 18:15 
+cetera 32:20 
+challenge 18:8 
+challenging 17:11 
+chance 36:20 
+change 3:21 5:15 
+
+6:12 17:22,23 
+18:13,16 22:18 
+26:12,12 29:25 
+33:24 41:24 
+
+burdens 5:11 33:7 
+burdenshifting 
+
+16:22 
+
+burdensome 51:4 
+business 39:11 
+
+C 
+
+c 1:9,16,19 2:1 3:1 
+cabilly 8:10 
+call 31:14,21,22,23 
+
+32:13 
+
+called 31:13 
+cant 7:9 15:16 
+26:21 27:1,10 
+29:19 30:11,12 
+33:11 37:25 49:18 
+50:19 52:4 
+
+care 13:13 43:17 
+
+44:13 
+
+46:2,4,6 47:6 
+
+coercive 3:24 5:21 
+10:17 16:4 18:24 
+20:21 21:2 25:4 
+45:20,23 
+
+changes 6:4 41:23 
+changing 38:9 
+channel 16:19 
+chief 3:3,9 6:2,10 
+15:20,25 17:20 
+19:1 23:7,12 25:4  come 11:25 33:22 
+45:12 49:15 52:20 
+53:3 
+
+collecting 18:15 
+
+44:12,13 
+
+comes 49:24 
+complaint 20:5,6 
+
+circuit 3:15 5:10 
+
+20:21 21:12 24:8 
+13:25 14:21 15:13 
+21:22 23:13,14 
+33:13 45:21,23 
+39:12 41:19 43:13  completely 24:2 
+complex 40:13 
+43:14 44:3 45:7 
+49:1 
+complicated 30:5 
+
+37:7 40:6 
+
+compulsory 29:9 
+conceived 12:9 
+conceptualize 
+
+20:20 
+
+case 3:4,12 4:5,14 
+4:25 5:8 6:17,18 
+7:1,14,22,24 8:9 
+10:3,11,22 11:11 
+12:6,6,9 14:1 15:1  circumstance 29:5 
+15:14 19:17,18 
+20:9,12,13,16 
+23:14,21 24:14 
+28:12 29:11,13 
+30:14,21 31:1 
+36:5,24 38:11 
+39:21,22 43:19 
+46:25 48:11 49:7 
+52:1 53:5,6 
+
+cite 30:15 52:5,5 
+claim 9:8,22,25 
+
+circumstances 
+22:10 43:19 
+
+cases 4:12 5:4,6,7 
+
+7:3,23 8:12 39:15 
+
+convenient 41:15 
+corporation 1:7 3:5 
+correct 4:4 26:23 
+
+27:17 31:20 32:2 
+36:2 52:16 
+
+correlative 10:17 
+couldnt 8:24 14:16 
+
+31:24 45:2 
+
+counsel 15:20 23:7 
+23:19 52:20 53:4 
+53:4 
+
+15:22 
+counterclaim 14:24  cut 6:3 
+
+25:4,8,11,12,17 
+28:7,9 29:9,14,19 
+29:25 30:11,12 
+31:24 33:14,16 
+37:5,16 39:18,24 
+42:5 45:19 
+
+counterclaims 42:2 
+
+42:3 
+
+counts 41:25 
+couple 17:24 
+
+D 
+
+d 1:9,16,19 3:1 
+damages 13:21 
+
+19:13 34:16 
+day 11:23 13:6 
+
+14:18 
+
+days 8:1,5 14:6 
+deal 17:2 
+dealing 30:6,7 
+
+38:11 
+
+concern 4:2 17:10 
+concerns 4:1 
+
+11:7,8,21 12:13 
+15:4 20:17 21:13 
+28:4,5 29:8 31:12  conclusion 23:16 
+31:13,15,16,22 
+32:1,8,14,15,22 
+35:25 37:20,21 
+
+concrete 8:11 19:21  course 4:23 26:14 
+congress 9:20 
+consideration 4:9 
+
+33:15 34:25 35:1  dec 12:22 
+35:2 47:17 51:1 
+
+decide 24:13,15 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+8:18 9:17 19:11 
+entering 22:6 
+24:13,22 29:15,25  entire 36:5,21 
+30:9 31:4,17 
+entitled 24:10 
+33:24 36:11 41:24 
+43:7 44:25 46:11 
+50:4 
+
+34:15 40:1 
+
+equipoise 4:22 
+equitable 11:9 
+equivalent 3:24 
+
+dollars 13:14 14:4 
+dont 7:5 9:18 11:23 
+
+5:20 
+
+erred 5:10 
+error 3:18 
+
+13:13 17:5,22 
+27:8 28:13,13,25 
+31:19 32:25 34:20  escrow 26:17,21 
+escrowed 37:10 
+41:19 43:4,16 
+44:11,13 45:3,4 
+esq 1:16,18,22 2:3 
+51:20,21,23 
+
+2:6,10,13 
+
+essential 7:19,21 
+essentially 11:18,24 
+established 33:21 
+
+34:15 35:5,6 
+
+estopped 17:13,15 
+
+36:2 
+
+estoppel 9:12,25 
+
+10:22 
+
+et 1:7 32:19 
+event 14:18 
+eventuality 13:9 
+everybody 19:19 
+everybodys 6:6 
+everyones 39:13 
+evidence 34:19 
+
+36:6,6 
+
+exact 39:23 
+exacting 46:15 
+exactly 4:21 6:15 
+
+E 
+
+e 1:18 2:1,6 3:1,1 
+
+15:22 32:8 
+earlier 49:25 
+easier 41:6 42:20 
+easiest 32:21 
+ebay 41:19 
+education 30:16 
+effect 5:25 12:11 
+
+29:7 
+
+effectively 19:10 
+either 9:6 17:13 
+18:12,18 47:18 
+48:10,10,18 
+
+element 11:6 45:4,5 
+elements 9:22 
+
+42:22,23,25,25 
+43:4 
+
+elephant 45:13 
+elucidated 10:1 
+enable 29:21 
+enables 46:19 
+enacted 5:19 
+
+Page 56 
+
+expected 19:19 
+experience 43:8 
+experimental 9:13 
+
+9:19 10:22 
+explain 4:17 
+explained 22:4,20 
+exposing 19:11 
+expressly 18:6 
+extended 17:15 
+extraordinary 13:9 
+
+F 
+
+face 51:2,9,14 
+fact 17:7 20:23 
+21:7 22:7,12 
+23:24 24:12 29:24 
+31:23 32:6 50:9 
+
+factfinder 4:21 
+facts 23:16,18 
+26:13 38:10 
+fairness 7:13 
+falls 40:11,21 
+false 32:25 
+familiar 9:11 
+far 19:18 44:12 
+farther 14:16 
+favor 36:22 
+federal 3:15 5:9 
+
+13:24 14:21 15:13 
+21:17,21 23:13,14 
+39:11,12 41:19 
+43:13,14 44:3 
+45:7 48:25 50:5 
+fees 13:22 19:14 
+
+decided 6:13 15:2 
+
+depending 33:2 
+18:20,20 34:19,21  depends 12:16 
+deprived 11:7 
+48:17 
+determination 
+12:16 14:13 
+
+deciding 19:9 
+decision 34:8 43:14 
+declaration 3:17 
+
+12:18 13:6 
+
+determinative 5:3 
+determine 8:5 
+determined 9:20 
+declaratory 3:14 
+determining 5:20 
+3:20,23 5:14,18 
+device 41:23 
+5:19,22,25 6:11 
+devices 8:11 
+6:19 7:2,9 8:17 
+10:24 11:2,8 12:1  diagrams 8:4 
+12:18 15:3,16,17 
+16:4,6,7 18:21,23 
+19:7 20:1 24:18 
+24:19,21 25:16 
+27:16 29:13,21 
+30:8 31:2,2,6 
+33:23 34:2 35:6 
+43:21 45:16,24 
+46:6,19 47:19,21 
+47:25 48:13 51:8 
+51:9,22 52:12 
+
+difference 4:20 
+10:12 25:2,20 
+28:9 31:5 36:7 
+37:21 
+
+didnt 8:7 12:7 18:1 
+18:2,2 20:23 26:9 
+35:7 52:1 
+
+16:14,23 17:24 
+24:3,25 25:2 
+26:14 33:1,2,7 
+40:9 44:14 
+
+different 3:16 
+
+deem 13:19 
+default 24:6,6,11 
+
+differently 47:11 
+
+38:15 39:4 
+
+disagree 20:10,16 
+
+24:12 28:10 30:3  dilemma 19:8 
+30:7,14,22 31:6 
+33:10,19 36:18,18 
+36:21 41:17 44:7  disagrees 37:13 
+disclaimed 9:24 
+45:10 46:8 49:3 
+discretion 4:10 
+52:6,17 
+disprove 33:12 
+dispute 7:2,3 14:3 
+16:19 19:21 21:4 
+21:8,18 24:14 
+28:5 39:14 
+
+defeated 34:3 
+defend 48:12 
+defendant 29:14 
+
+defense 9:2,6,9 
+
+33:12 
+
+10:5,14,15,16,21 
+
+disputes 11:12 
+
+16:19 
+
+defenses 9:14 
+defensive 21:17 
+defined 23:21 
+definition 25:13 
+demonstrating 
+
+40:18 
+
+denial 9:8 10:3 
+department 1:19 
+dependent 39:8 
+
+district 21:20 30:19  ends 46:25 
+disturb 6:8 
+division 40:9 
+dj 29:3,5,7 37:14 
+
+20:2 
+
+37:15 39:16 44:25  engage 15:6 
+
+enforce 12:24 
+enforceability 18:9  exceptions 52:10 
+exclusive 21:21 
+exist 44:11 
+existence 12:10 
+
+docket 44:22 
+doctrinal 5:10 
+doesnt 4:2,14 5:15 
+
+enjoined 29:1 
+enormously 14:15 
+enter 22:3,11 
+
+16:16 
+
+exists 43:8 
+
+10:25 13:25 20:3 
+39:17 43:25 48:18  festow 10:1 
+
+example 13:10 
+
+14:25 43:1 52:7 
+
+file 12:17 29:3 
+
+37:14 45:19,22 
+
+36:17 41:16,22 
+52:18 
+
+exception 9:13 31:5  filed 37:1 
+files 24:8 
+final 16:8 
+finality 36:17,20 
+find 27:16 44:6 
+
+45:8 
+
+fine 47:5 
+finished 26:8 
+firm 52:9 
+
+Alderson Reporting Company
+ 
+
+first 12:5 26:12 
+
+39:16 42:17 45:2 
+46:8 51:4 
+
+five 44:23 
+focus 41:6 
+follow 24:20 35:22 
+
+35:12,15 41:13,13 
+42:17 43:10 48:12  goes 7:8,12 13:16 
+49:1 
+going 15:7 16:25 
+17:7 19:23,25 
+20:1 26:1 28:15 
+28:18 33:15 34:5 
+34:9,12,17,19 
+35:15,18,18 36:8 
+36:20 37:5,24 
+43:20 47:7,12 
+51:11,13 
+
+35:23,23 43:23 
+following 48:20 
+follows 33:19 
+forever 43:20 
+formality 7:4,6 
+forth 30:14 
+found 40:20 
+friend 15:14 20:11 
+frustrated 6:1 
+fully 23:1 
+functional 33:5 
+fundamental 24:7 
+
+33:11,22 
+
+good 32:19 43:6 
+governed 42:21 
+governing 3:20 
+government 16:2 
+governments 40:3 
+guess 19:2 
+gunn 50:1 
+
+18:3 28:24 
+
+26:11,15 
+
+funds 37:10 
+further 23:5 36:13  happen 4:25 
+future 16:19 17:7 
+
+happened 4:24 
+
+H 
+
+G 
+
+g 3:1 
+gannon 1:18 2:6 
+
+happening 26:5 
+happens 42:8 
+happy 6:6 52:25 
+hasnt 29:20 
+15:21,22,25 16:24  havent 20:24 
+19:5 20:15 
+
+genentech 8:9 
+general 1:19 9:4,6 
+
+hear 3:3 
+held 8:8 11:5 48:16 
+hell 31:25 
+help 6:16 19:8 
+9:8 10:3,15 
+heres 26:15 
+genpro 47:3 
+hes 31:24 42:25 
+genprobe 39:12 
+getting 26:25 46:7 
+hey 9:16 44:22 
+ginsburg 8:25 10:6  history 9:12,25 
+
+10:11 20:10,15 
+25:7,10,15 30:25 
+37:8 52:5 
+
+ginsburgs 49:22 
+give 35:14,17 42:9 
+given 8:4 
+go 5:16 8:1 10:7 
+
+12:5 26:1,7 29:3 
+33:11 34:5 37:14 
+
+10:22 
+
+holding 26:18,23 
+honor 23:11 36:4 
+
+50:1,2 
+
+horribles 44:11 
+hundreds 14:3 
+
+44:20 
+
+hypothetical 7:10 
+
+16:3,23 18:24 
+
+Official 
+
+20:21 21:2 35:20 
+35:23 46:24 51:10 
+
+I 
+
+id 52:25 
+idea 6:5 
+identical 11:1,4 
+identified 11:11,22 
+
+15:15 
+
+identify 11:16 
+ignoring 25:25 
+iii 7:8,21 8:22 
+ill 25:1 41:14 44:13 
+im 9:11,16,18 26:6 
+26:8,9,16 27:21 
+31:10 35:9 48:22 
+
+image 16:5 18:24 
+
+19:2 
+
+imagine 13:4 38:25 
+imagines 26:4 
+impair 5:18 
+important 5:6 7:4 
+
+36:19 
+
+imposed 3:15 
+impression 50:7 
+incentive 22:2,11 
+incident 16:11 
+include 18:2 
+includes 20:7 
+including 5:6 18:4 
+
+18:7 23:1 
+incur 46:20 
+incurring 46:8 
+individual 30:16 
+information 52:8 
+infringe 9:21 11:24 
+12:21 28:4 32:15 
+
+infringed 11:14 
+
+20:24 
+
+infringement 3:12 
+4:18,19 6:21 7:17 
+8:6 9:2,9 10:2,4 
+10:18,21 13:16 
+14:24 15:5,8 
+19:17 20:3 21:3 
+21:12 22:9,15 
+
+23:2,4,20,21,21 
+24:2 25:3,6,17 
+26:25 28:6,7,10 
+29:8,11 31:1,22 
+34:6,16,24 35:5 
+36:1 37:19,20,22 
+37:24,25 38:3,8 
+38:17,23 39:2,19 
+40:20,24 41:5 
+42:6,21,24 43:18 
+46:15 47:13,16,19 
+47:24 49:7,24 
+50:11,16,19,25 
+
+infringer 9:16 10:8 
+15:12 24:1 25:19 
+25:22,24 29:6 
+40:11 41:3 49:20 
+
+infringes 13:13 
+
+32:12 43:11 
+
+infringing 11:19 
+
+12:17,19 26:3,13 
+27:17 28:2,3 29:6 
+37:4 45:18 50:20 
+50:21 
+
+inhere 5:12 
+inheres 3:19 
+injunction 13:21 
+injunctions 41:20 
+insidethecoverage 
+
+40:25 
+
+instance 33:3 
+instances 32:7 
+insurance 28:24 
+
+29:1 
+
+intellectual 13:3 
+intend 47:14 
+intended 19:8 46:9 
+interest 14:8 
+interrogatory 
+
+42:17 
+
+interrupt 26:10 
+interrupted 26:6 
+interweaves 17:20 
+introduce 4:18 
+introducing 8:2 
+invalidity 23:2 
+
+Page 57 
+
+invention 9:18,23 
+
+23:22 
+
+inventions 7:15 
+invents 21:23 
+involve 20:1 
+involved 4:14 25:14 
+
+39:4 
+
+involves 12:6 20:16 
+
+24:2 36:25 
+
+involving 10:3 20:8 
+
+21:3 22:9 30:15 
+isnt 18:18 26:25 
+
+28:14 37:8 49:23 
+issue 3:13 4:5 5:8 
+5:25 6:4 7:6 11:1 
+12:9 13:11 20:14 
+25:13 34:18 35:24 
+36:3 37:6 41:25 
+44:4 45:8 
+
+issues 19:25 20:8 
+
+21:17 
+
+itd 39:17 
+ive 7:18 36:13 41:9 
+
+44:8 45:7 47:1 
+51:19 
+
+J 
+
+joint 18:10 21:7 
+
+23:25 
+
+jude 14:12 
+judges 4:10 
+judgment 3:14,21 
+5:14,19,22 6:1,11 
+6:19 7:2,9 8:17 
+10:24 11:2,8 12:1 
+12:18 15:3,16,17 
+16:4,6,7 18:21,23 
+19:7 20:1 24:18 
+24:19,22 27:16 
+29:13,21 30:8 
+31:3,6 33:24 34:2 
+35:6 36:9 43:21 
+45:16,24 46:6,19 
+47:19,21,25 48:13 
+51:8,9,22 52:13 
+
+judicata 33:25 34:9 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 58 
+
+16:20 
+
+27:3,7,9,11 32:1 
+
+10:10 24:23 26:9 
+29:14 31:11 33:4  monopoly 32:23,24 
+40:17 42:16 47:23  motion 36:8 
+moving 6:5 
+48:4 51:3 
+
+means 42:23 44:14  mvf 26:3 38:22 
+mechanism 5:20 
+myriad 15:1,4 
+mysteries 42:10 
+
+10:12 17:11 24:1  mean 5:8 7:6 10:9  money 26:19,23 
+25:3,19 28:5,14 
+38:1 39:1 43:2 
+44:9,25 48:3 
+licensees 48:5 
+licenses 23:1 
+licensing 22:3 
+licensor 22:20 
+lies 15:10 43:24 
+light 52:19 
+limit 6:17 
+limitations 40:19 
+limiting 52:15 
+line 39:7 
+list 22:25 
+listing 9:1 
+litigation 14:10 
+
+N 
+3:22 6:4,23 7:7,21 
+n 2:1,1 3:1 
+8:7,12,24 16:9 
+naturally 42:4 
+19:6,7 20:9 26:4 
+26:12,15 38:13,25  need 6:3 19:11 
+39:4,5,5,14,15,19  needed 39:7 
+39:21,22,25 46:25  needs 17:14 
+46:25 47:1,7,11 
+51:18,18 
+
+mechanisms 22:21  mystery 42:14,19 
+medimmune 3:16 
+
+21:6 
+
+little 36:20 37:7 
+
+medimmunetype 
+
+36:3 44:13 
+
+jump 6:6 
+jurisdiction 7:9 
+8:18 21:20,21 
+49:23 
+
+jurisdictional 
+
+49:21 
+
+keep 17:15 38:15 
+
+41:18 
+
+kennedy 6:16,23,25 
+
+7:12 28:13,21 
+38:2,6,12,19 
+
+kennedys 37:18 
+kidding 43:15 
+
+jurisprudence 24:7  kind 11:21 32:8 
+jury 5:5 11:5 
+justice 1:19 3:3,9 
+
+33:1 48:10 
+
+L 
+
+48:24 
+
+lack 36:17,20 
+land 33:21 
+laughter 35:21 
+
+kinds 11:15 40:8 
+4:1,13 5:17 6:2,10  know 7:3,5,15,16 
+8:18 11:23 13:11 
+6:16,23,25 7:12 
+29:17 32:3,21 
+8:25 10:6,11 
+41:3 44:21,22 
+11:10,18 15:20,25 
+16:10,21,23,25 
+47:12 
+17:21 19:1 20:10  knows 40:23 
+20:15 23:7,12 
+24:17 25:5,7,10 
+25:15,21,24 26:8 
+26:16,20,24 27:2 
+27:6,12,15,19,22 
+28:1,8,13,21 
+29:12 30:6,25 
+31:8,11,16,21 
+32:3,6,11 33:23 
+34:8,14,22 35:1,3 
+35:10,13,20 36:10 
+36:10,15 37:8,18 
+38:2,6,12,14,19 
+40:2 41:11,21 
+42:8,11,15 43:5 
+43:10,16 44:1,5 
+44:10,17 45:12,24 
+46:13 47:9,18 
+48:4,7,23 49:15 
+49:22 50:6,11,15 
+50:21,24 51:7,12 
+51:20 52:5,12,20 
+53:3 
+
+law 3:11,20 6:15 
+13:21 15:9,10 
+20:12,13 23:14 
+24:5 41:16,22 
+44:7,7 45:9 
+
+47:11 
+
+logical 17:2 
+long 15:7 
+look 20:6,20 28:12 
+31:13 45:9 49:2 
+
+looking 33:5 40:12 
+
+49:16 
+
+lose 39:10 43:20 
+loses 31:25 
+lot 32:19 
+lots 14:19,19 22:5 
+
+laws 20:17 21:3,19 
+lear 17:14 
+leave 22:7 
+left 6:14,15 10:25 
+legitimately 18:11 
+letters 23:19 
+liability 5:23 46:20  madeup 43:7 
+license 6:5 7:25 
+
+maintained 4:25 
+
+m 1:14 3:2 53:6 
+
+M 
+
+14:22 
+
+medtronic 1:3 3:4 
+7:25 11:13,21,22 
+11:25 14:4,7 
+17:21,23 18:11,25 
+19:4 20:5,22 
+21:10 23:19,23,25 
+25:3,19 26:13,18 
+28:4,23 35:17 
+37:13 38:21,22 
+50:8 
+
+medtronics 18:7 
+meeting 18:2 
+mentioned 21:17 
+
+22:25 
+
+millions 14:3 
+
+neither 12:8 15:13 
+neustadt 1:22 2:10 
+23:8,9,11 25:1,9 
+25:12,18,22,23 
+26:6,9,18,22 27:1 
+27:4,8,14,18,21 
+27:24 28:3,20,22 
+30:2,13 31:4,10 
+31:15,20 32:2,5 
+32:10 33:9 34:7 
+34:12,17,25 35:2 
+35:8,12,14,22 
+36:13,16 37:11 
+38:5,9,13,14 39:3 
+41:10,12 42:1,13 
+42:16 43:9,12,25 
+44:2,6,15,20 
+45:17 46:11,23 
+47:17 48:2,5,22 
+48:25 49:18 50:6 
+50:10,12,18,23 
+51:1,11,16,25 
+52:16 
+
+8:13 11:20 12:5,8  making 9:19 10:19  minds 18:3 
+12:10,15,15,16,20 
+21:25 26:1 
+minton 50:1 
+13:4,5,20 14:1,5  manner 45:5 
+minutes 52:21 
+14:15,17 16:13,17  manual 8:3 14:7 
+mirowski 8:1,5 
+16:18 17:4,5 18:1  manuals 8:4 
+18:5,6 19:12,19  manufacture 28:16 
+22:12 23:3 27:10  map 40:19 
+28:23,25 35:17 
+39:7,8 49:19 
+licensed 23:23 
+licensee 3:18 10:8  matters 33:7 
+
+mirowskis 23:19 
+matter 1:12 13:18  mirror 16:5 18:24 
+
+36:11 39:9 47:6 
+53:7 
+
+missing 28:21 
+mmhmm 11:17 
+
+19:2 
+
+10:19 13:2 14:1,2  never 8:19 34:14 
+34:15 35:4,15 
+14:3 21:9 
+39:21 43:8 44:12 
+45:17 
+
+new 7:15 14:6 
+nominal 41:23 
+noninfringement 
+
+K 
+
+kagan 11:10,18 
+16:23 25:21,24 
+26:8 38:14 41:21 
+50:6,11,15,21,24 
+
+kagans 16:10 
+
+Alderson Reporting Company
+ 
+
+order 22:22 
+ordering 4:11,11 
+ought 43:22 
+
+3:15,17 9:1,6,7,11  oral 1:12 2:2,5,9 
+9:19 10:15,16 
+3:7 15:22 23:9 
+12:22 13:7 35:7 
+42:20 43:3 45:22 
+nonlicensee 10:13 
+nonpersuasion 4:2  outcome 5:3,3 
+normal 24:6,6,11 
+28:10 30:2,7,13 
+30:22 31:6 33:10 
+33:19 36:18,18,21  overrule 47:2 
+41:16 44:7 45:10 
+owners 13:3 
+owns 32:16 
+49:3 52:17 
+
+41:1 
+
+overlooking 45:13 
+
+outside 28:18 40:11 
+
+november 1:10 
+number 13:7 23:18  parallel 47:22 
+pardon 25:9,23 
+
+45:4,5 
+nyu 15:2 
+
+normally 24:24 
+
+32:22 34:23 
+
+noted 19:6 25:5 
+notice 6:20 7:4,6,17 
+
+7:18,20 8:3,16 
+14:6,9 23:20 
+37:19,19 41:4 
+42:9 
+
+notwithstanding 
+
+22:6,12 
+
+O 
+
+o 2:1 3:1 
+obligations 18:12 
+obvious 7:24 
+occurs 29:15 
+odd 17:16 
+office 9:24 
+oh 27:24 34:25 43:9 
+44:20 50:23 52:16 
+
+okay 26:11 34:2 
+
+P 
+
+3:2,7 52:23 53:6 
+page 2:2 18:9 21:6 
+21:10 23:25 40:4 
+43:6 44:11 
+
+pages 40:8 
+paid 26:25 
+paidup 13:12 23:1 
+paragraph 21:13 
+
+27:14 
+
+parents 30:17 
+part 27:5 38:17 
+
+42:7 
+
+particular 9:10 
+11:13 16:13,19 
+18:3 19:22 
+
+parties 4:8 16:11 
+
+18:7,16,19 19:20 
+21:4,8 22:2,22 
+37:6,12 41:24 
+42:3 
+
+Official 
+
+Page 59 
+
+practicing 17:9 
+percent 36:17 39:7  precedent 30:15 
+perfectly 7:24 
+permissive 25:7,10  preclusion 36:3 
+preclusive 5:25 
+preponderance 
+
+precisely 22:8 
+
+34:19 36:5,6 
+
+32:16 34:23 40:11  presented 20:23 
+41:2 43:2,24 
+44:24 
+
+43:13 
+
+25:12 
+
+5:4,7 6:15 8:10,20  people 33:2 
+9:1,17,18,24,24 
+10:18 12:14,24 
+13:5,13,16,21 
+15:8,10 18:9 
+19:15,24 20:2,2,3  permit 39:3 
+20:7,12,14,17 
+21:3,9,14,15,19 
+22:15 31:1,18,18 
+32:9,12,15,16,22 
+33:2 38:22 41:16  persons 32:8 
+41:20,21 49:17,18  perspective 22:19 
+persuasion 5:2,5 
+49:24 50:4,9 
+52:15 
+petitioner 1:4,17 
+
+person 24:19 29:20 
+
+preserved 18:7 
+pretty 41:10 
+prevail 35:25 37:15 
+previously 17:12 
+prime 14:9 
+
+1:21 2:4,8,14 3:8  prior 17:6 34:8 
+probably 17:1 
+15:24 52:24 
+4:16 8:17,18 13:8  physicians 8:4 
+problem 17:13 
+29:9,10 32:21 
+33:15 39:18 40:23  picked 7:13 
+42:2,3,4,8,24 
+48:11,17 49:6 
+
+problems 22:1 
+procedural 3:21 
+
+20:23 28:24 34:1 
+39:5 45:6 
+
+pick 43:3 
+
+place 41:4 
+places 3:11 
+plaintiff 5:22 
+please 3:10 16:1 
+
+23:12 
+
+5:15 15:18 22:14 
+41:22 
+
+procedure 7:10 8:8 
+
+patentholder 6:20 
+
+7:14 22:5 23:4 
+25:16 
+
+patents 11:12,14 
+12:8 14:4 17:8,9 
+18:4,5 19:22 
+32:25 
+
+pay 13:12,14 19:11 
+
+11:3 
+
+product 8:2,3,19,20 
+
+plenty 22:11 
+point 4:5 8:16 9:4 
+8:21 13:5 14:6 
+10:10,24 16:17 
+26:2 31:17 32:9 
+17:19,20 20:25 
+32:12,15,18 39:7 
+21:24 28:17 32:13 
+33:6 43:6 44:18 
+40:12,19,20 47:3 
+46:1 47:14 49:16  production 4:3,17 
+51:22 
+
+41:5 
+
+products 11:13,16 
+11:19,22,24 12:6 
+12:8,21 16:12,15 
+17:7 18:3,18 
+19:22 28:17,24 
+
+28:15,18 31:25 
+34:5 37:15 38:3,7 
+39:6,10 43:20 
+47:12 51:17,19,21  pointed 5:1 
+51:24 
+
+points 4:8 14:9 
+
+paying 8:12 19:4 
+
+16:10 
+
+p 1:14,16 2:3,13 3:1  patented 23:22 
+patentee 3:12,25 
+
+35:14,20,22 36:15  party 3:17 6:7 
+46:17 48:13,23 
+53:3 
+
+once 34:21 
+ones 9:11 30:20 
+open 22:7 
+openly 43:14 
+operating 27:9 
+opinion 4:7 49:25 
+
+14:12 19:8 24:8 
+28:11 30:3,4,22 
+30:23 33:17,17,22  payment 12:16 
+36:23 37:2 44:8 
+45:10 48:3 49:4,8  payments 10:19 
+49:8,11,12,13 
+peculiarity 11:8 
+52:3,8,13,14 
+penalties 46:9 
+penalty 46:15 
+
+19:23 
+
+patent 3:11 4:12 
+
+19:10 21:11 25:5  policy 5:16 28:24 
+25:25 26:14 27:11 
+35:18 38:21 39:1  position 7:19 33:24  program 30:16 
+promise 47:14 
+39:13,19 46:5,16 
+50:8,22 
+proof 3:19,22 4:6,7 
+
+36:25 37:1 
+
+29:1 
+
+posits 51:9 
+possibilities 40:9 
+
+40:16 
+
+potential 6:20 
+
+10:17 22:1 45:25 
+
+practical 44:18 
+practiced 11:14 
+
+4:10,11,18 5:11 
+5:12 6:11 8:23 
+12:3 15:10 16:3 
+17:16 22:13 23:15 
+24:5,13,15,24 
+28:11 29:10 30:4 
+
+Alderson Reporting Company
+ 
+
+quite 4:14 
+quo 6:8 17:22,23 
+
+18:13,14,17 
+
+30:9,18,20 33:8 
+33:16,18 34:1,10 
+36:22 37:3,6,24 
+41:5,25 42:5 44:3  quoted 43:7 
+45:8 46:10,12,14 
+46:22 47:1,15,20 
+48:18 49:2 51:4,6  r 3:1 
+52:3,7,14 
+
+R 
+
+property 13:3 
+prosecution 9:12 
+
+9:23,25 10:22 
+
+protect 13:8 
+protected 29:2 
+protection 45:14 
+prove 24:9 28:1 
+
+30:24 32:17 35:7 
+42:20,20,24,25 
+43:3 44:9 
+
+provide 5:20 13:10 
+
+21:20 
+
+raised 10:21 20:5 
+raising 7:8 
+rate 13:16 14:8 
+rationale 14:23 
+reach 18:1 23:16 
+reached 23:16 
+read 9:17,18,23 
+
+33:4 47:11 
+
+reads 8:20 12:14 
+really 40:7 43:8,17 
+
+48:25 49:15 
+
+reason 5:9 6:9,10 
+
+21:1 31:18 
+
+provides 46:17 
+providing 8:2,3 
+proving 3:11 10:20  rebuttal 2:12 52:23 
+provision 13:15 
+
+reasons 17:24 
+20:17 32:19 
+
+received 14:3 
+receiving 26:17 
+
+29:3 
+
+purpose 5:18 29:20 
+
+29:23 46:21,21 
+49:19 
+
+purposes 16:7 
+put 13:15 32:20 
+
+34:1 36:22 40:18 
+41:4 
+
+Q 
+
+27:3,7,9 
+
+recognition 41:22 
+recognized 9:5 
+
+19:20 
+
+record 14:2 
+recourse 21:11 
+recover 13:20 
+red 21:9 52:19 
+referenced 14:12 
+referred 24:5 
+refers 24:12 
+
+qualification 40:5 
+quandary 17:2,17 
+question 5:1,17 7:7  refused 38:3,6 
+reissued 18:5 
+rejected 43:15 
+rejigger 22:22 
+
+7:11,13,16,22 
+8:15,22 12:5,12 
+16:15 18:19 28:8 
+33:10 37:18 38:16  release 37:9 
+relevant 4:9 
+38:16 42:7,17 
+43:10 47:2 49:21 
+relief 24:9,10,20 
+49:22 50:4 
+
+questions 20:2 
+
+22:10 23:5 53:1 
+
+28:11 30:3,18,21 
+30:22,23 33:17 
+36:23 37:2,7 
+
+Official 
+
+39:25 40:1 42:4 
+44:8 45:11,14,15 
+48:3 49:4,8 52:4 
+52:13 
+
+relitigate 11:25 
+
+34:9,13,18 35:4 
+35:10 
+
+rely 52:6 
+remaining 52:22 
+remains 3:23 
+remanded 52:2 
+remedies 13:20 
+
+14:19 15:8 19:14 
+
+remedy 11:9 
+repeatedly 5:1,14 
+require 13:11 14:7 
+
+19:23 
+
+44:14 
+
+results 26:14 33:1 
+retain 4:10 
+retrospective 5:23 
+reverse 23:6 
+reversed 39:14 
+reversing 5:17 
+ridiculous 44:21 
+right 4:3,23 5:13 
+6:21,22 10:8,14 
+11:5 18:14 23:13 
+26:21,24 27:18,19 
+34:3,6,7 35:3 
+36:11,12 38:12 
+41:9,11 43:9,25 
+46:4 48:8 52:1,15 
+
+rights 3:22 5:15 
+
+requirement 8:16 
+
+6:13 
+
+45:20 
+
+requires 7:25 
+requiring 5:22 
+res 33:25 34:9 36:3 
+
+rigidity 39:9 
+risk 4:2 15:8 
+risks 19:12 
+roberts 3:3 6:2 
+
+Page 60 
+
+44:7 45:10 49:3 
+52:1,6,9,17 
+
+rules 4:11 6:19 
+
+41:24 43:23 52:7 
+
+ruling 39:12 
+
+S 
+
+s 2:1 3:1 28:17 
+satisfy 8:24 
+satisfying 6:19 
+saying 7:17 9:16 
+
+17:25 20:18 29:4 
+31:12 32:12,13 
+36:19 38:15 43:6 
+43:16 52:12 
+
+says 9:16 20:12 
+
+24:8 26:5 28:14 
+29:6 39:13 41:1 
+45:9 47:1 50:2 
+
+scalia 24:17 29:12 
+30:6 33:23 34:8 
+34:14,22 35:1,3 
+35:10,13,20 36:10 
+36:11,15 45:24 
+46:13 51:7,12,20 
+52:12 
+
+44:12 
+
+research 15:6 
+researcher 15:2 
+reserve 15:19 
+resolution 16:8,20 
+
+18:19 47:2 
+
+resolved 5:21 19:25 
+respect 11:4 32:22 
+
+35:24 36:18 40:22 
+
+respond 44:19 
+
+52:25 
+
+responded 10:7 
+respondent 2:11 
+
+4:24 
+
+respondents 1:23 
+
+23:10 
+
+responding 40:25 
+response 21:25 
+29:7 30:10,11 
+
+responsibility 24:9 
+
+33:12 
+
+rested 3:24 
+rests 5:3 15:11 
+result 25:3 38:22 
+
+15:20 19:1 23:7 
+45:12 49:15 52:20 
+53:3 
+
+room 45:13 
+royalties 8:13 14:4 
+
+scalias 28:8 
+scenario 14:16 
+schaffer 30:14 49:3 
+
+49:12 
+
+14:8 18:15,17 
+19:4,10,24 21:11 
+25:5 26:1,14,17 
+school 30:19 
+34:5 35:18 38:21 
+scientific 1:6 3:5 
+39:1,6,13,20 46:5 
+46:16 47:12 48:16  scope 9:25 19:22 
+50:8,22 51:17,19 
+51:21,24 
+
+20:3 31:13 32:24 
+40:21,21 
+royalty 10:19 13:12  sea 22:18 
+
+second 23:24 41:14 
+
+13:16 38:3,7 
+39:10 
+
+42:7 
+
+52:19 
+
+section 21:8,20,22 
+see 29:17 43:5 44:5 
+
+rule 3:16 13:25 
+14:22 15:9,15 
+16:22 24:6,6,11 
+28:10 30:3,7,14 
+30:23 31:6 32:16 
+33:10,19,20,20,21  seeking 3:14,17 
+17:21,23 24:20 
+36:18,19,21,22 
+28:11 30:3,18,21 
+41:20 42:2,22,23 
+
+seek 12:18 37:16 
+
+45:17 
+
+Alderson Reporting Company
+ 
+
+30:22 33:17 36:23  solicitor 1:18 9:4 
+37:2,7,9,11 39:25 
+42:3 44:8 45:11 
+45:14,15 48:3 
+49:4,8 52:3,13 
+
+solving 17:17 
+somebody 17:3 
+
+29:15 
+
+seeks 6:8 24:8 
+
+30:23 
+
+seen 36:4 40:13 
+sends 14:9 
+sense 18:16 22:17 
+
+40:18 41:4 
+
+soon 14:9 37:1 
+sorry 26:6,9 27:21 
+
+31:10 
+
+sort 11:20 13:1 
+
+40:9 
+
+sotomayor 16:21 
+
+16:25 26:16,20,24  suggest 8:19 16:24 
+27:2,6,12,15,19 
+27:22 28:1 
+
+suggesting 16:22 
+suing 44:24 45:21 
+
+separate 41:20 
+serves 16:6 
+set 30:14 40:7 
+seth 1:16 2:3,13 3:7  special 14:22 
+
+source 15:9,9,15 
+
+Official 
+
+15:10 41:24,25 
+42:2 
+
+sudden 6:6 
+sue 13:6,16,18 
+
+14:18 27:13,16 
+29:21 46:20 51:5 
+51:13,15,17 
+
+sued 38:22 
+sufficient 8:11 
+sufficiently 8:11 
+
+51:13 
+
+suit 3:25 9:2 10:18 
+21:12 22:9 23:2 
+29:16 30:17,19 
+31:25 33:3 37:1 
+37:12,16 39:2,17 
+39:18 40:25,25 
+42:17 43:24 46:2 
+47:13,16,19,24 
+48:10,11 49:6,12 
+49:13,13 50:9,9 
+50:11,16,19,25 
+
+suits 3:16 22:8 
+summary 36:9 
+
+specifically 12:7 
+
+30:17 
+st 14:12 
+stake 41:7 
+standards 5:12 
+standing 15:3 
+start 14:7 
+starting 36:25 
+starts 26:13 28:16 
+states 1:1,13,20 2:7 
+
+9:5 15:23 30:17 
+
+status 6:8 17:22,23 
+
+52:23 
+
+settled 3:13 39:23 
+sheer 39:9 
+shift 3:13 14:24 
+
+15:1 24:24 33:8 
+43:21,22,23 46:9 
+46:11,13,21 
+
+shifting 5:24 17:16 
+24:4 36:24,25,25 
+49:1 
+
+shifts 15:15 24:21 
+shouldnt 6:7 27:20 
+
+27:22 31:8,11 
+44:9 
+
+29:25 30:10,12 
+36:7 
+
+signed 50:17 
+simple 45:5 49:7 
+simply 9:7 13:13 
+
+41:23 
+
+situation 12:13 
+
+18:13,14,16 41:23  supporting 1:20 
+
+statute 24:13,14 
+
+2:8 15:24 
+
+show 40:1 47:3,8 
+side 15:14 29:19,22  stipulated 23:15,18  supposed 7:14 
+38:24 40:14 
+
+29:21 30:8 
+
+23:24 
+
+suppose 4:16 28:14 
+
+stop 8:12 35:18 
+
+46:5 50:22 
+
+stopped 38:21 39:1 
+stops 26:13 50:8 
+stream 18:17 
+stuff 51:24 
+subject 5:22 19:13 
+
+submitted 53:5,7 
+subsequent 36:1 
+substantive 3:20,22 
+5:9,12,13,15 6:11 
+6:13,15 11:7 
+
+supreme 1:1,13 
+
+45:9,9 
+
+sure 26:16 42:16 
+
+44:20 50:23 
+
+surpassingly 5:6 
+symbols 40:8 
+
+T 
+t 2:1,1 49:6 
+table 46:7 
+take 20:10 30:13 
+31:12 40:3,17 
+41:8 52:11 
+
+talking 8:15 29:8 
+
+13:1,2 16:14 24:3 
+26:15 30:1,5 
+35:16 39:23 45:22  submit 53:2 
+51:2,8,10,14,18 
+
+33:7 
+
+situations 9:15 
+skip 48:23 
+socalled 40:10 
+sold 13:14 
+
+42:6 
+
+talks 21:7 
+technical 26:25 
+tell 8:2 25:1 37:23 
+
+42:9,11 43:11 
+51:23 
+
+telling 41:18 
+ten 42:25,25 
+tenet 33:11,22 
+tenets 24:7 
+term 15:2 
+termination 23:3 
+thank 3:9 15:20 
+23:7,11 52:20 
+53:3 
+
+Page 61 
+
+35:4,11,16,19 
+43:7 48:14,19 
+things 40:6,13 
+think 4:6 5:16 7:8 
+7:20 8:14 11:23 
+17:1,5,19,22 
+18:10,22,22 19:6 
+20:16,19 21:1,18 
+21:24 22:17,20,24 
+38:14 39:2 40:13 
+41:10 42:18,18 
+50:1 53:2 
+
+thinking 17:3 
+thinks 4:21 19:11 
+thought 4:8,15 7:14 
+
+thats 4:4,4,5,13,13 
+
+8:10 
+
+52:21 
+
+throw 36:21 
+time 12:10 15:19 
+
+16:16 18:5 24:23 
+30:8,9 34:10 
+39:12 
+
+threaten 5:25 
+threatened 12:24 
+three 13:14 20:8 
+
+5:8 6:13 7:18 
+17:1 18:9 21:4 
+22:18,18 26:4,11 
+27:5,18 28:6,17 
+28:17 29:23 30:1 
+32:2,4 33:24 
+34:21 35:8 36:12 
+37:6,7 38:10,10 
+38:19,20,24 40:17 
+41:8,18 43:5,9,19 
+43:25 44:1,8,21 
+46:1,17,20 47:5 
+50:2 51:1,2,14,21 
+51:22,25 52:16,16  touch 26:21 
+treat 11:18 
+treble 13:21 19:13 
+trial 4:10 11:5 
+tries 35:24 
+true 5:4 6:3,23 19:5 
+
+tolling 14:11 21:6 
+totally 47:22 52:6 
+
+theatres 11:6 
+theory 6:17 
+theres 8:17 14:2 
+
+told 5:5 21:10 
+
+37:20 45:1 
+
+17:5 18:10 22:11 
+24:14 31:5 32:1 
+35:25 36:1 37:21 
+39:13,15 42:10,14 
+42:19 43:21,22,23 
+
+19:18 32:4 35:8 
+37:9 41:12 46:3 
+47:25 51:3 
+
+theyre 25:5 26:23 
+
+trying 8:15 17:3 
+
+27:17 28:1,3,5 
+29:2 30:18,20 
+36:2 37:25 43:20 
+46:4 
+
+theyve 44:3 50:13 
+thing 14:20 16:5 
+
+19:5 34:10,13,18 
+
+18:11,16,17 
+tuesday 1:10 
+turn 7:1 13:6 14:18 
+
+16:10 
+
+turning 17:11 
+two 23:15,18 29:4 
+35:14 37:6 42:3 
+
+Alderson Reporting Company
+ 
+
+type 22:3 
+types 9:10 16:8 
+
+29:4 
+
+typically 29:15 
+
+U 
+
+unanimous 49:25 
+underlies 16:4 
+underlying 16:17 
+
+18:24 
+
+underscore 13:24 
+
+14:20 
+
+understand 11:10 
+
+12:4,12 28:14 
+38:12 
+
+understanding 
+
+48:9 
+
+understood 40:5 
+unit 13:14 
+united 1:1,13,20 
+
+2:7 9:4 15:23 
+
+urge 23:6 
+use 7:9 9:13,19 
+
+10:22 13:12 22:22 
+
+usual 49:23 
+usually 30:1,12 
+utility 5:18 
+
+V 
+
+v 1:5 3:4 11:6 
+validity 18:8 20:2 
+
+22:10 
+
+view 48:1 49:16 
+violate 31:17 
+violated 11:13 
+violates 32:22 
+virginia 1:22 
+vs 50:1 
+
+W 
+
+want 11:24 13:24 
+14:20 28:23 29:6 
+29:15 31:21 34:2 
+39:6 43:3 44:19 
+47:2,3 51:3,20,21 
+wanted 22:23 39:11 
+wants 28:23 35:17 
+
+Official 
+
+Page 62 
+
+42:24 
+
+worth 21:25 
+
+20 21:7 
+
+washington 1:9,16  wouldnt 8:23 14:14  2011 21:23 
+2013 1:10 
+23 2:11 
+271 21:8 
+
+wasnt 17:6 31:2,2,4  wrote 23:19 
+
+15:6,6 40:24 
+
+1:19 
+
+43:13 
+
+waxman 1:16 2:3 
+2:13 3:6,7,9 4:4 
+4:23 6:9,22 7:5,20 
+8:25 9:3 10:9,14 
+11:10,17 12:4 
+22:4,20,25 52:21 
+52:23,25 
+
+way 12:24 17:2,16 
+
+17:17 18:10,22 
+19:19 20:19,19 
+32:11,13 37:12 
+41:6 46:6 48:2 
+
+ways 13:7 
+weast 30:25 
+wed 45:22 
+wellpleaded 20:6 
+
+20:20 
+
+wellsettled 23:14 
+
+24:5 
+
+westover 11:6 
+weve 24:23 30:8 
+whats 24:25 25:1 
+
+35:13 41:6 
+
+whatsoever 45:6 
+whos 40:23 49:2 
+widget 12:13,14 
+
+14:17 
+
+willful 13:22 
+wins 4:20 
+wish 31:23 32:14 
+withholding 27:11 
+woke 11:22 
+wont 29:17 37:15 
+word 4:6,6 24:11 
+words 9:15 
+work 15:7 
+world 26:4 35:16 
+
+38:24 
+
+worried 46:4,14,17 
+
+51:12 
+
+worry 51:14 
+
+X 
+
+3 
+
+3 2:4 
+30 8:1 14:6 45:3 
+3x 13:17 
+
+4 
+
+4 45:5 
+42 40:9 
+48 21:10 40:8 
+49 36:8 
+
+5 
+
+5 1:10 21:13 36:8 
+50 36:8 
+51 23:25 
+52 2:14 
+54 53:6 
+
+6 
+
+7 
+
+8 
+
+9 
+
+6 45:4 
+60 8:5 
+
+80 39:7 
+
+9 36:8 
+
+x 1:2,8 
+
+Y 
+
+yeah 35:8 43:12 
+
+44:15 
+
+year 50:1 
+years 15:11 
+youd 33:1 47:14,15 
+
+47:23 
+
+youll 35:3 
+youre 6:5,22 7:7 
+26:16 27:2,6,10 
+31:12 34:12,15,17 
+36:2,11 37:2 38:9 
+41:9,16 42:6 43:6 
+43:16 46:3 51:17 
+52:14 
+
+youve 33:4 35:6 
+
+36:4 40:13 43:15 
+49:2 
+
+Z 
+
+0 
+00 1:14 3:2 
+
+1 
+
+1 1:14 3:2 45:3 53:6 
+100 36:17 
+121128 1:4 3:4 
+125 15:11 
+1295 21:22 
+13 18:9 
+1338 21:21 
+15 2:8 
+17 40:4 
+19 43:6 44:11 
+1991 14:1 
+
+2 
+
+2 14:8,8 45:4 
+
+Alderson Reporting Company
+ 
+
+

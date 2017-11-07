@@ -1,0 +1,6580 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+1
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+: 
+PATRICK WOOD, 
+:  No. 10-9995 
+: 
+: 
+KEVIN MILYARD, WARDEN, ET AL. 
+- - - - - - - - - - - - - - - - - x 
+
+                   
+Petitioner 
+          
+                       
+   
+
+v. 
+
+Washington, D.C. 
+Monday, February 27, 2012 
+
+ 
+
+The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+at 11:04 a.m. 
+APPEARANCES: 
+KATHLEEN A. LORD, ESQ., Assistant Federal Public 
+
+Defender, Denver, Colorado; for Petitioner. 
+
+DANIEL D. DOMENICO, ESQ., Solicitor General, Denver, 
+
+Colorado; for Respondents. 
+
+MELISSA ARBUS SHERRY, ESQ., Assistant to the Solicitor 
+
+General, Department of Justice, Washington, D.C.; 
+for the United States, as amicus curiae, supporting 
+Respondents. 
+
+ 
+ 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+C O N T E N T S 
+
+ORAL ARGUMENT OF 
+KATHLEEN A. LORD, ESQ. 
+
+                                
+
+2
+
+PAGE 
+
+On behalf of the Petitioner 
+
+                    
+
+3 
+
+ORAL ARGUMENT OF 
+DANIEL D. DOMENICO, ESQ. 
+
+On behalf of the Respondents 
+
+                   
+
+23 
+
+ORAL ARGUMENT OF 
+MELISSA ARBUS SHERRY, ESQ. 
+
+On behalf of the United States, 
+as amicus curiae, supporting the Respondents 
+
+   
+
+40 
+
+REBUTTAL ARGUMENT OF 
+KATHLEEN A. LORD, ESQ. 
+
+On behalf of the Petitioner 
+
+                    
+
+50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+P R O C E E D I N G S 
+
+(11:04 a.m.) 
+
+3
+
+CHIEF JUSTICE ROBERTS:  We'll hear argument 
+
+next in Case 10-9995, Wood v. Milyard. 
+
+Ms. Lord. 
+ORAL ARGUMENT OF KATHLEEN A. LORD 
+
+ON BEHALF OF THE PETITIONER 
+
+MS. LORD:  Mr. Chief Justice, and may it 
+
+please the Court: 
+
+The Tenth Circuit, after finding that 
+
+Mr. Wood's petition presented two substantial 
+constitutional claims, denied him habeas relief solely 
+on the ground that his petition was untimely.  It did 
+this even though the State had done three things that 
+should have precluded this result:  First, the State 
+deliberately relinquished a known statute of limitations 
+defense. 
+
+Second, in doing so, the State acted 
+
+strategically, not inadvertently. 
+
+And, third, in doing so, the State induced 
+the district court to expend substantial resources in 
+deciding claims of exhaustion and -- and deciding claims 
+on the merits. 
+
+JUSTICE SOTOMAYOR:  Counsel, we asked for 
+two questions presented.  The first was:  Do court of 
+
+Alderson Reporting Company 
+
+Official 
+
+4 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+appeals have the power sua sponte to raise issues?  And 
+in your reply brief, you appear to say, yes, they do in 
+some circumstances.  So, are you conceding that that 
+power exists or that there is no power whatsoever? 
+
+MS. LORD:  I'm proposing a clear line that 
+would divide situations in which the court of appeals 
+would have power and those in which it absolutely has no 
+power. 
+
+JUSTICE SOTOMAYOR:  Is that a question of 
+
+power or a question of exercise of discretion? 
+
+MS. LORD:  I would say it's a question of 
+
+power, and this is why:  I --
+
+JUSTICE SOTOMAYOR:  That seems sort of 
+
+strange.  Both rely on a factual situation.  Either you 
+can do something or you can't.  That's power.  If you 
+can do it sometimes, that's still power, and then the 
+question is, did you do it when you couldn't do it? 
+
+MS. LORD:  Well, what I'm proposing is that 
+there are situations when it is never a proper exercise 
+of the appellate court's jurisdiction to consider sua 
+sponte a statute of limitations defense even in the 
+habeas context.  And now --
+
+CHIEF JUSTICE ROBERTS:  And that's what we 
+
+said in Day, isn't it? 
+
+MS. LORD:  Correct, that in Day the Court 
+
+Alderson Reporting Company 
+
+Official 
+
+5 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+said that courts -- "courts" -- it wasn't directed at 
+appellate courts, but no court would be free to 
+disregard a deliberate waiver of a statute of 
+limitations defense. 
+
+JUSTICE SOTOMAYOR:  So, all this fight is 
+about is whether there was a deliberate waiver or not? 
+
+MS. LORD:  Well, that's --
+JUSTICE SOTOMAYOR:  As opposed to power? 
+MS. LORD:  That's our primary -- our primary 
+
+argument is that there was a deliberate waiver in this 
+case, and, given what this Court said in Day, the case 
+could be resolved on that narrow ground. 
+
+JUSTICE GINSBURG:  Well, it is -- it is what 
+the -- swords are crossed over here because you say this 
+is a deliberate waiver, and the government says, no, 
+it's -- it's a forfeiture, and forfeiture -- if it's 
+forfeiture, then the court of appeals has discretion to 
+take it up.  If it's a waiver, then Day makes clear --
+so, it's a question of which box this case fits into: 
+Is it forfeiture or is it waiver?  And your position is 
+it's waiver. 
+
+MS. LORD:  That's correct, and my position 
+
+also is that there is an overlap between those boxes and 
+that when the statute of limitations defense is 
+forfeited in the sense of not being preserved in a 
+
+Alderson Reporting Company 
+
+Official 
+
+6 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+timely manner because of a deliberate choice, I mean --
+and in this instance --
+
+JUSTICE SCALIA:  Are there a lot of cases 
+raising the -- you know, the ambiguity that exists in 
+this case?  I mean, if you tell me that's all this case 
+is about, I think we ought to dismiss this -- dismiss it 
+as improvidently granted. 
+
+MS. LORD:  Well --
+JUSTICE SCALIA:  We don't sit here to decide 
+
+whether when the government says, you know, we do not 
+concede it but we're not arguing it, or whatever the 
+language was -- we don't sit to decide factual questions 
+like that, that come up in a particular case. 
+
+I thought we took this case to decide the 
+
+more significant issue, on which there is a division in 
+the lower courts, as to whether there is, as you say, 
+power of the court to disregard the fact that a statute 
+of limitations defense has not been raised.  We all 
+agree it wasn't raised.  Now, whether it was forfeited 
+or not is another question.  If that's all you want us 
+to decide, I don't want to decide that. 
+
+MS. LORD:  Well, I clearly want a decision 
+
+that would favor my client.  This --
+
+(Laughter.) 
+MS. LORD:  This Court granted cert on two 
+
+Alderson Reporting Company 
+
+Official 
+
+7 
+
+issues, and certainly this case presents the first 
+issue, which is whether a court of appeals, once the 
+State has had an opportunity to raise the statute of 
+limitations defense and chooses not to, whether the 
+court --
+
+JUSTICE SOTOMAYOR:  Only the opportunity or 
+when it acknowledges -- in Day, we faulted the district 
+court for not telling the State, essentially, which we may --
+not telling the State that it had a potential statute of 
+limitations defense. 
+
+Is it your position that if the State had 
+
+just been silent about the statute of limitations 
+defense and not raised it, that the court of appeals 
+wouldn't have power?  Or is it your position that 
+because they knew they had the defense and didn't raise 
+it that the court of appeals didn't have power to sua 
+sponte raise it. 
+
+MS. LORD:  Well, both -- the district court 
+
+ordered the State to announce --
+
+JUSTICE SOTOMAYOR:  You're not answering my 
+
+question. 
+
+MS. LORD:  I'm sorry. 
+JUSTICE SOTOMAYOR:  Does the court of 
+
+appeals have the power to sua sponte raise it if the 
+State -- neither the court or the State addressed the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company 
+
+Official 
+
+8 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+issue? 
+
+MS. LORD:  Probably yes.  Probably yes. 
+JUSTICE SOTOMAYOR:  All right.  So, it 
+
+doesn't have the power if the issue has been raised?  Is 
+that your position? 
+
+MS. LORD:  That's correct.  If the stage of 
+the proceedings is after it was in Day, because in Day 
+when the issue arose under the Rules of Civil Procedure 
+and under traditional treatment of statute of 
+limitations defense, there was still time for the State 
+to announce we -- there was still time for the State to 
+change or to raise the statute of limitations defense. 
+Here --
+
+JUSTICE ALITO:  It sounds to me that what 
+
+you're -- what you're arguing is that the court of 
+appeals abused its discretion in viewing this as a plain 
+forfeiture, which you've just said would permit the 
+court of appeals to raise the issue sua sponte, instead 
+of a deliberate waiver.  Is that what it comes down to? 
+
+MS. LORD:  Or a purposeful forfeiture.  I 
+
+mean, there are forfeitures by --
+
+JUSTICE ALITO:  They put it in the wrong --
+they -- they abused their discretion by putting it in 
+the wrong box.  They didn't put it in the forfeiture 
+box; they put it in the deliberate waiver box. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+9
+
+MS. LORD:  Well, the way the court of 
+
+appeals handled it will create problems if it's approved 
+by this Court because --
+
+JUSTICE ALITO:  Well, this is what -- this 
+is what troubles me about your argument that the court 
+of appeals abused its discretion.  Is it correct that 
+you did not raise the issue of the court of appeals' 
+lack of authority to raise this sua sponte until 
+rehearing? 
+
+MS. LORD:  What happened, Your Honor, is 
+
+that we were appointed at the certificate of 
+appealability stage, and we were ordered to brief 
+timeliness.  Perhaps I took the order too literally.  I 
+briefed timeliness, but I also set out exactly what 
+happened, which is in the briefs and which sets forth 
+the State's position. 
+
+The court itself raised Day and raised its 
+
+limited authority under Day to consider a statute of 
+limitations defense.  They found, rather than a 
+deliberate waiver, which I believe the record supports, 
+that the State's comments were cryptic, and I will 
+stress --
+
+JUSTICE ALITO:  But you’re -- but you're arguing 
+
+that the court of appeals abused its discretion by 
+failing to rule in your favor on an argument that you 
+
+Alderson Reporting Company 
+
+Official 
+
+10 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+didn't make? 
+
+MS. LORD:  No.  I -- the court was aware of 
+Day, and the court analyzed what it was doing under Day, 
+and it determined whether there was a deliberate waiver. 
+Once the court found there was a deliberate waiver, I 
+definitely challenged that finding.  I -- there's a very 
+strong argument not included within the -- the -- the 
+questions presented, that this is a totally timely 
+petition.  And it's only a -- it's a very difficult 
+argument, which is one of the reasons why it shows how 
+much the State's actions in the district court were 
+strategic. 
+
+JUSTICE GINSBURG:  But you had two 
+
+opportunities at least to make the argument based on the 
+original postconviction motion, the 1995 postconviction 
+motion.  You -- you did not raise that.  You were silent 
+twice. 
+
+MS. LORD:  Silent on the impact of the 19 --
+
+we were not silent on the impact of the 1995 motion. 
+We've always said, and in fact the State has never 
+disputed, that that was a properly filed motion, and the 
+only issue was whether it was tolled -- whether it 
+tolled the statute of limitations period until 2004. 
+And the State realized that that issue -- if they were 
+to prevail on the timeliness issue, it was a very, very 
+
+Alderson Reporting Company 
+
+Official 
+
+11 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+difficult issue. 
+
+JUSTICE GINSBURG:  Well, then, I'm confused 
+because I thought that there was -- it was conceded that 
+the question was asked, did you file another 
+postconviction motion?  Answer:  No. 
+
+MS. LORD:  I understand your question now. 
+When Mr. Wood was pro se, he filled out pro se motions, 
+and in those pro se motions, he did say that there --
+and I'm talking about the 2004 motion -- he said there 
+was no prior postconviction motion. 
+
+And I believe he was confused because if you 
+look at the forms, both the Federal forms and the State 
+forms that show what a -- a defendant should check, it 
+makes it sound like a motion has to have been ruled on. 
+And Mr. Wood was pro se and simply confused.  And no one 
+else was confused once the State entered their 
+appearance.  They knew that the 1995 motion was still 
+pending.  All they had to do was sit at a computer and 
+bring up the minute orders from the State, and they 
+could learn that. 
+
+So, the courts in making their rulings 
+always from the time -- and, you know, one of the 
+reasons why what happened was so strategic and so clear 
+is that the district court had initially dismissed 
+Mr. Wood's petition as untimely.  And --
+
+Alderson Reporting Company 
+
+Official 
+
+12
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+JUSTICE KAGAN:  Ms. Lord, could I ask you 
+
+about the first question presented? 
+
+MS. LORD:  Yes. 
+JUSTICE KAGAN:  As I understand the opposing 
+
+argument, it goes sort of like this:  It says, in Day, 
+we said it's fine to do this in the district court. 
+Even if the party hasn't raised it, the court can raise 
+it on this exact issue.  In Granberry, we said with 
+respect to a different issue that the appellate court 
+could raise it.  And, in Day, we said that those two 
+issues were really the same. 
+
+So, that seems sort of like a logical 
+
+argument that just gets you to a place where you lose on 
+the first question, unless perhaps there's a difference 
+between a court raising a question sua sponte and a 
+court allowing a party to raise it later than the party 
+ought to have raised it.  Are you relying on that 
+distinction, or are you questioning the logic of the 
+basic argument that Granberry and Day decided this? 
+
+MS. LORD:  Both.  And with respect to the 
+
+first argument about there being a difference between a 
+party presenting an issue and a court sua sponte raising 
+the issue, there is a difference.  And the courts -- the 
+circuit courts do not always make that distinction and 
+do not always focus on that.  For example, in Granberry, 
+
+Alderson Reporting Company 
+
+Official 
+
+13 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+it actually was a case where the party presented -- the 
+State presented on appeal the exhaustion issue, and the 
+court agreed to hear it even though the State hadn't 
+raised it below. 
+
+Here, you know, at least five times in our 
+joint appendix, you'll see the court saying that they 
+can't act as an advocate for Petitioner.  And in, 
+fact, when the Petitioner, Mr. Wood, tried to raise an 
+-- the exhaustion issue again, the Tenth Circuit in its 
+certificate of appealability said he is bound by his 
+decision to dismiss these unexhausted claims, 
+notwithstanding his pro se status.  And in the same 
+breath, the court of appeals resurrected the at least 
+concededly forfeited statute of limitations defense on 
+behalf of the State. 
+
+But I'd also like to --
+JUSTICE SOTOMAYOR:  I'm a little confused. 
+
+You seem to be arguing that because the court of appeals 
+raised it before the party did, that that's worse than a 
+party raising it first.  Is that your position?  That 
+that -- that the court of appeals has more power after a 
+party who has forfeited below or waived below now tries 
+to come up on appeal and assert a defense that they 
+didn't assert below?  Now the court of appeals has more 
+power? 
+
+Alderson Reporting Company 
+
+Official 
+
+14
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+MS. LORD:  It raises different concerns.  My 
+
+concern is not the relative power.  It's that when a 
+court is raising something sua sponte, it defeats the 
+party presentation principle.  That's one concern. 
+
+When the court is -- when the party raises 
+it after having forfeited, everyone concedes here that 
+they wouldn't be allowed to.  So, in essence, what 
+happens is the court is acting as a super-advocate 
+for --
+
+JUSTICE SOTOMAYOR:  But those arguments were 
+
+rejected in Granberry and Day. 
+
+MS. LORD:  Well, that --
+JUSTICE SOTOMAYOR:  Why should they win now? 
+MS. LORD:  Well, and that was -- I was going 
+to -- I had a second part of my answer to Justice Kagan, 
+which is there's something really different going on in 
+Granberry and in Day, and you can't add the two and come 
+up with a neat package such as what's suggested by the 
+State. 
+
+And, in Granberry, of course, as the Court 
+
+all knows, the Court was dealing with exhaustion, and it 
+was dealing with exhaustion, which goes to the heart of 
+habeas and comity and all those concerns, at a time when 
+dismissing a case to exhaust claims -- all that would do 
+is delay Federal relief.  It wouldn't eliminate Federal 
+
+Alderson Reporting Company 
+
+Official 
+
+15 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+relief. 
+
+And this Court in Rhines v. Weber recognizes 
+that when AEDPA -- AEDPA was passed, it transformed the 
+landscape, and it really made some changes.  And whether 
+the -- the notion in Granberry that exhaustion can be 
+raised for the first time on appeal transfers to the 
+statute of limitations -- I think there's real doubt 
+about that, and I think that goes to an important 
+question and the question that the Court granted cert 
+on. 
+
+JUSTICE KAGAN:  But didn't Day say that 
+
+those two issues were functionally identical for this 
+purpose? 
+
+MS. LORD:  Not for this purpose.  And by 
+
+"this purpose" I mean the court of appeals' authority to 
+raise sua sponte the defense.  In Day, this Court --
+there were two prongs to Day.  In the context of Day, 
+which was, you know, where the State had filed a Rule 5 
+response and patently erroneously calculated the -- the 
+limitations period, and the court noticed it, and 
+there's no law that required, as this Court held, the 
+court to muzzle itself and not mention you've 
+miscalculated these days. 
+
+We're in a totally different situation.  And 
+
+the Rules of Civil Procedure allowed what happened in 
+
+Alderson Reporting Company 
+
+Official 
+
+16 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Day.  They don't allow what happened in our case. 
+And --
+
+JUSTICE ALITO:  What Rule of Civil Procedure 
+applies here?  You're talking about appellate procedure 
+here.  Is there a rule of appellate procedure that 
+governs this? 
+
+MS. LORD:  I'm referring to Civil Rule of 
+
+Procedure 8(b) and 12. 
+
+JUSTICE ALITO:  Well, they refer to what 
+
+happens in the district court, and Day dealt with that. 
+Now you're in the court of appeals.  What rule is there 
+that addresses the situation in the court of appeals? 
+MS. LORD:  Well, there's the traditional 
+
+rule that if you don't raise it, you lose it, when we're 
+talking about a statute of limitations defense.  And 
+it's really key here because when AEDPA engrafted this 
+1-year statute of limitations into the habeas 
+proceedings, it knew how 1-year statute of limitations 
+were treated.  And, yes, in Day, quite correctly the 
+Court held that in that context you're going to treat 
+those defenses the same, especially with respect to Rule 
+4, which would allow a court to dismiss a petition just 
+on its face. 
+
+JUSTICE ALITO:  You made an argument in your 
+
+brief that I found a little difficult to follow, but --
+
+Alderson Reporting Company 
+
+Official 
+
+17 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+so, maybe you can explain it.  You seemed to suggest 
+that the State's position on timeliness in the district 
+court somehow induced your client to dismiss the claims 
+that were arguably not exhausted.  And I found it 
+difficult to understand why the -- why your client's 
+strategy as to whether he wanted to dismiss those claims 
+or not would be affected by the State's position on 
+timeliness. 
+
+MS. LORD:  Well, if the State had challenged 
+
+timeliness at the stage that AEDPA contemplates it 
+would, it would have created a real complicated issue on 
+abandonment, and I think the briefs suggest just how 
+complicated that is under Colorado law.  And if that had 
+happened, the court very well could have, district 
+court, could have appointed counsel for Mr. Wood, I 
+mean, if there had been an evidentiary hearing, if, as 
+the Tenth Circuit found, the issue was so complex that 
+counsel was necessary. 
+
+So, once you had counsel, in the State's 
+
+reply or in its answer, they indicated that several of 
+Mr. Wood's claims were not exhausted.  And some of those 
+claims were in that 1995 motion that was pending.  With 
+counsel, there could have been a request for a stay and 
+abey.  There could have been so much that was done. 
+Mr. -- but because the State chose to simplify the 
+
+Alderson Reporting Company 
+
+Official 
+
+18 
+
+proceedings -- that's what they did, and it was not 
+inadvertent; and it wasn't a mistake.  They chose to make it 
+simple and to focus on exhaustion.  So, they got four 
+claims dismissed on exhaustion grounds, and then they 
+dealt with the other two claims on the merits. 
+
+They also had a procedural default issue 
+
+which was totally unconstitutional.  They were relying 
+on a procedural default that didn't exist at the time 
+you had to raise it. 
+
+But that simplified the proceedings, made it 
+
+more a question of law.  Mr. --
+
+JUSTICE SOTOMAYOR:  So, what's wrong with 
+
+that?  Why should we be penalizing the State for trying 
+to simplify an action and make it move more 
+expeditiously? 
+
+MS. LORD:  Absolutely we should not.  But we 
+also should hold them to that strategic choice, which is 
+what Day says you do.  And we have to hold them to that 
+choice because there were consequences, and there were 
+changes of positions.  And they got the benefit of going 
+forward and just looking at exhaustion.  They eliminated 
+the risk of an evidentiary hearing.  They eliminated the 
+risk of a lawyer.  They induced Mr. -- and I -- they 
+induced Mr. Wood to dismiss four claims because -- oh, 
+sorry.  Because -- I'm sorry.  I didn't see you. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+Official 
+
+CHIEF JUSTICE ROBERTS:  No, no.  Keep going 
+
+19
+
+with your --
+
+MS. LORD:  No -- because he was assured that 
+
+he could go forward on two substantial constitutional 
+claims without worrying about time bar, because the 
+State said that.  They said twice we are not 
+challenging, we will not challenge, timeliness. 
+JUSTICE ALITO:  That's what I don't 
+
+understand.  I -- why -- you have two situations.  One 
+situation, the State's raising timeliness.  So, he says, 
+okay, they're raising timeliness; I'm not going to 
+dismiss my -- the claims that they say are not 
+exhausted.  The other situation, they -- they don't say 
+anything about timeliness.  And he said now I'm going to 
+dismiss the claims that are -- that they say are 
+unexhausted. 
+
+I don't understand the connection. 
+MS. LORD:  Well, the connection is the State 
+guaranteed that they would not challenge timeliness, and 
+that allowed Mr. Wood to go forward on two 
+constitutional claims without ever having to worry that 
+they would be subject to time bar. 
+
+And when the court --
+JUSTICE ALITO:  Yes, I understand why that's 
+
+a benefit to him, but what is the connection between 
+that and the dismissal of the unexhausted claims? 
+
+Alderson Reporting Company 
+
+Official 
+
+20
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+MS. LORD:  Oh.  Because if they had -- if 
+they had challenged timeliness, they would have raised 
+this very complicated issue, because the only way they 
+can win on timeliness is to win on this newfangled 
+notion of abandonment under Colorado law, which under 
+Colorado law requires a hearing and requires factual 
+development. 
+
+And once they pursued in the district court 
+
+that claim of abandonment, it was very likely that a 
+lawyer would be appointed.  That lawyer could see that 
+there were claims still pending in the 1995 motion and 
+could possibly have sought a stay and abey, could have 
+gone and tried to exhaust those claims, serious 
+constitutional claims that were in the 1995 motion. 
+
+And -- and maybe a better way of putting it 
+is if they had raised timeliness in the district court, 
+abandonment would have been front and center.  And even 
+though the court of appeals ultimately resolved this 
+issue without an evidentiary hearing, that was an abuse 
+of discretion itself, too.  It was totally contrary to 
+Colorado law, analyzing that issue. 
+
+It is no small thing that the position that 
+they took in the district court allowed Mr. Wood to go 
+forward on two claims, two constitutional claims that 
+are substantial that the court has granted a certificate 
+
+Alderson Reporting Company 
+
+Official 
+
+21 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+of appealability on. 
+
+This is -- this case is so unlike Day in the 
+sense -- if an appellate court can raise sua sponte the 
+statute of limitations in a case like this, it can raise 
+it in any case.  It invites the State to take a position 
+in the district court which would be totally contrary to 
+AEDPA's desire for streamlined proceedings.  It would --
+JUSTICE SCALIA:  Ms. Lord, an amicus brief 
+filed on behalf of 15 States contends that the Civil --
+the Rules of Civil Procedure are not what should be 
+consulted here, because they govern only to the extent 
+that they're not inconsistent with habeas rules, and 
+asserts that the -- the habeas rules should rather apply 
+and that they -- that they cut against your case. 
+
+Do you have a response to that?  Was it --
+
+was it in your reply brief or --
+
+MS. LORD:  It may be.  I believe in some of 
+the briefs what I've said is there is no inconsistency 
+between Rule 5's requirement that the defense be set 
+forth and the traditional recognition that statute of 
+limitations is lost if not raised.  And I cited the 
+Court to Jones v. Bock, which stresses that, for mere 
+policy reasons, we shouldn't deviate from the rules that 
+would otherwise apply.  And I think --
+
+JUSTICE ALITO:  Isn't the screening function 
+
+Alderson Reporting Company 
+
+Official 
+
+22 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+that the -- that a district court performs in the habeas 
+case inconsistent with the traditional rule about 
+raising affirmative defenses? 
+
+MS. LORD:  Well, that's the district court, 
+
+and that's one of the key differences between the 
+district court and the appellate court.  The appellate 
+court can issue a certificate of appealability.  The 
+district court has that prescreening function, which is 
+just like the prescreening function in the PLRA, where 
+this Court looked at a circuit's attempt to create rules 
+that would address policy concerns and deviated and put 
+an enhanced pleading requirement on prisoners and said, 
+I believe unanimously, that that shouldn't be done. 
+
+There's a real virtue in having a 
+
+predictable rule.  There's a real virtue in letting the 
+States or -- letting the States know in the context of 
+this Court's Federal timing rules that they have to 
+raise it, the statute of limitations defense, when 
+they're ordered to and when Rule 5 requires them to. 
+You should not adopt the State's position 
+when it will just invite the sort of sandbagging that 
+this Court has taken care to avoid.  You don't want 
+straddling by the State on something as important to 
+judicial efficiency as asserting the statute of 
+limitations in a timely manner. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+23
+
+I'll reserve the rest of my time. 
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+Mr. Domenico. 
+ORAL ARGUMENT OF DANIEL D. DOMENICO 
+
+ON BEHALF OF THE RESPONDENTS 
+
+MR. DOMENICO:  Mr. Chief Justice, and may it 
+
+please the Court: 
+
+In contrast to the new and fairly 
+
+complicated set of doctrines my friend asked the Court 
+to adopt today, this Court can resolve this case by 
+applying two straightforward longstanding rules. 
+
+First, in Granberry v. Greer, the Court 
+
+recognized that courts are not bound by a State's 
+failure to properly argue and preserve a procedural bar 
+to a habeas claim. 
+
+And, second, to the extent there is an 
+
+exception to that rule for deliberate waivers, the Court 
+should apply the common rule that a waiver must be 
+unequivocal. 
+
+By applying --
+JUSTICE BREYER:  Where --
+MR. DOMENICO:  Please. 
+JUSTICE BREYER:  Where?  What's the case 
+
+that supports you the most on that? 
+
+MR. DOMENICO:  On the -- on the second 
+
+Alderson Reporting Company 
+
+Official 
+
+24 
+
+question?  Well, that's a common rule.  From 
+statutory rights such as in Olano --
+
+JUSTICE BREYER:  No, just give me a citation. 
+MR. DOMENICO:  College Savings Bank is one, 
+
+probably the clearest case. 
+
+JUSTICE BREYER:  Has to -- has to be what? 
+
+What's the word?  "Unequivocal"? 
+
+MR. DOMENICO:  Unequivocal is a common --
+
+for waiver of everything --
+
+JUSTICE BREYER:  Because I'll look at the statute. 
+
+Now, I did look at Black's Law Dictionary, and Black's 
+Law Dictionary, looking up forfeiture and waiver, it 
+seems like you lose. 
+
+My analysis would be this:  Forfeiture is 
+
+the "loss of a right" -- that's what's at issue --
+"because of a crime."  That doesn't apply.  "Because of 
+a breach of obligation."  That doesn't apply.  "Neglect 
+of duty."  Now, that does because you didn't file the 
+answer.  Okay?  So, that's forfeited. 
+
+Now you look over to waiver and, as you say, 
+
+it says "voluntary relinquishment of a legal right." 
+Okay, what's the legal right?  The legal right is to get 
+the case dismissed. 
+
+So, I'm the judge.  I say, State, do you 
+
+want to get the case dismissed?  I just gave your 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company 
+
+Official 
+
+25 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+answer.  Okay.  I say you voluntarily relinquish your 
+legal right.  Your legal right was to get the case 
+dismissed, and you relinquished it.  You didn't assert 
+it. 
+
+That said, that would be the difference. 
+
+And she's saying that.  She's saying that makes a lot of 
+sense.  When you read Day, they're worried about the 
+State doing something inadvertently, making a mistake. 
+So, what the judge says is:  State, you know you have a 
+pretty good claim here on statute of limitations, 
+but you didn't assert it.  So, I'm going to give you the 
+right to assert it.  Go ahead, assert it even though 
+it's late.  You overcome the forfeiture. 
+
+Now you say:  I assert it, Your Honor. 
+Okay, you haven't waived it.  Now you say:  I don't 
+really care. 
+
+MR. DOMENICO:  Justice Breyer, what the 
+
+State was doing here was not strategically trying to --
+
+JUSTICE BREYER:  Oh, no.  I assume they 
+
+didn't do anything mean -- strategic; it wasn't a trick. 
+It was just what is it that they did?  And what they did 
+is they were given the opportunity to overcome the 
+forfeiture, to assert the statute of limitations claim, 
+and they didn't do it.  They didn't want to do it.  I 
+don't know why they didn't want to do it, because there 
+
+Alderson Reporting Company 
+
+Official 
+
+26 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+was a lot of trouble raising other issues, dah, dah, 
+dah.  But that's their business.  The fact is they 
+didn't do it. 
+
+MR. DOMENICO:  Justice Breyer, the -- the 
+
+Court has been clear that a State's failure -- normally, 
+that's true.  The normal rule under the Rules of Civil 
+Procedure is a forfeiture of that sort, failure to raise 
+an argument, is deemed essentially to be a waiver under 
+those definitions. 
+
+JUSTICE GINSBURG:  But this wasn't failure 
+
+to raise an argument; this was representing to the court 
+we will not challenge timeliness.  That was the 
+representation made to the court.  That was not 
+negligent oversight in not raising the question.  It was 
+an affirmative representation to the court that, 
+although we might have done it, we will not challenge 
+timeliness. 
+
+MR. DOMENICO:  Justice Ginsburg, there --
+
+there was an element of mistake, of negligence, as you 
+say, but -- but it also was --
+
+JUSTICE SCALIA:  Didn't the State adhere to 
+
+that? 
+
+it? 
+
+MR. DOMENICO:  That's right, Justice Scalia. 
+JUSTICE SCALIA:  It kept its word, didn't 
+
+Alderson Reporting Company 
+
+Official 
+
+27
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+MR. DOMENICO:  What the State was trying to 
+do, I think, is slightly different than would make sense 
+in any other context.  Because of the special procedures 
+we're under in a habeas -- a pre-answer response, what 
+we were telling the court was we will not assert this 
+argument unless there's further inquiry from the court. 
+Now, normally in court there would be --
+
+JUSTICE BREYER:  Wait, wait, wait.  When you 
+
+say "further," I want to be very precise about the 
+distinction.  You have to put it in your answer.  You 
+didn't.  Okay.  So, that's a forfeiture.  So, now the 
+judge says you didn't put it in your answer, but I'll 
+raise it.  So, now you have the right to have the case 
+dismissed for statute of limitations.  Do you want to 
+exercise that right?  The answer to that question was 
+you didn't. 
+
+MR. DOMENICO:  That is --
+JUSTICE BREYER:  You said you didn't care. 
+MR. DOMENICO:  That's -- I don't think 
+
+that's quite an accurate characterization of what the 
+State --
+
+JUSTICE BREYER:  All right.  Well, but, one, 
+
+do the characterization, but please don't forget my 
+first question, because so far I'm just stuck on Black's 
+Law Dictionary.  And I would like you to have better 
+
+Alderson Reporting Company 
+
+Official 
+
+28 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+authorities for your -- you know, the supporting --
+
+MR. DOMENICO:  Well, the Black's Law 
+
+Dictionary, of course, applies a usual rule.  This Court 
+has made clear in Granberry and Day that the usual rule 
+that a forfeiture of a legal right means that it's not 
+to be brought up again, that it doesn't apply to bind 
+the court's hands.  Granberry and Day make that quite 
+clear.  What happened in Granberry would have been a 
+forfeiture --
+
+JUSTICE KAGAN:  But, Mr. Domenico, you're 
+
+saying something considerably more.  You're saying that 
+when a State gets up -- after inquiry by the district 
+court, when a State gets up and says we do not want to 
+press this argument; now we're not saying the 
+argument is wrong, because after all we're a repeat 
+player and we're going to hear that argument again, and 
+we are not saying that argument is wrong, but in this 
+case we do not want to press that argument.  That's --
+that's unequivocal to me. 
+
+MR. DOMENICO:  It's unequivocal that we were 
+
+not going to press it again, though I think the 
+implication -- there would have been no reason to have 
+raised it initially.  There would have been no reason to 
+include this caveat about refusing to concede, if that 
+was all we were trying to say.  There are easy ways for 
+
+Alderson Reporting Company 
+
+Official 
+
+29 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+a State to take the issue off the table. 
+
+JUSTICE SOTOMAYOR:  Can I -- can I ask you, 
+
+do you mean to tell me that, using your own words in 
+your brief, that a waiver is the intentional abandonment 
+of a known right?  I think you're equating intentional 
+abandonment of a known right to be I have to admit I 
+could win and I'm giving up that argument. 
+
+MR. DOMENICO:  Well, in this case --
+JUSTICE SOTOMAYOR:  Is that what you're 
+
+saying -- deliberate? 
+
+MR. DOMENICO:  Well, you have to know what 
+
+it is you're giving up. 
+
+JUSTICE SOTOMAYOR:  Well, you knew you had a 
+
+defense under the statute of limitations. 
+
+MR. DOMENICO:  Sure. 
+JUSTICE SOTOMAYOR:  You thought, because you 
+
+conceded, that you weren't conceding that it was 
+untimely.  So, you were conceding you thought it was 
+untimely, and despite admitting that you knew you had a 
+defense, that you knew it could win, you were choosing 
+not to assert it.  So, tell me why that's not either an 
+intentional waiver, a deliberate waiver, or an 
+abandonment of a known right? 
+
+MR. DOMENICO:  The -- what we were 
+
+abandoning, to the extent we were abandoning anything, 
+
+Alderson Reporting Company 
+
+Official 
+
+30 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+it was our ability to force the court to address the 
+issue.  In any other context, I agree that maybe --
+there may be a distinction with no difference, but in 
+this case because there is discrete --
+
+JUSTICE SOTOMAYOR:  You were protecting the 
+
+court's right to do whatever it wanted. 
+
+MR. DOMENICO:  There was a screening --
+there is a screening function.  We were raising the 
+issue precisely to put it on the court's table for 
+consideration.  In a habeas --
+
+JUSTICE SOTOMAYOR:  So, why isn't it an 
+
+abuse of discretion for an appellate court, when there 
+has been an intentional abandonment of a known right, to 
+sua sponte raise that defense? 
+
+MR. DOMENICO:  Well, we did not take off the 
+
+table the court's right to consider the issue. 
+
+JUSTICE SCALIA:  You say you didn't abandon 
+
+the right.  Isn't that your position?  You did not 
+abandon it?  You just --
+
+MR. DOMENICO:  We did not abandon --
+JUSTICE SCALIA:  You just gave up the -- the 
+
+opportunity to raise it yourself. 
+
+MR. DOMENICO:  I think it's confusion 
+
+between what we are calling a right or the issue or the 
+defense.  We, that's right, gave up our right in the 
+
+Alderson Reporting Company 
+
+Official 
+
+31 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+district court, unless asked, to argue the issue. 
+
+JUSTICE ALITO:  Well, let me give you this 
+example of -- of a regular civil case:  There -- there 
+are two defendants and the same claim against two 
+defendants.  One defendant files an answer and raises a 
+statute of limitations defense; the other one doesn't. 
+The judge asks the second defendant, are you going to 
+amend your complaint?  And the defendant says no.  Now, 
+is that a waiver or is that a forfeiture? 
+
+MR. DOMENICO:  Well, I think in your typical 
+
+case, it doesn't matter because forfeitures generally 
+are deemed to be waivers, I think, in your typical case. 
+That's not true under Granberry and Day.  The court has 
+made clear that a forfeiture is different than a 
+deliberate waiver. 
+
+JUSTICE ALITO:  Well, under the terminology 
+
+that we're using, wouldn't that be a forfeiture? 
+
+MR. DOMENICO:  I think it's better 
+
+understood as a forfeiture.  Simply you're not going to 
+argue the issue, but the issue doesn't necessarily need 
+to be taken off the --
+
+JUSTICE BREYER:  Well, that's why your 
+
+colleague on the other side -- why she made this point 
+the way she made it.  I think there's no disagreement, 
+at least as far as I hear Justice Scalia.  Look, he did 
+
+Alderson Reporting Company 
+
+Official 
+
+32 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+abandon his right, the State, to push the matter. 
+That's abandonment.  He didn't abandon the right to get 
+the case dismissed if the judge pursues it. 
+
+So, your colleague says -- or as she says, a 
+
+court of appeals does have the power on its own to 
+overcome a forfeiture.  That's Day.  But they don't have 
+the power on its own to overcome the waiver.  And that's 
+what they're doing.  They don't have the power, in other 
+words, to decide it themselves.  They only have the 
+power to overcome a forfeiture. 
+
+MR. DOMENICO:  Well, if the Court looks at 
+
+the -- where this deliberate waiver exception to the 
+Granberry and Day rule comes from, it comes from Day, 
+and the concern there is with a court overriding a 
+State's decision to waive, to take the issue off the 
+table.  There are examples of States doing that.  And 
+when they do it, they are clear about it, and you can 
+tell when it would be overridden. 
+
+JUSTICE GINSBURG:  But the consequence of 
+that was the district court then had to deal with the 
+case on the merits, had to take up the two exhausted 
+claims and rule on them, after having told the district 
+court you don't need -- we're not raising the statute of 
+limitations, we will not challenge timeliness.  So, you 
+put the district court to the necessity of deciding the 
+
+Alderson Reporting Company 
+
+Official 
+
+33 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+case on the merits.  It does.  It takes up the two 
+unexhausted claims and deals with them on the merits. 
+
+In -- in Day, absolutely nothing transpired 
+
+between the State saying the claim was timely and the 
+magistrate's detection of the computation error.  The 
+district court wasn't put to what was unnecessary work. 
+If the -- it was the consequence of saying we won't 
+challenge it that forced the district judge to deal with 
+them on the merits. 
+
+In Day, the counsel didn't bring up the 
+
+question because counsel thought that it was timely.  He 
+had miscalculated and made a mathematical error.  And 
+the judge then said, you know, I see that the number of 
+days that's required by statute, they have run.  And as 
+Day pointed out, at that point, the trial judge could 
+have said:  Now, you know, you miscalculated; wouldn't 
+you like to amend your complaint and put it in a 
+defense? 
+
+So, the two cases, the two situations are --
+are so different.  The district judge wasn't -- nobody 
+was made to do anything extra.  But in -- here, because 
+the attorney said we won't challenge it, the judge had 
+to deal with the case on the merits. 
+
+MR. DOMENICO:  That's right, Justice 
+
+Ginsburg.  We failed in our -- in our duty and our 
+
+Alderson Reporting Company 
+
+Official 
+
+34 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+obligation to protect the district court from having to 
+engage in what, had we properly argued this, would have 
+been unnecessary effort. 
+
+JUSTICE SCALIA:  Those are sunk costs, 
+
+aren't they, Mr. Domenico? 
+
+MR. DOMENICO:  They are, Justice --
+JUSTICE SCALIA:  It's water over the dam, 
+
+and the issue is whether the court of appeals will then 
+have to repeat the district court's excursus into the 
+merits. 
+
+MR. DOMENICO:  That's exact --
+JUSTICE SCALIA:  Right? 
+MR. DOMENICO:  That's exactly right.  The --
+
+we have already spent that time.  The question now is 
+if -- if Mr. Wood prevails now, the court of appeals 
+will have to proceed to resolving the case on the 
+merits.  Instead, in this case, they applied the very 
+common principle that a court of appeals will affirm for 
+any basis supported by the record in order precisely to 
+avoid -- that happens fairly often.  They avoid having 
+to address a constitutional problem.  They save having 
+to engage in those efforts again. 
+
+CHIEF JUSTICE ROBERTS:  That's a matter of 
+
+discretion with the court of appeals? 
+
+MR. DOMENICO:  Absolutely.  We recognize 
+
+Alderson Reporting Company 
+
+Official 
+
+35 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+that this is in that middle ground where the court of 
+appeals was certainly under no obligation to do this. 
+Had the court of appeals refused to do it, we wouldn't 
+be here demanding that they be forced to consider this 
+issue. 
+
+JUSTICE SCALIA:  And the court of appeals 
+
+could have gotten mad at the fact that the district 
+court was compelled to go through the merits, right? 
+
+MR. DOMENICO:  Absolutely. 
+JUSTICE SCALIA:  And for that reason could 
+
+have denied it.  But it didn't get mad, I guess.  I 
+don't know why. 
+
+MR. DOMENICO:  Well, it didn't get mad 
+
+partly, I think, perhaps because Mr. Wood never argued 
+that the issue was forfeited or waived at all until 
+after -- after the court of appeals had already resolved 
+the question. 
+
+JUSTICE ALITO:  Well, why do you say that 
+the position that the State took in the district court 
+prevented the district court from considering the 
+timeliness issue?  If it wasn't a deliberate waiver, 
+then the district court under Day wasn't prohibited from 
+-- from deciding the case untimely. 
+
+MR. DOMENICO:  Absolutely.  I do not think 
+that the district court was prohibited from considering 
+
+Alderson Reporting Company 
+
+Official 
+
+36 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+it.  The only reason for us to have raised this sort of 
+skeletal outline of the argument was precisely so the 
+court of appeals would have the opportunity to consider 
+it. 
+
+Remember, this was raised initially in the 
+
+pre-answer response stage where the -- which is 
+specifically part of the district court's preliminary 
+consideration of the issue.  So, it was certainly ex 
+ante quite possible that the response of the district 
+court would not be to simply ignore the issue as it did 
+but to either ask for additional briefing, as happens 
+with some regularity, to issue a show-cause order as it 
+had already done, or perhaps to dismiss the case again 
+as it had already done so. 
+
+So, the issue was not off the table.  The 
+
+district court very much could have addressed the 
+question. 
+
+JUSTICE KAGAN:  Mr. Domenico, do I 
+
+understand your argument correctly to think that if you 
+had not said, or if the lawyer for the State had not 
+said we're not conceding, if all that the lawyer for the 
+State had said is we're not challenging this, Your 
+Honor, would that count as a deliberate waiver under 
+Day? 
+
+MR. DOMENICO:  I think that's a harder case. 
+
+Alderson Reporting Company 
+
+Official 
+
+37 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+The lead-up to that, I think, undermines the -- at 
+least, the unequivocal nature of -- of that statement 
+because there would have been no reason to have laid out 
+the potential argument if what we were really trying to 
+do was waive the -- waive the entire issue as Day uses 
+that language.  If that's what we were trying to do, 
+there would have been no reason to do that either. 
+
+JUSTICE SOTOMAYOR:  The new --
+JUSTICE KAGAN:  But this is --
+JUSTICE SOTOMAYOR:  I'm sorry.  The new case 
+
+law is what I said.  When you say I won't raise this 
+defense, I waive it, everything you said except saying I 
+don't admit it, today, before a circuit court abuses its 
+discretion, you also have to say I am waiving the right 
+of the court of appeals to raise this sua sponte. 
+That's -- that's -- you want that to be what you need to 
+do for us to find a waiver. 
+
+MR. DOMENICO:  I don't think you need to say 
+
+that.  I don't think there necessarily need to be any 
+magic words at all, but it needs to be unequivocal and 
+clear, not ambiguous language that we're going to spend 
+an hour here today trying to debate what it was that we 
+meant.  That's the only rule we're asking for today. 
+
+And the contrary rule really provides some 
+perverse incentives to States.  I mean, here the State 
+
+Alderson Reporting Company 
+
+Official 
+
+38 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+was trying to be candid with the court.  It discovered 
+this 1995 motion on its own.  Mr. Wood had never 
+mentioned it in his filings.  He had already briefed the 
+timeliness issue twice in the district court without 
+mentioning it, let alone raising it in any of his 
+petitions. 
+
+The State found this and tried to be candid, 
+
+that we weren't entirely clear about how the argument 
+played out.  The alternative is that States will be 
+forced into something more than scorched earth, throw 
+everything at the court, see what sticks, and that's not 
+in anybody's interest, let alone the Federal courts' or 
+habeas petitioners'. 
+
+JUSTICE GINSBURG:  There is something about 
+the principle of party presentation.  The party raises 
+the issue.  The court of appeals is the court of review, 
+not first view.  Here -- in Day, the -- the lawyer did 
+not know that he had a statute of limitations defense, 
+that -- did not know because he had miscalculated the 
+time.  Here the State knew very well that it did have a 
+statute of limitations argument, but it says we're not 
+challenging it. 
+
+And then the ordinary thing is that a court 
+
+of appeals reviews decisions of the district court; 
+doesn't decide questions in the first instance.  But 
+
+Alderson Reporting Company 
+
+Official 
+
+39 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+here you are saying the attorney can tell district judge 
+don't decide this; go on to the merits.  Then the court 
+of appeals, which is supposed to be reviewing what the 
+district court does, instead deals with that question in 
+the first instance.  That seems like an odd inversion of 
+the role of the -- of the district court and court of 
+appeals. 
+
+MR. DOMENICO:  Justice Ginsburg, again, I 
+
+don't think it's quite accurate to say that we told the 
+district court not to address the issue.  We told the 
+district court there was an issue that we were going to 
+refrain from presenting our full argument on it. 
+
+JUSTICE GINSBURG:  You didn't say we're 
+going to refrain from it.  You said, District Judge, 
+Your Honor, we will not challenge timeliness. 
+
+MR. DOMENICO:  Right. 
+JUSTICE GINSBURG:  Didn't have any 
+
+qualifications. 
+
+MR. DOMENICO:  Well, I -- I do think we 
+
+qualified it.  The only reason to include the language 
+about not conceding was to qualify that.  The only 
+reason to lay out the argument was to make sure that the 
+court was able to consider it in its screening 
+procedures and --
+
+JUSTICE KAGAN:  But isn't the concession 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+40 
+
+language really going to a different point?  The 
+concession language is going to the point of why it is 
+that you're not raising it, that you're not challenging 
+it. 
+
+MR. DOMENICO:  I don't think it is. 
+If I may, Mr. Chief Justice, finish. 
+CHIEF JUSTICE ROBERTS:  Please. 
+MR. DOMENICO:  I don't think that there is 
+
+any reason for us to have been concerned about how -- if 
+we had simply stated we are not challenging it, there 
+would have been no concern about this affecting any 
+other case whatsoever.  The only case in which to be 
+concerned that what we said would be misconstrued as a 
+waiver was this case. 
+
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+We will hear from Ms. Sherry first. 
+MS. LORD:  Oh, I'm sorry. 
+CHIEF JUSTICE ROBERTS:  Ms. Sherry. 
+ORAL ARGUMENT OF MELISSA ARBUS SHERRY 
+
+ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, 
+
+SUPPORTING THE RESPONDENTS 
+
+MS. ARBUS SHERRY:  Mr. Chief Justice, and 
+
+may it please the Court: 
+
+This Court's decisions in Granberry and Day 
+answer the first question presented.  I think Petitioner 
+
+Alderson Reporting Company 
+
+Official 
+
+41 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+no longer contests that, and the Court can simply 
+decide the first question presented on that basis and 
+reaffirm what it said in Granberry. 
+
+JUSTICE KAGAN:  Ms. Sherry, there is one 
+
+difference.  If you put Granberry and Day together, it 
+gets you most of the way there.  The one difference is 
+that here there was a sua sponte decision by the court; 
+whereas, in even the combination of Granberry and Day, 
+it was a party that raised it, although the party raised 
+it late. 
+
+So, why should that difference not matter? 
+
+If you think that party presentation has some 
+consequence in this area, you might think that that 
+difference does matter, that once you get to the court 
+of appeals and even then the party doesn't raise it, 
+sort of enough is enough. 
+
+MS. ARBUS SHERRY:  A couple of responses to 
+
+that.  Number one, I think it's significant that Day 
+itself was a case in which the court raised it.  It 
+raised it on its own. 
+
+JUSTICE KAGAN:  But at the trial court 
+
+level. 
+
+MS. ARBUS SHERRY:  At the trial level. 
+JUSTICE KAGAN:  Of course, the habeas court 
+
+has a significant screening function. 
+
+Alderson Reporting Company 
+
+Official 
+
+42
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+MS. ARBUS SHERRY:  No, that's certainly 
+
+true.  I think the procedural default cases are another 
+good example.  This Court in Day cited a number of them, 
+a number of them of which were cases in which the court 
+of appeals was raising the issue sua sponte. 
+
+On page 12 of our brief, we cite a number of 
+procedural default cases.  A lot of them come up in the 
+sua sponte context.  And the courts of appeals have not 
+made a distinction between the two. 
+
+I think they certainly implicate different 
+
+concerns.  For example, to the extent this Court has 
+been worried about sandbagging or strategic behavior, I 
+think that's largely absent in circumstances where the 
+court is raising it on its own motions as opposed to the 
+party belatedly raising the issue on appeal. 
+
+So, I do think if you look at Granberry, you 
+
+look at Day, you look at Caspari, you look at Schiro, 
+and you look at the procedural default cases, I think 
+that really does resolve the first question presented. 
+And, again, I don't think Petitioner really argues 
+otherwise at this point. 
+
+JUSTICE ALITO:  Well, I may have forgotten 
+
+the procedural complications of this case, but here, did 
+the State have any opportunity before the court of 
+appeals to raise the timeliness issue prior to the time 
+
+Alderson Reporting Company 
+
+Official 
+
+43 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+when the court of appeals issued its certificate of 
+appealability?  And if the court of appeals had not 
+issued a certificate of appealability on the issue of 
+timeliness, would the issue have come up at all? 
+
+MS. ARBUS SHERRY:  The State did have an 
+
+opportunity in the court of appeals because, after the 
+application for a certificate of appealability was 
+filed, the court did order the State to file a response, 
+and the State didn't argue timeliness in that response. 
+But when the court of appeals did ask for briefing on 
+this issue in the certificate of appealability process, 
+the State, of course, did have an opportunity to respond 
+there, and it did argue that the petition was untimely, 
+and it strongly argued that. 
+
+And so, I guess, turning to the second 
+
+question presented, of deliberate waiver, I don't think 
+there has been a deliberate waiver in the way that Day 
+spoke about that term here for two primary reasons. 
+Number one, when Day spoke of deliberate waiver, it 
+spoke of overriding a State's deliberate waiver, and I 
+think if you look, when the court of appeals decided the 
+timeliness question, there's no way to look at that as 
+the State -- as a court, rather, actually overriding the 
+State's deliberate waiver.  At that point, the State had 
+argued that the petition was untimely. 
+
+Alderson Reporting Company 
+
+Official 
+
+44
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Petitioner never argued that the court 
+
+shouldn't decide the issue, never argued that that --
+that the State had waived that issue below.  And I think 
+at that time, it's really difficult to characterize that 
+as overriding the State's deliberate waiver. 
+
+The other point I would make is in the 
+
+district court --
+
+JUSTICE GINSBURG:  And the difference is 
+
+that in Day counsel didn't know that he had a statute of 
+limitations defense.  So -- but the court suggested it. 
+In this case, the defendant -- I mean, the -- the 
+attorney knew, the State's attorney knew, they had a 
+statute of limitations defense and nonetheless told the 
+court we won't challenge timeliness. 
+
+It seems a big difference between the 
+
+factual background of Day, where the lawyer didn't know 
+there was a statute of limitations defense, and this 
+one, where the lawyer knew very well there was and 
+decided to tell the district court not to -- not to deal 
+with that issue. 
+
+MS. ARBUS SHERRY:  I -- I think that 
+certainly is true, but I think it's important, in 
+deciding whether or not this should be treated as a 
+deliberate waiver, to look at what the consequences of 
+treating it as such would be.  The consequences of 
+
+Alderson Reporting Company 
+
+Official 
+
+45 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+treating it as a deliberate waiver under the language of 
+Day is that the court's hands would be bound; the court 
+would be unable to decide the timeliness question.  And 
+it's not just the court of appeals; it's the district 
+court as well.  So, if this were a clear deliberate 
+waiver in district court when the State filed its 
+pre-answer response, the district court would have been 
+without any authority to consider --
+
+JUSTICE BREYER:  So, why is that -- why is 
+that a bad result?  The -- I -- imagine the facts are 
+these:  The State forgets to waive the issue, to raise 
+the issue in the defense.  All right?  Forgets. 
+
+Judge:  State you haven't raised a statute 
+
+of limitations. 
+
+State -- one possible answer -- thank you, 
+Your Honor.  We overlooked our forfeiture.  We want to 
+raise it. 
+
+That's one. 
+Number two:  They say we don't care. 
+Number three:  We don't want to.  Okay? 
+MS. ARBUS SHERRY:  Well --
+JUSTICE BREYER:  Now, in two and three, you 
+can say this:  You could say the reason that we depart 
+from the normal rule that you have to actually assert it 
+in your defense is we're trying to protect the State 
+
+Alderson Reporting Company 
+
+Official 
+
+46 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+because of habeas.  So, we protect the State at least by 
+giving them a chance to make the argument when they 
+forget or some other reason.  Now we gave them the 
+chance.  Now they say:  Huh?  Who cares? 
+
+All right?  If that's their attitude, why is 
+it the habeas court's business to protect the State from 
+themselves? 
+
+MS. ARBUS SHERRY:  Because it's not just 
+
+about the State.  Because it's -- because of the 
+institutional interests that are at stake.  And that's 
+why Granberry and Schiro and Caspari and Day allowed 
+there to be consideration of these issues despite 
+forfeiture.  It's because of the institutional 
+interest --
+
+JUSTICE BREYER:  Despite forfeiture? 
+MS. ARBUS SHERRY:  Despite forfeiture. 
+
+Right. 
+
+JUSTICE BREYER:  And --
+MS. ARBUS SHERRY:  And -- and that's the 
+very question here, whether it should be treated like 
+forfeiture or whether it would be treated like waiver. 
+And the reason why I think it would be a bad result to 
+treat it as waiver here and why it would be bad to have 
+bound the district court's hands in this case, if you 
+look at what happened here, the district court on its 
+
+Alderson Reporting Company 
+
+Official 
+
+47 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+own motion initially dismissed this as untimely.  It 
+came back and it went to the State and said, you know, I 
+need more information.  And the State provided that 
+additional information. 
+
+It would be a somewhat odd system for --
+when the district court now had this information in 
+front of it, now knew about the 1995 motion, for it not 
+to have been able to do anything further with respect to 
+timeliness on -- on that point.  The fact that the State 
+for whatever reason decided to press other issues 
+shouldn't bind the district court's hands except in the 
+rarest of circumstances. 
+
+JUSTICE GINSBURG:  Except we have a system 
+
+where the court doesn't raise issue on its own.  The 
+ordinary rule is the party presents it, and when the 
+party says to the court we will not challenge 
+timeliness, it seems to me that's quite a different 
+thing from just having an answer that doesn't raise the 
+defense.  It's affirmatively representing to the court 
+that we -- we are not making this an issue. 
+
+MS. ARBUS SHERRY:  And -- and to be clear, I 
+think that's certainly a factor that the courts can and 
+do consider in deciding whether to exercise their 
+discretion to consider a timeliness issue.  The question 
+here is whether or not the court should lose any 
+
+Alderson Reporting Company 
+
+Official 
+
+48 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+discretion to consider that issue. 
+
+JUSTICE GINSBURG:  But Day did say that 
+
+if -- if a party knowingly waives a limitations defense, 
+then no court can bring it up.  The party has made the 
+choice. 
+
+MS. ARBUS SHERRY:  That's -- that's what 
+this Court said in Day, and I guess the question is --
+is how strictly that should be construed.  And our 
+position would be that it should be strictly construed 
+because of the consequences of that waiver.  And, again, 
+I think it's significant that the Court in Day did talk 
+about overriding a State's deliberate waiver. 
+
+In the dissent, Justice Scalia, you 
+
+mentioned the example of a court amending a party's 
+pleading over that party's objections.  And I think that 
+really is a narrow circumstance in which the waiver rule 
+should operate. 
+
+It's not that the State's behavior is 
+irrelevant to the question before the court as to 
+whether the court should exercise its discretion; it's 
+actually quite relevant, and it's something that courts 
+of appeals can and do look at.  The question is whether 
+or not the courts lack any authority to consider a 
+limitations defense or other procedural defense --
+
+CHIEF JUSTICE ROBERTS:  So, you're saying 
+
+Alderson Reporting Company 
+
+Official 
+
+49 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+that if the court of -- court says, you know, you have a 
+good state -- limitations defense, you would clearly win 
+on that, but I'm going to ignore it, even though you 
+didn't raise it? 
+
+MS. ARBUS SHERRY:  I'm sorry, Your Honor. 
+CHIEF JUSTICE ROBERTS:  Would it be an abuse 
+
+of discretion for the court not to accept a valid, 
+evident statute of limitations defense on the ground 
+that the State didn't raise it? 
+
+MS. ARBUS SHERRY:  I think under Day -- the 
+
+question is whether it's a deliberate waiver, and I 
+think, under Day, the Court said quite plainly that it 
+would be an abuse of discretion in those circumstances. 
+And I think there are a limited number of circumstances 
+where -- where that makes sense, and I think the Court 
+has seen examples of that recently this term, for 
+example. 
+
+The Court denied cert in a case, Buck v. 
+
+Thaler, earlier this term, where -- a predecessor case 
+that is an example of the State expressly waiving a 
+procedural default defense because it wanted the court 
+to reach the merits.  In that case, the State said quite 
+plainly -- in the predecessor case, I should say, the 
+State said quite plainly because the use of race in the 
+punishment phase seriously undermined the fairness and 
+
+Alderson Reporting Company 
+
+Official 
+
+50 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+integrity of the judicial process, the director 
+expressly waives any procedural bar with respect to that 
+claim. 
+
+Now, that is the quintessential deliberate 
+waiver.  And it took it off table, unlike what happened 
+in this case. 
+
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+Ms. Lord, you have 3 minutes remaining. 
+
+REBUTTAL ARGUMENT OF KATHLEEN A. LORD 
+
+ON BEHALF OF THE PETITIONER 
+
+MS. LORD:  The problems with the rulings 
+urged by the amicus and by the State are severalfold. 
+One, it's not contemplated at all by AEDPA that the 
+1-year Federal timing statute of limitations would be 
+subject to such a wide latitude in the court of appeals 
+to resurrect defenses. 
+
+JUSTICE ALITO:  If a State knows that it has 
+
+a potential statute of limitations defense and says 
+nothing, is that a forfeiture or a waiver? 
+
+MS. LORD:  It would be a violation of 
+
+Rule 5, which requires them to assert a time bar if they 
+are required to file a response.  In our case, it also 
+would have been a violation of the court's order. 
+
+JUSTICE ALITO:  So, simply saying nothing 
+
+can be a waiver, in your view. 
+
+Alderson Reporting Company 
+
+Official 
+
+51
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+MS. LORD:  Probably not.  But if you are --
+JUSTICE ALITO:  If the answer to that is 
+
+not, then what is the difference between saying nothing, 
+knowing that you have a defense, and saying we're not 
+challenging but we're not conceding? 
+What is the difference? 
+MS. LORD:  Well, by not conceding, that 
+
+doesn't undercut the deliberateness of the waiver.  It 
+actually establishes it.  It establishes that they know 
+that there's a defense, and they're not agreeing that 
+the petition is timely, but they're deliberately 
+choosing not to assert the statute of limitations. 
+
+JUSTICE ALITO:  Well, let me just ask it one 
+
+more way, and then I'll --
+
+MS. LORD:  I'm sorry. 
+JUSTICE ALITO:  Back in the office, they're 
+
+considering -- in the State's office, they're 
+considering what they're going to do.  And they say, 
+well, what we're going to do is we're not going to 
+challenge it, but we're not going to concede it.  And, 
+therefore, they say nothing. 
+
+MS. LORD:  In the face of Rule 5's 
+
+requirement, it could very well be a waiver.  And I'd 
+cite the court to Hill v. New York, which also addresses 
+one of the State's lawyers' points, which was a 
+
+Alderson Reporting Company 
+
+Official 
+
+52 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+waiver -- for the State to waive a statute of 
+limitations defense, its waiver has to be unequivocal 
+and clear.  I don't know if they're suggesting that 
+there also has to be an advisement by the court.  I 
+don't think they're going that far. 
+
+But the fact is, you look at the nature of 
+the waiver or the right being waived.  And this Court 
+recognized in Hill v. New York and other cases that if 
+the right being waived is, for example, the right to be 
+tried in a timely fashion under IAD, it can be waived 
+just by a lawyer accepting a date. 
+
+And the statute of limitations issue here is 
+
+a typical strategic decision.  And when AEDPA brought 
+this in, it didn't bring it in as it brought in comity. 
+It is something to move the case along from the Federal 
+point of view.  And for this Court to adopt what --
+
+CHIEF JUSTICE ROBERTS:  Finish your 
+
+sentence, please. 
+
+MS. LORD:  -- the State is suggesting will 
+just take away all the efficiencies that -- that that 1 
+year brought to bear. 
+
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+The case is submitted. 
+(Whereupon, at 12:05 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+Alderson Reporting Company 
+
+Official
+Official 
+
+53 
+
+announce 7:19 
+
+28:3 
+
+8:11 
+
+answer 11:5 
+14:15 17:20 
+24:19 25:1 
+27:10,12,15 
+31:5 40:25 
+45:15 47:18 
+51:2 
+
+apply 21:13,24 
+
+23:18 24:16,17 
+28:6 
+
+applying 23:11 
+
+23:20 
+
+appointed 9:11 
+
+17:15 20:10 
+approved 9:2 
+
+asks 31:7
+assert 13:23,24
+25:3,11,12,12
+25:14,23 27:5
+29:21 45:24
+50:21 51:12
+
+asserting 22:24
+asserts 21:13
+Assistant 1:15
+
+1:19
+
+answering 7:20  ARBUS 1:19 2:9 
+ante 36:9 
+anybody's 38:12 
+appeal 13:2,23 
+
+15:6 42:15 
+appealability 
+9:12 13:10 
+21:1 22:7 43:2  area 41:13 
+43:3,7,11 
+
+appeals 4:1,6 
+
+arguably 17:4 
+argue 23:14 
+
+31:1,20 43:9 
+43:13 
+
+40:19,22 41:17  assume 25:19
+assured 19:3
+41:23 42:1 
+attempt 22:10
+43:5 44:21 
+attitude 46:5
+45:21 46:8,16 
+attorney 33:22
+46:19 47:21 
+39:1 44:12,12
+48:6 49:5,10 
+authorities 28:1
+authority 9:8,18
+
+15:15 45:8
+48:23
+
+argued 34:2 
+
+avoid 22:22
+34:20,20
+35:14 43:14,25  aware 10:2
+a.m 1:13 3:2
+44:1,2 
+
+argues 42:20
+arguing 6:11
+
+8:15 9:23
+13:18
+
+argument 1:12
+2:2,5,8,12 3:3
+3:6 5:10 9:5,25
+10:7,10,14
+12:5,13,19,21
+16:24 23:4
+26:8,11 27:6
+28:14,15,16,17
+28:18 29:7
+36:2,19 37:4
+38:8,21 39:12
+39:22 40:19
+46:2 50:9
+arguments
+
+B
+
+back 47:2 51:16
+background
+
+44:16
+
+46:23
+
+bad 45:10 46:22
+
+Bank 24:4
+bar 19:5,22
+
+23:14 50:2,21
+
+based 10:14
+basic 12:19
+basis 34:19 41:2
+bear 52:21
+behalf 2:4,7,10
+2:14 3:7 13:15
+21:9 23:5
+40:20 50:10
+
+behavior 42:12
+
+48:18
+
+belatedly 42:15
+believe 9:20
+11:11 21:17
+
+adhere 26:21 
+admit 29:6 
+
+37:13 
+
+admitting 29:19 
+adopt 22:20 
+23:10 52:16 
+
+advisement 52:4 
+advocate 13:7 
+AEDPA 15:3,3 
+16:16 17:10 
+50:13 52:13 
+AEDPA's 21:7 
+affirm 34:18 
+affirmative 22:3 
+
+affirmatively 
+
+26:15 
+
+47:19 
+
+agree 6:19 30:2 
+agreed 13:3 
+agreeing 51:10 
+ahead 25:12 
+AL 1:6 
+ALITO 8:14,22 
+9:4,23 16:3,9 
+16:24 19:8,24 
+21:25 31:2,16 
+35:18 42:22 
+50:17,24 51:2 
+51:13,16 
+
+A 
+
+abandon 30:17 
+30:19,20 32:1 
+32:2 
+
+abandoning 
+
+29:25,25 
+
+abandonment 
+17:12 20:5,9 
+20:17 29:4,6 
+29:23 30:13 
+32:2 
+
+abey 17:24 
+
+20:12 
+
+ability 30:1 
+able 39:23 47:8 
+above-entitled 
+
+1:11 52:25 
+absent 42:13 
+absolutely 4:7 
+
+18:16 33:3 
+34:25 35:9,24 
+
+abuse 20:19 
+
+30:12 49:6,13 
+abused 8:16,23 
+
+9:6,24 
+
+abuses 37:13 
+accept 49:7 
+accepting 52:11 
+accurate 27:20 
+
+acknowledges 
+
+39:9 
+
+7:7 
+
+act 13:7 
+acted 3:18 
+acting 14:8 
+action 18:14 
+actions 10:11 
+add 14:17 
+additional 36:11 
+
+47:4 
+
+address 22:11 
+
+30:1 34:21 
+39:10 
+
+addressed 7:25 
+
+addresses 16:12 
+
+36:16 
+
+51:24 
+
+5:17 7:2,13,16 
+7:24 8:16,18 
+9:2,6,7,24 
+13:13,18,21,24 
+15:15 16:11,12 
+20:18 32:5 
+34:8,15,18,24 
+35:2,3,6,16 
+36:3 37:15 
+38:16,24 39:3 
+39:7 41:15 
+42:5,8,25 43:1 
+43:2,6,10,21 
+45:4 48:22 
+50:15 
+
+allow 16:1,22 
+allowed 14:7 
+15:25 19:20 
+20:23 46:11 
+allowing 12:16 
+alternative 38:9  appear 4:2 
+ambiguity 6:4 
+appearance 
+ambiguous 
+
+11:17 
+
+37:21 
+
+amend 31:8 
+
+33:17 
+
+APPEARAN... 
+
+1:14 
+
+appellate 4:20 
+
+5:2 12:9 16:4,5 
+21:3 22:6,6 
+30:12 
+
+amending 48:14 
+amicus 1:21 
+2:11 21:8 
+appendix 13:6 
+40:20 50:12 
+application 43:7  asked 3:24 11:4
+analysis 24:14 
+analyzed 10:3 
+applied 34:17 
+analyzing 20:21  applies 16:4 
+
+asking 37:23
+
+23:9 31:1
+
+arose 8:8
+
+14:10
+
+Alderson Reporting Company
+Alderson Reporting Company 
+
+Official 
+
+54 
+
+benefit 18:20 
+
+22:13 
+
+19:25 
+
+better 20:15 
+27:25 31:18 
+
+big 44:15 
+bind 28:6 47:11 
+Black's 24:11,11 
+
+27:24 28:2 
+Bock 21:22 
+bound 13:10 
+23:13 45:2 
+46:24 
+
+box 5:19 8:24,25 
+
+8:25 
+
+boxes 5:23 
+breach 24:17 
+breath 13:13 
+Breyer 23:21,23 
+
+24:3,6,10 
+25:17,19 26:4 
+27:8,18,22 
+31:22 45:9,22 
+46:15,18 
+
+brief 4:2 9:12 
+
+16:25 21:8,16 
+29:4 42:6 
+briefed 9:14 
+
+briefing 36:11 
+
+38:3 
+
+43:10 
+
+briefs 9:15 
+
+17:12 21:18 
+
+bring 11:19 
+33:10 48:4 
+52:14 
+
+brought 28:6 
+52:13,14,21 
+
+Buck 49:18 
+business 26:2 
+
+46:6 
+
+C 
+C 2:1 3:1 
+calculated 15:19 
+calling 30:24 
+candid 38:1,7 
+
+care 22:22 25:16  challenging 19:7 
+
+characterizati... 
+
+27:18 45:19 
+
+36:22 38:22 
+40:3,10 51:5 
+chance 46:2,4 
+change 8:12 
+changes 15:4 
+
+characterize 
+
+44:4 
+
+18:20 
+
+27:20,23 
+
+cares 46:4 
+case 3:4 5:11,11 
+5:19 6:5,5,13 
+6:14 7:1 13:1 
+14:24 16:1 
+21:2,4,5,14 
+22:2 23:10,23 
+24:5,23,25 
+25:2 27:13 
+28:18 29:8 
+30:4 31:3,11 
+31:12 32:3,21 
+33:1,23 34:16 
+34:17 35:23 
+36:13,25 37:10 
+40:12,12,14 
+41:19 42:23 
+44:11 46:24 
+18:19 48:5 
+49:18,19,22,23  chooses 7:4 
+50:6,22 52:15 
+52:23,24 
+
+51:12 
+
+choosing 29:20 
+
+check 11:13 
+Chief 3:3,8 4:23 
+
+choice 6:1 18:17 
+
+29:17 
+
+19:12,15,21,26 
+20:11,13,14,24  concededly 
+20:24 32:22 
+33:2 
+
+13:14 
+
+concedes 14:6 
+conceding 4:3 
+
+29:17,18 36:21 
+39:21 51:5,7 
+concern 14:2,4 
+32:14 40:11 
+
+clear 4:5 5:18 
+11:23 26:5 
+28:4,8 31:14 
+32:17 37:21 
+38:8 45:5 
+47:21 52:3 
+clearest 24:5 
+clearly 6:22 49:2  concerns 14:1 
+client 6:23 17:3 
+14:23 22:11 
+client's 17:5 
+42:11 
+colleague 31:23 
+
+concerned 40:9 
+
+40:13 
+
+19:1 23:2,6 
+34:23 40:6,7 
+40:15,18,22 
+48:25 49:6 
+50:7 52:17,22  Colorado 1:16 
+
+College 24:4 
+
+32:4 
+
+1:18 17:13 
+20:5,6,21 
+
+combination 
+
+concession 
+39:25 40:2 
+
+confused 11:2 
+11:11,15,16 
+13:17 
+
+confusion 30:23 
+connection 
+
+41:8 
+
+19:17,18,25 
+come 6:13 13:23  consequence 
+32:19 33:7 
+41:13 
+
+14:17 42:7 
+43:4 
+
+cases 6:3 33:19 
+
+42:2,4,7,18 
+52:8 
+
+Caspari 42:17 
+
+46:11 
+
+caveat 28:24 
+center 20:17 
+cert 6:25 15:9 
+
+49:18 
+
+certainly 7:1 
+
+35:2 36:8 42:1 
+42:10 44:22 
+47:22 
+
+certificate 9:11 
+
+13:10 20:25 
+22:7 43:1,3,7 
+43:11 
+
+challenge 19:7 
+
+19:19 26:12,16 
+32:24 33:8,22 
+39:15 44:14 
+47:16 51:20 
+
+challenged 10:6 
+
+17:9 20:2 
+
+chose 17:25 18:2 
+circuit 3:10 
+12:24 13:9 
+17:17 37:13 
+circuit's 22:10 
+circumstance 
+
+comes 8:19 
+32:13,13 
+
+comity 14:23 
+
+52:14 
+
+48:16 
+
+circumstances 
+
+comments 9:21 
+common 23:18 
+4:3 42:13 
+24:1,8 34:18 
+47:12 49:13,14  compelled 35:8 
+complaint 31:8 
+
+claim 20:9 23:15  complications 
+
+citation 24:3 
+cite 42:6 51:24 
+cited 21:21 42:3 
+civil 8:8 15:25 
+
+16:3,7 21:9,10 
+26:6 31:3 
+
+25:10,23 31:4 
+33:4 50:3 
+
+claims 3:12,22 
+
+3:22 13:11 
+14:24 17:3,6 
+17:21,22 18:4 
+18:5,24 19:5 
+
+33:17 
+
+complex 17:17 
+complicated 
+
+17:11,13 20:3 
+23:9 
+
+42:23 
+
+computation 
+
+33:5 
+
+computer 11:18 
+concede 6:11 
+28:24 51:20 
+conceded 11:3 
+
+consequences 
+
+18:19 44:24,25 
+48:10 
+
+consider 4:20 
+9:18 30:16 
+35:4 36:3 
+39:23 45:8 
+47:23,24 48:1 
+48:23 
+
+considerably 
+
+28:11 
+
+consideration 
+
+30:10 36:8 
+46:12 
+
+considering 
+
+35:20,25 51:17 
+51:18 
+
+constitutional 
+3:12 19:4,21
+20:14,24 34:21 
+construed 48:8 
+
+48:9 
+
+Alderson Reporting Company 
+
+Official 
+
+55 
+
+create 9:2 22:10 
+created 17:11 
+crime 24:16 
+crossed 5:14 
+cryptic 9:21 
+curiae 1:21 2:11 
+
+40:20 
+
+cut 21:14 
+D
+
+D 1:17 2:6 3:1 
+
+23:4
+
+dah 26:1,1,2
+dam 34:7
+DANIEL 1:17
+
+2:6 23:4
+date 52:11
+Day 4:24,25
+
+5:11,18 7:7 8:7 
+8:7 9:17,18
+10:3,3 12:5,10 
+12:19 14:11,17
+15:11,16,17,17
+16:1,10,19
+18:18 21:2
+25:7 28:4,7
+31:13 32:6,13
+32:13 33:3,10
+33:15 35:22
+36:24 37:5
+38:17 40:24
+41:5,8,18 42:3 
+42:17 43:17,19
+44:9,16 45:2 
+46:11 48:2,7
+48:11 49:10,12
+
+consulted 21:11 
+contemplated 
+
+contemplates 
+
+50:13 
+
+17:10 
+
+contends 21:9 
+contests 41:1 
+context 4:22 
+15:17 16:20 
+22:16 27:3 
+30:2 42:8 
+
+contrary 20:20 
+
+21:6 37:24 
+contrast 23:8 
+correct 4:25 
+5:22 8:6 9:6 
+
+correctly 16:19 
+
+36:19 
+
+costs 34:4 
+counsel 3:24 
+
+17:15,18,19,23 
+23:2 33:10,11 
+40:15 44:9 
+50:7 52:22 
+count 36:23 
+couple 41:17 
+course 14:20 
+28:3 41:24 
+43:12 
+
+court 1:1,12 3:9 
+3:21,25 4:6,25 
+5:2,11,17 6:17 
+6:25 7:2,5,8,13 
+7:16,18,23,25 
+8:15,18 9:1,3,5 
+9:7,17,24 10:2 
+10:3,5,11 
+11:24 12:6,7,9 
+12:15,16,22 
+13:3,6,13,18 
+13:21,24 14:3 
+14:5,8,20,21 
+15:2,9,15,16 
+15:20,21,22 
+16:10,11,12,20 
+16:22 17:3,14 
+17:15 19:23 
+
+20:8,16,18,23 
+20:25 21:3,6 
+21:22 22:1,4,6 
+22:6,7,8,10,22 
+23:7,9,10,12 
+23:17 26:5,11 
+26:13,15 27:5 
+27:6,7 28:3,13 
+30:1,12 31:1 
+31:13 32:5,11 
+32:14,20,23,25 
+33:6 34:1,8,15 
+34:18,24 35:1 
+35:3,6,8,16,19 
+35:20,22,25 
+36:3,10,16 
+37:13,15 38:1 
+38:4,11,16,16 
+38:23,24 39:2 
+39:4,6,6,10,11 
+39:23 40:23 
+41:1,7,14,19 
+41:21,24 42:3 
+42:4,11,14,24 
+43:1,2,6,8,10 
+43:21,23 44:1 
+44:7,10,14,19 
+45:2,4,5,6,7 
+46:25 47:6,14 
+47:16,19,25 
+48:4,7,11,14 
+48:19,20 49:1 
+49:1,7,12,15 
+49:18,21 50:15 
+51:24 52:4,7 
+52:16 
+
+courts 5:1,1,2 
+6:16 11:21 
+12:23,24 23:13 
+38:12 42:8 
+47:22 48:21,23 
+
+court's 4:20 
+22:17 28:7 
+30:6,9,16 34:9 
+36:7 40:24 
+45:2 46:6,24 
+47:11 50:23 
+
+41:2 44:2 45:3 
+
+decided 12:19 
+43:21 44:19 
+47:10 
+
+deciding 3:22,22 
+
+32:25 35:23 
+44:23 47:23 
+decision 6:22 
+13:11 32:15 
+41:7 52:13 
+
+decisions 38:24 
+
+deemed 26:8 
+
+40:24 
+
+31:12 
+
+default 18:6,8 
+
+42:2,7,18 
+49:21 
+
+defeats 14:3 
+defendant 11:13 
+
+10:4,5 23:17 
+29:10,22 31:15 
+32:12 35:21 
+36:23 43:16,17 
+43:19,20,24 
+44:5,24 45:1,5 
+48:12 49:11 
+50:4 
+
+deliberately
+3:16 51:11 
+
+deliberateness 
+
+51:8 
+
+demanding 35:4 
+denied 3:12 
+
+35:11 49:18 
+Denver 1:16,17
+depart 45:23 
+Department
+
+1:20 
+
+31:5,7,8 44:11  desire 21:7 
+
+31:5 
+
+defendants 31:4  despite 29:19 
+46:12,15,16
+detection 33:5 
+determined 10:4 
+development
+
+Defender 1:16 
+defense 3:17 
+4:21 5:4,24 
+6:18 7:4,10,13 
+7:15 8:10,12 
+9:19 13:14,23 
+15:16 16:15 
+21:19 22:18 
+29:14,20 30:14 
+30:25 31:6 
+33:18 37:12 
+38:18 44:10,13 
+44:17 45:12,25 
+47:19 48:3,24 
+48:24 49:2,8 
+49:21 50:18 
+51:4,10 52:2 
+defenses 16:21 
+
+20:7 
+
+deviate 21:23 
+deviated 22:11 
+Dictionary
+
+24:11,12 27:25 
+28:3 
+
+difference 12:14 
+12:21,23 25:5 
+30:3 41:5,6,11
+41:14 44:8,15
+51:3,6
+
+days 15:23
+
+33:14
+
+deal 32:20 33:8 
+
+33:23 44:19
+
+dealing 14:21,22
+deals 33:2 39:4 
+dealt 16:10 18:5 
+debate 37:22
+decide 6:9,12,14
+6:21,21 32:9 
+38:25 39:2
+
+22:3 50:16 
+
+differences 22:5 
+different 12:9 
+14:1,16 15:24 
+27:2 31:14 
+33:20 40:1 
+definitely 10:6 
+42:10 47:17 
+definitions 26:9  difficult 10:9 
+delay 14:25 
+11:1 16:25 
+deliberate 5:3,6 
+17:5 44:4 
+directed 5:1 
+director 50:1 
+
+5:10,15 6:1 
+8:19,25 9:20 
+
+Alderson Reporting Company 
+
+Official 
+
+56 
+
+18:15 
+
+expend 3:21 
+explain 17:1 
+expressly 49:20 
+
+50:2 
+
+extent 21:11 
+23:16 29:25 
+42:11 
+
+extra 33:21 
+
+F
+
+face 16:23 51:22 
+fact 6:17 10:20 
+13:8 26:2 35:7 
+47:9 52:6
+factor 47:22
+facts 45:10
+factual 4:14
+6:12 20:6
+44:16
+
+failed 33:25
+failing 9:25
+failure 23:14
+
+26:5,7,10
+
+fairly 23:8 34:20 
+fairness 49:25
+far 27:24 31:25 
+
+52:5
+
+fashion 52:10
+faulted 7:7
+favor 6:23 9:25 
+February 1:9
+Federal 1:15
+
+11:12 14:25,25
+22:17 38:12
+50:14 52:15
+
+fight 5:5
+file 11:4 24:18 
+
+43:8 50:22
+
+filed 10:21 15:18 
+21:9 43:8 45:6 
+
+files 31:5
+filings 38:3
+filled 11:7
+find 37:17
+finding 3:10
+
+10:6
+
+fine 12:6 
+finish 40:6 52:17 
+first 3:15,25 7:1 
+
+12:2,14,21 
+13:20 15:6 
+23:12 27:24 
+38:17,25 39:5 
+40:16,25 41:2 
+42:19 
+fits 5:19 
+five 13:5 
+focus 12:25 18:3 
+follow 16:25 
+force 30:1 
+forced 33:8 35:4 
+
+38:10 
+
+forfeited 5:25 
+6:19 13:14,22
+14:6 24:19 
+35:15 
+
+forfeiture 5:16 
+
+5:16,17,20
+8:17,20,24
+24:12,14 25:13 
+25:23 26:7 
+27:11 28:5,9
+31:9,14,17,19
+32:6,10 45:16 
+46:13,15,16,21
+50:19 
+
+forfeitures 8:21 
+
+31:11 
+
+forget 27:23 
+
+46:3 
+
+forgets 45:11,12
+forgotten 42:22 
+forms 11:12,12
+
+11:13 
+
+forth 9:15 21:20 
+forward 18:21 
+19:4,20 20:24 
+found 9:19 10:5 
+16:25 17:4,17 
+38:7 
+
+four 18:3,24
+free 5:2 
+friend 23:9 
+
+entire 37:5 
+entirely 38:8 
+equating 29:5 
+erroneously 
+
+15:19 
+
+error 33:5,12 
+
+31:24 
+
+disagreement 
+
+division 6:15 
+doctrines 23:9 
+discovered 38:1  doing 3:18,20 
+discrete 30:4 
+10:3 25:8,18 
+discretion 4:10 
+32:8,16 
+5:17 8:16,23 
+9:6,24 20:20 
+30:12 34:24 
+37:14 47:24 
+48:1,20 49:7 
+49:13 
+
+Domenico 1:17 
+
+26:8 
+
+establishes 51:9 
+
+2:3,6,9,13 
+essence 14:7 
+essentially 7:8 
+
+2:6 23:3,4,6,22  especially 16:21 
+ESQ 1:15,17,19 
+23:25 24:4,8 
+25:17 26:4,18 
+26:23 27:1,17 
+27:19 28:2,10 
+28:20 29:8,11 
+29:15,24 30:7 
+30:15,20,23 
+51:9 
+31:10,18 32:11  ET 1:6 
+33:24 34:5,6 
+34:11,13,25 
+35:9,13,24 
+36:18,25 37:18 
+39:8,16,19 
+40:5,8 
+
+17:16 18:22 
+20:19 
+ex 36:8 
+exact 12:8 34:11 
+exactly 9:14 
+
+evident 49:8 
+evidentiary 
+
+dismiss 6:6,6 
+13:11 16:22 
+17:3,6 18:24 
+19:12,15 36:13 
+dismissal 19:26 
+dismissed 11:24 
+18:4 24:23,25 
+25:3 27:14 
+32:3 47:1 
+dismissing 
+
+14:24 
+
+disputed 10:21 
+disregard 5:3 
+
+6:17 
+
+dissent 48:13 
+distinction 
+
+12:18,24 27:10 
+30:3 42:9 
+
+district 3:21 7:7 
+
+7:18 10:11 
+11:24 12:6 
+16:10 17:2,14 
+20:8,16,23 
+21:6 22:1,4,6,8 
+28:12 31:1 
+32:20,22,25 
+33:6,8,20 34:1 
+34:9 35:7,19 
+35:20,22,25 
+36:7,9,16 38:4 
+38:24 39:1,4,6 
+39:10,11,14 
+44:7,19 45:4,6 
+45:7 46:24,25 
+47:6,11 
+divide 4:6 
+
+doubt 15:7 
+duty 24:18 
+
+33:25 
+
+D.C 1:8,20 
+E 
+E 2:1 3:1,1 
+earlier 49:19 
+earth 38:10 
+easy 28:25 
+efficiencies 
+
+52:20 
+
+efficiency 22:24 
+effort 34:3 
+efforts 34:22 
+either 4:14 
+
+29:21 36:11 
+37:7 
+
+element 26:19 
+eliminate 14:25 
+eliminated 
+18:21,22 
+
+engage 34:2,22 
+engrafted 16:16 
+enhanced 22:12 
+entered 11:16 
+
+34:13 
+
+example 12:25 
+31:3 42:3,11 
+48:14 49:17,20 
+52:9 
+
+examples 32:16 
+
+exception 23:17 
+
+49:16 
+
+32:12 
+
+excursus 34:9 
+exercise 4:10,19 
+
+27:15 47:23 
+48:20 
+
+exhaust 14:24 
+
+20:13 
+
+exhausted 17:4 
+
+17:21 19:13 
+32:21 
+
+exhaustion 3:22 
+
+13:2,9 14:21 
+14:22 15:5 
+18:3,4,21 
+exist 18:8 
+exists 4:4 6:4 
+expeditiously 
+
+Alderson Reporting Company 
+
+front 20:17 47:7  Granberry 12:8  Honor 9:10 
+full 39:12 
+function 21:25 
+
+25:14 36:23 
+39:15 45:16 
+49:5 
+
+12:19,25 14:11 
+14:17,20 15:5 
+23:12 28:4,7,8 
+hour 37:22 
+31:13 32:13 
+40:24 41:3,5,8  Huh 46:4 
+42:16 46:11 
+I
+granted 6:7,25 
+IAD 52:10
+identical 15:12
+ignore 36:10
+
+15:9 20:25 
+Greer 23:12 
+ground 3:13 
+
+22:8,9 30:8 
+41:25 
+
+functionally 
+
+15:12 
+
+further 27:6,9 
+
+47:8 
+
+G 
+
+G 3:1 
+General 1:17,20 
+generally 31:11 
+Ginsburg 5:13 
+
+10:13 11:2 
+26:10,18 32:19 
+33:25 38:14 
+39:8,13,17 
+44:8 47:13 
+48:2 
+
+give 24:3 25:11 
+
+given 5:11 25:22 
+giving 29:7,12 
+
+31:2 
+
+46:2 
+
+5:12 35:1 49:8 
+
+grounds 18:4 
+guaranteed 
+
+19:19 
+
+guess 35:11 
+43:15 48:7 
+
+H
+
+habeas 3:12 
+4:22 14:23 
+16:17 21:12,13 
+22:1 23:15 
+27:4 30:10 
+38:13 41:24 
+46:1,6 
+
+go 19:4,20 20:23  handled 9:2 
+
+25:12 35:8 
+39:2 
+
+goes 12:5 14:22 
+
+hands 28:7 45:2 
+
+46:24 47:11 
+happened 9:10 
+
+15:8 
+
+9:15 11:23 
+going 14:14,16 
+15:25 16:1 
+16:20 18:20 
+17:14 28:8 
+19:1,11,14 
+46:25 50:5 
+25:11 28:16,21  happens 14:8 
+16:10 34:20 
+31:7,19 37:21 
+39:11,14 40:1 
+36:11 
+harder 36:25 
+40:2 49:3 
+51:18,19,19,20  hear 3:3 13:3 
+28:16 31:25 
+52:5 
+40:16 
+
+good 25:10 42:3 
+
+49:2 
+
+gotten 35:7 
+govern 21:11 
+government 
+5:15 6:10 
+
+governs 16:6 
+
+hearing 17:16 
+18:22 20:6,19 
+
+heart 14:22 
+held 15:21 16:20 
+Hill 51:24 52:8 
+hold 18:17,18 
+
+Official 
+
+57 
+
+4:20 
+
+jurisdiction 
+
+integrity 50:1 
+intentional 29:4 
+29:5,22 30:13 
+interest 38:12 
+
+46:14 
+
+interests 46:10 
+inversion 39:5 
+invite 22:21 
+invites 21:5 
+irrelevant 48:19 
+issue 6:15 7:2 
+
+Justice 1:20 3:3 
+3:8,24 4:9,13 
+4:23 5:5,8,13 
+6:3,9 7:6,20,23 
+8:3,14,22 9:4 
+9:23 10:13 
+11:2 12:1,4
+13:17 14:10,13
+14:15 15:11 
+16:3,9,24
+18:12 19:1,8
+19:24 21:8,25
+23:2,6,21,23
+24:3,6,10
+25:17,19 26:4 
+26:10,18,21,23
+26:24 27:8,18
+27:22 28:10 
+29:2,9,13,16
+30:5,11,17,21
+31:2,16,22,25
+32:19 33:24 
+34:4,6,7,12,23
+35:6,10,18 
+36:18 37:8,9
+37:10 38:14 
+39:8,13,17,25 
+40:6,7,15,18
+40:22 41:4,21
+41:24 42:22 
+44:8 45:9,22
+46:15,18 47:13 
+48:2,13,25
+49:6 50:7,17
+50:24 51:2,13
+51:16 52:17,22
+
+8:1,4,8,18 9:7 
+10:22,24,25 
+11:1 12:8,9,22 
+12:23 13:2,9 
+17:11,17 18:6 
+20:3,19,21 
+22:7 24:15 
+29:1 30:2,9,16 
+30:24 31:1,20 
+31:20 32:15 
+34:8 35:5,15 
+35:21 36:8,10 
+36:12,15 37:5 
+38:4,16 39:10 
+39:11 42:5,15 
+42:25 43:3,4 
+43:11 44:2,3 
+44:20 45:11,12 
+47:14,20,24 
+48:1 52:12 
+issued 43:1,3 
+issues 4:1 7:1 
+12:11 15:12 
+26:1 46:12 
+47:10 
+J
+joint 13:6 
+Jones 21:22 
+judge 24:24 25:9  Kagan 12:1,4 
+14:15 15:11 
+28:10 36:18 
+37:9 39:25 
+41:4,21,24 
+KATHLEEN 
+
+27:12 31:7 
+32:3 33:8,13 
+33:15,20,22 
+39:1,14 45:13 
+judicial 22:24 
+
+K
+
+50:1 
+
+1:15 2:3,13 3:6 
+
+49:3
+
+imagine 45:10
+impact 10:18,19
+implicate 42:10
+implication
+
+28:22
+
+important 15:8 
+
+22:23 44:22 
+improvidently 
+
+inadvertent 
+
+6:7 
+
+18:2 
+
+inadvertently 
+
+3:19 25:8 
+
+incentives 37:25 
+include 28:24 
+
+39:20 
+
+included 10:7 
+inconsistency 
+
+21:18 
+
+inconsistent 
+21:12 22:2 
+
+indicated 17:20 
+induced 3:20 
+
+17:3 18:23,24 
+
+information 
+
+47:3,4,6 
+
+initially 11:24 
+
+28:23 36:5 
+47:1 
+
+inquiry 27:6 
+
+28:12 
+
+instance 6:2 
+38:25 39:5 
+institutional 
+
+46:10,13 
+
+Alderson Reporting Company 
+
+Official 
+
+58 
+
+mere 21:22 
+
+neither 7:25 
+
+35:14 38:2 
+44:1,2 
+
+32:21 33:1,2,9 
+33:23 34:10,17 
+35:8 39:2 
+49:22 
+
+5:7,9,22 6:8,22  mentioning 38:5  negligent 26:14 
+6:25 7:18,22 
+8:2,6,20 9:1,10  merits 3:23 18:5  never 4:19 10:20 
+10:2,18 11:6 
+12:1,3,20 14:1 
+14:12,14 15:14 
+16:7,13 17:9 
+18:16 19:3,18  middle 35:1 
+20:1 21:8,17  Milyard 1:6 3:4  newfangled 20:4 
+22:4 40:17 
+50:8,9,11,20 
+51:1,7,15,22 
+52:19 
+
+minute 11:19 
+minutes 50:8 
+miscalculated 
+
+new 23:8 37:8 
+37:10 51:24 
+52:8 
+
+normally 26:5 
+
+normal 26:6 
+
+45:24 
+
+27:7 
+
+50:9 
+
+Keep 19:1 
+kept 26:24 
+KEVIN 1:6 
+key 16:16 22:5 
+knew 7:15 11:17 
+16:18 29:13,19 
+29:20 38:20 
+44:12,12,18 
+47:7 
+
+know 6:4,10 
+11:22 13:5 
+15:18 22:16 
+25:9,25 28:1 
+29:11 33:13,16 
+35:12 38:18,19 
+44:9,16 47:2 
+49:1 51:9 52:3 
+
+knowing 51:4 
+knowingly 48:3 
+known 3:16 29:5 
+29:6,23 30:13 
+
+knows 14:21 
+
+50:17 
+
+L 
+
+lack 9:8 48:23 
+laid 37:3 
+landscape 15:4 
+language 6:12 
+37:6,21 39:20 
+40:1,2 45:1 
+largely 42:13 
+late 25:13 41:10 
+latitude 50:15 
+Laughter 6:24 
+law 15:21 17:13 
+
+18:11 20:5,6 
+20:21 24:11,12 
+27:25 28:2 
+37:11 
+
+lawyer 18:23 
+
+20:10,10 36:20 
+36:21 38:17 
+44:16,18 52:11 
+
+lawyers 51:25 
+lay 39:22 
+
+lead-up 37:1 
+learn 11:20 
+legal 24:21,22 
+24:22 25:2,2 
+28:5 
+
+letting 22:15,16 
+level 41:22,23 
+limitations 3:16 
+
+4:21 5:4,24 
+6:18 7:4,10,12 
+8:10,12 9:19 
+10:23 13:14 
+15:7,20 16:15 
+16:17,18 21:4 
+21:21 22:18,25 
+25:10,23 27:14 
+29:14 31:6 
+32:24 38:18,21 
+44:10,13,17 
+45:14 48:3,24 
+49:2,8 50:14 
+50:18 51:12 
+52:2,12 
+
+limited 9:18 
+
+49:14 
+line 4:5 
+literally 9:13 
+little 13:17 
+
+16:25 
+
+logic 12:18 
+logical 12:12 
+longer 41:1 
+longstanding
+
+23:11 
+
+look 11:12 24:10 
+24:11,20 31:25 
+42:16,17,17,17
+42:18 43:21,22
+44:24 46:25 
+48:22 52:6 
+looked 22:10 
+looking 18:21 
+
+24:12 
+
+looks 32:11 
+Lord 1:15 2:3 
+2:13 3:5,6,8
+4:5,11,18,25 
+
+Alderson Reporting Company 
+
+lose 12:13 16:14 
+
+24:13 47:25 
+
+loss 24:15 
+lost 21:21 
+lot 6:3 25:6 26:1 
+
+42:7 
+
+lower 6:16 
+
+M
+
+mad 35:7,11,13
+magic 37:20 
+magistrate's 
+
+33:5 
+
+making 11:21 
+25:8 47:20 
+manner 6:1 
+
+mathematical 
+
+22:25 
+
+33:12 
+
+15:23 33:12,16 
+38:19 
+
+misconstrued 
+
+40:13 
+
+mistake 18:2 
+25:8 26:19 
+Monday 1:9 
+motion 10:15,16 
+10:19,21 11:5 
+11:9,10,14,17 
+17:22 20:11,14
+38:2 47:1,7
+
+motions 11:7,8
+
+42:14 
+
+move 18:14 
+
+52:15 
+
+muzzle 15:22 
+
+N
+
+N 2:1,1 3:1 
+narrow 5:12 
+
+matter 1:11 
+31:11 32:1 
+34:23 41:11,14  nature 37:2 52:6 
+52:25 
+
+neat 14:18 
+mean 6:1,5 8:21  necessarily 
+
+48:16 
+
+15:15 17:16 
+25:20 29:3 
+37:25 44:11 
+
+means 28:5 
+meant 37:23 
+MELISSA 1:19 
+
+2:9 40:19 
+
+31:20 37:19 
+
+necessary 17:18 
+necessity 32:25 
+need 31:20 
+
+32:23 37:16,18 
+37:19 47:3 
+needs 37:20 
+Neglect 24:17 
+
+mention 15:22 
+mentioned 38:3  negligence 
+
+48:14 
+
+26:19 
+
+noticed 15:20 
+notion 15:5 20:5 
+notwithstandi... 
+
+13:12 
+
+number 33:13 
+
+41:18 42:3,4,6 
+43:19 45:19,20 
+49:14 
+O
+O 2:1 3:1 
+objections 48:15
+obligation 24:17
+
+34:1 35:2
+
+odd 39:5 47:5 
+office 51:16,17
+oh 18:24 20:1 
+25:19 40:17
+
+okay 19:11
+
+24:19,22 25:1 
+25:15 27:11
+45:20
+
+Olano 24:2
+once 7:2 10:5 
+11:16 17:19
+20:8 41:14
+operate 48:17
+opportunities
+
+10:14
+
+opportunity 7:3
+
+7:6 25:22
+30:22 36:3
+42:24 43:6,12
+
+opposed 5:8
+
+Official 
+
+59 
+
+prevented 35:20  Public 1:15 
+pre-answer 27:4  punishment 
+
+power 4:1,4,4,7  pro 11:7,7,8,15 
+
+prisoners 22:12  put 8:22,24,25 
+
+48:9 
+
+positions 18:20 
+possible 36:9 
+
+45:15 
+
+possibly 20:12 
+postconviction 
+10:15,15 11:5 
+11:10 
+
+potential 7:9 
+37:4 50:18 
+
+4:8,10,12,15 
+4:16 5:8 6:17 
+7:14,16,24 8:4 
+13:21,25 14:2 
+32:5,7,8,10 
+precise 27:9 
+precisely 30:9 
+
+22:15 
+
+preliminary 
+
+36:7 
+
+prescreening 
+
+22:8,9 
+
+presentation 
+14:4 38:15 
+41:12 
+
+presented 3:11 
+
+presenting 
+
+12:22 39:12 
+presents 7:1 
+
+47:15 
+
+36:6 45:7 
+
+primary 5:9,9 
+
+43:18 
+
+principle 14:4 
+34:18 38:15 
+
+prior 11:10 
+
+42:25 
+
+13:12 
+
+probably 8:2,2 
+
+24:5 51:1 
+
+problem 34:21 
+problems 9:2 
+
+50:11 
+
+procedural 18:6 
+
+18:8 23:14 
+42:2,7,18,23 
+48:24 49:21 
+50:2 
+
+procedure 8:8 
+
+15:25 16:3,4,5 
+16:8 21:10 
+26:7 
+
+procedures 27:3 
+
+39:24 
+
+proceed 34:16 
+proceedings 8:7 
+16:18 18:1,10 
+21:7 
+
+prongs 15:17 
+proper 4:19 
+properly 10:21 
+
+23:14 34:2 
+
+proposing 4:5 
+
+4:18 
+
+protect 34:1 
+
+45:25 46:1,6 
+protecting 30:5 
+provided 47:3 
+provides 37:24 
+
+49:25 
+
+purpose 15:13 
+
+15:14,15 
+
+purposeful 8:20 
+pursued 20:8 
+pursues 32:3 
+push 32:1 
+
+22:11 27:10,12 
+30:9 32:25 
+33:6,17 41:5 
+
+putting 8:23 
+
+20:15 
+
+p.m 52:24 
+Q 
+
+qualifications 
+
+39:18 
+
+qualified 39:20 
+qualify 39:21 
+question 4:9,10 
+4:11,17 5:19 
+6:20 7:21 11:4 
+11:6 12:2,14 
+12:15 15:9,9 
+18:11 24:1 
+26:14 27:15,24 
+33:11 34:14 
+35:17 36:17 
+39:4 40:25 
+41:2 42:19 
+43:16,22 45:3 
+46:20 47:24 
+48:7,19,22 
+49:11 
+
+questioning 
+
+12:18 
+
+questions 3:25 
+
+6:12 10:8 
+38:25 
+
+quintessential 
+
+50:4 
+
+quite 16:19 
+27:20 28:7 
+36:9 39:9 
+
+3:25 10:8 12:2  process 43:11 
+13:1,2 40:25 
+41:2 42:19 
+43:16 
+
+prohibited 
+35:22,25 
+
+50:1 
+
+34:19 36:2 
+
+petitions 38:6 
+phase 49:25 
+place 12:13 
+plain 8:16 
+49:19,23 
+plainly 49:12,23  predictable 
+
+precluded 3:15 
+predecessor 
+
+49:24 
+
+32:14 43:20,23  played 38:9 
+player 28:16 
+44:5 48:12 
+
+oversight 26:14  pleading 22:12 
+
+42:14 
+
+pending 11:18 
+opposing 12:4 
+17:22 20:11 
+oral 1:11 2:2,5,8  performs 22:1 
+
+3:6 23:4 40:19  period 10:23 
+
+order 9:13 34:19 
+
+15:20 
+
+permit 8:17 
+perverse 37:25 
+petition 3:11,13 
+
+10:9 11:25 
+16:22 43:13,25 
+51:11 
+
+Petitioner 1:4 
+
+1:16 2:4,14 3:7 
+13:7,8 40:25 
+42:20 44:1 
+50:10 
+
+petitioners 
+
+38:13 
+
+48:15 
+
+please 3:9 23:7 
+23:22 27:23 
+40:7,23 52:18 
+
+PLRA 22:9 
+point 31:23 
+
+33:15 40:1,2 
+42:21 43:24 
+44:6 47:9 
+52:16 
+
+pointed 33:15 
+points 51:25 
+policy 21:23 
+
+36:12 43:8 
+50:23 
+
+ordered 7:19 
+9:12 22:19 
+orders 11:19 
+ordinary 38:23 
+
+47:15 
+
+original 10:15 
+ought 6:6 12:17 
+outline 36:2 
+overcome 25:13 
+
+25:22 32:6,7 
+32:10 
+
+overlap 5:23 
+overlooked 
+
+45:16 
+
+overridden 
+
+32:18 
+
+overriding 
+
+P 
+
+P 3:1 
+package 14:18 
+page 2:2 42:6 
+part 14:15 36:7 
+particular 6:13 
+partly 35:14 
+party 12:7,16,16 
+12:22 13:1,19 
+13:20,22 14:4 
+14:5 38:15,15 
+41:9,9,12,15 
+42:15 47:15,16 
+48:3,4 
+
+party's 48:14,15 
+passed 15:3 
+patently 15:19 
+PATRICK 1:3 
+penalizing 18:13 
+
+22:11 
+
+preserve 23:14 
+position 5:20,22  preserved 5:25 
+press 28:14,18 
+28:21 47:10 
+pretty 25:10 
+prevail 10:25 
+prevails 34:15 
+
+7:11,14 8:5 
+9:16 13:20 
+17:2,7 20:22 
+21:5 22:20 
+30:18 35:19 
+
+Alderson Reporting Company 
+
+Official 
+
+60 
+
+47:17 48:21 
+49:12,22,24 
+
+42:19,20 44:4 
+48:16 
+
+reason 28:22,23 
+
+R 
+
+35:10 36:1 
+37:3,7 39:20 
+39:22 40:9 
+45:23 46:3,22 
+47:10 
+
+reasons 10:10 
+11:23 21:23 
+43:18 
+
+R 3:1 
+race 49:24 
+raise 4:1 7:3,15 
+7:17,24 8:12 
+8:18 9:7,8 
+10:16 12:7,10 
+12:16 13:8 
+15:16 16:14 
+18:9 21:3,4 
+22:18 26:7,11 
+27:13 30:14,22 
+37:11,15 41:15  recognize 34:25 
+42:25 45:11,17  recognized 
+47:14,18 49:4 
+23:13 52:8 
+49:9 
+
+2:12 50:9 
+recognition 
+
+REBUTTAL 
+
+21:20 
+
+21:16 
+
+representation 
+
+26:13,15 
+
+representing 
+26:11 47:19 
+request 17:23 
+required 15:21 
+33:14 50:22 
+requirement 
+21:19 22:12 
+51:23 
+
+requires 20:6,6 
+
+22:19 50:21 
+reserve 23:1 
+resolve 23:10 
+
+42:19 
+
+resolved 5:12 
+20:18 35:16 
+
+recognizes 15:2 
+record 9:20 
+
+resolving 34:16 
+resources 3:21 
+respect 12:9,20 
+
+34:19 
+
+raised 6:18,19 
+7:13 8:4 9:17 
+9:17 12:7,17 
+13:4,19 15:6 
+20:2,16 21:21 
+28:23 36:1,5 
+41:9,9,19,20 
+45:13 
+
+raises 14:1,5 
+31:5 38:15 
+raising 6:4 
+
+1:18,22 2:7,11 
+23:5 40:21 
+
+16:21 47:8 
+50:2 
+
+refer 16:9 
+referring 16:7 
+refrain 39:12,14  respond 43:12 
+refused 35:3 
+Respondents 
+refusing 28:24 
+regular 31:3 
+regularity 36:12  response 15:19 
+rehearing 9:9 
+rejected 14:11 
+12:15,22 13:20  relative 14:2 
+14:3 19:10,11 
+22:3 26:1,14 
+30:8 32:23 
+38:5 40:3 42:5 
+42:14,15 
+
+relevant 48:21 
+relief 3:12 14:25  rest 23:1 
+
+21:15 27:4 
+36:6,9 43:8,9 
+45:7 50:22 
+
+relinquish 25:1 
+relinquished 
+
+responses 41:17 
+
+45:10 46:22 
+
+result 3:15 
+
+15:1 
+
+rarest 47:12 
+reach 49:22 
+read 25:7 
+reaffirm 41:3 
+real 15:7 17:11 
+
+22:14,15 
+
+realized 10:24 
+really 12:11 
+14:16 15:4 
+16:16 25:16 
+37:4,24 40:1 
+
+3:16 25:3 
+
+relinquishment 
+
+24:21 
+rely 4:14 
+relying 12:17 
+
+18:7 
+
+remaining 50:8 
+Remember 36:5 
+repeat 28:15 
+
+34:9 
+
+reply 4:2 17:20 
+
+resurrect 50:16 
+resurrected 
+
+13:13 
+
+review 38:16 
+reviewing 39:3 
+reviews 38:24 
+Rhines 15:2 
+right 8:3 24:15 
+24:21,22,22 
+25:2,2,12 
+26:23 27:13,15 
+27:22 28:5 
+
+Scalia 6:3,9 21:8 
+
+12:5 18:18 
+19:10 24:21 
+25:9 27:12 
+28:13 31:8 
+32:4,4 38:21 
+47:16 49:1 
+50:18 
+
+29:5,6,23 30:6 
+50:24 51:3,4 
+30:13,16,18,24  says 5:15 6:10 
+30:25,25 32:1 
+32:2 33:24 
+34:12,13 35:8 
+37:14 39:16 
+45:12 46:5,17 
+52:7,9,9 
+rights 24:2 
+risk 18:22,23 
+ROBERTS 3:3 
+4:23 19:1 23:2 
+34:23 40:7,15 
+40:18 48:25 
+49:6 50:7 
+52:17,22 
+role 39:6 
+rule 9:25 15:18 
+16:3,5,7,11,14 
+16:21 21:19 
+22:2,15,19 
+23:17,18 24:1 
+26:6 28:3,4 
+32:13,22 37:23 
+37:24 45:24 
+47:15 48:16 
+50:21 51:22 
+
+30:7,8 39:23 
+41:25 
+
+26:21,23,24
+30:17,21 31:25 
+34:4,7,12 35:6 
+35:10 48:13 
+Schiro 42:17 
+
+scorched 38:10 
+screening 21:25 
+
+14:15 23:16,25
+31:7 43:15 
+
+se 11:7,7,8,15
+
+second 3:18 
+
+see 13:6 18:25 
+20:10 33:13 
+38:11 
+
+13:12 
+
+46:11 
+
+ruled 11:14 
+rules 8:8 15:25 
+
+seen 49:16 
+
+21:10,12,13,23  sense 5:25 21:3 
+22:10,17 23:11 
+26:6 
+
+25:7 27:2 
+49:15 
+
+rulings 11:21 
+
+50:11 
+
+run 33:14 
+S
+S 2:1 3:1 
+sandbagging
+22:21 42:12
+
+save 34:21
+Savings 24:4
+saying 13:6 25:6 
+25:6 28:11,11
+28:14,17 29:10 
+33:4,7 37:12 
+39:1 48:25
+
+sentence 52:18 
+serious 20:13 
+seriously 49:25 
+set 9:14 21:19 
+
+23:9 
+
+sets 9:15 
+severalfold 
+
+50:12 
+
+Sherry 1:19 2:9 
+40:16,18,19,22
+41:4,17,23
+42:1 43:5 
+44:21 45:21 
+46:8,16,19
+47:21 48:6 
+
+Alderson Reporting Company 
+
+Official 
+
+61 
+
+49:5,10 
+
+show 11:13 
+shows 10:10 
+show-cause 
+
+36:12 
+
+side 31:23 
+significant 6:15 
+41:18,25 48:11 
+
+22:16,16 32:16  strongly 43:14 
+37:25 38:9 
+40:20 
+
+sound 11:14 
+sounds 8:14 
+special 27:3 
+specifically 36:7  State's 9:16,21 
+spend 37:21 
+10:11 17:2,7 
+spent 34:14 
+17:19 19:10 
+spoke 43:18,19 
+22:20 23:13 
+26:5 32:15 
+43:20,24 44:5 
+44:12 48:12,18 
+51:17,25 
+
+43:20 
+
+stuck 27:24 
+sua 4:1,20 7:16 
+7:24 8:18 9:8 
+12:15,22 14:3 
+15:16 21:3 
+30:14 37:15 
+41:7 42:5,8 
+subject 19:22 
+
+50:15 
+
+submitted 52:23 
+
+status 13:12 
+statute 3:16 4:21  substantial 3:11 
+
+52:25 
+
+52:19 
+
+44:10 
+
+suggesting 52:3 
+
+3:21 19:4 
+20:25 
+
+suggest 17:1,12 
+suggested 14:18 
+
+5:3,24 6:17 7:3 
+7:9,12 8:9,12 
+9:18 10:23 
+13:14 15:7 
+16:15,17,18 
+21:4,20 22:18 
+22:24 24:10 
+25:10,23 27:14  sunk 34:4 
+29:14 31:6 
+32:23 33:14 
+supported 34:19 
+38:18,21 44:9 
+44:13,17 45:13  supporting 1:21 
+49:8 50:14,18 
+51:12 52:1,12 
+statutory 24:2 
+stay 17:23 20:12 
+sticks 38:11 
+supposed 39:3 
+straddling 22:23  Supreme 1:1,12 
+straightforward  sure 29:15 39:22 
+
+2:11 28:1 
+40:21 
+
+super-advocate 
+
+supports 9:20 
+
+23:24 
+
+14:8 
+
+10:18,19 
+simple 18:3 
+simplified 18:10 
+simplify 17:25 
+
+silent 7:12 10:16  sponte 4:1,21 
+7:17,24 8:18 
+9:8 12:15,22 
+14:3 15:16 
+21:3 30:14 
+37:15 41:7 
+42:5,8 
+
+18:14 
+
+simply 11:15 
+31:19 36:10 
+40:10 41:1 
+50:24 
+
+sit 6:9,12 11:18 
+situation 4:14 
+15:24 16:12 
+19:10,13 
+
+situations 4:6,19 
+
+19:9 33:19 
+skeletal 36:2 
+slightly 27:2 
+small 20:22 
+solely 3:12 
+Solicitor 1:17,19 
+somewhat 47:5 
+sorry 7:22 18:25 
+
+18:25 37:10 
+40:17 49:5 
+51:15 
+
+sort 4:13 12:5 
+12:12 22:21 
+26:7 36:1 
+41:16 
+
+SOTOMAYOR 
+3:24 4:9,13 5:5 
+5:8 7:6,20,23 
+8:3 13:17 
+14:10,13 18:12 
+29:2,9,13,16 
+30:5,11 37:8 
+37:10 
+
+sought 20:12 
+
+stage 8:6 9:12 
+17:10 36:6 
+stake 46:10 
+state 3:14,15,18 
+3:20 7:3,8,9,11 
+7:19,25,25 
+8:10,11 10:20 
+10:24 11:12,16 
+11:19 13:2,3 
+13:15 14:19 
+15:18 17:9,25 
+18:13 19:6,18 
+21:5 22:23 
+24:24 25:8,9 
+25:18 26:21 
+27:1,21 28:12 
+28:13 29:1 
+32:1 33:4 
+35:19 36:20,22  strange 4:14 
+37:25 38:7,20 
+42:24 43:5,8,9 
+43:12,23,24 
+44:3 45:6,11 
+strategically 
+45:13,15,25 
+46:1,6,9 47:2,3 
+3:19 25:18 
+strategy 17:6 
+47:9 49:2,9,20 
+49:22,24 50:12  streamlined 
+50:17 52:1,19 
+
+strategic 10:12 
+11:23 18:17 
+25:20 42:12 
+52:13 
+
+23:11 
+
+21:7 
+
+stated 40:10 
+statement 37:2 
+States 1:1,12,21 
+
+2:10 21:9 
+
+stress 9:22 
+stresses 21:22 
+strictly 48:8,9 
+strong 10:7 
+
+swords 5:14 
+system 47:5,13 
+
+T
+
+T 2:1,1
+table 29:1 30:9 
+
+30:16 32:16
+36:15 50:5
+
+take 5:18 21:5 
+
+29:1 30:15
+32:15,21 52:20 
+
+taken 22:22
+
+31:21
+
+takes 33:1
+talk 48:11
+
+talking 11:9 
+
+16:4,15 
+
+tell 6:5 29:3,21 
+
+32:18 39:1 
+44:19 
+
+telling 7:8,9 
+
+27:5 
+
+Tenth 3:10 13:9 
+
+17:17 
+
+term 43:18 
+49:16,19 
+
+terminology 
+
+31:16 
+
+Thaler 49:19 
+thank 23:2 
+
+40:15 45:15 
+50:7 52:22 
+thing 20:22 
+
+38:23 47:18 
+
+things 3:14 
+think 6:6 15:7,8 
+
+17:12 21:24 
+27:2,19 28:21 
+29:5 30:23 
+31:10,12,18,24 
+35:14,24 36:19 
+36:25 37:1,18 
+37:19 39:9,19 
+40:5,8,25 
+41:12,13,18 
+42:2,10,13,16 
+42:18,20 43:16 
+43:21 44:3,21 
+44:22 46:22 
+47:22 48:11,15
+49:10,12,14,15
+52:5 
+
+third 3:20 
+thought 6:14 
+
+11:3 29:16,18
+33:11 
+
+three 3:14 45:20 
+
+45:22 
+
+throw 38:10 
+time 8:10,11
+
+11:22 14:23 
+15:6 18:8 19:5 
+
+Alderson Reporting Company 
+
+19:22 23:1 
+34:14 38:20 
+42:25 44:4 
+50:21 
+
+timeliness 9:13 
+
+9:14 10:25 
+17:2,8,10 19:7 
+19:10,11,14,19 
+20:2,4,16 
+26:12,17 32:24 
+35:21 38:4 
+39:15 42:25 
+43:4,9,22 
+44:14 45:3 
+47:9,17,24 
+
+timely 6:1 10:8 
+22:25 33:4,11 
+51:11 52:10 
+
+times 13:5 
+timing 22:17 
+
+50:14 
+
+today 23:10 
+
+37:13,22,23 
+told 32:22 39:9 
+39:10 44:13 
+tolled 10:22,23 
+totally 10:8 
+15:24 18:7 
+20:20 21:6 
+
+traditional 8:9 
+16:13 21:20 
+22:2 
+
+transfers 15:6 
+transformed 
+
+15:3 
+
+transpired 33:3 
+treat 16:20 
+
+46:23 
+
+treated 16:19 
+
+44:23 46:20,21 
+
+treating 44:25 
+
+45:1 
+
+treatment 8:9 
+trial 33:15 41:21 
+
+41:23 
+
+trick 25:20 
+tried 13:8 20:13 
+
+Official 
+
+62 
+
+unexhausted 
+
+13:11 19:16,26 
+33:2 
+
+United 1:1,12,21 
+
+2:10 40:20 
+unnecessary 
+33:6 34:3 
+
+untimely 3:13 
+
+38:7 52:10 
+
+tries 13:22 
+trouble 26:1 
+troubles 9:5 
+true 26:6 31:13 
+
+42:2 44:22 
+trying 18:13 
+25:18 27:1 
+28:25 37:4,6 
+37:22 38:1 
+45:25 
+
+11:25 29:18,19 
+35:23 43:13,25  waivers 23:17 
+47:1 
+
+31:12 
+
+40:12 
+
+36:23 37:17  We've 10:20 
+40:14 43:16,17  whatsoever 4:4 
+43:19,20,24 
+44:5,24 45:1,6  wide 50:15 
+46:21,23 48:10  win 14:13 20:4,4 
+48:12,16 49:11 
+50:5,19,25 
+51:8,23 52:1,2 
+52:7 
+
+29:7,20 49:2 
+Wood 1:3 3:4 
+11:7,15 13:8 
+17:15 18:24 
+19:20 20:23 
+34:15 35:14 
+38:2 
+
+waives 48:3 50:2 
+waiving 37:14  Wood's 3:11 
+11:25 17:21 
+
+49:20 
+
+want 6:20,21,22  word 24:7 26:24 
+words 29:3 32:9 
+
+22:22 24:25 
+25:24,25 27:9 
+27:14 28:13,18  work 33:6 
+37:16 45:16,20  worried 25:7 
+
+37:20 
+
+42:12 
+
+wanted 17:6 
+30:6 49:21 
+
+worry 19:21 
+worrying 19:5 
+
+WARDEN 1:6 
+Washington 1:8  worse 13:19 
+
+1:20 
+
+wasn't 5:1 6:19 
+
+wouldn't 7:14 
+14:7,25 31:17 
+33:16 35:3 
+18:2 25:20 
+26:10 33:6,20  wrong 8:22,24
+35:21,22 
+water 34:7 
+way 9:1 20:3,15 
+
+18:12 28:15,17
+
+X
+
+31:24 41:6
+43:17,22 51:14 
+
+x 1:2,7
+
+ways 28:25
+Weber 15:2
+went 47:2
+weren't 29:17
+
+Y
+year 52:21
+York 51:24 52:8 
+you’re 9:23
+
+1
+
+50:14
+
+1 52:20
+
+38:8 
+We'll 3:3 
+we're 6:11 15:24  1-year 16:17,18
+16:14 27:4 
+28:14,15,16 
+10-9995 1:4 3:4 
+31:17 32:23 
+11:04 1:13 3:2 
+36:21,22 37:21  12 16:8 42:6 
+37:23 38:21 
+12:05 52:24
+39:13 45:25 
+15 21:9
+51:4,5,19,19 
+19 10:18
+51:20 
+1995 10:15,19 
+
+turning 43:15 
+twice 10:17 19:6  use 49:24 
+uses 37:5 
+
+urged 50:12 
+
+38:4 
+
+two 3:11,25 6:25  usual 28:3,4 
+
+10:13 12:10 
+14:17 15:12,17 
+18:5 19:4,9,20 
+20:24,24 23:11 
+31:4,4 32:21 
+33:1,19,19 
+42:9 43:18 
+45:19,22 
+
+typical 31:10,12 
+
+52:13 
+
+U 
+
+V
+
+v 1:5 3:4 15:2 
+21:22 23:12
+49:18 51:24
+52:8
+
+valid 49:7
+view 38:17
+
+50:25 52:16
+viewing 8:16
+violation 50:20
+
+50:23
+
+ultimately 20:18  virtue 22:14,15
+voluntarily 25:1
+unable 45:3 
+unanimously 
+voluntary 24:21
+
+unconstitutio... 
+
+22:13 
+
+18:7
+
+undercut 51:8
+undermined
+
+49:25
+
+undermines
+
+37:1
+
+understand 11:6
+12:4 17:5 19:9 
+19:17,24 36:19 
+
+understood
+
+31:19
+
+unequivocal
+23:19 24:7,8
+28:19,20 37:2 
+37:20 52:2
+
+W
+
+wait 27:8,8,8
+waive 32:15 
+37:5,5,12 
+45:11 52:1 
+waived 13:22
+25:15 35:15
+44:3 52:7,9,10
+waiver 5:3,6,10
+5:15,18,20,21
+8:19,25 9:20 
+10:4,5 23:18 
+24:9,12,20
+26:8 29:4,22
+29:22 31:9,15
+32:7,12 35:21 
+
+Alderson Reporting Company 
+
+Official 
+
+63 
+
+11:17 17:22 
+20:11,14 38:2 
+47:7 
+
+2
+ 
+
+2004 10:23 11:9 
+2012 1:9 
+23 2:7 
+27 1:9 
+
+3
+ 
+3 2:4 50:8
+ 
+4
+ 
+
+4 16:22 
+40 2:11 
+
+5 15:18 22:19 
+
+50:21 
+
+5
+ 
+
+5's 21:19 51:22 
+50 2:14 
+
+8
+ 
+8(b) 16:8 
+
+Alderson Reporting Company 
+
+

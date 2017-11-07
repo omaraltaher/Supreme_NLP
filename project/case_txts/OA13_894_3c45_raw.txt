@@ -1,0 +1,9775 @@
+1
+
+2 
+
+3 
+
+4 
+
+5
+
+6
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+DEPARTMENT OF HOMELAND 
+
+          
+
+: 
+
+SECURITY, 
+
+                       
+
+: 
+
+ Petitioner 
+
+          
+
+: 
+
+ v. 
+
+                       
+
+:  No. 13­894 
+
+ROBERT J. MACLEAN. 
+
+              
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Tuesday, November 4, 2014 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:06 a.m. 
+
+APPEARANCES: 
+
+IAN H. GERSHENGORN, ESQ., Deputy Solicitor General, 
+
+ Department of Justice, Washington, D.C.; on behalf of 
+
+ Petitioner. 
+
+NEAL K. KATYAL, ESQ., Washington, D.C.; on behalf of 
+
+ Respondent. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+IAN H. GERSHENGORN, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+3 
+
+ORAL ARGUMENT OF 
+
+NEAL K. KATYAL, ESQ. 
+
+ On behalf of the Respondent 
+
+                    
+
+27 
+
+REBUTTAL ARGUMENT OF 
+
+IAN H. GERSHENGORN, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+54 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (10:06 a.m.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+first this morning in Case 13­894, the Department of 
+
+Homeland Security v. Robert MacLean. 
+
+ Mr. Gershengorn. 
+
+ ORAL ARGUMENT OF IAN H. GERSHENGORN 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. GERSHENGORN: 
+
+Mr. Chief Justice, and may 
+
+it please the Court: 
+
+ In Section 114(r), Congress directed TSA to 
+
+promulgate regulations prohibiting disclosures that 
+
+would be detrimental to the security of transportation. 
+
+The information covered in the TSA regulations ranges 
+
+from a flight ­­ flight crew's plans for dealing with a 
+
+hijacking attempt to vulnerabilities in airport security 
+
+systems to the kind of de ­­ flight ­­ Federal air 
+
+marshal deployment information at issue in this case. 
+
+ Under the Federal Circuit's construction of 
+
+the whistleblower statutes, any one of TSA's 60,000 
+
+employees may override TSA's expert judgment and 
+
+publicly disclose sensitive security information in that 
+
+employee's possession based on that employee's 
+
+reasonable belief about what public safety requires. 
+
+ JUSTICE GINSBURG: 
+
+At what point was ­­ was 
+
+3
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+MacLean told that this qualified an ­­ as SSI?  Correct 
+
+me if I'm wrong about this, but as I understood it, he 
+
+was fired, and it wasn't until the case was before the 
+
+MSPB that a determination was made that this information 
+
+qualified as ­­ as what you call SSI. 
+
+ MR. GERSHENGORN: 
+
+Your Honor, I think that's 
+
+not quite correct, and let me see if I can work it 
+
+through. 
+
+ The information ­­ the information about 
+
+Federal air marshal deployment has been prohibited by 
+
+regulation for more than a decade.  It was prohibited 
+
+expressly prior to 9/11.  It was in regulations that 
+
+were promulgated by TSA after 9/11. 
+
+ JUSTICE GINSBERG: 
+
+But when was he first 
+
+told? 
+
+ MR. GERSHENGORN: 
+
+He was told that air 
+
+marshal deployment information was SSI in the training, 
+
+and it's in the regs.  He argued before the 
+
+administrative judge that he was unaware that this 
+
+information was SSI, and the administrative judge 
+
+rejected that contention.  That's at Petitioner's 
+
+Appendix from 100a to 103a. 
+
+ What the administrative judge found was his 
+
+testimony that he did not know this was SSI was 
+
+inconsistent, nuanced, and evasive, and the judge 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+rejected that contention. 
+
+ What happens in the TSA final order, which I 
+
+know Your Honor is referring to, is that TSA creates a 
+
+final order determining something is SSI precisely so 
+
+that it can be appealed to the court of appeals under 49 
+
+U.S.C. 46110, which gives a person aggrieved by a ­­ a 
+
+TSA order 60 days to appeal something to the court of 
+
+appeals. 
+
+ Mr. MacLean did so, and the ­­ the Ninth 
+
+Circuit rejected his argument that this was retroactive 
+
+classification of TS ­­ of SSI.  So I think as the case 
+
+comes to this Court, there really is no dispute that he 
+
+understood that this was SSI. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+But it ­­ it 
+
+certainly is ­­ will, in many cases, be a close 
+
+question.  I was very surprised to see in your reply 
+
+brief the recognition that the employee can ­­ just to 
+
+quote it ­­ "can tell the media that Federal air 
+
+marshals will be absent from important flights, but 
+
+declining to specify which flights." 
+
+ I think it would be very difficult to figure 
+
+out what's SSI and what's not if ­­ given that kind of 
+
+fine line. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+And could he say, 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+there will ­­ air marshals have been cut 50 percent 
+
+from, you know, transcontinental flights? 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, there may 
+
+be close cases.  Again, the administrative judge heard 
+
+this contention from Mr. MacLean and rejected it.  As 
+
+the case ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Heard what 
+
+contention? 
+
+ MR. GERSHENGORN: 
+
+That he did not know that 
+
+this was SSI, that the Federal air marshal deployment ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Okay.  Well, what 
+
+about my question?  Could somebody say that the number 
+
+of air marshals on transcontinental flights has been cut 
+
+50 percent? 
+
+ MR. GERSHENGORN: 
+
+Your Honor, I think 
+
+that ­­ that without specifying ­­ I don't know the 
+
+answer to that.  I'm not someone at TSA who has 
+
+classification ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+So how was 
+
+Mr. MacLean supposed to know? 
+
+ MR. GERSHENGORN: 
+
+Because Mr. MacLean ­­
+
+Mr. MacLean is ­­ was trained to know, was trained in 
+
+SSI, received training on that ­­ on that.  And as I 
+
+say, Your Honor, there is no dispute that he did know 
+
+that this was SSI.  Details of Federal air marshal 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+deployment ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I'm a little confused. 
+
+Like Justice Ginsburg, I thought from the briefing that 
+
+that was done generally beforehand, that something would 
+
+be distributed to people with a confidential notice on 
+
+it so that people would be ­­
+
+ MR. GERSHENGORN: 
+
+That would be marked SSI. 
+
+ JUSTICE SOTOMAYOR: 
+
+­­ that the ­­ that this 
+
+was SSI.  But this particular information wasn't so 
+
+designated before the release. 
+
+ MR. GERSHENGORN: 
+
+That's correct, Your 
+
+Honor.  But the ­­ the ­­ there's no doubt the best 
+
+practice is, is to mark information SSI.  But 
+
+information is SSI ­­
+
+ JUSTICE SOTOMAYOR: 
+
+You want it before it's 
+
+going out. 
+
+ MR. GERSHENGORN: 
+
+Correct.  But SSI can ­­
+
+information can be SSI, whether or not it is marked ­­
+
+whether it ­­ or not it is marked that way.  And, again, 
+
+the regulations are ­­ are clear on this, that details 
+
+of Federal air marshal deployment are covered as SSI, 
+
+and this issue was litigated before the administrative 
+
+judge.  I think ­­
+
+ JUSTICE KENNEDY: 
+
+If there were no 
+
+regulations, just the statutes on the books, at that 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+point, are there any prohibitions on disclosure?  Or 
+
+there can be no SSI without at least some regulation? 
+
+ MR. GERSHENGORN: 
+
+That's correct, Your 
+
+Honor. 
+
+ But ­­ and so if I could turn to that, what 
+
+the Federal Circuit held, the Federal Circuit held that 
+
+the whistleblower protections extended to this 
+
+information.  But properly read, 2302(b)(8)(A) squarely 
+
+forecloses that result.  What that section does is 
+
+exempt from whistleblower protection information that is 
+
+specifically ­­ disclosure of which is specifically 
+
+prohibited by law.  The Federal Circuit found no 
+
+specific prohibition here, indeed, no law at all. 
+
+ But under the SSI regime, disclosure was 
+
+prohibited both by the statute that mandated 
+
+nondisclosure regulations and by the nondisclosure 
+
+regulations ­­
+
+ JUSTICE SCALIA: 
+
+No, it wasn't prohibited by 
+
+the statute until there were regulations, right? 
+
+ MR. GERSHENGORN: 
+
+That's correct, Your 
+
+Honor.  But there were regulations ­­
+
+ JUSTICE SCALIA: 
+
+So it is prohibited by 
+
+regulations.  Let's not play games. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, I don't ­­
+
+I ­­ I think we would prevail even under that 
+
+1 
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20
+
+21 
+
+22
+
+23 
+
+24
+
+25 
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+interpretation because it's prohibited by regulations 
+
+that the statute mandated to be disclosed.  But I think 
+
+under this Court's decisions in Robertson and in Sims, 
+
+which addressed the question of specifically exempted 
+
+from disclosure by statute, and this Court said that in 
+
+Robertson, a regulation that gave to the administrator 
+
+authority to ­­ to ex ­­ to dis ­­ exempt from 
+
+disclosure after a public interest weighing, and in Sims 
+
+where the Court had a statute that just gave to the CIA 
+
+director an instruction to protect sources and methods, 
+
+and the Court said in both cases that was specifically 
+
+exempted by statute. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, your reasoning 
+
+is ­­
+
+ JUSTICE GINSBURG: 
+
+What ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+­­ would ­­ it 
+
+apparently came as a surprise to the government lawyer 
+
+in the court of appeals.  He said, I'll be as clear as I 
+
+can.  Specifically prohibited by law here means statute. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, I ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Again, the MacLean 
+
+is supposed to know something that the lawyer ­­
+
+government lawyer and the court of appeals doesn't know. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, I think 
+
+that that statement ­­ the lawyer did say that.  But the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+lawyer went on to explain that regulations promulgated 
+
+pursuant to a statutory mandate would control, and 
+
+that's what the Federal Circuit understood. 
+
+ JUSTICE GINSBURG: 
+
+But now you think ­­ you 
+
+seem to be arguing that it's not simply mandated by 
+
+statute.  You use the two FOIA examples that you gave 
+
+was authorized or permitted.  So what is your position 
+
+today?  Before the Federal Circuit, it seems to have 
+
+been this is statute, not regulations.  Now it's some 
+
+regulations, but we don't know whether regulations that 
+
+are mandated or regulations that are merely authorized. 
+
+What is it? 
+
+ MR. GERSHENGORN: 
+
+So let me be as clear as I 
+
+can.  We believe that it is specifically prohibited 
+
+first by a statute, which was the argument that was made 
+
+clearly below, and by ­­ and ­­ and in the briefs here 
+
+and that this qualifies. 
+
+ Second, we think that it is prohibited by 
+
+regulations that are prohibited pursuant to a statutory 
+
+mandate ­­ that promulgated pursuant to a statutory 
+
+mandate. 
+
+ And if I could point the Court's attention 
+
+to page 15a. 
+
+ JUSTICE KENNEDY: 
+
+Excuse me, I must have 
+
+misunderstood.  I asked you whether or not the employee 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24
+
+25 
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+could be terminated if only the statute were on the 
+
+books and no regulations yet, and I thought you said no. 
+
+ MR. GERSHENGORN: 
+
+Because there would be no 
+
+
+SSI designated. 
+
+ JUSTICE KENNEDY: 
+
+All right.  So ­­
+
+
+ MR. GERSHENGORN: 
+
+But once there's ­­ sorry. 
+
+
+ JUSTICE KENNEDY: 
+
+So then ­­ so then the 
+
+
+statute alone does not carry the day. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, I don't 
+
+think that's the way the Court looked at it in Robertson 
+
+and the way the Court looked at it in Sims, because in 
+
+both of those cases, there had been no determination not 
+
+to disclose until the administrator made the 
+
+determination, and yet the Court found that those were 
+
+specifically ­­ that they were specifically ­­
+
+nondisclosure was specifically authorized by statute. 
+
+ If I could just finish the answer to Justice 
+
+Ginsburg and to the Chief.  At ­­ to the Chief Justice. 
+
+ At page 15a in the Petitioner's Appendix, 
+
+what the court ­­ the Federal Circuit said was, 
+
+"Regulations promulgated pursuant to Congress's express 
+
+instructions would qualify as specific legal 
+
+prohibitions." 
+
+ Both arguments were ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+I'm sorry, what was 
+
+1 
+
+2 
+
+3
+
+4 
+
+5
+
+6
+
+7
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+that quoted from? 
+
+ MR. GERSHENGORN: 
+
+That was from the Federal 
+
+Circuit's decision at 15a.  It's at 15a attached to 
+
+the ­­ to the petition. 
+
+ So the Federal Circuit understood, just 
+
+as ­­ as they said, that regulations promulgated 
+
+pursuant to Congress's express instructions would 
+
+qualify as specific legal prohibition. 
+
+ JUSTICE SOTOMAYOR: 
+
+Counsel, would you 
+
+qualify, assuming ­­ because Congress disagreed with 
+
+Robertson and ­­ didn't it?  And it then amended FOIA. 
+
+ MR. GERSHENGORN: 
+
+Congress amended FOIA, 
+
+yes, Your Honor. 
+
+ JUSTICE SOTOMAYOR: 
+
+All right.  Assume that 
+
+we read statute more or less the way that FOIA does ­­
+
+ MR. GERSHENGORN: 
+
+Okay. 
+
+ JUSTICE SOTOMAYOR: 
+
+­­ the amended FOIA.  Do 
+
+you meet the amended FOIA criteria? 
+
+ MR. GERSHENGORN: 
+
+We do, Your Honor. 
+
+ JUSTICE SOTOMAYOR: 
+
+All right.  And which 
+
+prong of it and why? 
+
+ MR. GERSHENGORN: 
+
+We meet the ­­ first of 
+
+all, I would just like to say that the Senate 
+
+legislative history expressly considered this very 
+
+question and said that if that ­­ that we ­­ I'm sorry. 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12
+
+13 
+
+14
+
+15 
+
+16
+
+17
+
+18 
+
+19
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ Can I step back one second, Your Honor? 
+
+ We don't think that you need to meet those 
+
+amended ­­ so ­­ the ­­ the amended FOIA. 
+
+ But taking that as a given, Your Honor, what 
+
+the Senate report said was ­­
+
+ JUSTICE SOTOMAYOR: 
+
+It seems to be eminently 
+
+reasonable despite Robertson. 
+
+ MR. GERSHENGORN: 
+
+It seems ­­ Your Honor, 
+
+once this Court ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I mean, but that's 
+
+basically what you're arguing, is that ­­ one of the two 
+
+FOIA exceptions.  So tell me which one. 
+
+ MR. GERSHENGORN: 
+
+So it's the FOIA 
+
+exception, Your Honor, that ­­ that establishes 
+
+particular criteria for withholding or refers to 
+
+particular types of matters withheld.  And we think in 
+
+the legislative history what the Senate report said was 
+
+that the Sims statute, the Section 102(d)(3) of the 
+
+National Security Act of 1947, would qualify and that's 
+
+a statute that said, "The director of CIA shall be 
+
+responsible for protecting intelligence sources and 
+
+methods from unauthorized disclosure," period.  That was 
+
+all it said.  That's no different from our statute and 
+
+we think that even if this ­­ we think ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Yours is, I think, a 
+
+1
+
+2
+
+3 
+
+4
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+little bit more specific than that. 
+
+ MR. GERSHENGORN: 
+
+Then perhaps more 
+
+specific.  So we think that ­­ that it follows a 
+
+fortiori that if the Court relies on statute, that we 
+
+meet that statute and, of course, that ­­ that makes 
+
+perfect sense.  If the Chief Justice were ­­
+
+ JUSTICE BREYER: 
+
+Well, my goodness.  I'm not 
+
+sure.  I mean, when you have a CIA statute, they say you 
+
+cannot disclose agents or sources and ­­ what does it 
+
+say?  Sources? 
+
+ MR. GERSHENGORN: 
+
+Your Honor, it says, "The 
+
+director of" ­­
+
+ JUSTICE BREYER: 
+
+Sources and methods, 
+
+intelligence sources and methods.  And there's another 
+
+one that refers to critical infrastructure information. 
+
+All right.  If I accept those as being sufficiently 
+
+specific or having sufficient criteria, I look at yours. 
+
+And yours says, "There shall be regulations prohibiting 
+
+the disclosure of information obtained or developed in 
+
+carrying out security" ­­ and now here's the 
+
+criterion ­­ "if the under secretary decides disclosing 
+
+information would be detrimental to the security of 
+
+transportation." 
+
+ Now, that it seems to me could include 
+
+everything from a spark plug that is deficient in the 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+airplane to a terrorist.  And ­­ and I don't ­­ I mean I 
+
+don't know how I would judge that.  I mean, to the ear 
+
+telling the CIA you can't disclose sources seems a lot 
+
+narrower than telling the Department of Transportation 
+
+or Homeland ­­ what is it, DOT ­­ that, everybody in 
+
+charge of airplanes, you have a regulation, detrimental 
+
+to the security of transportation.  I don't know.  How 
+
+would you decide it?  I mean, it sounds to me that 
+
+that's quite a lot broader and so much can be 
+
+detrimental to the security of an airplane. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, a couple 
+
+of points on that.  First of all, the ­­ the Court 
+
+interpreted the statute in Robertson to be sufficiently 
+
+specific.  And in Robertson, what the Court ­­ what the 
+
+statute said was, "An administrator shall order 
+
+information withheld from public disclosure when, in the 
+
+judgment of the administrator, the disclosure would 
+
+adversely affect the interest of the person and is not 
+
+required in the interest of the public."  It's much less 
+
+specific. 
+
+ JUSTICE BREYER: 
+
+Now, that's the one before. 
+
+ MR. GERSHENGORN: 
+
+But that's the one this 
+
+Court found sufficient. 
+
+ JUSTICE BREYER: 
+
+That may be what this Court 
+
+did.  But subsequent to that, Congress amended the Act, 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22
+
+23 
+
+24
+
+25 
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+as was just pointed out, in a way that says you have to 
+
+have specific criteria. 
+
+ MR. GERSHENGORN: 
+
+But if I may, Your Honor. 
+
+It amended FOIA, but strikingly, the Court ­­ the 
+
+Congress did not amend and include that language when it 
+
+passed the CSRA.  In fact, what Congress did ­­
+
+ JUSTICE BREYER: 
+
+Okay.  I'll look at that. 
+
+I'll look at that.  I'm not ­­ I can deal with that on 
+
+my own.  But I do have a question that only you can deal 
+
+with.  And the question I have that only you can deal 
+
+with is this.  I mean, obviously, it's a matter of 
+
+concern that someone could go around and say there are 
+
+no marshals on this airplane.  That is obviously a 
+
+matter of concern.  So if in fact that was a real worry 
+
+about blowing up airplanes for that reason, could the 
+
+President then simply use the second prong and say an 
+
+executive order will require that to be kept secret? 
+
+ MR. GERSHENGORN: 
+
+Your Honor, the President 
+
+could do that. 
+
+ JUSTICE BREYER: 
+
+All right.  Now, in doing 
+
+that, in doing that, does it automatically fall into the 
+
+400,000 regulations that govern Defense Department 
+
+security information, or could he say, for the purpose 
+
+of this statute, what we're talking about now, I 
+
+determine that it should be kept secret.  Therefore, 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+there is no ­­ no prohibition against people 
+
+communicating that information with Swedish people, 
+
+British people, all kinds of airline officials, et 
+
+cetera?  Now, you're saying yes, he could do that under 
+
+this second prong, yes or no? 
+
+ MR. GERSHENGORN: 
+
+Yes, because there's an 
+
+executive order ­­
+
+ JUSTICE BREYER: 
+
+Yes.  Okay.  Fine.  If 
+
+that ­­ if he can do that, then there is no worry. 
+
+ MR. GERSHENGORN: 
+
+Your Honor ­­
+
+ JUSTICE BREYER: 
+
+Because if this ­­ am I 
+
+right, there is no worry? 
+
+ MR. GERSHENGORN: 
+
+No, Your Honor. 
+
+ JUSTICE BREYER: 
+
+Because if, in fact, this 
+
+is going to lead to blowing up airplanes, all he has to 
+
+
+do is use that second prong.  Now, you say I'm not 
+
+right.  Why not? 
+
+ MR. GERSHENGORN: 
+
+You're not right, Your 
+
+Honor, because that is fundamentally inconsistent with 
+
+the judgment that Congress made that the SSI system 
+
+should coexist with the classified information and with 
+
+executive orders.  What Your Honor is saying is that it 
+
+doesn't matter that the SSI system that Congress set up 
+
+doesn't ­­ wouldn't work and can't function because the 
+
+President by executive order could fill in the gaps. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10
+
+11
+
+12 
+
+13
+
+14
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+But what Congress ­­
+
+ JUSTICE BREYER: 
+
+I'm not saying anything 
+
+like that.  I am worried about a practical matter.  I am 
+
+worried about the decision of the Court against you 
+
+leading to somebody blowing up an airplane.  And I 
+
+suddenly thought, as a practical matter, that is not a 
+
+serious worry because the President can always use the 
+
+second prong to keep people from disclosing the 
+
+information that you don't want disclosed.  And so far, 
+
+you've said I'm right and now you got into a legal 
+
+argument.  I'm not talking about a legal argument. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, I think 
+
+such a system could be devised, but I think it would be 
+
+a very odd construction of the statutes the Court has 
+
+before it to ­­ to say that we are going to undermine 
+
+and eviscerate the SSI system that Congress by 
+
+statute ­­
+
+ JUSTICE BREYER: 
+
+No, no.  I am just 
+
+worried ­­ look.  Let me ask my question.  And my 
+
+question is:  If for other reasons I decided you were 
+
+wrong, would I still have to face the problem of 
+
+airplanes being blown up?  I'm focusing on this because 
+
+it's very important to me.  And you have answered that 
+
+question, if for other reasons ­­ and you, of course, 
+
+think you're right ­­ but if for other reasons I thought 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+you were wrong, I wouldn't have to worry about that 
+
+practical problem because there is prong two.  And it's 
+
+important to me that you answer yes or no and I take 
+
+your answer to be yes, you are right as a practical 
+
+matter. 
+
+ MR. GERSHENGORN: 
+
+I think it is possible 
+
+that the President could entirely duplicate the SSI 
+
+system that Congress set up to help to prevent that 
+
+practical problem. 
+
+ JUSTICE ALITO: 
+
+To follow up on that, if the 
+
+President proceeded along that path, what would be the 
+
+consequences with respect to the people, the class of 
+
+people who would be able to have access to this 
+
+information?  Would this ­­ this would be classified 
+
+information and then only people with certain security 
+
+clearances would be ­­ no? 
+
+ MR. GERSHENGORN: 
+
+So the system could not 
+
+work, Your Honor, if it was a classified information 
+
+system. 
+
+ JUSTICE ALITO: 
+
+No.  I'm talking about 
+
+Justice Breyer's alternative. 
+
+ MR. GERSHENGORN: 
+
+So Justice Breyer's 
+
+system, the answer is we would be in uncharted 
+
+territory.  I don't know as a fact that the President ­­
+
+the President would have to essentially duplicate the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+SSI system.  And it's precisely because it doesn't work 
+
+under the classified information system that already 
+
+exists, because this is information that is very 
+
+sensitive, yet has to be shared among people who are 
+
+operating our ­­ our transit system, so that flight 
+
+attendants need to know ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Yeah.  But what's so 
+
+hard about duplicating the SSI system?  He signs an 
+
+executive order saying duplicate the SSI system and 
+
+right away the problem we have here of people like 
+
+Mr. MacLean revealing information is not a problem 
+
+anymore because it is then protected by executive order. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, I ­­ I 
+
+just ­­ I ­­ I think that that would work, but I have to 
+
+say I'm not sure of the ins and outs.  But I do think 
+
+it's critical to say ­­
+
+ JUSTICE SCALIA: 
+
+It would have one good 
+
+effect and that is, it would make sure that the matter 
+
+is important enough to occupy the President's attention 
+
+and is not so insignificant that an agency that just 
+
+doesn't want any whistleblower, doesn't want any 
+
+criticism of what it's doing, can pump out these 
+
+regulations.  It would have that ­­ that salutary 
+
+effect, wouldn't it? 
+
+ MR. GERSHENGORN: 
+
+Your Honor, it might have 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+that effect, but I think that that's the judgment that 
+
+Congress made.  What Congress did was set up this SSI 
+
+system, knowing that the President had authority under 
+
+the executive order, knowing that the classified 
+
+information system was set.  And what Congress ­­ and 
+
+knowing, in fact, what these regulations said, the very 
+
+regulations in ­­ in basically the same form that we 
+
+have today. 
+
+ When Congress created ­­ moved TSA into 
+
+the ­­ into DHS as part of the Homeland Security Act, 
+
+these regulations were already there and Congress had 
+
+them before it.  And what Congress said was that SSI ­­
+
+ JUSTICE KAGAN: 
+
+Mr. Gershengorn, if I could, 
+
+before you get away from this, and I understand you have 
+
+a statutory argument to make, but the way that the 
+
+President would do this, if he wanted to do it, would be 
+
+by a new executive order or, in fact, would this old 
+
+Executive Order 13556, which deals with controlled 
+
+unclassified information, is that what the President 
+
+would use? 
+
+ MR. GERSHENGORN: 
+
+Your Honor, I'm not sure 
+
+of the ins and outs of what the President would have to 
+
+do.  This is information that is shared outside of the 
+
+government, which is what makes it a little tricky. 
+
+These are ­­ they are shared with ­­ with flight 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+attendants.  They're shared with local ­­
+
+ JUSTICE KAGAN: 
+
+Right.  But I thought that 
+
+that class ­­ that class of information, controlled 
+
+unclassified information, as opposed to classified 
+
+information, could be shared outside the government and 
+
+Executive Order 13556 deals with that and the President 
+
+could simply make clear that that executive order 
+
+applies to this kind of information. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, I just 
+
+don't know the answer to that, whether that order 
+
+would ­­ would satisfy.  My sense is that it would take 
+
+a lot more than that to ­­ to duplicate the kinds of SSI 
+
+system that has been in place for over a decade and a 
+
+half and that Congress signed off on.  But it ­­ it ­­
+
+and so the exact form of the executive order, it's not 
+
+something that, quite frankly, I think we've 
+
+contemplated here because there is this regime that 
+
+Congress had set up. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, about ­­ you 
+
+talked about what Congress meant and set up.  But the 
+
+conference report says the language does not refer to 
+
+agency rules and regulations.  So, whatever staffers 
+
+prepared that, and I'm not suggesting Congress did, but 
+
+whatever staffers prepared that, again, MacLean had to 
+
+know more than they did. 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, I don't 
+
+think that's right.  And I think this is a situation ­­
+
+I'm going to make the initial point and then step back 
+
+if I could and make a series of points on this. 
+
+ I think this is a situation in which the 
+
+Court has ­­ would be right to view that legislative 
+
+history with some skepticism and here's why.  What 
+
+Congress had before it was a bill that said, but from 
+
+the Senate side, that said "prohibited by statute."  Had 
+
+Congress passed that, we wouldn't be here making our 
+
+regulatory argument.  What Congress adopted was a 
+
+provision that says "specifically prohibited by law," a 
+
+phrase that ­­
+
+ JUSTICE SCALIA: 
+
+Yes.  But elsewhere in the 
+
+same legislation, it refers to "prohibited by law, rule 
+
+or regulation." 
+
+ MR. GERSHENGORN: 
+
+It does. 
+
+ JUSTICE SCALIA: 
+
+Here, it just said "by 
+
+law."  Elsewhere in the same statute it says, "by law, 
+
+rule, or regulation."  What am ­­ what am I supposed to 
+
+conclude from that? 
+
+ MR. GERSHENGORN: 
+
+So I think what you need 
+
+to conclude from that, Your Honor, is that the term "by 
+
+law" has to exclude at least some rules and regulations, 
+
+and we think that it does.  It excludes those that are 
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+internal agency regulations and regulations relating to 
+
+agency organization, practice or procedures. 
+
+ JUSTICE SCALIA: 
+
+How do I know that? 
+
+ MR. GERSHENGORN: 
+
+Because that is the 
+
+presumption that this Court set up in Chrysler.  What 
+
+Chrysler did was interpret the phrase "authorized by 
+
+law," and what the Court said that "authorized by law" 
+
+meant had a well­established meaning and that 
+
+well­established meaning was that regulations that met 
+
+the three­part test in Chrysler, that they were 
+
+substantive regulations of a legislative type, that they 
+
+were reasonably within the contemplation with Congress, 
+
+and they were properly promulgated, were regulations 
+
+that counted as by law. 
+
+ The Court expressly distinguished internal 
+
+agency interpretive rules and agency rules of 
+
+organization, order, and practice and said those were 
+
+different.  We think that is the distinction that is in 
+
+the statute. 
+
+ JUSTICE SCALIA: 
+
+If ­­ if that is true and 
+
+if that is so obvious, Congress would not have ­­ have 
+
+to have said "by law, rule, or regulation" in the other 
+
+provision.  It could just have said "by law" and what 
+
+you said would automatically follow. 
+
+ MR. GERSHENGORN: 
+
+No, Your Honor.  The "law, 
+
+1 
+
+2 
+
+3
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+rule, or regulation" is the formulation that sweeps in 
+
+agency internal rules and regulations and regulations 
+
+promulgated pursuant to the housekeeping reg.  That is 
+
+precisely the distinction that the Court drew in 
+
+Chrysler and it is precisely the distinction that we 
+
+draw in the statute. 
+
+ When the statute says "by law, rule, or 
+
+regulation," it includes all lawfully promulgated 
+
+regulations, including interpretive rules, including 
+
+agency's rules of procedure and practice.  When the 
+
+statute says "by law," what the Court ­­ what is meant 
+
+and what Chrysler said had a well­established meaning 
+
+that ­­ that would require a clear showing to overcome 
+
+is that it includes statutes and it includes regulations 
+
+that meet the Chrysler three­part test.  So that is the 
+
+precise distinction that this Court ­­ that this Court 
+
+drew in Chrysler, and it is embodied in the statute.  To 
+
+read it otherwise is to say that ­­
+
+ JUSTICE KAGAN: 
+
+But the place ­­ Mr. 
+
+Gershengorn, Chrysler was ­­ it just said "law."  "Law" 
+
+was not juxtaposed in the same sentence as another 
+
+phrase that said "law, rule and regulation."  So that 
+
+would seem, that juxtaposition of the two very different 
+
+terms, would seem to defeat the Chrysler presumption. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, the reason 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+I don't think it does is because it is equally 
+
+consistent with precisely the distinction that Chrysler 
+
+drew between regulation ­­ rules, regulations with the 
+
+force and effect of law on the one hand and internal 
+
+rules and reg ­­ and rules of agency ­­
+
+ JUSTICE SCALIA: 
+
+Boy, that is subtle.  That 
+
+is so subtle, that Congress is going to draw that 
+
+distinction between substantive rules and procedural 
+
+rules by saying "law" here and "law, rule, or 
+
+regulation" there.  You can spin out that argument, but 
+
+the notion that this is what Congress had in mind when 
+
+it enacted this thing or that any member of Congress had 
+
+in mind when he voted for it, I ­­ I find that hard to 
+
+believe. 
+
+ MR. GERSHENGORN: 
+
+So, Your Honor, the reason 
+
+why I don't think you should find that hard to believe 
+
+is the following.  First of all, by going from "by 
+
+statute" to "by law," right, Congress went from a 
+
+narrow ­­ a narrow structure that would have plainly 
+
+foreclosed regs and instead moved to a much broader 
+
+formulation that this Court had given meaning in 
+
+Chrysler. 
+
+ Second ­­
+
+ JUSTICE GINSBURG: 
+
+One ­­ there was one view 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24
+
+25 
+
+that by going to "law" rather than "statute" what was 
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+meant was to include judicial decisions. 
+
+ MR. GERSHENGORN: 
+
+Your Honor, it does say 
+
+that in the ­­ in the legislative history, but that's 
+
+precisely why I think this Court should view that with 
+
+some skepticism.  It's hard to believe that the term "by 
+
+statute" would not have included constructions of 
+
+statutes that this Court made.  And so to justify the 
+
+move from "by statute" to "by law" to say we sweep in 
+
+the Court's interpretation of statutes, I think, is a 
+
+little hard to swallow. 
+
+ If I could reserve the balance of my time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Katyal. 
+
+ ORAL ARGUMENT OF NEAL K. KATYAL 
+
+ ON BEHALF OF THE RESPONDENT 
+
+ MR. KATYAL: 
+
+Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+ Congress enacted the Whistleblower Act to 
+
+restrain, not to empower, agencies.  Now, my friend's 
+
+answer at the start of his oral argument was the specter 
+
+of 60,000 people who are going to leak this information. 
+
+We're not in a Chevron situation in which the agency is 
+
+getting any sort of deference here.  And as Justice 
+
+Breyer's line of questioning, I think, points out, that 
+
+is a red herring, because Congress in (b)(8) of the 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Whistleblower Act dealt with precisely that.  They gave 
+
+a mechanism for the President ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Mr. Katyal, if the 
+
+statute read, "Disclosure of information detrimental to 
+
+transportation safety is prohibited and the TSA shall 
+
+promulgate regulations to that effect," would that be 
+
+pursuant to law under the statute? 
+
+ MR. KATYAL: 
+
+I don't think so.  I'll explain 
+
+why in a moment. 
+
+ JUSTICE SOTOMAYOR: 
+
+And that’shat's what I want 
+
+to know.  How specific does ­­ are we going to get to a 
+
+point where Congress has to look at every category of 
+
+information every agency deals with and make a law 
+
+prohibiting the disclosure of that individually? 
+
+ MR. KATYAL: 
+
+Not at all, Your Honor.  So 
+
+with respect to the backup argument of the government, 
+
+114(r), we have two different views ­­ two different 
+
+arguments.  One is that 114(r) doesn't prohibit.  The 
+
+other is that it's not specific.  And your hypothetical 
+
+deals with the first and not the second.  So you've 
+
+already ­­ the Congress is doing the prohibiting, unlike 
+
+114(r), which, as Justice Kennedy pointed out, doesn't 
+
+actually do anything.  You need the regulation. 
+
+ With respect to specificity, I think 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+Congress has two different options in (b)(8).  One is to 
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+pass a specific law.  The opposite of "specific" is 
+
+"general," and I think the words "detrimental to 
+
+transportation security" aren't specific enough.  And if 
+
+you need any illustration of that, just look to my 
+
+friend's argument in the reply brief that the Chief 
+
+Justice pointed out, where he said that ­­ that 
+
+information ­­ that you could release information about 
+
+how important flights weren't covered. 
+
+ The SSI regulations flatly call that SSI 
+
+material ­­ this is 49 C.F.R. 1520.5(b)(1) and (2), 
+
+quote:  "Information concerning the deployments and 
+
+operations of Federal air marshals are covered."  That 
+
+is SSI material.  And so he can't even give you ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Do you have any doubt 
+
+that the ­­ that ­­ make the argument that the 
+
+disclosure of this information didn't potentially harm 
+
+transportation safety? 
+
+ MR. KATYAL: 
+
+Certainly.  That's 
+
+Mr. MacLean's whole position, which is that he saved 
+
+national security.  This was a situation unfolding in 
+
+real time in a 4­day period and he did everything he 
+
+could from going to the Inspector General and to a 
+
+supervisor in ­­ in a quick thing in order to save 
+
+something that otherwise would have been detrimental to 
+
+national security. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+29
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ Now, my other point about the specificity ­­
+
+ JUSTICE SCALIA: 
+
+And he was successful. 
+
+ MR. KATYAL: 
+
+And he was, and the TSA 
+
+admitted there was a mistake. 
+
+ JUSTICE SCALIA: 
+
+They called off the 
+
+cancellations. 
+
+ MR. KATYAL: 
+
+Exactly.  The other point 
+
+about ­­
+
+ JUSTICE ALITO: 
+
+I'm sorry.  Go ahead. 
+
+ MR. KATYAL: 
+
+The other point about 
+
+specificity is Congress has a whole other way of dealing 
+
+with it, as Justice Breyer pointed out, which is the 
+
+critical information, infrastructure regulation ­­
+
+regulations and the like.  Congress can enact a 
+
+notwithstanding clause ­­
+
+ JUSTICE SOTOMAYOR: 
+
+So are you saying that 
+
+this statute is not specific enough for a FOIA request? 
+
+If someone under FOIA had come in and asked for this 
+
+information, they could have gotten it? 
+
+ MR. KATYAL: 
+
+Your Honor, 114(r)'s first 
+
+words are "notwithstanding FOIA," okay.  And it only is 
+
+notwithstanding FOIA.  Congress is free to do precisely 
+
+that with respect to the Whistleblower Act, either 
+
+notwithstanding all laws or notwithstanding the 
+
+Whistleblower Protection Act, and pass the most general 
+
+1
+
+2
+
+3
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+statute imaginable.  It doesn't have to be specific. 
+
+ JUSTICE SOTOMAYOR: 
+
+So you want us to 
+
+de­couple FOIA from this.  It would be okay under FOIA 
+
+for the agent to withhold this information? 
+
+ MR. KATYAL: 
+
+That's exactly what Congress 
+
+has said. 
+
+ JUSTICE SOTOMAYOR: 
+
+Because you think it's 
+
+­­ that you think it's ­­ that particular types of 
+
+matter to be withheld.  You agree with the government 
+
+that that includes this kind of material. 
+
+ MR. KATYAL: 
+
+It very well may satisfy FOIA, 
+
+particularly because of the first clause, which is 
+
+"notwithstanding FOIA."  So you don't have to deal with 
+
+this.  But ­­ but here, the statute doesn't say anything 
+
+like that and so for that reason it's not specific. 
+
+ JUSTICE BREYER: 
+
+No.  But the statute ­­ the 
+
+statue other than the FOIA exemption 3 language doesn't 
+
+talk about when a matter is kept secret by statute, as 
+
+opposed to by regulation.  So given that it's all tied 
+
+in together, it's very tempting to say, I'll tell you 
+
+when it's a statute rather than a regulation.  And then 
+
+you go and read the ­­ the exemption 3 and you say it's 
+
+a statute when, 1, it leaves no discretion on the issue, 
+
+or 2, it establishes particular criteria for 
+
+withholding; or three, it refers to particular types of 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+matter.  So we look at the statute to see if it does 
+
+that.  That's what I thought I was supposed to do, to 
+
+decide whether it's the statute that's doing it or the 
+
+regulation.  And the one that gives me the most trouble 
+
+on those three is the last one, because it does seem to 
+
+refer to a particular type of matter, though in very 
+
+general terms.  But so what do you think of what I've 
+
+just said? 
+
+ MR. KATYAL: 
+
+Your Honor, we think the best 
+
+way of understanding specific is to think about its 
+
+opposite, which is general.  And "detrimental to the 
+
+security of transportation" is general.  Yes, if it 
+
+refers to a particular ­­ you know, it does refer to a 
+
+particular matter.  Well, any statute is going to refer 
+
+to some sort of particular matter, but we think Congress 
+
+had something deeper in mind.  And, of course, the 
+
+Freedom of Information Act ­­
+
+ JUSTICE BREYER: 
+
+I see that.  I see that. 
+
+You'd have to say critical infrastructure facilities are 
+
+on one side of the line.  This is on the other. 
+
+ Now, what about the analysis I just went 
+
+through?  What do you think of that?  Is that the 
+
+correct legal analysis, in your opinion? 
+
+ MR. KATYAL: 
+
+Well, I think ­­ I think not. 
+
+I think you can pick any definition of specificity.  My 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+worry about adopting the FOIA one is, as Justice Scalia 
+
+was pointing out to my friend,that this statute 
+
+affirmatively distinguishes in (b)(8) between "law, rule 
+
+and regulation" in the first clause and "law" in the 
+
+second.  And I think Congress is saying, unlike FOIA, 
+
+that rules and regulations don't themselves do the 
+
+prohibiting.  It is only law.  That is why the phrase is 
+
+"specifically prohibited by law."  There isn't anything 
+
+like that in FOIA.  And, indeed, FOIA has two purposes, 
+
+as this Court in Robertson said, one of which is to 
+
+empower agencies.  It has nine different exemptions all 
+
+about empowering agencies ­­
+
+ JUSTICE KENNEDY: 
+
+But the gravamen of your 
+
+position is that after Congress enacted these statutes, 
+
+anything that came within the WPA definition could be 
+
+disclosed until Congress passed another statute?  That's 
+
+what you want us to hold? 
+
+ MR. KATYAL: 
+
+No, no, not at all, Your Honor. 
+
+I think that as long as it has a notwithstanding clause, 
+
+as many things even before the Whistleblower Protection 
+
+Act did have, or it has a specific prohibition about 
+
+specific matters to be disclosed, unlike the general 
+
+prohibition here, "detrimental to the security of 
+
+transportation," that's enough.  But there's also a more 
+
+fundamental point ­­
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+33
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+ JUSTICE KENNEDY: 
+
+Where could I look to find 
+
+examples of where, before the regulation, there would be 
+
+information pertaining to airline flights that could not 
+
+be disclosed? 
+
+ MR. KATYAL: 
+
+Well, I'm not sure about 
+
+airline flights, but, for example, 10 U.S.C. 2640(h) 
+
+says, quote, "The Secretary of Defense may, not 
+
+withstanding any other provision of law, withhold from 
+
+public disclosure safety­related information."  And so 
+
+that is a notwithstanding any other provision of law. 
+
+ JUSTICE KENNEDY: 
+
+But that doesn't apply to 
+
+this Respondent. 
+
+ MR. KATYAL: 
+
+Well, I'm saying in general, 
+
+Your Honor, Congress has available to it tools ­­
+
+ JUSTICE KENNEDY: 
+
+You're saying that this 
+
+Respondent, until there was a second statute, was not 
+
+prohibited from disclosing anything within the broad 
+
+reach of the WPA of "uncovered a violation of matters 
+
+relating to specific danger to public health or safety." 
+
+ MR. KATYAL: 
+
+That is correct, Your Honor. 
+
+We are saying that ­­
+
+ JUSTICE KENNEDY: 
+
+So Congress passed a 
+
+statute saying:  And we'll pass another statute sometime 
+
+before this has any effect? 
+
+ MR. KATYAL: 
+
+Your Honor, Congress in 114(r) 
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+was not dealing with the Whistleblower Protection Act. 
+
+The language at the start is "Notwithstanding FOIA."  We 
+
+certainly think Congress could deal with it if they 
+
+wanted to, but I think, as the members of Congress brief 
+
+points out, they likely won't.  Why?  Because people 
+
+like Mr. MacLean promote the national security.  They 
+
+don't harm it. 
+
+ JUSTICE ALITO: 
+
+Can I ask you about that? 
+
+You say in your brief Mr. MacLean contacted a reporter 
+
+with a history of responsible reporting about TSA who 
+
+maintains close connections with Congress.  Now, suppose 
+
+that he instead contacted a reporter working for a 
+
+foreign state­controlled news agency and the information 
+
+was not quickly released to the public, so that the 
+
+information was out there and could have been obtained, 
+
+perhaps, by terrorists before Congress was aware of this 
+
+and before the agency was aware of it and before it was 
+
+able to take corrective action.  Would there be any 
+
+reason why that would not fall under the statute, as you 
+
+understand it? 
+
+ MR. KATYAL: 
+
+Justice Alito, I don't believe 
+
+the Whistleblower Protection Act deals with that.  Of 
+
+course, Congress could, by circumscribing the Act in 
+
+various ways.  But here's what I think Congress did in 
+
+(b)(8).  They said not just can Congress pass a specific 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+exemption or a nonspecific one with a "notwithstanding" 
+
+clause.  They said the President, by executive order, 
+
+can deal with precisely this problem and it doesn't 
+
+require classification and it doesn't require somehow 
+
+two systems that are going to ­­
+
+ JUSTICE BREYER: 
+
+In your view you don't even 
+
+need the President.  In your view, the President 
+
+wouldn't get involved because you have to have a very 
+
+specific statute.  That's your view. 
+
+ MR. KATYAL: 
+
+No, Your Honor. 
+
+Justice Breyer, there are two different ways in (b)(8) 
+
+for Congress to deal with the problem. 
+
+ JUSTICE BREYER: 
+
+I know that.  I'm just 
+
+saying but you don't even get into it because it was in 
+
+a regulation and not in a statute.  And if it's not in a 
+
+statute, then you don't even get into that. 
+
+ MR. KATYAL: 
+
+Right.  I'm dealing with the 
+
+circumstance that Justice Alito's posited, in which you 
+
+have 60,000 people who might leak to foreign media or 
+
+something like that.  And if the government believes 
+
+that, they can solve that problem literally today by 
+
+walking out of this courtroom, having an executive order 
+
+that says SSI material, like the material here, air 
+
+marshal information, is exempt from the Whisteblower 
+
+Protection Act.  Congress passed that clearly in (b)(8). 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+And as Justice Scalia says, that's the way to promote 
+
+accountability.  They didn't want unelected agencies ­­
+
+the fox to guard the hen house. 
+
+ JUSTICE ALITO: 
+
+That may be.  But I doubt that if 
+
+Congress had thought about the situation that I posited, 
+
+they would be content with the possibility of a 
+
+disclosure that wasn't really a disclosure to the full 
+
+public. 
+
+ MR. KATYAL: 
+
+Well, I think, Justice Alito, 
+
+Congress has dealt with this question about how to 
+
+whistleblow, do you need an exhaustion requirement, and 
+
+so on, and other things.  And every single time ­­
+
+they've amended the Act four times.  And every single 
+
+time, they've said the problem is not too many 
+
+whistleblowers, it's too few.  Congress recognizes it's 
+
+really hard for someone like Mr. MacLean, other 
+
+whistleblowers, to go to the media because they put 
+
+their job at risk, they get fired.  And then they have 
+
+to spend years litigating, as this litigant has, just to 
+
+get his job back.  And they do that only in the name of 
+
+public interest.  There's no private gain or anything 
+
+like that. 
+
+ So, Justice Kennedy, of course Congress can 
+
+prohibit the disclosure of this information in general. 
+
+They have in 114(r).  The question before the Court here 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+is have they done so with respect to the Whistleblower 
+
+Protection Act?  Have they done something specific 
+
+enough to deal with the Whistleblower Protection Act? 
+
+And the answer to that, we think, is no because ­­
+
+ JUSTICE SCALIA: 
+
+I'm a little concerned 
+
+about your acceptance of the hypothetical that the 
+
+whistleblower doesn't blow the whistle to anybody except 
+
+the Soviet Union.  Do you really think that that's what 
+
+the statute means when it says to take or fail to take 
+
+or threaten to take personnel action with respect to any 
+
+employee because of any disclosure of information which 
+
+the employee or applicant reasonably believes evidences 
+
+a violation of law, rule or regulation, gross mis ­­
+
+don't you think it's implicit in that he's disclosing it 
+
+to somebody who could remedy the problem as opposed to 
+
+an enemy? 
+
+ MR. KATYAL: 
+
+It may very well be precisely 
+
+right.  Our simple point here is that, whatever that 
+
+standard is, that's a constant in this case.  And if to 
+
+the extent the Court is worried about it at all, I think 
+
+Congress in (b)(8) provided mechanisms to deal with 
+
+that, either a specific or nonspecific order or an 
+
+executive order that doesn't require classification.  It 
+
+doesn't require mucking up at all the classification 
+
+system. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+38
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE SOTOMAYOR: 
+
+I'm troubled because, you know, the 
+
+facts are very much in your favor here, because he 
+
+disclosed it publicly, but under your scenario or under 
+
+your position, if he published every day until the 
+
+executive order came out the schedule of which flights 
+
+air marshals will be on and he would come out and just 
+
+say, I think we need more air marshals, that would be ­­
+
+that would not be a violation.  They couldn't fire him for that. 
+
+ MR. KATYAL: 
+
+Justice Sotomayor, Congress has 
+
+dealt with that, I think, at various points in the 
+
+Whistleblower Act, asking the question, is this too 
+
+loose a standard and so on.  Every single time they 
+
+concluded not.  Why?  Because it is so hard for 
+
+whistleblowers to come forward.  The former government 
+
+officials' brief at page 34 gives you data on this. 
+
+There have been 203 cases that have gone to the Federal 
+
+Circuit, whistleblower cases, and they've won ­­
+
+whistleblowers have won a whopping three of them.  There 
+
+have been 56 cases that have gone to the MSPB.  Again, 
+
+whistleblowers have won three of them. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Which way does that 
+
+cut?  It seems to me that cuts very much against you. 
+
+In other words, whistleblowers are blowing the whistle 
+
+all the time without any justification.  That's I 
+
+thought the government's point, that this requires, puts 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+all the eggs in the basket of whatever the whistleblower 
+
+happens to think is a good disclosure. 
+
+ MR. KATYAL: 
+
+I think not, Mr. Chief Justice. 
+
+I think Congress each time has looked at this situation 
+
+and has said every single time, we need more 
+
+whistleblowers to come forward, because that's the human 
+
+failsafe against a machine bureaucracy. 
+
+ JUSTICE BREYER: 
+
+Congress ­­ I mean, I know 
+
+people don't want to bring this up.  But actually the 
+
+staffs of congress do consider these problems.  They 
+
+write them down.  They say what the answer is and the 
+
+members are informed. 
+
+ Now, in this particular case, if you happen 
+
+to read the conference reports, you get the answer.  It 
+
+says, what does it mean not specifically prohibited by 
+
+law?  And then in both the House report and the Senate 
+
+report, it tells you, go back to what we passed two 
+
+years ago, namely, the FOIA exemption, and that's what 
+
+it means.  And so that's why I got the thought that 
+
+maybe that is what it means.  And once you have that 
+
+thought, you then see the country isn't going to fall 
+
+apart because they wrote in the presidential exemption 
+
+as well. 
+
+ So reading what the staffs actually wrote, 
+
+perhaps I'm biased in that respect, believing that the 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+members of Congress do think about these problems 
+
+through staff, we have the answer to this case leaving 
+
+only open whether it is specific enough or not, and you 
+
+make an argument that it's too general. 
+
+ Now, why shouldn't I follow that approach? 
+
+ MR. KATYAL: 
+
+So I think generally, you 
+
+should ­­ you should, Justice Breyer.  That is, I think 
+
+the conference report, and this is quoted in our brief 
+
+at page 24, this is unlike almost any case I've seen 
+
+before this Court in recent years in which the 
+
+conference report so clearly gives you the answer to the 
+
+question presented. 
+
+ JUSTICE BREYER: 
+
+There are three reports. 
+
+One is really for you, and that's the conference report. 
+
+The Senate report is somewhat against you because it 
+
+picks up the FOIA ­­ or the FOIA exemption, and says 
+
+that's what this means, even though you don't want to do 
+
+that and ­­
+
+ MR. KATYAL: 
+
+Your Honor ­­
+
+ JUSTICE BREYER: 
+
+­­ I would read all of 
+
+them, the House report, too. 
+
+ MR. KATYAL: 
+
+­­ let ­­ let me address the 
+
+Senate report and the FOIA stuff.  We think even under 
+
+the FOIA standard, we don't think this is a particular 
+
+matter, that that itself is too general. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+41
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ But, Justice Breyer, there's two other 
+
+things about that Senate report ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Excuse me. 
+
+ Then you would say that under FOIA ­­ I 
+
+mean, assuming I follow Justice Breyer's approach ­­ you 
+
+would be leading to the conclusion that the 
+
+government ­­ if a FOIA request is made, the government 
+
+has to disclose it because it doesn't ­­ because it's 
+
+not ­­ the ­­ the statute is not referring to a 
+
+particular type of matter to be withheld.  It's not 
+
+particular enough for you. 
+
+ MR. KATYAL: 
+
+Well, I think that the language 
+
+of 114(r) in the first notwithstanding clause is enough 
+
+to basically just bracket FOIA. 
+
+ With respect to the ­­ the Senate report ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Just answer my question. 
+
+You're saying the government couldn't withhold it under 
+
+FOIA? 
+
+ MR. KATYAL: 
+
+No, I think that they could 
+
+under FOIA, which has a very different situation, which 
+
+it's empowering agencies to try and make certain 
+
+exemptions.  The Whistleblower Protection Act, I think, 
+
+should be read with the reverse view in mind. 
+
+ Justice Breyer, the Senate report, the 
+
+Senate language of the bill didn't even have the word 
+
+1
+
+2 
+
+3
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+42
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+"specifically" in it.  So I'd urge you not to look at 
+
+the Senate report when reading the word "specifically." 
+
+I agree there's some language where they talk about 
+
+Robertson and the like, but actually, page 154 has the 
+
+text of the Senate bill, and it doesn't even have 
+
+"specific" in it.  So that's why we would caution 
+
+against using that as your template for deciding what 
+
+"specific" is. 
+
+ JUSTICE ALITO: 
+
+Mr. Katyal, if you agree 
+
+with the suggestion that this could be remedied by the 
+
+President through an executive order, could I ­­ do you 
+
+agree with that? 
+
+ MR. KATYAL: 
+
+I do. 
+
+ JUSTICE ALITO: 
+
+Now, could I ask you how 
+
+that would ­­ how that would work out?  Let's say ­­
+
+let's just take this example.  Suppose the information 
+
+in question concerns the ­­ the layout in a particular 
+
+airport.  There's an area that ­­ that some employee of 
+
+the TSA thinks is not secure.  So that's the 
+
+information.  Then the information comes out that 
+
+there's this problem with that particular airport and 
+
+the ­­ the TSA employee thinks that it's not being 
+
+remedied, so this person wants to disclose it. 
+
+ Now, how would that ­­ this information has 
+
+to be disclosed to a certain number of people associated 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+43
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+with that airport in order for the problem to be 
+
+remedied.  So how would that be dealt with in an 
+
+executive order?  The President has to issue an 
+
+executive order about that specific thing and say, this 
+
+can be disclosed to security people at the airport, the 
+
+local police, maintenance people who are going to fix 
+
+that.  How would you deal ­­ how would that be dealt 
+
+with? 
+
+ MR. KATYAL: 
+
+Two different ways.  One is 
+
+through the classification regime.  The other, as we've 
+
+been talking about with Justice Breyer, is through the 
+
+nonclassified SSI system.  The President can pick up the 
+
+SSI system, in general, under the B­8 exemption because 
+
+it does deal with national defense and foreign affairs. 
+
+ There are parts of SSI which may not fall 
+
+within it, but for the most part, things like this 
+
+would.  And so the President could designate that 
+
+information subject to the exception to the 
+
+Whistleblower Protection Act.  I don't think he has to 
+
+get into details about who it has to be shared with and 
+
+who it doesn't, but he certainly could. 
+
+ With respect to the classification regime, 
+
+he could also use the classified system to try and 
+
+exempt this information as well.  My friend on the other 
+
+side says, oh, no, we can't share information with 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+44
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+uncleared people, foreign people and the like.  As our 
+
+brief at page 52 points out, the classification regime 
+
+already is supple enough to provide that, as long as it 
+
+is in the defense of the homeland, as your hypothetical 
+
+would. 
+
+ And more to the point, this Court's decision 
+
+in Eagan, which my friend cites, says that the 
+
+classification regime is entirely a creature of the 
+
+executive and can be modified at will.  So if they 
+
+really believe that you need to do this and share even 
+
+classified information with uncleared parties, they can 
+
+do that. 
+
+ But I think ­­ so we're not requiring some 
+
+sort of specificity requirement, either in the executive 
+
+order or in the congressional solution that is so every 
+
+jot and tittle or anything like that.  Now ­­
+
+ JUSTICE SCALIA: 
+
+Mr. Katyal, are there 
+
+criminal penalties for violation of ­­ of this statute? 
+
+ MR. KATYAL: 
+
+Not of SSI material, but there 
+
+are of classified information. 
+
+ JUSTICE KAGAN: 
+
+Mr. Katyal, can we go back 
+
+to your legal argument, and let me make sure I 
+
+understand it.  You're saying don't use the revised 
+
+exemption 3 standard.  114(r) is narrower than that; is 
+
+that right? 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+45
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. KATYAL: 
+
+That's correct. 
+
+ JUSTICE KAGAN: 
+
+So that all of our exemption 
+
+3 cases essentially become irrelevant; is that right? 
+
+ MR. KATYAL: 
+
+Correct. 
+
+ JUSTICE KAGAN: 
+
+But the ­­ and you're doing 
+
+that based solely on the notwithstanding FOIA language; is that 
+
+right? 
+
+ MR. KATYAL: 
+
+Well, I am saying that.  I 
+
+wouldn't want to go too far.  I don't think our argument 
+
+depends on this.  In other words, I think if you adopted 
+
+the FOIA 3 standard, I still think that this language, 
+
+which is detrimental to the security of transportation, 
+
+is so capacious, heaven knows what it means. 
+
+ I mean, Mr. MacLean, of course, thought what 
+
+he was doing was promotion of the national security ­­
+
+of transportation security, not detrimental to it. 
+
+ JUSTICE KAGAN: 
+
+I mean, it's very general 
+
+language, that's absolutely true.  And if you were 
+
+writing on a clean slate, you might say, gosh, that's 
+
+very general language.  But ­­ but we're not writing on 
+
+a clean slate, and all our exemption 3 cases seem to 
+
+suggest that very general language can meet the bar. 
+
+ And so I'm just looking at ­­ there's this 
+
+case GTE Sylvania, which was a statute that prohibited 
+
+disclosure, if disclosure was not fair in the 
+
+1
+
+2
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+46
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+circumstances and reasonably related to effectuating the 
+
+purposes of the Consumer Product Safety Act.  And we 
+
+said that was enough, which it's like you look at that 
+
+and you say, why is it enough?  But that's what we said. 
+
+ MR. KATYAL: 
+
+Right.  But again, I think ­­ I 
+
+think the FOIA context is very different than here 
+
+because FOIA is something about empowering agencies to 
+
+restrict disclosures.  As this Court's decision in 
+
+Robertson said, that that there was a preexisting 
+
+legislative history about how they wanted to keep in 
+
+place the 100 statutes or so that are anti­disclosure. 
+
+ The Whistleblower Act, I think, has the 
+
+reverse idea in mind.  We see this texturally, for 
+
+those ­­ for those who ­­ who are focused on the text, 
+
+because the statute distinguishes, in the first part, 
+
+between law, rule, and regulation and law.  And I think 
+
+it's specifically prohibited by law.  And what Congress 
+
+is saying by that phrase in the context of this statute 
+
+is, unlike FOIA, we're not about trying to empower 
+
+agencies through general language. 
+
+ And I think this is the most natural way to 
+
+understand what the statute says.  I mean, I think 
+
+when ­­ when ­­ when the word "specific" is used, I 
+
+think the most helpful way of understanding what 
+
+Congress had in mind is to think of its opposite 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+47
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23
+
+24
+
+general.  That there are two boxes, and detrimental to 
+
+the security of transportation sounds very much like, 
+
+frankly, the TSA's mission statement and not anything 
+
+more than that. 
+
+ JUSTICE KENNEDY: 
+
+If ­­ if Congress wanted 
+
+to reach your position and it had a choice of the words 
+
+it would use in the second part of the statute, could it 
+
+say "statute" instead of "law" and it would just come 
+
+out the same way? 
+
+ MR. KATYAL: 
+
+They certainly could use 
+
+statute.  The ­­ the ­­
+
+ JUSTICE KENNEDY: 
+
+And ­­ and for purposes of 
+
+this case and generally, there'd really be no 
+
+difference? 
+
+ MR. KATYAL: 
+
+Well, I think there may 
+
+arguably be a difference.  This is found in the 
+
+conference report language.  They said, we didn't use 
+
+"statute" for a particular reason, which is because they 
+
+wanted to sweep in not simply the statute and the U.S. 
+
+code, but also judicial interpretation. 
+
+ JUSTICE SCALIA: 
+
+Oh, yeah, I'm sure that's 
+
+what they all had in mind.  I have no doubt of that. 
+
+ (Laughter.) 
+
+ MR. KATYAL: 
+
+Well, Justice Scalia, let me 
+
+25 
+
+answer because, first of all, it is what Congress said 
+
+48
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+in the conference report, which is, of course, what 
+
+Congress votes on.  And I understand many people don't 
+
+like legislative history, but this is the apex of 
+
+legislative history, as Chief Justice Rehnquist pointed 
+
+out in the Simpson case ­­
+
+ JUSTICE SCALIA: 
+
+Does ­­ does Congress vote 
+
+on the conference report? 
+
+ MR. KATYAL: 
+
+They do vote on the conference 
+
+report. 
+
+ JUSTICE SCALIA: 
+
+The whole ­­ the whole 
+
+House?  Each separate House? 
+
+ MR. KATYAL: 
+
+I believe that the answer to 
+
+that is yes.  But I'd also say, the other thing about it 
+
+is that I do think Congress actually ­­ what they were 
+
+saying in the report made some sense because the 
+
+language is specifically prohibited by law.  And I think 
+
+what Congress was trying to do was sweep in things like 
+
+the Trade Secrets Act in which even if that language 
+
+might look general to a lay observer, the words "trade 
+
+secrets" have been fleshed out by courts over time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, I'm a little 
+
+­­ maybe this doesn't make any sense, but you've been 
+
+focusing on specifically as referring to the material 
+
+that is covered.  Can't it also refer to the ­­ the 
+
+prohibition, specifically prohibited?  In other words, 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+49
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23
+
+24
+
+it actually has to say, "You cannot disclose this."  You 
+
+think it's specifying what "this" is.  Couldn't it 
+
+equally be well specifying how direct the ban must be, 
+
+"specifically prohibited"? 
+
+ MR. KATYAL: 
+
+Right.  So this is the argument 
+
+in the government's reply brief which comes up for the 
+
+first time.  It's never been advanced by anyone. 
+
+There's no support for it in the ­­ in the legislative 
+
+history or I think even, really, the text of the 
+
+statute.  I think "specifically" refers to "such 
+
+disclosure."  The phrase is "if such disclosure is not 
+
+specifically prohibited by law," and so I think 
+
+"specifically" is best read as referring to such 
+
+disclosure. 
+
+ Justice Breyer, back to your question about 
+
+the Senate report in 102(d)(3), which is what you were 
+
+asking about earlier.  It's real important ­­ I think 
+
+it's important that I say that the Court ­­ excuse me, 
+
+the Congress when they passed the Whistleblower Act 
+
+rejected the idea that 102(d)(3) ­­
+
+ JUSTICE BREYER: 
+
+I think I'm talking about 
+
+the report on the Whistleblower Act. 
+
+ MR. KATYAL: 
+
+Exactly. 
+
+ JUSTICE BREYER: 
+
+And the report on the 
+
+25 
+
+Whistleblower Act, which it came two years after FOIA, 
+
+50
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the Senate committee said, "Those disclosures which are 
+
+specifically exempted from disclosure by a statute which 
+
+requires that matters be withheld from the public in 
+
+such a manner as to leave no discretion on the issue or 
+
+by a statute which establishes particular criteria for 
+
+withholding or refers to particular types of matters to 
+
+be withheld."  That is word for word. 
+
+ MR. KATYAL: 
+
+Right.  But ­­
+
+ JUSTICE SCALIA: 
+
+Did the Senate vote on 
+
+that, Mr. Katyal?  Did the Senate vote on the Senate 
+
+committee report? 
+
+ MR. KATYAL: 
+
+They did not ­­
+
+ JUSTICE SCALIA: 
+
+And did the Senate 
+
+committee vote on the Senate committee report? 
+
+ MR. KATYAL: 
+
+I don't believe they did. 
+
+ JUSTICE SCALIA: 
+
+No, they don't. 
+
+ MR. KATYAL: 
+
+But, Justice Breyer, that 
+
+Senate bill that that language is interpreting doesn't 
+
+even have the word "specific" in it.  So that ­­ the 
+
+actual bill the Senate is using is at page 154 of that 
+
+report, it doesn't have it in it, and that's why I don't 
+
+think it's the best guide for what "specific" means. 
+
+ Now, there is language, as you say, about 
+
+102(d)(3) saying 102(d)(3) would meet a specific 
+
+prohibition.  In section 2306 of the actual 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11 
+
+12
+
+13
+
+14 
+
+15
+
+16
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+51
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Whistleblower Act, which, Justice Scalia, Congress voted 
+
+on exempts 102(d)(3).  Congress didn't buy this argument 
+
+that the Government has come up with right now that says 
+
+that the Senate ­­ the Senate report means that 
+
+102(d)(3) was a specific prohibition because they added 
+
+this language "no provision of this chapter shall be 
+
+construed to impair the authorities and responsibilities 
+
+set forth in section 102."  And so Congress itself 
+
+didn't believe this notion that 102(d)(3) was specific. 
+
+They wanted something ­­
+
+ JUSTICE BREYER: 
+
+You might be right about 
+
+that, but what's bothering me is the more general 
+
+question of driving an interpretive wedge between the 
+
+FOIA exemption and the Whistleblower Act.  I mean, 
+
+that's going to get everybody good and mixed up, I 
+
+think. 
+
+ MR. KATYAL: 
+
+Your Honor, I don't think our 
+
+answer depends on that.  That is, I think that this 
+
+doesn't meet the ­­
+
+ JUSTICE BREYER: 
+
+Yeah, but which in your 
+
+opinion is the wiser way to go about it?  I mean, 
+
+assuming that this statute is not specific enough, which 
+
+is the better way to go about it?  To say the 
+
+Whistleblower Act is special or to say interpret them 
+
+both alike? 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+52
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ MR. KATYAL: 
+
+I think either is equally 
+
+plausible because FOIA and the Whistleblower Protection 
+
+Act are two very different statutes.  This Court has 
+
+said in Robertson that FOIA has two goals, one of which 
+
+is about empowering agencies.  Here, nobody has said 
+
+that.  The text of the Act never refers to empowering 
+
+agencies as Justice Scalia said.  And Congress with 
+
+respect to the Whistleblower Act is concerned about 
+
+incentivizing them to come forward.  That's what the 
+
+Members of Congress brief says, as well as the Office of 
+
+Special Counsel brief.  There's no fear about chilling 
+
+FOIA requests for heaven's sakes. 
+
+ JUSTICE KAGAN: 
+
+But that suggests that we 
+
+take, essentially, the same language and read it two 
+
+different ways, just dependent on our sense of the 
+
+purpose of the underlying statute.  Is that right? 
+
+ MR. KATYAL: 
+
+Well, I think that is available 
+
+to the Court.  But again, you can use the FOIA standard 
+
+and there is no way ­­
+
+ JUSTICE KAGAN: 
+
+But I'm just asking if we ­­
+
+your decoupling argument is essentially based on the 
+
+notion that these two statutes have very different 
+
+purposes and, therefore, we can take those very 
+
+different purposes and read the very, very similar 
+
+language differently. 
+
+53
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13
+
+14
+
+15 
+
+16
+
+17 
+
+18
+
+19 
+
+20
+
+21
+
+22
+
+23
+
+24
+
+ MR. KATYAL: 
+
+Yes, Justice Kagan, for 
+
+purposes of 114(r), which, of course, bothers to specify 
+
+only FOIA by saying "notwithstanding FOIA" and then goes 
+
+through the detrimental transportation security. 
+
+Doesn't specify the Whistleblower Act.  Congress can, of 
+
+course, deal with this by having a more general 
+
+notwithstanding clause. 
+
+ JUSTICE SCALIA: 
+
+I thought you were relying 
+
+on text.  I thought you were relying on the difference 
+
+between law and law, rule, or regulation. 
+
+ MR. KATYAL: 
+
+Absolutely.  That's our primary 
+
+­­
+
+ JUSTICE SCALIA: 
+
+It's not just purpose. 
+
+ MR. KATYAL: 
+
+Absolutely.  So that's our 
+
+primary argument ­­
+
+ JUSTICE SCALIA: 
+
+Thank you.  I was worried 
+
+for a minute. 
+
+ MR. KATYAL: 
+
+Thank you.  Thank you.  If the 
+
+Court isn't worried with anything else ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Gershengorn you have 4 minutes left. 
+
+ REBUTTAL ARGUMENT OF IAN H. GERSHENGORN 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. GERSHENGORN: 
+
+Thank you, Mr. Chief 
+
+25 
+
+Justice. 
+
+54
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ I'd like to make two principal points. 
+
+First, the question here is whether ­­ the principal 
+
+question I'd like the Court to decide is whether this 
+
+disclosure was specifically prohibited by statute.  We 
+
+believe it is, and I think it's very interesting today 
+
+­­ Justice Kagan, you pointed out that the precedent 
+
+seems to require that.  Justice Breyer, you pointed out 
+
+that the legislative history in the Senate report seems 
+
+to require that result.  Justice Alito and Justice 
+
+Kennedy, you pointed out that the practical effects of 
+
+Respondent's position would seem to be grave.  Mr. Chief 
+
+Justice, you pointed out and we completely agree that 
+
+the term "specific" which is critical to their argument 
+
+could just as easily, and we think properly, mean 
+
+express, which is what it means here.  And Justice 
+
+Scalia, you asked about criminal penalties, but the 
+
+statute itself does not provide criminal penalties just 
+
+as Mr. Katyal said, but it does provide civil penalties. 
+
+ We think in that situation where you have 
+
+the prior case law, the legislative history, the 
+
+practical effects and the plain text that to say that a 
+
+statute that mandates nondisclosure regulations does not 
+
+specifically prohibit disclosure is just a very odd 
+
+construction. 
+
+ The principal practical arguments we've 
+
+55
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+heard today are that we don't have to worry because 
+
+Congress could have had an executive order to make it 
+
+work.  We continue to think there is no dispute that the 
+
+SSI system doesn't work under Mr. Katyal's construction. 
+
+The idea that what Congress expected was a duplicative 
+
+executive order to mimic the SSI scheme seems very odd 
+
+to us, and seems like a very odd way to construe 
+
+congressional statutes. 
+
+ There was a concern here that there's this 
+
+fox guarding the hen house.  That may be a concern with 
+
+the Whistleblower Protection Act, but it has no 
+
+application here, where Congress itself mandated the 
+
+nondisclosure regulations, and did so knowing precisely 
+
+what those regulations were when it did so. 
+
+ And finally, there's been some suggestion 
+
+that the facts are in Mr. MacLean's favor here.  I would 
+
+only say this.  What Mr. MacLean ­­ what a TSA employee 
+
+has before them is not a full picture of the threats, is 
+
+not a full picture of the resource constraints, is not a 
+
+full picture of the other means that the agency is 
+
+taking and is not possessed with the same experience 
+
+that TSA has. 
+
+ JUSTICE SCALIA: 
+
+Excuse me, I hate to 
+
+interrupt you, but you worry me.  I assume that if we 
+
+find for your friend on the other side, the SSI 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+56
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+regulations are not null and void.  They would still 
+
+apply to everybody except whistleblowers.  Isn't that 
+
+right? 
+
+ MR. GERSHENGORN: 
+
+Yes. 
+
+ JUSTICE SCALIA: 
+
+It would still be a 
+
+violation for anybody to make those disclosures unless 
+
+he's doing it in a whistleblower capacity. 
+
+ MR. GERSHENGORN: 
+
+It would be ­­ yes, Your 
+
+Honor, but the standard in whistleblowing is do you 
+
+reasonably believe that there is a specific and 
+
+substantial danger to public safety?  That is a judgment 
+
+made on the information known ­­ reasonably known to the 
+
+employee and readily ascertainable.  It is not a 
+
+judgment made with the full picture of the security 
+
+consequences. 
+
+ I suggest to the Court, as a step back, that 
+
+the right way to think about this case is that in a 
+
+situation where the statute mandates nondisclosure ­­
+
+just as if the Chief Justice were to tell the marshal to 
+
+bar me from the courtroom, that it would be perfectly 
+
+reasonable to say that the Chief Justice had expressly 
+
+prohibited, specifically prohibited, my presence in the 
+
+courtroom, even if the marshal were the one standing at 
+
+the door. 
+
+ JUSTICE GINSBURG: 
+
+Do you know how come that 
+
+1 
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+57
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+Official 
+
+is, Mr. Gershengorn? 
+
+ MR. GERSHENGORN: 
+
+Excuse me? 
+
+ JUSTICE GINSBURG: 
+
+How common it is to have 
+
+regulations specifically mandated as opposed to 
+
+authorized or permitted. 
+
+ MR. GERSHENGORN: 
+
+Your Honor, we're not 
+
+aware of very many statutes like the SSI statute, where 
+
+Congress has expressly mandated regulations.  There are 
+
+things like the 102(d)(3) of the National Security Act, 
+
+which generally says to the CIA director, protect 
+
+sources and methods, and statutes like that. 
+
+ There are, of course, a wide range of 
+
+nondisclosures, but we're focused principally on the 
+
+nondisclosure provisions here.  We respectfully ask the 
+
+Court to hold that this is specifically prohibited by 
+
+law and in particular by the SSI statute. 
+
+ JUSTICE BREYER: 
+
+We would never bar you from 
+
+the courtroom. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+He wasn't talking 
+
+about you.  Thank you, counsel. 
+
+ The case is submitted. 
+
+ (Whereupon, at 11:05 a.m., the case in the 
+
+above­entitled matter was submitted.) 
+
+ 
+
+ 
+
+58 
+
+Alderson Reporting Company 
+
+Page 59 
+
+authority 9:7 21:3 
+authorized 10:7,11  blowing 16:15 
+
+blow 38:7 
+
+11:16 24:6,7 58:5 
+
+17:15 18:5 39:23 
+
+A 
+
+able 19:13 35:18 
+aboveentitled 1:12 
+
+58:23 
+
+absent 5:19 
+absolutely 46:18 
+
+54:11,14 
+
+accept 14:16 
+acceptance 38:6 
+access 19:13 
+accountability 37:2 
+act 13:19 15:25 
+
+Official 
+Official
+
+24:1,2,16,16 25:2  apparently 9:17 
+26:5 27:22 28:13 
+35:13,17 56:20 
+
+appeal 5:7 
+appealed 5:5 
+appeals 5:5,8 9:18 
+
+agencys 25:10 
+agent 31:4 
+agents 14:9 
+aggrieved 5:6 
+ago 40:18 
+agree 31:9 43:3,9 
+
+43:12 55:12 
+
+ahead 30:9 
+air 3:17 4:10,16 
+
+9:23 
+
+appearances 1:15 
+appendix 4:22 
+
+11:19 
+
+applicant 38:12 
+application 56:12 
+applies 22:8 
+apply 34:11 57:2 
+
+5:18 6:1,10,13,25  approach 41:5 42:5 
+7:21 29:12 36:23 
+39:6,7 
+
+automatically 
+16:21 24:24 
+
+available 34:14 
+
+53:17 
+
+aware 35:16,17 
+
+58:7 
+
+B 
+
+b 8:8 27:25 28:25 
+29:10 33:3 35:25 
+36:11,25 38:21 
+
+airline 17:3 34:3,6 
+airplane 15:1,10 
+
+21:10 27:18 28:1 
+30:23,25 32:17 
+33:21 35:1,22,23 
+36:25 37:13 38:2 
+38:3 39:11 42:22 
+44:19 47:2,12 
+49:18 50:19,22,25  airplanes 15:6 
+52:1,14,24 53:3,6 
+53:8 54:5 56:11 
+58:9 
+
+43:21 44:1,5 
+
+16:13 18:5 
+
+16:15 17:15 18:22 
+airport 3:16 43:18 
+
+alike 52:25 
+alito 19:10,20 30:9 
+
+35:8,21 37:4,9 
+43:9,14 55:9 
+
+b8 44:13 
+back 13:1 23:3 
+
+area 43:18 
+arent 29:3 
+arguably 48:16 
+37:20 40:17 45:21 
+argued 4:18 
+50:15 57:16 
+arguing 10:5 13:11 
+argument 1:13 2:2  backup 28:16 
+balance 27:11 
+ban 50:3 
+
+2:5,8 3:3,7 5:10 
+10:15 18:11,11 
+21:15 23:11 26:10  bar 46:22 57:20 
+27:14,20 28:16 
+29:5,15 41:4 
+45:22 46:9 50:5 
+52:2 53:21 54:15  basically 13:11 
+54:22 55:13 
+
+based 3:23 46:6 
+
+58:17 
+
+53:21 
+
+blown 18:22 
+books 7:25 11:2 
+bothering 52:12 
+bothers 54:2 
+boxes 48:1 
+boy 26:6 
+bracket 42:14 
+breyer 14:7,13 
+
+15:21,24 16:7,20 
+17:8,11,14 18:2 
+18:18 30:12 31:16 
+32:18 36:6,11,13 
+40:8 41:7,13,20 
+42:1,24 44:11 
+50:15,21,24 51:17 
+52:11,20 55:7 
+58:17 
+
+breyers 19:21,22 
+
+27:24 42:5 
+
+brief 5:17 29:5 35:4 
+
+35:9 39:15 41:8 
+45:2 50:6 53:10 
+53:11 
+
+action 35:18 38:10 
+actual 51:20,25 
+added 52:5 
+address 41:22 
+addressed 9:4 
+administrative 
+4:19,20,23 6:4 
+7:22 
+
+administrator 9:6 
+
+11:13 15:15,17 
+
+admitted 30:4 
+adopted 23:11 
+
+46:10 
+
+adopting 33:1 
+advanced 50:7 
+adversely 15:18 
+affairs 44:14 
+affect 15:18 
+affirmatively 33:3 
+agencies 27:19 
+33:11,12 37:2 
+42:21 47:7,20 
+53:5,7 
+
+agency 20:20 22:22  apex 49:3 
+
+arguments 11:24 
+
+57:13 
+
+28:18 55:25 
+ascertainable 
+
+alitos 36:18 
+alternative 19:21 
+amend 16:5 
+amended 12:11,12 
+12:17,18 13:3,3 
+15:25 16:4 37:13 
+analysis 32:21,23 
+answer 6:17 11:17 
+19:3,4,23 22:10 
+27:20 38:4 40:11 
+40:14 41:2,11 
+42:16 48:25 49:12  assuming 12:10 
+52:18 
+
+42:5 52:22 
+
+53:20 
+
+55:16 
+
+asked 10:25 30:18 
+
+asking 39:11 50:17 
+
+answered 18:23 
+antidisclosure 
+
+47:11 
+
+anybody 38:7 57:6 
+anymore 20:12 
+apart 40:22 
+
+attached 12:3 
+attempt 3:16 
+attendants 20:6 
+
+22:1 
+
+attention 10:22 
+
+20:19 
+
+authorities 52:7 
+
+21:7 42:14 
+basket 40:1 
+behalf 1:17,19 2:4 
+2:7,10 3:8 27:15 
+54:23 
+
+briefing 7:3 
+briefs 10:16 
+bring 40:9 
+british 17:3 
+broad 34:17 
+belief 3:24 
+broader 15:9 26:20 
+believe 10:14 26:14  bureaucracy 40:7 
+
+26:16 27:5 35:21  buy 52:2 
+45:10 49:12 51:15 
+52:9 55:5 57:10 
+
+C 
+
+38:12 
+
+believing 40:25 
+best 7:12 32:9 
+50:13 51:22 
+
+c 1:9,17,19 2:1 3:1 
+
+5:6 29:10 34:6 
+
+call 4:5 29:9 
+called 30:5 
+cancellations 30:6 
+cant 15:3 17:24 
+
+better 52:23 
+biased 40:25 
+bill 23:8 42:25 43:5  capacious 46:13 
+
+29:13 44:25 49:24 
+
+51:18,20 
+
+bit 14:1 
+
+capacity 57:7 
+carry 11:8 
+
+associated 43:25 
+assume 12:14 56:24  believes 36:20 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+carrying 14:20 
+class 19:12 22:3,3 
+case 3:4,18 4:3 5:11  classification 5:11 
+6:18 36:4 38:23 
+38:24 44:10,22 
+45:2,8 
+
+6:6 38:19 40:13 
+41:2,9 46:24 
+48:13 49:5 55:20 
+57:17 58:21,22 
+
+cases 5:15 6:4 9:11 
+11:12 39:16,17,19 
+46:3,21 
+
+category 28:12 
+caution 43:6 
+certain 19:15 42:21 
+
+43:25 
+
+certainly 5:15 
+
+29:18 35:3 44:21 
+48:10 
+
+cetera 17:4 
+chapter 52:6 
+charge 15:6 
+chevron 27:22 
+chief 3:3,9 5:14,25 
+
+classified 17:21 
+19:14,18 20:2 
+21:4 22:4 44:23 
+45:11,20 
+
+clause 30:15 31:12 
+
+33:4,19 36:2 
+42:13 54:7 
+
+clean 46:19,21 
+clear 7:20 9:18 
+
+10:13 22:7 25:13 
+
+clearances 19:16 
+clearly 10:16 36:25 
+
+41:11 
+
+close 5:15 6:4 35:11 
+code 48:20 
+coexist 17:21 
+
+40:6 48:8 52:3 
+53:9 57:25 
+
+6:7,11,19 9:13,16  come 30:18 39:6,14 
+9:21 11:18,18,25 
+14:6 20:7 22:19 
+27:12,16 29:5 
+39:21 40:3 49:4 
+49:21 54:20,24 
+55:11 57:19,21 
+58:19 
+
+committee 51:1,11 
+
+comes 5:12 43:20 
+
+51:14,14 
+
+50:6 
+
+chilling 53:11 
+choice 48:6 
+chrysler 24:5,6,10 
+25:5,12,15,17,20 
+25:24 26:2,22 
+
+cia 9:9 13:20 14:8 
+
+15:3 58:10 
+
+common 58:3 
+communicating 
+
+17:2 
+
+completely 55:12 
+concern 16:12,14 
+
+56:9,10 
+
+concerned 38:5 
+
+53:8 
+
+circuit 5:10 8:6,6 
+
+concerning 29:11 
+
+8:12 10:3,8 11:20  concerns 43:17 
+12:5 39:17 
+
+circuits 3:19 12:3 
+circumscribing 
+
+35:23 
+
+circumstance 36:18 
+circumstances 47:1 
+cites 45:7 
+civil 55:18 
+
+conclude 23:21,23 
+concluded 39:13 
+conclusion 42:6 
+conference 22:21 
+40:14 41:8,11,14 
+48:17 49:1,7,8 
+confidential 7:5 
+confused 7:2 
+
+22:3 
+
+6:5,8 
+
+7:17 8:3,20 32:23 
+34:20 46:1,4 
+
+correct 4:1,7 7:11 
+
+continue 56:3 
+control 10:2 
+controlled 21:18 
+
+12:10,12 15:25 
+16:5,6 17:20,23 
+18:1,16 19:8 21:2  context 47:6,18 
+21:2,5,9,11,12 
+22:14,18,20,23 
+23:8,10,11 24:12 
+24:21 26:7,11,12 
+26:18 27:18,25 
+28:12,21,25 30:11 
+30:14,22 31:5 
+32:15 33:5,14,16 
+34:14,22,25 35:3 
+35:4,11,16,23,24 
+35:25 36:12,25 
+37:5,10,15,23 
+38:21 39:9 40:4,8  counted 24:14 
+40:10 41:1 47:17 
+country 40:21 
+couple 15:11 
+47:25 48:5,25 
+49:2,6,14,17 
+course 14:5 18:24 
+50:19 52:1,2,8 
+53:7,10 54:5 56:2 
+56:5,12 58:8 
+congressional 
+
+corrective 35:18 
+couldnt 39:8 42:17 
+
+32:16 35:23 37:23 
+46:14 49:1 54:2,6 
+58:12 
+
+counsel 12:9 27:12 
+53:11 54:20 58:20 
+
+50:2 
+
+45:15 56:8 
+
+congresss 11:21 
+
+12:7 
+
+connections 35:11 
+consequences 
+19:12 57:15 
+consider 40:10 
+considered 12:24 
+consistent 26:2 
+constant 38:19 
+constraints 56:19 
+construction 3:19 
+18:14 55:24 56:4 
+constructions 27:6 
+construe 56:7 
+construed 52:7 
+consumer 47:2 
+contacted 35:9,12 
+contemplated 
+
+22:17 
+
+contemplation 
+
+24:12 
+
+court 1:1,13 3:10 
+5:5,7,12 9:5,9,11 
+9:18,23 11:10,11 
+11:14,20 13:9 
+14:4 15:12,14,23 
+15:24 16:4 18:4 
+18:14 23:6 24:5,7 
+24:15 25:4,11,16 
+25:16 26:21 27:4 
+27:7,17 33:10 
+37:25 38:20 41:10 
+50:18 53:3,18 
+54:19 55:3 57:16 
+58:15 
+
+courtroom 36:22 
+57:20,23 58:18 
+courts 9:3 10:22 
+27:9 45:6 47:8 
+49:20 
+
+covered 3:14 7:21 
+
+29:8,12 49:24 
+
+created 21:9 
+creates 5:3 
+
+Official 
+
+congress 3:11 
+
+content 37:6 
+contention 4:21 5:1  crews 3:15 
+
+creature 45:8 
+
+Page 60 
+
+criminal 45:18 
+
+55:16,17 
+
+criteria 12:18 
+
+13:15 14:17 16:2 
+31:24 51:5 
+
+criterion 14:21 
+critical 14:15 20:16 
+30:13 32:19 55:13 
+
+criticism 20:22 
+csra 16:6 
+cut 6:1,13 39:22 
+cuts 39:22 
+
+D
+
+d 1:9,17,19 3:1 
+
+13:18 50:16,20 
+51:24,24 52:2,5,9 
+58:9
+
+danger 34:19 57:11 
+data 39:15
+day 11:8 39:4 
+days 5:7
+de 3:17
+deal 16:8,9,10 
+
+31:13 35:3 36:3 
+36:12 38:3,21 
+44:7,14 54:6 
+
+dealing 3:15 30:11 
+
+35:1 36:17
+
+deals 21:18 22:6 
+28:13,20 35:22 
+dealt 28:1 37:10 
+
+39:10 44:2,7 
+
+decade 4:11 22:13 
+decide 15:8 32:3 
+
+55:3
+
+decided 18:20
+decides 14:21
+deciding 43:7
+decision 12:3 18:4 
+
+45:6 47:8
+
+decisions 9:3 27:1 
+declining 5:20
+decouple 31:3
+
+Alderson Reporting Company
+ 
+
+Page 61 
+
+57:13 
+
+36:24 44:24 
+
+employees 3:21,23 
+
+exempted 9:4,12 
+
+decoupling 53:21 
+deeper 32:16 
+defeat 25:24 
+defense 16:22 34:7  difficult 5:21 
+
+47:6 53:3,15,22 
+53:24 
+
+differently 53:25 
+
+44:14 45:4 
+
+deference 27:23 
+deficient 14:25 
+definition 32:25 
+
+33:15 
+
+direct 50:3 
+directed 3:11 
+director 9:10 13:20 
+
+14:12 58:10 
+
+dis 9:7 
+
+department 1:3,17  disagreed 12:10 
+
+disclose 3:22 11:13 
+
+14:9 15:3 42:8 
+43:23 50:1 
+
+disclosed 9:2 18:9 
+
+33:16,22 34:4 
+39:3 43:25 44:5 
+disclosing 14:21 
+
+Official 
+
+52:19 54:5 56:4 
+
+doing 16:20,21 
+
+20:22 28:21 32:3 
+46:5,15 57:7 
+dont 6:16 8:24 
+
+3:23 
+
+empower 27:19 
+
+33:11 47:19 
+
+empowering 33:12 
+42:21 47:7 53:5,6 
+
+10:10 11:9 13:2 
+15:1,2,7 18:9 
+enact 30:14 
+19:24 22:10 23:1 
+enacted 26:12 
+26:1,16 28:8 
+27:18 33:14 
+31:13 33:6 35:7 
+enemy 38:16 
+35:21 36:6,14,16 
+38:14 40:9 41:17 
+entirely 19:7 45:8 
+41:24 44:19 45:23  equally 26:1 50:3 
+46:9 49:2 51:15 
+51:16,21 52:17 
+56:1 
+
+esq 1:16,19 2:3,6,9 
+essentially 19:25 
+46:3 53:14,21 
+
+53:1 
+
+door 57:24 
+
+51:2 
+
+exemption 31:17 
+
+31:22 36:1 40:18 
+40:22 41:16 44:13 
+45:24 46:2,21 
+52:14 
+
+exemptions 33:11 
+
+42:22 
+
+exempts 52:2 
+exhaustion 37:11 
+exists 20:3 
+expected 56:5 
+experience 56:21 
+expert 3:21 
+explain 10:1 28:8 
+express 11:21 12:7 
+
+55:15 
+
+expressly 4:12 
+
+12:24 24:15 57:21 
+58:8 
+
+extended 8:7 
+extent 38:20 
+
+F 
+
+f 29:10 
+face 18:21 
+facilities 32:19 
+
+19:24 21:6,17 
+facts 39:2 56:16 
+fail 38:9 
+failsafe 40:7 
+fair 46:25 
+fall 16:21 35:19 
+
+40:21 44:15 
+far 18:9 46:9 
+favor 39:2 56:16 
+fear 53:11 
+federal 3:17,19 
+
+4:10 5:18 6:10,25 
+7:21 8:6,6,12 10:3 
+10:8 11:20 12:2,5 
+29:12 39:16 
+
+figure 5:21 
+
+3:4 15:4 16:22 
+dependent 53:15 
+depends 46:10 
+
+52:18 
+
+deployment 3:18 
+4:10,17 6:10 7:1 
+7:21 
+
+deployments 29:11 
+deputy 1:16 
+designate 44:17 
+designated 7:10 
+
+11:4 
+
+despite 13:7 
+details 6:25 7:20 
+
+44:20 
+
+determination 4:4 
+
+11:12,14 
+
+determine 16:25 
+determining 5:4 
+detrimental 3:13 
+
+18:8 34:17 38:14  dot 15:5 
+
+37:4 48:22 
+
+doubt 7:12 29:14 
+
+disclosure 8:1,11 
+8:14 9:5,8 13:22 
+14:19 15:16,17 
+28:4,14 29:16 
+34:9 37:7,7,24 
+38:11 40:2 46:25  duplicate 19:7,25 
+46:25 50:11,11,14 
+51:2 55:4,23 
+
+draw 25:6 26:7 
+drew 25:4,17 26:3 
+driving 52:13 
+
+20:9 22:12 
+
+duplicating 20:8 
+duplicative 56:5 
+
+disclosures 3:12 
+47:8 51:1 57:6 
+discretion 31:23 
+
+51:4 
+
+establishes 13:14 
+
+31:24 51:5 
+
+et 17:3 
+evasive 4:25 
+everybody 15:5 
+
+52:15 57:2 
+
+evidences 38:12 
+eviscerate 18:16 
+ex 9:7 
+exact 22:15 
+exactly 30:7 31:5 
+
+56:3 
+
+dispute 5:12 6:24 
+
+14:22 15:6,10 
+28:4 29:2,24 
+32:11 33:23 46:12  distinction 24:18 
+25:4,5,16 26:2,8 
+46:16 48:1 54:4 
+developed 14:19 
+devised 18:13 
+dhs 21:10 
+didnt 12:11 29:16 
+
+distinguishes 33:3 
+
+distinguished 
+
+24:15 
+
+47:15 
+
+37:2 42:25 48:17  distributed 7:5 
+52:2,9 
+
+difference 48:14,16 
+
+54:9 
+
+different 13:23 
+
+24:18 25:23 28:17 
+28:17,25 33:11 
+36:11 42:20 44:9 
+
+doesnt 9:23 17:23 
+17:24 20:1,21,21 
+28:18,22 31:1,14 
+31:17 34:11 36:3 
+36:4 38:7,23,24 
+42:8 43:5 44:21 
+49:22 51:18,21 
+
+50:23 
+
+E 
+e 2:1 3:1,1 
+eagan 45:7 
+ear 15:2 
+earlier 50:17 
+easily 55:14 
+effect 20:18,24 21:1  exclude 23:24 
+excludes 23:25 
+excuse 10:24 42:3 
+50:18 56:23 58:2 
+
+exceptions 13:12 
+
+26:4 28:6 34:24 
+
+44:18 
+
+effects 55:10,21 
+effectuating 47:1 
+eggs 40:1 
+either 30:23 38:22 
+
+45:14 53:1 
+
+embodied 25:17 
+eminently 13:6 
+employee 5:17 
+
+10:25 38:11,12 
+43:18,22 56:17 
+
+executive 16:17 
+
+17:7,22,25 20:9 
+20:12 21:4,17,18 
+22:6,7,15 36:2,22 
+38:23 39:5 43:11 
+44:3,4 45:9,14 
+56:2,6 
+
+exempt 8:10 9:7 
+
+Alderson Reporting Company
+ 
+
+example 34:6 43:16  fact 16:6,14 17:14 
+examples 10:6 34:2 
+exception 13:14 
+
+Official 
+
+fill 17:25 
+final 5:2,4 
+finally 56:15 
+find 26:13,16 34:1 
+
+44:14 45:1 
+
+form 21:7 22:15 
+former 39:14 
+formulation 25:1 
+
+56:25 
+
+26:21 
+
+forth 52:8 
+fortiori 14:4 
+forward 39:14 40:6 
+
+fine 5:23 17:8 
+finish 11:17 
+fire 39:8 
+fired 4:3 37:18 
+first 3:4 4:14 10:15 
+12:22 15:12 26:17 
+28:20 30:20 31:12  four 37:13 
+33:4 42:13 47:15 
+48:25 50:7 55:2 
+
+53:9 
+
+found 4:23 8:12 
+
+11:14 15:23 48:16 
+
+gravamen 33:13 
+grave 55:11 
+gross 38:13 
+gte 46:24 
+guard 37:3 
+guarding 56:10 
+
+10:13 11:3,6,9 
+12:2,12,16,19,22 
+13:8,13 14:2,11 
+15:11,22 16:3,18 
+17:6,10,13,18 
+18:12 19:6,17,22 
+20:13,25 21:13,21  guide 51:22 
+22:9 23:1,17,22 
+24:4,25 25:20,25 
+26:15 27:2 54:21  h 1:16 2:3,9 3:7 
+54:22,24 57:4,8 
+58:1,2,6 
+
+34:6 54:22 
+
+H 
+
+fox 37:3 56:10 
+frankly 22:16 48:3 
+free 30:22 
+freedom 32:17 
+friend 33:2 44:24 
+
+45:7 56:25 
+
+friends 27:19 29:5 
+full 37:7 56:18,19 
+
+getting 27:23 
+ginsberg 4:14 
+ginsburg 3:25 7:3 
+9:15 10:4 11:18 
+26:24 57:25 58:3 
+
+give 29:13 
+given 5:22 13:4 
+
+26:21 31:19 
+gives 5:6 32:4 
+39:15 41:11 
+
+27:5,10 37:16 
+39:13 
+
+harm 29:16 35:7 
+hate 56:23 
+health 34:19 
+hear 3:3 
+
+house 37:3 40:16 
+41:21 49:11,11 
+56:10 
+
+half 22:14 
+hand 26:4 
+happen 40:13 
+happens 5:2 40:2 
+hard 20:8 26:13,16  hypothetical 28:19 
+
+housekeeping 25:3 
+human 40:6 
+
+Page 62 
+
+15:11 16:3,18 
+17:10,13,19,22 
+18:12 19:18 20:13 
+20:25 21:21 22:9 
+23:1,23 24:25 
+25:25 26:15 27:2 
+28:15 30:20 32:9 
+33:18 34:14,20,25 
+36:10 41:19 52:17 
+57:9 58:6 
+
+38:6 45:4 
+
+I 
+
+ian 1:16 2:3,9 3:7 
+
+54:22 
+
+id 43:1 49:13 55:1,3 
+idea 47:13 50:20 
+
+56:5 
+
+ill 9:18 16:7,8 28:8 
+
+31:20 
+
+illustration 29:4 
+im 4:2 6:17 7:2 
+
+11:25 12:25 14:7 
+16:8 17:16 18:2 
+18:10,11,22 19:20 
+20:15 21:21 22:23 
+23:3 30:9 34:5,13 
+36:13,17 38:5 
+39:1 40:25 46:23 
+48:21 49:21 50:21 
+53:20 
+
+imaginable 31:1 
+impair 52:7 
+implicit 38:14 
+important 5:19 
+
+18:23 19:3 20:19 
+29:8 50:17,18 
+
+incentivizing 53:9 
+include 14:24 16:5 
+
+27:1 
+
+focusing 18:22 
+
+17:19 
+
+G 
+
+fix 44:6 
+flatly 29:9 
+fleshed 49:20 
+flight 3:15,15,17 
+
+20:5 21:25 
+
+flights 5:19,20 6:2 
+6:13 29:8 34:3,6 
+39:5 
+
+focused 47:14 
+
+58:13 
+
+49:23 
+
+foia 10:6 12:11,12 
+12:15,17,18 13:3 
+13:12,13 16:4 
+30:17,18,21,22 
+31:3,3,11,13,17 
+33:1,5,9,9 35:2 
+40:18 41:16,16,23 
+41:24 42:4,7,14 
+42:18,20 46:6,11 
+47:6,7,19 50:25 
+52:14 53:2,4,12 
+53:18 54:3,3 
+
+follow 19:10 24:24 
+
+41:5 42:5 
+
+following 26:17 
+follows 14:3 
+force 26:4 
+foreclosed 26:20 
+forecloses 8:9 
+foreign 35:13 36:19 
+
+56:20 57:14 
+function 17:24 
+fundamental 33:25  go 16:12 30:9 31:22  heard 6:4,7 56:1 
+fundamentally 
+
+g 3:1 
+gain 37:21 
+games 8:23 
+gaps 17:25 
+general 1:16 29:2 
+29:22 30:25 32:7 
+32:11,12 33:22 
+34:13 37:24 41:4 
+41:25 44:13 46:17  goodness 14:7 
+46:20,22 47:20 
+48:1 49:19 52:12 
+54:6 
+
+52:15 
+
+good 20:17 40:2 
+
+37:17 40:17 45:21  heaven 46:13 
+heavens 53:12 
+46:9 52:21,23 
+held 8:6,6 
+help 19:8 
+helpful 47:24 
+hen 37:3 56:10 
+heres 14:20 23:7 
+
+goals 53:4 
+goes 54:3 
+going 7:16 17:15 
+18:15 23:3 26:7 
+26:17,25 27:21 
+28:11 29:22 32:14 
+36:5 40:21 44:6 
+52:15 
+
+35:24 
+
+herring 27:25 
+hes 38:14 57:7 
+hijacking 3:16 
+history 12:24 13:17 
+
+23:7 27:3 35:10 
+47:10 49:3,4 50:9 
+55:8,20 
+
+gosh 46:19 
+gotten 30:19 
+hold 33:17 58:15 
+govern 16:22 
+homeland 1:3 3:5 
+government 9:17 
+15:5 21:10 45:4 
+9:23 21:24 22:5 
+28:16 31:9 36:20  honor 4:6 5:3,24 
+39:14 42:7,7,17 
+52:3 
+
+gershengorn 1:16 
+2:3,9 3:6,7,9 4:6 
+4:16 5:24 6:3,9,15 
+6:21 7:7,11,17 8:3  governments 39:25 
+8:20,24 9:20,24 
+
+50:6 
+
+6:3,15,24 7:12 8:4 
+8:21,24 9:20,24 
+11:9 12:13,19 
+13:1,4,8,14 14:11 
+
+generally 7:4 41:6 
+
+48:13 58:10 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+37:1,4,9,23 38:5 
+39:1,9,21 40:3,8 
+41:7,13,20 42:1,3 
+42:5,16,24 43:9 
+43:14 44:11 45:17 
+45:21 46:2,5,17 
+48:5,12,21,24 
+49:4,6,10,21 
+50:15,21,24 51:9 
+51:13,16,17 52:1 
+52:11,20 53:7,13 
+53:20 54:1,8,13 
+54:16,20,25 55:6 
+55:7,9,9,12,15 
+56:23 57:5,19,21 
+57:25 58:3,17,19 
+justification 39:24 
+
+included 27:6 
+includes 25:8,14,14 
+
+31:10 
+
+including 25:9,9 
+inconsistent 4:25 
+
+17:19 
+
+individually 28:14 
+information 3:14 
+
+interpreted 15:13 
+interpreting 51:18 
+interpretive 24:16 
+
+25:9 52:13 
+
+interrupt 56:24 
+involved 36:8 
+irrelevant 46:3 
+isnt 33:8 40:21 
+
+J 
+
+54:19 57:2 
+
+ive 32:7 41:9 
+
+issue 3:18 7:22 
+
+31:23 44:3 51:4 
+
+j 1:7 
+job 37:18,20 
+jot 45:16 
+judge 4:19,20,23,25  justify 27:7 
+
+3:18,22 4:4,9,9,17 
+4:20 7:9,13,14,18 
+8:8,10 14:15,19 
+14:22 15:16 16:23 
+17:2,21 18:9 
+19:14,15,18 20:2 
+20:3,11 21:5,19 
+21:23 22:3,4,5,8 
+27:21 28:4,13 
+29:7,7,11,16 
+30:13,19 31:4 
+32:17 34:3,9 
+35:13,15 36:24 
+37:24 38:11 43:16 
+43:20,20,24 44:18  judicial 27:1 48:20  k 1:19 2:6 27:14 
+kagan 21:13 22:2 
+44:24,25 45:11,20  justice 1:17 3:3,9 
+25:19 45:21 46:2 
+57:12 
+46:5,17 53:13,20 
+54:1 55:6 
+
+15:17 17:20 21:1 
+57:11,14 
+
+6:4 7:23 15:2 
+judgment 3:21 
+
+juxtaposed 25:21 
+juxtaposition 25:23 
+
+K 
+
+keep 18:8 47:10 
+kennedy 7:24 10:24 
+
+11:5,7 28:22 
+33:13 34:1,11,15 
+34:22 37:23 48:5 
+48:12 55:10 
+kept 16:17,25 
+
+31:18 
+
+kind 3:17 5:22 22:8 
+
+31:10 
+
+kinds 17:3 22:12 
+know 4:24 5:3 6:2 
+6:9,16,20,22,24 
+9:22,23 10:10 
+15:2,7 19:24 20:6 
+22:10,25 24:3 
+28:11 32:13 36:13 
+39:1 40:8 57:25 
+knowing 21:3,4,6 
+
+56:13 
+
+known 57:12,12 
+knows 46:13 
+
+L 
+
+language 16:5 
+
+22:21 31:17 35:2 
+42:12,25 43:3 
+46:6,11,18,20,22 
+47:20 48:17 49:16 
+49:18 51:18,23 
+52:6 53:14,25 
+laughter 48:23 
+law 8:12,13 9:19 
+
+Page 63 
+
+lawyer 9:17,22,23 
+
+9:25 10:1 
+
+lay 49:19 
+layout 43:17 
+lead 17:15 
+leading 18:5 42:6 
+leak 27:21 36:19 
+leave 51:4 
+leaves 31:23 
+leaving 41:2 
+left 54:21 
+legal 11:22 12:8 
+18:10,11 32:23 
+45:22 
+
+legislation 23:15 
+legislative 12:24 
+
+13:17 23:6 24:11 
+27:3 47:10 49:3,4 
+50:8 55:8,20 
+line 5:23 27:24 
+
+32:20 
+
+literally 36:21 
+litigant 37:19 
+litigated 7:22 
+litigating 37:19 
+little 7:2 14:1 21:24 
+27:10 38:5 49:21 
+
+local 22:1 44:6 
+long 33:19 45:3 
+look 14:17 16:7,8 
+18:19 28:12 29:4 
+32:1 34:1 43:1 
+47:3 49:19 
+
+40:4 
+
+looked 11:10,11 
+
+looking 46:23 
+loose 39:12 
+lot 15:3,9 22:12 
+
+23:12,15,19,19,24 
+24:7,7,14,22,23 
+24:25 25:7,11,20 
+25:20,22 26:4,9,9 
+26:18,25 27:8 
+28:7,13 29:1 33:3 
+33:4,7,8 34:8,10 
+38:13 40:16 47:16  m 1:14 3:2 58:22 
+47:16,17 48:8 
+49:16 50:12 54:10  maclean 1:7 3:5 4:1 
+54:10 55:20 58:16 
+
+machine 40:7 
+
+M 
+
+5:9 6:5,20,21,22 
+9:21 20:11 22:24 
+35:6,9 37:16 
+
+lawfully 25:8 
+laws 30:24 
+
+informed 40:12 
+infrastructure 
+
+14:15 30:13 32:19 
+
+initial 23:3 
+ins 20:15 21:22 
+insignificant 20:20 
+inspector 29:22 
+instruction 9:10 
+instructions 11:22 
+
+12:7 
+
+intelligence 13:21 
+
+14:14 
+
+interest 9:8 15:18 
+
+15:19 37:21 
+
+interesting 55:5 
+internal 24:1,15 
+
+25:2 26:4 
+
+interpret 24:6 
+
+52:24 
+
+interpretation 9:1 
+
+27:9 48:20 
+
+3:25 4:14 5:14,25 
+6:7,11,19 7:2,3,8 
+7:15,24 8:18,22 
+9:13,15,16,21 
+10:4,24 11:5,7,17 
+11:18,25 12:9,14 
+12:17,20 13:6,10 
+13:25 14:6,7,13 
+15:21,24 16:7,20 
+17:8,11,14 18:2 
+18:18 19:10,20,21 
+19:22 20:7,17 
+21:13 22:2,19 
+23:14,18 24:3,20 
+25:19 26:6,24 
+27:12,16,23 28:3 
+28:10,22 29:6,14 
+30:2,5,9,12,16 
+31:2,7,16 32:18 
+33:1,13 34:1,11 
+34:15,22 35:8,21 
+36:6,11,13,18 
+
+katyal 1:19 2:6 
+
+27:13,14,16 28:3 
+28:8,15 29:18 
+30:3,7,10,20 31:5 
+31:11 32:9,24 
+33:18 34:5,13,20 
+34:25 35:21 36:10 
+36:17 37:9 38:17 
+39:9 40:3 41:6,19 
+41:22 42:12,19 
+43:9,13 44:9 
+45:17,19,21 46:1 
+46:4,8 47:5 48:10 
+48:15,24 49:8,12 
+50:5,23 51:8,10 
+51:12,15,17 52:17 
+53:1,17 54:1,11 
+54:14,18 55:18 
+
+katyals 56:4 
+
+Alderson Reporting Company
+ 
+
+46:14 56:17 
+
+macleans 29:19 
+
+56:16 
+
+maintains 35:11 
+maintenance 44:6 
+making 23:10 
+mandate 10:2,20 
+
+10:5,11 56:12 
+58:4,8 
+
+mandates 55:22 
+
+57:18 
+
+Official 
+
+need 13:2 20:6 
+
+31:3 
+
+25:11 27:1 
+
+mechanism 28:2 
+mechanisms 38:21 
+media 5:18 36:19 
+
+37:17 
+
+23:22 28:23 29:4 
+36:7 37:11 39:7 
+40:5 45:10 
+
+never 50:7 53:6 
+
+Page 64 
+
+particularly 31:12 
+parties 45:11 
+parts 44:15 
+pass 29:1 30:25 
+
+34:23 35:25 
+
+passed 16:6 23:10 
+
+33:16 34:22 36:25 
+40:17 50:19 
+
+path 19:11 
+
+old 21:17 
+once 11:6 13:9 
+
+40:20 
+
+open 41:3 
+operating 20:5 
+operations 29:12 
+opinion 32:23 
+
+52:21 
+
+meet 12:18,22 13:2 
+
+58:17 
+
+10:21 
+
+14:5 25:15 46:22  new 21:17 
+news 35:13 
+51:24 52:19 
+nine 33:11 
+mandated 8:15 9:2  member 26:12 
+members 35:4 
+ninth 5:9 
+
+40:12 41:1 53:10  nonclassified 44:12 
+
+38:15 58:4 
+
+55:16,17,18 
+
+opposed 22:4 31:19  penalties 45:18 
+
+merely 10:11 
+met 24:9 
+methods 9:10 13:22 
+
+manner 51:4 
+mark 7:13 
+marked 7:7,18,19  mimic 56:6 
+marshal 3:18 4:10  mind 26:11,13 
+
+14:13,14 58:11 
+
+nondisclosure 8:16  opposite 29:1 32:11  people 7:5,6 17:1,2 
+
+8:16 11:16 55:22 
+56:13 57:18 58:14  options 28:25 
+
+47:25 
+
+nondisclosures 
+
+oral 1:12 2:2,5 3:7 
+
+58:13 
+
+27:14,20 
+
+nonspecific 36:1 
+
+order 5:2,4,7 15:15 
+
+17:3 18:8 19:12 
+19:13,15 20:4,10 
+27:21 35:5 36:19 
+40:9 43:25 44:5,6 
+45:1,1 49:2 
+
+4:17 6:10,25 7:21 
+36:24 57:19,23 
+
+32:16 42:23 47:13 
+47:25 48:22 
+marshals 5:19 6:1  minute 54:17 
+6:13 16:13 29:12  minutes 54:21 
+39:6,7 
+
+mis 38:13 
+
+material 29:10,13  mission 48:3 
+mistake 30:4 
+misunderstood 
+
+31:10 36:23,23 
+45:19 49:23 
+
+matter 1:12 16:11 
+
+10:25 
+
+38:22 
+
+notice 7:5 
+notion 26:11 52:9 
+
+53:22 
+
+notwithstanding 
+
+30:15,21,22,24,24 
+31:13 33:19 34:10 
+35:2 36:1 42:13 
+46:6 54:3,7 
+
+percent 6:1,14 
+perfect 14:6 
+perfectly 57:20 
+
+16:17 17:7,25 
+20:9,12 21:4,17 
+21:18 22:6,7,10 
+22:15 24:17 29:23  period 13:22 29:21 
+36:2,22 38:22,23 
+39:5 43:11 44:1,3 
+44:4 45:15 56:2,6  person 5:6 15:18 
+
+permitted 10:7 
+
+58:5 
+
+16:14 17:23 18:3  mixed 52:15 
+18:6 19:5 20:18  modified 45:9 
+31:9,18 32:1,6,14  moment 28:9 
+32:15 41:25 42:10  morning 3:4 
+58:23 
+
+move 27:8 
+moved 21:9 26:20 
+
+matters 13:16 
+
+33:22 34:18 51:3  mspb 4:4 39:19 
+mucking 38:24 
+51:6 
+
+N 
+n 2:1,1 3:1 
+name 37:20 
+narrow 26:19,19 
+narrower 15:4 
+
+45:24 
+
+mean 13:10 14:8 
+15:1,2,8 16:11 
+40:8,15 42:5 
+46:14,17 47:22 
+52:14,21 55:14 
+meaning 24:8,9 
+
+25:12 26:21 
+
+means 9:19 38:9 
+40:19,20 41:17 
+46:13 51:22 52:4 
+55:15 56:20 
+
+meant 22:20 24:8 
+
+orders 17:22 
+organization 24:2 
+
+24:17 
+
+november 1:10 
+nuanced 4:25 
+null 57:1 
+number 6:12 43:25  overcome 25:13 
+
+outs 20:15 21:22 
+outside 21:23 22:5 
+
+O 
+
+o 2:1 3:1 
+observer 49:19 
+obtained 14:19 
+
+override 3:21 
+
+P 
+
+p 3:1 
+page 2:2 10:23 
+
+43:23 
+
+personnel 38:10 
+pertaining 34:3 
+petition 12:4 
+petitioner 1:5,18 
+2:4,10 3:8 54:23 
+
+petitioners 4:21 
+
+11:19 
+
+phrase 23:13 24:6 
+25:22 33:7 47:18 
+50:11 
+
+35:15 
+
+11:19 39:15 41:9  pick 32:25 44:12 
+obvious 24:21 
+43:4 45:2 51:20 
+obviously 16:11,13  part 21:10 44:16 
+occupy 20:19 
+odd 18:14 55:23 
+
+picks 41:16 
+picture 56:18,19,20 
+
+particular 7:9 
+
+47:15 48:7 
+
+place 22:13 25:19 
+
+57:14 
+
+56:6,7 
+
+national 13:19 
+29:20,25 35:6 
+44:14 46:15 58:9 
+
+natural 47:21 
+neal 1:19 2:6 27:14 
+
+office 53:10 
+officials 17:3 39:15 
+oh 44:25 48:21 
+okay 6:11 12:16 
+16:7 17:8 30:21 
+
+47:11 
+
+plain 55:21 
+
+13:15,16 31:8,24 
+31:25 32:6,13,14 
+32:15 40:13 41:24  plainly 26:19 
+42:10,11 43:17,21  plans 3:15 
+48:18 51:5,6 
+58:16 
+
+plausible 53:2 
+play 8:23 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+please 3:10 27:17 
+plug 14:25 
+point 3:25 8:1 
+
+presumption 24:5 
+
+25:24 
+
+prevail 8:25 
+10:22 23:3 28:12  prevent 19:8 
+30:1,7,10 33:25 
+38:18 39:25 45:6  principal 55:1,2,25  protect 9:10 58:10 
+
+primary 54:11,15 
+
+55:14 
+
+12:6 24:13 25:3,8 
+prong 12:21 16:16 
+17:5,16 18:8 19:2 
+properly 8:8 24:13 
+
+Page 65 
+
+18:19,20,24 37:10  recognizes 37:15 
+37:25 39:11 41:12  red 27:25 
+42:16 43:17 50:15  refer 22:21 32:6,13 
+52:13 55:2,3 
+
+32:14 49:24 
+
+protected 20:12 
+protecting 13:21 
+protection 8:10 
+
+questioning 27:24 
+quick 29:23 
+quickly 35:14 
+quite 4:7 15:9 
+
+22:16 
+
+30:25 33:20 35:1  quote 5:18 29:11 
+35:22 36:25 38:2 
+38:3 42:22 44:19  quoted 12:1 41:8 
+53:2 56:11 
+
+34:7 
+
+protections 8:7 
+provide 45:3 55:17 
+
+55:18 
+
+provided 38:21 
+provision 23:12 
+24:23 34:8,10 
+52:6 
+
+provisions 58:14 
+public 3:24 9:8 
+
+problems 40:10 
+
+19:9 20:10,11 
+36:3,12,21 37:14 
+38:15 43:21 44:1 
+
+pointed 16:1 28:22  principally 58:13 
+prior 4:12 55:20 
+private 37:21 
+problem 18:21 19:2 
+
+29:6 30:12 49:4 
+55:6,7,10,12 
+pointing 33:2 
+points 15:12 23:4 
+27:24 35:5 39:10 
+45:2 55:1 
+police 44:6 
+posited 36:18 37:5 
+position 10:7 29:19  procedural 26:8 
+procedure 25:10 
+procedures 24:2 
+proceeded 19:11 
+product 47:2 
+prohibit 28:18 
+37:24 55:23 
+
+33:14 39:4 48:6 
+55:11 
+
+possessed 56:21 
+possession 3:23 
+possibility 37:6 
+possible 19:6 
+potentially 29:16 
+practical 18:3,6 
+
+41:1 
+
+19:2,4,9 55:10,21 
+55:25 
+
+practice 7:13 24:2 
+
+24:17 25:10 
+
+precedent 55:6 
+precise 25:16 
+precisely 5:4 20:1 
+25:4,5 26:2 27:4 
+28:1 30:22 36:3 
+38:17 56:13 
+
+15:16,19 34:9,19 
+35:14 37:8,21 
+51:3 57:11 
+
+prohibited 4:10,11 
+8:12,15,18,22 9:1 
+9:19 10:14,18,19 
+23:9,12,15 28:5 
+33:8 34:17 40:15  published 39:4 
+46:24 47:17 49:16  pump 20:22 
+49:25 50:4,12 
+55:4 57:22,22 
+58:15 
+
+purpose 16:23 
+53:16 54:13 
+
+publicly 3:22 39:3 
+
+purposes 33:9 47:2 
+
+prohibiting 3:12 
+14:18 28:14,21 
+33:7 
+
+48:12 53:23,24 
+54:2 
+
+pursuant 10:2,19 
+10:20 11:21 12:7 
+25:3 28:7 
+
+preexisting 47:9 
+prepared 22:23,24 
+presence 57:22 
+presented 41:12 
+president 16:16,18  prohibitions 8:1 
+
+prohibition 8:13 
+12:8 17:1 33:21 
+33:23 49:25 51:25  put 37:17 
+puts 39:25 
+52:5 
+
+17:25 18:7 19:7 
+19:11,24,25 21:3 
+21:16,19,22 22:6 
+28:2 36:2,7,7 
+43:11 44:3,12,17 
+presidential 40:22 
+presidents 20:19 
+
+11:23 
+
+promote 35:6 37:1  qualified 4:1,5 
+qualifies 10:17 
+promotion 46:15 
+qualify 11:22 12:8 
+promulgate 3:12 
+
+Q 
+
+28:6 
+
+promulgated 4:13 
+
+10:1,20 11:21 
+
+12:10 13:19 
+
+question 5:16 6:12 
+
+referring 5:3 42:9 
+
+49:23 50:13 
+
+refers 13:15 14:15 
+
+23:15 31:25 32:13 
+50:10 51:6 53:6 
+
+reg 25:3 26:5 
+regime 8:14 22:17 
+44:10,22 45:2,8 
+
+regs 4:18 26:20 
+regulation 4:11 8:2 
+9:6 15:6 23:16,20 
+24:22 25:1,8,22 
+26:3,10 28:23 
+30:13 31:19,21 
+32:4 33:4 34:2 
+36:15 38:13 47:16 
+54:10 
+
+regulations 3:12,14 
+4:12 7:20,25 8:16 
+8:17,19,21,23 9:1 
+10:1,9,10,10,11 
+10:19 11:2,21 
+12:6 14:18 16:22 
+20:23 21:6,7,11 
+22:22 23:24 24:1 
+24:1,9,11,13 25:2 
+25:2,9,14 26:3 
+28:6 29:9 30:14 
+33:6 55:22 56:13 
+56:14 57:1 58:4,8 
+
+regulatory 23:11 
+rehnquist 49:4 
+rejected 4:21 5:1 
+5:10 6:5 50:20 
+
+related 47:1 
+relating 24:1 34:19 
+release 7:10 29:7 
+released 35:14 
+relies 14:4 
+relying 54:8,9 
+remedied 43:10,23 
+
+44:2 
+
+R 
+
+r 3:1,11 28:17,18 
+
+28:22 29:10 30:20 
+34:25 37:25 42:13 
+45:24 54:2 
+range 58:12 
+ranges 3:14 
+reach 34:18 48:6 
+read 8:8 12:15 
+
+25:18 28:4 31:22 
+40:14 41:20 42:23 
+50:13 53:14,24 
+
+readily 57:13 
+reading 40:24 43:2 
+real 16:14 29:21 
+
+50:17 
+
+really 5:12 37:7,16 
+38:8 41:14 45:10 
+48:13 50:9 
+
+reason 16:15 25:25 
+26:15 31:15 35:19 
+48:18 
+
+reasonable 3:24 
+
+13:7 57:21 
+
+reasonably 24:12 
+38:12 47:1 57:10 
+57:12 
+
+reasoning 9:13 
+reasons 18:20,24 
+
+18:25 
+
+rebuttal 2:8 54:22 
+received 6:23 
+
+9:4 12:25 16:9,10  recognition 5:17 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 66 
+
+somebody 6:12 
+
+41:15,23 42:2,15 
+42:24,25 43:2,5 
+50:16 51:1,9,10 
+51:10,13,14,18,20  sorry 11:6,25 12:25 
+52:4,4 55:8 
+
+somewhat 41:15 
+
+18:5 38:15 
+
+30:9 
+
+sense 14:6 22:11 
+49:15,22 53:15 
+
+sensitive 3:22 20:4 
+sentence 25:21 
+separate 49:11 
+series 23:4 
+serious 18:7 
+set 17:23 19:8 21:2 
+
+21:5 22:18,20 
+24:5 52:8 
+
+share 44:25 45:10 
+shared 20:4 21:23 
+
+21:25 22:1,5 
+44:20 
+
+shats 28:10 
+shouldnt 41:5 
+showing 25:13 
+side 23:9 32:20 
+
+44:25 56:25 
+signed 22:14 
+signs 20:8 
+similar 53:24 
+simple 38:18 
+simply 10:5 16:16 
+
+22:7 48:19 
+simpson 49:5 
+sims 9:3,8 11:11 
+
+13:18 
+
+single 37:12,13 
+
+39:12 40:5 
+
+situation 23:2,5 
+
+27:22 29:20 37:5 
+40:4 42:20 55:19 
+57:18 
+
+skepticism 23:7 
+
+27:5 
+
+sort 27:23 32:15 
+
+45:14 
+
+sotomayor 7:2,8,15 
+
+12:9,14,17,20 
+13:6,10,25 28:3 
+28:10 29:14 30:16 
+31:2,7 39:1,9 42:3 
+42:16 
+
+sounds 15:8 48:2 
+sources 9:10 13:21 
+
+14:9,10,13,14 
+15:3 58:11 
+
+soviet 38:8 
+spark 14:25 
+special 52:24 53:11 
+specific 8:13 11:22 
+
+12:8 14:1,3,17 
+15:14,20 16:2 
+28:11,19 29:1,1,3 
+30:17 31:1,15 
+32:10 33:21,22 
+34:19 35:25 36:9 
+38:2,22 41:3 43:6 
+43:8 44:4 47:23 
+51:19,22,24 52:5 
+52:9,22 55:13 
+57:10 
+
+specifically 8:11,11 
+
+9:4,11,19 10:14 
+11:15,15,16 23:12 
+33:8 40:15 43:1,2 
+47:17 49:16,23,25 
+50:4,10,12,13 
+51:2 55:4,23 
+57:22 58:4,15 
+specificity 28:24 
+30:1,11 32:25 
+45:14 
+
+specify 5:20 54:2,5 
+specifying 6:16 
+
+50:2,3 
+
+remedy 38:15 
+reply 5:16 29:5 
+
+50:6 
+
+report 13:5,17 
+
+22:21 40:16,17 
+41:8,11,14,15,21 
+41:23 42:2,15,24 
+43:2 48:17 49:1,7 
+49:9,15 50:16,22 
+50:24 51:11,14,21 
+52:4 55:8 
+
+reporter 35:9,12 
+reporting 35:10 
+reports 40:14 41:13 
+request 30:17 42:7 
+requests 53:12 
+require 16:17 
+25:13 36:4,4 
+38:23,24 55:7,9 
+
+required 15:19 
+requirement 37:11 
+
+45:14 
+
+requires 3:24 39:25 
+
+51:3 
+
+requiring 45:13 
+reserve 27:11 
+resource 56:19 
+respect 19:12 28:16 
+28:24 30:23 38:1 
+38:10 40:25 42:15 
+44:22 53:8 
+
+respectfully 58:14 
+respondent 1:20 
+2:7 27:15 34:12 
+34:16 
+
+respondents 55:11 
+responsibilities 
+
+52:7 
+
+responsible 13:21 
+
+35:10 
+
+restrain 27:19 
+restrict 47:8 
+result 8:9 55:9 
+retroactive 5:10 
+revealing 20:11 
+reverse 42:23 47:13 
+
+revised 45:23 
+right 8:19 11:5 
+
+12:14,20 14:16 
+16:20 17:12,17,18 
+18:10,25 19:4 
+20:10 22:2 23:2,6 
+26:18 36:17 38:18 
+45:25 46:3,7 47:5 
+50:5 51:8 52:3,11 
+53:16 57:3,17 
+
+risk 37:18 
+robert 1:7 3:5 
+roberts 3:3 5:14,25 
+6:7,11,19 9:13,16 
+9:21 11:25 20:7 
+22:19 27:12 39:21 
+49:21 54:20 58:19 
+
+robertson 9:3,6 
+
+45:23 46:8 47:18 
+49:15 51:24 54:3 
+says 14:11,18 16:1 
+
+22:21 23:12,19 
+25:7,11 34:7 
+36:23 37:1 38:9 
+40:15 41:16 44:25 
+45:7 47:22 52:3 
+53:10 58:10 
+scalia 8:18,22 
+
+20:17 23:14,18 
+24:3,20 26:6 30:2 
+30:5 33:1 37:1 
+38:5 45:17 48:21 
+48:24 49:6,10 
+51:9,13,16 52:1 
+53:7 54:8,13,16 
+55:16 56:23 57:5 
+
+11:10 12:11 13:7 
+15:13,14 33:10 
+43:4 47:9 53:4 
+
+scenario 39:3 
+schedule 39:5 
+scheme 56:6 
+
+rule 23:15,20 24:22  second 10:18 13:1 
+
+25:1,7,22 26:9 
+33:3 38:13 47:16 
+54:10 
+
+16:16 17:5,16 
+18:8 26:23 28:20 
+33:5 34:16 48:7 
+
+secret 16:17,25 
+
+rules 22:22 23:24 
+24:16,16 25:2,9 
+25:10 26:3,5,5,8,9  secretary 14:21 
+33:6 
+
+31:18 
+
+34:7 
+
+secrets 49:18,20 
+section 3:11 8:9 
+
+13:18 51:25 52:8 
+
+secure 43:19 
+security 1:4 3:5,13 
+
+3:16,22 13:19 
+14:20,22 15:7,10 
+16:23 19:15 21:10 
+29:3,20,25 32:12 
+33:23 35:6 44:5 
+46:12,15,16 48:2 
+54:4 57:14 58:9 
+
+S 
+
+s 2:1 3:1 5:6 30:20 
+
+34:6 48:19 
+
+safety 3:24 28:5 
+
+29:17 34:19 47:2 
+57:11 
+
+safetyrelated 34:9 
+sakes 53:12 
+salutary 20:23 
+satisfy 22:11 31:11 
+save 29:23 
+saved 29:19 
+saying 17:4,22 18:2 
+
+20:9 26:9 30:16 
+33:5 34:13,15,21 
+34:23 36:14 42:17 
+
+see 4:7 5:16 32:1,18  slate 46:19,21 
+
+32:18 40:21 47:13  solely 46:6 
+
+seen 41:9 
+senate 12:23 13:5 
+13:17 23:9 40:16 
+
+solicitor 1:16 
+solution 45:15 
+solve 36:21 
+
+Alderson Reporting Company
+ 
+
+50:10 51:2,5 
+52:22 53:16 55:4 
+55:17,22 57:18 
+58:7,16 
+
+statutes 3:20 7:25 
+18:14 25:14 27:7 
+27:9 33:14 47:11 
+53:3,22 56:8 58:7 
+58:11 
+
+statutory 10:2,19 
+
+10:20 21:15 
+step 13:1 23:3 
+
+57:16 
+
+specter 27:20 
+spend 37:19 
+spin 26:10 
+squarely 8:8 
+ssi 4:1,5,17,20,24 
+
+5:4,11,13,22 6:10 
+6:23,25 7:7,9,13 
+7:14,17,18,21 8:2 
+8:14 11:4 17:20 
+17:23 18:16 19:7 
+20:1,8,9 21:2,12 
+22:12 29:9,9,13 
+36:23 44:12,13,15 
+45:19 56:4,6,25 
+58:7,16 
+staff 41:2 
+staffers 22:22,24 
+staffs 40:10,24 
+standard 38:19 
+
+strikingly 16:4 
+structure 26:19 
+stuff 41:23 
+subject 44:18 
+submitted 58:21,23 
+subsequent 15:25 
+39:12 41:24 45:24  substantial 57:11 
+46:11 53:18 57:9 
+substantive 24:11 
+
+standing 57:23 
+start 27:20 35:2 
+statecontrolled 
+
+35:13 
+
+statement 9:25 
+
+48:3 
+
+states 1:1,13 
+statue 31:17 
+statute 8:15,19 9:2 
+
+26:8 
+
+subtle 26:6,7 
+successful 30:2 
+suddenly 18:6 
+sufficient 14:17 
+
+15:23 
+
+sufficiently 14:16 
+
+15:13 
+
+56:15 
+
+suggests 53:13 
+supervisor 29:23 
+supple 45:3 
+support 50:8 
+suppose 35:11 
+
+9:5,9,12,19 10:6,9  suggesting 22:23 
+10:15 11:1,8,16 
+suggestion 43:10 
+12:15 13:18,20,23 
+14:4,5,8 15:13,15 
+16:24 18:17 23:9 
+23:19 24:19 25:6 
+25:7,11,17 26:18 
+26:25 27:6,8 28:4 
+28:7 30:17 31:1 
+31:14,16,18,21,23  supposed 6:20 9:22 
+32:1,3,14 33:2,16 
+34:16,23,23 35:19  supreme 1:1,13 
+36:9,15,16 38:9 
+42:9 45:18 46:24 
+47:15,18,22 48:7 
+48:8,11,18,19 
+
+23:20 32:2 
+
+sure 14:8 20:15,18 
+21:21 34:5 45:22 
+48:21 
+
+surprise 9:17 
+
+43:16 
+
+suggest 46:22 57:16  template 43:7 
+tempting 31:20 
+term 23:23 27:5 
+
+Official 
+
+surprised 5:16 
+swallow 27:10 
+swedish 17:2 
+sweep 27:8 48:19 
+
+49:17 
+
+sweeps 25:1 
+sylvania 46:24 
+system 17:20,23 
+
+18:13,16 19:8,17 
+19:19,23 20:1,2,5 
+20:8,9 21:3,5 
+22:13 38:25 44:12 
+44:13,23 56:4 
+
+systems 3:17 36:5 
+
+T 
+
+t 2:1,1 
+take 19:3 22:11 
+
+35:18 38:9,9,10 
+43:16 53:14,23 
+
+talk 31:18 43:3 
+talked 22:20 
+talking 16:24 18:11 
+19:20 44:11 50:21 
+58:19 
+
+tell 5:18 13:12 
+31:20 57:19 
+telling 15:3,4 
+tells 40:17 
+
+55:13 
+
+terminated 11:1 
+terms 25:24 32:7 
+territory 19:24 
+terrorist 15:1 
+terrorists 35:16 
+test 24:10 25:15 
+testimony 4:24 
+text 43:5 47:14 
+50:9 53:6 54:9 
+55:21 
+
+texturally 47:13 
+thank 27:12,16 
+
+54:16,18,18,20,24 
+
+58:20 
+
+thats 4:6,21 7:11 
+
+8:3,20 10:3 11:10 
+13:10,19,23 15:9 
+15:21,22 21:1 
+23:2 27:3 29:18 
+31:5 32:2,3 33:16 
+33:24 36:9 37:1 
+38:8,19 39:24 
+40:6,18,19 41:14 
+41:17 43:6,19 
+46:1,18,19 47:4 
+48:21 51:21 52:15 
+53:9 54:11,14 
+
+thered 48:13 
+theres 7:12 11:6 
+
+14:14 17:6 33:24 
+37:21 42:1 43:3 
+43:18,21 46:23 
+50:8 53:11 56:9 
+56:15 
+
+theyre 22:1 
+theyve 37:13,14 
+
+39:17 
+
+thing 26:12 29:23 
+
+44:4 49:13 
+
+things 33:20 37:12 
+42:2 44:16 49:17 
+58:9 
+
+think 4:6 5:11,21 
+6:15 7:23 8:25 
+9:2,24 10:4,18 
+11:10 13:2,16,24 
+13:24,25 14:3 
+18:12,13,25 19:6 
+20:14,15 21:1 
+22:16 23:2,2,5,22 
+23:25 24:18 26:1 
+26:16 27:4,9,24 
+28:8,24 29:2 31:7 
+31:8 32:7,9,10,15 
+32:22,24,24,25 
+33:5,19 35:3,4,24 
+37:9 38:4,8,14,20 
+39:7,10 40:2,3,4 
+41:1,6,7,23,24 
+
+Page 67 
+
+42:12,19,22 44:19 
+45:13 46:9,10,11 
+47:5,6,12,16,21 
+47:22,24,25 48:15 
+49:14,16 50:2,9 
+50:10,12,17,21 
+51:22 52:16,17,18 
+53:1,17 55:5,14 
+55:19 56:3 57:17 
+
+thinks 43:19,22 
+thought 7:3 11:2 
+
+18:6,25 22:2 32:2 
+37:5 39:25 40:19 
+40:21 46:14 54:8 
+54:9 
+
+threaten 38:10 
+threats 56:18 
+three 31:25 32:5 
+39:18,20 41:13 
+threepart 24:10 
+
+25:15 
+
+tied 31:19 
+time 27:11 29:21 
+
+37:12,14 39:12,24 
+40:4,5 49:20 50:7 
+
+times 37:13 
+tittle 45:16 
+today 10:8 21:8 
+
+36:21 55:5 56:1 
+
+told 4:1,15,16 
+tools 34:14 
+trade 49:18,19 
+trained 6:22,22 
+training 4:17 6:23 
+transcontinental 
+
+6:2,13 
+
+transit 20:5 
+transportation 
+
+3:13 14:23 15:4,7 
+28:5 29:3,17 
+32:12 33:24 46:12 
+46:16 48:2 54:4 
+
+tricky 21:24 
+trouble 32:4 
+troubled 39:1 
+true 24:20 46:18 
+
+Alderson Reporting Company
+ 
+
+try 42:21 44:23 
+trying 47:19 49:17 
+ts 5:11 
+tsa 3:11,14 4:13 5:2 
+
+17:16 18:7 21:20  wellestablished 
+44:23 45:23 48:7 
+48:10,17 53:18 
+
+went 10:1 26:18 
+
+24:8,9 25:12 
+
+5:3,7 6:17 21:9 
+28:5 30:3 35:10 
+43:19,22 56:17,22  various 35:24 
+
+v 1:6 3:5 
+
+V 
+
+tsas 3:20,21 48:3 
+tuesday 1:10 
+turn 8:5 
+two 10:6 13:11 19:2 
+
+39:10 
+
+view 23:6 26:24 
+27:4 36:6,7,9 
+42:23 
+
+violation 34:18 
+
+25:23 28:17,17,25  views 28:17 
+33:9 36:5,11 
+40:17 42:1 44:9 
+48:1 50:25 53:3,4 
+53:14,22 55:1 
+type 24:11 32:6 
+
+38:13 39:8 45:18 
+57:6 
+
+void 57:1 
+vote 49:6,8 51:9,10 
+
+42:10 
+
+51:14 
+
+types 13:16 31:8,25  voted 26:13 52:1 
+
+Official 
+
+32:21 
+
+work 4:7 17:24 
+19:18 20:1,14 
+43:15 56:3,4 
+working 35:12 
+worried 18:3,4,19 
+38:20 54:16,19 
+whats 5:22,22 20:7  worry 16:14 17:9 
+17:12 18:7 19:1 
+33:1 56:1,24 
+
+weve 22:16 44:10 
+
+whisteblower 
+
+55:25 
+
+52:12 
+
+whistle 38:7 39:23 
+whistleblow 37:11 
+whistleblower 3:20  wpa 33:15 34:18 
+
+20:24 23:10 36:8 
+46:9 
+
+19:1 
+
+write 40:11 
+
+wrote 40:22,24 
+
+8:7,10 20:21 
+27:18 28:1 30:23  writing 46:19,20 
+30:25 33:20 35:1  wrong 4:2 18:21 
+35:22 38:1,3,7 
+39:11,17 40:1 
+42:22 44:19 47:12 
+50:19,22,25 52:1 
+52:14,24 53:2,8 
+54:5 56:11 57:7 
+whistleblowers 
+37:15,17 39:14,18  yeah 20:7 48:21 
+39:20,23 40:6 
+57:2 
+
+x 1:2,8 
+
+52:20 
+
+years 37:19 40:18 
+
+X 
+
+Y 
+
+36:24 
+
+wouldnt 17:24 19:1  13556 21:18 22:6 
+
+Page 68 
+
+102 13:18 50:16,20 
+51:24,24 52:2,5,8 
+52:9 58:9 
+
+103a 4:22 
+11 4:12,13 58:22 
+114 3:11 28:17,18 
+
+28:22 30:20 34:25 
+37:25 42:13 45:24 
+54:2 
+
+13894 1:6 3:4 
+1520 29:10 
+154 43:4 51:20 
+15a 10:23 11:19 
+
+12:3,3 
+
+1947 13:19 
+
+2 
+
+2 29:10 31:24 
+2014 1:10 
+203 39:16 
+2302 8:8 
+2306 51:25 
+24 41:9 
+2640 34:6 
+27 2:7 
+
+3 
+
+3 2:4 13:18 31:17 
+
+31:22 45:24 46:3 
+46:11,21 50:16,20 
+51:24,24 52:2,5,9 
+58:9 
+
+34 39:15 
+
+4 
+
+4 1:10 54:21 
+400 16:22 
+46110 5:6 
+49 5:5 29:10 
+4day 29:21 
+
+5 
+
+5 29:10 
+50 6:1,14 
+52 45:2 
+54 2:10 
+
+51:6 
+
+U 
+
+u 5:6 34:6 48:19 
+unauthorized 
+
+13:22 
+
+unaware 4:19 
+uncharted 19:23 
+unclassified 21:19 
+
+22:4 
+
+uncleared 45:1,11 
+uncovered 34:18 
+underlying 53:16 
+undermine 18:15 
+understand 21:14 
+
+35:20 45:23 47:22 
+49:2 
+
+understanding 
+
+32:10 47:24 
+
+understood 4:2 
+5:13 10:3 12:5 
+
+unelected 37:2 
+unfolding 29:20 
+union 38:8 
+united 1:1,13 
+urge 43:1 
+use 10:6 16:16 
+
+votes 49:2 
+vulnerabilities 3:16 
+
+W 
+
+walking 36:22 
+want 7:15 18:9 
+
+20:21,21 28:10 
+31:2 33:17 37:2 
+whistleblowing 
+40:9 41:17 46:9 
+wanted 21:16 35:4  whopping 39:18 
+47:10 48:5,19 
+52:10 
+
+57:9 
+
+wide 58:12 
+wiser 52:21 
+withheld 13:16 
+
+wants 43:23 
+washington 1:9,17 
+
+1:19 
+
+wasnt 4:3 7:9 8:18 
+
+37:7 58:19 
+
+way 7:19 11:10,11 
+12:15 16:1 21:15 
+30:11 32:10 37:1 
+39:21 47:21,24 
+48:9 52:21,23 
+53:19 56:7 57:17 
+ways 35:24 36:11 
+
+44:9 53:15 
+wedge 52:13 
+weighing 9:8 
+
+15:16 31:9 42:10 
+51:3,7 
+
+withhold 31:4 34:8 
+
+42:17 
+
+withholding 13:15 
+
+31:25 51:6 
+
+withstanding 34:8 
+won 39:17,18,20 
+wont 35:5 
+word 42:25 43:2 
+47:23 51:7,7,19 
+words 29:2 30:21 
+39:23 46:10 48:6 
+49:19,25 
+
+41:10 50:25 
+
+youd 32:19 
+youre 13:11 17:4 
+
+17:18 18:25 34:15 
+42:17 45:23 46:5 
+youve 18:10 28:20 
+
+49:22 
+
+Z 
+
+0 
+
+000 3:20 16:22 
+27:21 36:19 
+
+05 58:22 
+06 1:14 3:2 
+
+1 
+
+1 29:10 31:23 
+10 1:14 3:2 34:6 
+100 47:11 
+100a 4:22 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 69 
+
+56 39:19
+ 
+
+6
+ 
+
+60 3:20 5:7 27:21 
+
+36:19 
+
+7
+ 
+
+8
+ 
+
+8 8:8 27:25 28:25 
+
+33:3 35:25 36:11 
+36:25 38:21 
+
+9
+ 
+
+9 4:12,13
+ 
+
+Alderson Reporting Company
+ 
+
+

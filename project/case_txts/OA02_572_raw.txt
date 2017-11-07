@@ -1,0 +1,4340 @@
+ IN THE SUPREME COURT OF THE UNITED STATES
+
+
+- - - - - - - - - - - - - - - -X
+
+
+INTEL CORPORATION, 
+
+ Petitioner 
+
+:
+
+
+:
+
+
+ v. 
+
+:  No. 02-572
+
+
+ADVANCED MICRO DEVICES, INC.  :
+
+
+- - - - - - - - - - - - - - - -X
+
+
+ Washington, D.C.
+
+
+ Tuesday, April 20, 2004
+
+
+ The  above-entitled  matter  came  on  for  oral
+
+
+argument before  the Supreme Court of the United States at
+
+
+11:04 a.m.
+
+APPEARANCES:
+
+
+SETH P. WAXMAN, ESQ., Washington, D.C.; on behalf of the
+
+
+ Petitioner.
+
+
+CARTER G. PHILLIPS, ESQ., Washington, D.C.; on behalf of
+
+
+ the amicus curiae, supporting the Petitioner. 
+
+
+PATRICK LYNCH, ESQ., Los Angeles, California; on behalf of
+
+
+ the Respondent.
+
+
+JEFFREY P. MINEAR, ESQ., Assistant to the Solicitor
+
+
+ General, Department of Justice, Washington, D.C.; on
+
+
+ behalf of the United States, as amicus curiae,
+
+
+ supporting the Respondent.
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+1111 14th Street NW, Suite 400 
+
+1
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ C O N T E N T S
+
+
+2  ORAL ARGUMENT OF 
+
+3  SETH P. WAXMAN, ESQ.
+
+
+4
+
+ On behalf of the Petitioner 
+
+5  CARTER G. PHILLIPS, ESQ.
+
+
+6
+
+7
+
+ On behalf of the amicus curiae, 
+
+
+ supporting the Petitioner 
+
+8  PATRICK LYNCH, ESQ.
+
+
+9
+
+ On behalf of the Respondent 
+
+10  JEFFREY P. MINEAR, ESQ.
+
+
+PAGE
+
+
+3
+
+
+16
+
+
+25
+
+
+11
+
+12
+
+ On behalf of the United States, 
+
+
+ as amicus curiae, supporting the Respondent 
+
+54
+
+
+13  REBUTTAL ARGUMENT OF
+
+
+14  SETH P. WAXMAN, ESQ.
+
+
+ On behalf of the Petitioner 
+
+x
+
+
+15
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+1111 14th Street NW, Suite 400 
+
+2
+
+
+Alderson Reporting Company
+
+
+Washington, DC 20005 
+
+1
+
+2
+
+3
+
+ P R O C E E D I N G S 
+
+ CHIEF JUSTICE  REHNQUIST:  We'll hear  argument 
+
+ (11:04 a.m.) 
+
+4  next  in  No. 02-572,  the  Intel Corporation  v. Advanced 
+
+5  Micro Devices. 
+
+6
+
+7
+
+8
+
+9
+
+ Mr. Waxman. 
+
+ ORAL ARGUMENT OF SETH P. WAXMAN 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR.  WAXMAN: 
+
+Mr. Chief  Justice,  and  may it 
+
+10  please the Court: 
+
+11
+
+ 28 U.S.C., section 1782 authorizes discovery for 
+
+12  use  in  a  proceeding  in  a  foreign  or  international 
+
+13  tribunal, upon application by an interested person.  Those 
+
+14  are  words of indeterminate  scope.  No one in  this case 
+
+15  contends that  they should  be  applied to  the limits  of 
+
+16  definitional  possibility,  that  words  like  interested 
+
+17  person,  for  use  in,  proceeding  require  a  contextual 
+
+18  interpretation, and the  context in this case is comity in 
+
+19  discovery.  As -- in  language that everyone in this  case 
+
+20  quotes, the 1964  Senate report characterized  the statute 
+
+21  as for the purpose of, quote, adjusting U.S. procedures to 
+
+22  the requirements of foreign practice and procedure. 
+
+23
+
+ And with  respect to  the question  presented in 
+
+24  this case, there are three  salient, completely undisputed 
+
+25  facts. 
+
+1111 14th Street NW, Suite 400 
+
+3 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ Number  one,  EC  law  denies  an  antitrust 
+
+2  complainant any discovery rights for anything at any stage 
+
+3  of the proceeding however long or short it may go. 
+
+4
+
+ Number two, if AMD had  filed its complaint with 
+
+5  the Antitrust Division  of the  Justice Department or  the 
+
+6  FTC,  it  would  likewise  have  no  discovery  rights 
+
+7  whatsoever. 
+
+8
+
+ And  third,  the  EC,  which  can  obtain  these 
+
+9  documents directly from Intel, has not only declined to do 
+
+10  so in this case, but has unequivocally represented to this 
+
+11  Court  that permitting parties  that file  complaints with 
+
+12  it, thereby to  invoke section  1782, will interfere  with 
+
+13  its governmental functions. 
+
+14
+
+ QUESTION:  Mr. Waxman,  I -- I -- it  seems to 
+
+15  make a lot of sense, but I need a -- I need a -- a hook to 
+
+16  hang it on.  I need some  language in that text  which -­
+
+17  which would enable me  to say, oh,  it means you only  get 
+
+18  discovery  when  there would  have  been discovery  in the 
+
+19  foreign proceeding.  But I -- I don't  -- I don't see any 
+
+20  language that gets me anywhere near that. 
+
+21
+
+22
+
+ MR. WAXMAN:  Justice --
+
+ QUESTION:  You  can fall back, I suppose,  on -­
+
+23  on  guided discretion  until, you  know, we  can tell  the 
+
+24  lower  courts never  to  do  it  unless its  available  in 
+
+25  foreign -- but I don't see it in the language. 
+
+1111 14th Street NW, Suite 400 
+
+4 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR.  WAXMAN: 
+
+Justice  Scalia,  I'm 
+
+--  
+
+I'm 
+
+2  confident that our successive briefs  in this case provide 
+
+3  a number of  hooks, but I'm going  to give you one  or two 
+
+4  that I think  are particularly applicable with  respect to 
+
+5  textual interpretation,  although obviously we  also would 
+
+6  urge the Court, because this is a procedural statute,  not 
+
+7  one that grants  substantive rights, that it  can and must 
+
+8  announce general  rules of supervisory power  that outline 
+
+9  where a -- where discretion ends and abuse begins because 
+
+10  another operative word in the statute is may. 
+
+11
+
+ But  since we're talking  with text, let's look, 
+
+12  for  example,  at  the  word,  interested  person. 
+
+The 
+
+13  innovation of  the statute is it said, okay, you can grant 
+
+14  discovery either pursuant to a letter rogatory, et cetera, 
+
+15  et  cetera,  which  is  the  ordinary  way  in  which 
+
+16  international discovery is invoked by foreign tribunals or 
+
+17  foreign  sovereigns, or by an interested  person.  Now, no 
+
+18  one in  this case  says that  interested person should  be 
+
+19  given  its  plain  meaning,  otherwise  we  would  have 
+
+20  essentially  a universal  private  freedom of  information 
+
+21  act.  And so -­
+
+22
+
+ QUESTION:  I understand that.  But I am looking 
+
+23  or a word in here  that -- that similarly requires  you to 
+
+24  decide  whether  the  foreign  court  itself  would  allow 
+
+25  discovery. 
+
+1111 14th Street NW, Suite 400 
+
+5 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+2
+
+ MR. WAXMAN:  Well, we -- we think --
+
+ QUESTION:  Which is -- which is the -- the major 
+
+3  point you were addressing. 
+
+4
+
+5
+
+6
+
+ MR. WAXMAN:  Yes. 
+
+ QUESTION:  I don't see any -- any -­
+
+ MR.  WAXMAN:  Everybody will come  -- everybody 
+
+7  who argues  today will  give you  some definition  of what 
+
+8  interested person is, and none  of them are the limits  of 
+
+9  definitional  possibility.  So you've  got to  give  it a 
+
+10  construction  that  is  consistent  with the  history  and 
+
+11  purpose of the statute. 
+
+12
+
+ QUESTION:  Why  not at least  a complainant?  I 
+
+13  mean, the  person who is seeking the discovery here is the 
+
+14  complainant, the one who comes  to the commission and says 
+
+15  investigate. 
+
+16
+
+ And I understand  your third point.  Your first 
+
+17  two points  puzzle me because  there is no  counterpart in 
+
+18  European  schemes  to  our  out-of-court  discovery. 
+
+It 
+
+19  doesn't exist.  It all takes  place under the  control of 
+
+20  the  court and  the direction  of the court.  And  on the 
+
+21  other hand, the -- the  animal that the EC antitrust  unit 
+
+22  is is  nothing like our Antitrust Division where the -- we 
+
+23  don't have  that blending.  You don't have  a complainant 
+
+24  who has a right before that commission to submit evidence, 
+
+25  to be present  at their -- if they -- if  they do have  a 
+
+1111 14th Street NW, Suite 400 
+
+6 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  hearing.  We don't  have a  complaining party  before the 
+
+2  Antitrust  Division  that  has  a  statutory right  to  be 
+
+3  present at a  hearing.  So you  -- the -- the  systems are 
+
+4  different and you can't compare them on both points. 
+
+5
+
+ MR. WAXMAN:  To be -- to be sure -- to be sure, 
+
+6  Justice  Ginsburg. 
+
+And  you  will  hear 
+
+--  
+
+you  know, 
+
+7  everybody has their own favorite contextual interpretation 
+
+8  of  words like interested  person or for use  in.  But the 
+
+9  context of this  statute is discovery, and the purpose, as 
+
+10  made pellucidly clear,  is to  reduce the significance  of 
+
+11  international  boundaries in  discovery.  And  therefore, 
+
+12  what we say, with  respect, is you should  read interested 
+
+13  person to  mean an entity that has at least some discovery 
+
+14  rights to something at some  stage of the process, whether 
+
+15  it's pending or imminent or reasonably foreseeable. 
+
+16
+
+ QUESTION:  Some -- some discovery rights in this 
+
+17  country? 
+
+18
+
+ MR. WAXMAN:  In -- in the foreign country, that 
+
+19  is, for the foreign sovereign who's being assisted. 
+
+20
+
+ Now -- now, AMD suggests  that oh, no,  no, no, 
+
+21  no. 
+
+Another purpose  of  the statute  was  the imperial 
+
+22  export of, quote, liberal American  discovery rules.  Now, 
+
+23  we think that's wrong, but even if it were right, it would 
+
+24  be unavailing  in this case because it  is undisputed that 
+
+25  if they  had filed a complaint  with any of  the antitrust 
+
+1111 14th Street NW, Suite 400 
+
+7 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  regulatory authorities here, they would  be entitled to no 
+
+2  discovery whatsoever.  And therefore, at least  you ought 
+
+3  to interpret interested  person to  mean a private  entity 
+
+4  that  has  no discovery  rights  whatsoever either  in the 
+
+5  foreign proceeding or would have it here. 
+
+6
+
+ I  mean,  the very  premise  of, quote,  liberal 
+
+7  American discovery is that it  is available when a private 
+
+8  party  undertakes the  obligations  of  being a  litigant. 
+
+9  That  is, you file a  -- you can't  get discovery based on 
+
+10  some  speculation  that  you  have  a  lawsuit.  You  get 
+
+11  discovery when  you undertake  the obligations  consistent 
+
+12  with rule 11 of pleading a case.  And what they are trying 
+
+13  to do -- there is no case, reported case,  decided by any 
+
+14  court in the long history of this -­
+
+15
+
+ QUESTION:  But  even so, if  you take a  typical 
+
+16  civil law proceeding  a -- between private  litigants, you 
+
+17  can't go out and get discovery on your own.  The court has 
+
+18  to authorize it, and the order for discovery will come not 
+
+19  from  a subpoena that  you sent as a  private party.  It's 
+
+20  just -- they don't -- so  if we were to interpret it  your 
+
+21  way, then you would say, well,  that no private party in a 
+
+22  civil  law  system  that  doesn't  know  from  pretrial 
+
+23  discovery, doesn't have anything like pretrial  discovery, 
+
+24  could  never  get  any  documents,  could  never  get  any 
+
+25  testimony. 
+
+1111 14th Street NW, Suite 400 
+
+8 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR. WAXMAN:  Justice Ginsburg, I -- I think -- I 
+
+2  mean, I  think this Court ought to announce that since the 
+
+3  manifest  purpose  of  the statute  is  to  assist, quote, 
+
+4  foreign  tribunals and  litigants before  those tribunals, 
+
+5  that the indeterminate words of the statute should be read 
+
+6  in  that context.  But  even  if you  wanted to  say that 
+
+7  discovery would be  available at least on  a discretionary 
+
+8  basis, to someone who has some discovery rights somewhere, 
+
+9  if  they were to file  this type of  action in some place, 
+
+10  that would also be useful to the lower courts. 
+
+11
+
+ And there -- it is simply irrational to say that 
+
+12  a  statute  that  was  enacted  in  order  to  reduce  the 
+
+13  significance of international boundaries would create this 
+
+14  giant  loophole  that  creates  ubiquitously  universally 
+
+15  unavailable  discovery,  just  because  somebody  has 
+
+--
+
+16  happens  to  bring  an  administrative  complaint  in  one 
+
+17  country and seeks to receive  documents that are available 
+
+18  in this country when he or she couldn't have received them 
+
+19  if he had sued here and where the foreign, quote, tribunal 
+
+20  has stated  as a categorical matter that resort to section 
+
+21  1782  by  complainants  before  it  will  affirmatively 
+
+22  undermine its sovereign governmental processes. 
+
+23
+
+ QUESTION:  What happens  when AMD  goes to  the 
+
+24  court of  first instance,  disappointed with  what the  EU 
+
+25  commission or  that the EU committee has done, and then it 
+
+1111 14th Street NW, Suite 400 
+
+9 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  goes to  the court of first  instance?  Can  that court of 
+
+2  first instance in its discretion order any discovery? 
+
+3
+
+ MR. WAXMAN:  I believe,  Justice Kennedy,  that 
+
+4  the  answer to  that question  is no.  I'm sure  that Mr. 
+
+5  Phillips, on behalf of the EC, will  be able to correct me 
+
+6  if I'm wrong.  But whether it can -­
+
+7
+
+ QUESTION:  I'm  sure he'll -- I'm  sure he'll be 
+
+8  glad you asked him to do that. 
+
+9
+
+10
+
+ (Laughter.) 
+
+ MR.  WAXMAN:  Well,  I'm giving him  at least 15 
+
+11  minutes advance -- 10 minutes advance warning. 
+
+12
+
+ The point  here, I  think, in  response to  your 
+
+13  question, Justice Kennedy, as whether it could or couldn't 
+
+14  is a feature of a sovereign determination by the countries 
+
+15  that make  up the  European  Community.  If discovery  is 
+
+16  available in that  proceeding, there's  no doubt that's  a 
+
+17  court  proceeding  and  that's  a  proceeding  before  a 
+
+18  tribunal.  And whatever discovery rights -­
+
+19
+
+20
+
+21
+
+22
+
+ QUESTION:  But I'm talking, Mr. Waxman -­
+
+ MR. WAXMAN:  -- whatever --
+
+ QUESTION:  Mr. Waxman -­
+
+ QUESTION:  That's  -- that's why I asked  and it 
+
+23  would  seem 
+
+--  
+
+let's  assume that  the  court  of  first 
+
+24  instance could  order and in the usual  course would order 
+
+25  some sort of discovery.  Would that change your case here? 
+
+1111 14th Street NW, Suite 400 
+
+10 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR. WAXMAN:  It -- it  wouldn't at all.  If it 
+
+2  could, then, you know, a 1782 request could be made in the 
+
+3  unlikely event that the EC or the court couldn't simply do 
+
+4  what it can  do now, which is  order Intel to  produce the 
+
+5  documents. 
+
+I  mean,  that's 
+
+--  
+
+that's  the  jarringly 
+
+6  anomalous result that they're seeking. 
+
+7
+
+ QUESTION:  Mr.  Waxman, I  thought it was  clear 
+
+8  that the court proceeding is a review of  the record as it 
+
+9  comes to  the court from the commission, that is, that the 
+
+10  only proof-taking stage is before  the commission and that 
+
+11  the EC courts, both the tribunal of first instance and the 
+
+12  ECJ, review  on the record that  exists.  They  don't take 
+
+13  any proof. 
+
+14
+
+ MR. WAXMAN:  I believe that's correct,  and our 
+
+15  -- they call -- they say that  this puts them in a, quote, 
+
+16  Catch-22 or  a conundrum, but it does nothing of the sort. 
+
+17
+
+ The question before the court of first instance may be -­
+
+18  and  this  is  assuming  a  lot  of  speculative  things 
+
+19  including, among  others, that they  are disappointed with 
+
+20  what the EC  does and that the EC doesn't do what it could 
+
+21  do any day, including this afternoon, which is order Intel 
+
+22  to produce these documents,  but assuming documents aren't 
+
+23  produced and  the EC decides, as we fervently hope, not to 
+
+24  proceed  against Intel  and -- and  they decide  that it's 
+
+25  worth  it to  go to the  court of  first instance  and the 
+
+1111 14th Street NW, Suite 400 
+
+11 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  review will  only be on the  record that the  EC compiled, 
+
+2  under European Community law ipso facto the question would 
+
+3  be whether or not the EC or DG comp erred in declining the 
+
+4  request to obtain these documents. 
+
+5
+
+ I mean,  you -- we -- we don't have a proceeding 
+
+6  -- let's say in a -- just  a regular lawsuit in the United 
+
+7  States.  I'm -- you know, Intel is suing AMD.  Intel wants 
+
+8  certain discovery.  AMD objects.  The judge says, I'm not 
+
+9  going  to  grant that  discovery.  I  don't  really think 
+
+10  that's necessary.  We don't have  a procedure.  You'd be 
+
+11  laughed  out  of court  if  you came  in  and said,  well, 
+
+12  nonetheless, we want it produced so that if we lose before 
+
+13  this  court proceeding and  we go  up on appeal,  we'll be 
+
+14  able to  argue not only that the district judge abused his 
+
+15  discretion in denying discovery, but we want to be able to 
+
+16  show what those documents would  say.  I mean, nobody  has 
+
+17  such a procedure. 
+
+18
+
+ And  to  the  extent  that  there's any,  quote, 
+
+19  conundrum  here -- and  frankly, I don't see  it -- it's a 
+
+20  conundrum that  is the result of the way that the European 
+
+21  Community has chosen to organize its processes. 
+
+22
+
+ QUESTION:  I  think the -- the difficulty  is -­
+
+23  is, well, what are the rules.  What you say sounds as  if 
+
+24  it makes  a lot of sense,  but there are three  aspects to 
+
+25  the case. 
+
+1111 14th Street NW, Suite 400 
+
+12 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ Starting backwards is, can a private party bring 
+
+2  this?  The  answer is yes.  You  agree it's yes.  But you 
+
+3  want to say  not always.  So  then you have  a rule  that 
+
+4  you've just enunciated now of who definitely couldn't. 
+
+5
+
+ And as to the second, I guess -- I mean, I'm not 
+
+6  sure that's the  right rule, frankly.  Maybe we'd  figure 
+
+7  that out.  Maybe it is. 
+
+8
+
+ The second part.  I found an opinion  by Justice 
+
+9  Ginsburg where she has a rule which is in the D.C. Circuit 
+
+10  which says about  how close it has  to be in time,  and my 
+
+11  guess  is  that  you  will say  that's  okay,  but  I'd be 
+
+12  interested if you don't. 
+
+13
+
+ And  as to the  first part about,  well, yes, we 
+
+14  agree this  is a  person who  can get  discovery, but  not 
+
+15  here, now, there I don't see any rule at all.  So I'd like 
+
+16  to know your views on that. 
+
+17
+
+18
+
+ MR. WAXMAN:  Well -­
+
+ QUESTION:  I mean, you  want to follow their -­
+
+19  all right. 
+
+20
+
+ So my two  questions are, is  Justice Ginsburg's 
+
+21  approach to the time problem okay with you? 
+
+22
+
+23
+
+24
+
+ MR. WAXMAN:  No.  We think -­
+
+ QUESTION:  No.  All right. 
+
+ MR. WAXMAN:  -- that insofar -- well, we  think, 
+
+25  first  of  all,  as  the EC  has  explained,  there  is no 
+
+1111 14th Street NW, Suite 400 
+
+13 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  proceeding before a tribunal and there won't be unless and 
+
+2  until one of  these two parties ever decides to  go to the 
+
+3  European -­
+
+4
+
+5
+
+6
+
+ QUESTION:  Well, that -- her quote --
+
+ MR. WAXMAN:  And -­
+
+ QUESTION:  Let me -- I  better quote this.  It 
+
+7  says  you have  to  have to  get  this discovery  reliable 
+
+8  indications  of the  likelihood that  proceedings will  be 
+
+9  instituted within a reasonable time. 
+
+10
+
+11
+
+ MR. WAXMAN:  Right. 
+
+ QUESTION:  Now, you might win under that for the 
+
+12  very reason you state. 
+
+13
+
+ MR.  WAXMAN:  I  think  we certainly  would win 
+
+14  under it.  We think on  balance that when the  request is 
+
+15  made  by a  private  party,  not  a foreign  sovereign  or 
+
+16  tribunal, that the request should  be made by somebody who 
+
+17  is a  litigant in pending litigation but that at the most, 
+
+18  if the court were  to say, well, okay, even in the context 
+
+19  in which there is a private who's not even a litigant yet, 
+
+20  we're  going  to  allow  discovery  to be  obtained  where 
+
+21  litigation is, as  the Second Circuit has  said, imminent, 
+
+22  that is, reasonably likely to occur and reasonably soon to 
+
+23  occur,  because otherwise  discovery  by private  parties, 
+
+24  prior to the -- the initiation of any proceedings before a 
+
+25  tribunal  is ubiquitously  unavailable unlike  the context 
+
+1111 14th Street NW, Suite 400 
+
+14 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  of, for example, an investigating magistrate or a criminal 
+
+2  prosecutor  where  it  almost  always  is  universally 
+
+3  available, and the 1996 amendment  to the statute reflects 
+
+4  that. 
+
+5
+
+ QUESTION: 
+
+Do  you  have  any  explanation for 
+
+6  elimination of the word pending from the statute? 
+
+7
+
+ MR.  WAXMAN: 
+
+None,  particularly  since  the 
+
+8  legislative  history -- the language  of the  legislative 
+
+9  history that explains  the statute continues to use it, it 
+
+10  seems to me that what they -- what they -- it  most likely 
+
+11  reflects the fact that  they wanted to include the  French 
+
+12  investigating  magistrates 
+
+--  
+
+and  I  won't  mangle  the 
+
+13  language by  trying to  give the  French pronunciation 
+
+--
+
+14  where  it  was  arguable  whether that  was  or  wasn't  a 
+
+15  tribunal.  They wanted  to -- to cover it  and therefore 
+
+16  pending wouldn't  necessarily have  been required  in that 
+
+17  context. 
+
+18
+
+ But  I don't think  -- there  is not a  shred of 
+
+19  evidence that when Congress considered this statute at any 
+
+20  point in its  legislative development, it  ever considered 
+
+21  -- and it had  no reason in the cases to  ever consider -­
+
+22  an outlandish request  where a private party  that doesn't 
+
+23  have any  discovery rights at  this stage anywhere  in any 
+
+24  country no matter  where it files  such a complaint  would 
+
+25  thereby  get  them  as  a  windfall  by  means  of  this 
+
+1111 14th Street NW, Suite 400 
+
+15 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  anachronism. 
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+ May I reserve the balance of my time? 
+
+ QUESTION:  Very well, Mr. Waxman. 
+
+ Mr. Phillips, we'll hear from you. 
+
+ ORAL ARGUMENT OF CARTER G. PHILLIPS 
+
+ ON BEHALF OF THE AMICUS CURIAE, SUPPORTING THE PETITIONER 
+
+ MR. PHILLIPS:  Thank you, Mr. Chief Justice, and 
+
+8  may it please the Court: 
+
+9
+
+ Justice Kennedy, the answer  to your question is 
+
+10  that  the  court  of  first  instance  does not  have  the 
+
+11  authority to order discovery. 
+
+12
+
+ But  Justice  Ginsburg,  the  answer  to  your 
+
+13  question is that the court of first instance does have the 
+
+14  authority to  say, in response to an argument made by AMD, 
+
+15  that we  have not adequately explained why  we didn't take 
+
+16  that  information into  account.  And  we  know from  the 
+
+17  briefs  that  AMD  has  a  pretty  good  idea  what  that 
+
+18  information entails and therefore would  be in a perfectly 
+
+19  adequate  position  to  go  first,  obviously,  to  the 
+
+20  commission  and say this  is why  we want you  to consider 
+
+21  this information. 
+
+22
+
+ And  then second, in  the event that  we were to 
+
+23  issue a refusal  to go forward with  the proceeding, which 
+
+24  we have to explain, frankly, in quite excruciating detail, 
+
+25  that's then  subject to  very much  plenary review  by the 
+
+1111 14th Street NW, Suite 400 
+
+16 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  court  of  first  instance  and  ultimately the  Court  of 
+
+2  Justice. 
+
+3
+
+ QUESTION:  And the court of first instance can't 
+
+4  expand the record. 
+
+5
+
+ MR. PHILLIPS:  No.  The court of first instance 
+
+6  does not expand the record.  It, like our Federal  courts 
+
+7  reviewing  agency decision-making,  has  the authority  to 
+
+8  send the  matter back to the agency to review the question 
+
+9  a second time. 
+
+10
+
+ QUESTION:  Where does this proceeding stand now? 
+
+11  I  mean, this is  a discovery  request and it's  pretty -­
+
+12  it's been pending pretty long.  Has the commission made no 
+
+13  preliminary determination? 
+
+14
+
+ MR. PHILLIPS:  The  commission has  not made  a 
+
+15  preliminary determination.  I think  it's important to put 
+
+16  it in context.  This is a  -- an abuse of  monopoly power 
+
+17  claim based on a large  number of contracting arrangements 
+
+18  between  Intel  and  a  lot of  its  customers. 
+
+And the 
+
+19  question -- and so there's a serious question of having to 
+
+20  review a  lot of market data in order to determine whether 
+
+21  or not there appears to be a pattern of abuse or a problem 
+
+22  that's worthy of going forward with. 
+
+23
+
+ So the commission has for  some time been taking 
+
+24  a  very  hard look  at  the  nature  of  the  market,  has 
+
+25  obviously  talked to AMD,  has talked  to Intel.  I think 
+
+1111 14th Street NW, Suite 400 
+
+17 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  that's  an important aspect  of this  case that  the Court 
+
+2  ought to have in mind, is that -- and -- and it's  part of 
+
+3  the  comity  concerns that  I think  ought to  animate the 
+
+4  Court's analysis of  this problem.  The commission  has an 
+
+5  orderly process and that process may, at some day, require 
+
+6  it to  ask Intel to provide these  particular documents or 
+
+7  other documents.  We don't know. 
+
+8
+
+ But what we don't want frankly is for  a private 
+
+9  entity to run to a United States court and use essentially 
+
+10  the commission  as  a pawn  in an  effort  to obtain  pre­
+
+11  complaint discovery.  That's pre-complaint both pre in the 
+
+12  United States complaint and pre-complaint in the -- before 
+
+13  the European Commission.  If  at some point in the  future 
+
+14  we need assistance, we know  how to obtain that assistance 
+
+15  on our  own.  We don't require,  quote, interested parties 
+
+16  to do so. 
+
+17
+
+18
+
+ In our -- in our assessment of the case and -­
+
+ QUESTION:  How does that  fit in the rule then? 
+
+19  I mean, what kind of -- what kind of a  rule of law is it? 
+
+20  I mean, what do you -- how do you fit that in? 
+
+21
+
+22
+
+ MR. PHILLIPS:  We -- we --
+
+ QUESTION:  Do you say  if the commission doesn't 
+
+23  want it, then don't give it  to them, but if they do  want 
+
+24  it, do?  How does this fit? 
+
+25
+
+ MR. PHILLIPS:  Well -­
+
+1111 14th Street NW, Suite 400 
+
+18 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  How  do you interpret the  statute to 
+
+2  get the result that you're arguing for? 
+
+3
+
+ MR. PHILLIPS:  Let  me give  you a  preliminary 
+
+4  answer and then I'll tell you -- the -- the real answer as 
+
+5  how -- we would interpret  it through the  word tribunal. 
+
+6  That's the statutory  hook that the commission  feels most 
+
+7  comfortable with. 
+
+8
+
+ QUESTION: No, a tribunal -- I don't think  it is 
+
+9  a tribunal probably, but I'll hear more on the other side. 
+
+10  But still,  there is a tribunal  in the offing  and that's 
+
+11  the tribunal  that will be there if the commission decides 
+
+12  to enforce this. 
+
+13
+
+ MR.  PHILLIPS:  To be sure, Justice Breyer.  But 
+
+14  the Ninth Circuit's  decision was  based on an  assessment 
+
+15  that the preliminary  actions taken  by the commission  in 
+
+16  this particular  case are such  that render us  a tribunal 
+
+17  within the meaning of the statute, which was  the explicit 
+
+18  basis  on  which  the  court  of  appeals  ordered  this 
+
+19  information to  be  evaluated at  least on  remand by  the 
+
+20  district court.  And  -- and our position is,  at least to 
+
+21  the extent  that this  Court is  going to  adopt an  -- an 
+
+22  approach  akin to  that by  Judge  Friendly in  the Second 
+
+23  Circuit opinion involving the Indian tax collectors, which 
+
+24  looks to  see whether or not the  adjudicative function is 
+
+25  distinct  from  the  investigative functions,  our  answer 
+
+1111 14th Street NW, Suite 400 
+
+19 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  would be that we are  not that kind of a tribunal.  We -­
+
+2  everything we do is investigative.  We do not perform -­
+
+3
+
+ QUESTION:  That would do it, but they have -- I 
+
+4  think  they have the alternative ground here, that even if 
+
+5  you're not  a tribunal,  the Ninth  Circuit says  it could 
+
+6  lead  to  a proceeding  in  the court  of  first instance. 
+
+7  Don't they say that somewhere in their opinion? 
+
+8
+
+ MR. PHILLIPS:  They make that argument, but that 
+
+9  would be an alternative theory. 
+
+10
+
+ QUESTION:  All right.  So as long as they  make 
+
+11  that argument, then I can't say, okay, I've got the result 
+
+12  there that -- that they're  arguing for, assuming  you're 
+
+13  right,  that -- that  just by  using this thing  about the 
+
+14  tribunal. 
+
+15
+
+16
+
+ MR. PHILLIPS:  Well -­
+
+ QUESTION:  All right.  Now, so -- so what  else 
+
+17  could we use to get to your desired end with this statute? 
+
+18
+
+ MR.  PHILLIPS: 
+
+Well, the 
+
+--  
+
+the  next step, 
+
+19  obviously, and it's not one that the commission argues for 
+
+20  specifically, but it's one that -- that Intel makes, which 
+
+21  is that even if -- if you're going to use the court as the 
+
+22  ultimate tribunal,  then what  is the  nexus between  this 
+
+23  request  for  information  and a  proceeding  before  that 
+
+24  court.  That's  so far off into the future.  It certainly 
+
+25  implicates the  earlier  D.C. Circuit  opinion by  Justice 
+
+1111 14th Street NW, Suite 400 
+
+20 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  Ginsburg, et cetera. 
+
+2
+
+ QUESTION:  I assume that  the EU committee would 
+
+3  be a tribunal under the first sentence if it asked for the 
+
+4  documents. 
+
+5
+
+ MR. PHILLIPS:  No, it would not regard itself as 
+
+6  a tribunal under those circumstances.  If we wanted  these 
+
+7  documents, we -- we would seek them  either directly from 
+
+8  the parties  or through some other mechanism.  This is not 
+
+9  a  mechanism that the -- that the commission itself views 
+
+10  as available to it to seek documents.  We would go through 
+
+11  government  officials.  We would go  to the FTC.  We would 
+
+12  go to the Department of  Justice to seek information.  We 
+
+13  might  go  to  our 
+
+--  
+
+our  member  countries  to  seek 
+
+14  information, or we would go  to parties over whom we  have 
+
+15  direct jurisdiction to seek information.  But 1782 is  not 
+
+16  a provision that  the commission views itself  as -- views 
+
+17  as available to it, nor does it  want to be used as a pawn 
+
+18  by -- by  private entities seeking to employ its processes 
+
+19  as  a  mechanism  to  obtain  pre-trial 
+
+--  
+
+pre-complaint 
+
+20  discovery that's available under no other circumstances. 
+
+21
+
+ The 
+
+--  
+
+the  over-arching  argument  that  the 
+
+22  commission would like the -- the Court to take away  from 
+
+23  this is -- is a question  of if you  have to decide  on a 
+
+24  contextual basis, because  the language of the  statute is 
+
+25  not unambiguous  and therefore  you have  to come  up with 
+
+1111 14th Street NW, Suite 400 
+
+21 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  some limiting  principles, the commission urges  the Court 
+
+2  to recognize that the use of  discovery in this -- the use 
+
+3  of  this  statute  in  this  particular way  is  a  direct 
+
+4  interference. 
+
+It  risks  the  release  of  confidential 
+
+5  information.  It  increases the  burden on the  commission 
+
+6  and  the  workload that  it  has,  and  it  allows  us  to 
+
+7  unseemingly -- unseemingly being  used -- unseemly  being 
+
+8  used as  a pawn  in this  kind of  -- in  this kind  of an 
+
+9  effort at discovery.  And we would ask -­
+
+10
+
+ QUESTION:  How does it increase the commission's 
+
+11  workload? 
+
+12
+
+13
+
+ MR. PHILLIPS:  Well, it -- it --
+
+ QUESTION:  In the sense  that you look at it  if 
+
+14  they give it to you? 
+
+15
+
+ MR.  PHILLIPS: 
+
+In  that  sense  and  it  also 
+
+16  provides an incentive. 
+
+17
+
+ QUESTION:  Why -- why don't  you just say we're 
+
+18  not going to look at -­
+
+19
+
+ MR. PHILLIPS:  It -- it provides an  incentive 
+
+20  for more  filings with the commission in order to use this 
+
+21  device in  order to  obtain discovery  that you  otherwise 
+
+22  could not get.  And I think there's good reason to suspect 
+
+23  that it  may be  used.  Certainly if this  Court were  to 
+
+24  uphold what  AMD attempted to accomplish here,  I would be 
+
+25  quite worried about other plaintiffs in future cases using 
+
+1111 14th Street NW, Suite 400 
+
+22 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  this particular device. 
+
+2
+
+ And  remember, there  are no  rule 11  sanctions 
+
+3  that  are  available  for  a  filing  with  the  European 
+
+4  Commission.  You don't  have to  be a  lawyer  to file  a 
+
+5  complaint with  the European  Commission.  It requires  a 
+
+6  relatively minimal  amount of effort.  It's  a letter that 
+
+7  identifies a  particular problem  and asks the  commission 
+
+8  then to go forward and take a look at it.  Therefore, it's 
+
+9  a -- it's  essentially a  costless exercise by  plaintiffs 
+
+10  using the commission, I submit, in a way that I would hope 
+
+11  the Court would find inappropriate  and therefore ought to 
+
+12  resolve the ambiguities, whether you do it on the basis of 
+
+13  tribunal or for use of or proceeding -- and the commission 
+
+14  would not  presume to tell this Court how to interpret the 
+
+15  language of  its statute,  but whatever  choice you  make, 
+
+16  whichever  statutory hook  you  look  for, the  commission 
+
+17  would ask that this Court interpret the statute narrowly. 
+
+18
+
+ QUESTION:  What about the  one that comes up in 
+
+19  the reply brief?  And it -- and this is Intel's brief.  So 
+
+20  I'm wondering  if the commission shares the view that 1782 
+
+21  is meant to  deal with  procuring evidence  in the  United 
+
+22  States from a third party,  not from the party before  the 
+
+23  commission, not from Intel because the commission can tell 
+
+24  Intel you  give -- give us  these documents.  But  it must 
+
+25  refer to people who are not before the court. 
+
+1111 14th Street NW, Suite 400 
+
+23 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR.  PHILLIPS:  Yes,  well,  the commission  is 
+
+2  certainly supportive of that notion because the commission 
+
+3  believes  that  when  and  if  it  needs  these 
+
+--  
+
+this 
+
+4  information,  it will be  able to obtain  it directly from 
+
+5  the party.  That is the  easiest undertaking in  order to 
+
+6  obtain  information that  the commission has  available to 
+
+7  it.  So to the extent the Court  wants to draw that line, 
+
+8  certainly the  commission would be quite  comfortable with 
+
+9  that  line. 
+
+Again,  of  course,  the  commission  is 
+
+10  uncomfortable  telling you how  to decide the  case -- the 
+
+11  statutory -- the specific statutory language. 
+
+12
+
+ Let me just -- one  last point.  The last  thing 
+
+13  in the  world the commission really  wants is to  have 800 
+
+14  district  courts  deciding  this issue  on  a case-by-case 
+
+15  basis exercising their  discretion.  It  seems to us  that 
+
+16  that is an intolerable burden to impose on the commission. 
+
+17  It  cannot monitor all litigation in  the United States in 
+
+18  order  to make  its interests  and concerns  known.  And, 
+
+19  therefore,  it  is  terribly  important  that  this  Court 
+
+20  announce a  rule, either as a  supervisory matter or  as a 
+
+21  matter  of  statutory  construction, that  will  limit the 
+
+22  ability of the commission to be used, as I say, as  a pawn 
+
+23  in this discovery effort. 
+
+24
+
+ QUESTION: 
+
+What 
+
+--  
+
+what's our  authority  to 
+
+25  announce a  supervisory rule?  What's your best  case for 
+
+1111 14th Street NW, Suite 400 
+
+24 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  that? 
+
+2
+
+ MR. PHILLIPS:  Oh, geez.  I don't -- off the top 
+
+3  of my head -- I mean, the commission didn't examine  it -­
+
+4  that particular issue specifically, Justice Kennedy.  I'm 
+
+5  -- I'm hoping that my  colleague in rebuttal will be  able 
+
+6  to give -­
+
+7
+
+ QUESTION: 
+
+Interpretation  of  what  comity 
+
+8  consists of in this instance. 
+
+9
+
+ MR. PHILLIPS:  Well, the -- the comity principle 
+
+10  are the cases like McCulloch and the -- and the -- that we 
+
+11  cited in the brief, and obviously Charming Betsy.  I mean, 
+
+12  those are rules of interpretation that we have, but that's 
+
+13  not 
+
+--  
+
+that doesn't  answer  Justice Kennedy's  specific 
+
+14  question. 
+
+15
+
+16
+
+17
+
+18
+
+19
+
+ QUESTION:  Thank you, Mr. Phillips. 
+
+ Mr. Lynch, we'll hear from you. 
+
+ ORAL ARGUMENT OF PATRICK LYNCH 
+
+ ON BEHALF OF THE RESPONDENT 
+
+ MR. LYNCH:  Mr. Chief Justice, and may it please 
+
+20  the Court: 
+
+21
+
+22
+
+ I'd like to underline three points. 
+
+ First of all,  the question  of the EC's  comity 
+
+23  concerns. 
+
+Those  concerns  deserve  respect,  but 
+
+24  emasculating section 1782 is not the proper way to respect 
+
+25  those concerns.  Privilege is really the  right answer to 
+
+1111 14th Street NW, Suite 400 
+
+25 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  the EC's concerns and the right answer  to counsel's last­
+
+2  expressed  concern  about  800  district  judges  reaching 
+
+3  different conclusions in different cases. 
+
+4
+
+ As to the  second question, whether or  not this 
+
+5  is a proceeding before a  tribunal, which seems to be  the 
+
+6  heart  of  this  case, when  Congress  enacted  or amended 
+
+7  section 1782 in 1965, it is absolutely clear that Congress 
+
+8  intended to extend  the rights granted under  section 1782 
+
+9  to  proceedings  in  foreign countries  that  were  quasi­
+
+10  judicial  and administrative in  nature.  And it  is also 
+
+11  quite  clear that  Congress  did  not  know  and  did  not 
+
+12  consider it necessary to know all the different shapes and 
+
+13  forms  that  administrative  law  might  take  in  other 
+
+14  jurisdictions. 
+
+15
+
+ QUESTION:  In Israel, for example, if you have a 
+
+16 
+
+--  
+
+a  criminal  prosecutor,  it  looks  just  like  our 
+
+17  prosecutor.  My  understanding is that the  one difference 
+
+18  is that a victim could go to court to force the prosecutor 
+
+19  to bring a prosecution.  So does that  mean now under this 
+
+20  statute, because of  that one difference,  all prosecutors 
+
+21  in  Israel are open  to this  -- our tribunals  under this 
+
+22  statute? 
+
+23
+
+ MR. LYNCH:  Well, I  -- I think that the  -- the 
+
+24  question  of  whether  a victim  is  an  interested person 
+
+25  arises -­
+
+1111 14th Street NW, Suite 400 
+
+26 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  No, no.  I'm  not -- that's  not the 
+
+2  part I'm getting  at.  I am  saying it's easy to  think of 
+
+3  people whom, when we look at them, they are precisely like 
+
+4  a  human  being  in  the  U.S.  Attorney's  office,  and 
+
+5  everything they do every day is just like a U.S. Attorney, 
+
+6  but for  one thing, that somebody who  wants a prosecution 
+
+7  to be brought  can get  a court to  review a decision,  no 
+
+8  prosecution. 
+
+Now,  I'm  asking  you  if  that  single 
+
+9  difference is sufficient to translate this into a tribunal 
+
+10  under the act. 
+
+11
+
+ MR.  LYNCH: 
+
+Your Honor,  I  believe  that the 
+
+12  answer is that the court to which you can go in Israel and 
+
+13  ask them to  direct the prosecutor to bring  a prosecution 
+
+14  has to be a tribunal within the meaning of the statute. 
+
+15
+
+ QUESTION: 
+
+No.  Now,  you're  not  getting my 
+
+16  questions. 
+
+17
+
+ MR.  LYNCH: 
+
+But  the  prosecutor  is  not  a 
+
+18  tribunal. 
+
+19
+
+ QUESTION:  I don't want to just repeat it again. 
+
+20  Did you  not understand the question?  The question is I'm 
+
+21  imaging a person like  a U.S. Attorney, exactly  the same, 
+
+22  and there's only the one difference I mentioned.  Somebody 
+
+23  can go ask a judge to  say did he abuse his discretion  in 
+
+24  not bringing  this  RICO case.  Okay? 
+
+That's the  only 
+
+25  difference.  Now, I'm asking you if we had such  a person, 
+
+1111 14th Street NW, Suite 400 
+
+27 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  does that make him a tribunal under the act. 
+
+2
+
+ MR. LYNCH:  A person -- the prosecutor would not 
+
+3  be a tribunal. 
+
+4
+
+5
+
+6
+
+ QUESTION:  Fine.  If that's so -­
+
+ MR. LYNCH:  The --
+
+ QUESTION:  -- and I  agree with you -- how  does 
+
+7  this  particular  tribunal  differ  from  the one  I  just 
+
+8  described? 
+
+I  don't  mean a  tribunal. 
+
+How  does the 
+
+9  commission differ from that prosecutor I just described? 
+
+10
+
+ MR. LYNCH:  Because under  the European rules of 
+
+11  procedure which I can't relate to Israel, but I can relate 
+
+12  to the United States --
+
+13
+
+ QUESTION:  Forget Israel.  I might even be wrong 
+
+14  about Israel. 
+
+15
+
+16
+
+17
+
+18
+
+ MR. LYNCH:  Under the --
+
+ QUESTION:  You've got my question. 
+
+ MR. LYNCH:  Under the --
+
+ QUESTION:  And  I want to  know how they  differ 
+
+19  from what I just said. 
+
+20
+
+ MR.  LYNCH: 
+
+Under  the  European  rules  of 
+
+21  procedure, Justice  Breyer, the -- the European Commission 
+
+22  has to  consider the facts,  has to apply  the law  to the 
+
+23  facts, has  to reach a decision  which is reviewable  by a 
+
+24  court.  This is not -­
+
+25
+
+ QUESTION:  And that differs  from my case, which 
+
+1111 14th Street NW, Suite 400 
+
+28 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  was our  U.S. Attorney who can be brought to court for not 
+
+2  prosecuting  on  those  kinds of  grounds. 
+
+You  said it 
+
+3  doesn't  apply  to  him,  and  now  you're  more  or  less 
+
+4  repeating  what  I said  was  the  special  feature of  my 
+
+5  imaginary U.S. Attorney. 
+
+6
+
+7
+
+ MR. LYNCH:  Well --
+
+ QUESTION:  So is -- you can elaborate on that or 
+
+8  give me another one too. 
+
+9
+
+ MR. LYNCH:  I believe that the -- the process I 
+
+10  described is a classic example  of quasi-judicial activity 
+
+11  by an  administrative body.  It would be  an adjudication 
+
+12  under the Administrative Procedure Act. 
+
+13
+
+ QUESTION:  The  prosecutor has no  authority on 
+
+14  his own to impose a  fine.  Right?  He can just  bring the 
+
+15  case to court,  and I think what you're saying is that the 
+
+16  commission here  does have  authority on  its own  to take 
+
+17  action against a party.  That -- now, that action that  it 
+
+18  takes will  be reviewable,  but it  can impose  a fine  or 
+
+19  require  the -- the  selling of some of  the assets of the 
+
+20  company and so forth.  Isn't that right? 
+
+21
+
+22
+
+23
+
+ MR. LYNCH:  Yes.  Yes, Your Honor. 
+
+ QUESTION:  That's very important.  That's -­
+
+ QUESTION:  That's different.  That's different 
+
+24  from what a  prosecutor can do.  He can't -- he  can't do 
+
+25  anything on his own. 
+
+1111 14th Street NW, Suite 400 
+
+29 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR.  LYNCH:  He  cannot do anything  on his own. 
+
+2  He does not have the power to issue fines. 
+
+3
+
+ QUESTION:  And  so what is the  difference there 
+
+4  between -- and I -- I'm serious about this question.  What 
+
+5  is the -- what -- all my questions are serious. 
+
+6
+
+7
+
+ (Laughter.) 
+
+ QUESTION:  But  this  is -- I  don't know  the 
+
+8  answer  to  this.  What  is  the  difference specifically 
+
+9  between  the EU saying  you pay  $10 million and  the U.S. 
+
+10  Attorney saying  we want him to  pay $10 million?  What's 
+
+11  the difference there procedurally? 
+
+12
+
+ MR. LYNCH:  The  -- the  order of  the EC,  the 
+
+13  order of the  commission is a final,  enforceable judgment 
+
+14  in Europe unless the party,  the respondent to that order, 
+
+15  takes an appeal to the  community courts.  And that  would 
+
+16  be the same as an order of the NLRB or an order of one  of 
+
+17  our  administrative  agencies  which  is  enforceable  but 
+
+18  subject to judicial review.  I don't want to -­
+
+19
+
+ QUESTION:  When they review  it, do they give  a 
+
+20  leg up to the commission? 
+
+21
+
+ MR.  LYNCH: 
+
+When 
+
+--  
+
+when  the 
+
+--  
+
+the 
+
+22  commission -­
+
+23
+
+ QUESTION:  If it goes to court, is the -- is the 
+
+24  issue in the court  in the EU an issue like  review of the 
+
+25  NLRB, that the  NLRB wins, unless they're  quite wrong, or 
+
+1111 14th Street NW, Suite 400 
+
+30 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  is it like a court  reviewing a decision of the  Antitrust 
+
+2  Division to bring a tying  case where the court will  say, 
+
+3  we'll make up  our mind on our  own?  You know,  they know 
+
+4  something about it, so do we.  Which is it? 
+
+5
+
+ MR. LYNCH:  It -- I think it's some of both.  If 
+
+6  the -- if the --
+
+7
+
+ QUESTION:  It has to be either one or the other. 
+
+8  They -- they either have to give deference to the agency, 
+
+9  as we did, or they're  making this decision on their  own. 
+
+10  And so -­
+
+11
+
+ MR.  LYNCH: 
+
+If  the  agency  purports  to  be 
+
+12  deciding on  a question of law,  like is this  tying, they 
+
+13  would  review the decision  of the  agency the same  way a 
+
+14  U.S.  court would and  say, whether  or not this  is tying 
+
+15  under article  82 or article 81, is  ultimately a decision 
+
+16  of law and  ultimately the community courts  have the last 
+
+17  word  on it.  If  they  were making  a decision,  was the 
+
+18  procedure that was  followed here adequate, did the -- did 
+
+19  the commission properly weigh the  evidence, did it pursue 
+
+20  the  right evidence,  they would  give -- they  would give 
+
+21  deference to  the commission's  ability to  decide how  to 
+
+22  conduct its process.  So there's a great deal -­
+
+23
+
+24
+
+ QUESTION:  How about fact-finding? 
+
+ MR. LYNCH:  The fact-finding process is  -- I'm 
+
+25  -- I'm at  a loss to relate  it to U.S. process.  There's 
+
+1111 14th Street NW, Suite 400 
+
+31 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  not like a substantial evidence -­
+
+2
+
+ QUESTION:  No, I'm  not talking  about process. 
+
+3  I'm  saying  does  the  reviewing  court  defer  to  the 
+
+4  commission's finding of fact. 
+
+5
+
+ MR. LYNCH:  It -- I think it clearly defers, but 
+
+6  I  can't  find  that  standard  of  review  because  the 
+
+7  commission  has  been  reversed in  the  Guerin  case, for 
+
+8  example, which is cited in the briefs.  The commission has 
+
+9  been reversed because  the facts  before it, according  to 
+
+10  the reviewing court, established a violation -­
+
+11
+
+ QUESTION:  My impression, which only  comes from 
+
+12  the newspapers, is that the courts there are taking a much 
+
+13  more active role and it's  becoming like they're vis-a-vis 
+
+14  the  Antitrust  Division  and it's  not  like  vis-a-vis a 
+
+15  commission.  But is that -- my -­
+
+16
+
+17
+
+18
+
+ MR. LYNCH:  I would -- I would say -­
+
+ QUESTION:  I'm wrong on that. 
+
+ MR. LYNCH:  -- with -- with all respect, I would 
+
+19  say  it would be  like this  Court vis-a-vis  the district 
+
+20  courts  or vis-a-vis administrative agencies as opposed to 
+
+21  prosecutors. 
+
+22
+
+ And where -- where I started on this  point was 
+
+23  that  in  enacting  1782, Congress  did  not  undertake to 
+
+24  dictate  Europe or  to  any  other  country in  the  world 
+
+25  exactly our standards of administrative procedure. 
+
+1111 14th Street NW, Suite 400 
+
+32 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  But did  it -- did it  undertake to 
+
+2  dictate to  us that  we should  exceed our  standards?  I 
+
+3  mean, I can understand the -- the argument that you -- you 
+
+4  mustn't, in effect, limit the -- the discovery here by the 
+
+5  discovery that they could have  had over there because who 
+
+6  knows what it  -- I mean, we're just  not experts in that, 
+
+7  and it's hard to find out. 
+
+8
+
+ We  are,  however,  at  least  closer  to  being 
+
+9  experts  on  what American  law  would  provide. 
+
+Is  it 
+
+10  plausible to think that Congress  was, in -- in  extending 
+
+11  this  great  example to  the  world, extending  an example 
+
+12  which  would provide  even  more generous  discovery  than 
+
+13  American law would in a domestic antitrust proceeding? 
+
+14
+
+ MR. LYNCH:  Your Honor, I think that is a false 
+
+15  premise here.  The difference between what's  going on in 
+
+16  Europe and  what's going on here  is that Europe  gave AMD 
+
+17  one and  only  one  Europe-wide  remedy.  In  the  United 
+
+18  States,  we could  have brought  a private  action  in the 
+
+19  district court for these very same violations.  In Europe, 
+
+20  our only Europe-wide remedy  was to go to the  commission. 
+
+21  The European authorities as --
+
+22
+
+ QUESTION:  So,  in other  words, you're  simply 
+
+23  saying we can't -- we could sue here.  We can't sue there. 
+
+24  Therefore, you've  got to, in effect, give us the right of 
+
+25  a  litigant  here even  though  we  are  not  there  in  a 
+
+1111 14th Street NW, Suite 400 
+
+33 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  litigant's position. 
+
+2
+
+ MR. LYNCH:  With all respect, I would say we are 
+
+3  in  a  litigant's position. 
+
+Under our  interested party 
+
+4  rules -­
+
+5
+
+ QUESTION:  But not  in -- not in the  sense of 
+
+6  being a  party as  -- as  you would  be if  you brought  a 
+
+7  private antitrust complaint.  That's all I meant. 
+
+8
+
+ MR.  LYNCH:  In  the sense  of being a  party in 
+
+9  that our application has the  same standing under European 
+
+10  procedural law as a complaint  would have here, that  when 
+
+11  we file  that complaint, the commission ipso facto owes us 
+
+12  an obligation to make an adjudication.  It cannot, just as 
+
+13  a  matter of discretion, disregard our complaint.  It must 
+
+14  make a  reasoned decision applying law  to the facts.  It 
+
+15  must consider the evidence. 
+
+16
+
+ QUESTION:  Okay.  So you, in effect, I think are 
+
+17  telling  me,  yes,  we'll  accept  the  position  that  we 
+
+18  shouldn't  be better off  than we  would be in  the United 
+
+19  States  if you realize  that we are in  the position of an 
+
+20  American  plaintiff  right  now.  That's 
+
+--  
+
+that's your 
+
+21  answer. 
+
+22
+
+ MR. LYNCH: 
+
+I'm -- I  would say  it  slightly 
+
+23  differently, that whether  you call us in  the position of 
+
+24  an American  plaintiff right now or whether  you say there 
+
+25  is no direct analogy, we  are a litigant in any  practical 
+
+1111 14th Street NW, Suite 400 
+
+34 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  sense of the word. 
+
+2
+
+ The commission  in its  brief acknowledges  that 
+
+3  when you get down to that last  step, they are acting as a 
+
+4  tribunal. 
+
+They  are  making  a reasoned  determination. 
+
+5  They're -- they're  doing everything that our  Due Process 
+
+6  Clause -­
+
+7
+
+8
+
+9
+
+ QUESTION:  Do they -- do they -­
+
+ QUESTION:  May I go -­
+
+ QUESTION:  Must  they consider  -- and  I  -- I 
+
+10  think this  is along the lines  of what Justice  Souter is 
+
+11  asking,  so I  hope  I'm  not  interrupting. 
+
+Must  they 
+
+12  consider any evidence you give them? 
+
+13
+
+14
+
+ MR. LYNCH:  They must. 
+
+ QUESTION:  Or can they say that it's -- that -­
+
+15  that there's a -- certain relevancy rules that -- that you 
+
+16  must adhere to? 
+
+17
+
+18
+
+ MR. LYNCH:  Well --
+
+ QUESTION:  Because what's happening, it seems to 
+
+19  me, is that you want to force them to consider things they 
+
+20  don't want to consider. 
+
+21
+
+ MR. LYNCH:  Well, I -- with all respect, I don't 
+
+22  know  that they've ever  said they don't  want to consider 
+
+23  it.  The indication we have  is that they  don't have the 
+
+24  resources as  -- as an enforcement agency to go after this 
+
+25  material which we think would be highly relevant. 
+
+1111 14th Street NW, Suite 400 
+
+35 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ But the answer to your question is, according to 
+
+2  the -- to the court of first instance, the European Court 
+
+3  of Justice, they must consider the  evidence we put before 
+
+4  them.  Like a  district court, they  could presumably say 
+
+5  this is irrelevant evidence, but they -­
+
+6
+
+ QUESTION:  But haven't  they,  in effect,  said 
+
+7  that?  They said, please, we don't -- we don't want this. 
+
+8
+
+ MR. LYNCH:  They have not said that.  They have 
+
+9  -- the -- the commission tells us -- and I believe counsel 
+
+10  has indicated  -- if we present the evidence, they have an 
+
+11  obligation to consider it  and they have an obligation  to 
+
+12  deal with  that in their decision.  And they  must make a 
+
+13  reasoned decision which is reviewed by the court -­
+
+14
+
+15
+
+16
+
+ QUESTION:  But they don't want it. 
+
+ QUESTION:  Isn't the --
+
+ QUESTION:  But they don't want it.  They've also 
+
+17  said they don't want it.  They said, if you give it to us, 
+
+18  we'll look at it, we have to, but frankly, we'd rather you 
+
+19  go away.  Isn't that what they've said? 
+
+20
+
+21
+
+ (Laughter.) 
+
+ MR.  LYNCH:  No  -- no  one connected  with the 
+
+22  commission  has  said  that  to  us. 
+
+And  the 
+
+--  
+
+the 
+
+23  commission's  briefs  I  guess  are  capable  of  that 
+
+24  interpretation in  this Court.  But what -- what the staff 
+
+25  working with us says is that they don't want to ask for it 
+
+1111 14th Street NW, Suite 400 
+
+36 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  because of whatever decision they'd  make.  But they  have 
+
+2  no have no  objection to us asking  for it.  We  told them 
+
+3  about this  proceeding before we filed  it.  We  kept them 
+
+4  informed every step of the way. 
+
+5
+
+6
+
+ To go back -­
+
+ QUESTION:  May -- may I go back to the -- to the 
+
+7  one point  of your answer that -- that continues to bother 
+
+8  me?  And it may be that I -- I don't understand something. 
+
+9  So that's what I want you to help me on. 
+
+10
+
+ I thought their  argument was that when  you say 
+
+11  your  present  position is  just  like the 
+
+--  
+
+or is  the 
+
+12  position of a  litigant, the difference  between you as  a 
+
+13  litigant over there and you as a litigant here is -- is a 
+
+14  difference in  -- in  effect, in  responsibility.  You at 
+
+15  least at not supposed to  bring an irresponsible complaint 
+
+16  in the United  States.  You can  be sanctioned if you  do. 
+
+17  They,  I think,  are  implying that  you  don't have  that 
+
+18  obligation  of  responsibility  over  there and  therefore 
+
+19  simply by filing  a complaint, without anything  more, you 
+
+20  get  a free  ticket to  discovery, whereas your  ticket to 
+
+21  discovery if you were suing  in the United States, is  not 
+
+22  free because you would have to meet a certain threshold of 
+
+23  responsibility  before you  bring it,  and therefore  your 
+
+24  positions aren't the same. 
+
+25
+
+ What is the answer to that? 
+
+1111 14th Street NW, Suite 400 
+
+37 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR.  LYNCH: 
+
+There  is  no  rule  11  for  any 
+
+2  proceeding brought in the European  Commission.  They have 
+
+3  no direct  rule 11.  They have  great power over the firms 
+
+4  that come before  them, and  they're perfectly capable  of 
+
+5  protecting themselves from frivolous activity. 
+
+6
+
+ I think  the difference  between the  commission 
+
+7  and us is this.  When I finish or when  the last person to 
+
+8  speak  finishes,  this Court  will  say the  matter stands 
+
+9  submitted.  The commission  is arguing,  in effect,  that 
+
+10  it's not litigation  until the commission says  the matter 
+
+11  stands submitted.  And there's this momentary  point when 
+
+12  they're a  tribunal and  the door  slams shut.  Then  the 
+
+13  court  of review says,  you didn't come  to the commission 
+
+14  and offer your evidence. 
+
+15
+
+ It's taken us nearly 3 years to -- to get access 
+
+16  to this evidence, which we  wish to put before the  court. 
+
+17  We are like any litigant in the United States who wants to 
+
+18  say that the  body charged with  enforcing the labor  law, 
+
+19  the body  charged with enforcing  the occupational  safety 
+
+20  law,  has not  properly conducted  its due diligence.  We 
+
+21  have a proprietary  interest in  our own  right of  coming 
+
+22  forward and presenting persuasive evidence to the -­
+
+23
+
+ QUESTION: 
+
+Mr.  Lynch,  can  I  ask  you  this 
+
+24  question? 
+
+25
+
+ MR. LYNCH:  Yes, sir. 
+
+1111 14th Street NW, Suite 400 
+
+38 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION: 
+
+It's  prompted  by  Mr.  Waxman's 
+
+2  argument.  Because you  filed a complaint, you say  you're 
+
+3  an interested person.  Is that right? 
+
+4
+
+ MR. LYNCH:  We  can't be  an interested  person 
+
+5  just by filing  a complaint.  There  are -- there are  the 
+
+6  equivalent of --
+
+7
+
+8
+
+9
+
+ QUESTION:  Why not? 
+
+ MR. LYNCH:  -- of standing requirements --
+
+ QUESTION:  I was -- I was going to ask you, what 
+
+10  if  you just filed  an affidavit  with the  district court 
+
+11  that you intended to file a complaint? 
+
+12
+
+13
+
+14
+
+ MR. LYNCH:  We would -­
+
+ QUESTION:  Would you then be interested? 
+
+ MR. LYNCH:  We believe  that -- that the minimum 
+
+15  that would be required is some proceeding underway. 
+
+16
+
+ QUESTION:  So you would agree that there is some 
+
+17  latitude  for  construing  just  the  scope  of  what  an 
+
+18  interested person is. 
+
+19
+
+ MR. LYNCH:  Well, yes.  I think the  interested 
+
+20  person  has to  have  a -- a  place as  of  right in  the 
+
+21  proceeding which -- in which the  aid is sought,  whether 
+
+22  that's a district  attorney, whether it might be  a victim 
+
+23  in Israel, whether it's a  competitor.  But under European 
+
+24  law,  not  just  anybody  can  walk  in  and  file  these 
+
+25  complaints.  You have to be  a competitor or  a consumer. 
+
+1111 14th Street NW, Suite 400 
+
+39 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  They're  exactly the  same standing  requirements that  we 
+
+2  have under our antitrust law.  And -- and the  commission 
+
+3  has issued regulations which are quite clear, that -- that 
+
+4  you must have standing to bring such a complaint. 
+
+5
+
+6
+
+ Now --
+
+ QUESTION:  So you have  to -- you would have  to 
+
+7  look to  foreign law to determine whether the person is an 
+
+8  interested person. 
+
+9
+
+ MR.  LYNCH:  I think  that's a U.S. law question 
+
+10  under 1782. 
+
+11
+
+ QUESTION: 
+
+But  there  has  to  be  a  pending 
+
+12  proceeding, you're saying, because you obviously can't  be 
+
+13  a party if there's no proceeding yet. 
+
+14
+
+ MR. LYNCH:  Well,  again, to  take some  of the 
+
+15  cases like Justice Ginsburg's case in the D.C. Circuit,  a 
+
+16  proceeding could  be in  reasonable contemplation  when an 
+
+17  official file  has been opened  to investigate.  I  think 
+
+18  that's what -­
+
+19
+
+ QUESTION:  Then -- then  you're saying you could 
+
+20  have come  here even before you filed the -- the complaint 
+
+21  with the commission. 
+
+22
+
+ MR. LYNCH:  I'm saying that until you  file the 
+
+23  complaint  with the  commission, there  is not  sufficient 
+
+24  showing of a  reasonable probability  of a proceeding  for 
+
+25  anyone to claim  -- anyone to  claim -- that  they are  an 
+
+1111 14th Street NW, Suite 400 
+
+40 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  interested party.  I don't  believe that the  commission, 
+
+2  the European Commission, could come in and say -­
+
+3
+
+ QUESTION: 
+
+No,  but  the  contemplation  of 
+
+4  proceeding has  got to be present.  Proceeding can  be in 
+
+5  the future. 
+
+6
+
+ MR. LYNCH:  And there has  to be some  official 
+
+7  act that --
+
+8
+
+ QUESTION:  And  that's  different  from  United 
+
+9  States law. 
+
+10
+
+11
+
+ MR. LYNCH:  That --
+
+ QUESTION: 
+
+In  that  respect,  you are  not  a 
+
+12  litigant  in 
+
+--  
+
+in  the same  sense  that  you  would be 
+
+13  required to be a litigant for discovery here. 
+
+14
+
+ MR. LYNCH:  Those were the words I was trying to 
+
+15  get out in answer to your earlier question, that the Ninth 
+
+16  Circuit seemed to feel that although the process in Europe 
+
+17  is different than it is in the United States and therefore 
+
+18  it might not be exactly right to  say we're a party in the 
+
+19  context  of U.S. expectation,  we are in  a -- we're on a 
+
+20  conveyor belt that inevitably turns us into a party if the 
+
+21  process continues in  its ordinary  course.  We don't 
+
+--
+
+22  there's nothing we have to do to make this into a -­
+
+23
+
+ QUESTION: 
+
+Unless 
+
+--  
+
+unless  you  get  your 
+
+24  discovery  and  say,  well,  we've  learned  a  lot  of 
+
+25  interesting things about the other company.  We don't care 
+
+1111 14th Street NW, Suite 400 
+
+41 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  about an antitrust suit now.  We've got what's valuable to 
+
+2  us.  We're not  going to  initiate a proceeding.  That's 
+
+3  what they're worried about. 
+
+4
+
+ MR. LYNCH:  But that  could happen in -- in  any 
+
+5  U.S.  lawsuit.  I  mean,  the notion  that  cases can  be 
+
+6  settled -­
+
+7
+
+ QUESTION:  You've  got rule 11.  You don't have 
+
+8  rule 11 when you're merely in -- in the EC and when you're 
+
+9  merely in contemplation of litigation. 
+
+10
+
+ MR. LYNCH:  Well, with all respect,  the rule 11 
+
+11  -- the  notion that  we don't  have an  obligation to  the 
+
+12  commission  to  proceed responsibly  implies  that without 
+
+13  rule 11,  litigation in the United States would have no -­
+
+14  that  -- that lawyers  would be  free to do  whatever they 
+
+15  want to do.  The  -- the  -- it's quite  clear under  the 
+
+16  commission's  rules  and  regulations  that  there  is  a 
+
+17  responsibility. 
+
+18
+
+ QUESTION:  Okay.  But is that  a responsibility 
+
+19  that they can enforce against  you in any practical  sense 
+
+20  before you  have initiated  a proceeding  with  them?  In 
+
+21  other words, in the  case that they're worried  about, you 
+
+22  -- you get American discovery  to learn interesting things 
+
+23  that  as a  competitor you want  to learn and  you drop it 
+
+24  there.  Does the EC have a -- have a means  of, in effect, 
+
+25  calling you to book for that? 
+
+1111 14th Street NW, Suite 400 
+
+42 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR.  LYNCH:  Well,  I think  the -- I  think the 
+
+2  answer is there's no rule.  I can't point to a rule  that 
+
+3  says that, but the EC has plenary jurisdiction to regulate 
+
+4  AMD  and other firms  doing business within  the -- within 
+
+5  the community and they have -- they have the power -­
+
+6
+
+ QUESTION: 
+
+So  they  can  go against  them  as 
+
+7  regulated  industries  quite  apart  from  their  litigant 
+
+8  status. 
+
+9
+
+10
+
+11
+
+ MR. LYNCH:  But -- but --
+
+ QUESTION:  Is -- is that -­
+
+ MR.  LYNCH:  Well,  I -- I would just  say it's 
+
+12  like the inherent power of the court to find contempt that 
+
+13  -- that I don't think the EC has had this problem. 
+
+14
+
+ QUESTION:  Yes, but we don't have contempt power 
+
+15  if you're not in court, and that's the problem. 
+
+16
+
+ MR. LYNCH:  But  you -- but we  are in  court. 
+
+17  When we file our complaint with the EC, we're as in  court 
+
+18  as -­
+
+19
+
+ QUESTION:  We're  talking  about the  situation 
+
+20  before you  file a complaint,  the situation in  which you 
+
+21  are contemplating the complaint. 
+
+22
+
+23
+
+24
+
+ MR. LYNCH:  I -- I --
+
+ QUESTION:  There's nothing yet pending. 
+
+ MR. LYNCH:  I'm  sorry.  I misunderstood  your 
+
+25  question.  In our -- in our view if you have  not filed a 
+
+1111 14th Street NW, Suite 400 
+
+43 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  complaint with  the commission,  you're not  an interested 
+
+2  person  and there  is  not a  sufficient  likelihood of  a 
+
+3  proceeding for 1782  to apply.  There has to  be in  this 
+
+4  context -­
+
+5
+
+ QUESTION: 
+
+So  you're  adopting  a  pending 
+
+6  proceeding rule then. 
+
+7
+
+ MR. LYNCH:  We are  saying that whether you call 
+
+8  that  complaint a  proceeding,  which  -- which  certainly 
+
+9  Intel  and the commission  say it  is not, or  whether you 
+
+10  call it -­
+
+11
+
+ QUESTION: 
+
+But  there's  got  to be  something 
+
+12  pending -­
+
+13
+
+ MR.  LYNCH: 
+
+--  
+
+something  leading  to  a 
+
+14  proceeding, that it is a  sufficient -- it is sufficiently 
+
+15  proximate to  a proceeding, and I  think that was  the way 
+
+16  the Ninth Circuit tried to sort of straddle the problem. 
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+ QUESTION:  Thank you, Mr. Lynch. 
+
+ MR. LYNCH:  Thank you. 
+
+ QUESTION:  Mr. Minear, we'll hear from you. 
+
+ ORAL ARGUMENT OF JEFFREY P. MINEAR 
+
+ ON BEHALF OF THE UNITED STATES 
+
+ AS AMICUS CURIAE, SUPPORTING THE RESPONDENT 
+
+ QUESTION:  Mr.  Minear, would -- would  you take 
+
+24  up where -- where Mr.  Lynch left  off?  Do  you take 
+
+--
+
+25  would you take  the position that an  interested party has 
+
+1111 14th Street NW, Suite 400 
+
+44 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  got to be a party at least who has filed a complaint? 
+
+2
+
+ MR.  MINEAR: 
+
+Mr. Chief  Justice,  and  may it 
+
+3  please the Court: 
+
+4
+
+ Yes, we would  agree with  the position that  an 
+
+5  interested party does need to have a pending proceeding. 
+
+6
+
+ QUESTION: 
+
+This  interested  person  and  the 
+
+7  proceeding is initiated  doesn't have  to be the  judicial 
+
+8  proceeding or unless I was wrong in --
+
+9
+
+ MR. MINEAR:  If I can go back and -- and try and 
+
+10  clarify my  answer.  There's two  questions here  really. 
+
+11  First  of all, is there a  proceeding in which -- before a 
+
+12  foreign tribunal, and is there an interested person? 
+
+13
+
+ In  our  view,  a  private  person  becomes  an 
+
+14  interested person when there is a proceeding that is going 
+
+15  forward.  The  -- in the case  of the tribunal  itself, it 
+
+16  can,  under section  1782, request  this information  even 
+
+17  though no complaint has yet  been filed and we think  that 
+
+18  that is the way  that we ensure that there are not actions 
+
+19  brought by  people who have not  taken any action  but are 
+
+20  simply seeking  discovery  without  any  proceeding  being 
+
+21  present. 
+
+22
+
+ QUESTION:  And you  say tribunal, you're talking 
+
+23  about the EC because the  court of first instance and  the 
+
+24  ECJ would not be asking for material. 
+
+25
+
+ MR. MINEAR:  That -- that's correct. 
+
+1111 14th Street NW, Suite 400 
+
+45 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+2
+
+ And I'd like to make three basic points. 
+
+ QUESTION:  Before  you  do  that, explain  what 
+
+3  you've just -- what you've just said.  It seems to me that 
+
+4  there is no proceeding before a tribunal here yet. 
+
+5
+
+6
+
+ MR. MINEAR:  We disagree with that, Your Honor. 
+
+ QUESTION:  You -- you think that -- that the -­
+
+7  the  commission  is  a tribunal  even  in  the preliminary 
+
+8  stages when it's investigating and -- and is  -- has -- is 
+
+9  not adjudicating? 
+
+10
+
+ MR. MINEAR:  Yes, we think  it -- it is  and we 
+
+11  can point to several reasons why that is the case. 
+
+12
+
+ First of all, a textual reason, that the statute 
+
+13  itself,  section  1782,  makes  reference  to  proceedings 
+
+14  before  a 
+
+foreign 
+
+tribunal,  including 
+
+criminal 
+
+15  investigations before formal accusations. 
+
+16
+
+ QUESTION:  Yes,  but that's  -- that's -- there 
+
+17  are criminal investigations  in most countries other  than 
+
+18  Britain and  the  United States  where  the  investigating 
+
+19  magistrate is a judge. 
+
+20
+
+21
+
+ MR. MINEAR:  That's correct. 
+
+ QUESTION:  Of  course, they're a tribunal.  The 
+
+22  key  things here is that the people here are investigators 
+
+23  who do  not think of themselves  as judges.  They are not 
+
+24  judges. 
+
+And  in  addition,  the  proceedings  are  not 
+
+25  adversarial, nor are they adjudicative  in any sense.  And 
+
+1111 14th Street NW, Suite 400 
+
+46 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  that is  all the difference in the world between -- you're 
+
+2  talking -- you think you could  bring a -- all we have  is 
+
+3  an investigation in France by the police judiciaire. 
+
+4
+
+5
+
+ MR. MINEAR:  No, Your Honor. 
+
+ QUESTION:  And suddenly we're  going to -- we're 
+
+6  going to start  getting all  -- I  mean, no.  It's a  big 
+
+7  difference whether  it's a  magistrate, a  -- you  know, a 
+
+8  judge. 
+
+9
+
+ MR. MINEAR:  Your  Honor, I  think part of  the 
+
+10  confusion  here  is the  procedures  that are  actually in 
+
+11  place  by the  European  Commission.  In  that regard,  I 
+
+12  suggest that the Court take heed  of the notice concerning 
+
+13  the filing of complaints that's cited on page 13 in note 3 
+
+14  of  AMD's  brief.  That's  an 80-paragraph  document that 
+
+15  describes  the  procedures  that  the European  Commission 
+
+16  follows -­
+
+17
+
+ QUESTION:  Well,  I read through some,  my clerk 
+
+18  read through  some, and I ended  up by thinking  there are 
+
+19  some  that are rather  like the FTC, but  then there are a 
+
+20  certain number  that are really  very different.  And the 
+
+21  thing  that struck me  as pretty  critical is just  what I 
+
+22  said.  They do not  think of themselves as  judges.  They 
+
+23  are 
+
+--  
+
+do  not  think  of  what  they  are  doing  as 
+
+24  adjudicatory, and they  don't even have  a way of  walling 
+
+25  off, as we do, the investigators from the adjudicators. 
+
+1111 14th Street NW, Suite 400 
+
+47 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ Now, there  are certain  similarities too.  But 
+
+2  where we have similarities and major differences, maybe we 
+
+3  should pay attention to what they want to call themselves. 
+
+4
+
+ MR.  MINEAR:  Perhaps, but I would point out the 
+
+5  similarities to an adjudication before  I -- I move on  to 
+
+6  answer that question.  First of all, a party that files  a 
+
+7  complaint does not simply send a letter in.  Instead, they 
+
+8  must  use the complaint form that's  described.  They must 
+
+9  set forth all of the information that they have available, 
+
+10  and they must establish that they are an interested party. 
+
+11  A legitimate  party I think is the term that's used, which 
+
+12  is  essentially  the  same  as  a  standing  requirement. 
+
+13  There's  then proceedings in which they participate before 
+
+14  the  European  Commission,  ultimately  leading  to  the 
+
+15  commission  issuing  a  letter  indicating  a  preliminary 
+
+16  decision.  They're allowed  to respond  to that  as well. 
+
+17  And at that point, the commission then must make a choice. 
+
+18
+
+ QUESTION:  Proceedings in which they participate 
+
+19  before the commission.  How do they participate? 
+
+20
+
+ MR.  MINEAR:  Primarily  by submitting  written 
+
+21  documents,  by  responding  in  written  form. 
+
+It's  my 
+
+22  understanding there is no hearing before the commission in 
+
+23  that  first  stage,  but ultimately  there  is  a decision 
+
+24  that's produced by the commission that is -- must  include 
+
+25  reasons  for  their  decision,  and  that  is  judicially 
+
+1111 14th Street NW, Suite 400 
+
+48 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  reviewable. 
+
+2
+
+ Now,  that  entire  process  bespeaks,  to  a 
+
+3  considerable extent, of  an adjudicative type  proceeding. 
+
+4  But even if it's not, it's at least in preparation of what 
+
+5  will  then  be  one  of  two  certainly  adjudicative 
+
+6  proceedings.  One is  the review  by the  court of  first 
+
+7  instance, or in the alternative, if the commission decides 
+
+8  to go  forward with the complaint, a proceeding in which a 
+
+9  statement of objections is then lodged against Intel. 
+
+10
+
+ My  point  in  describing all  this  is  just to 
+
+11  emphasize that Congress  used very broad language  here in 
+
+12  terms of a proceeding before a foreign tribunal because it 
+
+13  realized that there's a vast and uncatalogued variety -­
+
+14
+
+ QUESTION:  It sort of  sloughed over a  point I 
+
+15  think was  pretty critical. 
+
+I mean,  if the  commission 
+
+16  itself is not proceeding -- not a tribunal, which I -- you 
+
+17  dispute, but if I were to disagree with you about that,  I 
+
+18  would certainly  agree with  you that  the court of  first 
+
+19  instance and the further reviewing courts are.  But there 
+
+20  you  run  into the  statement  in that  D.C.  case that  I 
+
+21  referred  to  earlier  which  there  must  be  reliable 
+
+22  indications  of the  likelihood  the  proceedings will  be 
+
+23  instituted  within a  reasonable time.  And  as to  those 
+
+24  further court of  first instance, the reviewing  court and 
+
+25  over  in  the ECJ,  then  -- then 
+
+--  
+
+do  they meet  that 
+
+1111 14th Street NW, Suite 400 
+
+49 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  criterion? 
+
+2
+
+ MR. MINEAR:  Well, that's a question,  it seems 
+
+3  to  me,  that  goes to  the  district  court's discretion, 
+
+4  determining  whether or not to allow the evidence.  That's 
+
+5  not a statutory criteria that you're citing to, but rather 
+
+6  I believe  that the D.C. Circ was indicating a matter that 
+
+7  informs the discretion.  The statute -­
+
+8
+
+ QUESTION:  And  it would be within  this statute 
+
+9  even  if the  only indication  we had  whichever  -- there 
+
+10  would ever be a case is there's 1 chance in 50  that there 
+
+11  will be a case 18 years from now. 
+
+12
+
+13
+
+ MR. MINEAR:  Well, it's --
+
+ QUESTION:  That  would fall within  this statute 
+
+14  and it's just some kind of discretion that keeps it out. 
+
+15
+
+ MR. MINEAR:  The district court has to make that 
+
+16  judgment of whether or not the action -­
+
+17
+
+18
+
+ QUESTION:  Even in the example I just gave? 
+
+ MR. MINEAR:  Well, in the example you just gave, 
+
+19  there's been  a complaint that's been filed and one of two 
+
+20  things -- I  can say  one of  three  things will  happen. 
+
+21  Either a complaint  will be denied  -- ultimately will  be 
+
+22  denied, in which case there  will be an action before  the 
+
+23  court of  first instance, or else there will be the -- the 
+
+24  commission will go  forward with  the complaint, in  which 
+
+25  case  there  will  certainly  be  an adjudication  against 
+
+1111 14th Street NW, Suite 400 
+
+50 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  Intel, or AMD would withdraw the complaint for some reason 
+
+2  that  we  don't know  about.  Those  are  the only  three 
+
+3  alternatives.  So certainly under the decision of the D.C. 
+
+4  circuit, I think  that a -- proceedings are  in reasonable 
+
+5  contemplation, or at a minimum,  at least that issue ought 
+
+6  to be  placed before the district court in the exercise of 
+
+7  its discretion. 
+
+8
+
+ QUESTION:  You  want 800  judges to review  this 
+
+9  even  in the extreme  case I  mentioned, and unless  -- as 
+
+10  long as  you can find some in your  favor, you can just go 
+
+11  file a  complaint over there and get all your competitors' 
+
+12  documents  and  put everybody  to about  $5 million  or $6 
+
+13  million worth of costs, et cetera. 
+
+14
+
+ MR. MINEAR:  By no means at all, Your Honor.  As 
+
+15  we indicate  in our  brief, we  believe that  rules of 
+
+--
+
+16  supervisory  rules  of practice  can  be developed  by the 
+
+17  courts to contain and channel the district court's -­
+
+18
+
+19
+
+ QUESTION:  And what's our authority to do that? 
+
+ MR.  MINEAR: 
+
+The  authority  is the  type  of 
+
+20  authority that is described in Thomas v. Arn.  It's simply 
+
+21  that  the  Court has 
+
+--  
+
+has authority  to  supervise the 
+
+22  activity and provide  guidance to  district courts in  the 
+
+23  exercise of their discretion. 
+
+24
+
+ QUESTION:  Yes, but how -- how are we  to know 
+
+25  what  guidance  to  provide  without  a  great  deal  of 
+
+1111 14th Street NW, Suite 400 
+
+51 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  experience one way or another in -- in the lower courts? 
+
+2
+
+ MR. MINEAR:  Well,  we agree with that as  well, 
+
+3  and we think that type of guidance at this stage  would be 
+
+4  premature.  We  suggested the  Court  take this  case  to 
+
+5  resolve the circuit  conflict on  a question of  statutory 
+
+6  construction. 
+
+7
+
+ QUESTION:  And so  now we  go back  to the  800 
+
+8  district  judges and their discretion even  in the kind of 
+
+9  rather extreme case that Justice Breyer describes. 
+
+10
+
+ MR.  MINEAR:  Well,  Your  Honor,  the district 
+
+11  courts have been at work at this area and  there are about 
+
+12  20 cases  now over  the  past 40  years  in -- that  have 
+
+13  construed section 1782, and they -- those cases do provide 
+
+14  guidance.  We  think  that the  question  -- the  primary 
+
+15  question this Court needs to answer is, is there a rule of 
+
+16  foreign discoverability?  And we  submit that there's  no 
+
+17  such rule evident on the basis of the statute -­
+
+18
+
+ QUESTION:  But  it's -- it's  an odd reading  of 
+
+19  the statute  that we have these  discoveries for use  in a 
+
+20  proceeding in  a tribunal and  the tribunal said  it isn't 
+
+21  for our use.  It's counterproductive. 
+
+22
+
+23
+
+ MR. MINEAR:  Well, Your Honor, I think -­
+
+ QUESTION:  How  can  that be  for  use if  it's 
+
+24  counterproductive? 
+
+25
+
+ MR. MINEAR:  Your Honor,  we need to  pay close 
+
+1111 14th Street NW, Suite 400 
+
+52 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  attention to  what the commission said and what it did not 
+
+2  say.  Our view is  if the  commission does not  want this 
+
+3  information,  then  that's  a  very  good reason  for  the 
+
+4  district court  to deny discovery in this case.  The court 
+
+5  has not said -- the commission has not said it  would not 
+
+6  use this information,  which is quite a  different matter. 
+
+7  If the  commission said that it  will simply not  use this 
+
+8  information, then that is a reason why section 1782 should 
+
+9  not apply.  The information would  simply not be  used in 
+
+10  the  proceeding. 
+
+But  we  think  that  the 
+
+--  
+
+the 
+
+11  circumstances here are far less certain. 
+
+12
+
+ I should  point out  that this  matter has  gone 
+
+13  back down.  The issue -- a mandate was issued  while the 
+
+14  petition for certiorari  was pending.  And  the magistrate 
+
+15  judge has  issued a  preliminary order  that the  district 
+
+16  court has not  reviewed yet, which has  limited the amount 
+
+17  of discovery  that would be available.  And in that course 
+
+18  of that decision,  the magistrate judge did point out that 
+
+19  it was not clear whether  this information -- whether  the 
+
+20  commission  had  not  made  clear  whether  or  not  the 
+
+21  information would  be wanted or used  by it.  That  was -­
+
+22  there was uncertainty -­
+
+23
+
+ QUESTION:  Now, given their brief in this, which 
+
+24  seems to me could not be more clear -­
+
+25
+
+ MR. MINEAR:  The -­
+
+1111 14th Street NW, Suite 400 
+
+53 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION: 
+
+--  
+
+and your belief that  looked what 
+
+2  happened,  what  we  have even  this  court  granting some 
+
+3  discovery, even though the principle is they shouldn't -­
+
+4
+
+5
+
+ MR. MINEAR:  But that issue --
+
+ QUESTION:  -- then what are we supposed to write 
+
+6  that makes real what you -­
+
+7
+
+ MR. MINEAR:  Your Honor, first of  all, I think 
+
+8  you 
+
+--  
+
+you  need  to  resolve  the  issue  of  statutory 
+
+9  construction  on  the  rule  of  the question  of  foreign 
+
+10  discoverability.  And we've  explained our  views in  the 
+
+11  brief on that. 
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+ QUESTION:  Thank you, Mr. Minear. 
+
+ Mr. Waxman, you have 3 minutes remaining. 
+
+ REBUTTAL ARGUMENT OF SETH P. WAXMAN 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. WAXMAN:  Thank you, Mr. Chief Justice. 
+
+ The  brief,  amicus  curiae  of  the  European 
+
+18  Commission, states  that what  it wants  is reversal.  It 
+
+19  wants reversal of the decision  that sent this back for  a 
+
+20  discretionary,  1  of  800  judges'  factor-by-factor 
+
+21  balancing. 
+
+22
+
+ Now, everybody considers -- Justice Souter, with 
+
+23  respect to your  question about how difficult  it might be 
+
+24  to  determine  foreign  discoverability,  everybody agrees 
+
+25  that's  a relevant factor.  So  the question is  going to 
+
+1111 14th Street NW, Suite 400 
+
+54 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  come  up in even  more instances  if you don't  announce a 
+
+2  rule, either by construing interested person or proceeding 
+
+3  or for use  in, that  somehow channels  the discretion  of 
+
+4  district judges. 
+
+5
+
+ Justice  Kennedy,  pages  36  and  37  and 
+
+6  particularly footnote  18 of  our blue  brief provide,  we 
+
+7  think, the authority  for instances.  But it's  basically 
+
+8  saying  the way  you  do when  you decide  cases involving 
+
+9  discovery  under rule 26.  There are certain instances in 
+
+10  which, since  we know what the statute -- there's no doubt 
+
+11  about  the purpose of  the statute,  it will always  be an 
+
+12  abuse of discretion. 
+
+13
+
+ Now, with  respect to  the  question of  whether 
+
+14  this is isn't  a tribunal or  how soon a  tribunal has  to 
+
+15  occur,  AMD  acquiesced,  and  this  is  a  point  made in 
+
+16  footnote 2 of our reply brief on  page 3.  They acquiesced 
+
+17 
+
+--  
+
+and this  Court  granted cert  on the  second question 
+
+18  presented -- on  the assumption, as the lower court found, 
+
+19  that  there  is  no  proceeding  before  a  tribunal  now. 
+
+20  Otherwise,  the  question of  whether  the D.C.  Circuit's 
+
+21  interpretation of  how soon  it had  to be  or the  Second 
+
+22  Circuit's interpretation would have been presented. 
+
+23
+
+ Similarly, this  morning is the first  time that 
+
+24  -- that  AMD has argued that it  was in -- that  it is, in 
+
+25  fact, a litigant.  It has always argued that you shouldn't 
+
+1111 14th Street NW, Suite 400 
+
+55 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  read the interested person to require litigant even in the 
+
+2  private context because it's only in the title.  It's only 
+
+3  showered throughout the legislative history,  but it's not 
+
+4  in the text. 
+
+5
+
+ But the question of when something is a tribunal 
+
+6  or when it isn't may determine, as this Court's  questions 
+
+7  this  morning suggest,  lots of  very,  very fact-specific 
+
+8  determinations that have to be examined perhaps on a case­
+
+9  by-case basis,  although we  would argue  that where  the, 
+
+10  quote,  tribunal itself says  we're not, a  court ought to 
+
+11  accept it. 
+
+12
+
+ But if you simply interpret interested person or 
+
+13  interpret for  use in  in the  context of  a request  by a 
+
+14  private party before  there is any proceeding,  that where 
+
+15  the  request  is by  an  entity  that  has  no  rights  of 
+
+16  discovery at all, not to  documents, not to testimony, not 
+
+17  at the first stage,  not at the  second stage, and not  in 
+
+18  any subsequent judicial proceeding, we can simply cut this 
+
+19  off.  It will always be abuse of discretion to come to the 
+
+20  United States and try and get discovery when you're trying 
+
+21  to aid  a tribunal that doesn't  now and never  will allow 
+
+22  you to get any discovery. 
+
+23
+
+ CHIEF JUSTICE  REHNQUIST:  Thank -- thank you, 
+
+24  Mr. Waxman. 
+
+25
+
+ The case is submitted. 
+
+1111 14th Street NW, Suite 400 
+
+56 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ (Whereupon,  at  12:05  p.m., the 
+case  in  the
+
+
+2  above-entitled matter was submitted.)
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+11
+
+
+12
+
+
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+1111 14th Street NW, Suite 400 
+
+57
+
+
+Alderson Reporting Company
+
+
+Washington, DC 20005 
+
+

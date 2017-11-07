@@ -1,0 +1,7707 @@
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+1 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+UNITED STATES, 
+
+                  
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 13­1075 
+
+ v. 
+
+                       
+
+: 
+
+MARLENE JUNE, 
+
+                   
+
+: 
+
+CONSERVATOR. 
+
+                    
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Wednesday, December 10, 2014 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:05 a.m. 
+
+APPEARANCES: 
+
+ELIZABETH PRELOGAR, ESQ., Assistant to the Solicitor 
+
+ General, Department of Justice; Washington, D.C.; on 
+
+ behalf of Petitioner. 
+
+E. JOSHUA ROSENKRANZ, ESQ., New York, N.Y.; on behalf of 
+
+ Respondent. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+ 
+
+3 
+
+4
+
+5
+ 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+
+2 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+ELIZABETH PRELOGAR, ESQ. 
+
+On behalf of the Petitioner 
+
+
+                    
+
+3
+
+ORAL ARGUMENT OF 
+
+E. JOSHUA ROSENKRANZ, ESQ. 
+
+ On behalf of the Respondent 
+
+                    
+
+22 
+
+REBUTTAL ARGUMENT OF 
+
+ELIZABETH PRELOGAR, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+41 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (11:05 a.m.) 
+
+3 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We will hear 
+
+argument next this morning in Case 13­1075, United 
+
+States v. June. 
+
+ Ms. Prelogar. 
+
+ ORAL ARGUMENT OF ELIZABETH PRELOGAR 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MS. PRELOGAR: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ There is good reason to believe that 
+
+Congress did not want the equitable tolling doctrine to 
+
+apply to the FTCA time bar, and I'd like to begin by 
+
+focusing on a few of the issues that arose last hour 
+
+that are particularly important to understanding 
+
+Congress's intent. 
+
+ To start with the questions, Justice Scalia 
+
+and Justice Kagan, that you were asking at the end about 
+
+the nature of our rule and what separates this statute 
+
+from other statutes.  I want to be very clear:  We're 
+
+not urging a categorical rule about all pre­Irwin 
+
+statutes.  Here, we have statute­specific evidence about 
+
+the FTCA that makes clear that Congress did not want 
+
+this particular enactment to be subject to equitable 
+
+tolling. 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+4 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ And that's most clear, of course, from the 
+
+plain text and those 12 words, "Every claim against the 
+
+United States cognizable shall be forever barred 
+
+unless," that was lifted, Justice Scalia, as you said 
+
+verbatim from the Tucker Act context where it had been 
+
+repeatedly interpreted as a jurisdictional limit not 
+
+subject to tolling. 
+
+ JUSTICE KAGAN: 
+
+Ms. ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+You don't doubt that 
+
+if ­­ if those words appeared in a statute that Congress 
+
+passed tomorrow, we would not interpret them as a 
+
+jurisdictional bar, would we? 
+
+ MS. PRELOGAR: 
+
+Mr. Chief Justice, I think it 
+
+would depend on whether there was an indication that 
+
+Congress was intending to incorporate those words from 
+
+the Tucker Act context. 
+
+ JUSTICE GINSBURG: 
+
+I thought at least if a 
+
+statute passed tomorrow, we have the clear statement 
+
+rule that we have said ­­ we have told Congress if you 
+
+don't want to have any tolling, if you want this to be 
+
+jurisdictional, absolutely rigid, you say so, and of 
+
+course, Congress, it's your call.  But we're not going 
+
+to interpret a statute that doesn't make that clear 
+
+statement as jurisdiction. 
+
+ MS. PRELOGAR: 
+
+But this Court has also 
+
+Alderson Reporting Company 
+
+Official 
+
+5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+emphasized, Justice Ginsburg, that there are no magic 
+
+words that are required in this context.  And I think 
+
+Bowles v. Russell makes that particularly clear.  There, 
+
+those words, "shall" and "notice of appeal," were 
+
+interpreted to have jurisdictional import.  And so to 
+
+here in this context ­­
+
+ JUSTICE GINSBURG: 
+
+Because this Court had 
+
+before ­­ had before said that provision about how much 
+
+time you have to appeal, that that was jurisdictional. 
+
+And I thought the Court's position was we decided it 
+
+once, and we're going to stick with it.  But if we 
+
+haven't decided it, then we look at it.  We look for a 
+
+clear statement. 
+
+ MS. PRELOGAR: 
+
+It was not only Section 2107 
+
+in ­­ in that context, but also predecessor provisions 
+
+and other similar statutory requirements.  And that's 
+
+what the Court said in Henderson, when a long line of 
+
+this Court's decisions interpreting similar requirements 
+
+have said that those requirements are jurisdictional, 
+
+then we'll presume that Congress intended the same 
+
+meaning.  Here, we have the identical language that had 
+
+that jurisdictional label attached to it.  And that's ­­
+
+ JUSTICE GINSBURG: 
+
+I don't ­­ I don't quite 
+
+get the identical language because "shall be barred," I 
+
+mean, that's common to a lot of statute of limitations. 
+
+Alderson Reporting Company 
+
+Official 
+
+6 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+You're not suggesting that this would be different if it 
+
+just said "shall be barred" rather than "forever 
+
+barred," are you? 
+
+ MS. PRELOGAR: 
+
+No.  We're saying that when 
+
+Congress lifted and incorporated word for word the 
+
+then­prevailing Tucker Act time bar, it clearly was 
+
+signaling an intent to incorporate the judicial 
+
+interpretations of that Tucker Act time bar. 
+
+ And ­­ and, Justice Ginsburg, I ­­ I think 
+
+this is an important point about those early Tucker Act 
+
+cases.  Those were not drive­by jurisdictional rulings. 
+
+Those were carefully considered decisions that attached 
+
+jurisdictional consequences to the ­­ the Tucker Act 
+
+time bar and said that it couldn't be waived.  It wasn't 
+
+subject to equitable tolling. 
+
+ So this wasn't a ­­ an argument that was 
+
+made in passing or something that the Court didn't 
+
+carefully consider.  Rather, the Court made a ­­ a 
+
+decision in those cases that that language had 
+
+jurisdictional import. 
+
+ JUSTICE KAGAN: 
+
+Ms. ­­ Ms. Prelogar, I'm 
+
+wondering what you think about Mr. Schnapper's analogy 
+
+to the private right of action cases, because it seems 
+
+to me very similar is that we're dealing in an area here 
+
+in which Congress doesn't generally say what it wants 
+
+Alderson Reporting Company 
+
+Official 
+
+7 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+with respect to some kind of procedural rule, maybe 
+
+because Congress doesn't usually think about it. 
+
+ And we have one set of interpretative rules 
+
+to deal with that situation, and then those 
+
+interpretative rules basically switch off and we get the 
+
+opposite set of interpretative rules.  And the way it's 
+
+worked in the private right of action cases, we don't 
+
+look back and say, well, gosh, you were enacting this 
+
+statute in the world of Cort v. Ash, and you used 
+
+language that was identical to language that the Court 
+
+assumed gave rise to a private right of action there, 
+
+and so you get a private right of action, too. 
+
+ We've not said that. 
+
+We've said, you know, 
+
+now we're in a different world and we're going to 
+
+require more of you than what the old ­­ than the old 
+
+language that gave rise to a private right of action 
+
+under Cort.  Why is this any different? 
+
+ MS. PRELOGAR: 
+
+Justice Kagan, this Court has 
+
+said in the implied private right of action context that 
+
+you have to look at the contemporary legal context. 
+
+That was the Cannon case that we cite in our opening 
+
+brief and our reply brief.  And this Court, in Alexander 
+
+v. Sandoval, made clear that ­­ that those holdings 
+
+hinged on the fact that Congress had acquiesced in the 
+
+decision that had prevailed at the governing time. 
+
+Alderson Reporting Company 
+
+Official 
+
+8 
+
+1
+
+2
+
+3
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25
+
+ JUSTICE KENNEDY: 
+
+Were ­­ were those ­­
+
+ JUSTICE SCALIA: 
+
+Didn't our cases ­­
+
+ JUSTICE KENNEDY: 
+
+­­ were those two cases 
+
+pre­ or ­­ that you just cited pre­ or post­Irwin? 
+
+ MS. PRELOGAR: 
+
+Well, I was talking about the 
+
+private right of action cases, Justice Kennedy. 
+
+ So with respect to statutes that ­­ that 
+
+predate Irwin, if you actually look at how Irwin has 
+
+fared and what the Irwin scorecard is, more often than 
+
+not, this Court has held that there isn't equitable 
+
+tolling in suits against the government.  The Court's 
+
+considered that in five cases, and in four of them, 
+
+Brockamp, Beggerly, John R. Sand & Gravel, and Auburn 
+
+Regional Medical Center, it's held that the presumption, 
+
+if it applies, is rebutted.  So I think ­­
+
+ JUSTICE SCALIA: 
+
+Didn't ­­ didn't the 
+
+private right of action cases suggest rather strongly 
+
+that Cort v. Ash was wrong?  That the prior notion that 
+
+when Congress says nothing about it, there is an implied 
+
+cause of action was wrong? 
+
+ MS. PRELOGAR: 
+
+That's true, Justice Scalia. 
+
+ JUSTICE SCALIA: 
+
+And have we ­­ have we said 
+
+that prior notions of what Congress meant in the past 
+
+about jurisdiction were wrong at the time? 
+
+ MS. PRELOGAR: 
+
+No, not at all.  And I think 
+
+Alderson Reporting Company 
+
+Official 
+
+9 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+that is ­­
+
+ JUSTICE SCALIA: 
+
+So I don't think the two 
+
+are parallel at all. 
+
+ MS. PRELOGAR: 
+
+And it's an important point 
+
+here that there's no question that when Congress was 
+
+enacting the FTCA in 1946 and at all relevant times 
+
+thereafter, when it was making changes to this time bar, 
+
+it ­­ it did view that as a jurisdictional limit, and 
+
+the Court has never questioned that ­­ that historical ­­
+
+ JUSTICE GINSBURG: 
+
+That was ­­ that was the 
+
+way everything was ­­ involving the government and 
+
+sovereign immunity was all, quote, "jurisdictional." 
+
+ And then we said ­­ and if ­­ if Congress 
+
+made a statute, we said, well, we call that 
+
+jurisdictional.  Congress never called it 
+
+jurisdictional. 
+
+ Then we took a fresh look at this, and we 
+
+said that's ­­ that's an exorbitant use of the word 
+
+"jurisdiction."  Sure, you can have a ­­ you can have a 
+
+statute that has a very tight time line; that doesn't 
+
+mean it's jurisdictional. 
+
+ MS. PRELOGAR: 
+
+Justice Ginsburg, let me 
+
+respond to that by ­­ by taking a moment to emphasize 
+
+the history of the FTCA, because I think it's perfectly 
+
+clear that Congress at every turn, at every relevant 
+
+Alderson Reporting Company 
+
+Official 
+
+10 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+historical juncture, signaled its approval of the view 
+
+that this time bar was jurisdictional and could not be 
+
+tolled. 
+
+ Congress has made significant changes to the 
+
+time bar four times:  In 1946, 1949, 1966 and 1988.  And 
+
+at each of those times, Congress's words and actions 
+
+were either inconsistent with or unnecessary in light of 
+
+an equitable tolling doctrine. 
+
+ I could just tick through them. 
+
+In 1946, 
+
+Congress enacted the FTCA time bar and expressly 
+
+declined to include a tolling provision, even though it 
+
+had considered earlier bills that did include that kind 
+
+of tolling provision, which, as this Court has said, it 
+
+was a deliberate choice, rather than an inadvertent 
+
+omission. 
+
+ In 1949 Congress was aware that there had 
+
+been individual cases of hardship and debated in one of 
+
+the hearings whether to create a reasonable cause 
+
+exception.  Instead of doing so, Congress decided to 
+
+extend the deadline from 1 year to 2, which would have 
+
+been unnecessary if equitable tolling could take care of 
+
+the hardship. 
+
+ 1966 is particularly important because at 
+
+that point there were 2 decades of experience with the 
+
+FTCA and every lower court to consider the issue had 
+
+Alderson Reporting Company 
+
+Official 
+
+11 
+
+held that it was jurisdictional and not subject to 
+
+tolling.  Congress was aware of those decisions because 
+
+repeatedly litigants came to it during that time period 
+
+and requested relief in the form of a private bill.  And 
+
+there, Justice Ginsburg, Congress did use that magic 
+
+word "jurisdictional."  Congress repeatedly  granted 
+
+relief through private laws that conferred jurisdiction 
+
+on district courts notwithstanding the time bar in 
+
+Section 2401(b). 
+
+ Finally, in the ­­
+
+ JUSTICE GINSBURG: 
+
+Well, it was responding 
+
+to our cases that use "jurisdiction." 
+
+ MS. PRELOGAR: 
+
+And acquiescing in those 
+
+cases, I would argue, when Congress then, in 1966, 
+
+reenacted the time bar without making any material 
+
+change.  Congress was aware that this is how courts were 
+
+interpreting the ­­ interpreting the time bar, and this 
+
+Court itself had just recently announced in Soriano that 
+
+the Tucker Act time bar and that language was 
+
+jurisdictional, not subject to tolling, and ­­ and Congress 
+
+acted in reliance on those decisions when it reenacted 
+
+the bar in '66. 
+
+ Finally, in 1988, this was when Congress 
+
+enacted the Westfall Act.  At that point in time there 
+
+was a particular situation of hardship that had arisen 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+12 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+when a claimant had sued a Federal employee and then the 
+
+United States was substituted as a defendant after the 
+
+time had run to present a claim to the administrative 
+
+agency. 
+
+ JUSTICE GINSBURG: 
+
+Ms. Prelogar, I do think 
+
+that the ­­ the other side's account, at Mr. Schnapper's 
+
+account of the Westfall Act, the one that Congress was 
+
+intending to benefit was not the plaintiff, not the 
+
+injured plaintiff.  It was the Federal employee, because 
+
+until Westfall v. Erwin, the Federal employee was off 
+
+the hook.  He wasn't ­­ so then when this Court, said, 
+
+Federal employee, you are going to be stuck, then 
+
+Congress passed a relief measure for the Federal 
+
+employee, not ­­ not the plaintiff. 
+
+ MS. PRELOGAR: 
+
+It's absolutely the case, 
+
+Justice Ginsburg, that that was the overall purpose of 
+
+the Westfall Act.  But Congress included 
+
+Section 2679(d)(5), which was the provision that gave 
+
+the claimant extra time to present a claim, 60 extra 
+
+days, if the claimant was out of luck because the time 
+
+of the statute had run by the time the United States was 
+
+substituted as a defendant.  And that exception that 
+
+Congress introduced in 1988 would have been entirely 
+
+unnecessary if Congress thought that courts could take 
+
+care of this on a case­by­case basis through equitable 
+
+Alderson Reporting Company 
+
+Official 
+
+13 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+tolling. 
+
+ So I think that the historical story here is 
+
+consistent and it's clear.  At every turn ­­
+
+ JUSTICE SOTOMAYOR: 
+
+You are equating 
+
+reasonable cause or ­­ or something comparable with 
+
+equitable tolling.  Equitable tolling, as Justice 
+
+Ginsburg pointed out earlier, is much harder to get. 
+
+ MS. PRELOGAR: 
+
+That's absolutely true, 
+
+Justice Sotomayor, that it might be hard to get it in an 
+
+individual case.  But ­­ but I think that it's clear, 
+
+and this again comes from the Tucker Act line of cases, 
+
+that Congress did view this as a ­­ a strict limit on 
+
+the waiver of sovereign immunity, and that Congress had 
+
+a right to suggest that it didn't even want to extend 
+
+that waiver one bit more. 
+
+ JUSTICE SOTOMAYOR: 
+
+Could I ask a question? 
+
+You've both been arguing this as if your situations are 
+
+identical.  But do you disagree with the Respondent here 
+
+who says that ­­ who characterizes the administrative 
+
+claim process under the FTCA as claimant friendly? 
+
+ MS. PRELOGAR: 
+
+Certainly that process is 
+
+claimant friendly, but when the Court has emphasized 
+
+that concern in other cases, and I'm thinking here of 
+
+Bowen and Henderson, the Court was looking specifically 
+
+at the time bar and whether it was claimant friendly. 
+
+Alderson Reporting Company 
+
+Official 
+
+14 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25
+
+ In Bowen, the time bar itself had a 
+
+provision that allowed the secretary to extend out the 
+
+limit for appealing a Social Security benefits denial, 
+
+and the secretary had interpreted that to encompass 
+
+principles of equity and fairness. 
+
+ In Henderson, when the Court emphasized the 
+
+claimant­friendly nature of the procedural posture of 
+
+that case, the Court emphasized that there was no time 
+
+limit at all for a veteran to present his claim. 
+
+ So in those cases it was the time bar that 
+
+was claimant friendly.  And here we don't have that at 
+
+all.  We have a strict, absolute limit that has no ­­ no 
+
+space within the text to permit any ­­ any notions of 
+
+claimant friendliness.  So I think that is a relevant 
+
+distinction between those cases where it has made a 
+
+difference and where it has not. 
+
+ JUSTICE KAGAN: 
+
+Ms. Prelogar, I asked 
+
+Mr. Martinez a question before and, to tell you the 
+
+truth, I've just forgotten his answer to it, so I'm 
+
+going to ask you.  How about 2401(a)? 
+
+ MS. PRELOGAR: 
+
+The government's position is 
+
+that 2401(a) is jurisdictional, but I want to say at the 
+
+outset that each statute has to be interpreted on its 
+
+own terms ­­
+
+ JUSTICE KAGAN: 
+
+Well, why is 2401(a) 
+
+Alderson Reporting Company 
+
+Official 
+
+15 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+jurisdictional if every statute has to be ­­ you know, 
+
+Mr. Martinez said it's those exact 12 words, and 2401(a) 
+
+doesn't have those exact 12 words. 
+
+ MS. PRELOGAR: 
+
+2401(a) originated in the 
+
+Tucker Act itself in 1887 and, based on that Tucker Act 
+
+historical pedigree, we think that the same 
+
+interpretation of it that was longstanding would ­­
+
+would govern here in this context.  So that ­­
+
+ JUSTICE KAGAN: 
+
+Is there ­­ is there any 
+
+statute of limitations that applies against the Federal 
+
+government that you don't think is jurisdictional? 
+
+ MS. PRELOGAR: 
+
+Other than the ones that this 
+
+Court has ­­ has already ruled upon, I can't think of 
+
+any off the top of my head.  But I have to confess that 
+
+I haven't done an extensive statute­specific analysis 
+
+with respect to all of them. 
+
+ JUSTICE BREYER: 
+
+Well, if that ­­ if that's 
+
+all ­­
+
+ JUSTICE SCALIA: 
+
+Have you stopped beating 
+
+your husband, right? 
+
+ JUSTICE BREYER: 
+
+If, in fact ­­ you've heard 
+
+this already, but I'd like your specific answer to it. 
+
+In Irwin, Chief Justice Rehnquist says, we ­­ a 
+
+waiver of ­­ they are holding a new rule.  He says that. 
+
+He says that we now ­­ a waiver of sovereign immunity 
+
+Alderson Reporting Company 
+
+Official 
+
+16 
+
+cannot be implied, but must be express.  Once Congress 
+
+has made such a waiver, all right, we think that making 
+
+the rule of equitable tolling applicable to suits 
+
+against the government in the same way that it is 
+
+applicable to private suits amounts to little 
+
+broadening.  Such a principle ­­ da, da, da ­­ and 
+
+that's what we hold. 
+
+ Now, has not the Court, I'm not sure, 
+
+applied Irwin to statutes that were enacted before 
+
+Irwin? 
+
+ MS. PRELOGAR: 
+
+It has, Justice ­­
+
+ JUSTICE BREYER: 
+
+Now, if, in fact, we were 
+
+to hold with you in this, how would we justify that?  I 
+
+mean, this is a statute that ­­ that, as much as any, is 
+
+trying to equate ­­ waives sovereign immunity, trying to 
+
+equate private suits against private people with suits 
+
+against the government.  So if some times Irwin applies 
+
+to a pre­Irwin statute, when no one in Congress thought 
+
+that they would be doing that, why isn't this case in 
+
+that? 
+
+ MS. PRELOGAR: 
+
+Well, let me be ­­
+
+ JUSTICE BREYER: 
+
+I know you've given many, 
+
+many answers, but the answers that I hear are all 
+
+answers that Congress at the time probably thought that 
+
+equitable tolling wouldn't apply.  I agree.  That is 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+17 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+probably what they thought, if they thought about it. 
+
+But the same is probably true of dozens of statutes that 
+
+were passed pre­Irwin. 
+
+ So what's the distinction? 
+
+Because 
+
+Rehnquist says we now are laying down ­­ we think this 
+
+case affords us an opportunity to adopt a more general 
+
+rule.  He thinks he is applying a new rule.  And ­­ and 
+
+that's applying to prior statutes.  So why not this one 
+
+if it's any? 
+
+ MS. PRELOGAR: 
+
+Irwin adopted that rule 
+
+because it judged it to be a realistic assessment of 
+
+legislative intent.  But Irwin made clear that it's a 
+
+rebuttable presumption.  As this Court said in John R. 
+
+Sand & Gravel, it's not conclusive, and it can be 
+
+over ­­
+
+ JUSTICE BREYER: 
+
+I agree with you that Irwin 
+
+does say it is likely to be a realistic assessment of 
+
+legislative intent.  That is one reason given among 
+
+others.  If I don't agree with you, that that was meant 
+
+to be absolute rather than simply a factor in the mind 
+
+run of cases, suppose I don't accept your argument 
+
+there, then I would have to apply it to this statute; 
+
+right. 
+
+ MS. PRELOGAR: 
+
+And we agree that the 
+
+presumption applies at the outset.  At the threshold the 
+
+Alderson Reporting Company 
+
+Official 
+
+18 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+government has the burden ­­
+
+ JUSTICE BREYER: 
+
+I know, and what you're 
+
+saying is that there are certain things that rebut it. 
+
+But all those things, it seems to me, come down to 
+
+saying, as I just said, that Congress, at the time, 
+
+thought there wouldn't be equitable tolling.  And that's 
+
+why I asked this question.  That would seem to me to be 
+
+true of many statutes, if not all of them, passed before 
+
+Irwin, and yet we have applied Irwin backwards. 
+
+ MS. PRELOGAR: 
+
+It may well be, Justice 
+
+Breyer, that it's easier for the government to rebut the 
+
+presumption with respect to pre­Irwin statutes because, 
+
+of course, under Irwin this Court does have to consider 
+
+what the prevailing and contemporary legal context was 
+
+at the time the statute was enacted.  Holland makes that 
+
+clear where it suggests that the presumption has greater 
+
+force as applied to statutes enacted after Irwin. 
+
+ JUSTICE GINSBURG: 
+
+But every statute that it 
+
+applied to in Irwin was enacted, how many years, 18 
+
+years before Irwin. 
+
+ MS. PRELOGAR: 
+
+In 1972.  That's correct, 
+
+Justice Ginsburg.  Of course, there is a relevant change 
+
+in the law that happened in that time period.  In 1967 
+
+­­ this is, of course, after the FTCA had been reenacted 
+
+­­ this Court decided Honda v. Clark.  That was the 
+
+Alderson Reporting Company 
+
+Official 
+
+19 
+
+first decision holding that there could be equitable 
+
+tolling in a suit against the government.  And so, by 
+
+the time Congress enacted Title VII in 1970­­ in 1972, it was 
+
+legislating against a backdrop where there wasn't a 
+
+uniform line of precedence from this Court saying that 
+
+every statute waiving sovereign immunity was ­­ was necessarily 
+
+subject to tolling. 
+
+ I think the important point here ­­ and this 
+
+comes from Honda v. Clark as well ­­ is an observation 
+
+about – about the mode of statutory interpretation that we're 
+
+urging.  In Honda v. Clark the reason the Court reached 
+
+that conclusion that there could be equitable tolling 
+
+notwithstanding the sovereign immunity considerations, 
+
+is because the statute in that case, the Trading with 
+
+the Enemy Act, had been expressly patterned after the 
+
+Federal Bankruptcy Act.  And this Court said that lower 
+
+courts had interpreted the Bankruptcy Act to permit 
+
+equitable tolling.  And so, the Court said that the 
+
+Trading with the Enemy Act should be interpreted the 
+
+same way. 
+
+ That's precisely the argument we're making 
+
+here.  It's an argument about how Congress would have 
+
+understood these words when it took them directly from 
+
+the Tucker Act context and imported them into the FTCA. 
+
+ I would like to make a brief observation 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+20 
+
+about respondent's primary effort to distinguish the 
+
+Tucker Act cases.  And ­­ and this is the distinction that 
+
+respondent draws between the court of claims and 
+
+district courts. 
+
+ Respondent says that those tribunals 
+
+exercise fundamentally different powers when it comes to 
+
+equitable tolling.  But that would radically alter how 
+
+this Court has long understood the court of claims' 
+
+powers.  As we explained in our reply brief, all of 
+
+respondent's cases deal with the issue of equitable 
+
+remedies.  Whether the court of claims can issue an 
+
+injunction.  No, it can't, but that's also true of 
+
+district courts applying FTCA claims.  There the 
+
+district court is only considering a claim for money 
+
+damages. 
+
+ And the important point is this Court has 
+
+never distinguished between the powers of the court of 
+
+claims and powers of district courts with respect to 
+
+equitable doctrines, equitable recoupment, equitable 
+
+reformation of a contract, the equitable doctrines of 
+
+latches and estoppel.  Down the line, the Court has 
+
+indicated that the court of claims has those powers 
+
+equally with district courts. 
+
+ So there is simply no tenable basis to say 
+
+that that tribunal­focused analysis creates a difference 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+21 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+between the presumptions that should apply with respect 
+
+to equitable tolling.  It also doesn't do anything to 
+
+explain this Court's Tucker Act cases.  If, in fact, 
+
+respondent were right and this was a function of the 
+
+tribunal, then what this Court could have said in those 
+
+cases is, here is a statute administered by the court of 
+
+claims; thus, there's no equatable tolling. 
+
+ But, of course, that's not what this Court 
+
+did in Kendall, Finn, Soriano, John R. Sand & Gravel, 
+
+the entire line of cases.  Instead, those cases turned 
+
+on the text of the time bar and the fact that this was a 
+
+waiver of sovereign immunity and that Congress intended 
+
+that waiver to be interpreted narrowly. 
+
+ And ­­ and, Justice Breyer, to your point about how 
+
+equitable tolling rarely applies ­­ Justice Ginsburg, I 
+
+think you mentioned this as well ­­ I do think it's 
+
+important to look at this historical context and what 
+
+this meant for Congress in 1946.  And by today's light 
+
+it's not a particularly big deal to sue the United 
+
+States in its own name for money damages, but when 
+
+Congress enacted the statute in 1946 it was an 
+
+incredibly big deal.  And, in fact, it took Congress two 
+
+decades of debating this bill to even grow comfortable 
+
+with the idea and to get everyone on board with waiving 
+
+the sovereign immunity of the United States for tort 
+
+Alderson Reporting Company 
+
+Official 
+
+22 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+actions. 
+
+ The Federal government was out ahead of the 
+
+states in this.  The house report that accompanies the 
+
+1946 legislation notes only four states that had waived 
+
+their sovereign immunity for tort claims.  By 1969, it 
+
+was only 17 states that had fully waived their sovereign 
+
+immunity, only four of which, by the way, permitted any 
+
+form of tolling. 
+
+ So I think it's pretty clear that when you 
+
+look at the statute and you look at what Congress 
+
+intended in 1946, those were the factors that motivated 
+
+it, this was a strict condition on the waiver of 
+
+sovereign immunity and Congress intended it to be 
+
+interpreted narrowly. 
+
+ If there are no further questions I would 
+
+like to reserve the remainder of my time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Rosenkranz. 
+
+ ORAL ARGUMENT OF E. JOSHUA ROSENKRANZ 
+
+ ON BEHALF OF THE RESPONDENT 
+
+ MR. ROSENKRANZ: 
+
+Mr. Chief Justice, and may 
+
+it please the Court: 
+
+ All of the arguments that you heard in Wong 
+
+apply with equal force to our case; that is, Mr. 
+
+Schnapper’s  arguments.  But they apply with extra force 
+
+Alderson Reporting Company 
+
+Official 
+
+23 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+with respect to the administrative presentment 
+
+requirement.  And the inclusion now of an administrative 
+
+presentment requirement actually sheds some light on 
+
+what Congress must have meant with respect to the filing 
+
+provisions.  So there are additional reasons with 
+
+respect to administrative presentment, and a lot of the 
+
+arguments that the government has been making, 
+
+particularly in the first argument in Wong, simply don't 
+
+apply to 1966 or to administrative presentment. 
+
+ So Ms. Prelogar says 1966 was important. 
+
+It 
+
+was important.  As of 1966, this scheme looked like a 
+
+completely different scheme from the scheme that 
+
+Congress passed in 1946.  The Tucker Act, the suit 
+
+filing deadline runs from accrual.  There's no 
+
+presentment requirement.  The statute of limitations for 
+
+filing a lawsuit is six years from accrual.  There are 
+
+statutory disability provisions.  FTCA, the suit­filing 
+
+deadline now runs from an agency action, from the final 
+
+determination.  Presentment is required.  The statute of 
+
+limitations for filing the lawsuit is now six months 
+
+from the agency action and there are no listed 
+
+exceptions. 
+
+ Now, the context is fundamentally different 
+
+than for the presentment provision and now for the 
+
+entire FTCA statute of limitations, but let me just talk 
+
+Alderson Reporting Company 
+
+Official 
+
+24 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24 
+
+25
+
+first about presentment.  So the central ­­ first of 
+
+all, the central focus of presentment is informality, is 
+
+flexibility.  You fill out a one­and­a­half page form. 
+
+You literally handwrite into little boxes.  It takes 30 
+
+minutes to fill out.  If you send it to the wrong 
+
+agency, no big deal.  The Department of Justice sends it 
+
+on to the right agency.  And the administrative process 
+
+that is triggered by that filing is not what anyone 
+
+would view as an adjudication.  The statute says it's 
+
+about settlement, it's about negotiations.  To Justice 
+
+Breyer's point, you're usually unrepresented by counsel. 
+
+And the notion ­­ and DOJ says specifically in its 
+
+regulations that what is supposed to happen are, 
+
+"Informal discussions, negotiations and settlement 
+
+rather than any formal or structured process." 
+
+ The notion of applying a rigid, indeed 
+
+jurisdictional rule to that very informal process, flies 
+
+in the face of the whole informality that Congress set 
+
+up for the suit­initiating process. 
+
+ Secondly ­­
+
+ JUSTICE SOTOMAYOR: 
+
+And without need to say, 
+
+there were no prior cases talking about whether this was 
+
+equitable tolling under the Tucker Act because there was 
+
+no such thing. 
+
+ MR. ROSENKRANZ: 
+
+That is exactly right. 
+
+Alderson Reporting Company 
+
+Official 
+
+25 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+The ­­ the presentment requirements all came into play 
+
+in the '60s.  They were never applied to the Tucker Act. 
+
+This was part of a spate of new law so the backdrop law 
+
+against which this is being interpreted, all we have 
+
+now, not when Congress passed it, but all we have now is 
+
+Zipes. 
+
+ Now, all of the ­­ all of the criteria that 
+
+I was ticking off as to what the statute of limitations 
+
+looked like, it looks like Title VII.  In Zipes this 
+
+Court tells us ­­ that is the statute of limitations in 
+
+Title VII ­­ in Zipes this Court tells us that the 
+
+presentment requirement is not subject to equitable 
+
+tolling.  So that's the second point ­­
+
+ JUSTICE SCALIA: 
+
+Mr. Rosenkranz, so I 
+
+understand you, are you arguing that tolling applies to 
+
+the presentment provision even though it doesn't apply 
+
+to other provisions? 
+
+ MR. ROSENKRANZ: 
+
+No, Your Honor. 
+
+ JUSTICE SCALIA: 
+
+Is it possible for us to 
+
+hold that? 
+
+ MR. ROSENKRANZ: 
+
+That is not what I'm 
+
+arguing, Your Honor.  What I'm arguing is tolling has 
+
+always applied, certainly, to this statute, certainly 
+
+under Irwin for reasons that I will explain in a little 
+
+bit. 
+
+Alderson Reporting Company 
+
+Official 
+
+26 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ But when Congress reenacts this in 1966, it 
+
+makes abundantly clear that that conclusion is correct. 
+
+Because now we've got this presentment requirement, 
+
+which I think refreshes congressional intent with 
+
+respect to what it was thinking on jurisdiction. 
+
+ But ­­ but I will circle back to this in a 
+
+moment as I said, but I agree with everything Mr. 
+
+Schnapper said.  In 1946 it was also not jurisdictional 
+
+for the ­­
+
+ JUSTICE SCALIA: 
+
+I don't know what you mean 
+
+by "refreshes congressional intent."  We have a fairly 
+
+rigid doctrine that repeals by implication are not 
+
+favored.  And are you saying that intent was "refreshed" 
+
+so that even if Congress originally thought this was 
+
+jurisdictional in the narrow sense, it now no longer is 
+
+because of the adoption of the presentment provision? 
+
+ MR. ROSENKRANZ: 
+
+I am not, Justice Scalia. 
+
+Let me just be clear.  Our position is from 1946 on, it 
+
+has always been subject to equitable tolling, it has 
+
+never been jurisdictional.  But to the extent that 
+
+anyone doubts that ­­ because as Justice Alito points 
+
+out, Congress wasn't thinking about any of this, so all 
+
+we are talking about is a battle of presumptions.  We 
+
+have two clear statement rules. 
+
+ And I grant you, Justice Scalia that there's 
+
+Alderson Reporting Company 
+
+Official 
+
+27 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+also another clear statement rule with respect ­­ or 
+
+another presumption, that is, with respect to choosing 
+
+language from another source, which I will also get to 
+
+in a moment, but let me just, if I may, finish on 
+
+presentment. 
+
+ The third point I was going to make is that 
+
+as originally drafted, this presentment requirement was 
+
+never a requirement.  It was in the original FTCA.  It 
+
+was permissive.  So with respect to repeals by 
+
+implication, what happens next is Congress makes it a 
+
+requirement.  And the presumption then, or the 
+
+Government's position then, as I understand it, is, when 
+
+Congress turned it in ­­ turned it from permissive to a 
+
+requirement, Congress also made that requirement both 
+
+jurisdictional and impervious to the age­old doctrine of 
+
+equitable tolling. 
+
+ Next point, this Court has never ever found 
+
+that an administrative presentment provision is 
+
+jurisdictional or overcomes the presumption in favor of 
+
+equitable tolling.  And that really is a version of the 
+
+point that Justice Sotomayor was making. 
+
+ Fourth, it is at least relevant that the 
+
+statute here runs from accrual and not from some hard 
+
+and fast point.  And the ­­ the Government is making 
+
+this argument that our fraudulent concealment point is 
+
+Alderson Reporting Company 
+
+Official 
+
+28 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+really an accrual point.  Well, if it is, then that 
+
+means that the same conversations one would have about 
+
+fraudulent concealment one would have about accrual 
+
+anyway. 
+
+ So I ­­ I kept promising that I was going to 
+
+go back to the baseline points, and the baseline 
+
+points ­­
+
+ JUSTICE GINSBURG: 
+
+Mr. Rosenkranz, in that 
+
+regard, would you clarify what is the Government's ­­
+
+what is your position in response to the Government's 
+
+rather strong answer to your suggestion that equity was 
+
+foreign to the claims court? 
+
+ MR. ROSENKRANZ: 
+
+Well, yes, Your Honor. 
+
+First, let me begin by saying that our basic position is 
+
+that ­­ that the presumption exists that Irwin was a sea 
+
+change in the law, that Irwin changes things as to every 
+
+other statute moving forward.  But we've also ticked off 
+
+a series of differences between the Federal Tort Claims 
+
+Act and the Tucker Act, and this difference in forum was 
+
+one of them. 
+
+ So from the start, and I mean 1863, the ­­
+
+the claims court was just a very different body from a 
+
+district court.  Congress viewed it really as an arm of 
+
+Congress at first and then it got adjudicatory powers, 
+
+but it didn't have, in 1863 when Congress passed the 
+
+Alderson Reporting Company 
+
+Official 
+
+29 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+statute and in the 1870s, '80s and into the early 20th 
+
+Century when this Court was interpreting the statute, 
+
+the court of claims just simply did not have equitable 
+
+powers.  This Court said it in Bowen.  "The claims court 
+
+does not have the general equitable powers of a district 
+
+court." 
+
+ Now, the Government cites several cases ­­
+
+ JUSTICE SCALIA: 
+
+You ­­ you contradict the 
+
+Government on that point.  I'm sure the Government said 
+
+just the opposite. 
+
+ MR. ROSENKRANZ: 
+
+The Government did say just 
+
+the opposite and the Government cites several cases. 
+
+Now, it is telling ­­
+
+ JUSTICE GINSBURG: 
+
+It didn't say the 
+
+opposite.  It said the claims court didn't have the 
+
+authority to give equitable remedies.  It didn't have 
+
+the authority to enjoin.  But from the beginning it had 
+
+equitable doctrine as part of its ­­
+
+ MR. ROSENKRANZ: 
+
+Agreed, Your Honor.  The 
+
+Government has taken the opposite position from what I'm 
+
+saying with respect to whether the court of claims from 
+
+the start had broad equitable powers putting aside 
+
+injunctions. 
+
+ And my point is, the first case that the 
+
+Government cites is 50 years after the court of claims 
+
+Alderson Reporting Company 
+
+Official 
+
+30 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+was created.  By that point, the jurisdictional train 
+
+had left the station.  Kendall had been decided, Finn 
+
+had been decided.  It was already set in stone that this 
+
+was a court whose ­­ for whom the statute of limitations 
+
+was jurisdictional. 
+
+ Now, the cases the Government sites, its 
+
+best case is Bowles v. United States, that's already 
+
+1935, I mean, that's many, many years later.  And not a 
+
+single one of those cases, including Bowles, ever 
+
+creates a case­by­case equitable sort of claimant by 
+
+claimant analysis of the sort that equitable 
+
+tolling involves. 
+
+ JUSTICE SCALIA: 
+
+Well, you say they are 
+
+later cases but they didn't say the law has changed from 
+
+what it used to be; did they?  Didn't they purport to 
+
+say that the court of claims had always had that power? 
+
+ MR. ROSENKRANZ: 
+
+Well, they didn't purport 
+
+to say it but they did say the court of claims currently 
+
+has that power, and I grant you that I'm ­­ that that 
+
+may sound like splitting hairs, but we're trying to ­­
+
+we're trying to get behind what this Court was doing 
+
+back in the 1870s and 1880s.  And I'll just emphasize, 
+
+several of the cases that the Government cites, are 
+
+cases in which what the court of claims does looks like 
+
+the result is equitable, but what this Court held was 
+
+Alderson Reporting Company 
+
+Official 
+
+31 
+
+that equity had nothing to do with why this Court 
+
+approved what the court of claims did.  But rather, this 
+
+Court was saying the powers that the court of claims was 
+
+exercising were actually in the statute. 
+
+ So Milligan is a particularly striking 
+
+example.  This Court said that the court of claims 
+
+action with which the Government chalks up to equity, 
+
+actually quote, "Seems to us to fall within these words" ­­
+
+that is, the words of the Tucker Act ­­ quote "in their 
+
+obvious and literal sense." 
+
+ But I don't want to dwell too much on the 
+
+difference between the forums because ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, if I could 
+
+just pause there, I mean, obviously I'll go back and 
+
+reread Bowles.  But in Bowles they said the money should 
+
+be returned because it offended principles of natural 
+
+justice and equity. 
+
+ MR. ROSENKRANZ: 
+
+Yes, Your Honor. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+It doesn't sound 
+
+like something in the statute. 
+
+ MR. ROSENKRANZ: 
+
+Yes, Mr. Chief Justice, and 
+
+what was going on in Bowles was also not 
+
+claimant­by­claimant decisions, it was sort of a broad 
+
+class of claimants.  And I agree with you.  That is the 
+
+one ­­ that is the closest case to what the Government's 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+32 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+position is. 
+
+ But those other cases are, to the extent 
+
+that the court of claims is exercising what looks like 
+
+equity, it's always in favor of the Government.  Which 
+
+is consistent with the manner in which the court of 
+
+claims was born.  It was intended to be a parsimonious 
+
+doler out of government funds. 
+
+ So I want to turn, though, for a moment to 
+
+the proposition that this is just a wholesale 
+
+withdrawal ­­ excuse me, a wholesale adoption of the 
+
+Federal Tort Claims Act plunked into a ­­ excuse me, a 
+
+wholesale adoption of the Tucker Act plunked into a new 
+
+framework, a ­­ a new statute.  It is not.  Certainly 
+
+not in 1966 for the reasons that I've described, but 
+
+also not in 1946. 
+
+ First, I've already mentioned this forum 
+
+distinction.  Secondly, there are ­­ there is a 
+
+distinction and Congress understood there to be a 
+
+distinction between torts and contract claims ­­ on the 
+
+one hand, and contract or takings claims on the other 
+
+hand.  Contract claims and takings claims, even 
+
+contracts, Federal contracts, are governed by Federal 
+
+law. 
+
+ Torts ­­ this ­­ the Congress made the 
+
+decision that tort claims are going to be governed by 
+
+Alderson Reporting Company 
+
+Official 
+
+33 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+State law and it adopted statutes of limitations that 
+
+mimicked State law statutes of limitations.  That 
+
+one­year statute of limitations was an effort to try to 
+
+mimic what States were doing.  And it changed to two 
+
+years, Congress said, because it wanted to mimic what 
+
+States were doing a little bit later. 
+
+ And it's important to understand that the ­­
+
+the State tort laws were always subject to equitable 
+
+tolling.  The differences between a two­year statute of 
+
+limitations and a six­year statute of limitations is ­­
+
+is very considerable, especially when one brings to mind 
+
+the sorts of considerations that Justice Breyer 
+
+mentioned, that tort claimants are often ­­ are often 
+
+unrepresented. 
+
+ JUSTICE GINSBURG: 
+
+Mr. Rosenkranz, may I 
+
+interrupt you because I thought I heard Ms. Prelogar say 
+
+that at the time that the FTCA was adopted, there were 
+
+only four States that applied tolling. 
+
+ MR. ROSENKRANZ: 
+
+I ­­ I don't ­­ I don't 
+
+believe that is true.  Equitable tolling has been a rule 
+
+that courts ­­ that courts have applied since the 1800s 
+
+to all manner of ­­ of claims.  Torts were no exception. 
+
+And one of the reasons that States had such short 
+
+statutes of limitations was precisely because equitable 
+
+tolling provided a relief ­­
+
+Alderson Reporting Company 
+
+Official 
+
+34 
+
+1
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ JUSTICE SOTOMAYOR: 
+
+No.  She's ­­ I'm not 
+
+talking about their equitable tolling in tort cases. 
+
+She's saying in waivers of sovereign immunity, tort 
+
+claims against States, which is slightly different. 
+
+ MR. ROSENKRANZ: 
+
+Oh, yes.  Yes, yes.  So ­­
+
+so let me just rephrase what I understand the government 
+
+to be arguing. 
+
+ Those weren't equitable tolling provisions 
+
+in statutes, as I understand the point the government is 
+
+making, those are exceptions to statutes of limitations. 
+
+They're rigid.  They look like the Tucker Act 
+
+exceptions, but they're not case by case.  They are ­­
+
+if you're overseas, as Mr. Schnapper said earlier ­­
+
+actually, it doesn't matter whether you're monitoring 
+
+the docket and you can fully preserve your ­­ your 
+
+claims, it's just sort of a flat­out bar.  And those are 
+
+the ones that ­­ that I believe the government is 
+
+speaking about. 
+
+ Those are statutory. 
+
+And as Mr. Schnapper 
+
+pointed out, statutory exclusions from the statutes of 
+
+limitations have always coexisted with equitable 
+
+exclusions.  And I also ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Do you think, like 
+
+Mr. Schnapper, that your way of looking at this would 
+
+call into question McNeil v. U.S.? 
+
+Alderson Reporting Company 
+
+Official 
+
+35 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ MR. ROSENKRANZ: 
+
+No, Your Honor.  And I 
+
+don't think it calls into question McNeil v. U.S. at 
+
+all.  So ­­ and there are two pieces to the answer.  The 
+
+first piece is, let's assume that McNeil was a 
+
+jurisdictional ruling, which means that in order to 
+
+present your ­­ in order to file your lawsuit, you have 
+
+to present your claim first to the agency. 
+
+ Well, in order to file a lawsuit, in real ­­
+
+outside of this context, you also have to file a 
+
+complaint.  The filing of a complaint is jurisdictional, 
+
+but that doesn't mean that the time limit for filing it 
+
+is jurisdictional.  So too here, if indeed the filing of 
+
+an administrative form ­­ you know, this administrative 
+
+presentment is jurisdictional, that doesn't mean that 
+
+the ­­ that the time limit for filing it is also 
+
+jurisdictional. 
+
+ But I said there were two halves. 
+
+The 
+
+second half is I agree with Mr. Schnapper, this Court 
+
+came to a conclusion in McNeil.  The conclusion is you 
+
+can't have your lawsuit without exhausting 
+
+administrative remedies.  That was not stated as a 
+
+jurisdictional ruling.  It was ­­ it ­­ it is analyzed 
+
+much more like an exhaustion ruling, to my mind, which 
+
+doesn't necessarily mean jurisdictional. 
+
+ So I was beginning to tick off some of the 
+
+Alderson Reporting Company 
+
+Official 
+
+36 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+differences between the Federal Tort Claims Act and the 
+
+Tucker Act, and I was talking about the differences in 
+
+statutes of limitations, the differences in the nature 
+
+of the forums, the differences in the nature of the law, 
+
+and I want to come back to that last one. 
+
+ The FTCA treats the government like a 
+
+private individual.  It says it three times in the 
+
+statute and it treats the government, to the Chief 
+
+Justice's question, as a private individual with respect 
+
+to liability.  So it's not with respect to all 
+
+procedures that might come up, but it says with respect 
+
+to liability.  Well, statutes of limitations dictate 
+
+liability and the procedures attached to the statutes ­­
+
+excuse me, the time limits attached to the statutes of 
+
+limitations also affect liability. 
+
+ JUSTICE SOTOMAYOR: 
+
+I have ­­ I have a 
+
+question.  Why is it important to tie this presumption 
+
+of jurisdiction or not to the 1946 Act?  I mean, why 
+
+don't you just say that whatever presumptions existed of 
+
+borrowing from the Tucker Act obviously changed in 1966. 
+
+ MR. ROSENKRANZ: 
+
+That ­­
+
+ JUSTICE SOTOMAYOR: 
+
+They changed the 
+
+language, they changed the process.  I mean, do we need 
+
+to go back?  Why ­­ why not just say, whatever the 
+
+presumptions were with respect to the jurisdictional 
+
+Alderson Reporting Company 
+
+Official 
+
+37 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+nature in the Tucker Act in 1946, or even thereafter, 
+
+got completely thrown out the window in 1966? 
+
+ MR. ROSENKRANZ: 
+
+That ­­ that was indeed, 
+
+Justice Sotomayor, my opening point.  And I've been 
+
+making this argument ­­
+
+ JUSTICE SOTOMAYOR: 
+
+But then you said I 
+
+agree with Mr. Schnapper that since 1946 ­­
+
+ MR. ROSENKRANZ: 
+
+So ­­ so I was making the 
+
+argument to those like Justice Scalia, who reject our 
+
+refreshment theory ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Okay. 
+
+ MR. ROSENKRANZ: 
+
+­­ and ­­ and say, well, 
+
+what about 1946?  And even in 1946, that if you apply 
+
+the Irwin presumption, which this Court said in Irwin it 
+
+would, you get the same result.  And that's ­­ that's 
+
+the fundamental point on the precedence that I want to 
+
+make sure to emphasize. 
+
+ Our argument is not that this is a living 
+
+statute that blows in the wind with congressional 
+
+intent.  Our argument is that Irwin made it clear that 
+
+there is a sea change, that Soriano and all the cases 
+
+dating back on the Tucker Act adopted a vision of what 
+
+Congress must have intended that Irwin says is wrong. 
+
+That is not what Congress intends just because it waives 
+
+sovereign immunity.  And so ­­
+
+Alderson Reporting Company 
+
+Official 
+
+38 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, I don't think 
+
+it can be regarded as such a sea change because the 
+
+basic principle is you're looking to legislative intent. 
+
+And he said, the ­­ the late Chief, that the realistic 
+
+assessment of legislative intent is likely to be found 
+
+based on the presumption.  Of course, you know, subject 
+
+to rebuttal. 
+
+ So that doesn't seem to me to be ­­ the 
+
+whole point is we think this is how best define 
+
+legislative intent, and that I thought has always been 
+
+the rule. 
+
+ MR. ROSENKRANZ: 
+
+Well, that's always been 
+
+the rule, Your Honor, in the private context and the 
+
+government is now being put in the private context, but 
+
+that was not always the rule with respect to the 
+
+government and certainly not consistently because we 
+
+have Soriano. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+But, I mean, that 
+
+was not a legislative intent.  The view was not that we 
+
+think the presumption of legislative intent is ­­ is no 
+
+equitable tolling. 
+
+ MR. ROSENKRANZ: 
+
+Oh, Your Honor, I ­­ I beg 
+
+to differ.  As I read Kendall and Finn, they didn't ­­
+
+this Court did not use phrases like "presumption."  But 
+
+what this Court did was to say Congress didn't say 
+
+Alderson Reporting Company 
+
+Official 
+
+39 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+anything about this, but it was legislating against a 
+
+backdrop of waiving sovereign immunity, and when 
+
+Congress waives sovereign immunity, we have to read 
+
+statutes in a particular way; we're going to read them 
+
+very strictly. 
+
+ Irwin says, no, that's not how we're going 
+
+to read statutes, that the better way to read statutes 
+
+is to assume the opposite, that Congress did not intend 
+
+statutes of limitations to be jurisdictional.  And 
+
+sure ­­ and by the way, John R. Sands says, and I quote, 
+
+"It was" ­­ and I quote ­­ "a turn in the course of the 
+
+law," which now, quote, "places great weight upon the 
+
+equitable importance of treating the government like 
+
+other litigants and less weight on the special 
+
+governmental interest in protecting public funds." 
+
+Words that this Court, perhaps by accident, but ­­ but 
+
+almost took directly out of the Federal Tort Claims Act, 
+
+treating the government like it treats other parties. 
+
+ So ­­ so Justice Scalia makes a powerful ­­
+
+powerful point about a countervailing presumption.  But 
+
+it is not ­­ by which I mean it is another presumption, 
+
+but it is a ­­ it is an argument  that doesn't play out 
+
+plainly in this context.  And the reason is, as was 
+
+covered in quite a bit of detail earlier this morning, 
+
+the notion of ­­ of fixating on the words "forever 
+
+Alderson Reporting Company 
+
+Official 
+
+40 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+barred" or the eight or 12 words around it to the 
+
+exclusion of the rest of the statute is just wrong. 
+
+ The ­­ there was no magic to the words 
+
+"forever barred," not in 1863, not in 1946.  If you do a 
+
+Westlaw search of forever barred, you will find scores 
+
+of garden­variety statutes of limitations that are 
+
+structured exactly this way and that use the exact same 
+
+words.  And that's the point Justice Kagan was pointing 
+
+out, Professor Sick's ­­ Sisk's brief at page 20 gives 
+
+all sorts of examples.  Mr. Schnapper gave others.  The 
+
+Fair Labor Standards Act is one.  The ­­ the statutes or 
+
+statute that this Court was interpreting in both Klehr 
+
+and Rotella is another. 
+
+ And then layer on top of that the fact that 
+
+the Federal ­­ that the Tucker Act no longer even has 
+
+"forever barred" in the language, and still this Court 
+
+says it bears the same meaning.  And it points out in ­­
+
+in John R. Sand's that the change in language did not 
+
+make a fundamental difference. 
+
+ And as I was saying ­­ oh, let me just make 
+
+one more point on this. 
+
+ In 1877, this Court, in a case called 
+
+Sanger, which was also cited in Professor Sisk's brief, 
+
+says that that very language, forever barred, is, quote, 
+
+“an ordinary statute of limitations.” 
+
+Alderson Reporting Company 
+
+Official 
+
+41 
+
+1
+
+2 
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8 
+
+9
+
+10
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ So let me just pause and see if the Court 
+
+has other questions that it wants to draw me to. 
+
+ So if there are no further questions, we 
+
+respectfully request that the Court affirm the court of 
+
+appeals.  Thank you, Your Honors. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Ms. Prelogar, you have eight minutes 
+
+remaining. 
+
+ REBUTTAL ARGUMENT OF ELIZABETH PRELOGAR 
+
+ ON BEHALF OF PETITIONER 
+
+ MS. PRELOGAR: 
+
+If I could just make three 
+
+points.  First, with respect to the administrative 
+
+presentment requirement in particular, I want to be very 
+
+clear on this.  From the beginning, from 1946 forward, 
+
+there was an optional administrative presentment 
+
+procedure, and this appears in our brief at page 9a. 
+
+This is the original text of the FTCA time bar, and it 
+
+uses the very same operative language with respect to 
+
+that administrative presentment option:  Every claim 
+
+against the United States cognizable shall be forever 
+
+barred unless.  So this is a procedure that has been in 
+
+the FTCA from the very beginning. 
+
+ In 1966, what Congress did is make that 
+
+administrative presentment requirement mandatory.  But 
+
+when it did so, it did so against the backdrop of every 
+
+Alderson Reporting Company 
+
+Official 
+
+42 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+lower court to consider the issue, holding that this 
+
+language was jurisdictional, not subject to tolling.  It 
+
+did so against the backdrop of Congress repeatedly, in 
+
+the private bills, making clear that this was 
+
+jurisdictional language and that it had to confer 
+
+jurisdiction on district courts when plaintiffs were 
+
+trying to proceed outside the time limits. 
+
+ JUSTICE SOTOMAYOR: 
+
+Are you saying that the 
+
+administrative process was jurisdictional?  I mean ­­
+
+ MS. PRELOGAR: 
+
+Well, the administrative 
+
+presentment requirement itself, of course, this Court 
+
+had held ­­ which it has held was jurisdictional in the 
+
+McNeil case.  I'm not aware of ­­ of lower courts in 
+
+that time limit ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Did we use the language, 
+
+"jurisdictional"? 
+
+ MS. PRELOGAR: 
+
+You affirmed for lack of 
+
+jurisdiction, and I think that McNeil language does show 
+
+that it's an absolute or strict deadline.  There is no 
+
+room to any exception to it.  Every lower court has 
+
+understood McNeil to be jurisdictional, and Congress, in 
+
+1988, when it enacted the Westfall Act specifically said 
+
+in ­­ in the House report that the administrative 
+
+exhaustion requirement was jurisdictional, which is why 
+
+it created that ­­ that narrow exception to permit an 
+
+Alderson Reporting Company 
+
+Official 
+
+43 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+extra 60 days.  So I think it is clearly settled that 
+
+the exhaustion requirement at this point is 
+
+jurisdictional. 
+
+ But the point that I was trying to make 
+
+about the 1966 reenactment is there, against that 
+
+consistent backdrop about what this language means, the 
+
+language that Congress had used, Congress, to set forth 
+
+a presentment requirement, used the same language once 
+
+again and ­­ and, therefore, intended it to have the 
+
+same meaning. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, Mr. Rosenkranz 
+
+tells us that that language is pretty typical for your 
+
+ordinary, run­of­the­mill statute of limitations.  It 
+
+sounds pretty daunting, you know, forever barred, but 
+
+apparently that's the normal language that's used. 
+
+ MS. PRELOGAR: 
+
+And it's absolutely the case, 
+
+Mr. Chief Justice, that it is not "forever barred" 
+
+itself that necessarily has magic import here.  It's the 
+
+Tucker Act analogy, the fact that Congress got this 
+
+language from the Tucker Act, and that in that context, 
+
+which was a parallel context, it had interpreted to be 
+
+jurisdictional which makes the difference here.  Every 
+
+statute will have to be evaluated in light of not just 
+
+the text but its context and history. 
+
+ JUSTICE BREYER: 
+
+Are exactly the problem 
+
+Alderson Reporting Company 
+
+Official 
+
+44 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+because the ­­ really the better language in Irwin is, 
+
+again, the Chief Justice, "A continuing effort on our 
+
+part to decide each case on an ad hoc basis as we appear 
+
+to have done in the past would have the disadvantage of 
+
+continued unpredictability without the corresponding 
+
+advantage of greater fidelity to the intent of Congress. 
+
+We think that this" rule affords us ­­ "this case 
+
+affords us an opportunity to adopt a more general rule, 
+
+to govern the applicability of equitable tolling in 
+
+suits against the government." 
+
+ Yet everything I've heard, not everything, 
+
+but many of the things I've heard say that this statute 
+
+is special because if we go into the history of it, if 
+
+we decide what the various other rules are that might 
+
+infer intents where they say nothing, if we look over 
+
+the ­­ if we do this, if we do that, we will discover 
+
+that here, unlike many other statutes that use the words 
+
+"forever barred," here Congress really intended it. 
+
+ Now, how do we reconcile that view with the 
+
+two sentences I just read? 
+
+ MS. PRELOGAR: 
+
+Well, Justice Breyer, I think 
+
+that it would be very easy if the Irwin presumption were 
+
+just conclusive, but it's not.  The Court adopted that 
+
+presumption as a way to implement congressional intent, 
+
+and the Court made clear that it's rebuttable, which 
+
+Alderson Reporting Company 
+
+Official 
+
+45 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+means that the government is ­­ if the government can 
+
+come forward with statute­specific evidence that it is 
+
+rebutted, the Court needs to honor congressional intent 
+
+in an individual case.  So the Irwin presumption can't 
+
+excuse the normal statutory interpretation process, 
+
+looking at the text, context, and history. 
+
+ A brief point on the court of claims issue. 
+
+If I understand Respondent, he would distinguish our 
+
+cases by saying that they were all rendered after this 
+
+Court's Tucker Act line of cases in 1906 and 1935. 
+
+Notably, that's before Congress enacted the FTCA.  And 
+
+it shows that Congress, when it was enacting that 
+
+language, had no reason to think that there was some 
+
+tribunal­based difference between the court of claims 
+
+and the district court such that the language would be 
+
+interpreted in fundamentally different ways based only 
+
+on the tribunal. 
+
+ A final point I ­­ I would like to make, 
+
+drawing back, to just focus on what I understand to be 
+
+the basic divide between the parties in this case. 
+
+Respondents in both cases seek primarily to rely on a 
+
+general presumption, the Irwin presumption, which wasn't 
+
+announced with this particular statute in mind. 
+
+ The government has come forward with an 
+
+overwhelming amount of statute­specific evidence related 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4
+
+
+5
+ 
+
+6 
+
+7
+
+8
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+46 
+
+to the text, the context, the history of this statute, 
+
+and that statute­specific evidence has to control.  The 
+
+Irwin presumption is rebutted. 
+
+
+ If there are no further questions, we 
+
+
+respectfully ask that you reverse the decision of the 
+
+Ninth Circuit. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ The case is submitted. 
+
+ (Whereupon, at 11:58 a.m., the case in the 
+
+above­entitled matter was submitted.) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+Official
+
+Page 47 
+
+33:17 37:22 44:23  applies 8:15 15:10 
+
+adopt 17:6 44:8 
+adopted 17:10 33:1 
+
+adoption 26:16 
+
+32:10,12 
+
+back 7:8 26:6 28:6 
+
+18:17,19 25:2,23 
+33:18,21 
+
+33:6 39:24 
+30:22 31:14 36:5  blows 37:19 
+36:24 37:22 45:19  board 21:24 
+16:17 17:25 21:15  backdrop 19:4 25:3  body 28:22 
+25:15 
+
+39:2 41:25 42:3 
+43:6 
+
+17:22 21:1 22:24  backwards 18:9 
+22:25 23:9 25:16  bankruptcy 19:16 
+37:13 
+
+19:17 
+
+born 32:6 
+borrowing 36:20 
+bowen 13:24 14:1 
+
+29:4 
+
+bowles 5:3 30:7,9 
+
+apply 3:13 16:25 
+
+advantage 44:6 
+affect 36:15 
+affirm 41:4 
+affirmed 42:17 
+affords 17:6 44:7,8  applying 17:7,8 
+agency 12:4 23:18 
+
+ageold 27:15 
+agree 16:25 17:16 
+
+20:13 24:16 
+23:21 24:6,7 35:7  approval 10:1 
+approved 31:2 
+area 6:24 
+argue 11:14 
+arguing 13:17 
+
+17:19,24 26:7 
+31:24 35:18 37:7 
+
+bar 3:13 4:12 6:6,8 
+
+31:15,15,22 
+
+6:14 9:7 10:2,5,10  boxes 24:4 
+11:8,15,17,19,22 
+13:25 14:1,10 
+21:11 34:16 41:17 
+barred 4:3 5:24 6:2 
+
+breyer 15:17,21 
+16:12,22 17:16 
+18:2,11 21:14 
+33:12 43:25 44:21 
+
+6:3 40:1,4,5,16,24  breyers 24:11 
+41:21 43:14,17 
+44:18 
+
+brief 7:22,22 19:25 
+
+25:15,22,22 34:7 
+argument 1:13 2:2 
+2:5,8 3:4,7 6:16 
+17:21 19:21,22 
+22:19 23:8 27:25  baseline 28:6,6 
+37:5,9,18,20 
+basic 28:14 38:3 
+39:22 41:9 
+
+based 15:5 38:6 
+
+45:20 
+
+45:16 
+
+arguments 22:23 
+
+22:25 23:7 
+arisen 11:25 
+arm 28:23 
+arose 3:14 
+ash 7:9 8:18 
+aside 29:22 
+
+asking 3:18 
+assessment 17:11 
+
+17:17 38:5 
+
+assistant 1:16 
+assume 35:4 39:8 
+assumed 7:11 
+attached 5:22 6:12 
+
+basically 7:5 
+basis 12:25 20:24 
+
+44:3 
+
+battle 26:23 
+bears 40:17 
+beating 15:19 
+beg 38:22 
+beggerly 8:13 
+beginning 29:17 
+35:25 41:14,22 
+
+behalf 1:18,19 2:4 
+2:7,10 3:8 22:20 
+41:10 
+
+believe 3:11 33:20 
+
+34:17 
+
+36:13,14 
+
+benefit 12:8 
+benefits 14:3 
+auburn 8:13 
+authority 29:16,17  best 30:7 38:9 
+aware 10:16 11:2 
+
+11:16 42:13 
+
+B 
+
+b 11:9 
+
+better 39:7 44:1 
+big 21:19,22 24:6 
+bill 11:4 21:23 
+bills 10:12 42:4 
+bit 13:15 25:25 
+
+20:9 40:9,23 
+41:16 45:7 
+brings 33:11 
+broad 29:22 31:23 
+broadening 16:6 
+brockamp 8:13 
+burden 18:1 
+
+C 
+
+c 1:9,17 2:1 3:1 
+call 4:22 9:14 34:25 
+called 9:15 40:22 
+calls 35:2 
+cannon 7:21 
+cant 15:13 20:12 
+
+35:20 45:4 
+
+care 10:21 12:25 
+carefully 6:12,18 
+case 3:4 7:21 12:15 
+13:10 14:8 16:19 
+17:6 19:14 22:24 
+29:24 30:7 31:25 
+34:12,12 40:22 
+42:13 43:16 44:3 
+44:7 45:4,20 46:8 
+46:9 
+
+casebycase 12:25 
+
+30:10 
+
+cases 6:11,19,23 
+
+agreed 29:19 
+ahead 22:2 
+alexander 7:22 
+alito 26:21 
+allowed 14:2 
+alter 20:7 
+amount 45:25 
+amounts 16:5 
+analogy 6:22 43:19 
+analysis 15:15 
+20:25 30:11 
+
+analyzed 35:22 
+announced 11:18 
+
+45:23 
+
+28:11 35:3 
+
+answers 16:23,23 
+
+16:24 
+
+answer 14:19 15:22  asked 14:17 18:7 
+
+A 
+
+aboveentitled 1:12 
+
+46:10 
+
+absolute 14:12 
+17:20 42:19 
+
+absolutely 4:21 
+
+12:15 13:8 43:16 
+
+abundantly 26:2 
+accept 17:21 
+accident 39:16 
+accompanies 22:3 
+account 12:6,7 
+accrual 23:14,16 
+
+27:23 28:1,3 
+
+acquiesced 7:24 
+acquiescing 11:13 
+act 4:5,16 6:6,8,10 
+
+6:13 11:19,24 
+12:7,17 13:11 
+15:5,5 19:15,16 
+19:17,19,24 20:2 
+21:3 23:13 24:23 
+25:2 28:19,19 
+31:9 32:11,12 
+34:11 36:1,2,18 
+36:20 37:1,22 
+39:17 40:11,15 
+42:22 43:19,20 
+45:10 
+
+acted 11:21 
+action 6:23 7:7,11 
+7:12,16,19 8:6,17 
+8:20 23:18,21 
+31:7 
+
+anyway 28:4 
+apparently 43:15 
+appeal 5:4,9 
+appealing 14:3 
+
+actions 10:6 22:1 
+ad 44:3 
+additional 23:5 
+adjudication 24:9 
+adjudicatory 28:24  appeals 41:5 
+appear 44:3 
+administered 21:6 
+appearances 1:15 
+administrative 
+
+12:3 13:19 23:1,2  appeared 4:10 
+23:6,9 24:7 27:18  appears 41:16 
+35:13,13,21 41:12 
+41:15,19,24 42:9 
+42:10,23 
+
+applicability 44:9 
+applicable 16:3,5 
+applied 16:9 18:9 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Official 
+
+Page 48 
+
+12:20 13:20,22,25  conclusion 19:12 
+14:11,14 30:10,11 
+
+7:7 8:2,3,6,12,17 
+10:17 11:12,14 
+26:2 35:19,19 
+13:11,23 14:10,15  claimantbyclaim...  conclusive 17:14 
+17:21 20:2,10 
+21:3,6,10,10 
+24:22 29:7,12 
+30:6,9,14,23,24 
+32:2 34:2 37:21 
+45:9,10,21 
+
+condition 22:12 
+confer 42:5 
+conferred 11:7 
+confess 15:14 
+
+claims 20:3,8,11,13  congress 3:12,23 
+
+claimantfriendly 
+
+claimants 31:24 
+
+44:23 
+
+31:23 
+
+33:13 
+
+14:7 
+
+contemporary 7:20 
+
+18:14 
+
+32:5 35:18 37:14 
+38:24,25 39:16 
+40:12,16,22 41:1 
+41:4,4 42:1,11,20 
+44:23,25 45:3,7 
+45:14,15 
+
+context 4:5,16 5:2,6 
+5:15 7:19,20 15:8 
+18:14 19:24 21:17 
+23:23 35:9 38:13 
+38:14 39:23 43:20  courts 5:10,18 8:11 
+43:21,24 45:6 
+46:1 
+
+11:8,16 12:24 
+19:17 20:4,13,18 
+20:23 21:3 33:21 
+33:21 42:6,13 
+45:10 
+
+covered 39:24 
+create 10:18 
+created 30:1 42:25 
+creates 20:25 30:10 
+criteria 25:7 
+currently 30:18 
+
+D 
+
+d 1:9,17 3:1 12:18 
+da 16:6,6,6 
+damages 20:15 
+
+21:20 
+
+chalks 31:7 
+change 11:16 18:22  class 31:24 
+
+20:18,22 21:7 
+22:5 28:12,18,22 
+29:3,4,15,21,25 
+30:16,18,24 31:2 
+31:3,6 32:3,6,11 
+32:19,20,21,21,25 
+33:22 34:4,16 
+36:1 39:17 45:7 
+45:14 
+
+clarify 28:9 
+clark 18:25 19:9,11 
+
+clear 3:20,23 4:1,18 
+
+4:23 5:3,13 7:23 
+9:25 13:3,10 
+17:12 18:16 22:9 
+26:2,18,24 27:1 
+37:20 41:14 42:4 
+44:25 
+
+clearly 6:6 43:1 
+closest 31:25 
+coexisted 34:21 
+cognizable 4:3 
+
+41:20 
+
+come 18:4 36:5,11 
+
+45:2,24 
+
+comes 13:11 19:9 
+
+20:6 
+
+categorical 3:21 
+cause 8:20 10:18 
+
+13:5 
+
+center 8:14 
+central 24:1,2 
+century 29:2 
+certain 18:3 
+certainly 13:21 
+
+25:23,23 32:13 
+38:16 
+
+28:16 37:21 38:2 
+40:18 
+
+changed 30:14 33:4 
+
+36:20,22,23 
+
+changes 9:7 10:4 
+
+28:16 
+
+characterizes 13:19 
+chief 3:3,9 4:9,13 
+15:23 22:17,21 
+31:13,19,21 36:8 
+38:1,4,18 41:6 
+43:11,17 44:2 
+46:7 
+
+choice 10:14 
+choosing 27:2 
+circle 26:6 
+circuit 46:6 
+cite 7:21 
+cited 8:4 40:23 
+cites 29:7,12,25 
+
+30:23 
+
+contradict 29:8 
+control 46:2 
+conversations 28:2 
+correct 18:21 26:2 
+
+4:10,15,19,22 
+continued 44:5 
+5:20 6:5,25 7:2,24  continuing 44:2 
+8:19,23 9:5,13,15  contract 20:20 
+9:25 10:4,10,16 
+32:19,20,21 
+10:19 11:2,5,6,14  contracts 32:22,22 
+11:16,20,23 12:7 
+12:13,17,23,24 
+13:12,13 16:1,18 
+16:24 18:5 19:3 
+19:22 21:12,18,21  corresponding 
+21:22 22:10,13 
+23:4,13 24:18 
+cort 7:9,17 8:18 
+25:5 26:1,14,22 
+couldnt 6:14 
+27:10,13,14 28:23  counsel 22:17 
+28:24,25 32:18,24 
+33:5 37:23,24 
+38:25 39:3,8 
+41:23 42:3,21 
+43:7,7,19 44:6,18 
+45:11,12 
+
+18:22,24 21:8 
+38:6 39:11 42:11 
+
+24:11 41:6 46:7 
+
+countervailing 
+
+44:5 
+
+congressional 26:4 
+26:11 37:19 44:24 
+45:3 
+
+congresss 3:16 10:6 
+consequences 6:13 
+conservator 1:7 
+consider 6:18 10:25 
+
+18:13 42:1 
+
+39:20 
+
+dating 37:22 
+daunting 43:14 
+course 4:1,22 18:13  days 12:20 43:1 
+deadline 10:20 
+
+23:14,18 42:19 
+
+21:23 
+
+dealing 6:24 
+
+deal 7:4 20:10 
+21:19,22 24:6 
+
+court 1:1,13 3:10 
+4:25 5:7,17 6:17 
+6:18 7:10,18,22 
+8:10 9:9 10:13,25  debated 10:17 
+11:18 12:11 13:22  debating 21:23 
+decades 10:24 
+13:24 14:6,8 
+15:13 16:8 17:13 
+december 1:10 
+18:13,25 19:5,11 
+19:16,18 20:3,8,8  decide 44:3,14 
+20:11,14,16,17,21  decided 5:10,12 
+20:22 21:5,6,8 
+22:22 25:10,11 
+27:17 28:12,22,23  decision 6:19 7:25 
+19:1 32:25 46:5 
+29:2,3,4,4,6,15,21 
+29:25 30:4,16,18 
+30:21,24,25 31:1 
+31:2,3,3,6,6 32:3 
+
+11:2,21 31:23 
+declined 10:11 
+
+10:19 18:25 30:2 
+30:3 
+
+decisions 5:18 6:12 
+
+considerable 33:11 
+considerations 
+
+comfortable 21:23 
+common 5:25 
+comparable 13:5 
+complaint 35:10,10  considered 6:12 
+completely 23:12 
+
+19:13 33:12 
+
+8:12 10:12 
+
+claim 4:2 12:3,19 
+13:20 14:9 20:14 
+35:7 41:19 
+
+claimant 12:1,19 
+
+37:2 
+
+concealment 27:25 
+
+28:3 
+
+considering 20:14 
+consistent 13:3 
+
+32:5 43:6 
+
+concern 13:23 
+
+consistently 38:16 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+employee 12:1,9,10  exception 10:19 
+
+12:12,14 
+
+enacted 10:10 
+
+12:22 33:22 42:20 
+42:25 
+
+11:24 16:9 18:15 
+18:17,19 19:3 
+21:21 42:22 45:11  exclusion 40:2 
+
+exceptions 23:22 
+
+34:10,12 
+
+fidelity 44:6 
+exclusions 34:20,22  file 35:6,8,9 
+excuse 32:10,11 
+
+defendant 12:2,22 
+define 38:9 
+deliberate 10:14 
+denial 14:3 
+department 1:17 
+
+24:6 
+
+depend 4:14 
+described 32:14 
+detail 39:24 
+determination 
+
+23:19 
+
+dictate 36:12 
+didnt 6:17 8:2,16 
+8:16 13:14 28:25 
+29:14,15,16 30:14 
+30:15,17 38:23,25 
+
+differ 38:23 
+difference 14:16 
+
+doctrine 3:12 10:8 
+26:12 27:15 29:18 
+doctrines 20:19,20 
+doesnt 4:23 6:25 
+
+7:2 9:20 15:3 
+21:2 25:16 31:19 
+34:14 35:11,14,24  enacting 7:8 9:6 
+38:8 39:22 
+
+45:12 
+
+doing 10:19 16:19 
+
+30:21 33:4,6 
+
+enactment 3:24 
+encompass 14:4 
+enemy 19:15,19 
+enjoin 29:17 
+
+doj 24:12 
+doler 32:7 
+dont 4:9,20 5:23,23  entire 21:10 23:25 
+
+7:7 9:2 14:11 
+15:11 17:19,21 
+23:8 26:10 31:11 
+33:19,19 35:2 
+36:19 38:1 
+
+entirely 12:23 
+equal 22:24 
+equally 20:23 
+equatable 21:7 
+equate 16:15,16 
+equating 13:4 
+equitable 3:12,24 
+
+36:14 45:5 
+exercise 20:6 
+exercising 31:4 
+
+32:3 
+
+exhausting 35:20 
+exhaustion 35:23 
+
+42:24 43:2 
+existed 36:19 
+exists 28:15 
+exorbitant 9:18 
+experience 10:24 
+explain 21:3 25:24 
+
+Page 49 
+
+federal 12:1,9,10 
+12:12,13 15:10 
+19:16 22:2 28:18 
+32:11,22,22 36:1 
+39:17 40:15 
+
+filing 23:4,14,16,20 
+24:8 35:10,11,12 
+35:15 
+
+fill 24:3,5 
+final 23:18 45:18 
+finally 11:10,23 
+find 40:5 
+finish 27:4 
+finn 21:9 30:2 
+
+38:23 
+
+first 19:1 23:8 24:1 
+
+24:1 28:14,24 
+29:24 32:16 35:4 
+35:7 41:12 
+
+five 8:12 
+fixating 39:25 
+flatout 34:16 
+flexibility 24:3 
+flies 24:17 
+focus 24:2 45:19 
+focusing 3:14 
+force 18:17 22:24 
+
+22:25 
+
+foreign 28:12 
+forever 4:3 6:2 
+
+39:25 40:4,5,16 
+40:24 41:20 43:14 
+43:17 44:18 
+
+forgotten 14:19 
+form 11:4 22:8 
+
+24:3 35:13 
+formal 24:15 
+forth 43:7 
+forum 28:19 32:16 
+forums 31:12 36:4 
+forward 28:17 
+41:14 45:2,24 
+
+found 27:17 38:5 
+four 8:12 10:5 22:4 
+
+20:25 28:19 31:12  doubt 4:9 
+40:19 43:22 45:14  doubts 26:21 
+dozens 17:2 
+drafted 27:7 
+draw 41:2 
+drawing 45:19 
+
+differences 28:18 
+33:9 36:1,2,3,4 
+different 6:1 7:14 
+7:17 20:6 23:12 
+23:23 28:22 34:4  draws 20:3 
+45:16 
+
+driveby 6:11 
+dwell 31:11 
+
+directly 19:23 
+
+39:17 
+
+disability 23:17 
+disadvantage 44:4 
+disagree 13:18 
+discover 44:16 
+discussions 24:14 
+distinction 14:15 
+17:4 20:2 32:17 
+32:18,19 
+
+distinguish 20:1 
+
+45:8 
+
+distinguished 
+
+20:17 
+
+district 11:8 20:4 
+20:13,14,18,23 
+28:23 29:5 42:6 
+45:15 
+
+divide 45:20 
+docket 34:15 
+
+E 
+
+e 1:19 2:1,6 3:1,1 
+
+22:19 
+
+earlier 10:12 13:7 
+
+34:13 39:24 
+
+early 6:10 29:1 
+easier 18:11 
+easy 44:22 
+effort 20:1 33:3 
+
+44:2 
+
+eight 40:1 41:7 
+either 10:7 
+elizabeth 1:16 2:3,9 
+
+3:7 41:9 
+
+emphasize 9:23 
+
+30:22 37:17 
+
+emphasized 5:1 
+
+13:22 14:6,8 
+
+extend 10:20 13:14 
+
+19:15 
+
+expressly 10:10 
+
+6:15 8:10 10:8,21  explained 20:9 
+12:25 13:6,6 16:3  express 16:1 
+16:25 18:6 19:1 
+19:12,18 20:7,10 
+20:19,19,19,20 
+21:2,15 24:23 
+25:12 26:19 27:16  extensive 15:15 
+27:20 29:3,5,16 
+29:18,22 30:10,11  extra 12:19,19 
+30:25 33:8,20,24 
+34:2,8,21 38:21 
+39:13 44:9 
+
+22:25 43:1 
+
+14:2 
+
+extent 26:20 32:2 
+
+equity 14:5 28:11 
+
+31:1,7,17 32:4 
+
+erwin 12:10 
+especially 33:11 
+esq 1:16,19 2:3,6,9 
+estoppel 20:21 
+evaluated 43:23 
+evidence 3:22 45:2 
+
+45:25 46:2 
+
+exact 15:2,3 40:7 
+exactly 24:25 40:7 
+
+43:25 
+
+example 31:6 
+examples 40:10 
+
+F 
+face 24:18 
+fact 7:24 15:21 
+
+16:12 21:3,11,22 
+40:14 43:19 
+factor 17:20 
+factors 22:11 
+fair 40:11 
+fairly 26:11 
+fairness 14:5 
+fall 31:8 
+fared 8:9 
+fast 27:24 
+favor 27:19 32:4 
+favored 26:13 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+22:7 33:18 
+fourth 27:22 
+framework 32:13 
+fraudulent 27:25 
+
+28:3 
+
+fresh 9:17 
+friendliness 14:14 
+friendly 13:20,22 
+
+13:25 14:11 
+
+ftca 3:13,23 9:6,24 
+
+10:10,25 13:20 
+18:24 19:24 20:13 
+23:17,25 27:8 
+33:17 36:6 41:17 
+41:22 45:11 
+
+hearings 10:18 
+good 3:11 
+held 8:10,14 11:1 
+gosh 7:8 
+govern 15:8 44:9 
+30:25 42:12,12 
+governed 32:22,25  henderson 5:17 
+governing 7:25 
+government 8:11 
+9:11 15:11 16:4 
+16:17 18:1,11 
+19:2 22:2 23:7 
+27:24 29:7,9,9,11 
+29:12,20,25 30:6 
+30:23 31:7 32:4,7  hold 16:7,13 25:20 
+34:6,9,17 36:6,8 
+holding 15:24 19:1 
+38:14,16 39:13,18 
+44:10 45:1,1,24 
+
+13:24 14:6 
+hinged 7:24 
+historical 9:9 10:1 
+13:2 15:6 21:17 
+history 9:24 43:24 
+44:13 45:6 46:1 
+
+hoc 44:3 
+
+42:1 
+
+great 39:12 
+greater 18:16 44:6  house 22:3 42:23 
+grow 21:23 
+
+husband 15:20 
+
+fully 22:6 34:15 
+function 21:4 
+fundamental 37:16  governments 14:21 
+
+governmental 
+
+39:15 
+
+40:19 
+
+fundamentally 
+
+20:6 23:23 45:16 
+
+funds 32:7 39:15 
+further 22:15 41:3 
+
+27:12 28:9,10 
+31:25 
+
+grant 26:25 30:19 
+granted 11:6 
+gravel 8:13 17:14 
+
+46:4 
+
+21:9 
+
+G 
+
+g 3:1 
+gardenvariety 40:6 
+general 1:17 17:6 
+29:5 44:8 45:22 
+
+H 
+hairs 30:20 
+half 35:18 
+
+generally 6:25 
+ginsburg 4:17 5:1,7  halves 35:17 
+
+5:23 6:9 9:10,22 
+11:5,11 12:5,16 
+13:7 18:18,22 
+21:15 28:8 29:14  happened 18:23 
+33:15 
+
+hand 32:20,21 
+handwrite 24:4 
+happen 24:13 
+
+give 29:16 
+given 16:22 17:18 
+gives 40:9 
+go 28:6 31:14 36:24 
+
+44:13 
+
+going 4:22 5:11 
+
+happens 27:10 
+hard 13:9 27:23 
+harder 13:7 
+hardship 10:17,22 
+
+11:25 
+
+havent 5:12 15:15 
+head 15:14 
+
+7:14 12:12 14:20  hear 3:3 16:23 
+27:6 28:5 31:22 
+32:25 39:4,6 
+
+33:16 44:11,12 
+
+heard 15:21 22:23 
+
+holdings 7:23 
+holland 18:15 
+honda 18:25 19:9 
+
+19:11 
+
+honor 25:18,22 
+
+28:13 29:19 31:18 
+35:1 38:13,22 
+45:3 
+
+honors 41:5 
+hook 12:11 
+hour 3:14 
+
+I 
+
+id 3:13 15:22 
+idea 21:24 
+identical 5:21,24 
+
+7:10 13:18 
+
+ill 30:22 31:14 
+im 6:21 13:23 
+
+14:19 16:8 25:21 
+25:22 29:9,20 
+30:19 34:1 42:13 
+
+immunity 9:12 
+
+13:13 15:25 16:15 
+19:6,13 21:12,25 
+22:5,7,13 34:3 
+37:25 39:2,3 
+
+impervious 27:15 
+implement 44:24 
+implication 26:12 
+
+27:10 
+
+implied 7:19 8:19 
+
+16:1 
+
+import 5:5 6:20 
+
+43:18 
+
+importance 39:13 
+important 3:15 
+6:10 9:4 10:23 
+19:8 20:16 21:17 
+23:10,11 33:7 
+36:17 
+
+imported 19:24 
+inadvertent 10:14 
+include 10:11,12 
+included 12:17 
+including 30:9 
+inclusion 23:2 
+inconsistent 10:7 
+incorporate 4:15 
+
+6:7 
+
+incorporated 6:5 
+incredibly 21:22 
+indicated 20:22 
+indication 4:14 
+individual 10:17 
+
+13:10 36:7,9 45:4 
+
+infer 44:15 
+informal 24:14,17 
+informality 24:2,18 
+injunction 20:12 
+injunctions 29:23 
+injured 12:9 
+intend 39:8 
+intended 5:20 
+
+21:12 22:11,13 
+32:6 37:23 43:9 
+44:18 
+
+17:12,18 26:4,11 
+26:13 37:20 38:3 
+38:5,10,19,20 
+44:6,24 45:3 
+intents 44:15 
+interest 39:15 
+
+Page 50 
+
+interpret 4:11,23 
+interpretation 15:7 
+
+19:10 45:5 
+
+interpretations 6:8 
+interpretative 7:3,5 
+
+7:6 
+
+interpreted 4:6 5:5 
+14:4,23 19:17,19 
+21:13 22:14 25:4 
+43:21 45:16 
+
+interpreting 5:18 
+
+11:17,17 29:2 
+40:12 
+
+interrupt 33:16 
+introduced 12:23 
+involves 30:12 
+involving 9:11 
+irwin 8:8,8,9 15:23 
+16:9,10,17 17:10 
+17:12,16 18:9,9 
+18:13,17,19,20 
+25:24 28:15,16 
+37:14,14,20,23 
+39:6 44:1,22 45:4 
+45:22 46:3 
+
+isnt 8:10 16:19 
+issue 10:25 20:10 
+20:11 42:1 45:7 
+
+issues 3:14 
+ive 14:19 32:14,16 
+
+37:4 44:11,12 
+
+J 
+
+john 8:13 17:13 
+
+21:9 39:10 40:18 
+
+joshua 1:19 2:6 
+
+22:19 
+
+judicial 6:7 
+juncture 10:1 
+june 1:6 3:5 
+jurisdiction 4:24 
+
+8:24 9:19 11:7,12 
+26:5 36:18 42:6 
+42:18 
+
+jurisdictional 4:6 
+
+intending 4:15 12:8  judged 17:11 
+intends 37:24 
+intent 3:16 6:7 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 51 
+
+33:2,3,10,10,24  matter 1:12 34:14 
+34:10,21 36:3,12 
+36:15 39:9 40:6  mcneil 34:25 35:2,4  need 24:21 36:23 
+40:25 43:13 
+
+35:19 42:13,18,21  needs 45:3 
+
+necessarily 19:6 
+
+35:24 43:18 
+
+46:10 
+
+limits 36:14 42:7 
+line 5:17 9:20 13:11 
+19:5 20:21 21:10 
+45:10 
+
+mean 5:25 9:21 
+
+negotiations 24:10 
+
+24:14 
+
+16:14 26:10 28:21 
+30:8 31:14 35:11  never 9:9,15 20:17 
+25:2 26:20 27:8 
+35:14,24 36:18,23 
+38:18 39:21 42:9 
+27:17 
+
+listed 23:21 
+literal 31:10 
+literally 24:4 
+litigants 11:3 39:14  means 28:2 35:5 
+little 16:5 24:4 
+
+meaning 5:21 
+40:17 43:10 
+
+43:6 45:1 
+
+21:18 23:4 
+
+meant 8:23 17:19 
+
+25:24 33:6 
+living 37:18 
+long 5:17 20:8 
+longer 26:15 40:15  medical 8:14 
+longstanding 15:7  mentioned 21:16 
+look 5:12,12 7:8,20 
+
+measure 12:13 
+
+8:8 9:17 21:17 
+22:10,10 34:11 
+44:15 
+
+32:16 33:13 
+milligan 31:5 
+mimic 33:4,5 
+mimicked 33:2 
+
+looked 23:11 25:9  mind 17:20 33:11 
+looking 13:24 
+
+35:23 45:23 
+
+34:24 38:3 45:6  minutes 24:5 41:7 
+
+looks 25:9 30:24 
+
+32:3 
+
+mode 19:10 
+moment 9:23 26:7 
+
+42:1,13,20 
+
+luck 12:20 
+
+31:15 
+
+monitoring 34:14 
+months 23:20 
+morning 3:4 39:24 
+motivated 22:11 
+
+new 1:19 15:24 
+
+17:7 25:3 32:12 
+32:13 
+
+ninth 46:6 
+normal 43:15 45:5 
+notably 45:11 
+notes 22:4 
+notice 5:4 
+notion 8:18 24:12 
+
+24:16 39:25 
+
+notions 8:23 14:13 
+notwithstanding 
+
+11:8 19:13 
+
+O 
+
+o 2:1 3:1 
+observation 19:9 
+
+19:25 
+
+36:20 
+
+offended 31:16 
+oh 34:5 38:22 40:20 
+okay 37:11 
+old 7:15,15 
+omission 10:15 
+once 5:11 16:1 43:8 
+oneandahalf 24:3 
+ones 15:12 34:17 
+oneyear 33:3 
+opening 7:21 37:4 
+operative 41:18 
+opportunity 17:6 
+
+44:8 
+
+kept 28:5 
+kind 7:1 10:12 
+klehr 40:12 
+know 7:13 15:1 
+
+16:22 18:2 26:10 
+35:13 38:6 43:14 
+
+L 
+label 5:22 
+labor 40:11 
+lack 42:17 
+language 5:21,24 
+6:19 7:10,10,16 
+11:19 27:3 36:23 
+40:16,18,24 41:18 
+42:2,5,15,18 43:6 
+43:7,8,12,15,20 
+44:1 45:13,15 
+
+latches 20:21 
+late 38:4 
+law 18:23 25:3,3 
+
+28:16 30:14 32:23 
+33:1,2 36:4 39:12 
+
+laws 11:7 33:8 
+lawsuit 23:16,20 
+
+35:6,8,20 
+layer 40:14 
+laying 17:5 
+left 30:2 
+legal 7:20 18:14 
+legislating 19:4 
+
+39:1 
+
+4:12,21 5:5,9,19 
+5:22 6:11,13,20 
+9:8,12,15,16,21 
+10:2 11:1,6,20 
+14:22 15:1,11 
+24:17 26:8,15,20 
+27:15,19 30:1,5 
+35:5,10,12,14,16 
+35:22,24 36:25 
+39:9 42:2,5,9,12 
+42:16,21,24 43:3 
+43:22 
+
+justice 1:17 3:3,9 
+
+3:17,18 4:4,8,9,13 
+4:17 5:1,7,23 6:9 
+6:21 7:18 8:1,2,3 
+8:6,16,21,22 9:2 
+9:10,22 11:5,11 
+12:5,16 13:4,6,9 
+13:16 14:17,25 
+15:9,17,19,21,23 
+16:11,12,22 17:16 
+18:2,10,18,22 
+21:14,15 22:17,21 
+24:6,10,21 25:14 
+25:19 26:10,17,21 
+26:25 27:21 28:8 
+29:8,14 30:13 
+31:13,17,19,21 
+33:12,15 34:1,23 
+36:16,22 37:4,6,9 
+37:11 38:1,18 
+39:19 40:8 41:6 
+42:8,15 43:11,17 
+43:25 44:2,21 
+46:7 
+
+justices 36:9 
+justify 16:13 
+
+K 
+
+kagan 3:18 4:8 
+
+6:21 7:18 14:17 
+14:25 15:9 40:8 
+kendall 21:9 30:2 
+
+38:23 
+
+kennedy 8:1,3,6 
+
+lot 5:25 23:6 
+lower 10:25 19:16  money 20:14 21:20  obviously 31:14 
+
+27:4 32:8 
+
+obvious 31:10 
+
+legislation 22:4 
+legislative 17:12,18  m 1:14 3:2 46:9 
+
+M 
+
+38:3,5,10,19,20  magic 5:1 11:5 40:3  moving 28:17 
+
+liability 36:10,12 
+
+43:18 
+
+36:13,15 
+
+lifted 4:4 6:5 
+light 10:7 21:18 
+
+23:3 43:23 
+
+making 9:7 11:15 
+16:2 19:21 23:7 
+27:21,24 34:10 
+37:5,8 42:4 
+
+N 
+
+n 1:19 2:1,1 3:1 
+name 21:20 
+narrow 26:15 
+
+limit 4:6 9:8 13:12  mandatory 41:24 
+
+42:25 
+
+14:3,9,12 35:11  manner 32:5 33:22  narrowly 21:13 
+35:15 42:14 
+
+22:14 
+
+marlene 1:6 
+martinez 14:18 
+
+limitations 5:25 
+
+15:10 23:15,20,25 
+25:8,10 30:4 33:1  material 11:15 
+
+15:2 
+
+natural 31:16 
+nature 3:19 14:7 
+
+36:3,4 37:1 
+
+opposite 7:6 29:10 
+29:12,15,20 39:8 
+
+option 41:19 
+
+Alderson Reporting Company
+ 
+
+optional 41:15 
+oral 1:12 2:2,5 3:7 
+
+22:19 
+
+order 35:5,6,8 
+ordinary 40:25 
+
+43:13 
+
+permitted 22:7 
+petitioner 1:4,18 
+2:4,10 3:8 41:10 
+
+phrases 38:24 
+piece 35:4 
+pieces 35:3 
+
+original 27:8 41:17  places 39:12 
+originally 26:14 
+
+27:7 
+
+originated 15:4 
+outset 14:23 17:25 
+outside 35:9 42:7 
+overall 12:16 
+overcomes 27:19 
+overseas 34:13 
+overwhelming 
+
+45:25 
+
+P 
+
+p 3:1 
+page 2:2 24:3 40:9 
+
+41:16 
+
+plain 4:2 
+plainly 39:23 
+plaintiff 12:8,9,14 
+plaintiffs 42:6 
+play 25:1 39:22 
+please 3:10 22:22 
+plunked 32:11,12 
+point 6:10 9:4 
+
+10:24 11:24 19:8 
+20:16 21:14 24:11 
+25:13 27:6,17,21 
+27:24,25 28:1 
+29:9,24 30:1 34:9 
+37:4,16 38:9 
+39:20 40:8,21 
+43:2,4 45:7,18 
+
+pointing 40:8 
+points 26:21 28:6,7 
+
+40:17 41:12 
+
+parallel 9:3 43:21 
+parsimonious 32:6  pointed 13:7 34:20 
+part 25:3 29:18 
+
+44:3 
+
+particular 3:24 
+
+particularly 3:15 
+5:3 10:23 21:19 
+23:8 31:5 
+
+possible 25:19 
+postirwin 8:4 
+parties 39:18 45:20  posture 14:7 
+passed 4:11,18 
+
+power 30:16,19 
+12:13 17:3 18:8 
+powerful 39:19,20 
+23:13 25:5 28:25  powers 20:6,9,17 
+20:18,22 28:24 
+29:4,5,22 31:3 
+
+passing 6:17 
+patterned 19:15 
+pause 31:14 41:1 
+pedigree 15:6 
+people 16:16 
+perfectly 9:24 
+period 11:3 18:23 
+permissive 27:9,13  predate 8:8 
+permit 14:13 19:17  predecessor 5:15 
+
+pre 8:4,4 
+precedence 19:5 
+
+precisely 19:21 
+
+37:16 
+
+33:24 
+
+42:25 
+
+preirwin 3:21 
+
+Official 
+
+16:18 17:3 18:12 
+
+42:4 
+
+prelogar 1:16 2:3,9  probably 16:24 
+
+14:7 
+
+17:1,2 
+
+problem 43:25 
+procedural 7:1 
+
+3:6,7,9 4:13,25 
+5:14 6:4,21 7:18 
+8:5,21,25 9:4,22 
+11:13 12:5,15 
+13:8,21 14:17,21 
+15:4,12 16:11,21 
+17:10,24 18:10,21 
+23:10 33:16 41:7  proceed 42:7 
+41:9,11 42:10,17 
+43:16 44:21 
+
+36:13 
+
+process 13:20,21 
+
+procedure 41:16,21 
+procedures 36:11 
+
+24:7,15,17,19 
+36:23 42:9 45:5 
+professor 40:9,23 
+
+present 12:3,19 
+
+14:9 35:6,7 
+
+Page 52 
+
+rarely 21:15 
+reached 19:11 
+read 38:23 39:3,4,7 
+
+39:7 44:20 
+
+real 35:8 
+realistic 17:11,17 
+
+38:4 
+
+really 27:20 28:1 
+
+28:23 44:1,18 
+
+reason 3:11 17:18 
+
+19:11 39:23 45:13 
+
+reasonable 10:18 
+
+13:5 
+
+reasons 23:5 25:24 
+
+presentment 23:1,3  promising 28:5 
+
+23:6,9,15,19,24 
+proposition 32:9 
+24:1,2 25:1,12,16  protecting 39:15 
+26:3,16 27:5,7,18  provided 33:25 
+35:14 41:13,15,19  provision 5:8 10:11  rebuttal 2:8 38:7 
+41:24 42:11 43:8 
+
+44:25 
+
+41:9 
+
+32:14 33:23 
+rebut 18:3,11 
+rebuttable 17:13 
+
+10:13 12:18 14:2 
+23:24 25:16 26:16  rebutted 8:15 45:3 
+27:18 
+
+46:3 
+
+preserve 34:15 
+presume 5:20 
+presumption 8:14 
+
+provisions 5:15 
+23:5,17 25:17 
+34:8 
+
+17:13,25 18:12,16 
+27:2,11,19 28:15 
+36:17 37:14 38:6  public 39:15 
+38:20,24 39:20,21  purport 30:15,17 
+44:22,24 45:4,22 
+45:22 46:3 
+
+purpose 12:16 
+put 38:14 
+
+26:23 36:19,25 
+pretty 22:9 43:12 
+
+43:14 
+
+prevailed 7:25 
+prevailing 18:14 
+primarily 45:21 
+primary 20:1 
+principle 16:6 38:3 
+principles 14:5 
+
+31:16 
+
+prior 8:18,23 17:8 
+
+Q 
+
+question 9:5 13:16 
+14:18 18:7 34:25 
+35:2 36:9,17 
+questioned 9:9 
+questions 3:17 
+
+22:15 41:2,3 46:4 
+
+quite 5:23 39:24 
+quote 9:12 31:8,9 
+
+reconcile 44:19 
+recoupment 20:19 
+reenacted 11:15,21 
+
+18:24 
+
+reenactment 43:5 
+reenacts 26:1 
+reformation 20:20 
+refreshed 26:13 
+refreshes 26:4,11 
+refreshment 37:10 
+regard 28:9 
+regarded 38:2 
+regional 8:14 
+regulations 24:13 
+rehnquist 15:23 
+
+17:5 
+
+reject 37:9 
+related 45:25 
+
+39:10,11,12 40:24  relevant 9:6,25 
+
+24:22 
+private 6:23 7:7,11 
+7:12,16,19 8:6,17  r 3:1 8:13 17:13 
+11:4,7 16:5,16,16 
+radically 20:7 
+36:7,9 38:13,14 
+
+21:9 39:10 40:18 
+
+R 
+
+14:14 18:22 27:22 
+
+reliance 11:21 
+relief 11:4,7 12:13 
+
+33:25 
+
+rely 45:21 
+
+11:25 39:4 41:13  position 5:10 14:21 
+45:23 
+26:18 27:12 28:10 
+28:14 29:20 32:1  presumptions 21:1  putting 29:22 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+19:5 26:13 28:14 
+29:21 31:3 34:3 
+40:20 42:8 45:9 
+
+says 8:19 13:19 
+
+15:23,24,25 17:5 
+20:5 23:10 24:9 
+24:12 36:7,11 
+37:23 39:6,10 
+40:17,24 
+
+short 33:23 
+show 42:18 
+shows 45:12 
+sicks 40:9 
+sides 12:6 
+signaled 10:1 
+signaling 6:7 
+significant 10:4 
+similar 5:16,18 
+
+scalia 3:17 4:4 8:2 
+
+6:24 
+
+8:16,21,22 9:2 
+15:19 25:14,19 
+26:10,17,25 29:8 
+30:13 37:9 39:19 
+
+simply 17:20 20:24 
+
+23:8 29:3 
+single 30:9 
+sisks 40:9,23 
+
+scheme 23:11,12,12  sites 30:6 
+schnapper 22:25 
+
+26:8 34:13,19,24 
+35:18 37:7 40:10 
+
+schnappers 6:22 
+
+12:6 
+
+scorecard 8:9 
+scores 40:5 
+sea 28:15 37:21 
+
+38:2 
+
+search 40:5 
+second 25:13 35:18 
+secondly 24:20 
+
+32:17 
+
+secretary 14:2,4 
+section 5:14 11:9 
+
+12:18 
+
+situation 7:4 11:25 
+situations 13:17 
+six 23:16,20 
+sixyear 33:10 
+slightly 34:4 
+social 14:3 
+solicitor 1:16 
+soriano 11:18 21:9 
+
+37:21 38:17 
+
+sort 30:10,11 31:23 
+
+34:16 
+
+sorts 33:12 40:10 
+sotomayor 13:4,9 
+
+13:16 24:21 27:21 
+34:1,23 36:16,22 
+37:4,6,11 42:8,15 
+sound 30:20 31:19 
+sounds 43:14 
+source 27:3 
+sovereign 9:12 
+
+remainder 22:16 
+remaining 41:8 
+remedies 20:11 
+
+13:14 15:20 16:2 
+17:23 21:4 24:7 
+24:25 
+
+rigid 4:21 24:16 
+
+29:16 35:21 
+rendered 45:9 
+repeals 26:12 27:9 
+repeatedly 4:6 11:3  roberts 3:3 4:9 
+
+26:12 34:11 
+
+rise 7:11,16 
+
+11:6 42:3 
+
+rephrase 34:6 
+reply 7:22 20:9 
+report 22:3 42:23 
+request 41:4 
+requested 11:4 
+require 7:15 
+required 5:2 23:19 
+requirement 23:2,3 
+23:15 25:12 26:3 
+27:7,8,11,14,14 
+41:13,24 42:11,24 
+43:2,8 
+
+requirements 5:16 
+
+5:18,19 25:1 
+reread 31:15 
+reserve 22:16 
+respect 7:1 8:7 
+
+22:17 31:13,19 
+38:1,18 41:6 
+43:11 46:7 
+room 42:20 
+rosenkranz 1:19 
+2:6 22:18,19,21 
+24:25 25:14,18,21 
+26:17 28:8,13 
+29:11,19 30:17 
+31:18,21 33:15,19 
+34:5 35:1 36:21 
+37:3,8,12 38:12 
+38:22 43:11 
+rotella 40:13 
+rule 3:19,21 4:19 
+7:1 15:24 16:3 
+17:7,7,10 24:17 
+27:1 33:20 38:11 
+38:13,15 44:7,8 
+
+15:16 18:12 20:18 
+21:1 23:1,4,6 26:5  ruled 15:13 
+27:1,2,9 29:21 
+36:9,10,11,25 
+38:15 41:12,18 
+respectfully 41:4 
+
+44:14 
+
+rules 7:3,5,6 26:24 
+
+ruling 35:5,22,23 
+rulings 6:11 
+run 12:3,21 17:21 
+runofthemill 43:13 
+runs 23:14,18 
+
+46:5 
+
+respond 9:23 
+respondent 1:20 
+
+2:7 13:18 20:3,5 
+21:4 22:20 45:8 
+respondents 20:1 
+
+20:10 45:21 
+
+27:23 
+
+russell 5:3 
+
+S 
+
+s 2:1 3:1 22:25 
+
+34:25 35:2 
+
+responding 11:11 
+response 28:10 
+rest 40:2 
+result 30:25 37:15 
+returned 31:16 
+reverse 46:5 
+right 6:23 7:7,11,12  sanger 40:23 
+
+21:9 
+
+sandoval 7:23 
+sands 39:10 40:18 
+
+sand 8:13 17:14 
+
+7:16,19 8:6,17 
+
+saying 6:4 18:3,5 
+
+security 14:3 
+see 41:1 
+seek 45:21 
+send 24:5 
+sends 24:6 
+sense 26:15 31:10 
+sentences 44:20 
+separates 3:19 
+series 28:18 
+set 7:3,6 24:18 30:3  spate 25:3 
+
+space 14:13 
+
+13:13 15:25 16:15 
+19:6,13 21:12,25 
+22:5,6,13 34:3 
+37:25 39:2,3 
+
+43:7 
+
+speaking 34:18 
+special 39:14 44:13 
+
+settled 43:1 
+settlement 24:10,14  specific 15:22 
+sheds 23:3 
+shes 34:1,3 
+
+24:12 42:22 
+
+specifically 13:24 
+
+Alderson Reporting Company
+ 
+
+Page 53 
+
+splitting 30:20 
+standards 40:11 
+start 3:17 28:21 
+
+29:22 
+
+state 33:1,2,8 
+stated 35:21 
+statement 4:18,24 
+5:13 26:24 27:1 
+states 1:1,3,13 3:5 
+4:3 12:2,21 21:20 
+21:25 22:3,4,6 
+30:7 33:4,6,18,23 
+34:4 41:20 
+station 30:2 
+statute 3:19 4:10 
+4:18,23 5:25 7:9 
+9:14,20 12:21 
+14:23 15:1,10 
+16:14,18 17:22 
+18:15,18 19:6,14 
+21:6,21 22:10 
+23:15,19,25 24:9 
+25:8,10,23 27:23 
+28:17 29:1,2 30:4 
+31:4,20 32:13 
+33:3,9,10 36:8 
+37:19 40:2,12,25 
+43:13,23 44:12 
+45:23 46:1 
+
+statutes 3:20,22 8:7 
+
+16:9 17:2,8 18:8 
+18:12,17 33:1,2 
+33:24 34:9,10,20 
+36:3,12,13,14 
+39:4,7,7,9 40:6,11 
+44:17 
+
+statutespecific 3:22 
+
+15:15 45:2,25 
+46:2 
+
+statutory 5:16 
+
+19:10 23:17 34:19 
+34:20 45:5 
+
+stick 5:11 
+stone 30:3 
+stopped 15:19 
+story 13:2 
+
+Official 
+
+Page 54 
+
+terms 14:24 
+text 4:2 14:13 
+
+tie 36:17 
+tight 9:20 
+
+tribunalfocused 
+
+44:5 
+
+20:25 
+
+unrepresented 
+
+21:11 41:17 43:24  time 3:13 5:9 6:6,8 
+45:6 46:1 
+
+tribunals 20:5 
+triggered 24:8 
+true 8:21 13:8 17:2  use 9:18 11:5,12 
+
+urging 3:21 19:11 
+
+24:11 33:14 
+
+turned 21:10 27:13  vii 19:3 25:9,11 
+
+vision 37:22 
+
+18:8 20:12 33:20 
+
+truth 14:19 
+try 33:3 
+trying 16:15,15 
+30:20,21 42:7 
+43:4 
+
+38:24 40:7 42:15 
+44:17 
+
+uses 41:18 
+usually 7:2 24:11 
+
+V 
+
+tucker 4:5,16 6:6,8  v 1:5 3:5 5:3 7:9,23 
+8:18 12:10 18:25 
+19:9,11 30:7 
+34:25 35:2 
+
+6:10,13 11:19 
+13:11 15:5,5 
+19:24 20:2 21:3 
+23:13 24:23 25:2 
+28:19 31:9 32:12 
+34:11 36:2,20 
+37:1,22 40:15 
+43:19,20 45:10 
+
+turn 9:25 13:3 32:8 
+
+39:11 
+
+27:13 
+
+two 8:3 9:2 21:22 
+26:24 33:4 35:3 
+35:17 44:20 
+twoyear 33:9 
+typical 43:12 
+
+U 
+
+u 34:25 35:2 
+understand 25:15 
+27:12 33:7 34:6,9 
+45:8,19 
+
+understanding 
+
+3:15 
+
+understood 19:23 
+20:8 32:18 42:21 
+
+uniform 19:5 
+united 1:1,3,13 3:4 
+4:3 12:2,21 21:19 
+21:25 30:7 41:20 
+unnecessary 10:7 
+
+10:21 12:24 
+
+unpredictability 
+
+various 44:14 
+verbatim 4:5 
+version 27:20 
+veteran 14:9 
+view 9:8 10:1 13:12 
+24:9 38:19 44:19 
+
+viewed 28:23 
+
+W 
+
+waived 6:14 22:4,6 
+waiver 13:13,15 
+15:24,25 16:2 
+21:12,13 22:12 
+
+waivers 34:3 
+waives 16:15 37:24 
+
+39:3 
+
+waiving 19:6 21:24 
+
+39:2 
+
+want 3:12,20,23 
+4:20,20 13:14 
+14:22 31:11 32:8 
+36:5 37:16 41:13 
+
+wanted 33:5 
+wants 6:25 41:2 
+washington 1:9,17 
+wasnt 6:14,16 
+
+12:11 19:4 26:22 
+45:22 
+
+way 7:6 9:11 16:4 
+
+strict 13:12 14:12 
+
+22:12 42:19 
+
+strictly 39:5 
+striking 31:5 
+strong 28:11 
+strongly 8:17 
+structured 24:15 
+
+40:7 
+
+stuck 12:12 
+subject 3:24 4:7 
+
+6:15 11:1,20 19:7 
+25:12 26:19 33:8 
+38:6 42:2 
+
+submitted 46:8,10 
+substituted 12:2,22 
+sue 21:19 
+sued 12:1 
+suggest 8:17 13:14 
+suggesting 6:1 
+suggestion 28:11 
+suggests 18:16 
+suit 19:2 23:13 
+suitfiling 23:17 
+suitinitiating 24:19 
+suits 8:11 16:3,5,16 
+
+16:16 44:10 
+suppose 17:21 
+supposed 24:13 
+supreme 1:1,13 
+sure 9:19 16:8 29:9 
+
+37:17 39:10 
+
+switch 7:5 
+
+T 
+
+t 2:1,1 
+take 10:21 12:24 
+taken 29:20 
+takes 24:4 
+takings 32:20,21 
+talk 23:25 
+talking 8:5 24:22 
+26:23 34:2 36:2 
+
+tell 14:18 
+telling 29:13 
+tells 25:10,11 43:12 
+tenable 20:24 
+
+thank 22:17 41:5,6 
+
+46:7 
+
+thats 4:1 5:16,22,25 
+8:21 9:18,18 13:8 
+15:17 16:7 17:8 
+18:6,21 19:21 
+20:12 21:8 25:13 
+30:7,8 37:15,15 
+38:12 39:6 40:8 
+43:15,15 45:11 
+
+thenprevailing 6:6 
+theory 37:10 
+theres 9:5 21:7 
+23:14 26:25 
+
+theyre 34:11,12 
+thing 24:24 
+things 18:3,4 28:16 
+
+44:12 
+
+think 4:13 5:2 6:9 
+6:22 7:2 8:15,25 
+9:2,24 12:5 13:2 
+13:10 14:14 15:6 
+15:11,13 16:2 
+17:5 19:8 21:16 
+21:16 22:9 26:4 
+34:23 35:2 38:1,9 
+38:20 42:18 43:1 
+44:7,21 45:13 
+thinking 13:23 
+
+26:5,22 
+
+thinks 17:7 
+third 27:6 
+thought 4:17 5:10 
+12:24 16:18,24 
+17:1,1 18:6 26:14 
+33:16 38:10 
+
+three 36:7 41:11 
+threshold 17:25 
+thrown 37:2 
+tick 10:9 35:25 
+ticked 28:17 
+ticking 25:8 
+
+6:14 7:25 8:24 
+9:7,20 10:2,5,10 
+11:3,8,15,17,19 
+11:24 12:3,19,20 
+12:21 13:25 14:1 
+14:8,10 16:24 
+18:5,15,23 19:3 
+21:11 22:16 33:17 
+35:11,15 36:14 
+41:17 42:7,14 
+times 9:6 10:5,6 
+
+16:17 36:7 
+
+title 19:3 25:9,11 
+todays 21:18 
+told 4:19 
+tolled 10:3 
+tolling 3:12,25 4:7 
+
+4:20 6:15 8:11 
+10:8,11,13,21 
+11:2,20 13:1,6,6 
+16:3,25 18:6 19:2 
+19:7,12,18 20:7 
+21:2,7,15 22:8 
+24:23 25:13,15,22 
+26:19 27:16,20 
+30:12 33:9,18,20 
+33:25 34:2,8 
+38:21 42:2 44:9 
+tomorrow 4:11,18 
+top 15:14 40:14 
+tort 21:25 22:5 
+
+28:18 32:11,25 
+33:8,13 34:2,3 
+36:1 39:17 
+
+torts 32:19,24 
+
+33:22 
+
+trading 19:14,19 
+train 30:1 
+treating 39:13,18 
+treats 36:6,8 39:18 
+tribunal 21:5 45:17 
+tribunalbased 
+
+45:14 
+
+Alderson Reporting Company
+ 
+
+Page 55 
+
+Official 
+
+2107 5:14 
+22 2:7 
+2401 11:9 14:20,22 
+
+14:25 15:2,4 
+
+2679 12:18 
+
+3 2:4 
+30 24:4 
+
+41 2:10 
+
+5 12:18 
+50 29:25 
+58 46:9 
+
+3 
+
+4 
+
+5 
+
+6 
+
+60 12:19 43:1 
+60s 25:2 
+66 11:22 
+
+7 
+
+8 
+
+9 
+
+80s 29:1 
+
+9a 41:16 
+
+19:20 22:7 34:24 
+39:4,7,10 40:7 
+44:24 
+
+ways 45:16 
+wednesday 1:10 
+weight 39:12,14 
+westfall 11:24 12:7 
+
+12:10,17 42:22 
+
+westlaw 40:5 
+weve 7:13,13 26:3 
+
+28:17 
+
+whats 17:4 
+wholesale 32:9,10 
+
+32:12 
+
+wind 37:19 
+window 37:2 
+withdrawal 32:10 
+wondering 6:22 
+wong 22:23 23:8 
+word 6:5,5 9:18 
+
+11:6 
+
+words 4:2,10,15 5:2 
+
+5:4 10:6 15:2,3 
+19:23 31:8,9 
+39:16,25 40:1,3,8 
+44:17 
+
+worked 7:7 
+world 7:9,14 
+wouldnt 16:25 18:6 
+wrong 8:18,20,24 
+24:5 37:23 40:2 
+
+x 1:2,8 
+
+X 
+
+Y 
+
+y 1:19 
+year 10:20 
+years 18:19,20 
+
+23:16 29:25 30:8 
+33:5 
+
+york 1:19 
+youre 6:1 18:2 
+
+24:11 34:13,14 
+38:3 
+
+youve 13:17 15:21 
+
+16:22 
+
+Z 
+
+zipes 25:6,9,11 
+
+0 
+05 1:14 3:2 
+
+1 
+
+1 10:20 
+10 1:10 
+11 1:14 3:2 46:9 
+12 4:2 15:2,3 40:1 
+131075 1:4 3:4 
+17 22:6 
+18 18:19 
+1800s 33:21 
+1863 28:21,25 40:4 
+1870s 29:1 30:22 
+1877 40:22 
+1880s 30:22 
+1887 15:5 
+1906 45:10 
+1935 30:8 45:10 
+1946 9:6 10:5,9 
+
+21:18,21 22:4,11 
+23:13 26:8,18 
+32:15 36:18 37:1 
+37:7,13,13 40:4 
+41:14 
+
+1949 10:5,16 
+1966 10:5,23 11:14 
+
+23:9,10,11 26:1 
+32:14 36:20 37:2 
+41:23 43:5 
+
+1967 18:23 
+1969 22:5 
+1970 19:3 
+1972 18:21 19:3 
+1988 10:5 11:23 
+
+12:23 42:22 
+
+2 
+2 10:20,24 
+20 40:9 
+2014 1:10 
+20th 29:1 
+
+Alderson Reporting Company
+ 
+
+

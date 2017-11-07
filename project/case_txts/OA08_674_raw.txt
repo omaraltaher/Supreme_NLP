@@ -1,0 +1,8765 @@
+OFFICIAL TRANSCRIPT 
+PROCEEDINGS BEFORE 
+
+THE SUPREME COURT
+
+
+OF THE
+
+
+UNITED STATES
+
+
+CAPTION:  NRG POWER MARKETING, LLC, ET AL., Petitioners, v. 
+
+CASE NO: 
+PLACE: 
+DATE: 
+PAGES: 
+
+MAINE PUBLIC UTILITIES COMMISSION, ET AL. 
+No. 08-674 
+Washington, D.C. 
+Tuesday, November 3, 2009 
+1-54 
+
+ALDERSON REPORTING COMPANY
+
+
+1155 CONNECTICUT AVE., NW
+
+
+WASHINGTON, D.C. 20036
+
+
+(202) 289-2260
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+
+NRG POWER MARKETING, 
+
+            
+
+: 
+
+LLC, ET AL., 
+
+                    
+
+: 
+
+Petitioners 
+
+         
+
+: 
+
+v. 
+
+                       
+
+:  No. 08-674 
+
+MAINE PUBLIC UTILITIES 
+
+          
+
+: 
+
+COMMISSION, ET AL. 
+
+              
+
+: 
+
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+
+Tuesday, November 3, 2009 
+
+The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:02 a.m. 
+
+APPEARANCES: 
+
+JEFFREY A. LAMKEN, ESQ., Washington, D.C.; on behalf of 
+
+the Petitioners. 
+
+ERIC D. MILLER, ESQ., Assistant to the Solicitor 
+
+General, Department of Justice, Washington, 
+
+D.C.; on behalf of respondent FERC, supporting the 
+
+Petitioners. 
+
+GEN. RICHARD BLUMENTHAL, ESQ., Attorney General, 
+
+Hartford, Conn.; on behalf of the Respondents. 
+
+1
+
+Alderson Reporting Company 
+
+Official 
+
+C O N T E N T S 
+
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+JEFFREY A. LAMKEN, ESQ. 
+
+On behalf of the Petitioners 
+
+                    
+
+3 
+
+ERIC D. MILLER, ESQ. 
+
+On behalf of respondent FERC, supporting 
+
+the Petitioners 
+
+                                
+
+16 
+
+GEN. RICHARD BLUMENTHAL, ESQ. 
+
+On behalf of the Respondents 
+
+                   
+
+29 
+
+REBUTTAL ARGUMENT OF 
+
+JEFFREY A. LAMKEN, ESQ. 
+
+On behalf of the Petitioners 
+
+                   
+
+52 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+2
+
+Alderson Reporting Company 
+
+Official 
+
+P R O C E E D I N G S 
+
+CHIEF JUSTICE ROBERTS:  We'll hear argument 
+
+first today in Case 08-674, NRG Power Marketing v. Maine 
+
+(10:02 a.m.) 
+
+Public Utilities Commission. 
+
+Mr. Lamken. 
+
+ORAL ARGUMENT OF JEFFREY A. LAMKEN 
+
+ON BEHALF OF THE PETITIONERS 
+
+MR. LAMKEN:  Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+This case concerns a bedrock principle of 
+
+Federal -- Federal energy law, the Mobile-Sierra 
+
+doctrine.  The question presented and the issue decided 
+
+below is whether Mobile-Sierra's public interest 
+
+standard ceases to apply whenever a contract rate is 
+
+challenged by a noncontracting party. 
+
+FERC and we agree that the answer is no. 
+
+Mobile-Sierra's presumption of --
+
+JUSTICE SOTOMAYOR:  Does it matter who is 
+
+the challenger?  Are you in a different position than 
+
+the other parties to this action? 
+
+You're a third party who is being bound to a 
+
+particular rate.  The others do have a different 
+
+interest, or they're in a different position with 
+
+respect to their challenges, correct? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+3
+
+Alderson Reporting Company 
+
+Official 
+
+MR. LAMKEN:  Your Honor, I represent -- we 
+
+represent -- I represent NRG, which entered into the 
+
+settlement agreement and is -- would like to be bound by 
+
+the results of the auction contract.  And so we are 
+
+happy with the agreements we enter into, and a concern 
+
+that we have is that nonparties can come in and 
+
+challenge the contracts under a lower standard. 
+
+JUSTICE SOTOMAYOR:  So aren't you in a 
+
+different position than those other challengers? 
+
+MR. LAMKEN:  We certainly are in a different 
+
+position, but they --
+
+JUSTICE SOTOMAYOR:  So why doesn't that 
+
+difference do what the D.C. Circuit said? 
+
+JUSTICE GINSBURG:  Mr. Lamken, you're not a 
+
+challenger? 
+
+are --
+
+MR. LAMKEN:  That's exactly right. 
+
+JUSTICE GINSBURG:  Yes.  I think --
+
+MR. LAMKEN:  We are not a challenger.  We 
+
+JUSTICE GINSBURG:  -- the question relates 
+
+to the other side --
+
+MR. LAMKEN:  Right. 
+
+JUSTICE GINSBURG:  -- not to his side --
+
+JUSTICE SOTOMAYOR:  No.  I do understand 
+
+that, but that's what I'm trying to get to.  The D.C. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+4
+
+Alderson Reporting Company 
+
+Official 
+
+Circuit Court's reasoning was very simple:  You're a 
+
+contracting party; you're bound to it.  Why should the 
+
+others who didn't agree to this term be bound by 
+
+Mobile-Sierra?  That's the essence of their holding. 
+
+MR. LAMKEN:  Right.  Nobody is arguing that 
+
+a noncontracting party is bound to terms that it didn't 
+
+agree to in a contract. 
+
+The question is that, when a noncontracting 
+
+party comes in to challenge the terms that two 
+
+consenting, willing buyer and a seller have agreed 
+
+to, what is the standard that should apply for that 
+
+outsider to come in and challenge the rate the two 
+
+people have agreed to? 
+
+And Mobile-Sierra and Morgan Stanley all 
+
+provide the answer, and that is the public interest 
+
+standard.  The standard is that, under the Mobile-Sierra 
+
+doctrine, the Federal Energy Regulatory Commission must 
+
+presume the contract rate meets the just and reasonable 
+
+requirement provided by law. 
+
+Unless --
+
+JUSTICE SOTOMAYOR:  So then does that bind 
+
+all types of third parties? 
+
+MR. LAMKEN:  It certainly applies to the 
+
+Federal Energy Regulatory Commission, and it would be a 
+
+rather odd rule that the agency which is charged with 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+5 
+
+Alderson Reporting Company 
+
+Official 
+
+Congress with administering the statute, has the 
+
+greatest expertise, is bound by a more demanding 
+
+standard, but an entity, an outsider with no such 
+
+statutory mandate and no such expertise is subject to a 
+
+lower standard when it comes in and asks for a contract 
+
+rate to be overturned or abrogated. 
+
+In fact, the court of appeals’ ruling can't 
+
+be reconciled with Mobile-Sierra's foundation and the 
+
+need for contractual certainty.  The whole point is to 
+
+provide certainty of contract so that companies can 
+
+invest hundreds of millions of dollars in infrastructure 
+
+projects without worrying that their contracts will be 
+
+abrogated lightly after the fact.  But few could risk 
+
+entering into such contracts and make those investments 
+
+if any noncontracting party -- if the Mobile-Sierra 
+
+doctrine applied only to contracting parties, the two 
+
+people who signed the contract.  But --
+
+CHIEF JUSTICE ROBERTS:  It's a bit much to 
+
+say that the importance is to preserve the stability of 
+
+two parties' contract, and, therefore, a third party who 
+
+didn't sign the contract is bound to the two parties' 
+
+contract. 
+
+MR. LAMKEN:  Well, the nonparty isn't 
+
+actually paying the rate.  The two parties are paying 
+
+the rate.  The nonparty is saying:  I'm adversely 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+6 
+
+Alderson Reporting Company 
+
+Official 
+
+affected by that rate indirectly.  And we're all 
+
+regularly adversely affected by contracts we didn't 
+
+enter into.  The example we give in our brief is the 
+
+theatergoers affected by the amount the theater pays for 
+
+the movies and the popcorn and things like that.  But 
+
+the question is what's the standard for that outsider to 
+
+abrogate a rate the two, a willing buyer and a willing 
+
+seller, have entered into? 
+
+CHIEF JUSTICE ROBERTS:  Well, so why don't 
+
+you -- why isn't it restricted to some type of direct, 
+
+parties directly affected, as well as -- I mean, you 
+
+complain about the hordes of people who will be able to 
+
+challenge these.  Well, it assumes that anybody can 
+
+challenge it. 
+
+MR. LAMKEN:  Well, it certainly applies to 
+
+the parties most directly affected, which are the 
+
+parties that actually entered into the contract and are 
+
+paying the rates.  So it applies to the Federal Energy 
+
+Regulatory Commission, which is the expert regulator, 
+
+and it doesn't make much sense to have another --
+
+another exemption for some category of not directly 
+
+bound but sufficiently -- sufficiently affected parties. 
+
+It would --
+
+JUSTICE ALITO:  Is there any other area of 
+
+the law in which the parties to a contract can, in 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+7 
+
+Alderson Reporting Company 
+
+Official 
+
+effect, dictate the substantive standard of 
+
+administrative review for challenges raised by 
+
+nonparties? 
+
+MR. LAMKEN:  I think the answer is I don't 
+
+know if there is other areas where there's a 
+
+possibility of a Memphis clause, if that's what you're 
+
+referring to, where the parties can actually –- when 
+
+they enter into a contract, they can actually lower the 
+
+standard.  But the general rule is that when a party 
+
+comes in and tries to abrogate a contract, they have no 
+
+greater rights to challenge the contract than the 
+
+parties who entered it themselves.  If they are a 
+
+third-party beneficiary, it's the same right.  And if 
+
+they're a nonparty, at least so far as we can tell, they 
+
+have no right to challenge the validity of the contract, 
+
+at least as a matter of contract law. 
+
+JUSTICE KENNEDY:  Am I correct -- and maybe 
+
+this is more proper for the government than for you, or 
+
+for all the parties.  I take it no one questions the 
+
+propriety, the lawfulness, of the FERC determination to 
+
+convene the settlement process?  There's no argument 
+
+that this was an improper, an unlawful process? 
+
+MR. LAMKEN:  No.  There is certainly no such 
+
+claim before this Court, and I'm not aware of any such 
+
+one.  But what came out of the process were agreements 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+8 
+
+Alderson Reporting Company 
+
+Official 
+
+with respect to rates, and the settled rule is that such 
+
+agreements cannot be abrogated unless the public 
+
+interest would be severely harmed. And --
+
+JUSTICE KENNEDY:  Can I --
+
+JUSTICE GINSBURG:  Of course, there is. 
+
+What's -- what’s really lurking behind this case is 
+
+whether this is a contract rate, and there FERC 
+
+disagrees with you, I take it.  You were talking about 
+
+that the rate that emerges from a contract between two 
+
+people –- nobody else is party to it, but you say the 
+
+rate stands; FERC cannot abrogate the rate; nobody can 
+
+ask FERC to abrogate that bilateral contract rate.  But 
+
+here we're not talking about a bilateral contract, where 
+
+how many people were involved in the settlement?  Well 
+
+over a hundred. 
+
+MR. LAMKEN:  Scores, yes.  And --
+
+JUSTICE GINSBURG:  So that's quite a 
+
+different picture than the bilateral contracts that were 
+
+at issue in Sierra and Mobile. 
+
+MR. LAMKEN:  Certainly FERC agrees with us 
+
+that at least some of the rates before this Court are 
+
+contract rates. 
+
+JUSTICE SCALIA:  Did the lower court reach 
+
+that question? 
+
+MR. LAMKEN:  No, the lower court didn't 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+9 
+
+Alderson Reporting Company 
+
+address the question. 
+
+Official 
+
+JUSTICE SCALIA:  Did we grant cert on that 
+
+question? 
+
+MR. LAMKEN:  You did not, and this Court 
+
+regularly declines to address matters that were merely 
+
+assumed or presumed by the court below and instead 
+
+answers the question that was actually answered by the 
+
+court below, which in this case is an important and 
+
+recurring question.  Based on the decision below, FERC 
+
+has actually gone back and rewritten more than 50 
+
+contracts to create an exemption for noncontracting 
+
+parties, including contracts that are clearly bilateral 
+
+contracts, Your Honor. 
+
+CHIEF JUSTICE ROBERTS:  I'm sorry?  What do 
+
+you mean, an exemption for noncontracting parties? 
+
+MR. LAMKEN:  Simply to say that the 
+
+Mobile-Sierra doctrine can't apply when the challenge is 
+
+brought by a noncontracting party, but rather what FERC 
+
+wrote into the contracts effectively was the highest 
+
+standard permitted by law will be applied to them.  And 
+
+nobody sitting at these tables can tell this Court what 
+
+that standard would be, which is precisely why this is 
+
+an important issue. 
+
+CHIEF JUSTICE ROBERTS:  You don't agree that 
+
+FERC has the authority to exempt noncontracting parties 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+10 
+
+Alderson Reporting Company 
+
+Official 
+
+from the binding effect of the contract rates, do you? 
+
+MR. LAMKEN:  No, we don't, which is 
+
+precisely one of the -- we don't believe that the court 
+
+had authority to announce that rule.  We actually 
+
+believe the court erred in announcing that rule.  It --
+
+JUSTICE BREYER:  It isn't in the case. 
+
+MR. LAMKEN:  Yes.  Whether or not these are 
+
+contracted --
+
+JUSTICE BREYER:  This is a case in which, as 
+
+I think most cases where they approve contracts, what 
+
+they're finding is that the contract rate in this 
+
+circumstance, or here the settlement rate in this 
+
+circumstance, is a just and reasonable rate, because. 
+
+All right?  So what are we supposed to do?  I mean, are 
+
+you going to say he's wrong, the lower court's wrong, 
+
+because they got the whole thing mixed up.  I mean –-
+
+could we say that? 
+
+MR. LAMKEN:  Yes.  The lower court got 
+
+everything wrong, it got the whole thing mixed up; send 
+
+it back. 
+
+(Laughter.) 
+
+MR. LAMKEN:  Very simple and very 
+
+straightforward. 
+
+JUSTICE BREYER:  But then if we were to do 
+
+that --
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+11 
+
+Alderson Reporting Company 
+
+Official 
+
+JUSTICE SCALIA:  He took the words right out 
+
+of your mouth. 
+
+(Laughter.) 
+
+MR. LAMKEN:  Thank you, Justice Breyer. 
+
+JUSTICE BREYER:  But you would -- would you 
+
+agree with my assumptions there? 
+
+MR. LAMKEN:  Yes. 
+
+JUSTICE BREYER:  That what this case is 
+
+about -- and it's a fortiori from the ordinary contract 
+
+case -- is that sometimes an agency, because of 
+
+particular economic circumstances, concludes that a 
+
+particular rate-setting system is a just and reasonable 
+
+system, and once that's in place, then as part of that 
+
+system is the rule you can only challenge it when it 
+
+violates the public interest, for example. 
+
+Now, you can go and attack the whole 
+
+business on the ground the whole business is an abuse of 
+
+discretion or it departs from the statute.  But if the 
+
+whole business is okay, that's the end of it. 
+
+MR. LAMKEN:  Right.  I --
+
+JUSTICE BREYER:  Now, have I just said the 
+
+correct law in your view or not? 
+
+MR. LAMKEN:  We would not -- that, Justice 
+
+Breyer, in fact would be our back-up position. 
+
+JUSTICE BREYER:  Sorry? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+12
+
+Alderson Reporting Company 
+
+Official 
+
+MR. LAMKEN:  That would be our back-up 
+
+position.  Our position is once you have --
+
+JUSTICE BREYER:  But I'm not interested in 
+
+if you have a back-up or not.  I'm interested in, is it 
+
+correct or not? 
+
+MR. LAMKEN:  Yes, we would agree with it, 
+
+that that is a correct statement of law.  But our 
+
+primary position and the primary error in the court 
+
+below was it said even when you have a contract rate, 
+
+nonparty -- there is an exemption based on the identity 
+
+of the challenging party.  And that simply cannot be 
+
+reconciled with –-
+
+JUSTICE SOTOMAYOR:  But you just said to 
+
+Justice Scalia that the court below didn't find that 
+
+this was a contract rate. 
+
+MR. LAMKEN:  That's right.  It merely 
+
+assumed it.  And this Court --
+
+JUSTICE SOTOMAYOR:  It assumed it, so you're 
+
+asking us to assume the same thing and announce --
+
+MR. LAMKEN:  Well --
+
+JUSTICE SOTOMAYOR:  -- an advisory opinion 
+
+that if these are contract rates, they're bound by 
+
+Mobile-Sierra; and if they're not, what are we supposed 
+
+to do? 
+
+MR. LAMKEN:  Well, the answer is that this 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+13
+
+Alderson Reporting Company 
+
+Official 
+
+Court regularly, regularly, addresses the question 
+
+presented and the issue answered below without delving 
+
+into underlying assumptions. 
+
+JUSTICE SCALIA:  You could call them all 
+
+advisory opinions if you want. 
+
+MR. LAMKEN:  That's right. 
+
+JUSTICE SCALIA:  Whenever there is another 
+
+issue in the case --
+
+MR. LAMKEN:  Right, and one example --
+
+JUSTICE SCALIA:  -- for which we remand, you 
+
+could say, oh, we're just giving an advisory opinion on 
+
+the issue that --
+
+MR. LAMKEN:  That's precisely right.  A good 
+
+example would be Jama v. Immigration and Customs 
+
+Enforcement, where the question was whether the Attorney 
+
+General could deport an alien to a foreign country 
+
+without making sure the country would accept him.  And 
+
+the Court said:  We're not going to address whether the 
+
+person is an alien; we won't address whether Somalia is 
+
+a country; we're not going to even address whether this 
+
+person is removable -- that's all for the court on 
+
+remand; we're only going to address whether or not there 
+
+has to be a prior determination that the country will 
+
+accept him.  The same rule would apply --
+
+JUSTICE STEVENS:  Could you give me an 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+14 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+example of a -- of a challenge to a rate that's set 
+
+under this whole program that would succeed under the 
+
+just and reasonable standard and fail under the public 
+
+interest standard, or vice versa? 
+
+MR. LAMKEN:  Are you asking me can I 
+
+conceive of such a rate that would fail and succeed 
+
+under one? 
+
+JUSTICE STEVENS:  Yes. 
+
+MR. LAMKEN:  I think that -- one of the – 
+
+one of the  interesting things about the just and 
+
+reasonable standard, the ordinary just and reasonable 
+
+standard, is you can actually look at the interests of 
+
+the contracting parties to a degree that you cannot 
+
+under the public interest standard.  The point of the 
+
+public interest standard is it has to adversely affect 
+
+the interests of the public.  The whole point --
+
+JUSTICE STEVENS:  I'm not sure that answers 
+
+my question.  Could there be -- could there be a rate 
+
+that would violate one standard and not the other? 
+
+MR. LAMKEN:  Well, they are both the just 
+
+and reasonable standard.  And the one could violate one 
+
+application --
+
+JUSTICE SCALIA:  Yes or no? 
+
+MR. LAMKEN:  Yes. 
+
+JUSTICE SCALIA:  Okay. 
+
+15 
+
+Alderson Reporting Company 
+
+Official 
+
+MR. LAMKEN:  If I may reserve the remainder 
+
+of the time for rebuttal. 
+
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+Mr. Miller. 
+
+ORAL ARGUMENT OF ERIC D. MILLER 
+
+ON BEHALF OF RESPONDENT FERC, 
+
+IN SUPPORT OF THE PETITIONERS 
+
+MR. MILLER:  Mr. Chief Justice, and may it 
+
+please the Court: 
+
+The court of appeals erred in holding that 
+
+the Mobile-Sierra public interest standard is 
+
+inapplicable when contract rates are challenged by a 
+
+noncontracting third party.  That error provides a 
+
+sufficient basis for reversing the judgment below, and 
+
+although there are other issues in the case, those 
+
+issues were not addressed by the court of appeals, and 
+
+this Court should remand and allow them to be resolved 
+
+by the court of appeals rather than addressing them 
+
+itself in the first instance. 
+
+JUSTICE KENNEDY:  Were the -- are the 
+
+Respondents correct and was the court of appeals correct 
+
+in calling this a presumption? 
+
+MR. MILLER:  This Court in Morgan Stanley 
+
+described --
+
+JUSTICE KENNEDY:  In -- in calling the rate 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+16
+
+Alderson Reporting Company 
+
+Official 
+
+that was agreed upon a presumption of a reasonable rate? 
+
+MR. MILLER:  Well, the -- the Court in 
+
+Morgan Stanley held that Mobile-Sierra rests in part on 
+
+the idea that when wholesale businesses negotiate a 
+
+contract for the sale of power, that that can be 
+
+presumed to be just and reasonable. 
+
+JUSTICE KENNEDY:  So you don't quarrel with 
+
+that word --
+
+MR. MILLER:  No.  We quarrel --
+
+JUSTICE KENNEDY:  -- or would you quarrel 
+
+with that characterization? 
+
+MR. MILLER:  That's the way that this 
+
+Court has described the standard.  Now, of course, in 
+
+this case the Commission looked at the mechanism 
+
+created, the forward capacity auction, and it looked at 
+
+the transition rates, and it didn't simply presume them 
+
+to be just and reasonable.  It -- based on its 
+
+examination of them -- determined that the rates set out 
+
+in the settlement and the rates that would be 
+
+established under the mechanism created by the 
+
+settlement would be just and reasonable. 
+
+JUSTICE SCALIA:  Just and reasonable, or 
+
+would comply with the public interest standard? 
+
+MR. MILLER:  The --
+
+JUSTICE SCALIA:  I mean, what's the use of 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+17 
+
+Alderson Reporting Company 
+
+Official 
+
+having Mobile-Sierra if -- if they're going to reexamine 
+
+the thing under the usual standard anyway? 
+
+MR. MILLER:  Well, the settlement -- no one 
+
+is suggesting that the settlement agreement itself is a 
+
+Mobile-Sierra contract.  The settlement was a resolution 
+
+of a disputed proceeding before the Commission.  It's 
+
+sort of analogous to a consent decree.  The Commission 
+
+had to approve that before it became effective.  By its 
+
+own terms, the settlement agreement wouldn't become 
+
+effective as binding between the parties unless the 
+
+Commission approved it. 
+
+CHIEF JUSTICE ROBERTS:  Your -- your opening 
+
+statement about what this Court should do is a change 
+
+from your statement of what we should do in your briefs. 
+
+In your -- you just said the Court should 
+
+remand for further considerations other issues.  In your 
+
+brief, you say the judgment of the court of appeals 
+
+should be reversed insofar as it granted the petitions 
+
+for review.  You've changed your position on what we 
+
+should do. 
+
+MR. MILLER:  Well, we -- we do think that 
+
+you should reverse the holding of the court of appeals. 
+
+To the extent that you think that there are other issues 
+
+that are presented other than the question presented as 
+
+stated by the petition. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+18 
+
+Alderson Reporting Company 
+
+Official 
+
+CHIEF JUSTICE ROBERTS:  But that's a change. 
+
+Before you didn't think there were other issues that 
+
+affected the determination or might.  You said we should 
+
+grant -- reverse the determination insofar as it granted 
+
+the petitions for review. 
+
+If we say that the petitions for review 
+
+should have been denied, then we don't send it back. 
+
+MR. MILLER:  Should have been granted. 
+
+Right.  Yes.  Right.  That's right. 
+
+It -- I mean, our view is that the 
+
+appropriate disposition is a remand to the court of 
+
+appeals to allow it to decide whether these other issues 
+
+are properly before it, and the answer to that may be –-
+
+be no, but the court of appeals should have an 
+
+opportunity to consider that in the first instance. 
+
+The reason that, in our view, the court of 
+
+appeals was wrong in holding that there's a third-party 
+
+exception to Mobile-Sierra is that, as I said a moment 
+
+ago, the Court in Morgan Stanley recognized that 
+
+Mobile-Sierra rests on a presumption that the rates 
+
+negotiated between sophisticated wholesale businesses 
+
+can be presumed to be just and reasonable.  That's a 
+
+feature of the rate.  There is no reason why the same 
+
+rate for the same power could be just and reasonable 
+
+when it's challenged by one person, but not when it's 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+19
+
+Alderson Reporting Company 
+
+challenged by somebody else. 
+
+Official 
+
+Second, the purpose of the public interest 
+
+test under Mobile-Sierra is to allow contract 
+
+modification only when it's necessary to protect third 
+
+parties; that is, members of the public.  So it doesn't 
+
+make sense to say that that test is inapplicable 
+
+whenever you have a challenge that's presented by one of 
+
+those third parties or a member of the public. 
+
+JUSTICE SOTOMAYOR:  Is there -- what would 
+
+happen in a situation in which there's a tariff price 
+
+instead of a contract price?  In those situations, the 
+
+buyer could come in, presumably, and say:  It's not a 
+
+fair and just price vis-à-vis me; I didn't agree to it; 
+
+it's not. 
+
+In a normal situation with a contract price, 
+
+third parties, many not -- not the main -- main 
+
+parties, like the Maine Public Utilities Commission, 
+
+could come in and say what?  It's not fair to the public 
+
+in general? 
+
+MR. MILLER:  In the contract setting? 
+
+JUSTICE SOTOMAYOR:  Yes. 
+
+MR. MILLER:  Yes, third parties could come 
+
+in, and if they -- they would have to satisfy the public 
+
+interest test.  They would have to show that there are 
+
+-- the Court has described it variously as extraordinary 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+20 
+
+Alderson Reporting Company 
+
+Official 
+
+circumstances, severe impact on the public interest. 
+
+JUSTICE SOTOMAYOR:  Could they come in and 
+
+show that between the contracting parties the price is 
+
+unfair?  Is that what this is about, that they would try 
+
+to come in and somehow define the public interest as 
+
+being informed by the unfairness to the individual 
+
+parties? 
+
+MR. MILLER:  I think that sort of argument 
+
+would be foreclosed by Sierra. 
+
+JUSTICE SOTOMAYOR:  Well, but that's the 
+
+question before us. 
+
+MR. MILLER:  Well, you have --
+
+JUSTICE SOTOMAYOR:  The D.C. Circuit said 
+
+they shouldn't be bound by that determination, and 
+
+you're arguing that they should be because --
+
+MR. MILLER:  What -- what the Court said in 
+
+Sierra is that mere unfairness, one of the -- the fact 
+
+that one of the contracting parties got a bad bargain is 
+
+not a reason to set aside the contract, except for the 
+
+Court did reserve the extraordinary circumstance where 
+
+it's going to put the supplier out of business, which 
+
+would adversely affect the public interest if they can 
+
+no longer deliver power at that rate. 
+
+JUSTICE STEVENS:  May I --
+
+JUSTICE SOTOMAYOR:  So it goes back to my 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+21 
+
+Alderson Reporting Company 
+
+Official 
+
+original question with your adversary, which is:  Is 
+
+there a difference among the objectors here, between 
+
+those who are objecting to the terms between the two 
+
+contracting parties as outsiders, as members of the 
+
+public, and those who are objecting because this 
+
+settlement agreement does something different?  It binds 
+
+them personally to a buying price, and so why shouldn't 
+
+there be a different approach to those individuals? 
+
+MR. MILLER:  I think there are two responses 
+
+to that, Your Honor.  The first is that the reasoning of 
+
+the court of appeals draws no distinction between those 
+
+two --
+
+JUSTICE SOTOMAYOR:  I agree. 
+
+MR. MILLER:  Okay. 
+
+JUSTICE SOTOMAYOR:  And so the 
+
+question is:  Should there be a distinction? 
+
+MR. MILLER:  Yes.  And I think certainly the 
+
+Commission appreciates the idea that there's something 
+
+wrong about -- or there's something unfair about A and B 
+
+getting together and deciding on the rate that C is 
+
+going to pay.  And to the extent that you're concerned 
+
+about that situation, the answer to that is that when A 
+
+and B set the rate that C has to pay, C is not paying a 
+
+contract rate in the Mobile-Sierra sense, because C is 
+
+not -- C is paying a rate it has not agreed to. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+22 
+
+Alderson Reporting Company 
+
+Official 
+
+JUSTICE SOTOMAYOR:  And that's what the 
+
+Third Circuit -- I'm sorry, that's what the court below 
+
+didn't --
+
+MR. MILLER:  The court did not use that mode 
+
+of analysis.  The court below said that we were talking 
+
+about contract rates and their being challenged by 
+
+nonparties to the contract, and the court thought that 
+
+in that context the Mobile-Sierra public interest 
+
+standard doesn't apply, and that --
+
+JUSTICE SCALIA:  You're saying, in effect, 
+
+that Mobile-Sierra does not apply to an agreement 
+
+between A and B that not only sets the rate between the 
+
+two, but also fixes the rate that one of them will 
+
+charge to C? 
+
+The last feature is not a Mobile-Sierra --
+
+is not eligible for Mobile-Sierra treatment. 
+
+MR. MILLER:  That's right, because C's rate 
+
+in that scenario is not a rate that it has agreed to. 
+
+It's being set unilaterally by people other than it, and 
+
+so it's in our view more appropriately characterized as 
+
+a tariff rate that is not subject to the --
+
+JUSTICE SCALIA:  Right.  But that's -- but 
+
+that's not what the D.C. Circuit said. 
+
+MR. MILLER:  No, that is --
+
+JUSTICE SCALIA:  The D.C. Circuit said that 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+23
+
+Alderson Reporting Company 
+
+Official 
+
+the entire -- there is no application of Mobile-Sierra 
+
+at all. 
+
+MR. MILLER:  That's right.  And the 
+
+D.C. Circuit made that quite clear, particularly on page 
+
+20a of the petition appendix in its opinion, where it 
+
+described the question before it, yes. 
+
+JUSTICE STEVENS:  But it is your view, is it 
+
+not, that the rates that result from the auction are not 
+
+contract rates within the meaning of Mobile-Sierra? 
+
+MR. MILLER:  That -- that is our view, that 
+
+that's -- it's not the basis for the court of appeals’ 
+
+decision. 
+
+JUSTICE GINSBURG:  The court of appeals 
+
+never got to what FERC thinks is the heart of the case, 
+
+whether this is a contract rate, whether -- you say it 
+
+is not -- and whether FERC has the authority nonetheless 
+
+to apply the public interest standard.  But none of 
+
+those have been addressed by the D.C. Circuit. 
+
+MR. MILLER:  That's -- that’s exactly right, 
+
+Your Honor.  The court didn't reach --
+
+CHIEF JUSTICE ROBERTS:  And just to follow 
+
+up, you think we should not address either of those --
+
+MR. MILLER:  No --
+
+CHIEF JUSTICE ROBERTS:  -- whether it's a 
+
+contract or whether you have authority to make an 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+24 
+
+Alderson Reporting Company 
+
+Official 
+
+exception to the Mobile-Sierra doctrine? 
+
+MR. MILLER:  No, we think the Court should 
+
+answer only the question that was ruled upon below and 
+
+leave those other issues to the extent that they have 
+
+been properly --
+
+JUSTICE BREYER:  How can we?  I mean, that's 
+
+a -- why not answer a case -- a question about 
+
+employment discrimination law?  Where -- where in this 
+
+FERC thing does this say that these are contracts of a 
+
+kind that Mobile-Sierra was about?  I mean, I don't even 
+
+know if Mobile-Sierra -- whether you could -- a third 
+
+party could attack such a contract under public – under 
+
+a just and reasonable standard, unless I knew first what 
+
+the Commission thought about it in this context, because 
+
+then the Commission's question would be:  Is that a 
+
+reasonable view?  So what am I supposed to do here? 
+
+MR. MILLER:  Well, I think we agree with 
+
+Petitioners that it is quite common for this Court to 
+
+decide a case, taking the case on the same assumption 
+
+that the court of appeals did, and answer the questions 
+
+that are raised --
+
+JUSTICE BREYER:  We would have to take it on 
+
+the assumption -- wait, I don't want -- you have 5 
+
+minutes left that you're reserving? 
+
+MR. MILLER:  I’m not --
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+CHIEF JUSTICE ROBERTS:  You don't get to 
+
+reserve time. 
+
+MR. MILLER:  Right.  Right. 
+
+(Laughter.) 
+
+JUSTICE BREYER:  What's the assumption?  The 
+
+assumption is the court of appeals thinks that the 
+
+contract between -- among the generating -- the 
+
+generators, that that is a Mobile-Sierra contract.  So 
+
+we're supposed to say, if that were a Mobile-Sierra 
+
+contract, which it isn't, then we should decide whether 
+
+a third party could attack it, about which the 
+
+Commission has said nothing.  Is that right? 
+
+MR. MILLER:  No, Your Honor, because we do 
+
+agree that at least some of the rates that are covered 
+
+by the public interest review clause in the settlement 
+
+-- 
+
+JUSTICE BREYER:  The transition rates? 
+
+MR. MILLER:  The transition rates as between 
+
+the settling parties. 
+
+JUSTICE BREYER:  But the reasonableness 
+
+depends upon the other.  The validity depends upon the 
+
+other.  It's all part of a package. 
+
+MR. MILLER:  Well, their validity doesn't –-
+
+their validity depends upon the mechanism that's created 
+
+by the settlement, which the Commission reviewed under 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+Alderson Reporting Company 
+
+Official 
+
+the ordinary just and reasonable standard.  It doesn't 
+
+depend on the clearing prices of the auctions, which 
+
+are the -- I mean, what the --
+
+JUSTICE BREYER:  That's all true, but I 
+
+would want to know what the Commission thought about 
+
+that one, too. 
+
+MR. MILLER:  What -- what the Commission 
+
+thought is that the -- the Commission looked at the 
+
+auction mechanism and determined that it was likely to 
+
+produce just and reasonable results.  And the Commission 
+
+emphasized that at any point anybody can come in and 
+
+challenge the auction rules and say that they're not 
+
+just and reasonable, and the Commission will review that 
+
+entirely unencumbered by this provision of the 
+
+settlement.  And, in addition, within 45 days after each 
+
+auction, anybody can come in and challenge those 
+
+results.  And only after that 45-day period does the 
+
+public interest review clause become effective. 
+
+The -- the last point I would like to make 
+
+about the court of appeals' analysis is that this Court 
+
+made clear in Morgan Stanley that Mobile-Sierra applies 
+
+to the Commission when it is acting sua sponte, and 
+
+there is no reason why FERC's power should depend on 
+
+whether somebody has filed a complaint.  If FERC is 
+
+bound, public interest standard, under Mobile-Sierra 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+27 
+
+Alderson Reporting Company 
+
+Official 
+
+when there is a Mobile-Sierra contract, it makes very 
+
+little sense to say that it ceases to be bound by that 
+
+as long as anybody in the world other than the 
+
+contracting party comes in and files the complaint to 
+
+initiate the FERC investigation. 
+
+JUSTICE SCALIA:  Well, we -- we don't know 
+
+that that's the other side's position.  I was going to 
+
+ask him that.  Their position is that the third party 
+
+can -- can attack the -- the agreement without being 
+
+encumbered by Mobile-Sierra, but I don't know that 
+
+they've said that once a third party does mount such an 
+
+attack the Commission is suddenly also unencumbered by 
+
+Mobile-Sierra. 
+
+MR. MILLER:  Well, the --
+
+JUSTICE SCALIA:  I have assumed that their 
+
+position is the Commission remains bound by Mobile-
+
+Sierra, but these third parties can -- can demand a 
+
+court -- that a court apply a different standard. 
+
+MR. MILLER:  I had not understood that to be 
+
+their position, but I think it would be very strange --
+
+JUSTICE SCALIA:  We can --
+
+MR. MILLER:  -- if the Commission had one 
+
+Standard, and on review of the Commission order, the 
+
+court were to apply a standard different from what --
+
+JUSTICE SCALIA:  I'm not sure that's any 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+28 
+
+Alderson Reporting Company 
+
+Official 
+
+stranger than saying the Commission has one standard 
+
+until somebody else challenges it, whereupon the 
+
+Commission has a different standard.  You don't think 
+
+that's strange? 
+
+MR. MILLER:  I -- I think we would agree 
+
+that they're both quite strange. 
+
+JUSTICE SCALIA:  Yes. 
+
+(Laughter.) 
+
+MR. MILLER:  If there are no further 
+
+CHIEF JUSTICE ROBERTS:  Thank you, Mr. 
+
+questions --
+
+Miller. 
+
+MR. MILLER:  Thank you. 
+
+CHIEF JUSTICE ROBERTS:  General Blumenthal. 
+
+ORAL ARGUMENT OF GEN. RICHARD BLUMENTHAL 
+
+ON BEHALF OF THE RESPONDENTS 
+
+MR. BLUMENTHAL:  Thank you, Mr. Chief 
+
+Justice.  Mr. Chief Justice, and may it please the 
+
+Court: 
+
+There is one central truth here on which we 
+
+and the government agree.  These are not contract rates 
+
+at issue here.  They are tariff rates.  That is a 
+
+central truth that unites the government and the 
+
+Respondents, because these rates out of the auction 
+
+process will be rates of general applicability, applying 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+29 
+
+Alderson Reporting Company 
+
+Official 
+
+not only to those contractors, the parties who agreed to 
+
+the contract, but they will be binding on NSTAR, which 
+
+sells 25 percent of the power in the New England market; 
+
+they will be binding on the other five Respondents, 
+
+including Maine and Massachusetts as well as 
+
+Connecticut. 
+
+JUSTICE SOTOMAYOR:  Well, they can 
+
+self-supply, can't they? 
+
+MR. BLUMENTHAL:  Even if they had that 
+
+option, Justice Sotomayor, it would not change a tariff 
+
+into a contract.  Just because there is the option of 
+
+self-supply doesn't mean that parties who are disputing 
+
+the contract, disagreeing with it, not to mention not 
+
+contracting, should be bound to it as though it were a 
+
+contract.  The option of --
+
+JUSTICE SCALIA:  They're not bound to it. 
+
+They -- they are saying that -- claiming -- that their 
+
+rates are too high because the contract was too high, so 
+
+-- and therefore, their rates are unreasonable.  And 
+
+what Mobile-Sierra says -- it certainly says it as 
+
+between the two contracting parties -- that if it's at 
+
+arm-length between sophisticated seller and buyer 
+
+of -- of the power, they are bound by it, and 
+
+the -- and the issue is here is whether somebody 
+
+downstream who says that since this contract is so 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+30 
+
+Alderson Reporting Company 
+
+Official 
+
+exorbitant, the rates are too high, whether that person 
+
+is likewise bound by Mobile-Sierra.  Isn't that right? 
+
+MR. BLUMENTHAL:  Justice Scalia, with all 
+
+due respect, that situation is not here. 
+
+JUSTICE GINSBURG:  But that's what the court 
+
+of appeals decided.  Their simple question was 
+
+Mobile-Sierra binds the contracting parties, and it 
+
+doesn't -- the rate doesn't stick for anybody else. 
+
+That's all they decided. 
+
+And the question that you're asking 
+
+certainly is looming over this whole case, but it isn't 
+
+presented to us because it wasn't even dealt with in any 
+
+way, shape, or manner by the D.C. Circuit. 
+
+MR. BLUMENTHAL:  Absolutely correct, Justice 
+
+Ginsburg.  The D.C. Circuit's reasoning here was based 
+
+on facts that were, in fact, not present here.  We 
+
+agreed then, we argued to the FERC, we argued to the 
+
+court of appeals, we argued in opposition to certiorari, 
+
+that what's involved here are tariff rates. 
+
+And the D.C. Circuit's ruling in our view 
+
+was correct, and its reasoning was correct insofar as 
+
+Mobile-Sierra binds contracting parties, as Justice 
+
+Scalia has just articulated and Morgan Stanley 
+
+reiterated.  It involves parties trying to escape an 
+
+improvident bargain. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+31 
+
+Alderson Reporting Company 
+
+Official 
+
+What we have here is an auction system that 
+
+sets rules of general applicability. 
+
+JUSTICE GINSBURG:  But I thought one large 
+
+difference -- I thought Justice Scalia suggested that 
+
+the rate negotiated by -- in that bilateral agreement, 
+
+that that rate would not be subject to just and 
+
+reasonable attack by anyone, that the public interest 
+
+standard attaches to that rate and FERC can't abrogate 
+
+it.  It's a rate that's set, it's binding on FERC, and 
+
+FERC presumably, because it has no authority to abrogate 
+
+it, could not entertain any complaint that would ask to 
+
+have it abrogated. 
+
+MR. BLUMENTHAL:  Section 4.C of the 
+
+settlement agreement that FERC approved under the just 
+
+and reasonable standard says to the world:  We can make 
+
+an exception for ourselves under the just and 
+
+reasonable -- under the Memphis rule.  We can make an 
+
+exception to the public interest standard.  The 
+
+government says it can make an exception for itself. 
+
+The only ones powerless to invoke --
+
+JUSTICE GINSBURG:  I didn't -- I didn’t 
+
+follow.  I didn't think there was -- was there a Memphis 
+
+clause in this settlement? 
+
+MR. BLUMENTHAL:  There is.  There is in 
+
+section 4.C in effect a modified Memphis clause which 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+32
+
+Alderson Reporting Company 
+
+Official 
+
+says that the parties can come together and agree to a 
+
+different standard, Justice Ginsburg. 
+
+So, in a sense, the irony here, if the Court 
+
+were to reverse and apply Morgan Stanley -- I'm sorry, 
+
+Mobile-Sierra and Morgan Stanley -- would be that the 
+
+only ones powerless to invoke the just and reasonable 
+
+standard to review the auction rates would be the 
+
+Respondents --
+
+JUSTICE BREYER:  Why? 
+
+MR. BLUMENTHAL:  -- who never agreed to this 
+
+supposed contract. 
+
+JUSTICE BREYER:  Why are you powerless? 
+
+MR. BLUMENTHAL:  I’m sorry. 
+
+JUSTICE BREYER:  Why don't you to go to the 
+
+Commission and say:  Commission, there is always special 
+
+circumstances. You may think that in this kind of 
+
+situation, which is a special situation, that the public 
+
+interest standard, whether it's in a contract or whether 
+
+it's in a tariff or wherever you want to put it, is the 
+
+right standard for review.  You may think that.  But you 
+
+don't think it for yourselves, you don't think it for 
+
+somebody else, and here's some reasons why you don't 
+
+think it for us. 
+
+And if they agree with your reasons, they'll 
+
+say:  Fine, go ahead.  And if they don't, they don't. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+33 
+
+Alderson Reporting Company 
+
+Official 
+
+Why aren't you exactly as powerful or powerless as 
+
+anybody else? 
+
+MR. BLUMENTHAL:  Justice Breyer, there is an 
+
+immense difference, as you and the Court is well aware 
+
+because it has been articulated in opinions, between the 
+
+public interest standard and the ordinary just and 
+
+reasonable standard, and the government would like that 
+
+discretion to say in effect --
+
+JUSTICE BREYER:  My point is if you don't 
+
+like that as applied to your situation, you have a 
+
+remedy.  That's what the public -- that's why they're 
+
+there, agencies.  They are there to listen to you and 
+
+give you a remedy, and the remedy is, if you convince 
+
+them you shouldn't be subject to that, they'll say fine; 
+
+and otherwise not.  Why are you coming to us who know 
+
+nothing about natural gas and asking us to do it? 
+
+MR. BLUMENTHAL:  We're not here by choice, 
+
+Your Honor. 
+
+(Laughter.) 
+
+JUSTICE BREYER:  It's electricity. 
+
+MR. BLUMENTHAL:  If you tell me at this 
+
+point to go home, I'm happy to do it. 
+
+(Laughter.) 
+
+MR. BLUMENTHAL:  We're here because we 
+
+believe that the section 4.C establishes a standard that 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+34 
+
+Alderson Reporting Company 
+
+Official 
+
+is contrary to the statute, the just and reasonable 
+
+standard. 
+
+JUSTICE BREYER:  Then you're going to say 
+
+you mean they never can do it, but it's well settled. 
+
+It's well settled that they sometimes can say -- I mean, 
+
+my point is this:  I just found the quote I was looking 
+
+for.  So I was thinking natural gas.  It applies to 
+
+electricity capacity, too.  Justice Jackson:  "The 
+
+wealth of Midas and the wit of man cannot produce or 
+
+reproduce a natural gas field." 
+
+That applies to electricity capacity.  We 
+
+can't reproduce it.  You can't.  The Commission devises 
+
+a system for trying to get it done, and if they do it 
+
+reasonably, they win. 
+
+MR. BLUMENTHAL:  But the -- the Commission 
+
+should not be accorded discretion to adopt a standard 
+
+that contravenes the statute.  We're dealing here --
+
+JUSTICE BREYER:  The standard -- the statute 
+
+is "just and reasonable."  That calls up a whole 
+
+mechanism from the 1930s.  I thought that it is long --
+
+we're long past that point, that -- that whatever 
+
+Brandeis thought it was, which they did in the thirties 
+
+and forties, that it has also been interpreted to 
+
+include the power to the Commission to deviate from 
+
+that, because they find, for example, contract rates 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+35 
+
+Alderson Reporting Company 
+
+Official 
+
+under certain circumstances to be just and reasonable, 
+
+even though you don't use cost-of-service ratemaking. 
+
+MR. BLUMENTHAL:  What we're dealing with in 
+
+this case is the question of whether the government and 
+
+the Commission should have virtually unbridled 
+
+discretion to adopt a standard that has been called 
+
+"practically insurmountable," as recently as Morgan 
+
+Stanley.  It was --
+
+JUSTICE SCALIA:  But that -- that's because 
+
+of section 4.C, you say? 
+
+MR. BLUMENTHAL:  Section 4.C of the 
+
+agreement --
+
+JUSTICE SCALIA:  Right.  Which -- which 
+
+gives the Commission a good deal of flexibility, which 
+
+you say you -- your clients don't have or your State 
+
+doesn't have.  But that isn't the basis on which this 
+
+case was decided below.  It was decided on the very 
+
+simple basis that the Mobile-Sierra doctrine simply does 
+
+not apply to challenges by third parties.  It had 
+
+nothing to do with the details of 4.C and the -- the 
+
+excessive discretion given -- given to the Commission 
+
+but not to you. 
+
+It was a very simple proposition on which we 
+
+granted cert, whether Mobile-Sierra's public interest 
+
+standard applies when a contract rate is challenged by 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+36 
+
+Alderson Reporting Company 
+
+Official 
+
+an entity that was not a party to the contract.  That's 
+
+the question.  And what's your answer to that? 
+
+MR. BLUMENTHAL:  Our answer is --
+
+JUSTICE SCALIA:  Do you support the opinion 
+
+of the -- of the court below? 
+
+MR. BLUMENTHAL:  We do support it, Justice 
+
+Scalia, and the reason we do is that Mobile-Sierra is 
+
+about contracts.  And --
+
+JUSTICE SCALIA:  It isn't about contracts. 
+
+It's about reasonable rates.  I thought what it was, was 
+
+a determination by the Commission, approved by -- by 
+
+this Court, that when two giants of the industry, very 
+
+knowledgeable, deal at arm's-length and come up with --
+
+with a contract, that is presumptively reasonable, and 
+
+unless it contravenes the public interest, that rate 
+
+will -- will be upheld. 
+
+Now, you say it should be upheld only 
+
+between the two contracting parties.  What good does 
+
+that do? 
+
+MR. BLUMENTHAL:  It -- it can be held --
+
+upheld only between the two contracting parties if 
+
+they're the ones who have agreed to it.  Under 
+
+Mobile-Sierra, there is a presumption of free 
+
+negotiation and consent. 
+
+JUSTICE KENNEDY:  But the rationale is the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+37 
+
+Alderson Reporting Company 
+
+Official 
+
+commonsense notion that it's a presumptively reasonable 
+
+rate, and if that's true, how is that altered by the 
+
+identity of the party that attacks it? 
+
+MR. BLUMENTHAL:  Because, Your Honor, the 
+
+question also is what the standard should be if it's 
+
+presumptively reasonable; and it is taken as such, 
+
+because it is freely negotiated, because there is 
+
+consent to it.  Because one of them is seeking to escape 
+
+it, and use the Commission to escape it, then 
+
+Mobile-Sierra says it should be presumed just and 
+
+reasonable, and only when the public interest is 
+
+seriously harmed --
+
+JUSTICE KENNEDY:  Well, why is -- why is it 
+
+not presumptively a commonsense notion when some 
+
+different party attacks it?  It -- it's still a 
+
+determination that this rate, as a commonsense matter, 
+
+is presumptively reasonable. 
+
+MR. BLUMENTHAL:  As to this case, again, 
+
+there are no rates yet.  We're talking about an auction 
+
+mechanism that will not even involve a contract, and the 
+
+government says so as well, that -- we and the 
+
+government agree that it will not involve a contract. 
+
+So how can --
+
+JUSTICE KENNEDY:  Yes.  That's different 
+
+than Mobile-Sierra, although Mobile-Sierra did invoke 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+38 
+
+Alderson Reporting Company 
+
+Official 
+
+market forces of another kind -- of another kind. 
+
+MR. BLUMENTHAL:  Well, you know, I feel, 
+
+with all due respect, that we are talking in alternate 
+
+universes here, the government and the Petitioners and 
+
+we; and the reason is, as the Court has quite aptly 
+
+identified, the court of appeals used a rationale that 
+
+simply is not wholly fitting to the facts here. 
+
+JUSTICE GINSBURG:  Why shouldn’t we tell 
+
+them that, and then they can pick it up from there? 
+
+MR. BLUMENTHAL:  Well --
+
+JUSTICE GINSBURG:  Because what they did say 
+
+could be -- have heavy consequences.  We know that that 
+
+has already happened.  FERC has revised a number of 
+
+contracts to conform to the D.C. Circuit's idea that 
+
+it's the parties to the -- to the contract, not the rate 
+
+that's sheltered by Mobile-Sierra.  That's a very 
+
+consequential decision, and so we would tell the D.C. 
+
+Circuit, if we agreed with FERC and the Petitioners on 
+
+that:  D.C. Circuit, you've got that wrong. 
+
+Now, there may be other matters, other 
+
+issues like the ones that you would like us to decide as 
+
+a matter of first view, but as Justice Scalia has 
+
+pointed out more than once, we have a question.  It is 
+
+the very question that the D.C. Circuit decided.  Why 
+
+should we go beyond that? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+39 
+
+Alderson Reporting Company 
+
+Official 
+
+MR. BLUMENTHAL:  Because addressing that 
+
+question, Justice Ginsburg, as Justice Breyer said, is 
+
+not the question that the Commission addressed.  It 
+
+isn't the question in terms of the factual situation 
+
+here that is really at issue.  We're dealing here with 
+
+tariff rates that are set through the auction mechanism. 
+
+If the Court --
+
+JUSTICE SCALIA:  Yes, but we don't like to 
+
+decide these questions, you know, initially.  We -- we 
+
+like to have some lower court do the dirty work, and we 
+
+can correct them. 
+
+(Laughter.) 
+
+JUSTICE SCALIA:  It’s -- it's a lot easier 
+
+that way, and we're more likely to reach a correct 
+
+result, rather than -- than wading in with, you know, 
+
+-- from scratch.  That's our usual practice. 
+
+MR. BLUMENTHAL:  And the government's 
+
+position on certiorari was that there should be a remand 
+
+without reversal for reconsideration in light of Morgan 
+
+Stanley. 
+
+CHIEF JUSTICE ROBERTS:  You're in a very 
+
+tough position because of the way this has progressed. 
+
+I think you can make a strong argument that you 
+
+shouldn't be bound by these contract rates if FERC 
+
+doesn't have a lot of discretion to let you go.  If FERC 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+40
+
+Alderson Reporting Company 
+
+Official 
+
+has a lot of discretion to let you go, your argument 
+
+that you shouldn't be bound is a lot weaker.  And the 
+
+way the case has been presented, we're pushing on only 
+
+one -- one side of that. 
+
+MR. BLUMENTHAL:  And I recognize that fact, 
+
+Mr. Chief Justice, that the Court is presented with a 
+
+dilemma here because it's dealing with tariff rates when 
+
+the question presented talks about contract rates. 
+
+JUSTICE BREYER:  So is the answer then 
+
+maybe where Justice Ginsburg and Justice Scalia were 
+
+going, that -- because where I’m coming from, why I have 
+
+been asking this, is I actually think the answer to the 
+
+question so far on the question presented is 
+
+"sometimes."  Sometimes you can't; sometimes you can. 
+
+And it depends on a lot of things -- situations, 
+
+circumstances, arguments to commissions, what they held, 
+
+et cetera. 
+
+So maybe that's the thing to do, you answer 
+
+the question, say "sometimes."  Sometimes they can use 
+
+one; sometimes it's the other.  Indeed, in this very 
+
+case, they've argued that it's -- that it's not even 
+
+within the mainstream of Mobile-Sierra.  And maybe 
+
+that's so, maybe it's not.  Send it back, say it depends 
+
+on circumstances, time, et cetera.  And then they can 
+
+argue all these things out that we've just been hearing. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+41 
+
+Alderson Reporting Company 
+
+Official 
+
+What about that? 
+
+MR. BLUMENTHAL:  And, Justice Breyer, the 
+
+"sometimes" is absolutely right from our standpoint. 
+
+CHIEF JUSTICE ROBERTS:  Well, but if we 
+
+ruled that --
+
+MR. BLUMENTHAL:  There may be --
+
+CHIEF JUSTICE ROBERTS:  If we decided it on 
+
+that basis, we would be giving FERC a victory on the 
+
+question of its authority to depart from Mobile-Sierra, 
+
+even though that wasn't presented in this case. 
+
+MR. BLUMENTHAL:  No.  In our view, Mr. Chief 
+
+Justice, noncontracting parties under Mobile-Sierra 
+
+cannot be bound --
+
+CHIEF JUSTICE ROBERTS:  Oh, I know --
+
+MR. BLUMENTHAL:  -- by tariff rates. 
+
+CHIEF JUSTICE ROBERTS:  -- but Justice 
+
+Breyer was hypothesizing that sometimes they can be, and 
+
+sometimes they can't be.  And you accepted his 
+
+proposition. 
+
+And what I'm saying is that's a very 
+
+significant question.  FERC wants to argue it here, but 
+
+it's not before us. 
+
+MR. BLUMENTHAL:  The “sometimes” -- if I 
+
+could complete the answer, Mr. Chief Justice, is that 
+
+the “sometimes” would include contract rates.  In other 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+42
+
+Alderson Reporting Company 
+
+Official 
+
+words, where there are strictly contract rates –-
+
+whereas, here, we have tariff rates -- FERC would not 
+
+have that discretion.  It cannot have discretion to 
+
+apply the public interest standard to tariff rates any 
+
+more than it could apply the ordinary just and 
+
+reasonable standard to contract rates which --
+
+JUSTICE SCALIA:  Has anybody before --
+
+MR. BLUMENTHAL:  -- Mobile-Sierra fits. 
+
+JUSTICE SCALIA:  -- even suggested that 
+
+Mobile-Sierra is a “sometimes” thing?  Do -- did 
+
+any of our opinions say that it's a “sometimes” thing, 
+
+except in one respect, and that is the doctrine does not 
+
+apply when -- when, downstream, the rates -- or even 
+
+between the parties, the rates would violate the public 
+
+interest? 
+
+That's a “sometimes.”  It won't apply then, 
+
+but have we ever suggested that, you know, today it 
+
+may; tomorrow it -- it won't?  Or have we ever suggested 
+
+what standards might determine the “sometimes” question? 
+
+MR. BLUMENTHAL:  Mobile- --
+
+JUSTICE SCALIA:  Have we ever suggested how 
+
+you can -- you can have a “sometimes” doctrine which 
+
+will produce the stability in the industry that Mobile-
+
+Sierra was intended to produce? 
+
+I mean, that was the whole purpose of 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+43 
+
+Alderson Reporting Company 
+
+Official 
+
+Mobile-Sierra.  People had to be able to predict whether 
+
+they can take natural gas out of the ground, how much 
+
+they can make on it, and once they enter into an 
+
+arm's-length contract, they should be able to rely on 
+
+it. 
+
+That was the whole purpose.  And, now, you 
+
+want to us say, well, sometimes it will work, and 
+
+sometimes it won't.  And we're not going to say when; 
+
+we're going to leave it to the D.C. Circuit to invent 
+
+some “sometimes.” 
+
+That doesn't make any sense, does it? 
+
+MR. BLUMENTHAL:  Again, I may have been 
+
+unclear, and I apologize if I was, in response to 
+
+Justice Breyer and the Chief Justice's question, but the 
+
+point is that the “sometimes” would not apply to the 
+
+situation that we have here, where there are rates of 
+
+general applicability and tariffs. 
+
+JUSTICE SOTOMAYOR:  Can I -- can I go –-
+
+stop you there, just so that we're all on the same page? 
+
+If this were, hypothetically, a contract rate -- some of 
+
+the transition fees appear to be.  The parties to that 
+
+agreement are saying, we're going to pay, in transition 
+
+fees, X amount. 
+
+Assuming, for the sake of argument, that the 
+
+transition fees are contract rates, are you disputing 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+44 
+
+Alderson Reporting Company 
+
+Official 
+
+the circuit court's analysis that the Mobile-Sierra 
+
+doctrine applies to those contract rates and binds third 
+
+parties who are challenging that particular rate between 
+
+those two parties? 
+
+MR. BLUMENTHAL:  Justice Sotomayor, we are 
+
+not challenging that a contract should bind those two 
+
+parties or those hundred-plus parties that agree to the 
+
+contract. 
+
+JUSTICE SOTOMAYOR:  Well, that -- you 
+
+can't because that's the doctrine.  Okay. 
+
+Under what circumstances could a third party 
+
+challenge that rate as not fair and reasonable, as 
+
+opposed to being contrary to the public interest? 
+
+MR. BLUMENTHAL:  Well, the public interest 
+
+standard, as articulated in Morgan Stanley, would 
+
+require showing an extraordinarily high burden of proof. 
+
+JUSTICE SOTOMAYOR:  You haven't answered my 
+
+question. 
+
+Under what circumstances -- I've given you 
+
+the absolute minimum example. 
+
+MR. BLUMENTHAL:  If --
+
+JUSTICE SOTOMAYOR:  There’s a rate set 
+
+between two parties, what third parties -- under what 
+
+circumstances could a third party come in and say -- on 
+
+some standard different than contrary to the public 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+45 
+
+Alderson Reporting Company 
+
+Official 
+
+interest, how could they prove other that that rate's 
+
+not fair and reasonable? 
+
+MR. BLUMENTHAL:  If that party were directly 
+
+affected --
+
+JUSTICE SOTOMAYOR:  What does the word 
+
+"directly affected" mean to you? 
+
+MR. BLUMENTHAL:  It would mean having to pay 
+
+rates that flow inevitably --
+
+JUSTICE SOTOMAYOR:  No.  Now, you're trying 
+
+to confuse the issue.  Yes, that's the auction question 
+
+and whether that auction is a contract price subject to 
+
+the Mobile-Sierra doctrine at all.  That's a different 
+
+issue. 
+
+I've given you the simple hypothetical. 
+
+Could all of those other respondents -- except NSTAR --
+
+come in and say that it's not fair and reasonable 
+
+to me because, at the end, I'm going to pay more; I'm 
+
+going to do something -- it's going to affect me in some 
+
+indirect way. 
+
+Are you taking the position that there's 
+
+something else that FERC must do when those third 
+
+parties come into -- into that simple situation? 
+
+MR. BLUMENTHAL:  Our position, Justice 
+
+Sotomayor -- and it's a hypothetical here because, 
+
+again -- and I apologize for belaboring the point, but 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+46 
+
+Alderson Reporting Company 
+
+Official 
+
+what we have here are rates of general applicability. 
+
+JUSTICE SOTOMAYOR:  You want to keep going 
+
+back to the facts, and I'm dealing with a 
+
+hypothetical. 
+
+MR. BLUMENTHAL:  And the hypothetical, I 
+
+would say, is answerable that the just and reasonable 
+
+standard, as it was applied in Bridgeport Energy and 
+
+Milford Power and tens of other cases --
+
+JUSTICE SOTOMAYOR:  So you are taking the 
+
+extreme -- you are accepting that -- what the lower 
+
+court said?  Under every circumstance, if it involves a 
+
+contract price, fair and reasonable being something 
+
+other than contrary to the public interest? 
+
+MR. BLUMENTHAL:  Fair and reasonable is a 
+
+standard different from the public interest standard. 
+
+That's a matter of law. 
+
+JUSTICE SOTOMAYOR:  So your adversary's 
+
+arguments that what you're really saying is you can 
+
+never have finality to a contract agreement between 
+
+parties because any third party can come in and raise --
+
+stand in the shoes of the contracting parties and argue 
+
+the rate's not fair and reasonable? 
+
+JUSTICE SCALIA:  But FERC can’t -- can FERC 
+
+-- can FERC challenge, too?  Because FERC's a -- sort of 
+
+a third party. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+47
+
+Alderson Reporting Company 
+
+Official 
+
+MR. BLUMENTHAL:  Well, FERC is -- is bound 
+
+by the same law that applies to third parties, which is 
+
+--
+
+JUSTICE SCALIA:  Okay.  So -- so 
+
+Mobile-Sierra doesn't apply to FERC, even? 
+
+MR. BLUMENTHAL:  Mobile-Sierra applies --
+
+JUSTICE SCALIA:  Who does it apply to?  I 
+
+mean, it's just -- just the two parties? 
+
+MR. BLUMENTHAL:  Mobile-Sierra effectively 
+
+says those two parties are bound by the contract, and 
+
+FERC is bound by it -- that's Morgan Stanley –- no 
+
+matter when the issue is raised. 
+
+JUSTICE SCALIA:  Okay. 
+
+MR. BLUMENTHAL:  And a noncontracting party, 
+
+if it is a rate that applies generally, can challenge 
+
+it. 
+
+JUSTICE SCALIA:  Can a noncontracting party 
+
+go to FERC and challenge it before FERC, whereupon FERC 
+
+is no longer bound by Mobile-Sierra?  Or is FERC 
+
+suddenly unchained when a third party brings a 
+
+proceeding before FERC?  It's a strange situation. 
+
+MR. BLUMENTHAL:  FERC is bound by the just 
+
+and reasonable standard.  That's what the law says. 
+
+This law is a public -- is a consumer protection statute 
+
+that says, upon complaint or upon FERC's own motion, it 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+48
+
+Alderson Reporting Company 
+
+Official 
+
+may apply that just and reasonable standard. 
+
+Now, the public interest standard looks for 
+
+serious harm to the public. 
+
+JUSTICE SCALIA:  No, no.  The public 
+
+interest standard is a just and reasonable standard. 
+
+What -- what it amounts to is saying, when -- when you 
+
+have a contract rate that's been negotiated between 
+
+sophisticated parties, that rate is presumptively just 
+
+and reasonable, and the only way you can show that it is 
+
+not just and reasonable is to show that the public 
+
+interest is harmed. 
+
+It's -- it's not something different from 
+
+the just and reasonable standard, or it would be 
+
+contrary to -- to the statute because the statute 
+
+requires that the rates be just and reasonable, right? 
+
+MR. BLUMENTHAL:  It -- it is part –- they 
+
+are one standard, as Morgan Stanley very clearly says, 
+
+and the question of what noncontracting parties can 
+
+challenge a statute depends on who the noncontracting 
+
+party is, the nature of the contract, what interest is 
+
+affected, and I would presume some of those factors 
+
+might affect FERC's judgment. 
+
+JUSTICE BREYER:  So are you aware of any law 
+
+or any statement by any judge, ever, that exempts the --
+
+the FERC from the basic requirement that its rules, 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+49
+
+Alderson Reporting Company 
+
+Official 
+
+regulations, and everything else not be arbitrary, 
+
+capricious, abuse of discretion? 
+
+MR. BLUMENTHAL:  The answer to that question 
+
+is no. 
+
+JUSTICE BREYER:  No.  Okay.  Thank you. 
+
+(Laughter.) 
+
+JUSTICE BREYER:  And so, as long as that's 
+
+so, I guess you could mount a challenge on the ground 
+
+that to apply the contract regime system to circumstance 
+
+X, Y, and Z, without permitting your challenge that you 
+
+want, is, in fact, a violation of the APA, at the least. 
+
+Okay? 
+
+Now, that's why I say "sometimes."  Could 
+
+you imagine such a situation, which I think is what 
+
+Justice Sotomayor was getting at, or do you want it all 
+
+the time?  If you want it all the time, I'm not --
+
+you're not getting sympathy from me.  If want to say 
+
+there could be such a time, maybe.  I think I could 
+
+think of five.  All right? 
+
+So -- so where are we? 
+
+MR. BLUMENTHAL:  Where we are is, if Your 
+
+Honor please, if the Court were to modify or clarify the 
+
+public interest standard to make it more accommodating 
+
+to the kinds of challenges we've been discussing, that 
+
+could be one outcome here. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+50
+
+Alderson Reporting Company 
+
+Official 
+
+JUSTICE GINSBURG:  That's a third standard 
+
+between just and reasonable and public interest?  You 
+
+want us to add another tier? 
+
+MR. BLUMENTHAL:  Well, simply to clarify 
+
+that it involves not necessarily an insurmountable 
+
+barrier. 
+
+CHIEF JUSTICE ROBERTS:  It's also a third 
+
+question that's not presented, right? 
+
+MR. BLUMENTHAL:  It is again a question not 
+
+presented, and none of us so far on this side of the 
+
+table has mentioned the Chenery doctrine, but perhaps 
+
+that also should be considered, that the agency made a 
+
+decision on a different basis than it is now advocating 
+
+before the Court. 
+
+JUSTICE GINSBURG:  But you are defending the 
+
+D.C. Circuit's decision?  I mean, you are up here saying 
+
+that was the right judgment, Sierra-Mobile --
+
+Mobile-Sierra has to do with the two contracting 
+
+parties.  It doesn't, as the counterargument goes, 
+
+shelter the rate from any attack by anyone, including 
+
+FERC.  It's put in terms of FERC cannot abrogate that 
+
+rate.  But your -- you are defending the position that 
+
+it's just as between the contracting parties; it's not 
+
+the rate itself that is sheltered by Mobile-Sierra, 
+
+because that's what the D.C. Circuit decided? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+51
+
+Alderson Reporting Company 
+
+Official 
+
+MR. BLUMENTHAL:  And -- yes, Justice 
+
+Ginsburg, we're defending the D.C. Circuit's ruling and 
+
+decision.  The question presented, in a sense, takes a 
+
+different view of the factual situation that the 
+
+government and we agree prevails here, and we are 
+
+suggesting that perhaps for the D.C. Circuit to have 
+
+said in its opinion Mobile-Sierra does not apply to 
+
+noncontracting parties when there are contracts that 
+
+produce tariff rates. 
+
+JUSTICE GINSBURG:  It didn't say that. 
+
+MR. BLUMENTHAL:  And one modifier would have 
+
+spared this Court and ourselves the difficulties that we 
+
+now have, but it is that modifier that would, in effect, 
+
+surmount the very difficult and thorny issues that the 
+
+Court has well identified here. 
+
+Thank you. 
+
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+Mr. Lamken, you have 3 minutes. 
+
+REBUTTAL ARGUMENT OF JEFFREY A. LAMKEN 
+
+ON BEHALF OF THE PETITIONERS 
+
+MR. LAMKEN:  Thank you, Your Honor. 
+
+JUSTICE KENNEDY:  Does anything in your 
+
+argument turn on the fact that the Respondents were 
+
+parties to the settlement process? 
+
+MR. LAMKEN:  No, Your Honor.  The fact that 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+52
+
+Alderson Reporting Company 
+
+Official 
+
+they were parties to the settlement process simply shows 
+
+that they've met the sort of broad administrative law 
+
+standing requirements.  It does not show they were an 
+
+actual purchaser under the agreements here. 
+
+And I think that is actually part of the nub 
+
+of what was bothering the D.C. Circuit.  The D.C. 
+
+Circuit may have been bothered that there might be 
+
+actual purchasers here, people who directly themselves 
+
+purchase under the rate who haven't agreed to it.  But 
+
+that concern is wholly subsumed within the notion of 
+
+whether or not the rate that entity is paying is a 
+
+contract rate.  But which rates here are contract rates 
+
+or not contract rates is an issue the D.C. Circuit 
+
+didn't actually get to.  It's not clear it was properly 
+
+preserved before the D.C. Circuit, because the claim 
+
+that some of the rates are not contract rates was 
+
+raised only by intervenors. 
+
+So while we adhere to our view that these 
+
+are contract rates, this Court need not get to it.  It 
+
+need only address the issue the court addressed below, 
+
+which is whether there is a broad-based, third-party 
+
+exception to Mobile-Sierra. 
+
+And the answer is no.  Mobile-Sierra can't 
+
+be energy law’s equivalent of the Maginot Line, that it 
+
+protects against direct assaults from the contracting 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+53
+
+Alderson Reporting Company 
+
+Official 
+
+parties themselves but provides no protection, not 
+
+whatsoever, if it’s flanked by noncontracting parties to 
+
+the --
+
+JUSTICE SCALIA:  I like that.  That's very 
+
+imaginative. 
+
+(Laughter.) 
+
+MR. LAMKEN:  I hope you use it.  Thank you, 
+
+Your Honor. 
+
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+The case is submitted. 
+
+(Whereupon, at 11:00 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+54
+
+Alderson Reporting Company 
+
+Official
+Official
+
+Page 55 
+
+A 
+
+21:22 
+
+able 7:12 44:1,4  advisory 13:21 
+above-entitled 
+
+14:5,11 
+
+1:13 54:12 
+abrogate 7:7 
+8:10 9:11,12 
+32:8,10 51:21 
+abrogated 6:6 
+
+advocating 
+
+51:13 
+
+affect 15:15 
+
+21:22 46:18 
+49:22 
+
+6:13 9:2 32:12  agencies 34:12 
+
+absolute 45:20 
+absolutely 31:14 
+
+agency 5:25 
+
+12:10 51:12 
+
+27:20 45:1 
+
+announce 11:4 
+
+13:19 
+
+announcing 
+
+11:5 
+
+answer 3:17 
+
+5:15 8:4 13:25 
+19:13 22:22 
+25:3,7,20 37:2 
+37:3 41:9,12 
+41:18 42:24 
+50:3 53:23 
+
+45:2 48:2,6,15  aside 21:19 
+
+apply 3:15 5:11 
+
+asking 13:19 
+15:5 31:10 
+34:16 41:12 
+
+10:17 14:24 
+23:9,11 24:17 
+asks 6:5 
+28:18,24 33:4 
+36:19 43:4,5 
+assaults 53:25 
+43:13,16 44:15  Assistant 1:19 
+48:5,7 49:1 
+assume 13:19 
+assumed 10:6 
+50:9 52:7 
+
+applying 29:25 
+appreciates 
+
+ago 19:19 
+agree 3:17 5:3,7  answerable 47:6  approach 22:8 
+
+22:18 
+
+abuse 12:17 
+
+42:3 
+
+50:2 
+
+accept 14:17,24 
+accepted 42:18 
+accepting 47:10 
+accommodating 
+
+50:23 
+
+accorded 35:16 
+acting 27:22 
+action 3:21 
+actual 53:4,8 
+add 51:3 
+addition 27:15 
+address 10:1,5 
+
+14:18,19,20,22 
+24:22 53:20 
+
+addressed 16:16 
+
+24:18 40:3 
+53:20 
+
+addresses 14:1 
+addressing 
+16:18 40:1 
+adhere 53:18 
+administering 
+
+6:1 
+
+administrative 
+
+8:2 53:2 
+
+adopt 35:16 
+
+36:6 
+
+adversary 22:1 
+adversary's 
+
+47:17 
+
+adversely 6:25 
+
+7:2 15:15 
+
+10:24 12:6 
+13:6 20:13 
+22:13 25:17 
+26:14 29:5,21 
+33:1,24 38:22 
+45:7 52:5 
+
+agreed 5:10,13 
+
+17:1 22:25 
+23:18 30:1 
+31:17 33:10 
+37:22 39:18 
+53:9 
+
+agreement 4:3 
+
+18:4,9 22:6 
+23:11 28:9 
+32:5,14 36:12 
+44:22 47:19 
+
+agreements 4:5 
+8:25 9:2 53:4 
+
+agrees 9:20 
+ahead 33:25 
+AL 1:4,8 
+alien 14:16,19 
+ALITO 7:24 
+allow 16:17 
+19:12 20:3 
+altered 38:2 
+alternate 39:3 
+amount 7:4 
+
+44:23 
+
+amounts 49:6 
+analogous 18:7 
+analysis 23:5 
+
+answered 10:7 
+
+14:2 45:17 
+answers 10:7 
+
+15:17 
+
+appropriate 
+
+appropriately 
+
+19:11 
+
+23:20 
+
+anybody 7:13 
+
+approve 11:10 
+
+27:11,16 28:3 
+31:8 34:2 43:7  approved 18:11 
+
+18:8 
+
+anyway 18:2 
+APA 50:11 
+apologize 44:13 
+
+46:25 
+
+appeals 6:7 
+
+32:14 37:11 
+
+aptly 39:5 
+arbitrary 50:1 
+area 7:24 
+areas 8:5 
+
+42:21 47:21 
+
+16:10,16,18,21  argue 41:25 
+18:17,22 19:12 
+19:14,17 22:11  argued 31:17,17 
+24:11,13 25:20 
+26:6 27:20 
+31:6,18 39:6 
+appear 44:21 
+APPEARAN... 
+
+31:18 41:21 
+
+arguing 5:5 
+
+21:15 
+
+1:16 
+
+appendix 24:5 
+applicability 
+29:25 32:2 
+44:17 47:1 
+application 
+15:22 24:1 
+applied 6:16 
+10:20 34:10 
+47:7 
+
+applies 5:23 
+
+7:15,18 27:21 
+35:7,11 36:25 
+
+argument 1:14 
+2:2,10 3:3,7 
+8:21 16:5 21:8 
+29:15 40:23 
+41:1 44:24 
+52:19,23 
+arguments 
+
+41:16 47:18 
+arm's-length 
+37:13 44:4 
+arm-length 
+
+30:22 
+
+articulated 
+31:23 34:5 
+45:15 
+
+13:17,18 28:15 
+
+assumes 7:13 
+Assuming 44:24 
+assumption 
+
+25:19,23 26:5 
+26:6 
+
+assumptions 
+
+12:6 14:3 
+
+attaches 32:8 
+attack 12:16 
+25:12 26:11 
+28:9,12 32:7 
+51:20 
+
+attacks 38:3,15 
+Attorney 1:23 
+
+14:15 
+
+auction 4:4 
+17:15 24:8 
+27:9,12,16 
+29:24 32:1 
+33:7 38:19 
+40:6 46:10,11 
+
+auctions 27:2 
+authority 10:25 
+11:4 24:16,25 
+32:10 42:9 
+
+aware 8:24 34:4 
+
+a.m 1:15 3:2 
+
+49:23 
+
+54:11 
+
+B 
+
+B 22:19,23 23:12 
+back 10:10 
+11:20 19:7 
+21:25 41:23 
+47:3 
+
+back-up 12:24 
+
+Alderson Reporting Company
+Alderson Reporting Company
+
+Official 
+
+Page 56 
+
+13:1,4 
+
+bad 21:18 
+bargain 21:18 
+
+31:25 
+
+barrier 51:6 
+based 10:9 
+
+13:10 17:17 
+31:15 
+
+basic 49:25 
+basis 16:14 
+
+24:11 36:16,18 
+42:8 51:13 
+bedrock 3:11 
+behalf 1:17,21 
+
+1:24 2:4,6,9,12 
+3:8 16:6 29:16 
+52:20 
+
+belaboring 
+
+believe 11:3,5 
+
+46:25 
+
+34:25 
+
+beneficiary 8:13 
+beyond 39:25 
+bilateral 9:12,13 
+
+9:18 10:12 
+32:5 
+
+bind 5:21 45:6 
+binding 11:1 
+18:10 30:2,4 
+32:9 
+
+binds 22:6 31:7 
+
+31:22 45:2 
+
+bit 6:18 
+Blumenthal 
+
+45:21 46:3,7 
+46:23 47:5,14 
+48:1,6,9,14,22 
+49:16 50:3,21 
+51:4,9 52:1,11 
+
+bothered 53:7 
+bothering 53:6 
+bound 3:22 4:3 
+5:2,3,6 6:2,21 
+7:22 13:22 
+21:14 27:25 
+28:2,16 30:14 
+30:16,23 31:2 
+40:24 41:2 
+42:13 48:1,10 
+48:11,19,22 
+
+Brandeis 35:22 
+Breyer 11:6,9,24 
+12:4,5,8,21,24 
+12:25 13:3 
+25:6,22 26:5 
+26:17,20 27:4 
+33:9,12,14 
+34:3,9,20 35:3 
+35:18 40:2 
+41:9 42:2,17 
+44:14 49:23 
+50:5,7 
+
+Bridgeport 47:7 
+brief 7:3 18:17 
+briefs 18:14 
+brings 48:20 
+broad 53:2 
+broad-based 
+
+53:21 
+
+1:23 2:8 29:14 
+29:15,17 30:9 
+brought 10:18 
+31:3,14 32:13 
+burden 45:16 
+32:24 33:10,13  business 12:17 
+34:3,17,21,24 
+35:15 36:3,11 
+37:3,6,20 38:4 
+38:18 39:2,10 
+40:1,17 41:5 
+42:2,6,11,15 
+42:23 43:8,20 
+44:12 45:5,14 
+
+buyer 5:10 7:7 
+20:12 30:22 
+
+buying 22:7 
+
+12:17,19 21:21 
+businesses 17:4 
+
+19:21 
+
+C 
+
+C 2:1 3:1 22:20 
+
+22:23,23,24,25 
+23:14 
+call 14:4 
+called 36:6 
+calling 16:22,25 
+calls 35:19 
+can’t 47:23 
+capacity 17:15 
+
+35:8,11 
+
+4:15,18 
+
+challengers 4:9 
+challenges 3:25 
+8:2 29:2 36:19 
+50:24 
+
+challenging 
+
+13:11 45:3,6 
+change 18:13 
+19:1 30:10 
+
+45:19,24 
+
+claim 8:24 53:15 
+claiming 30:17 
+clarify 50:22 
+
+51:4 
+
+clause 8:6 26:15 
+27:18 32:23,25 
+clear 24:4 27:21 
+
+53:14 
+
+capricious 50:2 
+case 3:4,11 9:6 
+
+changed 18:19 
+clearing 27:2 
+characterizati...  clearly 10:12 
+
+23:20 
+
+17:11 
+
+characterized 
+
+10:8 11:6,9 
+12:8,10 14:8 
+16:15 17:14 
+24:14 25:7,19 
+25:19 31:11 
+36:4,17 38:18  Chenery 51:11 
+41:3,21 42:10  Chief 3:3,9 6:18 
+54:10,11 
+
+charge 23:14 
+charged 5:25 
+
+49:17 
+
+clients 36:15 
+come 4:6 5:12 
+20:12,18,22 
+21:2,5 27:11 
+27:16 33:1 
+37:13 45:24 
+46:16,22 47:20 
+
+cases 11:10 47:8 
+category 7:21 
+ceases 3:15 28:2 
+central 29:20,23 
+cert 10:2 36:24 
+certain 36:1 
+certainly 4:10 
+
+5:23 7:15 8:23 
+9:20 22:17 
+30:20 31:11 
+
+certainty 6:9,10 
+certiorari 31:18 
+
+40:18 
+
+cetera 41:17,24 
+challenge 4:7 
+
+41:11 
+
+8:10 28:4 
+
+coming 34:15 
+
+comes 5:9 6:5 
+
+7:9 10:14,24 
+16:3,8 18:12 
+19:1 24:21,24 
+26:1 29:11,14 
+29:17,18 40:21 
+41:6 42:4,7,11  Commission 1:8 
+42:14,16,24 
+44:14 51:7 
+52:17 54:9 
+choice 34:17 
+circuit 4:13 5:1 
+21:13 23:2,23 
+23:25 24:4,18 
+31:13 39:18,19 
+39:24 44:9 
+45:1 51:25 
+52:6 53:6,7,13 
+53:15 
+
+3:5 5:17,24 
+7:19 17:14 
+18:6,7,11 
+20:17 22:18 
+25:14 26:12,25 
+27:5,7,8,10,13 
+27:22 28:12,16 
+28:22,23 29:1 
+29:3 33:15,15 
+35:12,15,24 
+36:5,14,21 
+37:11 38:9 
+40:3 
+
+Circuit's 31:15 
+
+5:9,12 7:13,14 
+8:11,15 10:17 
+12:14 15:1 
+31:20 39:14 
+20:7 27:12,16 
+45:12 47:24 
+51:16 52:2 
+48:15,18 49:19  circumstance 
+50:8,10 
+
+11:12,13 21:20 
+47:11 50:9 
+
+circumstances 
+
+challenged 3:16 
+
+16:12 19:25 
+20:1 23:6 
+36:25 
+
+challenger 3:20 
+
+commissions 
+
+Commission's 
+
+41:16 
+
+25:15 
+
+common 25:18 
+commonsense 
+
+12:11 21:1 
+33:16 36:1 
+companies 6:10 
+41:16,24 45:11  complain 7:12 
+
+38:1,14,16 
+
+Alderson Reporting Company 
+
+Official 
+
+Page 57 
+
+complaint 27:24 
+
+28:4 32:11 
+48:25 
+
+complete 42:24 
+comply 17:23 
+conceive 15:6 
+concern 4:5 
+
+53:10 
+
+concerned 22:21 
+concerns 3:11 
+concludes 12:11 
+conform 39:14 
+confuse 46:10 
+Congress 6:1 
+Conn 1:24 
+Connecticut 
+
+30:6 
+
+consent 18:7 
+37:24 38:8 
+
+consenting 5:10 
+consequences 
+
+consequential 
+
+39:12 
+
+39:17 
+
+consider 19:15 
+considerations 
+
+18:16 
+
+considered 
+
+51:12 
+
+consumer 48:24 
+context 23:8 
+
+25:14 
+
+contract 3:15 
+
+counterargum... 
+
+course 9:5 17:13 
+
+51:19 
+
+52:17 54:9 
+
+25:12 26:7,8 
+26:10 28:1 
+29:21 30:2,11 
+30:13,15,18,25  country 14:16 
+33:11,18 35:25 
+14:17,20,23 
+36:25 37:1,14 
+38:20,22 39:15  court 1:1,14 
+40:24 41:8 
+42:25 43:1,6 
+44:4,20,25 
+45:2,6,8 46:11 
+47:12,19 48:10 
+49:7,20 50:9 
+53:12,12,13,16 
+53:19 
+
+36:3 40:5 41:7  devises 35:12 
+47:3 
+
+dictate 8:1 
+didn’t 32:21 
+difference 4:13 
+22:2 32:4 34:4 
+
+different 3:20 
+
+dealt 31:12 
+decide 19:12 
+25:19 26:10 
+39:21 40:9 
+decided 3:13 
+31:6,9 36:17 
+36:17 39:24 
+42:7 51:25 
+
+52:12 
+
+declines 10:5 
+
+3:23,24 4:9,10 
+9:18 22:6,8 
+28:18,24 29:3 
+33:2 38:15,24 
+45:25 46:12 
+47:15 49:12 
+51:13 52:4 
+
+difficult 52:14 
+difficulties 
+
+decision 10:9 
+24:12 39:17 
+51:13,16 52:3 
+
+3:10 6:7 8:24 
+9:21,23,25 
+10:4,6,8,21 
+11:3,5,18 13:8  deciding 22:20 
+13:14,17 14:1 
+14:18,21 16:9 
+16:10,16,17,18 
+16:21,23 17:2 
+17:13 18:13,15  decree 18:7 
+18:17,22 19:11  defending 51:15  dilemma 41:7 
+19:14,16,19 
+51:22 52:2 
+20:25 21:16,20  define 21:5 
+22:11 23:2,4,5  degree 15:13 
+deliver 21:23 
+23:7 24:11,13 
+24:20 25:2,18 
+delving 14:2 
+25:20 26:6 
+demand 28:17 
+27:20,20 28:18  demanding 6:2 
+28:18,24 29:19  denied 19:7 
+31:5,18 33:3 
+depart 42:9 
+34:4 37:5,12 
+Department 
+39:5,6 40:7,10 
+41:6 47:11 
+departs 12:18 
+50:22 51:14 
+depend 27:2,23 
+52:12,15 53:19  depends 26:21 
+53:20 
+
+dirty 40:10 
+disagreeing 
+
+7:21 46:3,6 
+53:8 
+
+34:8 35:16 
+36:6,21 40:25 
+41:1 43:3,3 
+50:2 
+
+disagrees 9:8 
+discretion 12:18 
+
+directly 7:11,16 
+
+direct 7:10 
+
+53:25 
+
+30:13 
+
+1:20 
+
+26:21,24 41:15  discrimination 
+41:23 49:19 
+deport 14:16 
+described 16:24  disposition 
+
+discussing 50:24 
+
+25:8 
+
+contracted 11:8 
+contracting 5:2 
+
+6:16 15:13 
+21:3,18 22:4 
+28:4 30:14,21 
+31:7,22 37:18 
+37:21 47:21 
+51:18,23 53:25 
+contractors 30:1 
+contracts 4:7 
+6:12,14 7:2 
+9:18 10:11,12 
+10:13,19 11:10 
+25:9 37:8,9 
+39:14 52:8 
+
+contractual 6:9 
+contrary 35:1 
+
+45:13,25 47:13  court's 5:1 
+49:14 
+
+11:15 45:1 
+
+covered 26:14 
+create 10:11 
+created 17:15,20 
+
+4:4 5:7,18 6:5 
+6:10,17,20,21 
+6:22 7:17,25 
+8:8,10,11,15 
+8:16 9:7,9,12 
+9:13,22 11:1 
+11:11 12:9 
+13:9,15,22 
+16:12 17:5 
+18:5 20:3,11 
+20:15,20 21:19  cost-of-service 
+22:24 23:6,7 
+24:9,15,25 
+
+contravenes 
+35:17 37:15 
+convene 8:21 
+convince 34:13 
+correct 3:25 
+8:17 12:22 
+13:5,7 16:21 
+16:21 31:14,21 
+31:21 40:11,14  D 1:19 2:5 3:1 
+
+Customs 14:14 
+C's 23:17 
+
+counsel 16:3 
+
+26:24 
+
+36:2 
+
+D 
+
+17:13 20:25 
+24:6 
+
+details 36:20 
+determination 
+
+8:20 14:23 
+19:3,4 21:14 
+37:11 38:16 
+
+19:11 
+
+disputed 18:6 
+disputing 30:12 
+
+44:25 
+
+distinction 
+22:11,16 
+
+doctrine 3:13 
+
+5:17 6:16 
+10:17 25:1 
+36:18 43:12,22 
+45:2,10 46:12 
+
+16:5 
+
+determine 43:19 
+determined 
+days 27:15 
+17:18 27:9 
+deal 36:14 37:13  deviate 35:24 
+dealing 35:17 
+
+Alderson Reporting Company 
+
+51:11 
+
+7:17 8:12 
+
+53:11 
+
+entering 6:14 
+entertain 32:11 
+entire 24:1 
+entirely 27:14 
+entity 6:3 37:1 
+
+dollars 6:11 
+downstream 
+30:25 43:13 
+draws 22:11 
+due 31:4 39:3 
+D.C 1:10,17,21 
+4:13,25 21:13 
+23:23,25 24:4  ERIC 1:19 2:5 
+24:18 31:13,15 
+31:20 39:14,17  erred 11:5 16:10 
+error 13:8 16:13 
+39:19,24 44:9 
+51:16,25 52:2 
+escape 31:24 
+52:6 53:6,6,13 
+53:15 
+
+ESQ 1:17,19,23 
+
+equivalent 53:24 
+
+38:8,9 
+
+16:5 
+
+E 
+
+E 2:1 3:1,1 
+easier 40:13 
+economic 12:11 
+effect 8:1 11:1 
+23:10 32:25 
+34:8 52:13 
+
+effective 18:8,10 
+
+effectively 10:19 
+
+27:18 
+
+48:9 
+
+either 24:22 
+electricity 34:20 
+
+35:8,11 
+
+eligible 23:16 
+emerges 9:9 
+emphasized 
+
+27:11 
+
+employment 
+
+25:8 
+
+encumbered 
+
+2:3,5,8,11 
+essence 5:4 
+established 
+
+17:20 
+
+establishes 
+
+34:25 
+
+17:18 
+
+example 7:3 
+
+12:15 14:9,14 
+15:1 35:25 
+45:20 
+
+exception 19:18 
+25:1 32:16,18 
+32:19 53:22 
+
+excessive 36:21 
+exempt 10:25 
+exemption 7:21 
+10:11,15 13:10 
+
+et 1:4,8 41:17,24  Federal 3:12,12 
+5:17,24 7:18 
+exactly 4:16 
+24:19 34:1 
+examination 
+
+finality 47:19 
+find 13:14 35:25 
+finding 11:11 
+fine 33:25 34:14 
+
+fact 6:7,13 12:24  first 3:4 16:19 
+19:15 22:10 
+25:13 39:22 
+
+21:17 31:16 
+41:5 50:11 
+52:23,25 
+
+Page 58 
+
+4:17,20,23 9:5 
+9:17 24:13 
+31:5,15 32:3 
+32:21 33:2 
+39:8,11 40:2 
+41:10 51:1,15 
+52:2,10 
+
+34:13 
+
+give 7:3 14:25 
+
+fits 43:8 
+fitting 39:7 
+five 30:4 50:19 
+fixes 23:13 
+flanked 54:2 
+gives 36:14 
+flexibility 36:14  giving 14:11 
+flow 46:8 
+follow 24:21 
+
+given 36:21,21 
+45:19 46:14 
+
+42:8 
+
+Official 
+
+20:25 21:20 
+extreme 47:10 
+
+F 
+
+factors 49:21 
+facts 31:16 39:7 
+
+factual 40:4 
+
+47:3 
+
+52:4 
+
+fail 15:3,6 
+fair 20:13,18 
+
+45:12 46:2,16 
+47:12,14,22 
+far 8:14 41:13 
+
+feature 19:23 
+
+51:10 
+
+23:15 
+
+go 12:16 33:14 
+33:25 34:22 
+39:25 40:25 
+41:1 44:18 
+48:18 
+
+goes 21:25 51:19 
+going 11:15 
+
+14:18,20,22 
+18:1 21:21 
+22:21 28:7 
+35:3 41:11 
+44:8,9,22 
+46:17,18,18 
+47:2 
+
+good 14:13 
+
+36:14 37:18 
+government 
+
+8:18 29:21,23 
+32:19 34:7 
+36:4 38:21,22 
+39:4 52:5 
+
+government's
+
+32:22 
+
+forces 39:1 
+foreclosed 21:9 
+foreign 14:16 
+forties 35:23 
+fortiori 12:9 
+forward 17:15 
+found 35:6 
+foundation 6:8 
+free 37:23 
+freely 38:7 
+further 18:16 
+
+G 
+
+29:9 
+
+feel 39:2 
+fees 44:21,23,25 
+FERC 1:21 2:6 
+3:17 8:20 9:7 
+9:11,12,20 
+10:9,18,25 
+16:6 24:14,16 
+25:9 27:24 
+28:5 31:17 
+35:10 44:2 
+32:8,9,10,14 
+39:13,18 40:24  GEN 1:23 2:8 
+40:25 42:8,21 
+43:2 46:21 
+47:23,23,24 
+48:1,5,11,18 
+48:18,18,19,21 
+48:22 49:25 
+51:21,21 
+
+G 3:1 
+gas 34:16 35:7 
+
+29:15 
+
+general 1:20,23 
+
+28:10 
+
+exempts 49:24 
+energy 3:12 5:17  exorbitant 31:1 
+
+5:24 7:18 47:7 
+53:24 
+
+Enforcement 
+
+14:15 
+
+England 30:3 
+enter 4:5 7:3 8:8 
+
+44:3 
+
+entered 4:2 7:8 
+
+expert 7:19 
+expertise 6:2,4 
+extent 18:23 
+22:21 25:4 
+
+extraordinarily 
+
+45:16 
+
+extraordinary 
+
+FERC's 27:23 
+47:24 48:25 
+49:22 
+
+field 35:10 
+filed 27:24 
+files 28:4 
+
+40:17 
+
+8:9 14:16 
+20:19 29:14,25  grant 10:2 19:4 
+32:2 44:17 
+granted 18:18 
+47:1 
+19:4,8 36:24 
+
+generally 48:15 
+greater 8:11 
+generating 26:7  greatest 6:2 
+generators 26:8  ground 12:17 
+getting 22:20 
+
+44:2 50:8 
+guess 50:8 
+
+50:15,17 
+
+giants 37:12 
+Ginsburg 4:14 
+
+H 
+
+Alderson Reporting Company 
+
+Official 
+
+Page 59 
+
+happen 20:10 
+happened 39:13 
+happy 4:5 34:22 
+harm 49:3 
+harmed 9:3 
+
+38:12 49:11 
+Hartford 1:24 
+hear 3:3 
+hearing 41:25 
+heart 24:14 
+heavy 39:12 
+held 17:3 37:20 
+
+41:16 
+
+high 30:18,18 
+31:1 45:16 
+highest 10:19 
+holding 5:4 
+
+16:10 18:22 
+19:17 
+
+home 34:22 
+Honor 4:1 10:13 
+
+22:10 24:20 
+26:13 34:18 
+38:4 50:22 
+52:21,25 54:8 
+
+hope 54:7 
+hordes 7:12 
+hundred 9:15 
+hundreds 6:11 
+hundred-plus 
+
+hypothesizing 
+
+45:7 
+
+42:17 
+
+hypothetical 
+
+46:14,24 47:4 
+47:5 
+
+hypothetically 
+
+44:20 
+
+I 
+
+idea 17:4 22:18 
+
+identified 39:6 
+
+identity 13:10 
+
+39:14 
+
+52:15 
+
+38:3 
+
+imaginative 
+
+54:5 
+
+imagine 50:14 
+immense 34:4 
+Immigration 
+
+14:14 
+
+impact 21:1 
+importance 6:19 
+important 10:8 
+
+10:23 
+
+improper 8:22 
+improvident 
+
+31:25 
+
+inapplicable 
+16:12 20:6 
+include 35:24 
+
+42:25 
+
+including 10:12 
+
+30:5 51:20 
+
+indirect 46:19 
+indirectly 7:1 
+individual 21:6 
+individuals 22:8 
+industry 37:12 
+
+43:23 
+
+inevitably 46:8 
+informed 21:6 
+infrastructure 
+
+6:11 
+
+initially 40:9 
+initiate 28:5 
+insofar 18:18 
+19:4 31:21 
+
+instance 16:19 
+
+19:15 
+
+insurmountable 
+
+36:7 51:5 
+
+intended 43:24 
+interest 3:14,24 
+5:15 9:3 12:15 
+15:4,14,15 
+16:11 17:23 
+20:2,24 21:1,5 
+21:22 23:8 
+24:17 26:15 
+27:18,25 32:7 
+32:18 33:18 
+
+34:6 36:24 
+37:15 38:11 
+43:4,15 45:13 
+45:14 46:1 
+47:13,15 49:2 
+49:5,11,20 
+50:23 51:2 
+
+interested 13:3 
+
+13:4 
+
+interesting 
+
+15:10 
+
+interests 15:12 
+
+15:16 
+
+interpreted 
+
+intervenors 
+
+35:23 
+
+53:17 
+
+invent 44:9 
+invest 6:11 
+investigation 
+
+investments 
+
+28:5 
+
+6:14 
+
+invoke 32:20 
+33:6 38:25 
+
+involve 38:20,22 
+involved 9:14 
+
+31:19 
+
+involves 31:24 
+
+47:11 51:5 
+
+irony 33:3 
+issue 3:13 9:19 
+10:23 14:2,8 
+14:12 29:22 
+30:24 40:5 
+46:10,13 48:12 
+53:13,20 
+
+issues 16:15,16 
+18:16,23 19:2 
+19:12 25:4 
+39:21 52:14 
+it’s 40:13 54:2 
+I’m 25:25 33:13 
+
+41:11 
+
+J 
+
+Jackson 35:8 
+
+Jama 14:14 
+JEFFREY 1:17 
+
+2:3,11 3:7 
+52:19 
+
+judge 49:24 
+judgment 16:14 
+
+18:17 49:22 
+51:17 
+
+42:16,16,24 
+43:7,9,21 
+44:14,18 45:5 
+45:9,17,22 
+46:5,9,23 47:2 
+47:9,17,23 
+48:4,7,13,17 
+49:4,23 50:5,7 
+50:15 51:1,7 
+51:15 52:1,10 
+52:17,22 54:4 
+54:9 
+
+kind 25:10 
+
+KENNEDY 
+
+33:16 39:1,1 
+
+kinds 50:24 
+knew 25:13 
+
+8:17 9:4 16:20 
+16:25 17:7,10 
+37:25 38:13,24 
+52:22 
+
+Justice 1:20 3:3 
+3:9,19 4:8,12 
+4:14,17,20,23 
+4:24 5:21 6:18 
+7:9,24 8:17 9:4  Justice's 44:14 
+9:5,17,23 10:2 
+K 
+10:14,24 11:6 
+11:9,24 12:1,4  keep 47:2 
+12:5,8,21,23 
+12:25 13:3,13 
+13:14,18,21 
+14:4,7,10,25 
+15:8,17,23,25 
+16:3,8,20,25 
+17:7,10,22,25 
+18:12 19:1 
+20:9,21 21:2 
+21:10,13,24,25  know 8:5 25:11 
+27:5 28:6,10 
+22:13,15 23:1 
+34:15 39:2,12 
+23:10,22,25 
+40:9,15 42:14 
+24:7,13,21,24 
+43:17 
+25:6,22 26:1,5 
+26:17,20 27:4 
+28:6,15,21,25 
+29:7,11,14,18 
+29:18 30:7,10 
+30:16 31:3,5 
+31:14,22 32:3 
+32:4,21 33:2,9 
+33:12,14 34:3 
+34:9,20 35:3,8 
+35:18 36:9,13 
+37:4,6,9,25 
+38:13,24 39:8 
+39:11,22 40:2 
+40:2,8,13,21 
+41:6,9,10,10 
+42:2,4,7,12,14 
+
+2:3,11 3:6,7,9 
+4:1,10,14,16 
+4:18,22 5:5,23 
+6:23 7:15 8:4 
+8:23 9:16,20 
+9:25 10:4,16 
+11:2,7,18,22 
+12:4,7,20,23 
+13:1,6,16,20 
+13:25 14:6,9 
+14:13 15:5,9 
+15:20,24 16:1 
+
+knowledgeable 
+
+Lamken 1:17 
+
+37:13 
+
+L 
+
+Alderson Reporting Company 
+
+Official 
+
+Page 60 
+
+8:3 23:7 
+
+nonparty 6:23 
+
+6:25 8:14 
+13:10 
+
+normal 20:15 
+notion 38:1,14 
+
+53:10 
+
+November 1:11 
+NRG 1:3 3:4 4:2 
+NSTAR 30:2 
+
+46:15 
+
+nub 53:5 
+number 39:13 
+
+O 
+O 2:1 3:1 
+objecting 22:3,5 
+objectors 22:2 
+odd 5:25 
+oh 14:11 42:14 
+okay 12:19 
+
+15:25 22:14 
+45:10 48:4,13 
+50:5,12 
+
+once 12:13 13:2 
+
+28:11 39:23 
+44:3 
+
+ones 32:20 33:6 
+
+37:22 39:21 
+opening 18:12 
+opinion 13:21 
+
+14:11 24:5 
+37:4 52:7 
+
+opinions 14:5 
+34:5 43:11 
+opportunity 
+
+19:15 
+
+opposed 45:13 
+opposition 
+
+31:18 
+
+53:20 
+
+natural 34:16 
+35:7,10 44:2 
+nature 49:20 
+necessarily 51:5 
+necessary 20:4 
+need 6:9 53:19 
+
+N 
+3:12 5:4,14,16  N 2:1,1 3:1 
+6:15 10:17 
+13:23 16:11 
+17:3 18:1,5 
+19:18,20 20:3 
+22:24 23:8,11 
+23:15,16 24:1 
+24:9 25:1,10 
+25:11 26:8,9 
+27:21,25 28:1 
+28:10,13 30:20 
+31:2,7,22 33:5  negotiation 
+36:18 37:7,23 
+38:10,25,25 
+39:16 41:22 
+42:9,12 43:8 
+43:10 44:1 
+45:1 46:12 
+48:5,6,9,19 
+51:18,24 52:7 
+53:22,23 
+
+never 24:14 
+33:10 35:4 
+47:19 
+
+negotiate 17:4 
+negotiated 19:21 
+32:5 38:7 49:7 
+
+New 30:3 
+noncontracting 
+
+37:24 
+
+52:18,19,21,25 
+54:7 
+
+20:17 30:5 
+mainstream 
+
+large 32:3 
+Laughter 11:21  making 14:17 
+
+41:22 
+
+12:3 26:4 29:8  man 35:9 
+34:19,23 40:12  mandate 6:4 
+50:6 54:6 
+
+manner 31:13 
+market 30:3 
+
+law 3:12 5:19 
+
+39:1 
+
+Marketing 1:3 
+
+7:25 8:16 
+10:20 12:22 
+13:7 25:8 
+47:16 48:2,23  Massachusetts 
+48:24 49:23 
+53:2 
+
+matter 1:13 3:19 
+
+30:5 
+
+3:4 
+
+8:16 38:16 
+39:22 47:16 
+48:12 54:12 
+matters 10:5 
+
+Miller 1:19 2:5  mode 23:4 
+
+20:4 
+
+52:13 
+
+modification 
+
+16:4,5,8,23 
+17:2,9,12,24 
+18:3,21 19:8 
+modified 32:25 
+20:20,22 21:8  modifier 52:11 
+21:12,16 22:9 
+22:14,17 23:4  modify 50:22 
+23:17,24 24:3  moment 19:18 
+Morgan 5:14 
+24:10,19,23 
+16:23 17:3 
+25:2,17,25 
+26:3,13,18,23 
+19:19 27:21 
+31:23 33:4,5 
+27:7 28:14,19 
+36:7 40:19 
+28:22 29:5,9 
+45:15 48:11 
+29:12,13 
+49:17 
+
+millions 6:11 
+minimum 45:20  motion 48:25 
+minutes 25:24  mount 28:11 
+
+52:18 
+
+50:8 
+
+39:20 
+
+mean 7:11 10:15  Mobile 9:19 
+
+mixed 11:16,19  mouth 12:2 
+movies 7:5 
+
+28:16 43:20,23 
+
+11:14,16 17:25 
+19:10 25:6,10  Mobile-Sierra 
+27:3 30:12 
+35:4,5 43:25 
+46:6,7 48:8 
+51:16 
+
+lawfulness 8:20 
+law’s 53:24 
+leave 25:4 44:9 
+left 25:24 
+light 40:19 
+lightly 6:13 
+likewise 31:2 
+Line 53:24 
+listen 34:12 
+little 28:2 
+LLC 1:4 
+long 28:3 35:20 
+
+35:21 50:7 
+longer 21:23 
+
+48:19 
+
+look 15:12 
+looked 17:14,15 
+
+meaning 24:9 
+mechanism 
+
+17:14,20 26:24 
+27:9 35:20 
+38:20 40:6 
+
+27:8 
+
+meets 5:18 
+member 20:8 
+members 20:5 
+
+looking 35:6 
+looks 49:2 
+looming 31:11 
+lot 40:13,25 41:1  Memphis 8:6 
+32:17,22,25 
+lower 4:7 6:5 8:8  mention 30:13 
+
+41:2,15 
+
+22:4 
+
+9:23,25 11:15  mentioned 
+11:18 40:10 
+47:10 
+
+51:11 
+
+lurking 9:6 
+
+M 
+
+mere 21:17 
+merely 10:5 
+
+13:16 
+met 53:2 
+
+Maginot 53:24  Midas 35:9 
+main 20:16,16  Milford 47:8 
+Maine 1:7 3:4 
+
+Mobile-Sierra's 
+
+3:14,18 6:8 
+36:24 
+
+Alderson Reporting Company 
+
+30:15 
+
+3:16 5:6,8 6:15  option 30:10,11 
+10:11,15,18,25 
+16:13 42:12 
+48:14,17 49:18 
+49:19 52:8 
+54:2 
+
+16:5 29:15 
+order 28:23 
+ordinary 12:9 
+
+oral 1:13 2:2 3:7 
+
+nonparties 4:6 
+
+15:11 27:1 
+
+Official 
+
+Page 61 
+
+34:6 43:5 
+
+original 22:1 
+outcome 50:25 
+outsider 5:12 
+
+6:3 7:6 
+
+outsiders 22:4 
+overturned 6:6 
+
+P 
+
+P 3:1 
+package 26:22 
+page 2:2 24:4 
+
+44:19 
+
+part 12:13 17:3 
+
+26:22 49:16 
+53:5 
+
+particular 3:23 
+12:11,12 45:3 
+
+particularly 
+
+24:4 
+
+parties 3:21 
+
+47:12 
+
+4:9,11 12:24 
+25:12 26:11 
+13:2,2,8 18:19  prices 27:2 
+28:4,8,11 37:1 
+28:7,8,16,20 
+primary 13:8,8 
+38:3,15 45:11 
+40:18,22 46:20  principle 3:11 
+45:24 46:3 
+47:20,25 48:14 
+46:23 51:22 
+48:17,20 49:20  possibility 8:6 
+power 1:3 3:4 
+17:5 19:24 
+21:23 27:23 
+30:3,23 35:24 
+47:8 
+
+44:22 46:7,17 
+paying 6:24,24 
+7:18 22:23,25 
+53:11 
+pays 7:4 
+people 5:13 6:17  powerless 32:20 
+
+prior 14:23 
+proceeding 18:6 
+
+powerful 34:1 
+
+pay 22:21,23 
+
+48:21 
+
+7:12 9:10,14 
+23:19 44:1 
+53:8 
+
+33:6,12 34:1 
+
+practically 36:7  progressed 
+practice 40:16 
+precisely 10:22 
+
+40:22 
+
+percent 30:3 
+period 27:17 
+11:3 14:13 
+permitted 10:20  predict 44:1 
+permitting 
+
+projects 6:12 
+proof 45:16 
+proper 8:18 
+properly 19:13 
+
+25:5 53:14 
+proposition 
+
+36:23 42:19 
+propriety 8:20 
+protect 20:4 
+protection 48:24 
+
+present 31:16 
+presented 3:13 
+14:2 18:24,24 
+20:7 31:12 
+41:3,6,8,13 
+42:10 51:8,10 
+52:3 
+
+8:25 29:25 
+52:24 53:1 
+
+process 8:21,22  purchase 53:9 
+purchaser 53:4 
+purchasers 53:8 
+purpose 20:2 
+43:25 44:6 
+pushing 41:3 
+put 21:21 33:19 
+
+produce 27:10 
+35:9 43:23,24 
+52:9 
+
+program 15:2 
+
+34:6,11 36:24 
+37:15 38:11 
+43:4,14 45:13 
+45:14,25 47:13 
+47:15 48:24 
+49:2,3,4,10 
+50:23 51:2 
+
+51:21 
+
+Q 
+
+quarrel 17:7,9 
+
+17:10 
+
+question 3:13 
+4:20 5:8 7:6 
+9:24 10:1,3,7,9 
+14:1,15 15:18 
+18:24 21:11 
+22:1,16 24:6 
+25:3,7,15 31:6 
+31:10 36:4 
+37:2 38:5 
+39:23,24 40:2 
+40:3,4 41:8,13 
+41:13,19 42:9 
+42:21 43:19 
+44:14 45:18 
+46:10 49:18 
+50:3 51:8,9 
+52:3 
+
+50:10 
+
+24:5 
+
+19:25 31:1 
+
+person 14:19,21 
+
+personally 22:7 
+petition 18:25 
+
+Petitioners 1:5 
+1:18,22 2:4,7 
+2:12 3:8 16:7 
+25:18 39:4,18 
+52:20 
+
+5:22 6:16,20 
+6:21,24 7:11 
+7:16,17,22,25 
+8:7,12,19 
+10:12,15,25 
+15:13 18:10 
+20:5,8,16,17 
+20:22 21:3,7 
+21:18 22:4 
+26:19 28:17 
+30:1,12,21 
+31:7,22,24 
+33:1 36:19 
+37:18,21 39:15  picture 9:18 
+42:12 43:14 
+place 12:13 
+44:21 45:3,4,7  please 3:10 16:9 
+45:7,23,23 
+29:18 50:22 
+46:22 47:20,21  point 6:9 15:14 
+48:2,8,10 49:8 
+49:18 51:19,23 
+52:8,24 53:1 
+54:1,2 
+
+19:5,6 
+pick 39:9 
+
+petitions 18:18 
+
+party 3:16,22 
+
+5:2,6,9 6:15,20 
+8:9 9:10 10:18 
+13:11 16:13 
+
+pointed 39:23 
+popcorn 7:5 
+position 3:20,24 
+
+54:1 
+
+preserve 6:19 
+preserved 53:15  protects 53:25 
+presumably 
+20:12 32:10 
+presume 5:18 
+17:16 49:21 
+
+prove 46:1 
+provide 5:15 
+
+6:10 
+
+provided 5:19 
+provides 16:13 
+
+presumed 10:6 
+
+54:1 
+
+17:6 19:22 
+38:10 
+
+presumption 
+3:18 16:22 
+17:1 19:20 
+37:23 
+
+questions 8:19 
+25:20 29:10 
+40:9 
+
+provision 27:14 
+public 1:7 3:5 
+3:14 5:15 9:2 
+12:15 15:3,14 
+15:15,16 16:11 
+17:23 20:2,5,8  quite 9:17 24:4 
+20:17,18,23 
+21:1,5,22 22:5 
+23:8 24:17 
+25:12 26:15 
+27:18,25 32:7 
+32:18 33:17 
+
+25:18 29:6 
+39:5 
+
+quote 35:6 
+
+R 
+
+R 3:1 
+raise 47:20 
+
+15:16 27:11,19  presumptively 
+34:9,22 35:6 
+37:14 38:1,6 
+35:21 44:15 
+38:14,17 49:8 
+46:25 
+
+prevails 52:5 
+price 20:10,11 
+20:13,15 21:3 
+22:7 46:11 
+
+Alderson Reporting Company 
+
+reason 19:16,23 
+
+5:24 7:19 
+
+27:17 
+
+raised 8:2 25:21  rationale 37:25 
+
+48:12 53:17 
+
+rate 3:15,23 
+
+5:12,18 6:6,24 
+6:25 7:1,7 9:7 
+9:9,11,11,12 
+11:11,12,13 
+13:9,15 15:1,6 
+15:18 16:25 
+17:1 19:23,24 
+21:23 22:20,23 
+22:24,25 23:12 
+23:13,17,18,21 
+24:15 31:8 
+32:5,6,8,9 
+36:25 37:15 
+38:2,16 39:15 
+44:20 45:3,12 
+45:22 48:15 
+49:7,8 51:20 
+51:22,24 53:9 
+53:11,12 
+
+reach 9:23 24:20 
+
+really 9:6 40:5 
+
+39:6 
+
+40:14 
+
+47:18 
+
+21:19 27:23 
+37:7 39:5 
+
+reasonable 5:18 
+
+11:13 12:12 
+15:3,11,11,21 
+17:1,6,17,21 
+17:22 19:22,24 
+25:13,16 27:1 
+27:10,13 32:7 
+32:15,17 33:6 
+34:7 35:1,19 
+36:1 37:10,14 
+38:1,6,11,17 
+43:6 45:12 
+46:2,16 47:6 
+47:12,14,22 
+48:23 49:1,5,9 
+49:10,13,15 
+51:2 
+
+ratemaking 36:2 
+rates 7:18 9:1,21 
+
+26:20 
+
+35:14 
+
+22:10 31:15,21 
+
+reasonably 
+
+reasoning 5:1 
+
+reasonableness 
+
+9:22 11:1 
+13:22 16:12 
+17:16,18,19 
+19:20 23:6 
+24:8,9 26:14 
+26:17,18 29:21 
+29:22,24,25 
+30:18,19 31:1 
+31:19 33:7 
+35:25 37:10 
+38:19 40:6,24 
+41:7,8 42:15 
+42:25 43:1,2,4 
+43:6,13,14 
+44:16,25 45:2 
+46:8 47:1 
+49:15 52:9 
+53:12,12,13,16  reconsideration 
+53:16,19 
+
+recognize 41:5 
+recognized 
+
+rebuttal 2:10 
+16:2 52:19 
+
+reconciled 6:8 
+
+reasons 33:22 
+
+13:12 
+
+33:24 
+
+19:19 
+
+40:19 
+
+rate's 46:1 47:22  recurring 10:9 
+reexamine 18:1 
+rate-setting 
+referring 8:7 
+
+12:12 
+
+Official 
+
+Page 62 
+
+regime 50:9 
+regularly 7:2 
+10:5 14:1,1 
+
+responses 22:9 
+restricted 7:10 
+rests 17:3 19:20 
+
+regulations 50:1  result 24:8 
+regulator 7:19 
+Regulatory 5:17  results 4:4 27:10 
+
+40:15 
+
+19:4 33:4 
+
+reiterated 31:24  reversal 40:19 
+relates 4:20 
+reverse 18:22 
+rely 44:4 
+remainder 16:1 
+remains 28:16 
+remand 14:10 
+14:22 16:17 
+18:16 19:11 
+40:18 
+
+reversed 18:18 
+reversing 16:14 
+review 8:2 18:19 
+
+19:5,6 26:15 
+27:13,18 28:23 
+33:7,20 
+
+remedy 34:11,13  reviewed 26:25 
+
+rules 27:12 32:2 
+
+ruling 6:7 31:20 
+
+49:25 
+
+52:2 
+
+S 
+S 2:1 3:1 
+sake 44:24 
+sale 17:5 
+satisfy 20:23 
+saying 6:25 
+23:10 29:1 
+30:17 42:20 
+44:22 47:18 
+49:6 51:16 
+
+says 30:20,20,25 
+32:15,19 33:1 
+38:10,21 48:10 
+revised 39:13 
+48:23,25 49:17 
+rewritten 10:10 
+RICHARD 1:23  Scalia 9:23 10:2 
+
+represent 4:1,2 
+
+2:8 29:15 
+
+34:13 
+
+removable 
+
+14:21 
+
+4:2 
+
+reproduce 35:10 
+
+35:12 
+
+require 45:16 
+requirement 
+5:19 49:25 
+
+requirements 
+
+53:3 
+
+requires 49:15 
+reserve 16:1 
+21:20 26:2 
+
+right 4:16,22 5:5 
+8:13,15 11:14 
+12:1,20 13:16 
+14:6,9,13 19:9 
+19:9,9 23:17 
+23:22 24:3,19 
+26:3,3,12 31:2 
+33:20 36:13 
+42:3 49:15 
+50:19 51:8,17 
+
+rights 8:11 
+risk 6:13 
+
+12:1 13:14 
+14:4,7,10 
+15:23,25 17:22 
+17:25 23:10,22 
+23:25 28:6,15 
+28:21,25 29:7 
+30:16 31:3,23 
+32:4 36:9,13 
+37:4,7,9 39:22 
+40:8,13 41:10 
+43:7,9,21 
+47:23 48:4,7 
+48:13,17 49:4 
+54:4 
+
+reserving 25:24 
+resolution 18:5  ROBERTS 3:3 
+6:18 7:9 10:14 
+resolved 16:17 
+10:24 16:3 
+respect 3:25 9:1 
+18:12 19:1 
+24:21,24 26:1 
+29:11,14 40:21  section 32:13,25 
+34:25 36:10,11 
+42:4,7,14,16 
+51:7 52:17 
+54:9 
+
+scenario 23:18 
+Scores 9:16 
+scratch 40:16 
+Second 20:2 
+
+seeking 38:8 
+self-supply 30:8 
+
+31:4 39:3 
+43:12 
+
+respondent 1:21 
+
+respondents 
+
+2:6 16:6 
+
+1:24 2:9 16:21 
+29:16,24 30:4 
+33:8 46:15 
+52:23 
+
+rule 5:25 8:9 9:1 
+
+11:4,5 12:14 
+14:24 32:17 
+
+response 44:13 
+
+ruled 25:3 42:5 
+
+seller 5:10 7:8 
+
+30:12 
+
+30:22 
+
+sells 30:3 
+send 11:19 19:7 
+
+Alderson Reporting Company 
+
+22:24 28:2 
+33:3 44:11 
+52:3 
+
+serious 49:3 
+seriously 38:12 
+set 15:1 17:18 
+21:19 22:23 
+23:19 32:9 
+40:6 45:22 
+
+sets 23:12 32:2 
+setting 20:20 
+settled 9:1 35:4 
+
+35:5 
+
+settlement 4:3 
+
+31:6 36:18,23 
+46:14,22 
+
+simply 10:16 
+13:11 17:16 
+36:18 39:7 
+51:4 53:1 
+sitting 10:21 
+situation 20:10 
+
+20:15 22:22 
+31:4 33:17,17 
+34:10 40:4 
+44:16 46:22 
+48:21 50:14 
+52:4 
+
+41:15 
+
+situations 20:11 
+
+8:21 9:14 
+11:12 17:19,21 
+18:3,4,5,9 22:6  Solicitor 1:19 
+26:15,25 27:15  Somalia 14:19 
+32:14,23 52:24  somebody 20:1 
+53:1 
+
+settling 26:19 
+severe 21:1 
+severely 9:3 
+shape 31:13 
+shelter 51:20 
+sheltered 39:16 
+
+51:24 
+
+27:24 29:2 
+30:24 33:22 
+sophisticated 
+19:21 30:22 
+49:8 
+
+sorry 10:14 
+12:25 23:2 
+33:4,13 
+
+4:7 5:11,16,16 
+6:3,5 7:6 8:1,9 
+10:20,22 15:3 
+15:4,11,12,14 
+15:15,19,21 
+16:11 17:13,23 
+18:2 23:9 
+24:17 25:13 
+27:1,25 28:18 
+28:23,24 29:1 
+29:3 32:8,15 
+32:18 33:2,7 
+33:18,20 34:6 
+34:7,25 35:2 
+35:16,18 36:6 
+36:25 38:5 
+43:4,6 45:15 
+45:25 47:7,15 
+47:15 48:23 
+49:1,2,5,5,13 
+49:17 50:23 
+51:1 
+
+standards 43:19 
+standing 53:3 
+standpoint 42:3 
+stands 9:11 
+Stanley 5:14 
+16:23 17:3 
+19:19 27:21 
+31:23 33:4,5 
+36:8 40:20 
+45:15 48:11 
+49:17 
+
+stick 31:8 
+stop 44:19 
+straightforward 
+
+11:23 
+
+strange 28:20 
+29:4,6 48:21 
+stranger 29:1 
+strictly 43:1 
+strong 40:23 
+sua 27:22 
+subject 6:4 
+23:21 32:6 
+34:14 46:11 
+
+submitted 54:10 
+
+54:12 
+
+substantive 8:1 
+subsumed 53:10 
+succeed 15:2,6 
+suddenly 28:12 
+
+48:20 
+
+sufficient 16:14 
+sufficiently 7:22 
+
+7:22 
+
+table 51:11 
+tables 10:21 
+take 8:19 9:8 
+25:22 44:2 
+
+taken 38:6 
+takes 52:3 
+talking 9:8,13 
+
+23:5 38:19 
+39:3 
+
+talks 41:8 
+tariff 20:10 
+
+23:21 29:22 
+30:10 31:19 
+33:19 40:6 
+41:7 42:15 
+43:2,4 52:9 
+tariffs 44:17 
+tell 8:14 10:21 
+34:21 39:8,17 
+
+tens 47:8 
+term 5:3 
+terms 5:6,9 18:9 
+
+22:3 40:4 
+51:21 
+
+suggested 32:4 
+
+test 20:3,6,24 
+
+suggesting 18:4 
+
+43:9,17,18,21  Thank 3:9 12:4 
+16:3 29:11,13 
+29:17 50:5 
+52:16,17,21 
+54:7,9 
+
+supplier 21:21 
+support 16:7 
+
+52:6 
+
+37:4,6 
+
+supporting 1:21 
+
+2:6 
+
+that’s 24:19 
+theater 7:4 
+theatergoers 7:4 
+
+supposed 11:14  There’s 45:22 
+thing 11:16,19 
+
+13:23 25:16 
+26:9 33:11 
+
+Official 
+
+Page 63 
+
+41:23 
+
+42:21 
+
+stand 47:21 
+
+sense 7:20 20:6 
+
+simple 5:1 11:22  standard 3:15 
+
+14:25 15:8,17  T 2:1,1 
+21:24 24:7 
+
+sort 18:7 21:8 
+47:24 53:2 
+
+49:9,10 53:3 
+showing 45:16 
+shows 53:1 
+side 4:21,23 41:4 
+
+shoes 47:21 
+shouldn’t 39:8 
+show 20:24 21:3  Sotomayor 3:19 
+4:8,12,24 5:21 
+13:13,18,21 
+20:9,21 21:2 
+21:10,13,25 
+22:13,15 23:1 
+30:7,10 44:18 
+45:5,9,17,22 
+46:5,9,24 47:2  States 1:1,14 
+47:9,17 50:15 
+
+side's 28:7 
+Sierra 9:19 21:9 
+
+21:17 28:17 
+43:24 
+
+State 36:15 
+stated 18:25 
+statement 13:7 
+
+51:10 
+
+Sierra-Mobile 
+
+51:17 
+
+sign 6:21 
+signed 6:17 
+significant 
+
+spared 52:12 
+special 33:15,17 
+sponte 27:22 
+stability 6:19 
+
+43:23 
+
+Supreme 1:1,14 
+18:13,14 49:24  sure 14:17 15:17 
+
+28:25 
+
+statute 6:1 12:18  surmount 52:14 
+35:1,17,18 
+sympathy 50:17 
+48:24 49:14,14  system 12:12,13 
+49:19 
+
+12:14 32:1 
+35:13 50:9 
+
+statutory 6:4 
+STEVENS 
+
+T 
+
+13:19 18:2 
+25:9 41:18 
+43:10,11 
+
+things 7:5 15:10 
+
+41:15,25 
+
+think 4:17 8:4 
+
+11:10 15:9 
+18:21,23 19:2 
+21:8 22:9,17 
+24:22 25:2,17 
+
+Alderson Reporting Company 
+
+19:21 
+
+wholly 39:7 
+
+53:10 
+
+willing 5:10 7:7 
+
+Page 64 
+
+4.C 32:13,25 
+
+34:25 36:10,11 
+36:20 
+45 27:15 
+45-day 27:17 
+
+7:7 
+
+19:10,16 23:20 
+24:7,10 25:16  win 35:14 
+31:20 39:22 
+42:11 52:4 
+53:18 
+
+wit 35:9 
+5 25:23 
+word 17:8 46:5 
+words 12:1 43:1  50 10:10 
+violate 15:19,21  work 40:10 44:7  52 2:12 
+
+5 
+
+43:14 
+
+world 28:3 
+
+32:15 
+
+violates 12:15 
+violation 50:11  worrying 6:12 
+wouldn't 18:9 
+virtually 36:5 
+vis-à-vis 20:13 
+wrong 11:15,15 
+
+Official 
+
+28:20 29:3,5 
+32:22 33:16,20 
+33:21,21,23 
+40:23 41:12 
+50:14,18,19 
+53:5 
+
+thinking 35:7 
+thinks 24:14 
+
+26:6 
+
+third 3:22 5:22 
+
+two 5:9,12 6:16 
+
+versa 15:4 
+
+6:20,21,24 7:7  vice 15:4 
+9:9 22:3,9,12 
+23:13 30:21 
+37:12,18,21 
+45:4,6,23 48:8 
+48:10 51:18 
+
+victory 42:8 
+view 12:22 
+
+type 7:10 
+types 5:22 
+
+U 
+
+unbridled 36:5 
+unchained 
+
+6:20 16:13 
+20:4,8,16,22 
+23:2 25:11 
+26:11 28:8,11 
+unclear 44:13 
+28:17 36:19 
+underlying 14:3 
+45:2,11,23,24 
+46:21 47:20,25  understand 4:24 
+48:2,20 51:1,7  understood 
+
+48:20 
+
+third-party 8:13 
+
+28:19 
+
+19:17 53:21 
+thirties 35:22 
+thorny 52:14 
+thought 23:7 
+25:14 27:5,8 
+32:3,4 35:20 
+35:22 37:10 
+
+tier 51:3 
+time 16:2 26:2 
+
+27:14 28:12 
+
+unfair 21:4 
+
+unfairness 21:6 
+
+unilaterally 
+
+22:19 
+
+21:17 
+
+23:19 
+
+W 
+
+wading 40:15 
+wait 25:23 
+
+27:5 33:19 
+44:7 47:2 
+50:11,15,16,17 
+51:3 
+
+wants 42:21 
+Washington 
+1:10,17,20 
+wasn't 31:12 
+
+unencumbered  want 14:5 25:23 
+
+11:19 19:17 
+22:19 39:19 
+
+wrote 10:19 
+
+X 
+
+x 1:2,9 44:23 
+
+50:10 
+
+Y 
+
+Y 50:10 
+
+Z 
+
+Z 50:10 
+
+0 
+
+08-674 1:6 3:4 
+
+1 
+
+10:02 1:15 3:2 
+11:00 54:11 
+16 2:7 
+1930s 35:20 
+
+41:24 50:16,16 
+50:18 
+
+United 1:1,14 
+unites 29:23 
+way 17:12 31:13 
+universes 39:4 
+40:14,22 41:3 
+unlawful 8:22 
+today 3:4 43:17 
+46:19 49:9 
+tomorrow 43:18  unreasonable 
+weaker 41:2 
+tough 40:22 
+transition 17:16  upheld 37:16,17  wealth 35:9 
+
+42:10 
+
+30:19 
+
+26:17,18 44:21 
+44:22,25 
+
+treatment 23:16 
+tries 8:10 
+true 27:4 38:2 
+truth 29:20,23 
+try 21:4 
+trying 4:25 
+
+31:24 35:13 
+46:9 
+
+Tuesday 1:11 
+turn 52:23 
+
+37:21 
+
+use 17:25 23:4 
+
+36:2 38:9 
+41:19 54:7 
+
+usual 18:2 40:16 
+Utilities 1:7 3:5 
+
+20:17 
+
+V 
+
+v 1:6 3:4 14:14 
+validity 8:15 
+26:21,23,24 
+
+variously 20:25 
+
+We'll 3:3 
+we're 7:1 9:13 
+
+14:11,18,20,22 
+26:9 34:17,24 
+35:17,21 36:3 
+38:19 40:5,14 
+41:3 44:8,9,19  25 30:3 
+44:22 52:2 
+29 2:9 
+we've 41:25 
+
+2 
+20a 24:5 
+2009 1:11 
+
+50:24 
+
+whatsoever 54:2 
+what’s 9:6 
+wholesale 17:4 
+
+3 
+
+3 1:11 2:4 52:18 
+
+4 
+
+Alderson Reporting Company 
+
+CERTIFICATION 
+
+Alderson Reporting Company, Inc., hereby certifies that the attached 
+
+pages represent an accurate transcription of electronic sound recording of the 
+
+oral argument before the Supreme Court of The United States in the Matter of; NRG 
+
+POWER MARKETING, LLC, ET AL., Petitioners, v. MAINE PUBLIC UTILITIES COMMISSION, 
+
+ET AL.; and that these attached pages constitute the original transcript of the 
+
+proceedings for the records of the Court.
+
+ REPORTER 
+
+

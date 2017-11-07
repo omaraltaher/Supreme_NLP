@@ -1,0 +1,4292 @@
+ IN THE SUPREME COURT OF THE UNITED STATES
+
+
+- - - - - - - - - - - - - - - -X
+
+
+UNITED STATES, 
+
+ Petitioner 
+
+:
+
+
+:
+
+
+ v. 
+
+:  No. 03-167
+
+
+CARLOS DOMINGUEZ BENITEZ. 
+
+:
+
+
+- - - - - - - - - - - - - - - -X
+
+
+ Washington, D.C.
+
+
+ Wednesday, April 21, 2004
+
+
+ The  above-entitled  matter  came  on  for  oral
+
+
+argument before  the Supreme Court of the United States at
+
+
+10:06 a.m.
+
+APPEARANCES:
+
+
+DAN HIMMELFARB, ESQ., Assistant to the Solicitor General,
+
+
+ Department of Justice, Washington, D.C.; on behalf of
+
+
+ the Petitioner.
+
+
+MYRA D. MOSSMAN, ESQ., Santa Barbara, California; on
+
+
+ behalf of the Respondent.
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+1111 14th Street NW, Suite 400 
+
+1
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+PAGE
+
+
+3
+
+
+25
+
+
+53
+
+
+1
+
+ C O N T E N T S
+
+
+2  ORAL ARGUMENT OF 
+
+3  DAN HIMMELFARB, ESQ.
+
+
+4
+
+ On behalf of the Petitioner 
+
+5  MYRA D. MOSSMAN, ESQ.
+
+
+6
+
+ On behalf of the Respondent 
+
+7  REBUTTAL ARGUMENT OF
+
+
+8  DAN HIMMELFARB, ESQ.
+
+
+ On behalf of the Petitioner 
+
+9
+
+10
+
+
+11
+
+
+12
+
+
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+1111 14th Street NW, Suite 400 
+
+2
+
+
+Alderson Reporting Company
+
+
+Washington, DC 20005 
+
+1
+
+2
+
+3
+
+ P R O C E E D I N G S 
+
+ CHIEF JUSTICE  REHNQUIST:  We'll hear  argument 
+
+ (10:06 a.m.) 
+
+4  now  in  No.  03-167, United  States  v.  Carlos Dominguez 
+
+5  Benitez. 
+
+6
+
+7
+
+8
+
+9
+
+ Mr. Himmelfarb. 
+
+ ORAL ARGUMENT OF DAN HIMMELFARB 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. HIMMELFARB:  Mr. Chief Justice, and  may it 
+
+10  please the Court: 
+
+11
+
+ This  Court  has  consistently  held  in  both 
+
+12  harmless error and plain error cases that an error affects 
+
+13  substantial  rights  if  it affected  the  outcome  of the 
+
+14  district court proceeding.  Applying that principle  to a 
+
+15  violation of rule 11 at a guilty plea proceeding, 9 of the 
+
+16  12  courts  of  appeals  that  hear  criminal  cases  have 
+
+17  concluded that a rule 11  error affects substantial rights 
+
+18  if it affected  the defendant's decision to  plead guilty, 
+
+19  which means that the defendant would not have gone forward 
+
+20  with  his  plea  if  the error  had  not  occurred.  That 
+
+21  standard is correct. 
+
+22
+
+23
+
+ The Ninth Circuit standard which the -­
+
+ QUESTION:  May I  just ask  this one  question? 
+
+24  Because  I'm  -- I'm  not  at all  sure  of the 
+
+--  
+
+is it 
+
+25  perfectly clear  that the  -- in  terms -- effect of  the 
+
+1111 14th Street NW, Suite 400 
+
+3 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  decision necessarily is equated to  the fact he would  not 
+
+2  have otherwise have pleaded guilty? 
+
+3
+
+ MR.  HIMMELFARB:  In  the  context of  a guilty 
+
+4  plea, I think it is, Justice Stevens.  That's the relevant 
+
+5  decision.  This  Court's cases  have applied the  harmless 
+
+6  error and plain error effect on substantial rights element 
+
+7  in a  variety of circumstances:  at a  detention hearing, 
+
+8  during  the  course  of  a  grand  jury  proceeding,  most 
+
+9  frequently a  trial, of  course, and  also at  sentencing. 
+
+10  Each of  those four  circumstances, the  Court made  clear 
+
+11  that the  relevant question was whether the effect of that 
+
+12  particular proceeding would have been the same -­
+
+13
+
+14
+
+15  made. 
+
+ QUESTION:  Well -­
+
+ MR. HIMMELFARB:  -- if  the error had  not been 
+
+16
+
+ QUESTION:  Except that we -- I mean, the -- the 
+
+17  meaning of that  term varies.  In -- in some contexts, we 
+
+18  say,  well, it's -- it's enough if  -- if confidence in -­
+
+19  in that  the  result would  have been  the  same has  been 
+
+20  shattered.  In  -- in the case at the other extreme with a 
+
+21  case -- we  -- I think  that is strongest  for you, we 
+
+--
+
+22  we've  said  in  the  ineffective  assistance  of  counsel 
+
+23  context, yes,  you've got  to show  that he  wouldn't have 
+
+24  pleaded guilty or he's got  to show that he wouldn't  have 
+
+25  pleaded guilty otherwise.  And -- and it seems to  me that 
+
+1111 14th Street NW, Suite 400 
+
+4 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  the -- the issue here is, is this enough -- is the context 
+
+2  here enough like the context  in ineffective assistance of 
+
+3  counsel  to 
+
+--  
+
+to  put  the  heaviest  burden  on  the 
+
+4  petitioner,  or  is  it 
+
+--  
+
+are  there 
+
+--  
+
+are  enough 
+
+5  distinctions so that  maybe the burden shouldn't  be quite 
+
+6  that heavy? 
+
+7
+
+ MR. HIMMELFARB:  We think the -- we think it's 
+
+8  directly  analogous  to  the  ineffective  assistance  of 
+
+9  counsel context.  In that context,  you have a  deficient 
+
+10  performance by the  defendant's lawyer in connection  with 
+
+11  advice about  a guilty plea.  And this Court's decision in 
+
+12  Hill  v. Lockhart makes  clear that  the next step  of the 
+
+13  Strickland  analysis, the  prejudice analysis,  is whether 
+
+14  but for  that deficient  performance, the defendant  would 
+
+15  not  have pleaded  guilty and would  have gone  forward to 
+
+16  trial. 
+
+17
+
+18
+
+19  here. 
+
+ QUESTION:  All right.  No.  Your -- we -­
+
+ MR. HIMMELFARB:  We think  the same rule applies 
+
+20
+
+ QUESTION:  Let me -- let me suggest at least  a 
+
+21  reason why maybe it isn't.  I'd like your comment on it. 
+
+22
+
+ In -- in the ineffective assistance  of counsel 
+
+23  context, one  reason for putting a  high -- you  know, the 
+
+24  heaviest  burden on the  defendant is  that it is  so very 
+
+25  difficult to police effective assistance  as you go along. 
+
+1111 14th Street NW, Suite 400 
+
+5 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  The judge watching the -- the plea hearing has no  way of 
+
+2  knowing what's  going on or has gone on between the lawyer 
+
+3  and -- and the client. 
+
+4
+
+ Here, we're in  a different position.  There -­
+
+5  there are a  couple of people in a position to -- to avoid 
+
+6  the kind of problem that we've got here.  One obviously is 
+
+7  the Federal judge.  If he had a checklist in front of him, 
+
+8  something like this wouldn't have happened. 
+
+9
+
+ The second is  counsel for the Government.  The 
+
+10  counsel for the Government can get  up in a case like this 
+
+11  and  say,  Judge,  you forgot  something,  and  avoid this 
+
+12  problem. 
+
+13
+
+ So  it may be that because there are easier ways 
+
+14  to avoid this, the burden  on the defendant shouldn't have 
+
+15  to be so heavy.  What do you say to that? 
+
+16
+
+ MR.  HIMMELFARB:  Well,  this Court's  decision 
+
+17  makes clear  in Vonn that the  defendant has a  burden, of 
+
+18  course,  rejected  the  contention in  that  case  that no 
+
+19  matter when -- regardless of  the circumstances of when  a 
+
+20  rule 11 error occurs,  the Government bears the burden  of 
+
+21  showing that there  was no  effect on substantial  rights. 
+
+22  The  holding  of Vonn  is  that  the  defendant bears  the 
+
+23  burden. 
+
+24
+
+ The  only  question in  this  case is  what that 
+
+25  standard is, and we think again it's directly analogous to 
+
+1111 14th Street NW, Suite 400 
+
+6 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  the ineffective assistance of counsel context. 
+
+2
+
+ QUESTION: 
+
+Well,  you  don't  think  that  the 
+
+3  standard for plain  error that  the Court  spelled out  in 
+
+4  United States v. Olano provides the standard? 
+
+5
+
+ MR.  HIMMELFARB: 
+
+Justice  O'Connor,  that's 
+
+6  exactly  our  position. 
+
+Our  position  is  that  a 
+
+7  straightforward application of Olano --
+
+8
+
+ QUESTION:  Well, if  -- if  that's so,  Olano's 
+
+9  fourth prong,  if  you will,  is that  the  error -- asks 
+
+10  whether  the  error  seriously  affects  the  fairness, 
+
+11  integrity, or  public reputation of  judicial proceedings. 
+
+12  And I'm not sure that  I understand, under your test,  how 
+
+13  that fourth prong would be  applied or if it's still  part 
+
+14  of the test. 
+
+15
+
+ MR.  HIMMELFARB: 
+
+It  certainly  is,  Justice 
+
+16  O'Connor.  We  make two  alternative arguments, one  under 
+
+17  the  third prong of  the plain  error rule, one  under the 
+
+18  fourth.  Our  primary  submission is  that  in  order  to 
+
+19  satisfy the third requirement of  the plain error rule 
+
+--
+
+20  in other  words, in order to show an effect on substantial 
+
+21  rights -- that's right -- a defendant has to show that the 
+
+22  error affected his decision to plead guilty. 
+
+23
+
+ Our alternative  argument is  that the  Court -­
+
+24  even if  the Ninth Circuit standard  is correct so  that a 
+
+25  defendant would not  have to show that  the error affected 
+
+1111 14th Street NW, Suite 400 
+
+7 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  his decision to plead guilty in order to show an effect on 
+
+2  substantial  rights and  he  could  therefore satisfy  the 
+
+3  third  requirement  of  the  plain  error rule,  he  can't 
+
+4  satisfy  the  fourth  requirement  unless  he  makes  that 
+
+5  showing.  And  we think that conclusion  follows from this 
+
+6  Court's decisions in  Cotton and  Johnson where the  Court 
+
+7  assumed, without deciding,  that the failure to  submit an 
+
+8  element of the offense to the grand jury or the petit jury 
+
+9  affected substantial  rights, but held that  the defendant 
+
+10  could  not  satisfy the  fourth  requirement of  the plain 
+
+11  error rule  because the error had no effect on the outcome 
+
+12  of the  grand jury proceeding or  of the trial.  So we're 
+
+13  making two alternative arguments here, one under the -­
+
+14
+
+ QUESTION:  May I ask  you a question  about the 
+
+15  practical aspect  of it?  And  you're asking the  Court to 
+
+16  choose -- well, the plain error  is what we're  doing and 
+
+17  how high a  burden the defendant would have  to meet.  But 
+
+18  this relates to a question Justice Souter asked. 
+
+19
+
+ I was surprised, given that  this was not a  new 
+
+20  district judge, that she  didn't have a litany that  would 
+
+21  cover all the rule 11 elements.  And I was also surprised 
+
+22  that the  Assistant U.S. Attorney didn't say at the end of 
+
+23  the colloquy, judge, you forgot  to mention that this plea 
+
+24  can't be withdrawn. 
+
+25
+
+ Is there a manual that  judges follow?  Are U.S. 
+
+1111 14th Street NW, Suite 400 
+
+8 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  -- Assistant U.S. Attorneys  instructed, when something is 
+
+2  left out of rule 11, to remind the judge? 
+
+3
+
+ MR.  HIMMELFARB: 
+
+Justice  Ginsburg, 
+
+my 
+
+4  understanding is that  there is a bench book  available to 
+
+5  judges,  and  obviously there  are  a great  many district 
+
+6  judges in  the United States district courts  and some are 
+
+7  going to be more meticulous than others. 
+
+8
+
+ Assistant U.S.  Attorneys often or at  least are 
+
+9  supposed to bring  checklists with them  to a guilty  plea 
+
+10  proceeding  so  that  they  can  ensure  that rule  11  is 
+
+11  strictly complied  with.  Of  course, a prosecutor  has no 
+
+12  more interest in litigating a rule 11 error on appeal than 
+
+13  anybody else  does.  So it's very much in the prosecutor's 
+
+14  interest to try to ensure that there's strict compliance. 
+
+15
+
+ Vonn makes clear, though, that in the event that 
+
+16  one of the  -- one of the  advisements slips -- and  there 
+
+17  was only one here that the district judge did not give 
+
+--
+
+18  it's  the defendant's burden to  object and if he doesn't, 
+
+19  he's in  a plain error posture  on appeal, not  a harmless 
+
+20  error posture. 
+
+21
+
+ QUESTION:  Mr. Himmelfarb, is it  -- is it clear 
+
+22  in this  case that  the defendant believed  that he  could 
+
+23  withdraw his plea?  Do we know that? 
+
+24
+
+ MR. HIMMELFARB:  We don't.  The record is silent 
+
+25  on that question. 
+
+1111 14th Street NW, Suite 400 
+
+9 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  Do you think that -- that a defendant 
+
+2  making a  guilty plea would normally believe that he could 
+
+3  withdraw it when  the Government has promised  him nothing 
+
+4  except  that it  would recommend  to  the judge  a certain 
+
+5  sentence? 
+
+6
+
+ MR.  HIMMELFARB: 
+
+Well,  it  depends,  Justice 
+
+7  Scalia.  In a case like this,  we think a defendant would 
+
+8  not reasonably be  under that  impression because in  this 
+
+9  case, this -- this defendant  -- respondent was repeatedly 
+
+10  advised that  the judge was not  bound by the  guilty plea 
+
+11  and  that  he  would  face  a  10-year  mandatory  minimum 
+
+12  sentence if the parties' recommendation was not followed. 
+
+13
+
+ QUESTION: 
+
+If  I  was  given  all  of  that 
+
+14  information,  I 
+
+--  
+
+I  certainly  wouldn't  leap  to  the 
+
+15  conclusion that,  well, if the judge doesn't  accept it, I 
+
+16  can withdraw the guilty  plea.  I don't know why  he would 
+
+17  naturally believe that.  I would think he  would naturally 
+
+18  believe the opposite. 
+
+19
+
+ MR. HIMMELFARB:  We agree,  Justice Scalia, and 
+
+20  that's why we think -­
+
+21
+
+ QUESTION:  Wasn't  -- wasn't that covered  in -­
+
+22  in the  plea agreement  itself which  was translated  into 
+
+23  Spanish  for him,  specifically that  he could  not -- he 
+
+24  could not  withdraw his plea if  the judge did  not accept 
+
+25  the plea? 
+
+1111 14th Street NW, Suite 400 
+
+10 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR. HIMMELFARB:  That -- that's  exactly right, 
+
+2  Mr. Chief Justice. 
+
+3
+
+ QUESTION:  Your basic point is that this part of 
+
+4  the rule is pointless. 
+
+5
+
+6
+
+7  point. 
+
+8
+
+9
+
+10
+
+11
+
+ MR. HIMMELFARB:  Not at all, Justice Stevens. 
+
+ QUESTION:  Well, I guess that's Justice Scalia's 
+
+ MR. HIMMELFARB:  No.  There may --
+
+ (Laughter.) 
+
+ QUESTION:  I'm sorry. 
+
+ MR. HIMMELFARB:  My point is that in a case like 
+
+12  this where  a defendant is advised  that the judge  is not 
+
+13  bound  by  the  parties'  agreement,  it's  probably  not 
+
+14  reasonable  for  that  defendant  to  assume that  he  can 
+
+15  withdraw his plea if the judge doesn't follow the -­
+
+16
+
+ QUESTION:  My point is  not that it's pointless. 
+
+17  My  point  is  that  when  it  is  omitted,  it  does  not 
+
+18  necessarily  produce substantial injustice.  It's  a good 
+
+19  idea to give it, of course.  But in the absence  of giving 
+
+20  it, I  would think that normally you'd think that he would 
+
+21  assume that anyway. 
+
+22
+
+ MR. HIMMELFARB:  That's exactly right.  That's 
+
+23  our position, Justice Scalia. 
+
+24
+
+ QUESTION:  But if  that's  right and  I were  a 
+
+25  district  judge,  I  could  probably  save  time  by  just 
+
+1111 14th Street NW, Suite 400 
+
+11 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  omitting this regularly then. 
+
+2
+
+ MR. HIMMELFARB:  No,  Justice Stevens,  I don't 
+
+3  think  that's  likely  to  happen.  District  judges  are 
+
+4  generally  quite conscientious  about complying  with rule 
+
+5  11.  Prosecutors are generally  quite conscientious about 
+
+6  making  sure  that district  judges  comply with  rule 11. 
+
+7  Nobody has an interest in having appellate litigation over 
+
+8  rule 11  errors.  Everyone has an interest -- everyone has 
+
+9  an interest  in  making  sure that  rule  11  is  strictly 
+
+10  complied  with so that  the judgment of  conviction can be 
+
+11  entered and  people can move  on to other business.  So I 
+
+12  don't think -­
+
+13
+
+ QUESTION:  Even -- even respondent doesn't argue 
+
+14  here  that  any  omission  from  the rule  11  requirement 
+
+15  produces  an automatic  reversal.  Does respondent  argue 
+
+16  that? 
+
+17
+
+18
+
+ MR. HIMMELFARB:  No.  My -­
+
+ QUESTION:  So,  I mean, that's -- that's not the 
+
+19  theory here, that if you don't -- if  you don't produce an 
+
+20  automatic  reversal,  people  won't  give  the  rule  11 
+
+21  requirements. 
+
+22
+
+ MR.  HIMMELFARB: 
+
+That's  right. 
+
+The  Ninth 
+
+23  Circuit does not have a  rule of automatic reversal.  The 
+
+24  Ninth  Circuit standard is  if the  error is not  minor or 
+
+25  technical and the defendant wasn't  otherwise aware of the 
+
+1111 14th Street NW, Suite 400 
+
+12 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  omitted  information, he  shows an  effect on  substantial 
+
+2  rights. 
+
+3
+
+ Our position is  that knowledge  of the  omitted 
+
+4  information is a  sufficient condition  to defeat a  claim 
+
+5  that there was  an effect on substantial  rights, but it's 
+
+6  not necessary. 
+
+7
+
+ QUESTION:  Now, is your knowledge of requirement 
+
+8  a wholly subjective test?  We -- we want to know what this 
+
+9  defendant  thought.  Or is  it what  a  reasonable person 
+
+10  would have concluded based on all of the circumstances? 
+
+11
+
+ MR.  HIMMELFARB:  It's  a subjective  standard, 
+
+12  Justice Kennedy.  In the context  of a guilty  plea, when 
+
+13  the question is whether the error affected the defendant's 
+
+14  decision to plead guilty, the relevant question is whether 
+
+15  this particular defendant  would have  pled -- would  have 
+
+16  gone to trial. 
+
+17
+
+ QUESTION:  So you put him on the stand.  You put 
+
+18  him on the stand and -­
+
+19
+
+ MR.  HIMMELFARB: 
+
+No, you  don't. 
+
+You can't 
+
+20  because  by definition  in the plain  error/harmless error 
+
+21  context, you're limited to the record on appeal. 
+
+22
+
+ Objective considerations are  obviously relevant 
+
+23  in  making the  subjective determination  of whether  this 
+
+24  particular defendant would have pled guilty. 
+
+25
+
+ QUESTION:  Well, you're limited to the record on 
+
+1111 14th Street NW, Suite 400 
+
+13 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  appeal.  Could there have been a hearing in the -- in the 
+
+2  district court on the rule 11 -­
+
+3
+
+ MR. HIMMELFARB:  There could, Justice  Kennedy. 
+
+4  For  example, if the  defendant had moved  to withdraw his 
+
+5  plea after  he pled but  before sentencing, it  might have 
+
+6  been  within  the district  court's  discretion to  hold a 
+
+7  hearing and  you could have  had the defendant  testify at 
+
+8  that hearing. 
+
+9
+
+ QUESTION:  But  after sentence, it's  impossible 
+
+10  for him to testify? 
+
+11
+
+ MR. HIMMELFARB:  That's right.  Under  -- under 
+
+12  rule 11, a defendant can move to withdraw his plea for any 
+
+13  reason before it's accepted. 
+
+14
+
+ QUESTION:  But he didn't do that.  This question 
+
+15  wasn't  raised  until appeal 
+
+--  
+
+the appeal. 
+
+He didn't 
+
+16  say -­
+
+17
+
+ MR.  HIMMELFARB: 
+
+That's  exactly right. 
+
+It 
+
+18  wasn't raised at  any point in the district court, Justice 
+
+19  Ginsburg. 
+
+20
+
+ QUESTION:  But -- but my  question is in  -- in 
+
+21  other cases  it would not  be possible  to put him  on the 
+
+22  stand at any time after sentencing. 
+
+23
+
+ MR. HIMMELFARB:  No.  After sentencing, the rule 
+
+24  makes clear  a defendant can't move to  withdraw his plea. 
+
+25  The only way he can attack his plea is by direct appeal or 
+
+1111 14th Street NW, Suite 400 
+
+14 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  a collateral attack.  But before sentencing it's -­
+
+2
+
+ QUESTION:  On collateral attack, could  he take 
+
+3  the stand? 
+
+4
+
+ MR. HIMMELFARB:  Sure.  It would be  within the 
+
+5  discretion of the  district judge  and his willingness  to 
+
+6  testify. 
+
+7
+
+8
+
+9
+
+10
+
+ QUESTION:  Under your -­
+
+ QUESTION:  Can you -­
+
+ QUESTION:  Excuse me. 
+
+ QUESTION:  Can  you collaterally  attack a  plea 
+
+11  before 0 appealed and sought to have it set aside? 
+
+12
+
+ MR. HIMMELFARB:  No, Mr. Chief Justice.  There's 
+
+13  -- there's,  of  course, a  requirement  that you  file  a 
+
+14  direct  appeal.  Otherwise  you  will  have  procedurally 
+
+15  defaulted. 
+
+16
+
+ I  should  also  say  that  this Court  held  in 
+
+17  Timmreck that  a formal violation of rule 11, which is all 
+
+18  that we have here, is not cognizable in a 2255 proceeding. 
+
+19
+
+ QUESTION:  Normally -- you may know  -- I'm just 
+
+20  drawing on  your background.  Normally when you say did it 
+
+21  affect  somebody's substantial  rights, when  I  see those 
+
+22  words, I  think the  judge did something  to this  person. 
+
+23  And  when I say  did it  affect his substantial  rights, I 
+
+24  think, well, did  it matter in terms of what  the judge or 
+
+25  the jury did to him.  Now, is  that a correct way to think 
+
+1111 14th Street NW, Suite 400 
+
+15 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  about it?  Are  there other  instances where  substantial 
+
+2  rights means something different than that? 
+
+3
+
+ MR. HIMMELFARB:  In the  ordinary context,  the 
+
+4  relevant decision-maker  is,  of course,  the  judge,  and 
+
+5  the -­
+
+6
+
+ QUESTION: 
+
+No, I'm  not  talking about  -- I'm 
+
+7  saying something happened to this human being who is there 
+
+8  in court, and when I  say did this affect his  substantial 
+
+9  rights,  I  usually ask  myself  did  this  error  make  a 
+
+10  difference in terms of what happened to him.  That's how I 
+
+11 
+
+--  
+
+it's  very  colloquial,  but  that's  the  question  I 
+
+12  normally ask myself.  Now, maybe all these years I've been 
+
+13  doing it wrong or maybe there's some circumstances where I 
+
+14  should ask  that question.  You  know, like a  death case, 
+
+15  which is a horrible case, sometimes there's harmless error 
+
+16  and usually the question there  is did it matter in  terms 
+
+17  of his being sentenced to death.  Those come up a lot. 
+
+18
+
+ I'm just asking you a general question.  I don't 
+
+19  have a  point here.  I'm trying to  figure out how best to 
+
+20  think about this. 
+
+21
+
+ MR. HIMMELFARB:  No.  We think your formulation 
+
+22  is exactly the right way to think -­
+
+23
+
+ QUESTION: 
+
+Fine. 
+
+If  that  is  the  correct 
+
+24  formulation,  can  you  think of  other  instances  in the 
+
+25  criminal  law  where  substantial rights  meant  something 
+
+1111 14th Street NW, Suite 400 
+
+16 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  other than this formulation? 
+
+2
+
+ MR.  HIMMELFARB:  I  can.  The -- an  affect on 
+
+3  substantial rights  means that  there's an  affect on  the 
+
+4  outcome. 
+
+5
+
+ QUESTION:  That's my question.  I'm asking it to 
+
+6  inform myself and I have  the same question for the  other 
+
+7  side too. 
+
+8
+
+ MR.  HIMMELFARB:  Let -- let  me qualify that -­
+
+9  that answer  if  I could,  Justice Breyer. 
+
+That is  the 
+
+10  general rule. 
+
+There are,  of course,  certain types  of 
+
+11  error, as  this Court has made clear, which do not require 
+
+12  a showing of -­
+
+13
+
+ QUESTION:  Like  structural error.  That's one 
+
+14  kind of exception. 
+
+15
+
+16
+
+ MR. HIMMELFARB:  That's exactly right. 
+
+ QUESTION:  But  I don't think we  normally speak 
+
+17  in terms of substantial rights  in those cases.  Maybe  we 
+
+18  do.  I don't know. 
+
+19
+
+ MR.  HIMMELFARB:  Well, sometimes  the question 
+
+20  will be whether the  third requirement of the plain  error 
+
+21  rule, which is a substantial  rights requirement, has been 
+
+22  affected. 
+
+23
+
+ QUESTION:  All right.  So -- so structural error 
+
+24  cases are an instance where my colloquial question is  not 
+
+25  right and  nobody claims here  this is a  structural error 
+
+1111 14th Street NW, Suite 400 
+
+17 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  case. 
+
+2
+
+ MR.  HIMMELFARB:  We  certainly don't,  Justice 
+
+3  Breyer.  I -- I don't  believe respondent does,  and the 
+
+4  court of appeals did not take that position either. 
+
+5
+
+ QUESTION:  Mr. Himmelfarb,  there's -- there's 
+
+6  another specific about  this case that might  have averted 
+
+7  what happened.  The -- the entire plea agreement was read 
+
+8  to the defendant  in translation  because he didn't  speak 
+
+9  English.  And that was the day before.  If it had been the 
+
+10  practice to give him a copy of the translation, instead of 
+
+11  just having  him hear  it orally,  then it  would have 
+
+--
+
+12  might better  for him to read  and we would  have had more 
+
+13  security that he knew. 
+
+14
+
+ MR. HIMMELFARB:  Justice Ginsburg, I don't know 
+
+15  as an empirical matter which is more likely to ensure that 
+
+16  a  defendant is  aware of  what's in  the plea  agreement, 
+
+17  sitting down  with a lawyer  and a Spanish  interpreter as 
+
+18  happened  here and having  the three  of them go  over the 
+
+19  plea agreement,  having the Spanish  interpreter translate 
+
+20  it for  the defendant in the  presence of counsel  so that 
+
+21  the defendant can  ask any questions  of counsel that  are 
+
+22  necessary and counsel can answer them, on the one hand, or 
+
+23  the suggestion which you just made. 
+
+24
+
+ QUESTION:  But I meant both, that is, that there 
+
+25  would be the written -- written-out plea agreement, which 
+
+1111 14th Street NW, Suite 400 
+
+18 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  if he could read English, he could have read, and then the 
+
+2  lawyer and the  translator go  over that written  document 
+
+3  with him, that that I  think would be more effective  than 
+
+4  just hearing it orally. 
+
+5
+
+ MR.  HIMMELFARB:  Again,  I'm not  sure whether 
+
+6  that's true  as an empirical matter.  As a  legal matter, 
+
+7  the  question here  is when  a defendant  has forfeited  a 
+
+8  claim of error and he has to show an effect on substantial 
+
+9  rights on appeal, if you have -­
+
+10
+
+ QUESTION:  But I didn't mean this  to be legally 
+
+11  dispositive.  It's in the  same way -- how  could this be 
+
+12  warded  off so  we don't get  a Federal case  out of these 
+
+13  rule 11 slips. 
+
+14
+
+ MR. HIMMELFARB:  Again, Justice Ginsburg, I -- I 
+
+15  don't  think  it's  ordinarily  the  practice  of  U.S. 
+
+16  Attorney's offices to provide Spanish translations of plea 
+
+17  agreements to Spanish  speakers who  don't speak  English. 
+
+18  It's always the  practice, whether the translator is at -­
+
+19  comes at the  defendant's expense or the  court's expense, 
+
+20  for a translator to  translate the plea agreement for  the 
+
+21  defendant in -- in the presence of  counsel.  I -- I don't 
+
+22  know what would be the  source of any requirement for  the 
+
+23  Government to provide a Spanish -­
+
+24
+
+ QUESTION:  I -- I wasn't suggesting that -- that 
+
+25  it was a requirement. 
+
+1111 14th Street NW, Suite 400 
+
+19 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ May  -- may I  ask just one  more puzzling thing 
+
+2  about this  case, background of it?  The reason  that the 
+
+3  deal didn't -- wasn't possible was that this man had three 
+
+4  priors  instead of everybody thought -- well, at least the 
+
+5  judge  thought  or  the  prosecutor  thought,  until  the 
+
+6  presentence report, there was only one.  But the defendant 
+
+7  must have known how many priors he had. 
+
+8
+
+ MR. HIMMELFARB:  That's right.  The defendant, 
+
+9  of course, knew  that he had  three prior convictions  and 
+
+10  not just one.  I'm not sure what bearing that fact  has on 
+
+11  the  plain error  analysis in  this case because  it's not 
+
+12  just the fact  of the  prior convictions  that would  have 
+
+13  rendered  this defendant  ineligible for a  sentence below 
+
+14  the  mandatory minimum. 
+
+There has  to  be a  guidelines 
+
+15  calculation and  assignment of criminal history  points to 
+
+16  each conviction, and if you get above one criminal history 
+
+17  point,  you're  not  eligible  for  a sentence  below  the 
+
+18  mandatory minimum.  So you would -­
+
+19
+
+ QUESTION:  Well, you might -- you might say that 
+
+20  the fact  that the defendant must  have known that  he had 
+
+21  three priors would  have made  him realize  that the  plea 
+
+22  agreement probably wouldn't be accepted. 
+
+23
+
+ MR. HIMMELFARB:  One could  reasonably conclude 
+
+24  that he should have had substantial doubt about whether he 
+
+25  would have been eligible for the -­
+
+1111 14th Street NW, Suite 400 
+
+20 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  Are you  assuming he  understood the 
+
+2  sentencing guidelines in that detail? 
+
+3
+
+4
+
+ MR. HIMMELFARB:  No.  That's -­
+
+ QUESTION:  It'd  be rather  unusual.  The  basic 
+
+5  problem here is we're dealing with dumb defendants. 
+
+6
+
+7
+
+ (Laughter.) 
+
+ QUESTION:  That's  the problem.  That's  why you 
+
+8  have to tell them twice. 
+
+9
+
+ MR.  HIMMELFARB: 
+
+Well,  that's true,  Justice 
+
+10  Stevens. 
+
+11
+
+12
+
+ QUESTION:  Yes. 
+
+ MR. HIMMELFARB:  Rule 11  imposes a requirement 
+
+13  on the  district  judge to  advise  the defendant  of  his 
+
+14  rights.  Nobody disputes that  that didn't happen here for 
+
+15  one of the advisements and nobody disputes that there  was 
+
+16  therefore rule 11 error.  Nor does anybody dispute that it 
+
+17  was a plain error.  But since defendant didn't object 
+
+--
+
+18  respondent didn't object in the district court, we're in a 
+
+19  plain error  posture.  That  is a  difficult standard  to 
+
+20  meet.  He has  to show  not  only that  there's an  error 
+
+21  that's  plain,  but  he has  to  satisfy  these two  other 
+
+22  requirements that I'll mention. 
+
+23
+
+ QUESTION:  Why  shouldn't it be as  an objective 
+
+24  test,  do you think?  I don't know  why you focus on -- on 
+
+25  something  else.  I  mean, can't  we assess whether  -- in 
+
+1111 14th Street NW, Suite 400 
+
+21 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  determining whether it affects substantial rights, how the 
+
+2  evidence against the  defendant was, what the  benefits of 
+
+3  the plea  were, and  what he  was told  in just  objective 
+
+4  terms? 
+
+5
+
+ QUESTION: 
+
+In  other  words, 
+
+reasonable 
+
+6  probability. 
+
+7
+
+ QUESTION:  Yes.  I mean, why do you want to make 
+
+8  it something else? 
+
+9
+
+ MR.  HIMMELFARB: 
+
+Justice  O'Connor,  it  is 
+
+10  absolutely the case  that in undertaking this  analysis, a 
+
+11  court  should  and  ordinarily  will  look  at  objective 
+
+12  factors.  In most cases -­
+
+13
+
+ QUESTION:  I would think you would win under an 
+
+14  objective test.  I don't know  why you're trying  to urge 
+
+15  something else. 
+
+16
+
+ MR. HIMMELFARB:  We think  that -- we agree that 
+
+17  we win under either an objective or a subjective standard, 
+
+18  given  the  strength of  the  case against  respondent and 
+
+19  given the fact that he received a substantial benefit from 
+
+20  pleading.  We think that  a -- a  subjective test is  the 
+
+21  appropriate one because this  is not a situation  like you 
+
+22  have  when there's trial  error and you  have to determine 
+
+23  whether the jury  objectively would have reached  the same 
+
+24  decision -­
+
+25
+
+ QUESTION: 
+
+But 
+
+--  
+
+but  if  you're  doing  a 
+
+1111 14th Street NW, Suite 400 
+
+22 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  subjective test, you might as  -- as long as you're  doing 
+
+2  that, why not accept the Ninth Circuit test:  did he know? 
+
+3
+
+ MR. HIMMELFARB:  Well, Justice Kennedy, we think 
+
+4  that if he did knew -- if he did know, that's a sufficient 
+
+5  basis for rejecting his claim because if he knew, the fact 
+
+6  that the judge didn't tell him a second time -­
+
+7
+
+ QUESTION:  No, no.  I -- I thought that this was 
+
+8  the Ninth Circuit test that you disagree with.  And my -­
+
+9  my point  is if you're going  to go this  objective route, 
+
+10  you might  as well  ask the  basic question  as the  Ninth 
+
+11  Circuit did. 
+
+12
+
+ MR. HIMMELFARB:  We  -- we have no  problem with 
+
+13  the question the Ninth Circuit asked.  Our problem is that 
+
+14  they stopped after they asked  that question.  That should 
+
+15  probably be the  first question.  If there's evidence  in 
+
+16  the record that  the defendant was otherwise  aware of the 
+
+17  omitted rule 11 information, it would be very difficult to 
+
+18  say that  he would  have gone  to trial  if the judge  had 
+
+19  omitted to say something that he already knew.  That's why 
+
+20  we think that's a sufficient --
+
+21
+
+ QUESTION:  I still would  like to understand why 
+
+22  you think an objective test is not acceptable. 
+
+23
+
+ MR.  HIMMELFARB: 
+
+In 
+
+--  
+
+in  the 
+
+--  
+
+when  a 
+
+24  defendant is confronted  with a choice of  pleading guilty 
+
+25  or  going  to trial,  he  has -- he,  of  course, has  an 
+
+1111 14th Street NW, Suite 400 
+
+23 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  absolute right to go to  trial.  No matter how  strong the 
+
+2  evidence is  against him, no matter what benefits he could 
+
+3  get  from  pleading guilty,  if  he chooses,  for whatever 
+
+4  personal or idiosyncratic  reason, to go to  trial despite 
+
+5  those things, he's  got the right to do it.  That's why we 
+
+6  think -­
+
+7
+
+ QUESTION:  Maybe  -- maybe you think  the courts 
+
+8  would not -- would not  stand by an objective test in  the 
+
+9  situation where the  facts are  such that any  intelligent 
+
+10  defendant would have -- would  have made the plea even  if 
+
+11  he knew  that it couldn't be revoked.  But this particular 
+
+12  defendant, for whatever  reason -- and  it's clear on  the 
+
+13  record he  told his counsel or he left  -- left a note and 
+
+14  said, well,  there's no harm in making this plea because I 
+
+15  can always  withdraw it if the judge doesn't go along with 
+
+16  the recommended sentence.  And  in that situation, I think 
+
+17  it's very hard for  a court to say, oh, yes,  a -- since a 
+
+18  reasonable  defendant  would 
+
+--  
+
+would  have  gone  ahead 
+
+19  anyway,  this -- this  defendant who  would not  have gone 
+
+20  ahead anyway must be held to his guilty plea. 
+
+21
+
+22
+
+ MR. HIMMELFARB:  I think that's right. 
+
+ Let  me -- let  me just  add this point  to what 
+
+23  I've  already  said. 
+
+While  the objective  question  of 
+
+24  whether  a  reasonable  defendant  in  the  defendant's 
+
+25  circumstances would  have pleaded  is not,  we think,  the 
+
+1111 14th Street NW, Suite 400 
+
+24 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  correct analysis under  the third  component of the  plain 
+
+2  error rule, we do think it  could be taken into account in 
+
+3  connection  with  the  fourth  requirement, which  is  the 
+
+4  discretionary component. 
+
+5
+
+ So,  in  other words,  if  you have  a situation 
+
+6  where a defendant for some idiosyncratic reason was intent 
+
+7  on going to trial, even though it was essentially suicidal 
+
+8  for him to  do that, he might be able to satisfy the third 
+
+9  requirement  because it  affected  his  decision to  plead 
+
+10  guilty, but a  court could  permissibly say, that  doesn't 
+
+11  serious  affect  the  fairness,  integrity,  and  public 
+
+12  reputation of judicial proceedings  because he undoubtedly 
+
+13  would have  been convicted  if he  had gone  to trial  and 
+
+14  would have gotten a longer sentence. 
+
+15
+
+ I'd like  to reserve the balance of  my time for 
+
+16  rebuttal. 
+
+17
+
+18
+
+19
+
+20
+
+21
+
+ QUESTION:  Very well, Mr. Himmelfarb. 
+
+ Ms. Mossman, we'll hear from you. 
+
+ ORAL ARGUMENT OF MYRA D. MOSSMAN 
+
+ ON BEHALF OF THE RESPONDENT 
+
+ MS.  MOSSMAN:  Mr.  Chief  Justice, and  may it 
+
+22  please the Court: 
+
+23
+
+24
+
+ I have three points to make. 
+
+ First, Olano created a framework  that the lower 
+
+25  courts have  been  consistently applying 
+
+--  
+
+applying  in 
+
+1111 14th Street NW, Suite 400 
+
+25 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  evaluating  forfeited errors in  a rule 11  context for 11 
+
+2  years. 
+
+3
+
+ Second, now having suffered an adverse ruling in 
+
+4  a fact-specific case, the Government  is urging this Court 
+
+5  to  adopt  a strict,  heavy  burden, bright  line, but-for 
+
+6  prejudice test  in every  case that  eliminates the  lower 
+
+7  court's flexibility. 
+
+8
+
+ Third,  not  only  is  the  Government's  test 
+
+9  incorrect, but the  Ninth Circuit cited and  applied Olano 
+
+10  and was consistent with Olano in Benitez. 
+
+11
+
+ Now, first,  the  Olano standard  is a  national 
+
+12  standard under plain  error review where an  error affects 
+
+13  the  substantial rights.  And that means  -- generally is 
+
+14  taken  to  mean  it's  prejudiced. 
+
+And  in  most  cases 
+
+15  prejudice  means  that  it  affects  the  outcome  of  the 
+
+16  proceedings.  In  Benitez, this is what  the Ninth Circuit 
+
+17  held as  well because  in Benitez,  if it's  not minor  or 
+
+18  technical, that means it's prejudicial. 
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+ QUESTION:  Why? 
+
+ QUESTION:  But that's not so. 
+
+ QUESTION:  Has -- has --
+
+ QUESTION:  I mean -­
+
+ MS. MOSSMAN:  Or consistently can be -­
+
+ QUESTION:  I read the Ninth Circuit.  It  seemed 
+
+25  to me we said just what you said  we said.  What the Ninth 
+
+1111 14th Street NW, Suite 400 
+
+26 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  Circuit says  is Benitez must prove that the error was not 
+
+2  minor or  technical, which by the  way, has nothing  to do 
+
+3  with  it  because a  minor or  technical error  could well 
+
+4  affect the outcome.  And then it says, and that he did not 
+
+5  understand the rights at issue, which again is a necessary 
+
+6  but not sufficient condition. 
+
+7
+
+ Now,  where  did  they  say  anything  about 
+
+8  substantial  rights? 
+
+They  used  those  words,  but  if 
+
+9  substantial  rights  means what  I  -- we  just discussed, 
+
+10  which  I'd like your  view about, they  never talked about 
+
+11  substantial rights. 
+
+12
+
+ MS.  MOSSMAN: 
+
+They 
+
+don't  talk  about 
+
+13  substantial -­
+
+14
+
+ QUESTION:  Well, didn't  they say  just what  I 
+
+15  read? 
+
+16
+
+17
+
+ MS. MOSSMAN:  Yes, but if -­
+
+ QUESTION:  So why isn't it like summary reverse? 
+
+18  We said this.  You say that. 
+
+19
+
+ MS. MOSSMAN:  Well, it's -- we -- we  see that 
+
+20  not  minor or technical  means it  has -- it  affected his 
+
+21  substantial rights, and they actually cite to Olano. 
+
+22
+
+ QUESTION:  Oh,  I see. 
+
+Now, then  what  does 
+
+23  affect substantial  rights mean?  Now,  we have  an error 
+
+24  here that's not minor or technical. 
+
+25
+
+ MS. MOSSMAN:  Correct, and -­
+
+1111 14th Street NW, Suite 400 
+
+27 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  Now he, in  fact -- let's say  second 
+
+2  -- did not understand that he had a right to withdraw. 
+
+3
+
+4
+
+5
+
+6
+
+ MS. MOSSMAN:  Correct. 
+
+ QUESTION:  Now, is that the end of the thing? 
+
+ MS. MOSSMAN:  No, they -- then -­
+
+ QUESTION:  Ah, ah, where -- that's -- that's the 
+
+7  point.  Where in this opinion does  it say that's not the 
+
+8  end of the matter? 
+
+9
+
+ MS. MOSSMAN:  Well,  they do  go to the  fourth 
+
+10  prong.  They -­
+
+11
+
+ QUESTION:  No, no, not the fourth prong.  Where 
+
+12  does  it say  that's not the  end of the  matter under the 
+
+13  third prong? 
+
+14
+
+ You  see, I  could have  a  nontechnical matter. 
+
+15  Correct? 
+
+16
+
+17
+
+ MS. MOSSMAN:  Correct. 
+
+ QUESTION:  I could -- it could have  affected my 
+
+18  understanding,  but it  might be  that I  would  have pled 
+
+19  guilty anyway. 
+
+20
+
+21
+
+22
+
+23
+
+ MS. MOSSMAN:  Well, I think -­
+
+ QUESTION:  That's what's worrying me. 
+
+ MS. MOSSMAN:  But -­
+
+ QUESTION:  And  the most  obvious case is  where 
+
+24  the judge gives me the sentence I hoped for. 
+
+25
+
+ MS. MOSSMAN:  That is  the obvious case, Justice 
+
+1111 14th Street NW, Suite 400 
+
+28 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  Breyer, and that was Chan and they cite to that in Benitez 
+
+2  where they got  exactly the  sentence that they  bargained 
+
+3  for.  Therefore, the error is not minor or technical. 
+
+4
+
+ QUESTION:  Oh, I'm  sorry.  A terribly  minor, 
+
+5  terribly important error, terribly important.  Indeed, the 
+
+6  judge has  a whooping cough fit  and nothing comes  out of 
+
+7  his  mouth, but he  gives them  the sentence he  asks for. 
+
+8  Okay? 
+
+9
+
+10
+
+11
+
+ MS. MOSSMAN:  Yes. 
+
+ QUESTION:  What about that? 
+
+ MS. MOSSMAN:  Well, I  think what's coupled here 
+
+12  is  that  it  has  to be  knowing. 
+
+There  has  to be  a 
+
+13  knowingness and a  voluntariness.  And in  that situation, 
+
+14  if the -- if the defendant  knew that he was  possibly -­
+
+15  that the sentence that he bargained for was -­
+
+16
+
+ QUESTION:  No.  The -- he knew nothing.  The 
+
+17  defendant knew nothing.  It was a  major error.  He  just 
+
+18  got what he asked for. 
+
+19
+
+ MS. MOSSMAN:  We believe that is consistent.  He 
+
+20  -- he got what he -- if the sentence is less than he -- or 
+
+21  got  the  sentence that  he  bargained for,  where  is the 
+
+22  error? 
+
+23
+
+24
+
+25
+
+ QUESTION:  Of course. 
+
+ MS. MOSSMAN:  But the --
+
+ QUESTION:  Of course.  That's what's bothering 
+
+1111 14th Street NW, Suite 400 
+
+29 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  me. 
+
+2
+
+3
+
+ MS. MOSSMAN:  Because we're -­
+
+ QUESTION:  If in fact the major error -- and he 
+
+4  did not  understand  it 
+
+--  
+
+made  no  difference  to  the 
+
+5  outcome, then, says  the Government, he shouldn't  be able 
+
+6  to appeal it.  And  that's the  problem.  As  I read  the 
+
+7  Ninth Circuit, they didn't make that last statement. 
+
+8
+
+9
+
+ MS. MOSSMAN:  So if the -­
+
+ QUESTION:  And they want an -- do you agree with 
+
+10  them that they should have  an opportunity to go back  and 
+
+11  to say, judge, we want this client also to be able to show 
+
+12  it made no difference to  the outcome?  If you  agree with 
+
+13  that, that's the end of the case I think. 
+
+14
+
+ MS. MOSSMAN:  Justice Breyer, if they -- if it's 
+
+15  a major rule 11 error, it would not be minor or technical. 
+
+16  The analysis would -- would address that fact. 
+
+17
+
+ QUESTION:  Well, how -- how do you  know, just 
+
+18  from reading rule 11, which errors are minor and technical 
+
+19  and which aren't? 
+
+20
+
+ MS. MOSSMAN:  We  don't believe  all errors  in 
+
+21  rule 11 -­
+
+22
+
+ QUESTION:  How do you -- how do you  -- what's 
+
+23  your standard for telling the difference? 
+
+24
+
+ MS. MOSSMAN:  Well,  we think  -- Congress  has 
+
+25  enacted this and the full panoply of errors -­
+
+1111 14th Street NW, Suite 400 
+
+30 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+2
+
+ QUESTION:  Panoply. 
+
+ MS.  MOSSMAN: 
+
+--  
+
+of  rule 11  advisements are 
+
+3  important,  and  none  them  can  be considered  minor  or 
+
+4  technical --
+
+5
+
+6
+
+7
+
+ QUESTION:  So --
+
+ MS. MOSSMAN:  -- in and of themselves. 
+
+ QUESTION:  But  just a moment ago,  you said not 
+
+8  every  rule  11  violation  is  necessarily not  minor  or 
+
+9  technical.  You say it's -- you -- I thought you intimated 
+
+10  some of the could be. 
+
+11
+
+ MS. MOSSMAN:  It's  part of  the  analysis.  I 
+
+12  think you have to complete the analysis. 
+
+13
+
+ QUESTION:  Well, but  I'm trying to  get you to 
+
+14  answer  a rather  specific question.  How  do you  define 
+
+15  minor or technical? 
+
+16
+
+ MS. MOSSMAN:  Well, I think that was brought out 
+
+17  in  actually  the  advisory  committee  notes. 
+
+So,  for 
+
+18  instance, if  the -- if the  judge failed  to advise  the 
+
+19  defendant that  if he lies on the stand, he'd be subjected 
+
+20  to perjury charges.  That's  considered not a minor or 
+
+--
+
+21  that's  considered  basically  a  minor  or  technical 
+
+22  advisement. 
+
+23
+
+ Also, if there  was -- the judge  failed to cite 
+
+24  to  an  element  of  the  offense,  but  the  defendant 
+
+25  demonstrated  that he specifically  knew about  that, that 
+
+1111 14th Street NW, Suite 400 
+
+31 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  would not be considered minor or technical. 
+
+2
+
+ If  the  judge  misstates  a 
+
+--  
+
+the  maximum 
+
+3  sentence,  but  the defendant  receives a  sentence that's 
+
+4  substantially  lower,  that  was  considered  under  the 
+
+5  advisory committee notes basically -­
+
+6
+
+ QUESTION:  Did the -- did the advisory committee 
+
+7  purport to cover all possible minor or technical errors? 
+
+8
+
+ MS. MOSSMAN:  They were  just giving -- it was 
+
+9  illustrative I believe. 
+
+10
+
+11
+
+12
+
+ QUESTION:  Examples. 
+
+ MS. MOSSMAN:  Yes. 
+
+ QUESTION:  In  -- in assessing how  weighty this 
+
+13  particular lapse is,  should we take into account  that as 
+
+14  far  as  I know,  this  defendant has  never  said in  the 
+
+15  district court or  on appeal that he indeed wants to go to 
+
+16  trial. 
+
+17
+
+ MS. MOSSMAN:  It's our  position that I wouldn't 
+
+18  be here if he didn't want his plea vacated. 
+
+19
+
+ QUESTION: 
+
+But he 
+
+--  
+
+on -- on  -- the  plea 
+
+20  vacated is one thing. 
+
+21
+
+22
+
+ MS. MOSSMAN:  Well, we -­
+
+ QUESTION:  Because  then you have -- given that 
+
+23  he has three priors, his  sentence -- he was sentenced  at 
+
+24  the mandatory minimum.  How much better could he  do on a 
+
+25  resentencing?  So it's got to be he wants to go to a trial 
+
+1111 14th Street NW, Suite 400 
+
+32 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  because do  you agree  that if we  -- if  we just  say new 
+
+2  sentencing, he couldn't do any better given -­
+
+3
+
+ MS.  MOSSMAN: 
+
+Justice  Ginsburg,  it's  our 
+
+4  position  that this particular  defendant at  every single 
+
+5  proceeding, he  -- he expressed  his dissatisfaction  with 
+
+6  his counsel,  and the  respondent's second  letter to  the 
+
+7  court,  which is  at the  joint appendix,  number 96,  was 
+
+8  exactly  -- could be  construed, because  it was a  pro se 
+
+9  filing, as a motion to withdraw.  He asked for new counsel 
+
+10  to look at his case anew. 
+
+11
+
+ QUESTION:  But  that's not the question  I asked 
+
+12  you.  I  asked did he  ever say at  any stage, judge,  I'd 
+
+13  like to have a trial.  I want to plead not guilty. 
+
+14
+
+ MS.  MOSSMAN: 
+
+Justice  Ginsburg,  after  the 
+
+15  conference on  the substitution  of hearing,  a sentencing 
+
+16  date was -- was set, and this particular defendant did not 
+
+17  object to the -- to a trial date -- excuse  me -- a trial 
+
+18  date  was  set,  and  this  particular defendant  did  not 
+
+19  object.  His attorney made some comments  about maybe it's 
+
+20  not necessary. 
+
+21
+
+ QUESTION:  It's not  -- one thing not  to object 
+
+22  to a setting of  a trial date, but did this man ever say I 
+
+23  want to exercise my right to trial by jury? 
+
+24
+
+ MS. MOSSMAN:  His first statement to  the court 
+
+25  at that  substitution of -- of  counsel hearing was  at no 
+
+1111 14th Street NW, Suite 400 
+
+33 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  time have  I decided  to  go to  trial.  But  that's  not 
+
+2  conclusive.  He needed more -­
+
+3
+
+ QUESTION:  I thought he  was stronger than that. 
+
+4  I thought -- thought he had said at one point I don't want 
+
+5  to go to trial. 
+
+6
+
+ MS. MOSSMAN:  He never said that specifically or 
+
+7  definitively.  He said at no time have I decided not -­
+
+8
+
+ QUESTION:  But in any  case, if he -- if -- but 
+
+9  his concern is that his substantial rights or -- have been 
+
+10  violated.  And  the possible  effect  on the  outcome  is 
+
+11  relevant.  And my  question is  how could the  outcome be 
+
+12  affected if  he got  the mandatory  minimum?  He got  the 
+
+13  lowest  sentence that the law allowed the judge to impose. 
+
+14  So unless he wants to go to trial, he isn't harmed by what 
+
+15  happened.  And so I'm asking if there's any stage where he 
+
+16  said, I want to go to trial. 
+
+17
+
+ MS.  MOSSMAN:  This  particular defendant  made 
+
+18  requests  of his  attorney that  were not  brought  to the 
+
+19  court's  attention. 
+
+He  acted pro  se  in 
+
+--  
+
+in three 
+
+20  instances.  We -- the record is actually void  to know if 
+
+21  he -- and  he was actually silenced when he  wanted to ask 
+
+22  this -- the judge questions at his change of plea hearing. 
+
+23  He said I was asked -- I wanted to ask the judge questions 
+
+24  and  I  was silenced. 
+
+So the  record  is actually  void 
+
+25  specifically to answer your question.  We don't -­
+
+1111 14th Street NW, Suite 400 
+
+34 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  What was -- what was  the evidence in 
+
+2  the case?  What was  the evidence  against him?  What -­
+
+3  what did the Government have? 
+
+4
+
+ MS.  MOSSMAN:  Basically  his own confession and 
+
+5  two co-defendants.  He was caught by -- basically the deal 
+
+6  went down through a confidential informant. 
+
+7
+
+ QUESTION:  Would  -- would anybody in  his right 
+
+8  mind have wanted to go to trial? 
+
+9
+
+10
+
+ MS. MOSSMAN:  In our opening brief -­
+
+ QUESTION: 
+
+And  risk  getting  more  than  the 
+
+11  mandatory minimum? 
+
+12
+
+ MS.  MOSSMAN: 
+
+In  our  opening  brief,  we 
+
+13  completely briefed out the defense of entrapment, and this 
+
+14  is  brought  out  through  the -- the  language  of  this 
+
+15  defendant through the three letters that were submitted to 
+
+16  the court through his own pro se actions.  We believe that 
+
+17  he had a possible  defense of entrapment.  I was not  his 
+
+18  trial attorney.  So -­
+
+19
+
+ QUESTION:  But you  -- you  have looked  at the 
+
+20  cases on entrapment. 
+
+21
+
+22
+
+ MS. MOSSMAN:  Yes. 
+
+ QUESTION:  And if you've got  a predisposition, 
+
+23  you don't have much of a prayer on a entrapment claim. 
+
+24
+
+ QUESTION:  And  he had three  priors.  Were -­
+
+25  were  the  three priors  of  the  same 
+
+--  
+
+same  line  of 
+
+1111 14th Street NW, Suite 400 
+
+35 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  commerce? 
+
+2
+
+ MS. MOSSMAN:  No, they were  not.  No,  they -­
+
+3  they were not, Justice Scalia. 
+
+4
+
+ QUESTION:  If -- if  you were to prevail and  he 
+
+5  were to have a trial and be convicted, could he get a more 
+
+6  lengthy  sentence  or  would  that  raise  problems  of 
+
+7  vindictive  prosecution? 
+
+Would  failure  to  accept 
+
+8  responsibility be a ground for an increase? 
+
+9
+
+ MS. MOSSMAN:  I don't think that would be fair. 
+
+10  He has a fundamental right to go to trial. 
+
+11
+
+12
+
+13
+
+ QUESTION:  That's not --
+
+ MS. MOSSMAN:  Also, the -­
+
+ QUESTION:  My question is can  he get -- if he 
+
+14  gets a new trial, can he get an increased sentence? 
+
+15
+
+ MS.  MOSSMAN: 
+
+It's  possible,  but 
+
+--  
+
+it's 
+
+16  possible, Your -- Justice Kennedy. 
+
+17
+
+ QUESTION:  There's 
+
+--  
+
+there's  no  vindictive 
+
+18  prosecution problem? 
+
+19
+
+ MS. MOSSMAN:  There possibly  is.  I mean, I 
+
+--
+
+20  he would not get the  acceptance of responsibility points, 
+
+21  but that -- but the  acceptance of responsibility  points 
+
+22  doesn't make  the -- the bottom  line here because  of the 
+
+23  mandatory minimum.  So he still would be looking at a 10­
+
+24  year mandatory  minimum, even  if  he went  to trial,  and 
+
+25  often  defendants  that  go  to  trial  on  these  drug 
+
+1111 14th Street NW, Suite 400 
+
+36 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  convictions do get the  mandatory minimum, irregardless if 
+
+2  they  have gone to  trial or  -- and even  irregardless if 
+
+3  they don't get the acceptance of responsibility points. 
+
+4
+
+ QUESTION:  Let  me 
+
+--  
+
+let  me  ask  you  this 
+
+5  question.  You argue for a subjective test in a context in 
+
+6  which the defendant can't take  the stand to say what  his 
+
+7  understanding was.  That doesn't make  a lot of  sense to 
+
+8  me. 
+
+9
+
+ MS. MOSSMAN:  Well,  defendants plead guilty for 
+
+10  all types of reasons.  We don't know what's in the mind of 
+
+11  defendants. 
+
+12
+
+ QUESTION:  No, no.  But you're saying  that you 
+
+13  want a  subjective test.  You  want -- you want  to defend 
+
+14  the Ninth  Circuit which said  the question is  whether or 
+
+15  not he knew  that he had this specific burden, that he was 
+
+16  waiving the specific right the minute he entered the plea. 
+
+17  And you want a  -- a test to say that  he didn't, in fact, 
+
+18  know that.  And yet, we can't put him on the stand.  That 
+
+19  -- that seems to me an odd test. 
+
+20
+
+21
+
+22  system. 
+
+ MS. MOSSMAN:  Well -­
+
+ QUESTION:  An  odd -- an odd  way  to run  the 
+
+23
+
+ MS. MOSSMAN:  I think it's important  to see if 
+
+24  the -- this implicates the constitutional principles under 
+
+25  the  Due  Process Clause. 
+
+It has  to  be a  knowing and 
+
+1111 14th Street NW, Suite 400 
+
+37 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  voluntary plea.  That is  a subjective test.  That's  sort 
+
+2  of built into the rule 11 -­
+
+3
+
+ QUESTION:  But  the Ninth Circuit didn't  follow 
+
+4 
+
+--  
+
+didn't  find  that  his  plea  was  involuntary  in  a 
+
+5  constitutional sense. 
+
+6
+
+ MS.  MOSSMAN:  Excuse  me,  Chief -- Mr. Chief 
+
+7  Justice.  They did  under the fourth prong of Olano.  They 
+
+8 
+
+--  
+
+the  actual  citation  would  have  been  he  did  not 
+
+9  understand  the -- the consequences  of his plea, which is 
+
+10  therefore not voluntary. 
+
+11
+
+ QUESTION: 
+
+Did 
+
+--  
+
+did  they  say  it  was  a 
+
+12  constitutionally invalid plea? 
+
+13
+
+14
+
+ MS. MOSSMAN:  They cited to Graibe. 
+
+ QUESTION: 
+
+Ms.  Mossman,  you've  been  asked 
+
+15  questions by several  different members  of the Court  and 
+
+16  you don't  seem to really respond  to the questions.  I'm 
+
+17  asking you a very specific question now. 
+
+18
+
+ MS. MOSSMAN:  Yes, Your Honor.  They cited  to 
+
+19  Graibe with cites to the Constitution. 
+
+20
+
+ QUESTION:  I'm  rather confused because  are -­
+
+21  where -- there -- there  are two kinds of questions  we've 
+
+22  been  discussing.  One is whether  in fact, if he had been 
+
+23  told specifically,  what he  was supposed  to be  told, he 
+
+24  would  then  have  withdrawn  his  guilty  plea. 
+
+That's 
+
+25  question one.  And most  of what we've been talking  about 
+
+1111 14th Street NW, Suite 400 
+
+38 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  is that. 
+
+2
+
+ But  I  thought  we're actually  here  to  ask a 
+
+3  different question and the different question is I thought 
+
+4  the Ninth Circuit -- and I did think that from reading its 
+
+5  opinion 
+
+--  
+
+said  what  we've  just been  discussing  has 
+
+6  nothing to do with the matter. 
+
+7
+
+8
+
+ MS. MOSSMAN:  Yes. 
+
+ QUESTION:  All that -- all  that the person has 
+
+9  to  show is that  he didn't  understand his rights.  Now, 
+
+10  what do you think about that question? 
+
+11
+
+12
+
+ MS. MOSSMAN:  I think, Justice Breyer -­
+
+ QUESTION:  So let's assume  -- it's  absolutely 
+
+13  clear.  They can come in  with 52 bishops who are prepared 
+
+14  to swear that  if he had understood  everything perfectly, 
+
+15  he nonetheless would have gone ahead and pled guilty.  But 
+
+16  it's also clear he did not understand his rights.  Okay? 
+
+17
+
+18
+
+19
+
+ MS. MOSSMAN:  Yes. 
+
+ QUESTION:  What's supposed to happen? 
+
+ MS. MOSSMAN:  If he -- is he  alleging a rule 11 
+
+20  violation? 
+
+21
+
+ QUESTION:  Oh, there -- look, what happened was 
+
+22  the judge  never told him that you're stuck with your plea 
+
+23  if I  don't give you what  you think you're  going to get. 
+
+24  He never told  him that.  It's  clear in rule  11 he  was 
+
+25  supposed to.  And now, in addition, we know for  sure that 
+
+1111 14th Street NW, Suite 400 
+
+39 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  this person  didn't understand that.  But we also know for 
+
+2  sure it  made  not one  whit of  difference  to his  plea. 
+
+3  What's supposed to happen? 
+
+4
+
+ MS.  MOSSMAN: 
+
+Justice Breyer,  this  is  -- I 
+
+5  believe  you're  talking  about  a  motivated  pleader,  a 
+
+6  pleader that was --
+
+7
+
+ QUESTION:  I'm talking  what I  think is  about 
+
+8  this case. 
+
+9
+
+10
+
+ MS. MOSSMAN:  This case. 
+
+ QUESTION:  Yes.  I think as  it's presented in 
+
+11  the  questions  presented  and  in  the opinion  that  was 
+
+12  written by the Ninth Circuit.  Now, I might be  wrong and 
+
+13  you  could explain to me  why I'm not.  But -- but in any 
+
+14  case,  if  you  think  that  might  be  this  case  that's 
+
+15  presented here,  I -- in the Ninth Circuit opinion, I'd -­
+
+16  I'd like an answer or your best answer. 
+
+17
+
+ MS. MOSSMAN:  I -- Justice, if I can answer your 
+
+18  question, it's  the -- a defendant  that's caught in  the 
+
+19  justice -- a  criminal justice  labyrinth  and he 
+
+--  
+
+he 
+
+20  doesn't understand,  he doesn't  understand the  language, 
+
+21  he's not  confident in his counsel, and he believes he can 
+
+22  withdraw his plea.  Is that correct? 
+
+23
+
+ QUESTION:  Yes.  But  in fact, we know he  never 
+
+24  would have.  We know it for sure. 
+
+25
+
+ MS. MOSSMAN:  But he -- he should -­
+
+1111 14th Street NW, Suite 400 
+
+40 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  He's written  secret letters  to his 
+
+2  relations --
+
+3
+
+4
+
+ (Laughter.) 
+
+ QUESTION:  -- and whatever.  Do it in any  sort 
+
+5  you want, but -- but I mean, that's -- that's a little bit 
+
+6  of a technical matter  here.  But  I did think in  reading 
+
+7  the  Ninth Circuit  opinion and  reading  the Government's 
+
+8  brief, that that's what they're  worried about, that there 
+
+9  could be  cases where he does not understand the nature of 
+
+10  that rule 11 right, but nonetheless it makes no difference 
+
+11  to his decision to plead guilty. 
+
+12
+
+ So that -- that's a  bit of  a technical  point 
+
+13  here,  I agree. 
+
+But  as I  read  the  Ninth Circuit,  I 
+
+14  thought, well,  that's what's going on in this case.  Now, 
+
+15  you could  explain to me, if you want, that I'm completely 
+
+16  out to lunch, so to speak. 
+
+17
+
+ MS. MOSSMAN:  Well, Justice  Breyer, if he  was 
+
+18  motivated to  plead guilty and there  was an error  in the 
+
+19  rule 11 colloquy and he had the opportunity to replead, he 
+
+20  could replead  to another type of plea agreement, a C plea 
+
+21  agreement.  He  could ask for different  provisions within 
+
+22  that -- that plea agreement, for instance, less supervised 
+
+23  release.  He could ask for a type C plea agreement. 
+
+24
+
+ QUESTION:  Why -- why  would they  give him  a 
+
+25  better deal the second time  around?  I mean, they'd  say, 
+
+1111 14th Street NW, Suite 400 
+
+41 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  you know,  okay, we forgot to  tell you that  you couldn't 
+
+2  withdraw it.  We now tell you you can't withdraw it.  And 
+
+3  we offer you the same deal we  offered you last time.  Why 
+
+4  -- why would he get a better deal? 
+
+5
+
+ MS.  MOSSMAN: 
+
+Well,  he  would 
+
+--  
+
+if  he's 
+
+6  motivated to plea -­
+
+7
+
+ QUESTION:  In fact, they  might -- they might be 
+
+8  mad at him for having backed  out and -- and not give  him 
+
+9  as good a deal.  But I can't imagine that he'd -- he'd get 
+
+10  a better deal the second time around. 
+
+11
+
+ MS. MOSSMAN:  Justice Scalia, I believe he would 
+
+12  have  an  opportunity  to  renegotiate  or  he  could  be 
+
+13  repleading to the -- and have confidence in the process. 
+
+14
+
+ QUESTION:  What leverage  does he  have?  What 
+
+15  leverage  does he  have when he's  faced with  a mandatory 
+
+16  minimum that  he can't  escape from  and that's  what he's 
+
+17  got? 
+
+I -- I  can't 
+
+--  
+
+could you  describe  for  this 
+
+18  defendant what that better deal would be? 
+
+19
+
+ MS.  MOSSMAN: 
+
+Justice Ginsburg,  it  possibly 
+
+20  could be  less time on supervised release, less time -- or 
+
+21  -- or actually a type C plea agreement instead of the type 
+
+22  plea agreement.  You're correct in saying they  might not 
+
+23  offer him that type, but 95 percent of criminal -- Federal 
+
+24  criminal  convictions go  by  way  of  guilty pleas. 
+
+So 
+
+25  they're going to offer him something. 
+
+1111 14th Street NW, Suite 400 
+
+42 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  But how could -- could he escape from 
+
+2  the mandatory  minimum in  any way  other  than what  they 
+
+3  thought might work here, this so-called safety valve? 
+
+4
+
+ MS. MOSSMAN:  The mandatory minimum just becomes 
+
+5  the bottom line then. 
+
+6
+
+ QUESTION:  And  that's what  he got, and  that's 
+
+7  why I can't understand any better deal that this defendant 
+
+8  might have received. 
+
+9
+
+ MS. MOSSMAN:  Well, Justice Ginsburg,  he could 
+
+10  have confidence in the plea proceeding  if it was -- if he 
+
+11  was given the full panoply of his -­
+
+12
+
+ QUESTION:  You'd do  it all over again  with the 
+
+13  same bottom line, but he's  going to feel better about  it 
+
+14  the second time? 
+
+15
+
+ MS. MOSSMAN:  Possibly, yes.  I mean, maybe that 
+
+16  means something to this motivated pleader. 
+
+17
+
+ QUESTION:  Well, I'd like to ask you  a question 
+
+18  that I asked Mr. Himmelfarb and that it seemed puzzling to 
+
+19  me that the safety valve which everyone  hoped would allow 
+
+20  a sentence below  the mandatory  minimum could never  work 
+
+21  from day one because he had two additional prior offenses. 
+
+22  Now, if anyone knew about those priors, which were under a 
+
+23  different  name,  which  is  why  they  weren't  found 
+
+24  immediately, certainly the defendant knew. 
+
+25
+
+ MS.  MOSSMAN: 
+
+Yes,  Justice  Ginsburg,  the 
+
+1111 14th Street NW, Suite 400 
+
+43 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  defendant knew,  but it was confirmed on the record by the 
+
+2  district court judge  that he actually fully  disclosed to 
+
+3  his attorney  his priors.  This  was brought  out in  the 
+
+4  record at the sentencing hearing,  and the judge confirmed 
+
+5  this.  And so to talk about -­
+
+6
+
+ QUESTION:  So his -- his attorney  knew that he 
+
+7  was disqualified for this plea? 
+
+8
+
+ MS. MOSSMAN:  This -- it was  confirmed.  The 
+
+9  defendant  said I  completely disclosed  everything to  my 
+
+10  attorney.  I  -- I don't understand what's going  on.  The 
+
+11  points weren't explained to  me.  The safety valve  wasn't 
+
+12  explained to me.  This  was brought out in the  sentencing 
+
+13  transcript that -- that his priors were confirmed. 
+
+14
+
+ QUESTION: 
+
+That  they were  confirmed,  but at 
+
+15  what --
+
+16
+
+17
+
+18
+
+ MS. MOSSMAN:  He exposed -­
+
+ QUESTION:  -- at what point in time? 
+
+ MS.  MOSSMAN:  He  exposed his prior convictions 
+
+19  to his attorney.  This is what brought this -- Mr. Benitez 
+
+20  to  confusion,  and  this was  articulated  in 
+
+--  
+
+in the 
+
+21  sentencing transcript. 
+
+22
+
+23
+
+ QUESTION:  Which we don't have or do we have it? 
+
+ MS.  MOSSMAN: 
+
+Yes, you  do. 
+
+The sentencing 
+
+24  transcript is at joint appendix 104. 
+
+25
+
+ QUESTION:  And could -- could you point to that 
+
+1111 14th Street NW, Suite 400 
+
+44 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  place where it says that  before he made this deal,  which 
+
+2  invoked the safety valve, he  had told his counsel that  I 
+
+3  have three -­
+
+4
+
+ MS. MOSSMAN:  It's at  -- Justice Ginsburg, it's 
+
+5  at page 109.  If I may read for the Court. 
+
+6
+
+7
+
+ QUESTION:  Yes. 
+
+ MS. MOSSMAN:  The Defendant:  I never felt that 
+
+8  I had  the proper representation,  the way it  should have 
+
+9  been in my case. 
+
+10
+
+ From the beginning,  I never  had any  knowledge 
+
+11  about the points  of responsibility, the safety  valve, or 
+
+12  anything like that.  I  honestly, from  the beginning,  I 
+
+13  accepted through my -- responsibility through my attorney, 
+
+14  but he never paid any attention to me, what I had told him 
+
+15  about  the  problem that  I  had.  I  told  him from  the 
+
+16  beginning that I had a  problem, that I was attending  the 
+
+17  program.  And at the end,  he told me that I -- allegedly 
+
+18  that  I had never told him, that  I had never notified him 
+
+19  of it. 
+
+20
+
+ I never hid anything in my case about the things 
+
+21  that I have  done.  Everything  I said -- I have said 
+
+--
+
+22  everything I said -- I have said has always been the truth 
+
+23  and the reasons why I did it.  And I have always asked for 
+
+24  another chance.  I've always asked him for an  opportunity 
+
+25  to meet  with the government and he  never wanted me to do 
+
+1111 14th Street NW, Suite 400 
+
+45 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  that. 
+
+2
+
+ QUESTION:  I don't see where he said, I told my 
+
+3  lawyer that I had three prior convictions. 
+
+4
+
+ MS.  MOSSMAN: 
+
+He's  trying  to  say,  Justice 
+
+5  Ginsburg, that  I never hid anything  and then -- from my 
+
+6  attorney about this case. 
+
+7
+
+ And then  the -- the  judge goes on  to question 
+
+8  him. 
+
+9
+
+ QUESTION:  Well, that's all right.  I don't want 
+
+10  to intrude on -- on your time. 
+
+11
+
+ MS. MOSSMAN:  It's -- I -- I think  it's on page 
+
+12  110. 
+
+13
+
+ So what  you're -- the Court:  So what  you're 
+
+14  indicating you believe everyone  knew about your  criminal 
+
+15  history.  Is that what you're saying? 
+
+16
+
+ The Defendant:  Well,  from the  very beginning 
+
+17  when he went -- when he came  to see me, I explained it to 
+
+18  him. 
+
+19
+
+20
+
+ The Court:  I understand. 
+
+ So  what  you're indicating  to  me is  that you 
+
+21  believe from the beginning you had  disclosed that you had 
+
+22  a criminal record.  Is that right? 
+
+23
+
+24
+
+25
+
+ The Defendant:  Yes. 
+
+ So he -­
+
+ QUESTION:  And the  trial judge  told him,  you 
+
+1111 14th Street NW, Suite 400 
+
+46 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  know, if you don't qualify, I might give you 10 years.  Do 
+
+2  you understand that?  And he says, yes. 
+
+3
+
+4
+
+ MS. MOSSMAN:  Yes. 
+
+ QUESTION: 
+
+And  he says,  knowing  you  have a 
+
+5  mandatory minimum, I  have to give you  10 years.  Do  you 
+
+6  still want to go forward with your plea?  He says, yes. 
+
+7
+
+8
+
+ MS. MOSSMAN:  Yes, correct, but this -­
+
+ QUESTION:  So it's pretty hard to argue  that -­
+
+9  I mean -- go ahead. 
+
+10
+
+ MS. MOSSMAN:  Justice Breyer, but this defendant 
+
+11  -- it's not clear that he  did not know that he could  not 
+
+12  withdraw his  plea.  He was under the impression, which is 
+
+13  common sense  impression, that he -- if -- if  he doesn't 
+
+14  get the sentence  that he -- that he asked for,  he could 
+
+15  withdraw his plea. 
+
+16
+
+ QUESTION:  Well, how -- how could he  have had 
+
+17  that  when the  thing  in the  plea  agreement itself  was 
+
+18  explained to him in Spanish saying that he couldn't? 
+
+19
+
+ MS. MOSSMAN:  Mr. Chief Justice, our  contention 
+
+20  is  that the -- the fact that the plea agreement wasn't in 
+
+21  Spanish is fatal here because  his attorney couldn't speak 
+
+22  Spanish. 
+
+23
+
+ QUESTION:  Well, but  there was  an interpreter 
+
+24  there. 
+
+25
+
+ MS. MOSSMAN:  But his  -- his attorney didn't -­
+
+1111 14th Street NW, Suite 400 
+
+47 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  if his attorney  couldn't speak  Spanish, he doesn't  know 
+
+2  exactly what the interpreter is saying. 
+
+3
+
+ QUESTION:  Well, the  interpreter can presumably 
+
+4  speak English. 
+
+5
+
+ MS.  MOSSMAN: 
+
+The 
+
+--  
+
+well,  there  was  a 
+
+6  contention here between  the defendant and his  counsel in 
+
+7  numerous instances before the court.  He expressed to the 
+
+8  court that he  couldn't communicate with his  attorney and 
+
+9  the prosecution knew about this.  They also characterized 
+
+10  the case  as -- under paralysis,  and yet they  still gave 
+
+11  this defendant -­
+
+12
+
+ QUESTION:  This is new to me.  I -- I didn't see 
+
+13  any -- any indication in your briefs or in the record that 
+
+14  he claims he was never told by the interpreter.  I thought 
+
+15  it  was  -- I  thought  it  was  common  ground  that  the 
+
+16  interpreter  had  correctly  explained  the  written  plea 
+
+17  agreement to him.  You're now saying that he contends that 
+
+18  he was deceived as to the meaning of the plea agreement? 
+
+19
+
+ MS.  MOSSMAN:  No,  Justice Scalia,  we're  not 
+
+20  contending that,  but we agree with the Ninth Circuit that 
+
+21  the plea agreement in and of itself  in -- in this case is 
+
+22  not conclusive of understanding. 
+
+23
+
+ QUESTION:  Because?  Because?  Because the plea 
+
+24  agreement was read to him in Spanish.  Is that right? 
+
+25
+
+ MS. MOSSMAN:  That's part of it, Justice Breyer, 
+
+1111 14th Street NW, Suite 400 
+
+48 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  yes. 
+
+2
+
+3
+
+4
+
+ QUESTION:  That is right. 
+
+ MS. MOSSMAN:  Yes, but also -­
+
+ QUESTION:  All right.  The plea -- so he  hears 
+
+5  in  Spanish someone  read  to him  the  words, you  cannot 
+
+6  withdraw your plea  agreement -- cannot withdraw if  they 
+
+7  don't accept it.  And that's conceded in  this case.  Is 
+
+8  that right? 
+
+9
+
+10
+
+11
+
+ MS. MOSSMAN:  Yes, it -- this was -­
+
+ QUESTION:  Okay. 
+
+ Then  afterwards  the  judge  tells  him,  in 
+
+12  addition, if -- has anyone explained to you that -- do you 
+
+13  understand that  if you -- that  if you don't  qualify for 
+
+14  the safety valve, you go for 10 years.  Yes. 
+
+15
+
+ Has anyone promised you you will qualify for the 
+
+16  safety valve?  No. 
+
+17
+
+18
+
+ So you realize you could get 10 years.  Yes. 
+
+ All  right?  Knowing that,  you still want to go 
+
+19  ahead with your guilty plea?  Yes. 
+
+20
+
+ MS.  MOSSMAN: 
+
+Our 
+
+--  
+
+Justice  Breyer,  our 
+
+21  position is consistent with the Ninth  Circuit that he was 
+
+22  under an  expectation,  a  highly 
+
+--  
+
+a  highly 
+
+--  
+
+high 
+
+23  expectation that he  would -- would get  the safety valve, 
+
+24  and like  the Ninth Circuit said,  he had no  incentive to 
+
+25  read  or  double  check  the  provisions within  the  plea 
+
+1111 14th Street NW, Suite 400 
+
+49 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  agreement himself.  And this -- this -­
+
+2
+
+ QUESTION:  I thought  one -- one of your  points 
+
+3  was  that this was  a rather  long agreement and  this was 
+
+4  paragraph 19. 
+
+5
+
+ MS. MOSSMAN:  Yes, Justice  Ginsburg, that  was 
+
+6  going to be  my next point.  This  provision was buried in 
+
+7  the  plea  agreement  and one  doesn't  know,  because his 
+
+8  counsel couldn't  -- doesn't speak Spanish.  If he  -- if 
+
+9  the  -- if  the interpreter  inadvertently misstated  that 
+
+10  provision -­
+
+11
+
+ QUESTION:  I -- I didn't  know  that you  were 
+
+12  claiming that this hadn't been an accurate translation. 
+
+13
+
+14
+
+ MS. MOSSMAN:  We -­
+
+ QUESTION:  I thought your -- your point was that 
+
+15  it was a  lot to absorb without  having a written  copy to 
+
+16  follow. 
+
+17
+
+ MS. MOSSMAN:  In our -- Justice Ginsburg, in our 
+
+18  opposition  to the petition for  writ of certiorari, we -­
+
+19  we  claimed  that that  point,  that -- that  we have  no 
+
+20  certainty  because  there  was  not  a transcript  of  the 
+
+21  Spanish interpretation. 
+
+22
+
+ QUESTION:  Did  you claim that before  the Ninth 
+
+23  Circuit? 
+
+24
+
+25
+
+ MS. MOSSMAN:  Yes, Mr. Chief Justice. 
+
+ QUESTION: 
+
+Did the  Ninth  -- did  the opinion 
+
+1111 14th Street NW, Suite 400 
+
+50 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  reflect that at all in the Ninth Circuit? 
+
+2
+
+3
+
+ MS. MOSSMAN:  Yes. 
+
+ QUESTION:  That -- that  you said that it was  a 
+
+4  not a correct translation? 
+
+5
+
+6
+
+7
+
+8
+
+9
+
+ MS. MOSSMAN:  They -- yes -­
+
+ QUESTION:  Did it or did it not? 
+
+ MS. MOSSMAN:  Yes. 
+
+ QUESTION:  Whereabouts? 
+
+ MS.  MOSSMAN:  I can read -- excuse me, if I may 
+
+10  correct myself, Mr. Chief Justice. 
+
+11
+
+12
+
+ QUESTION:  Yes, please do. 
+
+ MS. MOSSMAN:  They didn't say that it was not a 
+
+13  correct  translation,  but  they  did  hold  it  as  not 
+
+14  conclusive.  And they state  that in their  decision when 
+
+15  they say that Mr. --
+
+16
+
+ QUESTION:  Well, finish.  Go ahead.  Finish the 
+
+17  rest of your argument. 
+
+18
+
+19
+
+20
+
+21
+
+ MS. MOSSMAN:  Just move on? 
+
+ QUESTION:  Yes, please. 
+
+ MS. MOSSMAN:  Okay. 
+
+ I'd  just like  to  say  that  the  Government's 
+
+22  burden is -- the Government's  test, the prejudice  test, 
+
+23  the but-for test, is asking  this defendant to go back  in 
+
+24  time  and to prove  a counter-factual.  It's not  in this 
+
+25  record, that if not for the error, he would not  have pled 
+
+1111 14th Street NW, Suite 400 
+
+51 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  guilty.  That's a very heavy burden here.  And we believe 
+
+2  it  emasculates  the  knowing  requirements  and  makes 
+
+3  awareness of the consequences of the plea irrelevant.  And 
+
+4  the -- a defendant, if he does not understand the scope of 
+
+5  the prosecution's  promise, he cannot  evaluate the  risks 
+
+6  inherent in the type of plea agreement that he's  signing. 
+
+7  We think that's  critical.  The Ninth  Circuit agreed that 
+
+8 
+
+--  
+
+that the rule  11(e)(2) warning  and the type  of plea 
+
+9  agreement that  this particular defendant entered  into is 
+
+10  highly critical  and affords a high degree of risk to this 
+
+11  defendant  because  it  couldn't  withdraw. 
+
+And  it's 
+
+12  counterintuitive  to  enter  into  an  agreement  when you 
+
+13  understand that one  party could  withdraw, to think  that 
+
+14  you can't. 
+
+15
+
+ That's why the  Congress has asked -- has asked 
+
+16  that  this  warning  be  expressly made  in  the  rule  11 
+
+17  colloquy, that if we -- if I -- I -- I'm not bound by the 
+
+18  recommendation.  The judge has  said I'm not bound by  the 
+
+19  recommendations, but you cannot withdraw if I  do not give 
+
+20  you the sentence that  you bargained for because that's  a 
+
+21  counterintuitive understanding.  I  believe Justice Scalia 
+
+22  was getting at this when he talked to Mr. Himmelfarb. 
+
+23
+
+ And in closing, I'd just  like to say this Court 
+
+24  should adhere  to the Olano prejudice test  and reject the 
+
+25  Government's  invitation  to  adopt  a  but-for,  highly 
+
+1111 14th Street NW, Suite 400 
+
+52 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  prejudiced, highly burden  -- excuse  me -- strict  bright 
+
+2  line ruling  test.  And this Court should affirm the Ninth 
+
+3  Circuit's result, but if they do not -­
+
+4
+
+5
+
+6
+
+7
+
+8
+
+ QUESTION:  Thank you, Ms. Mossman. 
+
+ Mr. Himmelfarb, you have 5 minutes remaining. 
+
+ REBUTTAL ARGUMENT OF DAN HIMMELFARB 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR.  HIMMELFARB: 
+
+Unless  there  are  further 
+
+9  questions, we'll waive rebuttal. 
+
+10
+
+ QUESTION:  Well,  I do have a question.  I -- I 
+
+11  think that  her strongest point there  is that he  said in 
+
+12  the later sentencing hearing that he told his lawyer about 
+
+13  the priors.  Now, if that's  true, the lawyer  would have 
+
+14  known immediately he couldn't qualify for the safety valve 
+
+15  and  would have told  him this  whole agreement is  a joke 
+
+16  because  the judge  doesn't  have the  power  to give  you 
+
+17  anything less than 10 years. 
+
+18
+
+ So if -- if that's true, she must have some kind 
+
+19  of a claim. 
+
+20
+
+ MR.  HIMMELFARB:  He  may  have an  ineffective 
+
+21  assistance of counsel claim -­
+
+22
+
+23
+
+ QUESTION:  An ineffective assistance claim. 
+
+ MR.  HIMMELFARB:  -- Justice  Breyer, which  he 
+
+24  would  be -- which  he  would have  to  raise  in a  2255 
+
+25  proceeding.  But the plain  error rule should not be  used 
+
+1111 14th Street NW, Suite 400 
+
+53 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  to deal with that type of problem. 
+
+
+2
+
+ CHIEF  JUSTICE  REHNQUIST: 
+
+Thank  you,  Mr.
+
+
+3  Himmelfarb.
+
+
+4
+
+5
+
+ The case is submitted.
+
+
+ (Whereupon,  at  11:02  a.m.,  the  case  in the
+
+
+6  above-entitled matter was submitted.)
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+11
+
+
+12
+
+
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+1111 14th Street NW, Suite 400 
+
+54
+
+
+Alderson Reporting Company
+
+
+Washington, DC 20005 
+
+

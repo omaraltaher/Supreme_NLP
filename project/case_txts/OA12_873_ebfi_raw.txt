@@ -1,0 +1,8609 @@
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+LEXMARK INTERNATIONAL, INC., 
+
+    
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 12­873 
+
+ v. 
+
+                       
+
+: 
+
+STATIC CONTROL COMPONENTS, INC. 
+
+ 
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Tuesday, December 3, 2013 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:14 a.m. 
+
+APPEARANCES: 
+
+STEVEN B. LOY, ESQ., Lexington, Kentucky; on behalf of 
+
+ Petitioner. 
+
+JAMESON R. JONES, ESQ., Denver, Colorado; on behalf of 
+
+ Respondent. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+STEVEN B. LOY, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+3 
+
+ORAL ARGUMENT OF 
+
+JAMESON R. JONES, ESQ. 
+
+ On behalf of the Respondent 
+
+                    
+
+24 
+
+REBUTTAL ARGUMENT OF 
+
+STEVEN B. LOY, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+49 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (11:14 a.m.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We will hear 
+
+argument next this morning in Case 12­873, Lexmark 
+
+International v. Static Control Components. 
+
+ Mr. Loy. 
+
+ ORAL ARGUMENT OF STEVEN B. LOY 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. LOY: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ The standing trust for antitrust adopted by 
+
+this Court 30 years ago in AGC is the appropriate test 
+
+to give effect to Congress's intent under the Lanham 
+
+Act, and this is for three reasons. 
+
+ First, the plain text of the Lanham Act at 
+
+Section 45 states that the intent of that Act is to 
+
+protect commercial actors against unfair competition. 
+
+Competition generally is the focus of both antitrust 
+
+statutes and the Lanham Act, and any test that this 
+
+Court adopts should be tied to that statutory intent 
+
+section. 
+
+ Second, the history in the common law of 
+
+both antitrust statutes and the Lanham Act are similar. 
+
+In fact, in the Lanham Act context, the common law was 
+
+more specific and more direct than it was under the 
+
+3
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+antitrust statutes. 
+
+ And, finally, each of the five ­­
+
+ JUSTICE SCALIA: 
+
+The Lanham Act goes well 
+
+beyond the common law, doesn't it? 
+
+ MR. LOY: 
+
+The ­­ the Lanham Act provides 
+
+some causes of action that are beyond the common law. 
+
+We think the prudential standing considerations that 
+
+were in place at common law or at least should guide the 
+
+Court in determining what Congress intended to do by 
+
+it ­­
+
+ JUSTICE SCALIA: 
+
+Okay.  But that would be a 
+
+lot stronger if ­­ if you said the Lanham Act merely, as 
+
+the Sherman Act was supposed to have done, merely 
+
+adopted the common law.  The Lanham Act doesn't merely 
+
+adopt the common law.  It goes well beyond it. 
+
+ MR. LOY: 
+
+I think there are two components 
+
+to the common law and ­­ and we'll ­­ and I'll talk now 
+
+about the most general component, and that are 
+
+considerations of proximate cause and foreseeability 
+
+that were in place when the Sherman and Tate Acts were 
+
+enacted. 
+
+ Those are general propositions that apply 
+
+to ­­ to any, at least, Federal statutory cause of 
+
+action and would also apply then to the Lanham Act.  And 
+
+the AGC factors address those prudential standing 
+
+1 
+
+2
+
+3
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+requirements about specifically asking about proximate 
+
+cause factors. 
+
+ The very first question that AGC asks is: 
+
+Is this the type of injury Congress intended to address? 
+
+It's a logical question and should be asked 
+
+appropriately in any Federal statutory cause of action. 
+
+ The second factor ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Tell me why the answer 
+
+to that question doesn't end this case here?  You're 
+
+disparaging the goods of a person.  You're saying that 
+
+it's illegal to use that person's products.  It seems to 
+
+me that's the essence of the Lanham Act, as it's now 
+
+written. 
+
+ MR. LOY: 
+
+Two points.  First, we can talk 
+
+about the ­­ the alleged false advertisements in this 
+
+case.  The first alleged false advertisement by Lexmark 
+
+was to Lexmark's customers, saying that you're bound by 
+
+this or use restriction on our cartridges.  That 
+
+advertisement does not mention Static Control at all. 
+
+ The second alleged false ­­
+
+ JUSTICE SCALIA: 
+
+It doesn't mention what at 
+
+all?  It doesn't ­­
+
+ MR. LOY: 
+
+It does not mention Static Control 
+
+at all, the Respondent. 
+
+ The second alleged misrepresentation were 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23
+
+24 
+
+25
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+letters written to remanufacturers, saying to the 
+
+remanufacturers, if you remanufacture ­­ remanufacture 
+
+our cartridges, you will violate our rights, including 
+
+if you use Static Control's products to do it. 
+
+ Beyond that, though, the question of target 
+
+is not a test.  It's a conclusion.  And, in AGC, this 
+
+Court, in the antitrust context, rejected a test for 
+
+antitrust standing called the target area test.  In 
+
+Conte Brothers, the Third Circuit decision that first 
+
+adopted the AGC test in the Lanham Act also did not 
+
+adopt a target area test. 
+
+ And so, for that reason, we think the 
+
+factors that AGC lays out are the appropriate factors to 
+
+determine antitrust standing in any given case. 
+
+ JUSTICE ALITO: 
+
+I ­­ I assume you would 
+
+agree that the manufacturer of the cartridges that 
+
+compete with Lexmark would have standing here. 
+
+ MR. LOY: 
+
+And, in fact, in this case, they 
+
+did have standing.  And one of the remanufacturers 
+
+asserted a false advertising claim against Lexmark 
+
+related to the Prebate program. 
+
+ JUSTICE ALITO: 
+
+But it's not a very big step 
+
+from the manufacturer of the cartridge that competes to 
+
+the manufacturer of the chip, which is really the 
+
+essential component of ­­ or an essential component of 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the cartridge that competes. 
+
+ MR. LOY: 
+
+Well, we ­­ we think it is.  And 
+
+wherever the Court draws the line on standing, whoever 
+
+is just on the other side of the line is always going to 
+
+think that it's too narrow. 
+
+ Our cartridges, for instance, they do have 
+
+microchips on them.  We do not sell the microchips. 
+
+Static Control does not sell cartridges.  Those 
+
+cartridges also have resin, they have labels, they have 
+
+toner, they come in boxes. 
+
+ If we allow one of many parts suppliers, 
+
+like Static, in the remanufacturing industry, to have 
+
+standing ­­
+
+ JUSTICE GINSBURG: 
+
+Well, then you could ­­
+
+you could sue them for infringing on your patent or 
+
+whatever intellectual property protection you have.  But 
+
+here is an entrepreneur that says, we make a product, 
+
+and Lexmark is disparaging our product.  It is 
+
+essentially trying to get us out of this line of 
+
+business. 
+
+ Certainly, if you just read the words of the 
+
+Lanham Act, this is allegedly false advertising, and the 
+
+false advertiser shall be liable to any person who 
+
+believes he or she is likely to be damaged by such an 
+
+act. 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ That ­­ that legislation seems to envision a 
+
+very broad standing, certainly enough to encompass the 
+
+person who is ­­ whose product is being disparaged. 
+
+ MR. LOY: 
+
+Certainly, the Lanham Act uses the 
+
+any person language and that language is no different, 
+
+though, than the any person language appears in the 
+
+antitrust statutes and in RICO, both instances in which 
+
+this Court adopted AGC tests to determine standing. 
+
+ The one difference ­­ the one difference is 
+
+the Lanham Act, unlike the antitrust statutes, at 
+
+Section 45, specifically states its intent as to protect 
+
+commercial actors against unfair competition. 
+
+ JUSTICE BREYER: 
+
+Suppose you have the ­­
+
+shouldn't a supplier have standing to sue the competitor 
+
+of the firm to which he supplies, where the alleged 
+
+liable or slander or whatever it is, is directly about 
+
+what the supplier supplies? 
+
+ The example, make it clearer. 
+
+Suppose that 
+
+Bailey's sells ice cream sundaes, and the defendant has 
+
+said the chocolate sauce in Bailey's ice cream sundaes 
+
+is poisonous.  Now, the chocolate sauce does not compete 
+
+with the defendant because he's an ice cream parlor, 
+
+but, nonetheless, he is directly affected by the 
+
+statement that he is suing about. 
+
+ He is, therefore, different from the other 
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+suppliers who might have supplied Bailey's with 
+
+cushions, heat, electricity.  But shouldn't at least 
+
+that supplier of chocolate sauce have the standing to 
+
+bring a claim against the ice cream parlor that 
+
+competes with Bailey? 
+
+ MR. LOY: 
+
+That supplier may very well have 
+
+standing to bring a State law claim for defamation. 
+
+ JUSTICE BREYER: 
+
+Why not ­­ why not in this 
+
+Lanham Act suit, why shouldn't the chocolate sauce 
+
+supplier have standing?  He is directly victimized by ­­
+
+he has not just lost sales, but the comment is about 
+
+him. 
+
+ MR. LOY: 
+
+We believe to give intent to 
+
+Section 45, which states that the purpose is unfair 
+
+competition, standing under the Lanham Act is going to 
+
+be a narrow, focused inquiry. 
+
+ And if you ­­ using the cartridge example as an 
+
+example, if a supplier of microchips, who is one of many 
+
+suppliers in the market for microchips, has standing, 
+
+then couldn't the person who prints the label that sells 
+
+to remanufacturers by saying, well, if Lexmark hadn't 
+
+made these statements to you, you would have refilled 
+
+more cartridges, and we could have sold more labels. 
+
+ JUSTICE BREYER: 
+
+Well, the answer to your 
+
+25 
+
+question, if you're asking, is no, because the person 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+who supplies labels is totally ­­ the statement that is 
+
+sued about has nothing to do with labels.  So the people 
+
+who have nothing to do with the statement wouldn't have 
+
+standing. 
+
+ But my ­­ do you remember my question? 
+
+ MR. LOY: 
+
+I do. 
+
+ JUSTICE BREYER: 
+
+All right.  Well, why 
+
+shouldn't that person who is talked about in the 
+
+statement have standing?  A clear distinction.  Not 
+
+every supplier could sue. 
+
+ MR. LOY: 
+
+We think Lanham Act does and 
+
+should have a narrow standing requirement.  And in the 
+
+false advertising context, it would be unusual ­­ Conte 
+
+Brothers pointed out that there might be situations 
+
+where a noncompetitor has standing, but that it's going 
+
+to be an unusual situation. 
+
+ JUSTICE KAGAN: 
+
+Mr. Loy, can I ask you what 
+
+you think this standing doctrine is all about in a 
+
+context like this?  You said before ­­ you said to 
+
+give ­­ to effect Congress' intent in passing Section 
+
+43.  Is that what we're trying to do here? 
+
+ MR. LOY: 
+
+I think so.  I think under ­­
+
+under any standing analysis or test, one of the 
+
+questions ought to be, what was Congress' intent? 
+
+ JUSTICE KAGAN: 
+
+Well, one of the questions. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Why isn't that the only question that we ought to be 
+
+concerned with in a case like this?  Congress creates a 
+
+right of action, and it seems to me that the normal 
+
+thing that we ought to do and do do in most contexts is 
+
+just say, you know, what's the scope of that right of 
+
+action? 
+
+ And ­­ and certainly we could take into 
+
+account Congress' purposes in interpreting the scope of 
+
+that right of action.  But that would be the question. 
+
+ MR. LOY: 
+
+That should always be a question. 
+
+I would point out there are only two tests that have 
+
+been identified that even ask that question in the 
+
+Lanham Act, and that is the AGC test that we propose and 
+
+the categorical test that we propose in the alternative, 
+
+because it categorically requires direct competition. 
+
+ None of the other tests that have been 
+
+identified ask that question, and it should be 
+
+asked in every inquiry. 
+
+ JUSTICE KAGAN: 
+
+I guess, if that's the 
+
+question, the AGC test strikes me as not the answer to 
+
+that question.  I mean, we don't usually say what was 
+
+Congress' intent, how broad did Congress mean for this 
+
+cause of action to go, and then sort of devise a 
+
+five­part test with a lot of things that aren't 
+
+mentioned in the statute. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ MR. LOY: 
+
+I think that the ­­ this Court's 
+
+decision in Holmes, and I believe it was the concurrence 
+
+by Justice Scalia, identified the proximate cause 
+
+factors as part of any standing analysis.  And I think 
+
+that's what AGC was getting at when it adopted factors 2 
+
+through 5, is these are proximate cause type injuries, 
+
+plus, as AGC noted, we want to make it judicially 
+
+manageable, which is a legitimate prudential standing 
+
+concern because one of the prudential background 
+
+considerations is whether ­­ the prohibition on 
+
+litigating generalized grievances. 
+
+ So a test that looks at those proximate 
+
+cause factors, which are part of, we think, a standing 
+
+analysis in any statutory scheme, is appropriate, and it 
+
+ensures that the plaintiff and the defendant are in 
+
+close proximity to one another. 
+
+ JUSTICE SOTOMAYOR: 
+
+Except there are two 
+
+remedies under this statute, injunctive relief and 
+
+damages.  And to the extent that proximate cause always 
+
+limits the recovery on damages, it doesn't limit 
+
+injunctive relief issues. 
+
+ And so the question is, why should we be 
+
+reading into a statute a limitation against bringing any 
+
+action based on your proximate cause point when there 
+
+are other remedies in this statute? 
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16
+
+17 
+
+18
+
+19
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ MR. LOY: 
+
+And just as there are injunctive 
+
+remedies available in the antitrust statute and in this 
+
+Court's decision in Cargill, I think, in a footnote, the 
+
+Court noted that, if all you have is an injunctive 
+
+request under antitrust statutes, some of those factors 
+
+may not be relevant. 
+
+ For instance, duplicative damages, risk of 
+
+apportionment issues would not ­­ Your Honor is 
+
+correct – be relevant. 
+
+ JUSTICE SCALIA: 
+
+But proximate cause?  What 
+
+about proximate cause?  Do you agree that ­­ that 
+
+there's no proximate cause analysis when what is at 
+
+issue is an injunction? 
+
+ MR. LOY: 
+
+No.  What we were saying is some 
+
+of the factors that AGC identifies, such as ­­
+
+ JUSTICE SCALIA: 
+
+Answer my question.  Yes or 
+
+no?  Do you agree with what Justice Sotomayor said ­­
+
+ MR. LOY: 
+
+No ­­
+
+ JUSTICE SCALIA: 
+
+Because ­­
+
+ MR. LOY: 
+
+I think it is likely still 
+
+appropriate in an injunctive analysis to look at the 
+
+proximity of the plaintiff and the defendant.  I think 
+
+that is a legitimate inquiry.  I think some of the 
+
+damage factors for AGC are not going to be applicable in 
+
+the injunctive analysis, and that's what we do in 
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+antitrust ­­
+
+ JUSTICE GINSBURG: 
+
+Explain to me why ­­ we 
+
+are talking in abstract terms.  Here is a manufacturer 
+
+that says, my product is being disparaged by the 
+
+defendant ­­ my product, not someone else's ­­ the 
+
+result is that I am losing business. 
+
+ Why do we need anything more than that under 
+
+the Lanham Act, which makes false advertising ­­ gives a 
+
+claim for false advertising to somebody who's been hurt 
+
+by it? 
+
+ MR. LOY: 
+
+Again, there ­­ there very well 
+
+could be State law remedies available to plaintiffs who 
+
+do not have standing under the Lanham Act. 
+
+ JUSTICE GINSBURG: 
+
+But I'm not asking about 
+
+State law remedies.  I'm looking at this statute, and 
+
+your interpretation seems to stray very far from what 
+
+the statute ­­ this section of the statute says. 
+
+ MR. LOY: 
+
+We ­­
+
+ JUSTICE GINSBURG: 
+
+And if you just read this 
+
+section, would you agree that ­­ what is the party ­­
+
+SCC is someone who has been injured, damaged, by the 
+
+false advertising? 
+
+ MR. LOY: 
+
+We agree they make that 
+
+Article III allegation.  But in the Lanham Act, where we 
+
+think it's ­­ the one thing that is clear under the 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Lanham Act is there is prudential standing 
+
+consideration, and Congress has not expressly negated 
+
+those. 
+
+ So the question is what test to apply. 
+
+We 
+
+think the Lanham Act is a limited, focused statutory 
+
+remedy.  It's not a Federal tort of misrepresentation. 
+
+It's not a Federal tort of deceit.  The purpose of 
+
+this ­­ of the statute expressly is to protect 
+
+commercial actors against unfair competition, not 
+
+against unfair trade practices. 
+
+ And so to ­­ to use the ­­ or take advantage 
+
+of the Federal courts in the Lanham Act, which has 
+
+potential for treble damages and attorneys fees, we 
+
+think it's a narrow class of plaintiffs.  Particularly, 
+
+unlike the antitrust context, there's no intent 
+
+requirement under the Lanham Act. 
+
+ One could be liable for damages under the 
+
+Lanham Act for an innocent misrepresentation, one that 
+
+they thought, at the time, was truthful, which would 
+
+argue, perhaps, for more limited standing than either ­­
+
+than even the antitrust statutes because there is an 
+
+intent element under the antitrust statutes.  And so the 
+
+standing should be more limited in this situation. 
+
+ Again, it's a ­­ it's a narrow, focused 
+
+statutory remedy.  And unlike RICO, unlike Sherman, 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+unlike Clayton, there's an intent section, which we 
+
+think guides the courts or should guide the courts on 
+
+which test to adopt. 
+
+ And, again, the only two ­­
+
+ JUSTICE GINSBURG: 
+
+Is there any question 
+
+here that there was an intent on the part of Lexmark to 
+
+stop the Static Control company from making these 
+
+microchips? 
+
+ MR. LOY: 
+
+Well, again, on the alleged facts 
+
+of this case ­­
+
+ JUSTICE GINSBURG: 
+
+Yes.  That's what we 
+
+have ­­ and we have to deal with the complaint and 
+
+have to assume that that's true.  What the complaint 
+
+alleges is that Static was making a product and Lexmark 
+
+was disparaging it and not by happenstance, but quite 
+
+deliberately. 
+
+ MR. LOY: 
+
+We would disagree with that 
+
+characterization of ­­ of their counterclaim.  Again, 
+
+their ­­ the advertisements here were directed to the 
+
+remanufacturers, who are indirect competitors of 
+
+Lexmark, and was telling them ­­
+
+ JUSTICE GINSBURG: 
+
+And the ­­ the 
+
+directive ­­ the letter said don't buy Static Control's 
+
+product because, if you do, you're in jeopardy of being 
+
+a contributory infringer. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ MR. LOY: 
+
+What it first says to the 
+
+remanufacturers is that if you remanufacture our 
+
+cartridge ­­ our Prebate cartridges, generally, you 
+
+infringe our rights.  But you will also infringe those 
+
+rights, if you use Static Control's products to do it. 
+
+ But merely because one is a target, we do 
+
+not believe it necessarily translates into standing.  It 
+
+did not translate into standing in the AGC case; the 
+
+union was the target, and this Court, nevertheless, 
+
+denied standing. 
+
+ The Fifth Circuit decision, the Procter & 
+
+Gamble decision, which involved Procter & Gamble and 
+
+Amway; there, the parties were actually competitors. 
+
+And because of the nature of the statements that ­­ that 
+
+Procter & Gamble allegedly made about compensation to 
+
+Amway's distributors and how they get distributors, 
+
+there, they were actually direct competitors, and 
+
+standing was not provided, which, again, we think just 
+
+reinforces that this is a narrow statutory remedy. 
+
+ The ­­ the ­­ couple points about the zone 
+
+of interest test, which was advocated by Static in ­­ in 
+
+their brief.  That is certainly a general prudential 
+
+background consideration.  We think it would apply along 
+
+with prohibition on ­­ on generalized grievances and 
+
+asserting rights of third parties. 
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+ But, here, it merely asked the question. 
+
+We 
+
+think AGC provides the answer to that question.  And the 
+
+zone of interest has been largely used in the APA 
+
+context, and it's ­­ it's appropriate in ­­ in that 
+
+context.  There's a two­step inquiry under the APA. 
+
+ First, the APA itself is a procedural act, 
+
+but, then, you have to go to the underlying substantive 
+
+statute to determine who a party is ­­ what party is 
+
+agreeing.  The zone of interest, therefore, has to 
+
+administer hundreds, if not thousands, of very different 
+
+federal substantive statutes, and so some flexibility 
+
+needs to be inherent in ­­ in that test. 
+
+ If such a test were employed, we think, in 
+
+the Lanham Act, we could lead to over­enforcement, which 
+
+has its own set of harms.  We don't think you want to 
+
+deter companies from putting even truthful information 
+
+into the marketplace, for fear of facing lawsuits by 
+
+remote parts suppliers. 
+
+ And ­­ and so, in this instance, we think 
+
+the AGC test itself provides the answer to the question 
+
+of what is in ­­ in the zone of interest. 
+
+ JUSTICE SOTOMAYOR: 
+
+So what's wrong ­­
+
+what's wrong with the tests adopted by three circuits, 
+
+the reasonable interest test? 
+
+ MR. LOY: 
+
+We think it suffers from, in this 
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+instance ­­ because, here, we have ­­ we have the Lanham 
+
+Act.  We can tailor a ­­ a standing test to the Lanham 
+
+Act.  Reasonable interest suffers, we think, from 
+
+the same flaws in this context, as would the zone of 
+
+interest test. 
+
+ It's no more than Article III standing. 
+
+Anybody that can plead a reasonable interest in the 
+
+subject matter of the ­­ of the advertisement and a 
+
+reasonable basis for believing that interest is harmed, 
+
+then that's no more than Article III standing 
+
+requirement. 
+
+ And we do, in this case, believe that there 
+
+is universal recognition that there should be prudential 
+
+standing requirements in the Lanham Act and provides 
+
+little guidance to courts below and, therefore, could 
+
+lead to inconsistent results. 
+
+ JUSTICE KAGAN: 
+
+Mr. ­­ Mr. Loy, you said 
+
+there's universal recognition that there should be 
+
+prudential standing requirements in the Lanham Act. 
+
+When should there be prudential standing requirements in 
+
+a statutory right of action? 
+
+ In other words, Congress passes lots of 
+
+statutory rights of action.  And let's say that almost 
+
+never, never does Congress talk about prudential 
+
+standing one way or the other. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ Do you think that, every time Congress 
+
+passes a right of action, the courts are supposed to 
+
+engage in a kind of free­form inquiry about what kind of 
+
+prudential standing rule should apply to that particular 
+
+right of action? 
+
+ MR. LOY: 
+
+We think, in any federal statutory 
+
+cause of action, prudential standing requirements are 
+
+presumed.  Given Section 45 here, we believe that the 
+
+Lanham Act clearly does have prudential standing 
+
+requirements. 
+
+ This Court in Bennett, in looking at the 
+
+Endangered Species Act, at least the stand­alone 
+
+citizenry portion of it, I believe determined that 
+
+Congress eschewed prudential standing requirements there 
+
+because the ­­ the subject matter of the Act was the 
+
+environment, something that I think the Court noted 
+
+everybody has an interest in and ­­ and want to 
+
+encourage private attorney generals to pursue those 
+
+causes of action. 
+
+ And, in that situation, there was a right of 
+
+first refusal for the government to first bring the 
+
+lawsuit before a private suit could be brought.  So 
+
+there are times when prudential standing requirements 
+
+have been done away with by Congress. 
+
+ JUSTICE KAGAN: 
+
+And ­­ and you just sort of 
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+know them when you see them, or it's a reaction to what 
+
+are perceived to be very broad statutes or ­­ you know, 
+
+when ­­ when do we know that we should be off on a 
+
+prudential standing jag? 
+
+ MR. LOY: 
+
+I think ­­ I think that the ­­ the 
+
+first place you look is at the text of the statute 
+
+itself.  To the extent that there are situations where 
+
+legislative history might speak to intent ­­ and I think 
+
+Clarke says, let's look at that. 
+
+ In this situation, the 1946 Act and the 
+
+Senate report that accompanied it said, this is the 
+
+purpose to ­­ this is the end to which this statute was 
+
+directed, and it identified fair competition and the 
+
+prevention of diversion of goodwill from one to the 
+
+other. 
+
+ JUSTICE ALITO: 
+
+Maybe the answer is 
+
+when we just can't believe that Congress really meant 
+
+the literal words of the statute to be interpreted 
+
+without some limiting principle.  So, here, Congress 
+
+says, "any person," and any person surely includes 
+
+people who purchase printer cartridges. 
+
+ So if we don't think that ­­ that Congress 
+
+really meant for every single person who purchases a 
+
+printer cartridge to be able to file a claim in Federal 
+
+court with no amount in controversy requirement, then 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+that would be a situation where some consideration of 
+
+prudential standing would have to take place. 
+
+ MR. LOY: 
+
+That's correct.  "Any person" 
+
+language here would allow consumer standing, which is 
+
+one thing that every circuit that's addressed this issue 
+
+has agreed upon, that there is no consumer standing 
+
+under the Lanham Act. 
+
+ Again, that's tied to Section 45, which 
+
+protects commercial actors ­­
+
+ JUSTICE KAGAN: 
+
+But, there, couldn't that be 
+
+done just by interpreting the ­­ the language of the 
+
+statue, in accord with its purposes, because you have a 
+
+specific purpose provision in the Lanham Act that says, 
+
+we're ­­ we're trying to get at commercial competition 
+
+here. 
+
+ MR. LOY: 
+
+I think standing is in many, if 
+
+not most, instances, a separate analysis from the cause 
+
+of action itself.  And the text is always going to 
+
+provide the cause of action. 
+
+ JUSTICE SCALIA: 
+
+What is prudential 
+
+standing?  I don't really understand.  Is ­­ is it 
+
+anything other than ­­ should it be renamed statutory 
+
+standing?  It can always be done away with by Congress, 
+
+right? 
+
+ MR. LOY: 
+
+It can, and ­­
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ JUSTICE SCALIA: 
+
+And ­­ and is it ­­ is it 
+
+the kind of standing that we would have to raise on our 
+
+own?  Is it jurisdictional, so that if ­­ if a party 
+
+hasn't raised it below, it, nonetheless, is still 
+
+unavailable argument on appeal?  Is prudential standing 
+
+of that sort? 
+
+ MR. LOY: 
+
+It's ­­ at least I normally don't 
+
+think of it in terms of jurisdictional.  I think Article 
+
+III injury, in fact, would be in the nature of a 
+
+jurisdictional analysis.  I think prudential standing is 
+
+a little bit different. 
+
+ That phrase only came into use, I think, in 
+
+the '70s, but the ­­ the concepts underlying that have 
+
+been ­­
+
+ JUSTICE SCALIA: 
+
+I'm uncomfortable with the 
+
+notion that ­­ you know, in my prudence I give standing 
+
+here and I deny standing there, it's just up to me.  I can 
+
+understand Article III. 
+
+ But unless prudential standing means 
+
+statutory standing, so that I look to the statute to see 
+
+whom it was intended to empower to bring lawsuits, I am 
+
+very uncomfortable with the whole notion. 
+
+ MR. LOY: 
+
+And I think the phrase "statutory 
+
+standing" would be fine with us.  And, again, the very 
+
+first AGC question that asked that question, what did 
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Congress intend to address here? 
+
+ If there are no further questions, I would like 
+
+to reserve my time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Jones. 
+
+ ORAL ARGUMENT OF JAMESON R. JONES 
+
+ ON BEHALF OF THE RESPONDENT 
+
+ MR. JONES: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ As some of this questioning indicated, if 
+
+any party has standing under Section 43(a) of the Lanham 
+
+Act, it's a party whose goods are misrepresented in 
+
+false advertising.  To remove any doubt about that 
+
+question, Congress amended the statute in 1988 to ensure 
+
+a cause of action when a false advertiser misrepresents 
+
+the goods or commercial services of, quote, "another 
+
+person," end quote. 
+
+ This Court's zone of interest analysis shows 
+
+that parties whose goods are disparaged, either 
+
+expressly or by necessary implication, must have 
+
+standing to sue. 
+
+ Lexmark's simply wrong about the idea that 
+
+the zone of interest analysis in the Lanham Act does not 
+
+pose limits upon who may sue.  As the hypothetical 
+
+with respect to the Bailey's ice cream parlor shows, you 
+
+1 
+
+2
+
+3 
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+can look to the subject matter of the false 
+
+advertisement to see whose goodwill and commercial 
+
+activities are related to the falsity of the statement. 
+
+ And those who come within the falsity and 
+
+the subject matter of the advertisement at issue should 
+
+have standing, while those who may have tangential 
+
+injuries would not. 
+
+ JUSTICE SCALIA: 
+
+How do you ­­ how do you 
+
+square that with the statutory provision that the 
+
+purpose of the law is to prevent unfair competition? 
+
+Unfair competition, not unfair trade practices.  Unfair 
+
+competition. 
+
+ MR. JONES: 
+
+Where Section 45 says that it is 
+
+designed to protect those engaged in such commerce from 
+
+unfair competition, it's referring to what is defined in 
+
+the operative text as unfair trade practices.  Unfair 
+
+competition involves specific measures, use of 
+
+falsities, that can injure parties who are not 
+
+necessarily in competition with one another. 
+
+ The courts, as a whole, all agree that a 
+
+competition requirement cannot be inferred into the 
+
+false association cause of action that is also unfair 
+
+competition that's part of Section 43(a). 
+
+ Section 43(a) goes to commercial activity. 
+
+There is unfair competition in the sense that all of the 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+activity under it is commercial and competitive in that 
+
+sense.  But some narrow form of competition between a 
+
+plaintiff and a defendant, for the purposes of standing, 
+
+is inconsistent with the structure of Section 43(a) and 
+
+the text of the authorizing paragraph. 
+
+ JUSTICE ALITO: 
+
+Suppose the comments in this 
+
+case only disparaged the cartridges themselves and not 
+
+the chips.  Then would the chip manufacturer, would your 
+
+client have standing? 
+
+ MR. JONES: 
+
+Yes, if the statements are about 
+
+the legality of remanufacturing Lexmark's printer 
+
+cartridges, all of those statements are about Static 
+
+Control's products and the legality of using them, the 
+
+places where those can be lawfully used. 
+
+ Static Control here makes microchips and 
+
+parts that are specifically designed for the very 
+
+commercial activity that this false advertising says is 
+
+illegal.  In that sense, Static Control's goodwill and 
+
+commercial relationships are all very closely and, by 
+
+necessary implication, talked about in the 
+
+advertisements. 
+
+ JUSTICE ALITO: 
+
+Well, that may be true, but 
+
+I don't understand how you get from the zone of interest 
+
+to the limiting principle that you are suggesting, which 
+
+is that the zone of interest includes only those 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+businesses, other than the direct competitor, whose 
+
+products are targeted by the false statements. 
+
+ MR. JONES: 
+
+As Mr. Loy recognized, in the ­­
+
+in the legislative history of the Act and in this 
+
+Court's opinion in Daystar, the Court has said the core 
+
+principle of the Lanham Act, as a whole, is to protect 
+
+commercial actors' goodwill and reputation, and that can 
+
+be seen in the trademark provisions.  It can be seen in 
+
+Section 43(a) itself. 
+
+ And I think that basic principle means that 
+
+there is a tie to the subject matter of the false 
+
+statements, the false association, and that can apply to 
+
+both prongs of Section 43(a), to where there is a nexus 
+
+between the subject matter of what's talked about and 
+
+the person who is injured. 
+
+ JUSTICE SCALIA: 
+
+Did you answer his 
+
+question?  I'm still left with a lack of understanding 
+
+of how the disparagement of the ­­ of the composite 
+
+product is automatically a disparagement of your chip. 
+
+ MR. JONES: 
+
+The disparagement ­­ the 
+
+statements about the uses to which Static Control's 
+
+products may be put are all implicit in all of the false 
+
+advertisements that are at issue in this case. 
+
+ When Lexmark says that remanufacturing our 
+
+cartridges is illegal, even if it doesn't mention Static 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Control in one particular advertisement, all of that 
+
+goes to the subject matter and to whether or not Static 
+
+Control's products have lawful uses. 
+
+ These are specifically designed for this 
+
+very commercial activity. 
+
+ JUSTICE ALITO: 
+
+All right.  Well, to change 
+
+it, suppose the statements don't implicitly ­­ even 
+
+implicitly target Static Control, but the effect of the 
+
+statements is to drive Static Control out of business. 
+
+You would say there would be no standing there? 
+
+ MR. JONES: 
+
+It depends upon the context of 
+
+the case.  In many circumstances where the false 
+
+advertising is not about a product, those products will 
+
+have multiple different uses, such as commodity products 
+
+that are supplied, gears and springs, for example, that 
+
+may have many different uses, the false statements here 
+
+would not be about those products. 
+
+ And those manufacturers can sell their gears 
+
+to many other different uses that require gears.  Static 
+
+Control's microchips here only work for remanufacturing 
+
+Lexmark printer cartridges. 
+
+ JUSTICE ALITO: 
+
+All right.  So, in Justice 
+
+Breyer's hypothetical about the soda fountain that sells 
+
+ice cream with chocolate sauce and there is a statement 
+
+that the chocolate sauce is poisonous, if the effect of 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+that is to drive out of business a little company that 
+
+manufactures ice cream that's used there, that company 
+
+would not have standing? 
+
+ MR. JONES: 
+
+I think if it's not being talked 
+
+about in that case, that company probably would not have 
+
+standing.  But the fact that the false advertisements in 
+
+that case were about the chocolate sauce shows that ­­
+
+why the chocolate maker needs to have standing.  That 
+
+maker has different incentives vis­a­vis the person who 
+
+is operating the Bailey's ice cream store. 
+
+ Bailey's ice cream store could decide the 
+
+game's not worth the candle, and we're going to stop 
+
+buying this chocolate, even if all of those 
+
+advertisements are false.  And so the different 
+
+incentives for the key supplier and the person who is 
+
+actually within direct competition means that, to 
+
+further the purposes of the Lanham Act, a party whose 
+
+goods are misrepresented, either expressly or by 
+
+necessary implication, needs to have standing. 
+
+ JUSTICE ALITO: 
+
+So if Bailey's was the only 
+
+place that sold this chocolate sauce, Bailey ­­ Bailey's 
+
+might have standing.  That would be similar to this 
+
+case.  But, if other places also sold this chocolate 
+
+sauce, then Bailey's is out. 
+
+ MR. JONES: 
+
+In the hypothetical that I heard 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+29
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+from Justice Breyer, the statement was, the chocolate 
+
+sauce that Bailey's uses is ­­ is poisonous.  In that 
+
+circumstance, where both Bailey's is mentioned and the 
+
+chocolate sauce, then I think Bailey's would have to 
+
+have standing. 
+
+ JUSTICE BREYER: 
+
+How do we tie that in?  I'm 
+
+sort of sorry I used that hypothetical because it ­­
+
+ (Laughter.) 
+
+ JUSTICE BREYER: 
+
+But it nonetheless 
+
+illustrates ­­
+
+ JUSTICE SCALIA: 
+
+I am, too, because I'm sick 
+
+of it. 
+
+ JUSTICE BREYER: 
+
+But it illustrates the 
+
+point.  I mean, in my own mind, the standing question is 
+
+designed to answer, are you the kind of plaintiff that 
+
+Congress intended, in this statute, to protect against 
+
+the kind of injury that you say you suffered?  Now, that 
+
+goes back to Justice Brandeis, and it goes back to 
+
+saying, did you suffer a common law injury, or do you 
+
+fall within the scope as defined? 
+
+ Normally, Congress doesn't think about that, 
+
+and so courts decide, and we're right in the middle of 
+
+that decision.  So if I think that, basically, you have 
+
+a point, that at least the supplier who is mentioned in 
+
+the defamatory statement by the competitor who bought 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the supplies, at least where he is mentioned explicitly, 
+
+there should be standing, which means your side would 
+
+win, I guess. 
+
+ What do I write to tie that in to the three 
+
+separate kinds of tests that the circuits have talked 
+
+about?  That's what I can't quite see because they talk 
+
+about the reasonable interest test, they talk about the 
+
+zone of interest test, they talk about some other kind 
+
+of test. 
+
+ How do I tie this into that? 
+
+ MR. JONES: 
+
+Justice Breyer, we think, 
+
+respectfully, that the circuits' tests don't necessarily 
+
+encompass this situation as well as they could, which is 
+
+why we suggest that it's best for the Court to step back 
+
+to first principles of prudential standing, which is the 
+
+zone of interest analysis ­­
+
+ JUSTICE GINSBURG: 
+
+Has that been applied 
+
+outside the context of the APA, that is, when the suit 
+
+is against an agency? 
+
+ MR. JONES: 
+
+Yes, Justice Ginsburg. 
+
+ JUSTICE GINSBURG: 
+
+Has it been applied to 
+
+private party litigation? 
+
+ MR. JONES: 
+
+Yes, Justice Ginsburg.  In 2011, 
+
+this Court's opinion in Thompson v. North American 
+
+Stainless applied the zone of interest test to a private 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+dispute under Title VII, as to whether or not a party in 
+
+that suit had a private cause of action when he was the 
+
+spouse of the person who was retaliated against. 
+
+ JUSTICE BREYER: 
+
+If that's so ­­ if you go 
+
+back and you just lift the APA test ­­ because I think 
+
+Justice Ginsburg is absolutely right, that this is not 
+
+an APA suit ­­ the word "arguably" was inserted in the 
+
+normal standing test by ADAPSO, which Justice Douglas 
+
+wrote. 
+
+ Now, if we take that and simply lift it, the 
+
+first thing, the person who would get a new lawsuit, I 
+
+guess, is a consumer, because the consumer could easily 
+
+say, I didn't buy this product because of the false 
+
+statement that the competitor of the person I would have 
+
+bought from made. 
+
+ And, indeed, you could have very big 
+
+consumers, and they could allege all kinds of injuries. 
+
+And so, if I simply lift the test, I’d rather worry that I 
+
+am changing the law quite radically. 
+
+ MR. JONES: 
+
+I don't think so, Justice 
+
+Breyer, because the zone of interest test requires the 
+
+Court to determine what the purposes behind the statute 
+
+are. 
+
+ JUSTICE BREYER: 
+
+But "arguably."  Isn't it 
+
+arguably, in part, to protect consumers? 
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+ MR. JONES: 
+
+Well, in the ­­ in the Lanham 
+
+Act, I think the purposes of the Act are to protect 
+
+those engaged in such commerce from unfair competition, 
+
+from false statements.  And once that is defined ­­ and 
+
+you look at the history of it, and it seems fairly clear 
+
+from the history that it is designed to protect 
+
+commercial actors.  Once that is defined, those parties 
+
+who are arguably within that zone, who arguably assert 
+
+those interests, should have standing. 
+
+ And that "arguably" term places the proper 
+
+thumb on the scales with respect to what is otherwise 
+
+clear statutory text that is being interpreted here, 
+
+that, generally, it respects the role of the judiciary 
+
+vis­a­vis the legislature, when Congress ­­
+
+ JUSTICE SOTOMAYOR: 
+
+What do you see as the 
+
+difference between reasonable interest and zone of 
+
+interest?  What do you ­­ I haven't quite understood 
+
+what the difference is between the two. 
+
+ MR. JONES: 
+
+Justice Sotomayor, I believe the 
+
+zone of interest test can have some more teeth, 
+
+perhaps, than the reasonable interest test because it 
+
+tailors what is the interest protected to the text and 
+
+history of the particular statute. 
+
+ The reasonable interest test, if properly 
+
+applied, with all of that in mind, would, I think, be 
+
+33
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+applied in similar ways.  But the zone of interest test 
+
+has the directive to courts that, each time, rather than 
+
+thinking what is reasonable in the abstract, to think 
+
+about what Congress intended to protect as part of any 
+
+given statute. 
+
+ JUSTICE ALITO: 
+
+Suppose that Lexmark had not 
+
+made disparaging comments about Static Control, but had 
+
+simply made false statements about its own product. 
+
+Suppose it said that, if you use our products ­­ our 
+
+cartridges, they will emit some sort of vapor in your 
+
+house that will promote good health. 
+
+ Who would be within the zone of interest 
+
+there? 
+
+ MR. JONES: 
+
+So you would look at the subject 
+
+matter of that ­­ of that false advertisement, and, as 
+
+you've expressed it, I don't believe that Static 
+
+Control's products would be within the subject matter 
+
+about the vapor of Lexmark's printer cartridges. 
+
+ But if, for example, Lexmark were to say, 
+
+our printer cartridges produce A quality ­­ A quality 
+
+print jobs, then ­­ and it's implicitly talking about 
+
+its toner, Static Control, as a manufacturer of toner, 
+
+may have standing in that circumstance because, by 
+
+comparison, by necessary understanding about how the 
+
+reputations of the parties' products are at play, Static 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Control might have standing in that instance. 
+
+ JUSTICE ALITO: 
+
+Who would be within the zone 
+
+of interest?  Only ­­ would other printer cartridge 
+
+manufacturers be within the zone of interest in that 
+
+situation? 
+
+ MR. JONES: 
+
+In that situation, I think 
+
+remanufacturers would and the supplier of toners that is 
+
+necessarily by comparison talked about in that false 
+
+advertisement. 
+
+ And, when a party only talks about their own 
+
+goods, they are necessarily going to be very difficult 
+
+cases on the margins as to where the ripples of the 
+
+subject matter of that false advertisement extend.  That 
+
+is certainly not this case, where Lexmark falsely 
+
+advertised that the ­­
+
+ JUSTICE SCALIA: 
+
+I understand.  But why 
+
+should it be "arguably"?  "Arguably"?  I mean, under the 
+
+APA, you are dealing with suits against the government, 
+
+and it's just funny money at issue.  But, when you have 
+
+private suits, you can drag somebody into court simply 
+
+because you are arguably within the zone of interest 
+
+protected?  I'm not happy with that. 
+
+ MR. JONES: 
+
+If the Court wanted to get rid 
+
+of the "arguably" language for the purpose of the Lanham 
+
+Act, we don't feel we have a dog in that fight, but I do 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+believe ­­
+
+ JUSTICE KAGAN: 
+
+Well, Mr. Jones, is the 
+
+question that you are asking us to ask just did Congress 
+
+want this kind of actor to be able to sue?  Is that the 
+
+question that you think we ought to be ­­ be asking? 
+
+ MR. JONES: 
+
+Yes.  If there are going to be 
+
+prudential limits on what a statute ­­
+
+ JUSTICE KAGAN: 
+
+Well, let's not call the 
+
+limits anything in particular.  The question, in your 
+
+view, is Congress passes this Act; did Congress ­­ in 
+
+including this right of action, did Congress want this 
+
+kind of actor to be able to use that right of action? 
+
+Is that correct? 
+
+ MR. JONES: 
+
+Yes, yes.  And, in the 1988 
+
+amendments that expanded the cause of action to ensure a 
+
+right of action when a false advertiser misstates 
+
+another person's goods, that amendment should be 
+
+dispositive in this case. 
+
+ JUSTICE KAGAN: 
+
+But, if that's correct, I 
+
+mean, rather than talking about whether something is 
+
+arguably within the zone of interests in the way we have 
+
+to do, in the APA context, because we are dealing with a 
+
+lot of statutes that don't provide rights of action 
+
+there, why shouldn't we just ask, what kinds of actors 
+
+did the Lanham Act provide a right of action to, as 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+sensibly construed? 
+
+ We should sensibly construe the Lanham Act, 
+
+in accordance with Congress' purposes. 
+
+ MR. JONES: 
+
+I think that would be a very 
+
+straightforward way to deal with this case, 
+
+Justice Kagan.  I think the zone of interest ­­
+
+ JUSTICE KAGAN: 
+
+And, then, what would be the 
+
+test?  What would we say the Lanham Act means? 
+
+ MR. JONES: 
+
+The Lanham Act means that those 
+
+parties whose goodwill and commercial reputation is 
+
+necessarily affected by the falsity of the statement 
+
+have standing to sue, are protected by the Lanham Act 
+
+and able to stop such false advertisements and able to 
+
+seek recompense for the damages that are suffered. 
+
+ And at the heart of that are those parties 
+
+whose goodwill and whose commercial services are 
+
+expressly misrepresented or implicitly misrepresented by 
+
+a particular false advertisement because they have a 
+
+unique interest in vindicating their reputations and 
+
+making the false advertisements stop. 
+
+ JUSTICE GINSBURG: 
+
+So what makes this limit 
+
+a prudential limit?  You are supposed to put ­­ the 
+
+notion of a prudential limit is there is Article III 
+
+standing, but, even so, you can't sue because you don't 
+
+meet the prudential. 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ MR. JONES: 
+
+Justice Ginsburg, this Court has 
+
+talked about these types of inquiries as prudential 
+
+limits on standing.  I think it's perhaps better 
+
+understood as interpreting what does "any person" really 
+
+mean under this statute? 
+
+ But whether it's thought of as prudential 
+
+standing or whether Static Control falls within "any 
+
+person" or has "injuries" as meant by the statute, the 
+
+inquiry is ultimately the same.  What is the intent of 
+
+Congress?  What was their core purpose in this Act?  And 
+
+who did they intend to sue? 
+
+ And in the text with ­­ here, there is very, very 
+
+broad authorizing language that gives a right of action 
+
+to any party who believes that he or she is or is likely 
+
+damaged by such false advertisement. 
+
+ JUSTICE SOTOMAYOR: 
+
+Could you tell me how 
+
+that would affect a situation that I read about in the 
+
+papers, where a company like ­­ not to suggest that they 
+
+have, but only using this as a hypothetical example ­­
+
+McDonald's says, in its advertising, we, in fact ­­ our 
+
+calorie count is less than ­­ than 200, so buy from us. 
+
+ Consumers, under your theory, can't sue 
+
+under the Lanham Act.  Assume that's absolutely true ­­
+
+false.  Who would be ­­ who would have a permissible 
+
+ground to sue in that situation? 
+
+38
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ MR. JONES: 
+
+I think, in that situation, you 
+
+would look to Burger King would have a cause of action, 
+
+probably even Subway, because they are a fast food 
+
+company that advertises itself as based upon 
+
+lower­calorie options, would have a standing to sue in 
+
+that context. 
+
+ JUSTICE SOTOMAYOR: 
+
+All right.  So fit in 
+
+that into your definition of what "standing" is ­­
+
+ MR. JONES: 
+
+So ­­
+
+ JUSTICE SOTOMAYOR: ­­ how do we not get it 
+
+to be the local ­­ or maybe you say it's okay ­­ the ­­
+
+the local restaurant that has no franchises, that does 
+
+healthy meals, which is actually true of many 
+
+restaurants today, particularly in Washington. 
+
+ MR. JONES: 
+
+Sure.  So, in each of those 
+
+contexts, Subway and Burger King can say that their 
+
+goodwill ­­ their relative standing in the marketplace 
+
+has been necessarily affected by McDonald's false 
+
+advertisements on those subjects. 
+
+ And, if you get to looking at pleadings, 
+
+courts would look to whether or not the allegations that 
+
+set that forth are plausible and meet that standard, 
+
+but ­­ and how far out that's going to go is for another 
+
+day.  But I do believe it would be permissible for 
+
+courts to say that you do need to allege that sort of 
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+harm to goodwill or comparative standing in the 
+
+marketplace for the standing to exist under the Act. 
+
+ Lexmark's requests that the Court import 
+
+into the Lanham Act rules from the antitrust context 
+
+should not be countenanced.  The antitrust laws 
+
+incorporated the common law itself, as this Court said 
+
+in Leegin, in ­­ in a way that, when Congress prescribed 
+
+a very broad set of actions that could not mean what it 
+
+said, Congress necessarily anticipated that there would 
+
+be some judicial policymaking and common law rulemaking 
+
+as to the scope of a cause of action and who can sue 
+
+under it. 
+
+ JUSTICE BREYER: 
+
+But, now, does that ­­ just 
+
+thinking of Justice Sotomayor's hypothetical, that 
+
+suggests that maybe the reasonable interest test is okay 
+
+because what that's trying to do is ­­ you have 
+
+McDonald's that's allegedly made the false statement, 
+
+and then there are a range of people in terms more or 
+
+less distant in respect to being direct competitors. 
+
+ There is ­­ what you said, Burger King, 
+
+direct competitor, then there are the health 
+
+restaurants.  Then there are ­­ so you need something to 
+
+cut off at some point the plaintiff, who claims to be a 
+
+direct competitor, but, really, he's not going to lose 
+
+much money, and he's quite distant, a health restaurant 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+in a foreign city, I mean ­­ you know, you see? 
+
+ And the reasonable interest test, I think, 
+
+is trying both to get at that and also to figure out 
+
+what kind of supplier you are.  Are you one who falls 
+
+within the scope of the false statement or the ­­ or are 
+
+you not?  You don't want the electricity company to be 
+
+able to sue. 
+
+ So what do you think about using the 
+
+reasonable interest test, but explaining it in something 
+
+like the terms I've just said? 
+
+ MR. JONES: 
+
+If the Court were to adopt the 
+
+reasonable interest test and explain it in those terms, 
+
+I think we would be happy with that result.  The ­­ I 
+
+think that it looks ­­ it's perhaps a little bit better 
+
+to think about what is a reasonable interest with 
+
+respect to the proximity to the falsity of the 
+
+statement, to the subject matter of what was at issue, 
+
+because you are dealing with ­­
+
+ JUSTICE ALITO: 
+
+Well, it's not a reasonable 
+
+interest test then. 
+
+ JUSTICE SCALIA: 
+
+It isn't whether the 
+
+interest is reasonable.  It's ­­ it's whether it was the 
+
+type of interest that the statute sought to protect. 
+
+And ­­ and the term "zone of interest" is a better 
+
+expression of that concept, it seems to me, than 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+41
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+"reasonable interest." 
+
+ I mean ­­ you know, that's my objection to 
+
+the reasonable interest test. 
+
+ MR. JONES: 
+
+And that is precisely why, in 
+
+our brief, we do believe that it would be better for the 
+
+Court to step back to that level and talk about the 
+
+interests in protecting goodwill and commercial actors' 
+
+standing in the marketplace vis­a­vis the subject matter 
+
+of the false advertising. 
+
+ JUSTICE SCALIA: 
+
+That may be better ­­
+
+ JUSTICE GINSBURG: 
+
+Your zone of interests ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+I'm sorry.  Justice 
+
+Ginsburg. 
+
+ JUSTICE GINSBURG: 
+
+Your zone of interest, in 
+
+response to Justice Scalia, would establish another tier 
+
+of zone of interest.  The ­­ arguably, within the zone 
+
+is the APA standard.  And you said, here, you could 
+
+strike "arguably" and just have it within the zone. 
+
+ MR. JONES: 
+
+The Court said, in Bennett v. 
+
+Spear, that how the zone of interest will apply will 
+
+depend upon the text and history of the statute, and it 
+
+will vary somewhat based upon the statutory text and 
+
+context.  And if, for different types of statutes, the 
+
+Court can look to what Congress meant to protect as 
+
+that, and I believe that once those interests are 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11
+
+12
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+42
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+defined, the "arguably" language does mean that in a 
+
+close case parties should have standing because that's 
+
+generally what ­­ when courts do, when they are 
+
+interpreting otherwise clear statutory text, I think the 
+
+deference should be to the words that Congress passed in 
+
+a close case. 
+
+ JUSTICE SCALIA: 
+
+"Arguably" could refer to 
+
+factual matters; that is, you ­­ you are within the zone 
+
+of interest if certain facts are established.  And, if 
+
+you don't establish those facts, you are not.  That's 
+
+how I've always understood the "arguably."  I don't 
+
+think it means ­­ you know, "close enough for government 
+
+work."  It doesn't mean that. 
+
+ It means you ­­ you are within the zone of 
+
+interest if, indeed, these facts that you have asserted 
+
+exist. 
+
+ MR. JONES: 
+
+And that understanding of the 
+
+word, Justice Scalia, would fit with this Court's 
+
+pleading rules and whether or not somebody has plausibly 
+
+pled that certain facts that would show that the test is 
+
+met.  And I think that would make sense in this context. 
+
+ JUSTICE BREYER: 
+
+What about ­­
+
+ JUSTICE KAGAN: 
+
+What I think, Mr. Jones, 
+
+just a couple of years ago, we made clear that 
+
+"arguably" was to be taken very seriously and ­­ and 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+43
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+essentially established a kind of buffer zone, so that 
+
+if you kind ­­ you know, we weren't going to be too 
+
+strict about it.  And the reason we did that, again, is 
+
+because the way the APA works is it's on top of a lot of 
+
+federal statutes that have no rights of action 
+
+themselves. 
+
+ So there is nothing for us to interpret in 
+
+those federal statutes.  And we say, well, if you 
+
+arguably come within the scope of that statute, then you 
+
+are aggrieved for purposes of the APA. 
+
+ But this is a very different situation. 
+
+This is a situation where we have a particular right of 
+
+action.  And rather than create any kind of buffer zone 
+
+around it, we should just ask how is it sensible to 
+
+interpret that right of action? 
+
+ MR. JONES: 
+
+Two responses to that, Justice 
+
+Kagan.  I do believe that may be one way to look at how 
+
+you are looking at prudential standing in this Court's 
+
+doctrines.  In certain contexts, where Congress has 
+
+abrogated limits on suit that courts had erected at the 
+
+common law, to say that a certain cause of action is not 
+
+going to be available to a particular plaintiff, I do 
+
+believe courts need to be careful in applying prudential 
+
+rules to avoid resurrecting those same policy concerns 
+
+that had led courts to say that no cause of action 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+44
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+existed in the first place. 
+
+ And so, I think, at least in this context, 
+
+where you have a brand­new cause of action that did not 
+
+exist at the common law, that "arguably" language may be 
+
+more appropriate than with respect to a different 
+
+statute where there are different issues at stake. 
+
+ JUSTICE ALITO: 
+
+Am I correct to think that 
+
+your rule is that the only people who have standing 
+
+under the Lanham Act are competitors and people whose 
+
+products are disparaged?  And, if that is true, then are 
+
+you not “arguably” advocating the most restrictive test 
+
+for Lanham Act standing, other than the categorical 
+
+rule? 
+
+ MR. JONES: 
+
+Competition and competitors will 
+
+line up in ­­ in a lot of ways with those who are 
+
+affected by the subject matter of the suit.  I don't 
+
+know whether it makes sense.  I don't believe it makes 
+
+sense to get at the rule as competition, plus those who 
+
+are talked about, as opposed to looking to who's 
+
+affected by the falsity of the statement in their 
+
+commercial goodwill. 
+
+ JUSTICE BREYER: 
+
+If it's who's affected, who 
+
+specifically are we leaving out?  Look, you put in ­­ I 
+
+don't want to leave out ­­ you've read all the cases.  I 
+
+haven't read them all.  But I see that you put in ­­ we 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+45
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+put in the direct competitors.  They fall within it.  We 
+
+put in certain suppliers, those who are disparaged.  We 
+
+don't want the electricity company to be able to sue, 
+
+according to you and the cases, and I guess we have the 
+
+mirror case, which we'd put in, would be certain buyers 
+
+like retailers or wholesalers and probably applying the 
+
+same rule about their being mentioned in the ­­ in the 
+
+false advertising ­­ or in the statement. 
+
+ Who have we left out? 
+
+Who has been given 
+
+standing in some of these cases that is left out of the 
+
+description I just gave? 
+
+ MR. JONES: 
+
+I'm not sure I know of any that 
+
+have been left out that should not have been left out. 
+
+ JUSTICE BREYER: 
+
+All right.  Who do you ­­
+
+who do you ­­ well, who ­­ who has not been left out who 
+
+should have been left out?  I mean, I'm trying to see ­­
+
+I'm trying to see am I forgetting someone that ­­ that 
+
+your reading of the cases suggests has been given 
+
+standing. 
+
+ MR. JONES: 
+
+So one example that may clarify 
+
+this with Justice Alito's question about competition is 
+
+the Proctor & Gamble case that Mr. Loy talked about. 
+
+That was a false advertisement that Amway made about the 
+
+lucrativeness of being an employee of Amway. 
+
+ Proctor & Gamble is a direct competitor, but 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+46
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+should not have standing to sue for those false 
+
+statements because it's not related to Amway's 
+
+statements about how much they pay to their employees. 
+
+The subject matter doesn't go to that ­­ that competitor 
+
+and that competitor's product. 
+
+ And so I think it's better to look at it in 
+
+terms of where ­­ what the falsity of the statement is 
+
+and how close or far a particular plaintiff is to that 
+
+statement, rather than trying to get at it through 
+
+competition. 
+
+ Does that help, Justice Breyer? 
+
+ JUSTICE KENNEDY: 
+
+Am I correct that no 
+
+circuit has adopted the zone of interest test in the 
+
+context of the Lanham Act? 
+
+ MR. JONES: 
+
+No circuit has adopted it as the 
+
+test for the Lanham Act.  There are cases that talk 
+
+about zone of interest policies, and there are cases 
+
+that talk about the interests of protecting goodwill and 
+
+the reputation of companies who are involved in 
+
+interstate commerce. 
+
+ But the other tests that courts have layered 
+
+on to it, I think, don't necessarily get at the direct 
+
+question that is really at issue, which is did Congress 
+
+really intend for these injuries to be the subject of a 
+
+cause of action. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+47
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+ JUSTICE GINSBURG: 
+
+So what's wrong with 
+
+the ­­ what is it ­­ AGC, the antitrust standard?  So 
+
+it's got five things.  And Justice Alito just suggested 
+
+that maybe that's more generous to finding standing 
+
+than ­­ than the reasonable interest. 
+
+ MR. JONES: 
+
+The experience ­­ Justice 
+
+Ginsburg, the experience of the courts would show that 
+
+applying agency actually would be more restrictive, I 
+
+believe, than a zone of interest analysis.  Two of the 
+
+factors from the AGC test are facially inconsistent with 
+
+the Lanham Act. 
+
+ The concerns about the speculativeness of 
+
+damages, at least as it relates to quantum, and the 
+
+concern about the complexity and apportionment and 
+
+duplicative damages cannot be applied here in a statute 
+
+where Congress explicitly abrogated limits on suit 
+
+related to certainty of damages.  Section 43(a), when it 
+
+talks about a cause of action to somebody who's likely 
+
+injured, that shows that those concerns about damages 
+
+should not be applied. 
+
+ Similarly, the flexibility and the remedy 
+
+that can be recovered under the Lanham Act, in terms of 
+
+disgorgement remedies, injunctive relief, and a party's 
+
+own lost profits, shows that concerns about those 
+
+factors shouldn't be applied either. 
+
+48
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Three minutes, Mr. Loy. 
+
+ REBUTTAL ARGUMENT OF STEVEN B. LOY 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. LOY: 
+
+I have three short points.  The 
+
+straightforward question for this Court is what test to 
+
+apply for Lanham Act.  And we believe AGC is that test. 
+
+On the facts of this case, we believe that the district 
+
+court, in analyzing these facts, got it correct when it 
+
+found that Static did not have standing under that test 
+
+and when it found that Static was not a target, like the 
+
+Sixth Circuit actually found that Static was not a 
+
+target. 
+
+ Second point, through the entire 
+
+briefing and at, now, oral argument, I ­­ I still have 
+
+not heard ­­ we have not heard how Static Control is 
+
+conceptually any different than the union was in AGC. 
+
+And that just goes to show the target is not always the 
+
+inquiry. 
+
+ Third point, if this Court ­­
+
+ JUSTICE GINSBURG: 
+
+I'm sorry.  You used 
+
+"target" twice.  Once, you said SCC was not a target, 
+
+and the other time, you said it was, but it ­­ target 
+
+isn't a test. 
+
+ MR. LOY: 
+
+I'm sorry.  What I intended to 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24 
+
+25
+
+49
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+say, and if I misspoke, I apologize, the district court 
+
+found that the SCC lacked standing.  The district court 
+
+found that SCC was not a target, although the Sixth 
+
+Circuit decided that a different test should be used, 
+
+the Sixth Circuit also found that Static Control was not 
+
+a target. 
+
+ My final point is if this Court ­­ I'm 
+
+sorry. 
+
+ JUSTICE GINSBURG: 
+
+Explain that.  Because, 
+
+if we accept the allegation of the complaint as true, 
+
+the allegation is that Static's product was disparaged, 
+
+that remanufacturers were told, don't use this product 
+
+because, if you do, you're going to be involved in 
+
+infringement. 
+
+ MR. LOY: 
+
+The ­­ Static Control's 
+
+counterclaim never alleges target.  And it alleges, in 
+
+fact, that the remanufacturers were the ones whose 
+
+activities we were trying to ­­ to direct.  If this 
+
+Court were to adopt a zone of interest test, it would be 
+
+the first time this Court has adopted that test outside 
+
+the APA or APA­like context. 
+
+ JUSTICE GINSBURG: 
+
+Well, was Title VII an 
+
+APA ­­ when I asked Mr. Jones? 
+
+ MR. LOY: 
+
+If Title ­­ no, it was not an APA, 
+
+but the language for standing that the Court analyzed is 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24
+
+25 
+
+50
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11
+
+12
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+party aggrieved.  The Court then looked at 
+
+the similarity of that language to ­­ the language in the 
+
+APA and there ­­ thereby justified using that test in 
+
+that case with similar statutory language. 
+
+ I think opposing counsel said that they ­­
+
+that under their zone of interest test, any person whose 
+
+products or services are expressly or implicitly 
+
+implicated should have standing under the Lanham Act. 
+
+We think that goes too far. 
+
+ If there are no further questions. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ The case is submitted. 
+
+ (Whereupon, at 12:14 p.m., the case in the 
+
+above­entitled matter was submitted.) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+51 
+
+Alderson Reporting Company 
+
+A 
+
+able 21:24 36:4,12 
+
+37:13,13 41:7 
+46:3 
+
+aboveentitled 1:11 
+
+51:14 
+
+abrogated 44:20 
+
+48:16 
+
+absolutely 32:6 
+
+38:23 
+
+activity 25:24 26:1 
+
+26:17 28:5 
+actor 36:4,12 
+actors 3:17 8:12 
+15:9 22:9 27:7 
+33:7 36:24 42:7 
+
+acts 4:20 
+adapso 32:8 
+address 4:25 5:4 
+
+24:1 
+
+adopts 3:20 
+
+16:3 41:11 50:19 
+adopted 3:11 4:14 
+
+6:10 8:8 12:5 
+18:23 47:13,15 
+50:20 
+
+addressed 22:5 
+abstract 14:3 34:3 
+administer 18:10 
+accept 50:10 
+accompanied 21:11  adopt 4:15 6:11 
+accord 22:12 
+account 11:8 
+act 3:14,15,16,19 
+3:23,24 4:3,5,12 
+4:13,14,24 5:12 
+6:10 7:22,25 8:4 
+8:10 9:9,15 10:11  advantage 15:11 
+advertised 35:15 
+11:13 14:8,13,24 
+advertisement 5:16 
+15:1,5,12,16,18 
+18:6,14 19:2,3,14 
+19:19 20:9,12,15 
+21:10 22:7,13 
+24:12,23 27:4,6 
+29:17 33:2,2 
+35:25 36:10,25 
+37:2,8,9,12 38:10 
+38:23 40:2,4 45:9 
+45:12 47:14,16 
+48:11,22 49:7 
+51:8 
+
+5:15 16:19 26:21 
+27:23 29:6,14 
+37:13,20 39:19 
+advertiser 7:23 
+
+advertisements 
+
+24:15 36:16 
+
+advertises 39:4 
+advertising 6:20 
+
+action 4:6,24 5:6 
+
+11:3,6,9,23 12:24 
+19:21,23 20:2,5,7 
+20:19 22:18,19 
+24:15 25:22 32:2 
+36:11,12,15,16,23  advocated 17:21 
+advocating 45:11 
+36:25 38:13 39:2 
+affect 38:17 
+40:11 44:5,13,15 
+agc 3:12 4:25 5:3 
+44:21,25 45:3 
+47:25 48:18 
+
+actions 40:8 
+activities 25:3 
+
+50:18 
+
+5:19 19:8 25:2,5 
+28:1 34:15 35:9 
+35:13 37:18 38:15  allow 7:11 22:4 
+46:23 
+
+50:16 
+
+Official 
+Official
+
+48:2,10 49:7,17 
+agency 31:19 48:8 
+aggrieved 44:10 
+
+51:1 
+
+Page 52 
+
+18:1 23:25 50:23 
+
+3:23 4:1 6:7,8,14 
+8:7,10 13:2,5 14:1  asking 5:1 9:25 
+15:15,21,22 40:4 
+14:14 36:3,5 
+40:5 48:2 
+
+ago 3:12 43:24 
+agree 6:16 13:11,17  apa 18:3,5,6 31:18 
+
+anybody 19:7 
+
+14:20,23 25:20 
+
+agreed 22:6 
+agreeing 18:9 
+alito 6:15,22 21:16 
+
+26:6,22 28:6,22 
+29:20 34:6 35:2 
+41:19 45:7 48:3 
+
+alitos 46:21 
+allegation 14:24 
+
+50:10,11 
+
+allegations 39:21 
+allege 32:17 39:25 
+alleged 5:15,16,20 
+
+5:25 8:15 16:9 
+
+allegedly 7:22 
+17:15 40:17 
+
+32:5,7 35:18 
+36:22 42:17 44:4 
+44:10 50:21,23,24 
+51:3 
+
+apalike 50:21 
+apologize 50:1 
+appeal 23:5 
+appearances 1:14 
+appears 8:6 
+applicable 13:24 
+applied 31:17,21 
+
+31:25 33:25 34:1 
+48:15,20,25 
+
+apply 4:22,24 15:4 
+17:23 20:4 27:12 
+42:20 49:7 
+
+alleges 16:14 50:16  applying 44:23 
+
+46:6 48:8 
+
+apportionment 
+
+13:8 48:14 
+
+alternative 11:14 
+amended 24:14 
+amendment 36:17 
+amendments 36:15 
+appropriately 5:6 
+american 31:24 
+amount 21:25 
+area 6:8,11 
+amway 17:13 46:23  arent 11:24 
+
+appropriate 3:12 
+6:13 12:14 13:21 
+18:4 45:5 
+
+asks 5:3 
+assert 33:8 
+asserted 6:20 43:15 
+asserting 17:25 
+association 25:22 
+
+27:12 
+
+assume 6:15 16:13 
+
+38:23 
+
+attorney 20:18 
+attorneys 15:13 
+authorizing 26:5 
+
+38:13 
+
+automatically 
+
+27:19 
+
+available 13:2 
+14:12 44:22 
+
+avoid 44:24 
+
+B 
+
+b 1:15 2:3,9 3:7 
+
+49:3 
+
+back 30:18,18 
+
+31:14 32:5 42:6 
+background 12:9 
+
+17:23 
+
+bailey 9:5 29:21 
+baileys 8:19,20 9:1 
+24:25 29:10,11,20 
+29:21,24 30:2,3,4 
+
+46:24 
+
+amways 17:16 47:2 
+7:22 10:13 14:8,9  analysis 10:23 12:4 
+12:14 13:12,21,25 
+14:22 24:13 26:17 
+28:13 38:20 42:9 
+22:17 23:10 24:18 
+24:23 31:16 48:9 
+46:8 
+
+based 12:24 39:4 
+
+42:22 
+
+arguably 32:7,24 
+32:25 33:8,8,10 
+35:17,17,21,24 
+36:21 42:16,18 
+43:1,7,11,25 44:9  basis 19:9 
+45:4,11 
+
+basic 27:10 
+basically 30:23 
+
+behalf 1:15,17 2:4 
+
+analyzed 50:25 
+analyzing 49:9 
+answer 5:8 9:24 
+
+argue 15:20 
+argument 1:12 2:2 
+2:5,8 3:4,7 23:5 
+24:6 49:3,15 
+
+6:6,10,13 8:8 
+11:13,20 12:5,7 
+13:15,24 17:8 
+18:2,20 23:25 
+
+11:20 13:16 18:2 
+18:20 21:16 27:16  article 14:24 19:6 
+30:15 
+
+19:10 23:8,18 
+37:23 
+
+asked 5:5 11:18 
+
+anticipated 40:9 
+antitrust 3:11,18 
+
+2:7,10 3:8 24:7 
+49:4 
+
+believe 9:13 12:2 
+17:7 19:12 20:8 
+20:13 21:17 33:19 
+34:16 36:1 39:24 
+42:5,25 44:17,23 
+45:17 48:9 49:7,8 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Official 
+
+chief 3:3,9 24:4,8 
+42:12 49:1 51:11 
+
+chip 6:24 26:8 
+
+27:19 
+
+chips 26:8 
+chocolate 8:20,21 
+
+9:3,9 28:24,25 
+29:7,8,13,21,23 
+30:1,4 
+
+cartridges 5:18 6:3  circuit 6:9 17:11 
+22:5 47:13,15 
+49:12 50:4,5 
+
+6:16 7:6,8,9 9:23 
+17:3 21:21 26:7 
+26:12 27:25 28:21  circuits 18:23 31:5 
+34:10,18,20 
+
+31:12 
+
+case 3:4 5:9,16 6:14  circumstance 30:3 
+
+34:23 
+
+circumstances 
+
+6:18 11:2 16:10 
+17:8 19:12 26:7 
+27:23 28:12 29:5 
+29:7,23 35:14 
+36:18 37:5 43:2,6  city 41:1 
+46:5,22 49:8 51:4  claim 6:20 9:4,7 
+51:12,13 
+
+citizenry 20:13 
+
+28:12 
+
+cases 35:12 45:24 
+46:4,10,18 47:16 
+47:17 
+
+categorical 11:14 
+
+45:12 
+
+14:9 21:24 
+claims 40:23 
+clarify 46:20 
+clarke 21:9 
+class 15:14 
+clayton 16:1 
+
+categorically 11:15  clear 10:9 14:25 
+cause 4:19,23 5:2,6 
+33:5,12 43:4,24 
+
+11:23 12:3,6,13 
+clearer 8:18 
+12:19,24 13:10,11  clearly 20:9 
+13:12 20:7 22:17 
+client 26:9 
+22:19 24:15 25:22  close 12:16 43:2,6 
+32:2 36:15 39:2 
+40:11 44:21,25 
+45:3 47:25 48:18 
+
+43:12 47:8 
+closely 26:19 
+colorado 1:17 
+come 7:10 25:4 
+
+causes 4:6 20:19 
+certain 43:9,20 
+
+44:9 
+
+26:1,17,19 27:7 
+28:5 33:7 37:10 
+37:16 42:7 45:21 
+commodity 28:14 
+common 3:22,24 
+4:4,6,8,14,15,17 
+30:19 40:6,10 
+44:21 45:4 
+
+companies 18:16 
+
+47:19 
+
+company 16:7 29:1 
+29:2,5 38:18 39:4 
+41:6 46:3 
+
+comparative 40:1 
+comparison 34:24 
+
+35:8 
+
+compensation 
+
+17:15 
+
+compete 6:17 8:21 
+competes 6:23 7:1 
+
+9:5 
+
+Page 53 
+
+concepts 23:13 
+conceptually 49:17 
+concern 12:9 48:14 
+concerned 11:2 
+concerns 44:24 
+
+48:12,19,24 
+conclusion 6:6 
+concurrence 12:2 
+congress 4:9 5:4 
+10:20,24 11:2,8 
+11:22,22 15:2 
+19:22,24 20:1,14 
+20:24 21:17,19,22 
+22:23 24:1,14 
+30:16,21 33:14 
+34:4 36:3,10,10 
+36:11 37:3 38:10 
+40:7,9 42:24 43:5 
+44:19 47:23 48:16 
+
+congresss 3:13 
+consideration 15:2 
+
+considerations 4:7 
+
+4:19 12:10 
+
+17:23 22:1 
+
+competition 3:17 
+3:18 8:12 9:15 
+11:15 15:9 21:13 
+22:14 25:10,11,12  construe 37:2 
+25:15,17,19,21,23  construed 37:1 
+25:25 26:2 29:16 
+33:3 45:14,18 
+46:21 47:10 
+
+32:12,12 
+
+consumer 22:4,6 
+
+consumers 32:17 
+
+32:25 38:22 
+
+competitive 26:1 
+competitor 8:14 
+
+27:1 30:25 32:14 
+40:21,24 46:25 
+47:4 
+
+conte 6:9 10:13 
+context 3:24 6:7 
+10:13,19 15:15 
+18:4,5 19:4 28:11 
+31:18 36:22 39:6 
+40:4 42:23 43:21 
+45:2 47:14 50:21 
+complaint 16:12,13  contexts 11:4 39:16 
+
+17:13,17 40:19 
+45:9,14 46:1 47:5 
+
+competitors 16:20 
+
+believes 7:24 38:14  calorie 38:21 
+candle 29:12 
+believing 19:9 
+bennett 20:11 
+cant 21:17 31:6 
+
+37:24 38:22 
+careful 44:23 
+cargill 13:3 
+cartridge 6:23 7:1 
+9:17 17:3 21:24 
+35:3 
+
+42:19 
+
+best 31:14 
+better 38:3 41:14 
+
+41:24 42:5,10 
+47:6 
+
+beyond 4:4,6,15 6:5 
+big 6:22 32:16 
+bit 23:11 41:14 
+bought 30:25 32:15 
+bound 5:17 
+boxes 7:10 
+brandeis 30:18 
+brandnew 45:3 
+breyer 8:13 9:8,24 
+10:7 30:1,6,9,13 
+31:11 32:4,21,24 
+40:13 43:22 45:22 
+46:14 47:11 
+breyers 28:23 
+brief 17:22 42:5 
+briefing 49:15 
+bring 9:4,7 20:21 
+
+23:21 
+
+bringing 12:23 
+broad 8:2 11:22 
+21:2 38:13 40:8 
+
+brothers 6:9 10:14 
+brought 20:22 
+buffer 44:1,13 
+burger 39:2,16 
+
+40:20 
+
+business 7:20 14:6 
+
+28:9 29:1 
+
+businesses 27:1 
+buy 16:23 32:13 
+
+38:21 
+
+buyers 46:5 
+buying 29:13 
+
+C 
+c 1:8 2:1 3:1 
+call 36:8 
+called 6:8 
+
+44:19,21 46:2,5 
+
+comment 9:11 
+certainly 7:21 8:2,4  comments 26:6 
+
+11:7 17:22 35:14 
+
+34:7 
+
+50:10 
+
+44:19 
+
+complexity 48:14 
+component 4:18 
+
+contributory 16:25 
+control 1:6 3:5 5:19 
+
+certainty 48:17 
+change 28:6 
+changing 32:19 
+characterization 
+
+16:18 
+
+commerce 25:14 
+
+6:25,25 
+
+33:3 47:20 
+
+components 1:6 3:5 
+
+commercial 3:17 
+
+4:16 
+
+8:12 15:9 22:9,14  composite 27:18 
+24:16 25:2,24 
+
+concept 41:25 
+
+5:23 7:8 16:7 
+26:15 28:1,8,9 
+34:7,22 35:1 38:7 
+49:16 50:5 
+
+controls 6:4 16:23 
+
+Alderson Reporting Company
+ 
+
+50:16 
+
+decided 50:4 
+
+directly 8:16,23 
+
+17:5 26:13,18 
+27:21 28:3,20 
+34:17 50:15 
+
+controversy 21:25 
+core 27:5 38:10 
+correct 13:9 22:3 
+
+36:13,19 45:7 
+47:12 49:9 
+
+damaged 7:24 
+14:21 38:15 
+
+damages 12:19,20 
+
+13:7 15:13,17 
+37:14 48:13,15,17 
+48:19 
+
+day 39:24 
+daystar 27:5 
+
+couldnt 9:20 22:10  deal 16:12 37:5 
+counsel 24:4 49:1 
+
+dealing 35:18 36:22 
+
+51:5,11 
+
+41:18 
+
+count 38:21 
+countenanced 40:5  december 1:9 
+counterclaim 16:18  decide 29:11 30:22 
+
+deceit 15:7 
+
+13:3 17:11,12 
+30:23 
+
+couple 17:20 43:24  decision 6:9 12:2 
+court 1:1,12 3:10 
+3:12,20 4:9 6:7 
+7:3 8:8 13:4 17:9  defamation 9:7 
+20:11,16 21:25 
+24:9 27:5 31:14 
+32:22 35:20,23 
+38:1 40:3,6 41:11 
+42:6,19,24 49:6,9  deference 43:5 
+49:20 50:1,2,7,19  defined 25:15 
+50:20,25 51:1 
+courts 12:1 13:3 
+
+defamatory 30:25 
+defendant 8:19,22 
+12:15 13:22 14:5 
+26:3 
+
+30:20 33:4,7 43:1 
+
+definition 39:8 
+deliberately 16:16 
+
+15:12 16:2,2 
+19:15 20:2 24:18  denied 17:10 
+25:20 27:5 30:22  denver 1:17 
+31:24 34:2 39:21  deny 23:17 
+39:25 43:3,18 
+44:18,20,23,25 
+47:21 48:7 
+
+cream 8:19,20,22 
+9:4 24:25 28:24 
+29:2,10,11 
+create 44:13 
+creates 11:2 
+cushions 9:2 
+customers 5:17 
+cut 40:23 
+
+D 
+
+d 1:8 3:1 32:18 
+damage 13:24 
+
+Official 
+
+different 8:5,25 
+
+41:6 43:10,11 
+45:16,17,24 46:3 
+47:22 50:12 
+
+18:10 23:11 28:14 
+28:16,19 29:9,14 
+42:23 44:11 45:5  doubt 24:13 
+douglas 32:8 
+45:6 49:17 50:4 
+drag 35:20 
+draws 7:3 
+
+difficult 35:11 
+direct 3:25 11:15 
+
+17:17 27:1 29:16  drive 28:9 29:1 
+40:19,21,24 46:1 
+duplicative 13:7 
+46:25 47:22 50:18 
+
+48:15 
+
+directed 16:19 
+
+21:13 
+
+directive 16:23 
+
+34:2 
+
+9:10 
+
+disagree 16:17 
+disgorgement 
+
+48:23 
+
+disparaged 8:3 
+
+14:4 24:19 26:7 
+45:10 46:2 50:11 
+
+disparagement 
+
+27:18,19,20 
+
+disparaging 5:10 
+7:18 16:15 34:7 
+dispositive 36:18 
+dispute 32:1 
+distant 40:19,25 
+distinction 10:9 
+distributors 17:16 
+
+E 
+e 2:1 3:1,1 
+easily 32:12 
+effect 3:13 10:20 
+
+28:8,25 
+
+either 15:20 24:19 
+
+29:18 48:25 
+
+electricity 9:2 41:6 
+
+46:3 
+
+element 15:22 
+elses 14:5 
+emit 34:10 
+employed 18:13 
+employee 46:24 
+employees 47:3 
+empower 23:21 
+enacted 4:21 
+encompass 8:2 
+
+31:13 
+
+17:16 
+
+depend 42:21 
+depends 28:11 
+description 46:11 
+designed 25:14 
+
+district 49:8 50:1,2 
+diversion 21:14 
+doctrine 10:18 
+26:16 28:4 30:15  doctrines 44:19 
+33:6 
+
+doesnt 4:4,14 5:9 
+
+encourage 20:18 
+endangered 20:12 
+engage 20:3 
+engaged 25:14 33:3 
+ensure 24:14 36:15 
+ensures 12:15 
+entire 49:14 
+entrepreneur 7:17 
+5:21,22 12:20 
+27:25 30:21 43:13  environment 20:16 
+47:4 
+
+dog 35:25 
+dont 11:21 16:23 
+
+envision 8:1 
+erected 44:20 
+eschewed 20:14 
+
+deter 18:16 
+determine 6:14 8:8 
+
+18:8 32:22 
+
+determined 20:13 
+determining 4:9 
+devise 11:23 
+didnt 32:13 
+difference 8:9,9 
+
+33:16,18 
+
+18:15 21:22 22:21  esq 1:15,17 2:3,6,9 
+23:7 26:23 28:7 
+31:12 32:20 34:16  essential 6:25,25 
+35:25 36:23 37:24  essentially 7:19 
+
+essence 5:12 
+
+Alderson Reporting Company
+ 
+
+Page 54 
+
+44:1 
+
+establish 42:15 
+
+43:10 
+
+established 43:9 
+
+44:1 
+
+everybody 20:17 
+example 8:18 9:17 
+9:18 28:15 34:19 
+38:19 46:20 
+
+exist 40:2 43:16 
+
+45:4 
+
+existed 45:1 
+expanded 36:15 
+experience 48:6,7 
+explain 14:2 41:12 
+
+50:9 
+
+explaining 41:9 
+explicitly 31:1 
+
+48:16 
+
+expressed 34:16 
+expression 41:25 
+expressly 15:2,8 
+
+24:20 29:18 37:17 
+51:7 
+
+extend 35:13 
+extent 12:19 21:7 
+
+F 
+
+facially 48:10 
+facing 18:17 
+fact 3:24 6:18 23:9 
+29:6 38:20 50:17 
+
+factor 5:7 
+factors 4:25 5:2 
+
+6:13,13 12:4,5,13 
+13:5,15,24 48:10 
+48:25 
+
+facts 16:9 43:9,10 
+43:15,20 49:8,9 
+
+factual 43:8 
+fair 21:13 
+fairly 33:5 
+fall 30:20 46:1 
+falls 38:7 41:4 
+false 5:15,16,20 
+
+6:20 7:22,23 
+
+food 39:3 
+footnote 13:3 
+foreign 41:1 
+foreseeability 4:19 
+forgetting 46:17 
+form 26:2 
+
+10:13 14:8,9,22 
+24:13,15 25:1,22 
+26:17 27:2,11,12 
+27:22 28:12,16 
+29:6,14 32:13 
+33:4 34:8,15 35:8 
+35:13 36:16 37:13  forth 39:22 
+37:18,20 38:15,24  found 49:10,11,12 
+39:18 40:17 41:5 
+42:9 46:8,23 47:1 
+
+50:2,3,5 
+
+Official 
+
+28:2 30:18,18 
+49:18 51:9 
+
+going 7:4 9:15 
+
+hes 8:22 40:24,25 
+history 3:22 21:8 
+27:4 33:5,6,23 
+42:21 
+
+10:15 13:24 22:18 
+29:12 35:11 36:6  holmes 12:2 
+39:23 40:24 44:2  honor 13:8 
+44:22 50:13 
+house 34:11 
+hundreds 18:10 
+hurt 14:9 
+hypothetical 24:24 
+28:23 29:25 30:7 
+38:19 40:14 
+
+good 34:11 
+goods 5:10 24:12 
+24:16,19 29:18 
+35:11 36:17 
+goodwill 21:14 
+
+g 3:1 
+gamble 17:12,12,15  grievances 12:11 
+
+35:18 43:12 
+
+15:6,7,12 18:11 
+20:6 21:24 44:5,8  games 29:12 
+
+46:22,25 
+
+Page 55 
+
+indicated 24:10 
+indirect 16:20 
+industry 7:12 
+inferred 25:21 
+information 18:16 
+infringe 17:4,4 
+infringement 50:14 
+infringer 16:25 
+infringing 7:15 
+inherent 18:12 
+injunction 13:13 
+injunctive 12:18,21 
+
+13:1,4,21,25 
+48:23 
+
+injure 25:18 
+injured 14:21 
+27:15 48:19 
+
+injuries 12:6 25:7 
+32:17 38:8 47:24 
+
+injury 5:4 23:9 
+
+30:17,19 
+
+innocent 15:18 
+inquiries 38:2 
+inquiry 9:16 11:18 
+
+13:23 18:5 20:3 
+38:9 49:19 
+inserted 32:7 
+instance 7:6 13:7 
+18:19 19:1 35:1 
+
+instances 8:7 22:17 
+intellectual 7:16 
+intend 24:1 38:11 
+
+47:24 
+
+intended 4:9 5:4 
+
+23:21 30:16 34:4 
+49:25 
+
+intent 3:13,16,20 
+8:11 9:13 10:20 
+10:24 11:22 15:15 
+15:22 16:1,6 21:8 
+38:9 
+
+interest 17:21 18:3 
+18:9,21,24 19:3,5 
+19:7,9 20:17 
+24:18,23 26:23,25 
+31:7,8,16,25 
+
+I 
+
+ice 8:19,20,22 9:4 
+24:25 28:24 29:2 
+29:10,11 
+idea 24:22 
+identified 11:12,17 
+
+12:3 21:13 
+
+identifies 13:15 
+iii 14:24 19:6,10 
+23:9,18 37:23 
+
+ill 4:17 
+illegal 5:11 26:18 
+
+27:25 
+
+illustrates 30:10,13 
+im 14:14,15 23:15 
+
+27:17 30:6,11 
+35:22 42:12 46:12 
+46:16,17 49:21,25 
+50:7 
+
+implicated 51:8 
+implication 24:20 
+
+26:20 29:19 
+implicit 27:22 
+implicitly 28:7,8 
+
+34:21 37:17 51:7 
+
+import 40:3 
+incentives 29:9,15 
+includes 21:20 
+
+26:25 
+
+including 6:3 36:11 
+inconsistent 19:16 
+
+26:4 48:10 
+
+incorporated 40:6 
+
+falsely 35:14 
+falsities 25:18 
+falsity 25:3,4 37:11 
+41:16 45:20 47:7 
+
+far 14:16 39:23 
+
+47:8 51:9 
+
+fast 39:3 
+fear 18:17 
+federal 4:23 5:6 
+
+feel 35:25 
+fees 15:13 
+fifth 17:11 
+fight 35:25 
+figure 41:3 
+file 21:24 
+final 50:7 
+finally 4:2 
+finding 48:4 
+fine 23:24 
+firm 8:15 
+first 3:15 5:3,14,16 
+
+6:9 17:1 18:6 
+20:21,21 21:6 
+23:25 31:15 32:11 
+45:1 50:20 
+fit 39:7 43:18 
+five 4:2 48:3 
+fivepart 11:24 
+flaws 19:4 
+flexibility 18:11 
+
+48:21 
+
+focus 3:18 
+focused 9:16 15:5 
+
+15:24 
+
+fountain 28:23 
+franchises 39:12 
+freeform 20:3 
+funny 35:19 
+further 24:2 29:17 
+
+51:10 
+
+G 
+
+gears 28:15,18,19 
+general 4:18,22 
+
+17:22 
+
+generalized 12:11 
+
+17:24 
+
+generally 3:18 17:3 
+
+33:13 43:3 
+
+25:2 26:18 27:7 
+37:10,16 39:17 
+40:1 42:7 45:21 
+47:18 
+
+government 20:21 
+
+17:24 
+
+ground 38:25 
+guess 11:19 31:3 
+
+32:12 46:4 
+
+guidance 19:15 
+guide 4:8 16:2 
+guides 16:2 
+
+H 
+hadnt 9:21 
+happenstance 
+
+generals 20:18 
+generous 48:4 
+getting 12:5 
+ginsburg 7:14 14:2  happy 35:22 41:13 
+
+16:15 
+
+harm 40:1 
+
+14:14,19 16:5,11 
+16:22 31:17,20,21  harmed 19:9 
+31:23 32:6 37:21  harms 18:15 
+38:1 42:11,13,14 
+48:1,7 49:21 50:9  havent 33:17 45:25 
+health 34:11 40:21 
+50:22 
+
+hasnt 23:4 
+
+give 3:13 9:13 
+10:20 23:16 
+
+given 6:14 20:8 
+34:5 46:9,18 
+
+40:25 
+
+healthy 39:13 
+hear 3:3 
+heard 29:25 49:16 
+
+gives 14:8 38:13 
+go 11:23 18:7 32:4 
+
+39:23 47:4 
+
+goes 4:3,15 25:24 
+
+49:16 
+
+heart 37:15 
+heat 9:2 
+help 47:11 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+32:21 33:16,17,20 
+33:21,22,24 34:1 
+34:12 35:3,4,21 
+37:6,19 40:15 
+41:2,9,12,15,20 
+41:22,23,24 42:1 
+42:3,14,16,20 
+43:9,15 47:13,17 
+48:5,9 50:19 51:6 
+
+37:4,9 38:1 39:1,9  kennedy 47:12 
+39:15 41:11 42:4  kentucky 1:15 
+42:19 43:17,23 
+44:16 45:14 46:12  kind 20:3,3 23:2 
+30:15,17 31:8 
+46:20 47:15 48:6 
+36:4,12 41:4 44:1 
+50:23 
+44:2,13 
+
+key 29:15 
+
+judicial 40:10 
+judicially 12:7 
+judiciary 33:13 
+
+kinds 31:5 32:17 
+
+36:24 
+
+interests 33:9 36:21  jurisdictional 23:3  king 39:2,16 40:20 
+know 11:5 21:1,2,3 
+
+23:8,10 
+
+42:7,11,25 47:18 
+international 1:3 
+
+3:5 
+
+interpret 44:7,15 
+interpretation 
+
+14:16 
+
+interpreted 21:18 
+
+33:12 
+
+interpreting 11:8 
+22:11 38:4 43:4 
+
+interstate 47:20 
+involved 17:12 
+47:19 50:13 
+involves 25:17 
+isnt 11:1 32:24 
+41:21 49:24 
+
+issue 13:13 22:5 
+
+25:5 27:23 35:19 
+41:17 47:23 
+
+issues 12:21 13:8 
+
+45:6 
+
+ive 41:10 43:11 
+
+J 
+
+jag 21:4 
+jameson 1:17 2:6 
+
+24:6 
+
+jeopardy 16:24 
+jobs 34:21 
+jones 1:17 2:6 24:5 
+
+24:6,8 25:13 
+26:10 27:3,20 
+28:11 29:4,25 
+31:11,20,23 32:20 
+33:1,19 34:14 
+35:6,23 36:2,6,14 
+
+justice 3:3,9 4:3,11 
+
+5:8,21 6:15,22 
+7:14 8:13 9:8,24 
+10:7,17,25 11:19 
+12:3,17 13:10,16 
+13:17,19 14:2,14 
+14:19 16:5,11,22 
+18:22 19:17 20:25 
+21:16 22:10,20 
+23:1,15 24:4,8 
+25:8 26:6,22 
+27:16 28:6,22,22 
+29:20 30:1,6,9,11 
+30:13,18 31:11,17 
+31:20,21,23 32:4 
+32:6,8,20,24 
+33:15,19 34:6 
+35:2,16 36:2,8,19 
+37:6,7,21 38:1,16 
+39:7,10 40:13,14 
+41:19,21 42:10,11 
+42:12,12,14,15 
+43:7,18,22,23 
+44:16 45:7,22 
+46:14,21 47:11,12 
+48:1,3,6 49:1,21 
+50:9,22 51:11 
+
+justified 51:3 
+
+K 
+
+kagan 10:17,25 
+
+11:19 19:17 20:25 
+22:10 36:2,8,19 
+37:6,7 43:23 
+44:17 
+
+23:16 41:1 42:2 
+43:12 44:2 45:17 
+46:12 
+
+L 
+label 9:20 
+labels 7:9 9:23 10:1 
+
+10:2 
+
+lack 27:17 
+lacked 50:2 
+language 8:5,5,6 
+22:4,11 35:24 
+38:13 43:1 45:4 
+50:25 51:2,2,4 
+
+lanham 3:13,15,19 
+3:23,24 4:3,5,12 
+4:14,24 5:12 6:10 
+7:22 8:4,10 9:9,15 
+10:11 11:13 14:8 
+14:13,24 15:1,5 
+15:12,16,18 18:14 
+19:1,2,14,19 20:9 
+22:7,13 24:11,23 
+27:6 29:17 33:1 
+35:24 36:25 37:2 
+37:8,9,12 38:23 
+40:4 45:9,12 
+47:14,16 48:11,22 
+49:7 51:8 
+largely 18:3 
+laughter 30:8 
+law 3:22,24 4:4,6,8 
+
+4:14,15,17 9:7 
+14:12,15 25:10 
+30:19 32:19 40:6 
+
+40:10 44:21 45:4 
+
+lawful 28:3 
+lawfully 26:14 
+laws 40:5 
+lawsuit 20:22 32:11 
+lawsuits 18:17 
+
+23:21 
+
+layered 47:21 
+lays 6:13 
+lead 18:14 19:16 
+leave 45:24 
+leaving 45:23 
+led 44:25 
+leegin 40:7 
+left 27:17 46:9,10 
+46:13,13,15,16 
+legality 26:11,13 
+legislation 8:1 
+legislative 21:8 
+
+27:4 
+
+legislature 33:14 
+legitimate 12:8 
+
+13:23 
+
+letter 16:23 
+letters 6:1 
+level 42:6 
+lexington 1:15 
+lexmark 1:3 3:4 
+
+5:16 6:17,20 7:18 
+9:21 16:6,14,21 
+27:24 28:21 34:6 
+34:19 35:14 
+lexmarks 5:17 
+
+24:22 26:11 34:18 
+40:3 
+
+liable 7:23 8:16 
+
+15:17 
+
+lift 32:5,10,18 
+limit 12:20 37:21 
+
+37:22,23 
+
+limitation 12:23 
+limited 15:5,20,23 
+limiting 21:19 
+
+26:24 
+
+Page 56 
+
+48:16 
+
+line 7:3,4,19 45:15 
+literal 21:18 
+litigating 12:11 
+litigation 31:22 
+little 19:15 23:11 
+
+29:1 41:14 
+
+local 39:11,12 
+logical 5:5 
+look 13:21 21:6,9 
+23:20 25:1 33:5 
+34:14 39:2,21 
+42:24 44:17 45:23 
+47:6 
+
+looked 51:1 
+looking 14:15 
+
+20:11 39:20 44:18 
+45:19 
+
+looks 12:12 41:14 
+lose 40:24 
+losing 14:6 
+lost 9:11 48:24 
+lot 4:12 11:24 
+
+36:23 44:4 45:15 
+
+lots 19:22 
+lowercalorie 39:5 
+loy 1:15 2:3,9 3:6,7 
+3:9 4:5,16 5:14,23 
+6:18 7:2 8:4 9:6 
+9:13 10:6,11,17 
+10:22 11:10 12:1 
+13:1,14,18,20 
+14:11,18,23 16:9 
+16:17 17:1 18:25 
+19:17 20:6 21:5 
+22:3,16,25 23:7 
+23:23 27:3 46:22 
+49:2,3,5,25 50:15 
+50:24 
+
+lucrativeness 46:24 
+
+M 
+
+m 1:13 3:2 51:13 
+maker 29:8,9 
+
+limits 12:20 24:24  making 16:7,14 
+
+36:7,9 38:3 44:20 
+
+37:20 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+manageable 12:8  mirror 46:5 
+manufacturer 6:16  misrepresentation  o 2:1 3:1 
+
+O 
+
+6:23,24 14:3 26:8 
+34:22 
+
+manufacturers 
+
+28:18 35:4 
+
+5:25 15:6,18 
+
+misrepresented 
+
+24:12 29:18 37:17 
+37:17 
+
+manufactures 29:2  misrepresents 
+margins 35:12 
+market 9:19 
+misspoke 50:1 
+marketplace 18:17  misstates 36:16 
+
+24:15 
+
+objection 42:2 
+okay 4:11 39:11 
+
+40:15 
+
+once 33:4,7 42:25 
+
+49:22 
+
+ones 50:17 
+operating 29:10 
+operative 25:16 
+
+40:18 45:8,9 
+39:17 40:2 42:8  money 35:19 40:25  opinion 27:5 31:24  perceived 21:2 
+
+Page 57 
+
+35:10 38:14 51:1  points 5:14 17:20 
+
+partys 48:23 
+passed 43:5 
+passes 19:22 20:2 
+
+36:10 
+
+passing 10:20 
+patent 7:15 
+pay 47:3 
+people 10:2 21:21 
+
+permissible 38:24 
+
+39:24 
+
+49:5 
+
+poisonous 8:21 
+
+28:25 30:2 
+
+policies 47:17 
+policy 44:24 
+policymaking 
+
+40:10 
+
+portion 20:13 
+pose 24:24 
+potential 15:13 
+practices 15:10 
+
+25:11,16 
+
+prebate 6:21 17:3 
+person 5:10 7:23 
+precisely 42:4 
+8:3,5,6 9:20,25 
+10:8 21:20,20,23 
+prescribed 40:7 
+22:3 24:17 27:15  presumed 20:8 
+29:9,15 32:3,11 
+prevent 25:10 
+32:14 38:4,8 51:6  prevention 21:14 
+
+persons 5:11 36:17  principle 21:19 
+26:24 27:6,10 
+petitioner 1:4,16 
+2:4,10 3:8 49:4 
+principles 31:15 
+print 34:21 
+phrase 23:12,23 
+place 4:8,20 21:6 
+printer 21:21,24 
+22:2 29:21 45:1 
+places 26:14 29:23 
+
+33:10 
+
+plain 3:15 
+plaintiff 12:15 
+
+13:22 26:3 30:15 
+40:23 44:22 47:8  probably 29:5 39:3 
+
+plaintiffs 14:12 
+
+46:6 
+
+26:11 28:21 34:18 
+34:20 35:3 
+prints 9:20 
+private 20:18,22 
+31:22,25 32:2 
+35:20 
+
+procedural 18:6 
+procter 17:11,12,15 
+proctor 46:22,25 
+produce 34:20 
+product 7:17,18 
+
+8:3 14:4,5 16:14 
+16:24 27:19 28:13 
+32:13 34:8 47:5 
+50:11,12 
+
+products 5:11 6:4 
+17:5 26:13 27:2 
+27:22 28:3,13,14 
+28:17 34:9,17,25 
+45:10 51:7 
+
+parties 17:13,25 
+
+particularly 15:14 
+
+15:14 
+
+39:14 
+
+28:1 33:23 36:9 
+37:18 44:12,22 
+47:8 
+
+plausible 39:22 
+plausibly 43:19 
+play 34:25 
+plead 19:7 
+pleading 43:19 
+24:19 25:18 33:7  pleadings 39:20 
+please 3:10 24:9 
+34:25 37:10,15 
+pled 43:20 
+43:2 
+plus 12:7 45:18 
+point 11:11 12:24 
+30:14,24 40:23 
+49:14,20 50:7 
+
+23:3 24:11,12 
+29:17 31:22 32:1  pointed 10:14 
+
+26:16 
+
+party 14:20 18:8,8 
+
+parts 7:11 18:18 
+
+Alderson Reporting Company
+ 
+
+means 23:19 27:10  need 14:7 39:25 
+
+26:20 29:19 34:24  papers 38:18 
+
+opposed 45:19 
+opposing 51:5 
+options 39:5 
+oral 1:11 2:2,5 3:7 
+
+24:6 49:15 
+
+ought 10:24 11:1,4 
+
+36:5 
+
+outside 31:18 50:20 
+overenforcement 
+
+18:14 
+
+P 
+p 3:1 51:13 
+page 2:2 
+
+paragraph 26:5 
+parlor 8:22 9:4 
+
+24:25 
+
+part 12:4,13 16:6 
+25:23 32:25 34:4 
+
+particular 20:4 
+
+matter 1:11 19:8 
+
+morning 3:4 
+multiple 28:14 
+
+20:15 25:1,5 
+27:11,14 28:2 
+N 
+34:15,17 35:13 
+41:17 42:8 45:16  n 2:1,1 3:1 
+47:4 51:14 
+matters 43:8 
+mcdonalds 38:20 
+
+narrow 7:5 9:16 
+10:12 15:14,24 
+17:19 26:2 
+
+39:18 40:17 
+
+meals 39:13 
+mean 11:21,22 
+
+30:14 35:17 36:20 
+38:5 40:8 41:1 
+42:2 43:1,13 
+46:16 
+
+29:16 31:2 37:8,9 
+43:12,14 
+
+meant 21:17,23 
+
+38:8 42:24 
+
+nature 17:14 23:9 
+necessarily 17:7 
+
+25:19 31:12 35:8 
+35:11 37:11 39:18 
+40:9 47:22 
+
+necessary 24:20 
+
+40:22 44:23 
+
+needs 18:12 29:8 
+
+29:19 
+
+negated 15:2 
+never 19:24,24 
+
+measures 25:17 
+meet 37:25 39:22 
+mention 5:19,21,23  nevertheless 17:9 
+
+50:16 
+
+27:25 
+
+mentioned 11:25 
+
+new 32:11 
+nexus 27:13 
+
+30:3,24 31:1 46:7  noncompetitor 
+
+merely 4:12,13,14 
+
+17:6 18:1 
+met 43:21 
+microchips 7:7,7 
+
+9:18,19 16:8 
+26:15 28:20 
+middle 30:22 
+mind 30:14 33:25 
+minutes 49:2 
+
+10:15 
+
+normal 11:3 32:8 
+normally 23:7 
+
+30:21 
+
+north 31:24 
+noted 12:7 13:4 
+
+20:16 
+
+notion 23:16,22 
+
+37:23 
+
+Official 
+
+reasonable 18:24 
+
+19:3,7,9 31:7 
+33:16,21,24 34:3 
+40:15 41:2,9,12 
+41:15,19,22 42:1 
+42:3 48:5 
+
+profits 48:24 
+program 6:21 
+prohibition 12:10 
+
+17:24 
+
+purpose 9:14 15:7 
+
+21:12 22:13 25:10 
+35:24 38:10 
+purposes 11:8 
+
+pursue 20:18 
+put 27:22 37:22 
+
+22:12 26:3 29:17 
+32:22 33:2 37:3 
+44:10 
+
+promote 34:11 
+prongs 27:13 
+proper 33:10 
+properly 33:24 
+property 7:16 
+propose 11:13,14 
+propositions 4:22 
+protect 3:17 8:11 
+15:8 25:14 27:6 
+30:16 32:25 33:2  quality 34:20,20 
+quantum 48:13 
+33:6 34:4 41:23 
+question 5:3,5,9 6:5  referring 25:15 
+42:24 
+
+recognized 27:3 
+recompense 37:14 
+recovered 48:22 
+recovery 12:20 
+refer 43:7 
+
+reasons 3:14 
+rebuttal 2:8 49:3 
+recognition 19:13 
+
+45:23,25 46:1,2,5 
+
+putting 18:16 
+
+19:18 
+
+Q 
+
+protected 33:22 
+
+35:22 37:12 
+
+protecting 42:7 
+
+47:18 
+
+protection 7:16 
+protects 22:9 
+provide 22:19 
+
+36:23,25 
+
+provided 17:18 
+provides 4:5 18:2 
+
+18:20 19:14 
+
+provision 22:13 
+
+25:9 
+
+provisions 27:8 
+proximate 4:19 5:1 
+
+9:25 10:5 11:1,9 
+refilled 9:22 
+11:10,12,17,20,21  refusal 20:21 
+12:22 13:16 15:4 
+16:5 18:1,2,20 
+23:25,25 24:14 
+27:17 30:14 36:3 
+36:5,9 46:21 
+47:23 49:6 
+
+reinforces 17:19 
+rejected 6:7 
+related 6:21 25:3 
+
+47:2 48:17 
+relates 48:13 
+relationships 26:19 
+relative 39:17 
+relevant 13:6,9 
+relief 12:18,21 
+
+48:23 
+
+questioning 24:10 
+questions 10:24,25 
+
+24:2 51:10 
+
+quite 16:15 31:6 
+
+quote 24:16,17 
+
+report 21:11 
+reputation 27:7 
+
+37:10 47:19 
+
+reputations 34:25 
+
+37:19 
+
+request 13:5 
+requests 40:3 
+require 28:19 
+requirement 10:12 
+15:16 19:11 21:25 
+25:21 
+
+requirements 5:1 
+19:14,19,20 20:7 
+20:10,14,23 
+requires 11:15 
+
+32:21 
+
+reserve 24:3 
+resin 7:9 
+respect 24:25 33:11 
+40:19 41:16 45:5 
+respectfully 31:12 
+respects 33:13 
+respondent 1:18 
+
+2:7 5:24 24:7 
+response 42:15 
+responses 44:16 
+restaurant 39:12 
+
+40:25 
+
+32:19 33:17 40:25  remanufacture 6:2  restaurants 39:14 
+
+R 
+
+12:3,6,12,19,24 
+13:10,11,12 
+
+13:22 41:16 
+
+proximity 12:16 
+
+r 1:17 2:6 3:1 24:6 
+radically 32:19 
+raise 23:2 
+raised 23:4 
+prudence 23:16 
+range 40:18 
+prudential 4:7,25 
+12:8,9 15:1 17:22  reaction 21:1 
+19:13,19,20,24 
+20:4,7,9,14,23 
+21:4 22:2,20 23:5  reading 12:23 
+23:10,19 31:15 
+36:7 37:22,23,25 
+38:2,6 44:18,23 
+
+read 7:21 14:19 
+38:17 45:24,25 
+
+really 6:24 21:17 
+
+46:18 
+
+21:23 22:21 38:4 
+40:24 47:23,24 
+reason 6:12 44:3 
+
+purchase 21:21 
+purchases 21:23 
+
+6:2 17:2 
+
+remanufacturers 
+
+6:1,2,19 9:21 
+16:20 17:2 35:7 
+50:12,17 
+
+remanufacturing 
+7:12 26:11 27:24 
+28:20 
+
+remedies 12:18,25 
+
+13:2 14:12,15 
+48:23 
+
+remedy 15:6,25 
+
+17:19 48:21 
+
+remember 10:5 
+remote 18:18 
+remove 24:13 
+renamed 22:22 
+
+40:22 
+
+restriction 5:18 
+restrictive 45:11 
+
+48:8 
+
+result 14:6 41:13 
+results 19:16 
+resurrecting 44:24 
+retailers 46:6 
+retaliated 32:3 
+rico 8:7 15:25 
+rid 35:23 
+right 10:7 11:3,5,9 
+19:21 20:2,5,20 
+22:24 28:6,22 
+30:22 32:6 36:11 
+36:12,16,25 38:13 
+39:7 44:12,15 
+
+Page 58 
+
+46:14 
+
+rights 6:3 17:4,5,25 
+19:23 36:23 44:5 
+
+ripples 35:12 
+risk 13:7 
+roberts 3:3 24:4 
+
+42:12 49:1 51:11 
+
+role 33:13 
+rule 20:4 45:8,13 
+
+45:18 46:7 
+
+rulemaking 40:10 
+rules 40:4 43:19 
+
+44:24 
+
+S 
+
+s 2:1 3:1 
+sales 9:11 
+sauce 8:20,21 9:3,9 
+28:24,25 29:7,21 
+29:24 30:2,4 
+
+saying 5:10,17 6:1 
+9:21 13:14 30:19 
+
+says 7:17 14:4,17 
+
+17:1 21:9,20 
+22:13 25:13 26:17 
+27:24 38:20 
+
+scales 33:11 
+scalia 4:3,11 5:21 
+12:3 13:10,16,19 
+22:20 23:1,15 
+25:8 27:16 30:11 
+35:16 41:21 42:10 
+42:15 43:7,18 
+scc 14:21 49:22 
+
+50:2,3 
+
+scheme 12:14 
+scope 11:5,8 30:20 
+40:11 41:5 44:9 
+second 3:22 5:7,20 
+
+5:25 49:14 
+
+section 3:16,21 
+
+8:11 9:14 10:20 
+14:17,20 16:1 
+20:8 22:8 24:11 
+25:13,23,24 26:4 
+27:9,13 48:17 
+
+Alderson Reporting Company
+ 
+
+see 21:1 23:20 25:2 
+
+31:6 33:15 41:1 
+45:25 46:16,17 
+
+seek 37:14 
+seen 27:8,8 
+sell 7:7,8 28:18 
+sells 8:19 9:20 
+
+28:23 
+
+senate 21:11 
+sense 25:25 26:2,18 
+
+43:21 45:17,18 
+
+sensible 44:14 
+sensibly 37:1,2 
+separate 22:17 31:5 
+seriously 43:25 
+services 24:16 
+
+37:16 51:7 
+
+set 18:15 39:22 
+
+40:8 
+
+sherman 4:13,20 
+
+15:25 
+
+soda 28:23 
+sold 9:23 29:21,23 
+somebody 14:9 
+
+35:20 43:19 48:18 
+
+somewhat 42:22 
+sorry 30:7 42:12 
+49:21,25 50:8 
+sort 11:23 20:25 
+23:6 30:7 34:10 
+39:25 
+
+sotomayor 5:8 
+
+12:17 13:17 18:22 
+33:15,19 38:16 
+39:7,10 
+
+sotomayors 40:14 
+sought 41:23 
+speak 21:8 
+spear 42:20 
+species 20:12 
+specific 3:25 22:13 
+
+25:17 
+
+short 49:5 
+shouldnt 8:14 9:2,9 
+10:8 36:24 48:25 
+
+show 43:20 48:7 
+
+specifically 5:1 
+
+8:11 26:16 28:4 
+45:23 
+
+speculativeness 
+
+49:18 
+
+shows 24:18,25 
+29:7 48:19,24 
+
+sick 30:11 
+side 7:4 31:2 
+similar 3:23 29:22 
+
+34:1 51:4 
+
+similarity 51:2 
+similarly 48:21 
+simply 24:22 32:10 
+32:18 34:8 35:20 
+
+single 21:23 
+situation 10:16 
+
+15:23 20:20 21:10 
+22:1 31:13 35:5,6 
+38:17,25 39:1 
+44:11,12 
+
+situations 10:14 
+
+21:7 
+
+sixth 49:12 50:3,5 
+slander 8:16 
+
+48:12 
+
+spouse 32:3 
+springs 28:15 
+square 25:9 
+stainless 31:25 
+stake 45:6 
+standalone 20:12 
+standard 39:22 
+
+42:17 48:2 
+
+standing 3:11 4:7 
+
+4:25 6:8,14,17,19 
+7:3,13 8:2,8,14 
+9:3,7,10,15,19 
+10:4,9,12,15,18 
+10:23 12:4,8,13 
+14:13 15:1,20,23 
+17:7,8,10,18 19:2 
+19:6,10,14,19,20 
+19:25 20:4,7,9,14 
+20:23 21:4 22:2,4 
+22:6,16,21,23 
+
+state 9:7 14:12,15 
+statement 8:24 
+10:1,3,9 25:3 
+28:24 30:1,25 
+32:14 37:11 40:17 
+41:5,17 45:20 
+46:8 47:7,9 
+
+statements 9:22 
+17:14 26:10,12 
+27:2,12,21 28:7,9 
+28:16 33:4 34:8 
+47:2,3 
+
+states 1:1,12 3:16 
+
+8:11 9:14 
+
+static 1:6 3:5 5:19 
+5:23 6:4 7:8,12 
+16:7,14,23 17:5 
+17:21 26:12,15,18 
+27:21,25 28:2,8,9 
+28:19 34:7,16,22 
+34:25 38:7 49:10 
+49:11,12,16 50:5 
+50:15 
+
+statics 50:11 
+statue 22:12 
+statute 11:25 12:18 
+
+42:6 
+
+steven 1:15 2:3,9 
+
+3:7 49:3 
+
+stop 16:7 29:12 
+
+37:13,20 
+
+store 29:10,11 
+straightforward 
+
+9:3,6,10,18 10:10 
+29:15 30:24 35:7 
+41:4 
+
+suppliers 7:11 9:1 
+9:19 18:18 46:2 
+supplies 8:15,17 
+
+10:1 31:1 
+
+26:6 28:7 34:6,9 
+
+supposed 4:13 20:2 
+
+37:22 
+
+suppose 8:13,18 
+
+supreme 1:1,12 
+sure 39:15 46:12 
+surely 21:20 
+
+37:5 49:6 
+stray 14:16 
+strict 44:3 
+strike 42:18 
+strikes 11:20 
+stronger 4:12 
+structure 26:4 
+subject 19:8 20:15 
+25:1,5 27:11,14 
+28:2 34:14,17 
+35:13 41:17 42:8 
+45:16 47:4,24 
+subjects 39:19 
+22:2 32:10 
+submitted 51:12,14 
+substantive 18:7,11  taken 43:25 
+subway 39:3,16 
+sue 7:15 8:14 10:10 
+
+t 2:1,1 
+tailor 19:2 
+tailors 33:22 
+take 11:7 15:11 
+
+talk 4:17 5:14 
+
+T 
+
+19:24 31:6,7,8 
+42:6 47:16,18 
+
+24:21,24 36:4 
+37:12,24 38:11,22  talked 10:8 26:20 
+27:14 29:4 31:5 
+38:25 39:5 40:11 
+35:8 38:2 45:19 
+41:7 46:3 47:1 
+46:22 
+
+Official 
+
+Page 59 
+
+48:15 
+
+suggest 31:14 38:18 
+
+suggesting 26:24 
+suggests 40:15 
+
+8:7,10 13:5 15:21 
+15:22 18:11 21:2 
+36:23 42:23 44:5 
+44:8 
+
+23:2,5,10,16,17 
+23:19,20,24 24:11  statutes 3:19,23 4:1  suggested 48:3 
+24:21 25:6 26:3,9 
+28:10 29:3,6,8,19 
+29:22 30:5,14 
+31:2,15 32:8 33:9 
+34:23 35:1 37:12 
+37:24 38:3,7 39:5 
+39:8,17 40:1,2 
+42:8 43:2 44:18 
+45:8,12 46:10,19 
+47:1 48:4 49:10 
+50:2,25 51:8 
+
+statutory 3:20 4:23 
+5:6 12:14 15:5,25 
+17:19 19:21,23 
+20:6 22:22 23:20 
+23:23 25:9 33:12 
+42:22 43:4 51:4 
+
+32:2,7 44:20 
+45:16 48:16 
+suits 35:18,20 
+sundaes 8:19,20 
+supplied 9:1 28:15 
+supplier 8:14,17 
+
+suing 8:24 
+suit 9:9 20:22 31:18 
+
+step 6:22 31:14 
+
+46:18 
+
+12:23,25 13:2 
+14:15,17,17 15:8 
+18:8 21:6,12,18 
+23:20 24:14 30:16  suffer 30:19 
+32:22 33:23 34:5 
+36:7 38:5,8 41:23 
+42:21 44:9 45:6 
+
+sued 10:2 
+
+37:14 
+
+suffered 30:17 
+
+suffers 18:25 19:3 
+
+talking 14:3 34:21 
+
+36:20 
+
+talks 35:10 48:18 
+tangential 25:6 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 60 
+
+target 6:5,8,11 17:6  theres 13:12 15:15 
+17:9 28:8 49:11 
+16:1 18:5 19:18 
+49:13,18,22,22,23  thing 11:4 14:25 
+50:3,6,16 
+
+22:5 32:11 
+
+targeted 27:2 
+tate 4:20 
+teeth 33:20 
+tell 5:8 38:16 
+telling 16:21 
+term 33:10 41:24 
+terms 14:3 23:8 
+40:18 41:10,12 
+47:7 48:22 
+
+test 3:12,19 6:6,7,8 
+
+6:10,11 10:23 
+11:13,14,20,24 
+12:12 15:4 16:3 
+17:21 18:12,13,20 
+18:24 19:2,5 31:7 
+31:8,9,25 32:5,8 
+32:18,21 33:20,21 
+33:24 34:1 37:8 
+40:15 41:2,9,12 
+41:20 42:3 43:20 
+45:11 47:13,16 
+48:10 49:6,7,10 
+49:24 50:4,19,20 
+51:3,6 
+
+tests 8:8 11:11,16 
+
+18:23 31:5,12 
+47:21 
+
+text 3:15 21:6 
+
+22:18 25:16 26:5 
+33:12,22 38:12 
+42:21,22 43:4 
+thank 24:4 49:1 
+
+51:11 
+
+thats 5:12 11:19 
+
+12:5 13:25 16:11 
+16:13 19:10 22:3 
+22:5,8 25:23 29:2 
+31:6 32:4 36:19 
+38:23 39:23 40:16 
+40:17 42:2 43:2 
+43:10 48:4 
+theory 38:22 
+
+things 11:24 48:3 
+think 4:7,16 6:12 
+
+7:2,5 10:11,18,22 
+10:22 12:1,4,13 
+13:3,20,22,23 
+14:25 15:5,14 
+16:2 17:18,23 
+18:2,13,15,19,25 
+19:3 20:1,6,16 
+21:5,5,8,22 22:16 
+23:8,8,10,12,23 
+27:10 29:4 30:4 
+30:21,23 31:11 
+32:5,20 33:2,25 
+34:3 35:6 36:5 
+37:4,6 38:3 39:1 
+41:2,8,13,14,15 
+43:4,12,21,23 
+45:2,7 47:6,22 
+51:5,9 
+
+thinking 34:3 
+
+40:14 
+
+third 6:9 17:25 
+
+49:20 
+
+thompson 31:24 
+thought 15:19 38:6 
+thousands 18:10 
+three 3:14 18:23 
+
+31:4 49:2,5 
+thumb 33:11 
+tie 27:11 30:6 31:4 
+
+31:10 
+
+tied 3:20 22:8 
+tier 42:15 
+time 15:19 20:1 
+
+24:3 34:2 49:23 
+50:20 
+
+times 20:23 
+title 32:1 50:22,24 
+today 39:14 
+told 50:12 
+toner 7:10 34:22,22 
+
+toners 35:7 
+top 44:4 
+tort 15:6,7 
+totally 10:1 
+trade 15:10 25:11 
+
+25:16 
+
+trademark 27:8 
+translate 17:8 
+translates 17:7 
+treble 15:13 
+true 16:13 26:22 
+
+33:3 
+
+21:18 43:5 
+
+union 17:9 49:17 
+work 28:20 43:13 
+unique 37:19 
+works 44:4 
+united 1:1,12 
+worry 32:18 
+universal 19:13,18  worth 29:12 
+wouldnt 10:3 
+unusual 10:13,16 
+use 5:11,18 6:4 
+write 31:4 
+
+15:11 17:5 23:12  written 5:13 6:1 
+25:17 34:9 36:12  wrong 18:22,23 
+50:12 
+
+24:22 48:1 
+
+uses 8:4 27:21 28:3  wrote 32:9 
+
+38:23 39:13 45:10 
+50:10 
+
+28:14,16,19 30:2 
+
+usually 11:21 
+
+trust 3:11 
+truthful 15:19 
+
+18:16 
+
+trying 7:19 10:21 
+22:14 40:16 41:3 
+46:16,17 47:9 
+50:18 
+
+tuesday 1:9 
+twice 49:22 
+two 4:16 5:14 11:11 
+12:17 16:4 33:18 
+44:16 48:9 
+twostep 18:5 
+type 5:4 12:6 41:23 
+types 38:2 42:23 
+
+U 
+
+ultimately 38:9 
+unavailable 23:5 
+uncomfortable 
+
+23:15,22 
+
+underlying 18:7 
+
+23:13 
+
+understand 22:21 
+
+23:18 26:23 35:16 
+
+understanding 
+
+27:17 34:24 43:17 
+
+understood 33:17 
+
+38:4 43:11 
+
+unfair 3:17 8:12 
+
+9:14 15:9,10 
+25:10,11,11,11,15 
+25:16,16,22,25 
+
+V 
+
+v 1:5 3:5 31:24 
+
+42:19 
+
+vapor 34:10,18 
+vary 42:22 
+victimized 9:10 
+view 36:10 
+vii 32:1 50:22 
+vindicating 37:19 
+violate 6:3 
+visavis 29:9 33:14 
+
+42:8 
+
+W 
+
+want 12:7 18:15 
+20:17 36:4,11 
+41:6 45:24 46:3 
+
+wanted 35:23 
+washington 1:8 
+
+39:14 
+
+way 19:25 36:21 
+
+37:5 40:7 44:4,17 
+
+ways 34:1 45:15 
+wed 46:5 
+whats 11:5 18:22 
+
+18:23 27:14 48:1 
+
+wholesalers 46:6 
+whos 14:9 45:19,22 
+
+48:18 
+win 31:3 
+word 32:7 43:18 
+words 7:21 19:22 
+
+x 1:2,7 
+
+X 
+
+Y 
+
+years 3:12 43:24 
+youre 5:9,10,17 
+
+9:25 16:24 50:13 
+youve 34:16 45:24 
+
+Z 
+
+zone 17:20 18:3,9 
+18:21 19:4 24:18 
+24:23 26:23,25 
+31:8,16,25 32:21 
+33:8,16,20 34:1 
+34:12 35:2,4,21 
+36:21 37:6 41:24 
+42:11,14,16,16,18 
+42:20 43:8,14 
+44:1,13 47:13,17 
+48:9 50:19 51:6 
+
+0 
+
+1 
+11 1:13 3:2 
+12 51:13 
+12873 1:4 3:4 
+14 1:13 3:2 51:13 
+1946 21:10 
+1988 24:14 36:14 
+
+2 
+
+2 12:5 
+200 38:21 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 61 
+
+2011 31:23 
+2013 1:9 
+24 2:7 
+
+3 1:9 2:4 
+30 3:12 
+
+3
+ 
+
+4
+ 
+
+43 10:21 24:11 
+25:23,24 26:4 
+27:9,13 48:17 
+
+45 3:16 8:11 9:14 
+20:8 22:8 25:13 
+
+49 2:10 
+
+5 12:6
+ 
+
+5
+ 
+
+6
+ 
+
+7
+ 
+70s 23:13
+ 
+
+8
+ 
+
+9
+ 
+
+Alderson Reporting Company
+ 
+
+

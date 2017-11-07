@@ -1,0 +1,10493 @@
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+1 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+SAMUEL JAMES JOHNSON, 
+
+           
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 13­7120 
+
+ v. 
+
+                       
+
+: 
+
+UNITED STATES. 
+
+                  
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Monday, April 20, 2015 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:04 a.m. 
+
+APPEARANCES: 
+
+KATHERINE M. MENENDEZ, ESQ., Minneapolis, Minn.; on 
+
+ behalf of Petitioner. 
+
+MICHAEL R. DREEBEN, ESQ., Deputy Solicitor General, 
+
+ Department of Justice, Washington, D.C.; on behalf of 
+
+ Respondent. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+ 
+
+3 
+
+4
+
+5
+ 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+
+2 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+KATHERINE M. MENENDEZ, ESQ. 
+
+On behalf of the Petitioner 
+
+
+                    
+
+3
+
+ORAL ARGUMENT OF 
+
+MICHAEL R. DREEBEN, ESQ. 
+
+ On behalf of the Respondent 
+
+                    
+
+30 
+
+REBUTTAL ARGUMENT OF 
+
+KATHERINE M. MENENDEZ, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+59 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (10:04 a.m.) 
+
+3 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We will hear 
+
+reargument today in Case 13­7120, Johnson v. 
+
+United States. 
+
+ Ms. Menendez. 
+
+ ORAL ARGUMENT OF KATHERINE M. MENENDEZ 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MS. MENENDEZ: 
+
+Good morning, Your Honor. 
+
+ Mr. Chief Justice, and may it please the 
+
+Court: 
+
+ The residual clause of the violent felony 
+
+definition of the Armed Career Criminal Act is 
+
+unconstitutionally vague because its text and structure 
+
+do not set out with clarity what predicate offenses fall 
+
+within its coverage and what do not.  Its vagueness is 
+
+proven by this Court's inability after repeated efforts 
+
+to discern a meaningful and replicable interpretive 
+
+framework that will guide lower courts. 
+
+ JUSTICE GINSBURG: 
+
+Ms. Menendez, just to 
+
+clarify, you are contesting only the residual clause, 
+
+not the rest of the statute.  So if the statute ending 
+
+with ­­ it lists burglary, arson or extortion or 
+
+involves the use of explosives, you're not attacking any 
+
+of that.  It's just the residual clause; is that 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+4 
+
+1 
+
+2
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+correct? 
+
+ MS. MENENDEZ: 
+
+That is correct, Your Honor. 
+
+ And we believe, in fact, that the other 
+
+portions of this statute shed some light onto why the 
+
+residual clause is unconstitutionally vague.  For 
+
+instance, the other portions of the definition tie 
+
+qualification for violent felony status directly to the 
+
+elements of the offense in question. 
+
+ The force clause requires that the use of 
+
+force or the attempted use of force be an element of the 
+
+offense.  The burglary, arson, extortion, and use of 
+
+explosives that Your Honor references are determined by 
+
+reference to the elements of the offense.  A categorical 
+
+analysis. 
+
+ JUSTICE ALITO: 
+
+Now, I know that we are ­­
+
+asked you to argue this vagueness issue, but when you 
+
+were here before, you didn't think that the statute was 
+
+vague as applied to your client.  As I remember, your 
+
+argument was it's clear that your client did not fall 
+
+within the residual clause, largely because he was 
+
+convicted.  The offense that's at issue is a possession 
+
+offense, and you argue that none of the specific 
+
+offenses listed is ­­ is a possession offense. 
+
+ MS. MENENDEZ: 
+
+You're correct, Your Honor, 
+
+that when ­­ when we were here last time, we argued that 
+
+Alderson Reporting Company 
+
+Official 
+
+5 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+it is plainly not included for the reasons you mention 
+
+as well as others. 
+
+ JUSTICE ALITO: 
+
+So if it's not plainly 
+
+included, why do we have to get to this issue at all? 
+
+Why should we reach out to decide a constitutional 
+
+question? 
+
+ MS. MENENDEZ: 
+
+Certainly, Your Honor.  The 
+
+fact that we believe it's clearly excluded seems to be 
+
+at odds at the opinion ­­ of the opinion of the 
+
+Solicitor General in the United States, the Eighth 
+
+Circuit Court of Appeals and other courts.  The fact 
+
+that something that seems obviously not to fall within 
+
+the plain definition but is still held to fall within 
+
+the plain definition by numerous courts reveals the 
+
+vagueness of the residual clause. 
+
+ JUSTICE ALITO: 
+
+But we get ­­ almost every 
+
+case that comes here involves a dispute among the lower 
+
+courts about what something means, about what the 
+
+constitutional rule is or what the statutory 
+
+interpretation should be. 
+
+ So the mere fact that there's disagreement 
+
+about this, that shows that it's unconstitutionally 
+
+vague? 
+
+ MS. MENENDEZ: 
+
+This goes far beyond mere 
+
+disagreement, Your Honor.  I can think of no other 
+
+Alderson Reporting Company 
+
+Official 
+
+6 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+instance in which the Court has endeavored so many times 
+
+in so few years to answer precisely the same question, 
+
+not merely interpreting the same 14 words, but asking 
+
+each time whether a single offense satisfies those 14 
+
+words. 
+
+ JUSTICE ALITO: 
+
+In ­­ in James, in 2007, we 
+
+held that the residual clause ­­ we said the residual 
+
+clause is not unconstitutionally vague.  In Sykes, in 
+
+2011, we reaffirmed that. 
+
+ Can you give me other examples of instances 
+
+in which the Court has overruled a constitutional 
+
+holding that has been twice reaffirmed within a period 
+
+of 8 years?  Has that happened frequently? 
+
+ MS. MENENDEZ: 
+
+Your Honor, I think ­­ I 
+
+don't have a case at the ready for that question, but 
+
+what I can say is what doesn't happen frequently, is 
+
+that this Court has to grapple with such frequency and 
+
+is still unable to create an interpretive framework. 
+
+The heart of stare decisis is, in part, workability. 
+
+Precedent that remains workable and useful that applies 
+
+guidance to the lower court deserves greater deference. 
+
+And with due respect to this Court's understandable 
+
+hesitation to declare the statute unconstitutionally 
+
+vague, that precedent is simply proven not to be 
+
+workable. 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4 
+
+5
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+Official 
+
+7 
+
+ JUSTICE ALITO: 
+
+Well, do you think the issue 
+
+is whether the statute is unconstitutionally vague or 
+
+whether this Court's interpretations of the statute 
+
+create the basis for a vagueness argument? 
+
+ MS. MENENDEZ: 
+
+Your Honor ­­
+
+ JUSTICE ALITO: 
+
+Can ­­ can a statute be 
+
+vague simply because this Court messes it up? 
+
+ MS. MENENDEZ: 
+
+Your Honor, that is not the 
+
+case in this case.  I don't know whether it's possible 
+
+for a statute to be rendered vague by poor 
+
+interpretation, but in this case the vagueness in here 
+
+is in the text and operation itself.  This Court's 
+
+repeated efforts to discern a useful interpretive 
+
+framework haven't caused the vagueness, but they prove 
+
+the vagueness. 
+
+ JUSTICE KENNEDY: 
+
+Suppose that you had a 
+
+State court meeting of judges for sentencing and they 
+
+agreed that, within their discretion to impose a 
+
+maximum, that they would impose a greater sentence if 
+
+the defendant had a rap sheet, some previous offenses 
+
+which created a serious potential risk of physical 
+
+injury to another. Now, this is within their mandatory 
+
+discretion, I understand that. 
+
+ Would you say that's poor judging, that 
+
+that's vague?  That they'd be better off not ­­ not 
+
+Alderson Reporting Company 
+
+Official 
+
+8 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12
+
+13 
+
+14
+
+15 
+
+16
+
+17 
+
+18
+
+19 
+
+20 
+
+21
+
+22 
+
+23
+
+24 
+
+25
+
+saying it at all? 
+
+ MS. MENENDEZ: 
+
+Your Honor, I think that 
+
+judges are tasked with deciding the individual case 
+
+before them, so ­­
+
+ JUSTICE KENNEDY: 
+
+No, no.  My hypothetical 
+
+is the judges say as a sentencing matter, as a matter of 
+
+policy in this jurisdiction, we will increase your 
+
+sentence if you committed an offense that categorically 
+
+poses a serious potential risk of injury, physical 
+
+injury to another. 
+
+ MS. MENENDEZ: 
+
+Your Honor ­­
+
+ JUSTICE KENNEDY: 
+
+Do you think that's bad 
+
+judging? 
+
+ MS. MENENDEZ: 
+
+I'm never going to presume to 
+
+accuse a judge of judging poorly, but ­­
+
+ JUSTICE KENNEDY: 
+
+No, it's a hypothetical. 
+
+You can say it's bad; it's a hypothetical. 
+
+ MS. MENENDEZ: 
+
+I think that that goes beyond 
+
+the task of judging, Your Honor, into the task of 
+
+legislating.  To decide that as a ­­
+
+ JUSTICE KENNEDY: 
+
+Well, you ­­ you don't 
+
+think judges should give reasons for what they do? 
+
+ MS. MENENDEZ: 
+
+Absolutely, Your Honor.  I 
+
+think the difference is ­­
+
+ JUSTICE KENNEDY: 
+
+You absolutely do think 
+
+Alderson Reporting Company 
+
+Official 
+
+9 
+
+1 
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19
+
+20 
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+they should give reasons for what they do? 
+
+ MS. MENENDEZ: 
+
+Yes, Your Honor. 
+
+ JUSTICE KENNEDY: 
+
+And you say that this is a 
+
+vague reason?  This is ­­ this is bad reasoning, bad 
+
+judging? 
+
+ MS. MENENDEZ: 
+
+The part of your hypothetical 
+
+that troubled me, Your Honor, was the idea that the 
+
+judges would get together and make policy decisions 
+
+unfettered to an individual case. 
+
+ JUSTICE KENNEDY: 
+
+Well, judge ­­ judges meet 
+
+all the time on sentencing policy.  They ­­ they educate 
+
+each other about what sentence is and they ­­ and 
+
+they ­­ and they announce the policy to say in this 
+
+court, we want all members of the bar to know that if 
+
+there's a rap sheet, prior convictions that have a ­­ an 
+
+offense which categorically is a serious risk of 
+
+physical injury to another, we will up the sentence. 
+
+ MS. MENENDEZ: 
+
+Your Honor, I ­­
+
+ JUSTICE KENNEDY: 
+
+Do you think that's bad 
+
+judging? 
+
+ MS. MENENDEZ: 
+
+I think that's verging into 
+
+legislating, and I think that that's ­­
+
+ JUSTICE SCALIA: 
+
+Can ­­ can they ­­ can they 
+
+do that, as a matter of law, not just as a matter of 
+
+recommending to their fellow judges?  Can they reverse 
+
+Alderson Reporting Company 
+
+Official 
+
+10 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12 
+
+13
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+one of their fellow judges if ­­ if the fellow judge 
+
+does not adhere to that ­­ I've ­­ I've never heard of 
+
+such a thing. 
+
+ JUSTICE KENNEDY: 
+
+The hypothetical is that 
+
+this ­­
+
+ JUSTICE SCALIA: 
+
+I agree with you, it sounds 
+
+like legislation to me.  It's a hypothetical that's 
+
+fanciful. 
+
+ MS. MENENDEZ: 
+
+I would certainly be ­­
+
+ JUSTICE KENNEDY: 
+
+Do you think it's bad 
+
+judging for a judge to say what his policy is going to 
+
+be for future cases? 
+
+ MS. MENENDEZ: 
+
+Yes.  I think that a judge 
+
+should decide each case on the facts before them. 
+
+ JUSTICE BREYER: 
+
+Well, wait.  There are a 
+
+lot of States that have guidelines and they're 
+
+legislated and there are committees that decide it; 
+
+there are judges on the committees.  So ­­ so I don't 
+
+know that that's going to help us, or at least not me, 
+
+too much. 
+
+ I do ­­ I have counted up the number of 
+
+splits and so forth in your briefs and the others 
+
+presented to us, and adding in the cases, I ­­ I think 
+
+generously on the basis of what's decided ­­ what you've 
+
+presented to us, there are 14 splits.  That's over a 
+
+Alderson Reporting Company 
+
+Official 
+
+11 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25
+
+period of 20 years, and ­­ or so, 15 years, anyway.  And 
+
+there are literally, really, there are hundreds of 
+
+different crimes, thousands perhaps, by the time you get 
+
+the ­­
+
+ So I can't ­­ I don't know how to decide 
+
+whether 14 is a lot or a little.  I ­­ I'm really, I'm 
+
+genuinely ­­ I'm at sea on this, because maybe 14 is just 
+
+a few.  I mean, after all, every statute has uncertainty 
+
+at the edges.  Or maybe it's a lot.  Help me. 
+
+ MS. MENENDEZ: 
+
+Yes, Your Honor.  Two things, 
+
+Your Honor.  I think first of all that more than the 
+
+number of splits is the fact that each of this Court's 
+
+efforts seems to answer the question before the Court 
+
+that has a very difficult time answering any of those 14 
+
+questions.  I think even ­­
+
+ JUSTICE BREYER: 
+
+Well, is there any example 
+
+that you can think of where that was a basis for holding 
+
+a statute unconstitutional? 
+
+ MS. MENENDEZ: 
+
+Your Honor, in the vagueness 
+
+cases that we have cited, one of the things often 
+
+discussed by the Court is that it isn't amenable to a 
+
+useful interpretive framework, that it isn't being 
+
+consistently applied by lower courts. 
+
+ But the second ­­
+
+ JUSTICE BREYER: 
+
+I've never heard of that as 
+
+Alderson Reporting Company 
+
+Official 
+
+12 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+a criterion.  I mean, the common law had a method.  I 
+
+don't know ­­ and they even had crimes, you know.  There 
+
+were common law crimes.  We ­­ we have statutes.  The 
+
+government cites many which use such words as "risk of 
+
+harm" or "reckless" or ­­ they use words like we have 
+
+here, "serious risk" or "risk of physical harm." 
+
+They've cited a lot.  There ­­ there are other statutes 
+
+that involve words like that.  Are we holding all those 
+
+unconstitutional? 
+
+ MS. MENENDEZ: 
+
+Absolutely not, Your Honor. 
+
+ JUSTICE BREYER: 
+
+I know.  I understand you 
+
+think that.  All I need is help. 
+
+ MS. MENENDEZ: 
+
+I'll answer your first 
+
+question and then turn to the focus ­­
+
+ JUSTICE BREYER: 
+
+No, that is only the 
+
+question that I have.  The first one is the one. 
+
+ MS. MENENDEZ: 
+
+Your Honor, in addition to 
+
+the number of splits and whether 14 is a lot or a 
+
+little, 14 is ­­ is an enormous amount of times for this 
+
+Court to have to weigh in to resolve an unsettleable 
+
+question.  The exact same question, Your Honor; not 
+
+variance on a question, but precisely the same question. 
+
+ But I think that we should also take 
+
+instruction from the lower courts and what they are 
+
+saying about their struggle.  We have cited half a dozen 
+
+Alderson Reporting Company 
+
+Official 
+
+13 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24
+
+25 
+
+circuits, and these are seasoned jurists who describe 
+
+this as everything from a black hole to impossible ­­
+
+impossible to meaningfully and consistently apply. 
+
+ So we're not just talking about counting the 
+
+number of disagreements.  We're also talking about a 
+
+completely unworkable framework that ­­
+
+ JUSTICE KAGAN: 
+
+Well, Ms. Menendez, I ­­ I 
+
+suppose this is connected to Justice Breyer's question. 
+
+Do you think that there's some core that everybody, in 
+
+fact, does agree upon?  In other words, that there are 
+
+some offenses which people just say, well, of course 
+
+that fits within the residual clause.  It's not the kind 
+
+of thing that creates splits, it's not the kind of thing 
+
+that creates controversy, that there's a core of 
+
+agreement as to what it means and that all the trouble 
+
+is occurring on the margins. 
+
+ MS. MENENDEZ: 
+
+Your Honor, the margins here 
+
+are so much bigger than the core that even if we are 
+
+able to agree on a small number of things that might 
+
+clearly fall within the center, the fact is that the 
+
+vast majority ­­
+
+ JUSTICE KAGAN: 
+
+What do you think is in the 
+
+core? 
+
+ MS. MENENDEZ: 
+
+Your Honor, I think 
+
+kidnapping might be in the core.  A kidnapping that 
+
+Alderson Reporting Company 
+
+Official 
+
+14 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+doesn't fall within the force clause, which many would 
+
+do, might be in the core. 
+
+ But, Your Honor, I think what's more 
+
+instructive is the fact that so many things that the 
+
+government even suggested are easy cases ­­ the examples 
+
+that they give on pages 8 and 9 of their brief ­­ on 
+
+closer examination, they're not that easy.  For example, 
+
+child abuse.  Now it's true that one circuit or multiple 
+
+circuits have held that child abuse counts, but the 
+
+Spencer case, which examined a Florida statute of child 
+
+abuse, found that it didn't account. 
+
+ JUSTICE KAGAN: 
+
+The government says that to 
+
+declare a statute facially vague, all its applications 
+
+have to be facially vague.  And I guess you're 
+
+contesting that standard because you're admitting that 
+
+at least one thing that you can think of, kidnapping, 
+
+that there ­­ that that application would be 
+
+appropriate; is that right? 
+
+ MS. MENENDEZ: 
+
+Your Honor, I think that it's 
+
+important to look at where the government's standard of 
+
+has to be vague in every imagined application comes 
+
+from.  It comes from Flipside v. Hoffman Estates, which 
+
+dealt with licensing and financial fines and, more 
+
+importantly, where everyone agreed that the conduct in 
+
+question there was clearly in the core. 
+
+Alderson Reporting Company 
+
+Official 
+
+15 
+
+1
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+ This is different in all three respects. 
+
+This deals not only with an onerous sentencing penalty, 
+
+but a mandatory one where Congress has acted to take 
+
+discretion away ­­
+
+ JUSTICE SCALIA: 
+
+Well, you're not answering 
+
+the question, though.  The question is whether you agree 
+
+with the government that so long as there is something 
+
+that is clearly within the core, it's not vague.  Do you 
+
+agree with that or disagree with that? 
+
+ MS. MENENDEZ: 
+
+I do not agree with that, 
+
+Your Honor.  I think that that's unworkable. 
+
+ JUSTICE SCALIA: 
+
+I suppose you could have a 
+
+statute that criminalized annoying conduct, right?  And 
+
+according to the government, that would not be 
+
+unconstitutional, because there's some stuff that is 
+
+clearly annoying, right? 
+
+ MS. MENENDEZ: 
+
+Yes, Your Honor. 
+
+ (Laughter.) 
+
+ JUSTICE SCALIA: 
+
+So that's a perfectly good 
+
+statute according to the government, yes? 
+
+ JUSTICE GINSBURG: 
+
+What do you do with all 
+
+of the statutes that are cited in the appendix in the 
+
+government's brief that they say uses such language as 
+
+"serious risk of physical injury to another," the same 
+
+words that are used here?  Except this says "potential." 
+
+Alderson Reporting Company 
+
+Official 
+
+16 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+What do you ­­ the ­­ the government suggests that all 
+
+of those statutes would be vulnerable under your 
+
+reading. 
+
+ MS. MENENDEZ: 
+
+Thank you, Your Honor. 
+
+The ­­ the term "serious risk" is not on trial here. 
+
+None of those with the, perhaps, possible exception, we 
+
+believe, of the two described on the first page come 
+
+even close in operation or function to what the residual 
+
+clause does.  In almost every one of those cases, it's 
+
+either part of a limiting definition, it's subject to an 
+
+additional limiting definition, or it's one of several 
+
+elements which help narrow the conduct. 
+
+ JUSTICE KENNEDY: 
+
+Or ­­ or is it also that 
+
+in most of the statutes that were cited, it depends on 
+
+the facts of the particular case?  It's the opposite of 
+
+the categorical approach. 
+
+ MS. MENENDEZ: 
+
+And that is a very important 
+
+distinction, Your Honor, absolutely. 
+
+ JUSTICE SCALIA: 
+
+Which means it's up to the 
+
+jury and juries, you know, don't ­­ don't have to be 
+
+clear.  They can be vague. 
+
+ MS. MENENDEZ: 
+
+Well, juries are routinely 
+
+tasked with the question of something ­­ whether some 
+
+individual conduct, not an abstract imagination of 
+
+conduct, but actually what the defendant did constitutes 
+
+Alderson Reporting Company 
+
+Official 
+
+17 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+a serious risk.  That, combined with the fact that it's 
+
+usually part of a much narrower statute, prevents those 
+
+from being vague. 
+
+ In addition, Your Honor, with respect to 
+
+your question, not one of those statutes, not one has 
+
+given rise to the expressions of frustration from lower 
+
+courts.  The 14 disagreements ­­
+
+ JUSTICE BREYER: 
+
+Yes.  But then, look, 
+
+that ­­ that's ­­ you've got ­­ you've got that.  But 
+
+it's not ­­ that can't be.  There's something odd about 
+
+this statute that's causing the problem and I can't put 
+
+my finger on it.  And what you've done is simply point 
+
+out that courts have had difficulty with it.  Well, that 
+
+isn't enough, I don't think. 
+
+ Why? 
+
+The words seem clear enough.  What is 
+
+it about this that's led to this difficulty?  It 
+
+certainly isn't a problem to identify many cases where 
+
+there is a serious risk of physical harm.  But there's 
+
+something that's given rise to this, and I haven't yet 
+
+been able to articulate it to ­­ to myself.  You've 
+
+thought about it more than I. 
+
+ MS. MENENDEZ: 
+
+I've thought about it a lot, 
+
+Your Honor.  I think there's several things that give 
+
+rise to the confusion. 
+
+ One is the fact that it asks judges to 
+
+Alderson Reporting Company 
+
+Official 
+
+18 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+answer of ­­ an almost impossible­to­answer question. 
+
+They have to imagine whether an offense in the abstract, 
+
+and frankly, in its ordinary case, presents a 
+
+substantial risk.  How to even select the ordinary case 
+
+is something the statute gives no guidance about.  And 
+
+what degree of risk is required, where to get the 
+
+information regarding the risk; it's completely 
+
+imaginary and subjective and it's the ­­
+
+ JUSTICE ALITO: 
+
+Suppose the ­­ suppose the 
+
+question of whether it's a serious potential risk of 
+
+physical injury to another were a factual question 
+
+submitted to the jury to be determined on the basis of 
+
+what your client did.  Would that be unconstitutionally 
+
+vague? 
+
+ MS. MENENDEZ: 
+
+Your Honor, I think that 
+
+would go some direction towards solving the problem 
+
+because it would require fact­specific analysis by the 
+
+jury. 
+
+ JUSTICE ALITO: 
+
+Is that a yes or a no? 
+
+ MS. MENENDEZ: 
+
+I think that if it still had 
+
+the ­­ had the ­­ I think that would avoid the vagueness 
+
+problem, Your Honor. 
+
+ JUSTICE KAGAN: 
+
+I mean, it would create 
+
+other problems, wouldn't it?  I mean, we'd be trying to 
+
+do this based on 20­year­old convictions and ­­ and 
+
+Alderson Reporting Company 
+
+Official 
+
+19 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25
+
+often on questions that nobody had an incentive to argue 
+
+or to litigate.  Wouldn't that be ­­ I mean, that's the 
+
+reason we went down this road, isn't it? 
+
+ MS. MENENDEZ: 
+
+And Your Honor points out a 
+
+very good point about why I hesitate to think that 
+
+that's a solution.  It's an unworkable solution, but 
+
+might get around the vagueness if the parties were 
+
+entitled both to argue it to a jury and to relitigate 
+
+the specific facts.  But I don't think anyone is 
+
+imagining that recidivist statutes could function that 
+
+way in the courts. 
+
+ JUSTICE ALITO: 
+
+Well, I wasn't asking about 
+
+a recidivist statute.  I was asking about a statute that 
+
+imposed a particular penalty for possession of ­­ of a 
+
+sawed­off shotgun.  And it says or it ­­ someone is 
+
+convicted under a statute that has this language and the 
+
+possession of the sawed­off shotgun was ­­ had just 
+
+occurred. 
+
+ Do you think you think that would not be 
+
+unconstitutionally vague? 
+
+ MS. MENENDEZ: 
+
+If the jury was asked in this 
+
+offense to decide whether that possession presented a 
+
+substantial risk beyond a reasonable doubt, I don't 
+
+think that would cause the same problems, Your Honor. 
+
+ I think another thing that ­­ that is 
+
+Alderson Reporting Company 
+
+Official 
+
+20 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+inherent in other parts of the violent felony definition 
+
+that's instructive about what's wrong with this one is 
+
+that when it requires the question to be an element of 
+
+the offense, as with the force clause or, for instance, 
+
+burglary, you ­­ all you need to do is look at the 
+
+elements of that predicate offense to determine whether 
+
+it qualifies. 
+
+ JUSTICE ALITO: 
+
+Well, Congress was trying to 
+
+do something here and some may think it's a good thing 
+
+to do, some may thing it's not a good thing to do, it's 
+
+a legitimate thing to do.  And that is to impose an 
+
+enhanced penalty for people who ­­ felons who possess 
+
+firearms and have a record of prior convictions for 
+
+certain category of offenses. 
+
+ Now, if you don't use ­­ if ­­ if the ­­ the 
+
+residual clause is held to be unconstitutionally vague, 
+
+is there any other way that Congress could accomplish 
+
+that end? 
+
+ MS. MENENDEZ: 
+
+Yes, Your Honor, I think 
+
+there is.  I think one solution would be to both tie the 
+
+risk to the elements.  So, for instance, you can keep 
+
+the same 14 words, but add in "has as an element the 
+
+pre" ­­ "creation of serious potential risk," and 
+
+anything that didn't fall within that, Congress could 
+
+simply add as an enumerated offense. 
+
+Alderson Reporting Company 
+
+Official 
+
+21 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25
+
+ JUSTICE ALITO: 
+
+Why does that solve the 
+
+problem, has as an element the creation of a serious 
+
+potential risk? 
+
+ MS. MENENDEZ: 
+
+Because then litigants, 
+
+defendants and judges would only have to look at the 
+
+criminal code of the State that has the predicate 
+
+offense and see whether it has as an element the 
+
+creation of risk. 
+
+ JUSTICE ALITO: 
+
+Well, an offense that 
+
+prohibits the possession of a ­­ of a sawed­off shotgun 
+
+has as an element the possession of a sawed­off shotgun. 
+
+So you'd have to decide whether that element creates the 
+
+risk.  I don't see how that solves it. 
+
+ MS. MENENDEZ: 
+
+Under my solution,  ­­ mere 
+
+possession of a short­barrel shotgun would not count 
+
+under Minnesota law because it doesn't require the 
+
+possession in connection with behavior that creates a 
+
+risk.  But if I may ­­
+
+ JUSTICE SCALIA: 
+
+But the jury would have 
+
+found ­­ would have found the ­­ the fact of the risk, 
+
+right ­­
+
+ MS. MENENDEZ: 
+
+Precisely, Your Honor. 
+
+ JUSTICE SCALIA: 
+
+­­ in the ­­ in the cases 
+
+that you're describing? 
+
+ MS. MENENDEZ: 
+
+In my imagined solution, Your 
+
+Alderson Reporting Company 
+
+Official 
+
+22 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+Honor.  But frankly, it's up to Congress. 
+
+ JUSTICE KAGAN: 
+
+So ­­ so what you're saying, 
+
+essentially, is that all the statues in the back of the 
+
+government's brief would count? 
+
+ MS. MENENDEZ: 
+
+Yes, Your Honor. 
+
+ JUSTICE KAGAN: 
+
+But nothing else would.  In 
+
+other words, you have to have it listed specifically, 
+
+and this conduct created a serious risk of injury. 
+
+ MS. MENENDEZ: 
+
+If Congress chose that as a 
+
+solution, yes, Your Honor.  I think that this 
+
+demonstrates why this needs to be left to Congress. 
+
+ JUSTICE BREYER: 
+
+Extortion doesn't have 
+
+that. 
+
+ MS. MENENDEZ: 
+
+Extortion is an enumerated 
+
+offense, and that would pose the additional solution, 
+
+Your Honor.  Anything that doesn't have ­­
+
+ JUSTICE BREYER: 
+
+Is there any crime like 
+
+that?  What is the crime like that?  I mean ­­
+
+ MS. MENENDEZ: 
+
+There's 200 crimes like that. 
+
+ JUSTICE BREYER: 
+
+­­ in the first one, use, 
+
+attempted use, threatened use of physical force, and 
+
+you're simply adding to those ­­ to those three 
+
+categories, you'd say, or risk ­­ or serious risk of 
+
+what? 
+
+ MS. MENENDEZ: 
+
+Has as an element the 
+
+Alderson Reporting Company 
+
+Official 
+
+23 
+
+1 
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8 
+
+9
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+creation of a serious risk or a serious potential risk. 
+
+ JUSTICE BREYER: 
+
+Of? 
+
+ MS. MENENDEZ: 
+
+Of injury to another.  It's 
+
+up to Congress how they would choose to define it, but 
+
+if they wanted it ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+But I thought ­­
+
+ MS. MENENDEZ: 
+
+­­ to hew closely to the 
+
+residual clause ­­ I apologize, Your Honor. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+No.  No.  Go ahead. 
+
+ MS. MENENDEZ: 
+
+If they want it to hew 
+
+closely to the status quo, were Congress to choose that, 
+
+then requiring that risk to be an element, the 
+
+government has collected for us 200 examples of statutes 
+
+that have risk as an element, they would presumably 
+
+count.  And if there were some left out of this solution 
+
+that Congress wanted to ­­ to include, like, for 
+
+instance, if extortion were not one of the enumerated 
+
+offenses and they wanted to include it, all they have to 
+
+do is list it.  It's a perfect congressional function, 
+
+Your Honors.  They can hear data. 
+
+ JUSTICE BREYER: 
+
+I see. 
+
+ MS. MENENDEZ: 
+
+They can assess risk.  They 
+
+can hear testimony.  They can decide what should and 
+
+shouldn't count, but we shouldn't be imagining it every 
+
+time. 
+
+Alderson Reporting Company 
+
+Official 
+
+24 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ JUSTICE KAGAN: 
+
+Are you saying that this is 
+
+something ­­ in response to Justice Alito's question ­­
+
+that this is a way that Congress could fix the statute? 
+
+Or are you saying that it's a way we could fix the 
+
+statute?  In other words, that it's an available savings 
+
+construction that we should feel free to adopt. 
+
+ MS. MENENDEZ: 
+
+Your Honor, I ­­ I don't 
+
+presume to tell the Court what it can and cannot do, but 
+
+it has strived four ­­ and  now the fifth time to create 
+
+an interpretive framework that would solve the problem. 
+
+I think that my suggestion is a good one, but far be it 
+
+for me to say what Congress should ­­
+
+ JUSTICE SCALIA: 
+
+Let me ask you something. 
+
+Can you get ­­ can you get to your suggestion from the 
+
+text of the statute? 
+
+ MS. MENENDEZ: 
+
+I do not believe so, Your 
+
+Honor. 
+
+ JUSTICE SCALIA: 
+
+I don't think so either. 
+
+ MS. MENENDEZ: 
+
+If it were in the text, we 
+
+probably wouldn't be in this place to begin with, Your 
+
+Honor. 
+
+ JUSTICE KENNEDY: 
+
+It's ­­ it's important to 
+
+me to evaluate your statement that most of the problems 
+
+are at the margins, not at the core.  How ­­ how do I do 
+
+that?  It ­­ it ­­ it's ­­ my assumption was the 
+
+Alderson Reporting Company 
+
+Official 
+
+25 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+opposite.  I thought the margins were few and that the 
+
+core was ­­ covered a vast amount of criminal conduct. 
+
+Where ­­ where do I look to determine who's right on 
+
+that? 
+
+ MS. MENENDEZ: 
+
+Your Honor, I think that 
+
+we've grappled with that especially in our reply brief. 
+
+You're exactly right.  In a traditional statute, the 
+
+core is large, the margins are gray, and the gray 
+
+margins shouldn't lead to a conclusion of vagueness. 
+
+But in this case, the fact that over, and over, and over 
+
+again there's disagreement about things that should seem 
+
+obvious, shows us that that core is smaller and smaller, 
+
+if not extremely small, compared to the margins. 
+
+ Look at the easy cases ­­ the easy cases 
+
+that the government pointed to at pages 8 and 9 of their 
+
+briefs.  On closer examination, those give rise to 
+
+disagreement.  They're not uniformly settled in favor of 
+
+inclusion or exclusion.  Anything that seems easy at 
+
+first blush really isn't.  There's several splits 
+
+pending right now, Your Honor.  And I don't mean to just 
+
+dismiss them as disagreements about outcome. 
+
+Disagreements about how to apply this Court's tests that 
+
+aren't going to be answered by this Court's decision in 
+
+Johnson and won't be answered presumably by the next 
+
+case down the road.  The ­­ the question of whether 
+
+Alderson Reporting Company 
+
+Official 
+
+26 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+consensual sex offenses based on age should qualify, the 
+
+question of how offenses with recklessness should be 
+
+assessed, conspiracy to commit crimes of violence. 
+
+ One of the easy cases that the government 
+
+highlights is solicitation to commit murder, but it's 
+
+really not that easy if conspiracy to commit a crime of 
+
+violence has two petitions pending before this Court 
+
+right now.  So the veneer of ease and simplicity that 
+
+the government attempts to create in their writing is 
+
+belied by the reality on the ground. 
+
+ JUSTICE KENNEDY: 
+
+A ­­ a different question, 
+
+and it's more for the government than for you.  As you 
+
+understand the government's position or is there common 
+
+ground between the parties that because this is a 
+
+mandatory increase, the standard for vagueness is 
+
+precisely the same as the standard that we applied and 
+
+determined whether or not a crime, in its definition, is 
+
+itself vague. 
+
+ In other words, is there a different 
+
+vagueness standard for sentencing than for the ­­ a 
+
+statement of what a crime is at the outset? 
+
+ MS. MENENDEZ: 
+
+I ­­ I don't think in this 
+
+case it deserves a lesser scrutiny because it's a 
+
+sentencing provision precisely because it's both 
+
+mandatory and onerous in the extreme. 
+
+Alderson Reporting Company 
+
+Official 
+
+27 
+
+1
+
+2 
+
+3
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ JUSTICE KENNEDY: 
+
+It's as if there were a 
+
+new crime. 
+
+ MS. MENENDEZ: 
+
+It's as if there were a new 
+
+crime.  And I'm not talking about for other aspects of 
+
+this Court's jurisprudence, but for that question. 
+
+ And I think frankly Flipside v. Hoffman 
+
+Estates itself suggests that criminal statutes deserve 
+
+greater scrutiny even though the licensing and mere fine 
+
+statute that gave rise to that statement of vague in 
+
+every application, they deserve greater scrutiny.  And 
+
+this is certainly one of the most onerous sentencing 
+
+penalties that we as Federal defenders face in our 
+
+practice. 
+
+ JUSTICE GINSBURG: 
+
+You say the congressional 
+
+cure, as I understand your argument, could only be to 
+
+add to the list of crimes, to add to arson, extortion, 
+
+or to have whereas the ­­ an element of the crime is a 
+
+serious risk.  That's the only things that Congress 
+
+could do.  Nothing else. 
+
+ MS. MENENDEZ: 
+
+Oh, no, Your Honor.  I don't 
+
+mean to suggest that at all.  Congress can fix this 
+
+however they see fit, and that's why it's a better 
+
+congressional function than asking one defense attorney 
+
+to ­­
+
+ JUSTICE GINSBURG: 
+
+But I asked what were the 
+
+Alderson Reporting Company 
+
+Official 
+
+28 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+routes that Congress could take.  One is to list every 
+
+crime that they think should get the enhanced penalty. 
+
+Another is to say this ­­ this statute has to have as an 
+
+element that the conduct creates a serious risk of 
+
+injury to others.  Sort of those two.  What could 
+
+Congress do? 
+
+ MS. MENENDEZ: 
+
+Well, Your Honor, I don't 
+
+think listing them is that difficult.  Other 
+
+congressional enactments list a large number of things 
+
+that ­­
+
+ JUSTICE GINSBURG: 
+
+I'm just saying, is there 
+
+anything else?  Let's accept listing is okay.  Saying 
+
+that the crime has to have as an element the risk of 
+
+danger to another. 
+
+ MS. MENENDEZ: 
+
+Your Honor, I'm not trying to 
+
+avoid the question.  I think it depends on what they 
+
+want to accomplish.  If they want this to apply very 
+
+broadly to almost any sort of felony, they can say so. 
+
+If they want it to apply more narrowly to things that 
+
+are actually violent, they can say so.  The problem is 
+
+they didn't say much of anything when they wrote this 
+
+statute.  Those are the two ideas I have, but I'm sure 
+
+there are more. 
+
+ JUSTICE ALITO: 
+
+I ­­ I don't want to take up 
+
+your rebuttal time, but just this quick question. 
+
+Alderson Reporting Company 
+
+Official 
+
+29 
+
+ If ­­ if Congress assigned a committee or a 
+
+person to go through the criminal code of every single 
+
+jurisdiction and identify those offenses that didn't 
+
+fall within any other provision of ACCA, but met, in the 
+
+judgment of those ­­ that individual or those 
+
+individuals, the residual clause standard, how many do 
+
+you think they would come up with? 
+
+ MS. MENENDEZ: 
+
+I ­­ I ­­
+
+ JUSTICE ALITO: 
+
+Dozens?  Hundreds? 
+
+Thousands? 
+
+ MS. MENENDEZ: 
+
+Again, I think it ­­ it 
+
+depends on whether Congress wants this to be a narrowly 
+
+applied enhancement for the worst of the worst or 
+
+broadly applied three strikes rule.  And I think if they 
+
+gave the commission that guidance instructed by this 
+
+Court's previous cases that show the hard areas of 
+
+questions, then the commission could decide. 
+
+ I ­­ I don't think that it's necessary to 
+
+look at every State's code.  If they just specify the 
+
+definitions like they did for burglary and robbery in 
+
+the original 1984 enactment, that would save an enormous 
+
+amount of question, and it would preclude them from 
+
+having to look at each State's code. 
+
+ And with the Court's permission, I'll save 
+
+my last moments.  Thank you. 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+30 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Dreeben. 
+
+ ORAL ARGUMENT OF MICHAEL R. DREEBEN 
+
+ ON BEHALF OF THE RESPONDENT 
+
+ MR. DREEBEN: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ The Armed Career Criminal Act states, as 
+
+this Court noted in Sykes, a normative principle that 
+
+can be applied to various crimes with a methodology that 
+
+does not produce unconstitutional vagueness. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, we didn't say 
+
+anything like that in Begay. 
+
+ MR. DREEBEN: 
+
+I think the Court didn't 
+
+volunteer an opinion about the vagueness of the statute 
+
+in Begay.  It did comment on that in James, and it said 
+
+that it was not unconstitutional.  Sykes came later 
+
+after Begay, and the Court continued to adhere to the 
+
+idea that this statute can be applied as it has been 
+
+applied four times by the Court and in numerous 
+
+instances by lower courts without substantial 
+
+difficulty. 
+
+ Now, I'm not ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+I didn't mean to 
+
+suggest in Begay we specifically addressed vagueness, 
+
+but the ­­ my ­­ my point was that Sykes provides a 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+31 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+particular test, but as your friend has pointed out, 
+
+Begay, it seems to me, points in an entirely different 
+
+direction. 
+
+ MR. DREEBEN: 
+
+What Begay did was conclude 
+
+that the similarity of the offenses in the residual 
+
+clause to the enumerated offenses had to be more than 
+
+just similarity of risk; it also had to have a certain 
+
+similarity in kind. 
+
+ In Sykes, the Court noted that the phrase 
+
+that the Court developed in Begay, "purposeful, violent 
+
+and aggressive," wasn't precisely linked to the text of 
+
+the statute, and it made clear that for offenses with a 
+
+mens rea of knowingly or intentionally risk levels 
+
+ordinarily provide the manageable test that courts can 
+
+apply. 
+
+ JUSTICE BREYER: 
+
+That's true, but you see, 
+
+Begay sort of points to the problem in my mind.  There 
+
+is no doubt that drunk driving does cause a risk of 
+
+physical injury.  But could it be that Congress really 
+
+wanted to impose a 15­year mandatory minimum penalty to 
+
+a person who has two drunk driving offenses prior?  It 
+
+seemed outside the ballpark of what they're actually 
+
+interested in, and that's why I've had such a hard time, 
+
+I think we've had such a hard time with this in part 
+
+because of the sentence ­­ you know, a 15­year mandatory 
+
+Alderson Reporting Company 
+
+Official 
+
+32 
+
+minimum ­­ and in part, because there seems like they 
+
+had something in mind, but it's very hard to figure out. 
+
+ MR. DREEBEN: 
+
+So I think, Justice Breyer, 
+
+that it may have been a little bit too ambitious for the 
+
+Court to try to develop a similarity­in­kind test 
+
+from ­­
+
+ JUSTICE BREYER: 
+
+Yeah. 
+
+ MR. DREEBEN: 
+
+­­ as the Court did in Begay. 
+
+That was the position of the government; four Justices 
+
+agreed with that, five did not.  We're not asking the 
+
+Court to revisit that today. 
+
+ But once the Court did develop it, it then 
+
+considered in Sykes whether it provided a uniform, 
+
+universally applicable test ­­
+
+ JUSTICE BREYER: 
+
+And it doesn't. 
+
+ MR. DREEBEN: 
+
+­­ and concluded that it was 
+
+better to restrict it to crimes that involved 
+
+negligence, strict liability, recklessness, potentially, 
+
+so as not to allow it to basically subsume what's in the 
+
+statute.  And I think that having done that, the Court 
+
+has given guidance to the lower courts, there has been 
+
+some confusion that the Court, in its opinion in this 
+
+case, could clear up about the relationship between 
+
+Begay and the risk test. 
+
+ JUSTICE SCALIA: 
+
+Is that all it takes?  I 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+33 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+mean, can we just patch up this statute in ways that 
+
+have nothing to do with its text as ­­ as Begay didn't? 
+
+I ­­ I thought we did not have any common law power to 
+
+create crimes.  And if that's the case, it seems to me 
+
+it has to be Congress that's done that. 
+
+ MR. DREEBEN: 
+
+So I agree with ­­
+
+ JUSTICE SCALIA: 
+
+And if Congress hasn't done 
+
+it, and it hasn't done it, clearly, it seems to me our 
+
+job is ­­ is over. 
+
+ MR. DREEBEN: 
+
+So I agree with you, Justice 
+
+Scalia, that the Court does not have the power to create 
+
+common law crimes, and I don't think that it has done 
+
+that.  It's engaged in statutory construction about 
+
+which members of the Court may disagree. 
+
+ Now, if the Court believes that a 
+
+similar­in­kind limitation is appropriate for ACCA, 
+
+there actually is a textual vehicle for getting there. 
+
+It's the same vehicle that Your Honor used in the other 
+
+Johnson case, the one about whether batteries involved 
+
+strong force or simply offensive touching, and Your 
+
+Honor looked to ­­
+
+ JUSTICE SCALIA: 
+
+Other laws. 
+
+ MR. DREEBEN: 
+
+­­ violent felony, the word 
+
+being defined, and concluded that the word "violent" in 
+
+that definition informed what kind of force would count. 
+
+Alderson Reporting Company 
+
+Official 
+
+34 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+And I think that that was the essential impulse of the 
+
+Court in the Begay case to distinguish between injuries 
+
+that are caused by regulatory type violations, like 
+
+pollution, and injuries that are caused in the way that 
+
+the statute specifies. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, but that ­­
+
+that phrase, it seems to me, could just as clearly be 
+
+viewed as adding confusion.  And that's one ­­ the 
+
+various hundreds whatever statutes you cite, I don't 
+
+think ­­ certainly not many of them, I'm not sure any of 
+
+them, involved that aspect of it.  In other words, it's 
+
+not just a question of whether it's serious potential 
+
+risk, but otherwise, what is its relationship to the 
+
+enumerated offenses. 
+
+ MR. DREEBEN: 
+
+So I think that that is not 
+
+such a big problem if the Court applies that the way 
+
+that it did in Sykes, and the way the lower courts 
+
+predominantly do.  It is not a precise statistical 
+
+empirical analysis.  Congress could not have envisioned 
+
+that this Court and the lower courts have available to 
+
+them statistics that for most crimes do not exist in 
+
+order to gauge risk levels. 
+
+ It instead intended a judgment exercise, 
+
+based on experience, just like the Court did in Sykes. 
+
+And I want to remind the Court that eight members of the 
+
+Alderson Reporting Company 
+
+Official 
+
+35 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+Court agreed in Sykes, that flight in a vehicle from a 
+
+police officer in its ordinary case was sufficiently 
+
+risky to trigger the residual clause.  There was 
+
+disagreement because of the particular structure of the 
+
+Indiana statute, which had an enhanced offense that 
+
+involved vehicular flight that posed a risk of 
+
+something. 
+
+ JUSTICE SCALIA: 
+
+I don't know what you mean 
+
+by a judgment exercised based on experience.  What ­­
+
+what experience do I have regarding these innumerable 
+
+State crimes?  I ­­ I've not heard any case involving 
+
+any of those State crimes.  What ­­ what experience are 
+
+you asking me to apply? 
+
+ MR. DREEBEN: 
+
+I think the same kind of 
+
+logical judgment that the lower courts have used, and 
+
+let me give an example ­­
+
+ JUSTICE SCALIA: 
+
+Well, that's not 
+
+experience.  I mean, logic is not an experience.  You're 
+
+asking me to apply logic or experience.  Which is it? 
+
+ MR. DREEBEN: 
+
+Both. 
+
+ JUSTICE SCALIA: 
+
+Both.  Well, what's the 
+
+experience part? 
+
+ MR. DREEBEN: 
+
+Well, it may be a little bit 
+
+easier if I start with the logic point, and I promise I 
+
+will get to the experience point. 
+
+Alderson Reporting Company 
+
+Official 
+
+36 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ The logic point involves looking at the 
+
+elements of the offense and asking, what does the 
+
+conduct in this offense consist of?  Let me take an 
+
+example which my friend on the other side has not 
+
+challenged:  Solicitation of a child under the age of 14 
+
+to engage in sodomy. 
+
+ Now, a court can look at that conduct and 
+
+say what that requires is that an adult attempt to 
+
+entice a child to a private place to engage in a sex 
+
+act.  Is that the kind of act that is likely, as a 
+
+matter of logic and ordinary human experience ­­ adults 
+
+are bigger than children, sodomy requires physical 
+
+contact ­­ is it likely to produce a serious potential 
+
+risk of physical injury to another? 
+
+ Courts do not have very much difficulty 
+
+answering that question.  Similarly, in cases of 
+
+kidnapping, you ask what does it mean?  Somebody is ­­
+
+ JUSTICE SCALIA: 
+
+I suggest they have not 
+
+much difficulty because it's a horrific crime, not 
+
+because they have any basis for saying, you know, what 
+
+the degree of risk of serious ­­ potential ­­ a serious 
+
+potential risk of injury is. 
+
+ MR. DREEBEN: 
+
+Well, I don't think that they 
+
+have to say with precision what the degree of risk is. 
+
+Congress gave four exemplar crimes to try to illustrate 
+
+Alderson Reporting Company 
+
+Official 
+
+37 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+what it had in mind.  Two of them, burglary and 
+
+extortion, involve conduct that's directed against 
+
+property or potentially a threat of a person.  And the 
+
+danger that can arise is of confrontation; if the 
+
+burglar encounters somebody at the home, if the 
+
+extortionist attempts to realize the threat. 
+
+ JUSTICE BREYER: 
+
+All right, I see that. 
+
+Now, wait, before ­­ because I want you to get back to 
+
+the experience.  The thing also that sticks in my mind 
+
+was  that Indiana case.  Do you remember the one I'm 
+
+talking about?  Because ­­ because, in fact, you look at 
+
+the words, but they're nested ­­ you see they're nested 
+
+in a set of other crimes. 
+
+ MR. DREEBEN: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+And really you'd like to 
+
+know an empirical fact, how is this bit of a larger nest 
+
+actually used in Indiana?  It might be that it's really 
+
+used against people who are involved in a violent kind 
+
+of situation, or it might not be, because there are a 
+
+whole lot of other ones around. 
+
+ And now you turn to experience and say, use 
+
+experience ­­ you know, I have no idea whatsoever.  And 
+
+Posner has suggested, I think I picked that up, go and 
+
+do some empirical research; why doesn't the government 
+
+do it?  The Sentencing Commission has tried to do it. 
+
+Alderson Reporting Company 
+
+Official 
+
+38 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+It can't start.  It doesn't know where to begin, there 
+
+are so many statutes. 
+
+ MR. DREEBEN: 
+
+So I think, Justice Breyer, 
+
+the very difficulty and unmanageability of the 
+
+enterprise suggests that it's not what Congress had in 
+
+mind. 
+
+ JUSTICE BREYER: 
+
+All right. 
+
+ MR. DREEBEN: 
+
+What Congress had in mind was 
+
+identifying classes of offenses that judges are 
+
+confident involve serious potential risks of physical 
+
+injury to another, possibly the similarity­in­kind 
+
+inquiry when the mens rea isn't satisfied.  And what 
+
+Congress expected courts to do was to analyze what the 
+
+conduct is that's involved in it, compare it to the 
+
+listed offenses, and see if the risks are similar.  I ­­
+
+ JUSTICE GINSBURG: 
+
+Does the ­­
+
+ JUSTICE KAGAN: 
+
+But that ­­ that sounds ­­
+
+ JUSTICE GINSBURG: 
+
+Does the Department of 
+
+Justice do any of that?  I mean, an ACCA sentence, as I 
+
+understand it, is one that the prosecutor asks for.  And 
+
+is there any guidance coming from the Department of 
+
+Justice, guidance to the U.S. attorneys who are going to 
+
+be asking for ACCA sentences, when they should and when 
+
+they shouldn't? 
+
+ MR. DREEBEN: 
+
+Yes, and the guidance keys, 
+
+Alderson Reporting Company 
+
+Official 
+
+39 
+
+Justice Ginsburg, off this Court's decisions.  We use 
+
+primarily an analysis that focuses on looking at the 
+
+conduct that the elements of the crimes embrace, and 
+
+logically analyzing what does it entail?  Does it entail 
+
+a risk of confrontation? 
+
+ The other kind of risk that's subsumed ­­
+
+ JUSTICE GINSBURG: 
+
+Is there ­­ is there 
+
+written guidance ­­
+
+ MR. DREEBEN: 
+
+Yes. 
+
+ JUSTICE GINSBURG: 
+
+­­ from the Department of 
+
+Justice to the U.S. attorneys? 
+
+ MR. DREEBEN: 
+
+Yes, there is, in the form of 
+
+guidance memos that we regard as work product, but they 
+
+involve analytical efforts to separate different 
+
+offenses into different categories, based on the 
+
+conduct. 
+
+ And to the extent that statistics come into 
+
+play, and I know that, Justice Breyer, your opinions 
+
+have cited statistics, you've talked about the needs for 
+
+statistics, we think that they play the ­­ exactly the 
+
+role that the Court used them for in Sykes.  First, the 
+
+Court talked in Sykes about what happens when someone 
+
+pleas ­­ flees from a police officer.  What are the 
+
+risks of ­­
+
+ JUSTICE BREYER: 
+
+Yeah, but what about 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+40 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+extortion?  I mean, extortion, that doesn't ­­ I mean, 
+
+the other three I can see; burglary, arson, explosives, 
+
+sure.  But what about extortion?  I thought the ­­ it's 
+
+like Hobbs Act, and I would be amazed if many of those 
+
+involve violence, but you would know.  Do they ­­ are 
+
+there ­­
+
+ JUSTICE SCALIA: 
+
+Violence by the 
+
+extortion ­­ extortee.  I mean, it certainly is not the 
+
+first ­­
+
+ JUSTICE BREYER: 
+
+He's at the other end of a 
+
+postal communication, or something.  I mean, they say, 
+
+if you don't give me some money, I will, you know ­­ and 
+
+I'm in New York, you're in Hawaii, I'm going to reveal 
+
+such and such. 
+
+ MR. DREEBEN: 
+
+Well, I think ­­
+
+ JUSTICE BREYER: 
+
+What are the facts on that? 
+
+ MR. DREEBEN: 
+
+I think that what Congress had 
+
+in mind was the kind of extortion where somebody 
+
+threatens to inflict injury on a person or property. 
+
+And if it's ­­ in order to achieve a demand.  And 
+
+Congress was concerned that the person who makes that 
+
+threat poses a risk of carrying it out, which creates a 
+
+degree of danger.  It's the confront ­­
+
+ JUSTICE SCALIA: 
+
+Is that the Justice 
+
+Department's position, that other extortion is not 
+
+Alderson Reporting Company 
+
+Official 
+
+41 
+
+covered by the provision? 
+
+ MR. DREEBEN: 
+
+Well, I don't think ­­
+
+ JUSTICE SCALIA: 
+
+If it's just blackmail, you 
+
+threaten to reveal something about the person's life ­­
+
+ MR. DREEBEN: 
+
+I ­­
+
+ JUSTICE SCALIA: 
+
+­­ that isn't covered. 
+
+ MR. DREEBEN: 
+
+We would argue that the 
+
+generic definition of extortion is seeking to get some 
+
+property from a person with his consent by the use of 
+
+threats, force or fear. 
+
+ JUSTICE SCALIA: 
+
+Threat ­­ threats or force. 
+
+ MR. DREEBEN: 
+
+Yes, yes. 
+
+ JUSTICE SCALIA: 
+
+You add or fear. 
+
+ MR. DREEBEN: 
+
+Yes. 
+
+ JUSTICE SCALIA: 
+
+Well, I mean, fear includes 
+
+being afraid that some events of your prior life will 
+
+be ­­
+
+ MR. DREEBEN: 
+
+That's right.  And ­­
+
+ JUSTICE SCALIA: 
+
+So ­­ so you ­­ you don't 
+
+assert that extortion means only the extortion that ­­
+
+that the mafia might ­­ you know, pay up or ­­ or we're 
+
+going to hurt you. 
+
+ MR. DREEBEN: 
+
+I ­­ I think a normal method 
+
+of statutory construction doesn't quite get you to the 
+
+narrower view of extortion that you expressed in your 
+
+1 
+
+2
+
+3
+
+4 
+
+5
+
+6
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16 
+
+17 
+
+18
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+42 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+separate opinion in James I believe, but that is a legal 
+
+question.  I mean, the government might make that 
+
+argument and this Court might conclude that under the 
+
+principle that similar words should be construed 
+
+similarly, extortion has a narrower meaning in this 
+
+statute. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+No.  But the problem 
+
+is ­­ the problem is not what the government argues when 
+
+it gets into court.  The problem is what the prosecutor 
+
+threatens when he's entered into plea bargain 
+
+negotiations.  This is the point that Justice Ginsburg 
+
+touched on.  You are putting the defense counsel in a 
+
+position where they have to interpret the vagueness in 
+
+making the decision when ­­ whether they want to plead 
+
+to five years or risk the mandatory minimum of ­­ of 15. 
+
+ And your guidelines say a lot, but I thought 
+
+one of the things your guidelines say is that you should 
+
+prosecute the ­­ the maximum extent that you can, right? 
+
+Isn't it you should charge the maximum if you ­­ if you 
+
+charge and then the prosecutors go in and say, look, I 
+
+could charge you this much and ­­ or I could ­­ or I 
+
+could ­­ I mean, I could add this charge to what I've 
+
+got and then you'd face 15 years.  And defense counsel 
+
+said, well, all right.  Let me see if we're guilty of 
+
+that.  And he's going to read that and have no idea 
+
+Alderson Reporting Company 
+
+Official 
+
+43 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+whether they're covered by it or not. 
+
+ MR. DREEBEN: 
+
+I think no idea is not quite 
+
+right. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+No idea is an 
+
+exaggeration, sure. 
+
+ MR. DREEBEN: 
+
+It is an exaggeration and this 
+
+may not completely answer ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Not enough of an ­­
+
+not enough of an idea to risk an extra ten years for 
+
+their client. 
+
+ MR. DREEBEN: 
+
+Well, these aren't charges in 
+
+the same way that a criminal charge is that's brought in 
+
+the indictment.  Typically, criminal history isn't even 
+
+assembled until after the defendant has pleaded guilty 
+
+and a presentence report is being prepared.  And at that 
+
+point the parties are more aware of whether the 
+
+defendant might be exposed to the Armed Career Criminal 
+
+Act or not.  Sometimes ex ante analysis is done and can 
+
+be done fairly reliably. 
+
+ Again, this Court sees cases that really 
+
+pose hard questions; that have generated circuit splits 
+
+that result in legal questions that have divided the 
+
+lower courts.  There is a wealth of activity below the 
+
+surface that doesn't get to this Court in which there 
+
+isn't nearly as much difficulty in figuring it out. 
+
+Alderson Reporting Company 
+
+Official 
+
+44 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19
+
+20 
+
+21
+
+22 
+
+23
+
+24
+
+25 
+
+ Now, on pages 8 and 9 of our brief, which my 
+
+friend referred to several times, we cited 17 examples 
+
+of what we thought are easy cases.  In the reply brief, 
+
+the Petitioner came back and said, well, three of those 
+
+really aren't easy because they're circuit splits.  In 
+
+two of them, the splits are really because the 
+
+definitions, the offenses, the elements of the offenses 
+
+were quite different.  Child abuse meant something very 
+
+different in one jurisdiction from another. 
+
+ JUSTICE SCALIA: 
+
+So you ­­ you take the 
+
+position so long as there's some easy cases, the statute 
+
+can't be vague. 
+
+ MR. DREEBEN: 
+
+I don't think the Court has to 
+
+go nearly that far, Justice Scalia, because in this case 
+
+you have four cases ­­
+
+ JUSTICE SCALIA: 
+
+So you ­­ you don't take 
+
+that position? 
+
+ MR. DREEBEN: 
+
+This Court's decision ­­
+
+ JUSTICE SCALIA: 
+
+I thought your brief took 
+
+that position. 
+
+ MR. DREEBEN: 
+
+This Court's decisions do 
+
+suggest that. 
+
+ JUSTICE SCALIA: 
+
+Yes. 
+
+ MR. DREEBEN: 
+
+I don't think the Court has to 
+
+go all the way to that position in order to conclude ­­
+
+Alderson Reporting Company 
+
+Official 
+
+45 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+ JUSTICE KAGAN: 
+
+Well, what is the standard? 
+
+And this goes back to what Justice Scalia was saying 
+
+before.  I mean, there's conduct that everybody agrees 
+
+is annoying.  There are rates that everybody agrees are 
+
+just ­­ are unjust and unreasonable.  So how much do we 
+
+have to say that the core has shrunk and the margins 
+
+have taken over before we're willing to do this? 
+
+ MR. DREEBEN: 
+
+So I think the starting point, 
+
+Justice Kagan, is to look at whether the statute states 
+
+something of an objective standard or a subjective 
+
+standard.  So in the instance of unreasonable rates, 
+
+that is a standard that ­­ an administrative agency 
+
+could ­­ could flesh that out.  But for a court to do it 
+
+would really just involve an ­­ an application of 
+
+subjectivity. 
+
+ JUSTICE KAGAN: 
+
+But I feel as though it's 
+
+really the same inquiry.  I mean, even as you describe 
+
+it, it's identify crimes where there ­­ you know, 
+
+dangerous stuff, crimes that pose a risk of ­­ of 
+
+danger. 
+
+ How much danger? 
+
+Well, as much danger as 
+
+these four enumerated offenses.  How much danger do they 
+
+pose?  Well, nobody's really sure.  One of them seems 
+
+only to pose that a lot of danger in a few select cases. 
+
+So it's a really ­­ it just seems, even as you describe 
+
+Alderson Reporting Company 
+
+Official 
+
+46 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+it, as the kind of thing that Congress ought to be 
+
+doing. 
+
+ MR. DREEBEN: 
+
+Well, let me add one thing, 
+
+Justice Kagan, to your description of what courts should 
+
+do when they apply this analysis.  First, they're going 
+
+to look to see if they can identify the ordinary case. 
+
+Then they're going to try to determine whether the risk 
+
+is essentially, I think, analogous to the burglary 
+
+extortion risk of confrontation or the arson explosives 
+
+risk of unleashing a direct ­­ a destructive force.  And 
+
+then finally there may be some cases where the Begay 
+
+analysis applies. 
+
+ But this is the really important point that 
+
+I want Your Honor to think about in this context:  If 
+
+the Court is not satisfied that on any one of those 
+
+issues, the government loses.  Not because the statute 
+
+is vague, but because if the Court is not confident that 
+
+an offense fits within the ­­ a normative criteria that 
+
+Congress has established, the tie goes to the defendant. 
+
+ JUSTICE SCALIA: 
+
+So there's no so much thing 
+
+as a vague statute. 
+
+ MR. DREEBEN: 
+
+Well, no.  I think ­­
+
+ JUSTICE SCALIA: 
+
+You're saying whenever the 
+
+statute is vague, the government loses on the Rule of 
+
+Lenity; therefore, there's no such thing as a vague 
+
+Alderson Reporting Company 
+
+Official 
+
+47 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+statute. 
+
+ MR. DREEBEN: 
+
+I think the kinds of things 
+
+that are vague statutes as reflected in this Court's 
+
+opinions are either those where there's a tinge of First 
+
+Amendment or other protected activity, like in the 
+
+annoying example, or cases like L. Cohen where the 
+
+standard is unreasonable rates.  And sure, everybody 
+
+would agree that some rates are unreasonable, but it's 
+
+a ­­ it's a very subjective standard. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+But what do you 
+
+think ­­
+
+ JUSTICE SCALIA: 
+
+The hardest ­­ the hardest 
+
+part of this ­­ of this test is determining what is the 
+
+typical case of ­­ of ­­ of this particular violation. 
+
+What is the typical case of extortion?  To take one of 
+
+the four enumerated case­­ what is the typical case of 
+
+extortion?  You seem to think the typical case is the ­­
+
+you know, I'll break your leg unless you pay up.  See, I 
+
+would have thought the typical case is, you know, 
+
+I'll ­­ I'll disclose something about your ­­ your life 
+
+unless you pay up. 
+
+ MR. DREEBEN: 
+
+And I think that if the Court 
+
+is faced with that kind of conundrum, it looks to 
+
+reported decisions of convicted cases, as the Court 
+
+indicated in James, and it attempts to determine whether 
+
+Alderson Reporting Company 
+
+Official 
+
+48 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+it can identify the ordinary convicted case.  And if it 
+
+cannot conclude that the ordinary case involves the 
+
+greater degree of violence, then it will conclude that 
+
+the government has not prevailed. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+What about one that 
+
+you think is easy, kidnapping?  What if the statistics 
+
+would ever show that in 40 percent of the cases, they're 
+
+talking about the parent that does not have custodial 
+
+rights, you know, taking the child from school and 
+
+not ­­ not returning him or her, whatever.  I mean, that 
+
+doesn't pose, I would say, not a serious risk of 
+
+potential violence.  The parent is not going to harm ­­
+
+harm ­­ harm the child.  And yet you say that's an easy 
+
+case. 
+
+ MR. DREEBEN: 
+
+Well ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Maybe it's easy if 
+
+it's at the margin, if one percent of the cases are.  I 
+
+don't know whether kidnapping is prosecuted more often 
+
+in a case like that or in another, you know, more, you 
+
+know, violent case where it's extortion for money as 
+
+opposed to just wanting more custody of the child. 
+
+ MR. DREEBEN: 
+
+So we ­­ we would have to 
+
+undertake the effort to try to persuade a court of what 
+
+we thought the ordinary case was.  And if we failed, if 
+
+we did not muster whatever the Court thought it needed 
+
+Alderson Reporting Company 
+
+Official 
+
+49 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+to understand that ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+But how do you ­­
+
+how do you do that?  Do you look at every charged case 
+
+of kidnapping in the State of Arkansas, if it involves a 
+
+law from Arkansas? 
+
+ MR. DREEBEN: 
+
+We would look at the reported 
+
+cases in Arkansas.  We would look to see whether ­­
+
+ JUSTICE BREYER: 
+
+The ­­ the reported cases. 
+
+The problem is ­­
+
+ JUSTICE KAGAN: 
+
+But you know ­­ you know, 
+
+Mr. Dreeben ­­
+
+ JUSTICE BREYER: 
+
+No.  I want to just get to 
+
+Justice Kagan's earlier question, if that's all right. 
+
+Is it?  Okay. 
+
+ Because for the reasons that you've heard, 
+
+I'd just like you spend now or sometime before you sit 
+
+down, a minute on the suggestion of limiting it through 
+
+the use of the ­­ your appendix, which you heard 
+
+described a minute ago. 
+
+ MR. DREEBEN: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+Because looking at the 
+
+language, I think it is possible within the language to 
+
+go to that interpretation. 
+
+ MR. DREEBEN: 
+
+So I don't really think that 
+
+that interpretation is correct, because if you look at 
+
+Alderson Reporting Company 
+
+Official 
+
+50 
+
+1 
+
+2
+
+3 
+
+4
+
+5
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+the exemplar crimes ­­
+
+ JUSTICE SCALIA: 
+
+I don't know what you're 
+
+talking about. 
+
+ MR. DREEBEN: 
+
+I think it's ­­
+
+ JUSTICE BREYER: 
+
+All right.  What I'm 
+
+talking about specifically ­­
+
+ JUSTICE SCALIA: 
+
+What interpretation? 
+
+ JUSTICE BREYER: 
+
+­­ is you read the words, 
+
+"Otherwise involves conduct that presents a serious 
+
+potential risk of physical injury to another."  You look 
+
+at the four examples.  You say in each of the four 
+
+examples there was a jury determination that it fell 
+
+within one of the four, and we should read those words, 
+
+too, as requiring a jury to make a determination that 
+
+there's a serious potential risk.  And the way you do 
+
+that is that you insist that an element of the crime has 
+
+the words, or the equivalent, of "serious potential 
+
+risk." 
+
+ Now, that's roughly what the suggestion was 
+
+on the other side.  I just didn't want you to sit down 
+
+and ­­ at any point you'd like without ­­ without 
+
+addressing that possibility. 
+
+ MR. DREEBEN: 
+
+Well, I ­­ I can address it 
+
+quickly, Justice Breyer, because I don't think that it 
+
+is a construction of the statute that really works.  The 
+
+Alderson Reporting Company 
+
+Official 
+
+51 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22
+
+23
+
+24 
+
+25 
+
+exemplar crimes like ­­
+
+ JUSTICE SCALIA: 
+
+Excuse me.  She didn't 
+
+propose it as a construction of the statute.  She said 
+
+very clearly that this Court could not adopt that, but 
+
+that Congress could.  She was asked, you know, how 
+
+Congress could fix this.  That was her proposal about 
+
+how Congress could fix it ­­
+
+ MR. DREEBEN: 
+
+Yes Justice Scalia, I ­­
+
+ JUSTICE BREYER: 
+
+I'm asking you as a saving 
+
+construction. 
+
+ MR. DREEBEN: 
+
+I just wanted to ­­ I think we 
+
+agree with Petitioner on this one, that the exemplar 
+
+crimes, burglary, extortion, arson, and so forth, don't 
+
+involve as an element characteristically serious 
+
+potential risk of physical injury to another.  It arises 
+
+because of the elements of the crime.  And the residual 
+
+clause, which was originally where ACCA came from as a 
+
+freestanding clause, and then the exemplars were added 
+
+back in before it was passed ­­
+
+ JUSTICE BREYER: 
+
+I see. 
+
+ MR. DREEBEN: 
+
+­­ illustrates ­­
+
+ JUSTICE BREYER: 
+
+Go back to Justice Kagan. 
+
+ MR. DREEBEN: 
+
+Yes.  So that ­­ that I think 
+
+is not really a viable solution to it, but I do think 
+
+that the viable solution in this area is that for many 
+
+Alderson Reporting Company 
+
+Official 
+
+52 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15
+
+16
+
+17
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+crimes, they ­­ they don't pose the empirical conundrums 
+
+that can be hypothesized.  And when they do and the 
+
+government is not able to satisfy the Court or the Court 
+
+isn't through its own research able to become satisfied 
+
+that it is a fix on the ordinary case, that it can say 
+
+with some degree of confidence that the risk is 
+
+comparable to the exemplar crimes, the crime falls out. 
+
+ And so you have in the ACCA world many 
+
+crimes that no one ever contests are covered; mail 
+
+fraud, gambling.  And then you have crimes that we have 
+
+listed that are not seriously contested.  We listed 17 
+
+of them.  They contested 3.  I think two of the contests 
+
+really have to be set aside  but with ­­
+
+ JUSTICE KAGAN: 
+
+But I think even ­­
+
+ MR. DREEBEN: 
+
+­­ are different ­­ please. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Justice Kagan. 
+
+ JUSTICE KAGAN: 
+
+I ­­ I think even in the 
+
+ones that you think are easy, they're only easy in the 
+
+abstract. 
+
+ The vehicular flight one was a good example 
+
+of that.  In the abstract, everybody just has a sense 
+
+that it's really dangerous if people flee from a police 
+
+officer in a car.  But then it turns out there are all 
+
+kinds of degrees and we have zero idea what the charging 
+
+is.  And I think that that's not ­­ that was not a fluke 
+
+Alderson Reporting Company 
+
+Official 
+
+53 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+of that case.  That's kind of every case, is that we 
+
+don't have a sense of how all the statutes connect to 
+
+each other and what statutes are used for the dangerous 
+
+ones and what statutes are used for more minor variants 
+
+of the same offenses, and that that's kind of an endemic 
+
+problem in this.  Is that not right? 
+
+ MR. DREEBEN: 
+
+Justice Kagan, I think what 
+
+the Court is asking itself when it attempts to apply 
+
+ACCA is not a question at that fine­grained level of 
+
+empirical precision.  Congress understood, for example, 
+
+that in most burglaries, probably nobody is hurt.  Many 
+
+extortions, nobody realizes the threat.  And yet, it 
+
+regarded the kind of person who is willing to undertake 
+
+a crime that could lead to that kind of confrontation as 
+
+properly subject to an enhanced sentence when they have 
+
+not just one, but two other convictions, and then they 
+
+go out and use a gun.  This ­­
+
+ JUSTICE KAGAN: 
+
+Well, but then you're 
+
+talking about a very different inquiry, it seems to me. 
+
+Then you're talking about just a gut check.  Do ­­ do, 
+
+like, people that ­­ is this the kind of conduct that a 
+
+bad person engages in? 
+
+ MR. DREEBEN: 
+
+No.  I don't think that it's 
+
+quite that amorphous.  There is a much more specific 
+
+inquiry into the risk, and the way the courts have 
+
+Alderson Reporting Company 
+
+Official 
+
+54 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17
+
+18 
+
+19
+
+20
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+conducted it I think is really ­­ you know, in this 
+
+Court's decision in Sykes was an exemplar, but there are 
+
+many, many, many other cases where the lower courts look 
+
+at the conduct, they examine the conduct, is this a sex 
+
+crime that involves a minor and an adult?  What is 
+
+likely to ensue? 
+
+ And I think that it's kind of critical to 
+
+keep a perspective here that the idea of substantial 
+
+risk is shot through criminal law.  The very 
+
+definition ­­
+
+ JUSTICE KENNEDY: 
+
+That ­­ that brings me to 
+
+the statutes in your appendix.  It did ­­ it does seem 
+
+to me that those statutes do require a case­by­case 
+
+determination by the finder of fact that there was a 
+
+danger in the particular case. 
+
+ MR. DREEBEN: 
+
+So there ­­
+
+ JUSTICE KENNEDY: 
+
+And so ­­ and so that ­­
+
+that's different from ­­
+
+ MR. DREEBEN: 
+
+Yes. 
+
+ JUSTICE KENNEDY: 
+
+­­ from a categorical 
+
+approach. 
+
+ MR. DREEBEN: 
+
+Yes.  And, Justice Kennedy ­­
+
+ JUSTICE KENNEDY: 
+
+And most of those 
+
+statutes, it seemed to me, would survive if ­­ if this 
+
+Court ruled against you here. 
+
+Alderson Reporting Company 
+
+Official 
+
+55 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18
+
+19 
+
+20
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ MR. DREEBEN: 
+
+It depends on the rationale, 
+
+Justice Kennedy, because if the rationale were the 
+
+concept of substantial risk is itself too amorphous to 
+
+be grasped at all and to be applied in any kind of a 
+
+consistent manner, I think that would raise serious 
+
+questions. 
+
+ JUSTICE SCALIA: 
+
+We would never say that. 
+
+We would never say that. 
+
+ MR. DREEBEN: 
+
+But I think as a logical 
+
+matter, that's essentially what Petitioner is saying, 
+
+that it's not possible to really get a fix on what those 
+
+words mean. 
+
+ JUSTICE SCALIA: 
+
+No.  He's saying ­­ she's 
+
+saying that you can't tell what the typical crime is, 
+
+and when you can't tell what the typical crime is, you 
+
+can't tell what ­­ what ­­ what the risk is. 
+
+ MR. DREEBEN: 
+
+And my answer to that is ­­
+
+ JUSTICE SCALIA: 
+
+Just as you can't do it for 
+
+extortion. 
+
+ MR. DREEBEN: 
+
+If you can't tell what the 
+
+typical crime is, the government loses.  Once you can 
+
+tell what the ­­
+
+ JUSTICE SCALIA: 
+
+That's not really an 
+
+answer.  That sounds wonderful.  The government loses 
+
+because of the ­­ the ­­ the rule that the tie goes to 
+
+Alderson Reporting Company 
+
+Official 
+
+56 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+the defendant.  That sounds wonderful, but the fact is 
+
+one court will say, yes, the government loses.  Another 
+
+court, given the vagueness of it, will say the 
+
+government wins. 
+
+ MR. DREEBEN: 
+
+Yes.  I ­­ I don't think 
+
+that's ­­
+
+ JUSTICE SCALIA: 
+
+Are we going to have to 
+
+review every one of these until the law is clear? 
+
+ MR. DREEBEN: 
+
+No.  I think the Court does 
+
+what it typically does, which is to review cases and 
+
+establish general principles, and the lower courts make 
+
+an effort to harmonize their rulings in light of them. 
+
+ It's not unique that this statute has 
+
+generated a lot of litigation.  Section 924(c), for 
+
+example, this Court has had three different cases 
+
+interpreting the meaning of the word "use" and one 
+
+interpreting the word "carry."  I mean, that's a higher 
+
+ratio of cases to words than this statute, but I think 
+
+what it says is that when there's a lot at stake, when 
+
+many years of prison time are at stake, people litigate 
+
+hard. 
+
+ JUSTICE KENNEDY: 
+
+Is the test the same here 
+
+for vagueness as when we're determining the validity of 
+
+a statute that specifies a crime? 
+
+ MR. DREEBEN: 
+
+So I don't think that's so 
+
+Alderson Reporting Company 
+
+Official 
+
+57 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+clear, Justice Kennedy.  This Court in Chapman indicated 
+
+that there's a lesser degree of ­­ of clarity required 
+
+for vagueness doctrine in the sentencing context. 
+
+ JUSTICE GINSBURG: 
+
+Why should that be when 
+
+it's a mandatory ­­ this is mandatory, and has 
+
+five years, no possibility ­­ and this case is such a 
+
+good illustration because the judge said, If it were up 
+
+to me, this person should get half or most ­­ what did 
+
+he say ­­ two­thirds, that would more than suffice, but 
+
+I'm locked into this by ACCA. 
+
+ Shouldn't we demand from Congress, if it 
+
+wants to have that kind of enhancement, a really clear 
+
+statement? 
+
+ MR. DREEBEN: 
+
+Let me say two things about 
+
+that, Justice Ginsburg.  One is that this statue 
+
+involves recidivism.  There ­­ the ­­ there was never 
+
+any question that Petitioner should have had about what 
+
+conduct was prohibited and not prohibited.  He knew or 
+
+should have known that he could not possess a gun. 
+
+ And the second thing is because this statute 
+
+is applied as a matter of law by courts with de novo 
+
+appellate review, it achieves a degree of clarity 
+
+through the litigation process that, I think, is going 
+
+to be sufficient to meet whatever heightened standard 
+
+the Court might impose on it. 
+
+Alderson Reporting Company 
+
+Official 
+
+58 
+
+1
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ But I do want to come back ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Before you do, 
+
+just ­­ because I disagree with the statement you made. 
+
+ You said if there's ­­ because there are so 
+
+many years involved, people will litigate hard.  I think 
+
+because there are so many years involved, people won't 
+
+litigate at all.  I mean, if ­­ if they're facing 
+
+when ­­ if they go to trial such a large enhancement, I 
+
+think they're going to be compelled ­­ it gives so much 
+
+more power to the prosecutor in the plea negotiations 
+
+which is, of course, where almost all of the cases are 
+
+disposed of. 
+
+ MR. DREEBEN: 
+
+And not so much here for two 
+
+reasons, Mr. Chief Justice.  One is that section 922(g) 
+
+prohibits possession of a weapon by a firearm.  And I'm 
+
+not going to say that there are no contested cases, but 
+
+it's not the hardest crime to prove.  If you're found in 
+
+a car with a gun and the suppression motion fails, trial 
+
+is not going to get you a lot. 
+
+ The second thing is it's not totally up to 
+
+the prosecutor.  The presentence report will indicate 
+
+the defendant's criminal history, and the judge is 
+
+obligated to apply ACCA whether or not the government 
+
+asks for it to be applied if, in fact, it is legally 
+
+applicable.  So I don't think that this context presents 
+
+Alderson Reporting Company 
+
+Official 
+
+59 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17
+
+18
+
+19 
+
+20
+
+21
+
+22
+
+23 
+
+24
+
+25 
+
+quite the same plea bargaining pressure that Your Honor 
+
+had in mind.  But ­­
+
+ JUSTICE GINSBURG: 
+
+How is the government 
+
+going to know about the prior crimes unless the 
+
+government ­­ and how is the judge supposed to know 
+
+about the prior crimes unless the prosecutor tells the 
+
+court? 
+
+ MR. DREEBEN: 
+
+The ­­ may I answer, Mr. Chief 
+
+Justice? 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Sure. 
+
+ MR. DREEBEN: 
+
+The ­­ the presentence report 
+
+which is required to be prepared by the probation 
+
+officer does a criminal history check, gathers that 
+
+information, synthesizes it, makes recommendations to 
+
+the sentencing court. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ MR. DREEBEN: 
+
+Thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Ms. Menendez, you 
+
+have three minutes remaining. 
+
+ REBUTTAL ARGUMENT OF KATHERINE M. MENENDEZ 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MS. MENENDEZ: 
+
+Thank you, Your Honor, Mr. 
+
+Chief Justice.  Just briefly, Your Honor. 
+
+ First, I think lenity is an illusory 
+
+solution in this case.  After the government suggested 
+
+Alderson Reporting Company 
+
+Official 
+
+60 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+lenity is the answer, we looked through every opinion we 
+
+could find from the courts of appeals and the district 
+
+court.  We did not find a single case nationwide where a 
+
+court has applied lenity to find that a marginal case 
+
+should not count under the residual clause.  So if 
+
+lenity is going to pose the solution that the government 
+
+suggests, it needs substantial invigoration by this 
+
+Court to be the ­­ the answer in the gray areas. 
+
+ The second thought is that this suggestion 
+
+that the Court can decide what the ordinary case is from 
+
+reported decisions is actually also skewed in favor of 
+
+the government.  Consider a ­­ consider a standard 
+
+offense where somebody commits a much less egregious 
+
+case; resisting arrest where all they do is refused to 
+
+be handcuffed versus resisting arrest where they kick 
+
+and punch and fight the officer.  This case is likely to 
+
+get a higher sentence and more likely to lead to appeals 
+
+and challenges and a reported decision.  This case is 
+
+perhaps more likely to be resolved with a suspended 
+
+sentence and never to appear in the reported case law at 
+
+all. 
+
+ So if all we're doing is turning to the 
+
+reported case law to try to determine what the ordinary 
+
+case is, that's going to give an artificially skewed 
+
+sense of the aggressive nature of those cases. 
+
+Alderson Reporting Company 
+
+Official 
+
+61 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ Finally, Your Honors, while it's true that 
+
+this Court has grappled with things like 924(c) 
+
+repeatedly, 924(c) provides an example of what's 
+
+supposed to happen, which is when this Court points out 
+
+a flaw in a statute, which they have ­­ Your Honors have 
+
+now done four different times, Congress answered. 
+
+Change 924(c) to try to address the Court's decision and 
+
+address the Court's concerns from Bailey.  And then that 
+
+answer has led to additional questions. 
+
+ That give and take, that discourse is 
+
+missing in this case, where it's been clear for a long 
+
+time that this statute needs help, and there's been 
+
+inaction on the part of Congress.  Your Honors, I think 
+
+that the idea that the tie should go to the defendant is 
+
+important, but it's just not happening, because of the 
+
+subjective gut check that Your Honor has mentioned. 
+
+ Judges substitute a feeling, boy, a sexual 
+
+offense involving a minor sounds bad, and it sounds 
+
+violent, so therefore, it must count.  But I'd invite 
+
+Your Honors to look at the footnote in our brief where 
+
+we highlight that there's actually several cases that 
+
+find that where the offense is ­­ or is unlawful because 
+
+of the age of the victim, it doesn't count as a violent 
+
+offense.  So that gut check has to mean ­­ has to be 
+
+more quantified, it has to be limited, it has to have 
+
+Alderson Reporting Company 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+62 
+
+specific guidance. 
+
+ The last point I'd like to make, Your 
+
+Honors, is that whether this Court decides in favor of 
+
+Mr. Johnson on the merits or an application of the Rule 
+
+of Lenity, whether this Court decides that this statute 
+
+is unconstitutionally vague as applied to possessory 
+
+offenses, or as applied to mere possession of a 
+
+short­barrel shotgun, or whether this Court takes the 
+
+step that I think it's time for, and declares this 
+
+clause unconstitutionally vague, in every instance, I 
+
+think the appropriate result is for Mr. Johnson to win 
+
+and be resentenced. 
+
+ Thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+The case is submitted. 
+
+ (Whereupon, at 11:04 a.m., the case in the 
+
+above­entitled matter was submitted.) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+Official
+
+ante 43:18 
+
+afraid 41:16 
+age 26:1 36:5 61:23  anyway 11:1 
+agency 45:12 
+aggressive 31:11 
+
+apologize 23:8 
+appeals 5:11 60:2 
+
+60:25 
+
+60:17 
+
+ago 49:19 
+agree 10:6 13:10,19  appearances 1:14 
+
+appear 60:20 
+
+15:6,9,10 33:6,10  appellate 57:22 
+47:8 51:12 
+appendix 15:22 
+
+agreed 7:18 14:24 
+
+49:18 54:12 
+
+armed 3:13 30:7 
+
+43:17 
+
+arrest 60:14,15 
+arson 3:23 4:11 
+
+27:16 40:2 46:9 
+51:13 
+
+articulate 17:20 
+artificially 60:24 
+aside 52:13 
+asked 4:16 19:21 
+
+applicable 32:14 
+
+27:25 51:5 
+
+Page 63 
+
+bailey 61:8 
+ballpark 31:22 
+bar 9:14 
+bargain 42:10 
+bargaining 59:1 
+based 18:25 26:1 
+
+34:24 35:9 39:15 
+
+basically 32:19 
+basis 7:4 10:24 
+
+11:17 18:12 36:20 
+
+batteries 33:19 
+
+A 
+
+able 13:19 17:20 
+
+52:3,4 
+
+aboveentitled 1:11 
+
+62:17 
+
+absolutely 8:23,25 
+
+12:10 16:18 
+
+abstract 16:24 18:2 
+
+52:19,21 
+
+abuse 14:8,9,11 
+
+44:8 
+
+acca 29:4 33:16 
+38:19,23 51:17 
+52:8 53:9 57:10 
+58:23 
+
+accept 28:12 
+accomplish 20:17 
+
+28:17 
+
+32:10 35:1 
+
+agreement 13:15 
+agrees 45:3,4 
+ahead 23:9 
+alito 4:15 5:3,16 
+
+58:25 
+
+application 14:17 
+
+14:21 27:10 45:14 
+62:4 
+
+6:6 7:1,6 18:9,19 
+applications 14:13 
+19:12 20:8 21:1,9  applied 4:18 11:23 
+28:24 29:9 
+
+alitos 24:2 
+account 14:11 
+allow 32:19 
+accuse 8:15 
+amazed 40:4 
+achieve 40:20 
+ambitious 32:4 
+achieves 57:22 
+act 3:13 30:7 36:10  amenable 11:21 
+amendment 47:5 
+amorphous 53:24 
+
+acted 15:3 
+activity 43:23 47:5 
+add 20:22,25 27:16  amount 12:19 25:2 
+
+36:10 40:4 43:18 
+
+55:3 
+
+29:22 
+
+26:16 29:13,14 
+30:9,18,19 55:4 
+57:21 58:24 60:4 
+62:6,7 
+
+applies 6:20 34:16 
+
+46:12 
+
+apply 13:3 25:22 
+28:17,19 31:15 
+35:13,19 46:5 
+53:8 58:23 
+
+approach 16:16 
+
+27:16 41:13 42:22 
+46:3 
+
+added 51:18 
+adding 10:23 22:22 
+
+34:8 
+
+analogous 46:8 
+analysis 4:14 18:17  appropriate 14:18 
+
+54:21 
+
+34:19 39:2 43:18 
+46:5,12 
+
+addition 12:17 17:4  analytical 39:14 
+additional 16:11 
+
+analyze 38:13 
+analyzing 39:4 
+address 50:23 61:7  announce 9:13 
+
+22:15 61:9 
+
+asking 6:3 19:12,13  begay 30:12,15,17 
+30:24 31:2,4,10 
+31:17 32:8,24 
+33:2 34:2 46:11 
+behalf 1:16,18 2:4 
+
+27:23 32:10 35:13 
+35:19 36:2 38:23 
+51:9 53:8 
+
+asks 17:25 38:20 
+
+58:24 
+
+aspect 34:11 
+aspects 27:4 
+assembled 43:14 
+assert 41:20 
+assess 23:22 
+assessed 26:3 
+assigned 29:1 
+assumption 24:25 
+attacking 3:24 
+attempt 36:8 
+attempted 4:10 
+
+22:21 
+
+2:7,10 3:8 30:4 
+59:21 
+
+behavior 21:17 
+belied 26:10 
+believe 4:3 5:8 16:7 
+
+24:16 42:1 
+
+believes 33:15 
+better 7:25 27:22 
+
+32:17 
+
+beyond 5:24 8:18 
+
+19:23 
+
+big 34:16 
+bigger 13:18 36:12 
+
+attempts 26:9 37:6  bit 32:4 35:23 
+
+33:16 62:11 
+
+april 1:9 
+area 51:25 
+areas 29:16 60:8 
+arent 25:23 43:11 
+
+44:5 
+
+argue 4:16,22 19:1 
+
+47:25 53:8 
+
+attorney 27:23 
+attorneys 38:22 
+
+39:11 
+
+available 24:5 
+
+34:20 
+
+61:8 
+
+addressed 30:24 
+addressing 50:22 
+adhere 10:2 30:17 
+administrative 
+
+45:12 
+
+admitting 14:15 
+adopt 24:6 51:4 
+adult 36:8 54:5 
+adults 36:11 
+
+annoying 15:13,16 
+
+45:4 47:6 
+
+answer 6:2 11:13 
+12:13 18:1 43:7 
+55:17,24 59:8 
+60:1,8 61:9 
+
+answered 25:23,24 
+
+61:6 
+
+answering 11:14 
+
+15:5 36:16 
+
+avoid 18:21 28:16 
+aware 43:16 
+
+19:8 41:7 
+argued 4:25 
+argues 42:8 
+argument 1:12 2:2  back 22:3 37:8 44:4 
+
+B 
+
+2:5,8 3:7 4:19 7:4 
+27:15 30:3 42:3 
+59:20 
+
+arises 51:15 
+arkansas 49:4,5,7 
+
+45:2 51:19,22 
+58:1 
+
+bad 8:12,17 9:4,4 
+9:19 10:10 53:22 
+61:18 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+37:16 
+
+black 13:2 
+blackmail 41:3 
+blush 25:19 
+boy 61:17 
+break 47:18 
+breyer 10:15 11:16 
+
+11:25 12:11,15 
+17:8 22:12,17,20 
+23:2,21 31:16 
+32:3,7,15 37:7,15 
+38:3,7 39:18,25 
+40:10,16 49:8,12 
+49:21 50:5,8,24 
+51:9,20,22 
+breyers 13:8 
+
+Official 
+
+choose 23:4,11 
+chose 22:9 
+circuit 5:11 14:8 
+
+43:21 44:5 
+
+commits 60:13 
+committed 8:8 
+committee 29:1 
+committees 10:17 
+
+10:18 
+
+circuits 13:1 14:9 
+cite 34:9 
+cited 11:20 12:7,25 
+
+common 12:1,3 
+26:13 33:3,12 
+15:22 16:14 39:19  communication 
+44:2 
+
+40:11 
+
+comparable 52:7 
+compare 38:14 
+
+cites 12:4 
+clarify 3:21 
+clarity 3:15 57:2,22  compared 25:13 
+compelled 58:9 
+classes 38:9 
+clause 3:12,21,25 
+completely 13:6 
+4:5,9,20 5:15 6:7 
+6:8 13:12 14:1 
+16:9 20:4,16 23:8  concerned 40:21 
+29:6 31:6 35:3 
+51:17,18 60:5 
+62:10 
+
+concerns 61:8 
+conclude 31:4 42:3 
+
+concept 55:3 
+
+44:25 48:2,3 
+
+18:7 43:7 
+
+36:16 43:20 44:3 
+44:11,15 45:24 
+46:11 47:6,24 
+48:7,17 49:7,8 
+54:3 56:10,15,18 
+58:11,16 60:25 
+61:21 
+
+categorical 4:13 
+
+16:16 54:20 
+
+categorically 8:8 
+
+9:16 
+
+categories 22:23 
+
+39:15 
+
+category 20:14 
+cause 19:24 31:18 
+caused 7:14 34:3,4 
+causing 17:11 
+center 13:20 
+certain 20:14 31:7 
+certainly 5:7 10:9 
+
+17:17 27:11 34:10  clear 4:19 16:21 
+40:8 
+
+concluded 32:16 
+
+33:24 
+
+conclusion 25:9 
+conduct 14:24 
+
+brief 14:6 15:23 
+
+22:4 25:6 44:1,3 
+44:19 61:20 
+briefly 59:23 
+briefs 10:22 25:16 
+brings 54:11 
+broadly 28:18 
+
+29:14 
+
+brought 43:12 
+burglar 37:5 
+burglaries 53:11 
+burglary 3:23 4:11 
+
+20:5 29:20 37:1 
+40:2 46:8 51:13 
+
+C 
+
+c 1:8,18 2:1 3:1 
+56:14 61:2,3,7 
+
+cant 11:5 17:10,11 
+38:1 44:12 55:14 
+55:15,16,18,20 
+car 52:23 58:18 
+career 3:13 30:7 
+
+43:17 
+
+Page 64 
+
+38:8,13 40:17,21 
+46:1,19 51:5,6,7 
+53:10 57:11 61:6 
+61:13 
+
+congressional 
+
+23:19 27:14,23 
+28:9 
+
+connect 53:2 
+connected 13:8 
+connection 21:17 
+consensual 26:1 
+consent 41:9 
+consider 60:12,12 
+considered 32:13 
+consist 36:3 
+consistent 55:5 
+consistently 11:23 
+
+13:3 
+
+conspiracy 26:3,6 
+constitutes 16:25 
+constitutional 5:5 
+
+5:19 6:11 
+
+construction 24:6 
+
+33:13 41:24 50:25 
+51:3,10 
+
+17:15 31:12 32:23 
+56:8 57:1,12 
+61:11 
+
+clearly 5:8 13:20 
+14:25 15:8,16 
+33:8 34:7 51:4 
+
+client 4:18,19 18:13 
+
+43:10 
+
+close 16:8 
+closely 23:7,11 
+closer 14:7 25:16 
+code 21:6 29:2,19 
+
+29:23 
+
+51:14 
+
+challenged 36:5 
+challenges 60:18 
+change 61:7 
+chapman 57:1 
+characteristically 
+
+carry 56:17 
+carrying 40:22 
+case 3:4 5:17 6:15 
+7:9,9,11 8:3 9:9 
+10:14 14:10 16:15  charge 42:19,20,21 
+18:3,4 25:10,25 
+42:22 43:12 
+26:23 32:23 33:4 
+charged 49:3 
+33:19 34:2 35:2 
+charges 43:11 
+35:11 37:10 44:14  charging 52:24 
+46:6 47:14,15,16 
+47:16,17,19 48:1 
+48:2,14,19,20,24 
+49:3 52:5 53:1,1 
+54:15 57:6 59:25 
+60:3,4,10,14,16 
+60:18,20,23,24 
+61:11 62:15,16 
+casebycase 54:13 
+cases 10:12,23 
+
+chief 3:3,10 23:6,9 
+
+check 53:20 59:13 
+
+61:16,24 
+
+11:20 14:5 16:9 
+17:17 21:23 25:14 
+25:14 26:4 29:16 
+
+cohen 47:6 
+collected 23:13 
+30:1,5,11,23 34:6  combined 17:1 
+42:7 43:4,8 47:10  come 16:7 29:7 
+48:5,16 49:2 
+52:16 58:2,14 
+59:8,10,16,18,23 
+62:14 
+
+coming 38:21 
+
+39:17 58:1 
+
+14:22 
+
+comes 5:17 14:21 
+
+child 14:8,9,10 36:5  comment 30:15 
+
+36:9 44:8 48:9,13  commission 29:15 
+48:21 
+
+29:17 37:25 
+
+children 36:12 
+
+commit 26:3,5,6 
+
+construed 42:4 
+
+15:13 16:12,24,25 
+22:8 25:2 28:4 
+36:3,7 37:2 38:14  contact 36:13 
+39:3,16 45:3 50:9  contested 52:11,12 
+53:21 54:4,4 
+57:18 
+
+contesting 3:21 
+
+58:16 
+
+conducted 54:1 
+confidence 52:6 
+confident 38:10 
+
+46:17 
+
+confront 40:23 
+confrontation 37:4 
+
+39:5 46:9 53:14 
+confusion 17:24 
+
+32:22 34:8 
+
+congress 15:3 20:8 
+
+20:17,24 22:1,9 
+22:11 23:4,11,16 
+24:3,12 27:18,21 
+28:1,6 29:1,12 
+31:19 33:5,7 
+34:19 36:25 38:5 
+
+14:15 
+
+contests 52:9,12 
+context 46:14 57:3 
+
+58:25 
+
+continued 30:17 
+controversy 13:14 
+conundrum 47:23 
+conundrums 52:1 
+convicted 4:21 
+
+19:16 47:24 48:1 
+
+convictions 9:15 
+
+18:25 20:13 53:16 
+core 13:9,14,18,23 
+
+13:25 14:2,25 
+15:8 24:24 25:2,8 
+25:12 45:6 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 65 
+
+correct 4:1,2,24 
+
+create 6:18 7:4 
+
+49:25 
+
+counsel 30:1 42:12 
+
+18:23 24:9 26:9 
+33:4,11 
+
+42:23 59:16 62:14  created 7:21 22:8 
+creates 13:13,14 
+21:12,17 28:4 
+40:22 
+
+dealt 14:23 
+decide 5:5 8:20 
+10:14,17 11:5 
+19:22 21:12 23:23  described 16:7 
+29:17 60:10 
+decided 10:24 
+decides 62:3,5 
+
+45:25 
+
+49:19 
+
+deputy 1:17 
+describe 13:1 45:17  discern 3:18 7:13 
+
+17:7 25:21,22 
+
+disclose 47:20 
+discourse 61:10 
+discretion 7:18,23 
+
+15:4 
+
+describing 21:24 
+description 46:4 
+deserve 27:7,10 
+deserves 6:21 26:23  disposed 58:12 
+
+discussed 11:21 
+dismiss 25:21 
+
+42:14 44:18 54:2  destructive 46:10 
+60:18 61:7 
+
+determination 
+
+decisions 9:8 39:1 
+
+50:12,14 54:14 
+44:21 47:24 60:11  determine 20:6 
+
+departments 40:25 
+depends 16:14 
+
+5:25 25:11,17 
+35:4 
+
+28:16 29:12 55:1  disagreements 13:5 
+
+Alderson Reporting Company
+ 
+
+count 21:15 22:4 
+23:15,24 33:25 
+60:5 61:19,23 
+counted 10:21 
+counting 13:4 
+counts 14:9 
+course 13:11 58:11 
+court 1:1,12 3:11 
+
+creation 20:23 21:2  deciding 8:3 
+
+decision 25:23 
+
+21:8 23:1 
+
+crime 22:17,18 
+
+decisis 6:19 
+
+declares 62:9 
+defendant 7:20 
+
+26:6,17,21 27:2,4 
+27:17 28:2,13 
+36:19 50:16 51:16 
+52:7 53:14 54:5 
+55:14,15,21 56:24  declare 6:23 14:13 
+58:17 
+
+5:11 6:1,11,17,21 
+7:7,17 9:14 11:13 
+11:21 12:20 24:8 
+26:7 30:6,8,13,17 
+30:19 31:9,10 
+32:5,8,11,12,20 
+32:22 33:11,14,15 
+34:2,16,20,24,25 
+35:1 36:7 39:21 
+39:22 42:3,9 
+43:20,24 44:13,24 
+45:13 46:15,17 
+47:22,24 48:23,25  criminal 3:13 21:6  deference 6:21 
+51:4 52:3,3 53:8 
+54:25 56:2,3,9,15 
+57:1,25 59:7,15 
+60:3,4,8,10 61:2,4  criminalized 15:13 
+62:3,5,8 
+
+crimes 11:3 12:2,3 
+22:19 26:3 27:16 
+30:9 32:17 33:4 
+33:12 34:21 35:11  defendants 21:5 
+35:12 36:25 37:13 
+39:3 45:18,19 
+50:1 51:1,13 52:1  defense 27:23 
+52:7,9,10 59:4,6 
+
+25:2 27:7 29:2 
+30:7 43:12,13,17 
+54:9 58:22 59:13  definition 3:13 4:6 
+5:13,14 16:10,11 
+20:1 26:17 33:25 
+41:8 54:10 
+
+16:25 43:14,17 
+46:19 56:1 61:14 
+
+criteria 46:18 
+courts 3:17,19 5:11  criterion 12:1 
+
+define 23:4 
+defined 33:24 
+
+defenders 27:12 
+
+42:12,23 
+
+58:22 
+
+definitions 29:20 
+
+44:7 
+
+degree 18:6 36:21 
+36:24 40:23 48:3 
+52:6 57:2,22 
+degrees 52:24 
+demand 40:20 
+
+57:11 
+
+critical 54:7 
+cure 27:15 
+custodial 48:8 
+custody 48:21 
+
+5:14,18 6:22 7:3 
+7:12 11:12,23 
+12:24 17:7,13 
+19:11 25:22,23 
+27:5 29:16,24 
+30:20 31:14 32:21 
+34:17,20 35:15 
+36:15 38:13 39:1  danger 28:14 37:4 
+43:23 44:18,21 
+46:4 47:3 53:25 
+54:2,3 56:11 
+57:21 60:2 61:7,8 
+
+D 
+d 1:8,18 3:1 
+
+52:22 53:3 
+
+coverage 3:16 
+covered 25:2 41:1,6  de 57:21 
+
+data 23:20 
+
+43:1 52:9 
+
+deals 15:2 
+
+40:23 45:20,21,21  demonstrates 
+45:22,24 54:15 
+dangerous 45:19 
+
+22:11 
+
+department 1:18 
+38:18,21 39:10 
+
+25:3 46:7 47:25 
+60:23 
+
+determined 4:12 
+
+18:12 26:17 
+
+determining 47:13 
+
+56:23 
+
+develop 32:5,12 
+developed 31:10 
+didnt 4:17 14:11 
+
+20:24 28:21 29:3 
+30:11,13,23 33:2 
+50:20 51:2 
+
+difference 8:24 
+different 11:3 15:1 
+
+26:11,19 31:2 
+39:14,15 44:8,9 
+52:15 53:19 54:18 
+56:15 61:6 
+
+difficult 11:14 28:8 
+difficulty 17:13,16 
+
+30:21 36:15,19 
+38:4 43:25 
+direct 46:10 
+directed 37:2 
+direction 18:16 
+
+31:3 
+
+directly 4:7 
+disagree 15:9 33:14 
+
+58:3 
+
+disagreement 5:21 
+
+dispute 5:17 
+distinction 16:18 
+distinguish 34:2 
+district 60:2 
+divided 43:22 
+doctrine 57:3 
+doesnt 6:16 14:1 
+21:16 22:12,16 
+32:15 37:24 38:1 
+40:1 41:24 43:24 
+48:11 61:23 
+
+doing 46:2 60:22 
+dont 6:15 7:9 8:21 
+10:18 11:5 12:2 
+16:20,20 17:14 
+19:9,23 20:15 
+21:13 24:7,18 
+25:20 26:22 27:20 
+28:7,24 29:18 
+33:12 34:9 35:8 
+36:23 40:12 41:2 
+41:19 44:13,16,24 
+48:18 49:24 50:2 
+50:24 51:13 52:1 
+53:2,23 56:5,25 
+58:25 
+
+doubt 19:23 31:18 
+dozen 12:25 
+dozens 29:9 
+dreeben 1:17 2:6 
+30:2,3,5,13 31:4 
+32:3,8,16 33:6,10 
+33:23 34:15 35:14 
+35:20,23 36:23 
+37:14 38:3,8,25 
+39:9,12 40:15,17 
+41:2,5,7,12,14,18 
+
+enhancement 29:13  exclusion 25:18 
+
+37:16,24 52:1 
+53:10 
+
+41:23 43:2,6,11 
+44:13,18,21,24 
+45:8 46:3,22 47:2  enactment 29:21 
+47:22 48:15,22 
+enactments 28:9 
+encounters 37:5 
+49:6,11,20,24 
+endeavored 6:1 
+50:4,23 51:8,11 
+51:21,23 52:15 
+endemic 53:5 
+engage 36:6,9 
+53:7,23 54:16,19 
+engaged 33:13 
+54:22 55:1,9,17 
+engages 53:22 
+55:20 56:5,9,25 
+57:14 58:13 59:8 
+enhanced 20:12 
+59:11,17 
+
+28:2 35:5 53:15 
+
+driving 31:18,21 
+drunk 31:18,21 
+due 6:22 
+
+57:12 58:8 
+
+enormous 12:19 
+
+29:21 
+
+ensue 54:6 
+entail 39:4,4 
+entered 42:10 
+enterprise 38:5 
+entice 36:9 
+entirely 31:2 
+entitled 19:8 
+
+E 
+e 2:1 3:1,1 
+earlier 49:13 
+ease 26:8 
+easier 35:24 
+easy 14:5,7 25:14 
+25:14,18 26:4,6 
+44:3,5,11 48:6,13  enumerated 20:25 
+48:16 52:18,18 
+22:14 23:17 31:6 
+34:14 45:22 47:16 
+
+edges 11:9 
+educate 9:11 
+effort 48:23 56:12 
+efforts 3:17 7:13 
+
+11:13 39:14 
+
+egregious 60:13 
+eight 34:25 
+eighth 5:10 
+either 16:10 24:18 
+
+47:4 
+
+elements 4:8,13 
+16:12 20:6,21 
+36:2 39:3 44:7 
+51:16 
+
+embrace 39:3 
+empirical 34:19 
+
+envisioned 34:19 
+equivalent 50:17 
+especially 25:6 
+esq 1:15,17 2:3,6,9 
+essential 34:1 
+essentially 22:3 
+
+46:8 55:10 
+
+establish 56:11 
+established 46:19 
+estates 14:22 27:7 
+evaluate 24:23 
+
+45:3,4 47:7 52:21 
+
+ex 43:18 
+exact 12:21 
+exactly 25:7 39:20 
+exaggeration 43:5 
+
+43:6 
+
+examination 14:7 
+
+element 4:10 20:3 
+20:22 21:2,7,11 
+21:12 22:25 23:12  events 41:16 
+23:14 27:17 28:4 
+28:13 50:16 51:14 
+
+everybody 13:9 
+
+Official 
+
+25:16 
+
+F 
+
+examine 54:4 
+examined 14:10 
+example 11:16 14:7  facially 14:13,14 
+
+face 27:12 42:23 
+faced 47:23 
+
+facing 58:7 
+
+35:16 36:4 47:6 
+52:20 53:10 56:15  fact 4:3 5:8,11,21 
+61:3 
+11:12 13:10,20 
+14:4 17:1,25 
+21:20 25:10 37:11  fit 27:22 
+37:16 54:14 56:1 
+58:24 
+
+examples 6:10 14:5 
+23:13 44:2 50:11 
+50:12 
+
+exception 16:6 
+excluded 5:8 
+
+57:6 
+
+excuse 51:2 
+exemplar 36:25 
+
+50:1 51:1,12 52:7 
+54:2 
+
+exemplars 51:18 
+exercise 34:23 
+exercised 35:9 
+exist 34:21 
+expected 38:13 
+experience 34:24 
+35:9,10,12,18,18 
+35:19,22,25 36:11 
+37:9,21,22 
+
+explosives 3:24 
+4:12 40:2 46:9 
+
+exposed 43:17 
+expressed 41:25 
+expressions 17:6 
+extent 39:17 42:18 
+extortee 40:8 
+extortion 3:23 4:11 
+
+facts 10:14 16:15 
+
+19:9 40:16 
+
+factspecific 18:17 
+factual 18:11 
+failed 48:24 
+fails 58:18 
+fairly 43:19 
+fall 3:15 4:19 5:12 
+5:13 13:20 14:1 
+20:24 29:4 
+
+falls 52:7 
+fanciful 10:8 
+far 5:24 24:11 
+
+44:14 
+
+favor 25:17 60:11 
+
+62:3 
+
+fear 41:10,13,15 
+federal 27:12 
+feel 24:6 45:16 
+feeling 61:17 
+fell 50:12 
+fellow 9:25 10:1,1 
+felons 20:12 
+felony 3:12 4:7 
+
+20:1 28:18 33:23 
+
+22:12,14 23:17 
+27:16 37:2 40:1,1 
+40:3,8,18,25 41:8 
+41:20,20,25 42:5 
+46:9 47:15,17 
+48:20 51:13 55:19  figuring 43:25 
+
+fifth 24:9 
+fight 60:16 
+figure 32:2 
+
+extortionist 37:6 
+extortions 53:12 
+extra 43:9 
+extreme 26:25 
+extremely 25:13 
+
+finally 46:11 61:1 
+financial 14:23 
+find 60:2,3,4 61:22 
+finder 54:14 
+fine 27:8 
+finegrained 53:9 
+
+Page 66 
+
+fines 14:23 
+finger 17:12 
+firearm 58:15 
+firearms 20:13 
+first 11:11 12:13,16 
+16:7 22:20 25:19 
+39:21 40:9 46:5 
+47:4 59:24 
+
+fits 13:12 46:18 
+five 32:10 42:15 
+
+fix 24:3,4 27:21 
+
+51:6,7 52:5 55:11 
+
+flaw 61:5 
+flee 52:22 
+flees 39:23 
+flesh 45:13 
+flight 35:1,6 52:20 
+flipside 14:22 27:6 
+florida 14:10 
+fluke 52:25 
+focus 12:14 
+focuses 39:2 
+footnote 61:20 
+force 4:9,10,10 
+
+14:1 20:4 22:21 
+33:20,25 41:10,11 
+46:10 
+
+form 39:12 
+forth 10:22 51:13 
+found 14:11 21:20 
+
+21:20 58:17 
+
+four 24:9 30:19 
+
+32:9 36:25 44:15 
+45:22 47:16 50:11 
+50:11,13 61:6 
+framework 3:19 
+6:18 7:14 11:22 
+13:6 24:10 
+
+frankly 18:3 22:1 
+
+27:6 
+
+fraud 52:10 
+free 24:6 
+freestanding 51:18 
+frequency 6:17 
+
+Alderson Reporting Company
+ 
+
+frequently 6:13,16 
+friend 31:1 36:4 
+
+20:9,10 24:11 
+52:20 57:7 
+
+44:2 
+
+frustration 17:6 
+function 16:8 19:10 
+
+23:19 27:23 
+future 10:12 
+
+G 
+g 3:1 58:14 
+gambling 52:10 
+gathers 59:13 
+gauge 34:22 
+general 1:17 5:10 
+
+56:11 
+
+generated 43:21 
+
+56:14 
+
+generic 41:8 
+generously 10:24 
+genuinely 11:7 
+getting 33:17 
+ginsburg 3:20 
+
+15:21 27:14,25 
+28:11 38:16,18 
+39:1,7,10 42:11 
+57:4,15 59:3 
+
+harmonize 56:12 
+hasnt 33:7,8 
+havent 7:14 17:19 
+
+government 12:4 
+14:5,12 15:7,14 
+15:20 16:1 23:13  hawaii 40:13 
+25:15 26:4,9,12 
+hear 3:3 23:20,23 
+32:9 37:24 42:2,8  heard 10:2 11:25 
+46:16,24 48:4 
+35:11 49:15,18 
+52:3 55:21,24 
+56:2,4 58:23 59:3  heightened 57:24 
+59:5,25 60:6,12 
+held 5:13 6:7 14:9 
+
+heart 6:19 
+
+governments 14:20 
+
+20:16 
+
+15:23 22:4 26:13  help 10:19 11:9 
+
+55:13 
+
+grapple 6:17 
+12:12 16:12 61:12 
+grappled 25:6 61:2  hes 40:10 42:10,25 
+grasped 55:4 
+gray 25:8,8 60:8 
+greater 6:21 7:19 
+
+hesitate 19:5 
+hesitation 6:23 
+hew 23:7,10 
+higher 56:17 60:17 
+ground 26:10,14 
+guess 14:14 
+highlight 61:21 
+guidance 6:21 18:5  highlights 26:5 
+
+27:8,10 48:3 
+
+29:15 32:21 38:21  history 43:13 58:22 
+38:22,25 39:8,13 
+62:1 
+
+59:13 
+
+guide 3:19 
+guidelines 10:16 
+
+give 6:10 8:22 9:1 
+14:6 17:23 25:16 
+35:16 40:12 60:24  guilty 42:24 43:14 
+61:10 
+
+42:16,17 
+
+gun 53:17 57:19 
+
+given 17:6,19 32:21 
+
+56:3 
+
+gives 18:5 58:9 
+go 18:16 23:9 29:2 
+
+58:18 
+
+gut 53:20 61:16,24 
+
+H 
+
+37:23 42:20 44:14  half 12:25 57:8 
+44:25 49:23 51:22  handcuffed 60:15 
+53:17 58:8 61:14  happen 6:16 61:4 
+
+goes 5:24 8:18 45:2  happened 6:13 
+
+46:19 55:25 
+
+happening 61:15 
+
+going 8:14 10:11,19  happens 39:22 
+
+25:23 38:22 40:13  hard 29:16 31:23 
+31:24 32:2 43:21 
+41:22 42:25 46:5 
+46:7 48:12 56:7 
+56:21 58:5 
+57:23 58:9,16,19 
+59:4 60:6,24 
+
+hardest 47:12,12 
+
+58:17 
+
+good 3:9 15:19 19:5  harm 12:5,6 17:18 
+
+hobbs 40:4 
+hoffman 14:22 27:6 
+holding 6:12 11:17 
+
+12:8 
+
+hole 13:2 
+home 37:5 
+honor 3:9 4:2,12,24 
+5:7,25 6:14 7:5,8 
+8:2,11,19,23 9:2,7 
+9:18 11:10,11,19 
+12:10,17,21 13:17 
+13:24 14:3,19 
+15:11,17 16:4,18 
+17:4,23 18:15,22 
+19:4,24 20:19 
+21:22 22:1,5,10 
+22:16 23:8 24:7 
+24:17,21 25:5,20 
+27:20 28:7,15 
+33:18,21 46:14 
+59:1,22,23 61:16 
+honors 23:20 61:1 
+
+Official 
+
+48:12,13,13 
+
+61:5,13,20 62:3 
+
+impossibletoans... 
+
+Page 67 
+
+horrific 36:19 
+human 36:11 
+hundreds 11:2 29:9 
+
+34:9 
+
+hurt 41:22 53:11 
+hypothesized 52:2 
+hypothetical 8:5,16 
+
+8:17 9:6 10:4,7 
+
+I 
+
+id 49:16 61:19 62:2 
+idea 9:7 30:18 
+
+37:22 42:25 43:2 
+43:4,9 52:24 54:8 
+61:14 
+
+ideas 28:22 
+identify 17:17 29:3 
+
+45:18 46:6 48:1 
+identifying 38:9 
+ill 12:13 29:24 
+47:18,20,20 
+illusory 59:24 
+illustrate 36:25 
+illustrates 51:21 
+illustration 57:7 
+im 8:14 11:6,6,7 
+
+27:4 28:11,15,22 
+30:22 34:10 37:10 
+40:13,13 50:5 
+51:9 57:10 58:15 
+
+imaginary 18:8 
+imagination 16:24 
+imagine 18:2 
+imagined 14:21 
+
+21:25 
+
+imagining 19:10 
+
+23:24 
+
+important 14:20 
+
+16:17 24:22 46:13 
+61:15 
+
+importantly 14:24 
+impose 7:18,19 
+
+20:11 31:20 57:25 
+
+imposed 19:14 
+impossible 13:2,3 
+
+18:1 
+
+impulse 34:1 
+inability 3:17 
+inaction 61:13 
+incentive 19:1 
+include 23:16,18 
+included 5:1,4 
+includes 41:15 
+inclusion 25:18 
+increase 8:7 26:15 
+indiana 35:5 37:10 
+
+37:17 
+
+indicate 58:21 
+indicated 47:25 
+
+57:1 
+
+indictment 43:13 
+individual 8:3 9:9 
+
+16:24 29:5 
+
+individuals 29:6 
+inflict 40:19 
+information 18:7 
+
+59:14 
+
+informed 33:25 
+inherent 20:1 
+injuries 34:2,4 
+injury 7:22 8:9,10 
+9:17 15:24 18:11 
+22:8 23:3 28:5 
+31:19 36:14,22 
+38:11 40:19 50:10 
+51:15 
+
+innumerable 35:10 
+inquiry 38:12 
+
+45:17 53:19,25 
+
+insist 50:16 
+instance 4:6 6:1 
+20:4,21 23:17 
+45:11 62:10 
+instances 6:10 
+
+30:20 
+
+instructed 29:15 
+instruction 12:24 
+instructive 14:4 
+
+20:2 
+
+intended 34:23 
+
+Alderson Reporting Company
+ 
+
+intentionally 31:13 
+interested 31:23 
+interpret 42:13 
+interpretation 5:20 
+
+7:11 49:23,25 
+50:7 
+
+interpretations 7:3 
+interpreting 6:3 
+
+56:16,17 
+
+interpretive 3:18 
+6:18 7:13 11:22 
+24:10 
+
+invigoration 60:7 
+invite 61:19 
+involve 12:8 37:2 
+38:10 39:14 40:5 
+45:14 51:14 
+involved 32:17 
+
+33:19 34:11 35:6 
+37:18 38:14 58:5 
+58:6 
+
+involves 3:24 5:17 
+
+36:1 48:2 49:4 
+50:9 54:5 57:16 
+
+involving 35:11 
+
+61:18 
+
+isnt 11:21,22 17:14 
+17:17 19:3 25:19 
+38:12 41:6 42:19 
+43:13,25 52:4 
+issue 4:16,21 5:4 
+
+7:1 
+
+issues 46:16 
+ive 10:2,2 11:25 
+
+17:22 31:23 35:11 
+42:22 
+
+J 
+
+james 1:3 6:6 30:15 
+
+42:1 47:25 
+
+job 33:9 
+johnson 1:3 3:4 
+
+25:24 33:19 62:4 
+62:11 
+
+judge 8:15 9:10 
+
+10:1,11,13 57:7 
+
+Official 
+
+58:22 59:5 
+
+judges 7:17 8:3,6 
+8:22 9:8,10,25 
+10:1,18 17:25 
+21:5 38:9 61:17 
+judging 7:24 8:13 
+
+8:15,19 9:5,20 
+10:11 
+
+judgment 29:5 
+34:23 35:9,15 
+juries 16:20,22 
+jurisdiction 8:7 
+
+29:3 44:9 
+
+jurisprudence 27:5 
+jurists 13:1 
+jury 16:20 18:12,18 
+
+19:8,21 21:19 
+50:12,14 
+
+44:10,14,16,19,23  knew 57:18 
+know 4:15 7:9 9:14 
+45:1,2,9,16 46:4 
+10:19 11:5 12:2,2 
+46:20,23 47:10,12 
+12:11 16:20 31:25 
+48:5,16 49:2,8,10 
+35:8 36:20 37:16 
+49:12,13,21 50:2 
+37:22 38:1 39:18 
+50:5,7,8,24 51:2,8 
+40:5,12 41:21 
+51:9,20,22,22 
+45:18 47:18,19 
+52:14,16,16,17 
+48:9,18,19,20 
+53:7,18 54:11,17 
+49:10,10 50:2 
+54:20,22,23 55:2 
+51:5 54:1 59:4,5 
+55:7,13,18,23 
+56:7,22 57:1,4,15  knowingly 31:13 
+58:2,14 59:3,9,10  known 57:19 
+59:16,18,23 62:14 
+
+justices 32:9 
+
+K 
+
+kagan 13:7,22 
+
+katherine 1:15 2:3 
+
+14:12 18:23 22:2 
+22:6 24:1 38:17 
+45:1,9,16 46:4 
+49:10 51:22 52:14 
+52:16,17 53:7,18 
+
+justice 1:18 3:3,10 
+3:20 4:15 5:3,16 
+6:6 7:1,6,16 8:5 
+8:12,16,21,25 9:3 
+9:10,19,23 10:4,6 
+10:10,15 11:16,25  kagans 49:13 
+12:11,15 13:7,8 
+2:9 3:7 59:20 
+13:22 14:12 15:5 
+15:12,19,21 16:13  keep 20:21 54:8 
+kennedy 7:16 8:5 
+16:19 17:8 18:9 
+18:19,23 19:12 
+20:8 21:1,9,19,23 
+22:2,6,12,17,20 
+23:2,6,9,21 24:1,2 
+24:13,18,22 26:11 
+27:1,14,25 28:11 
+28:24 29:9 30:1,5  keys 38:25 
+kick 60:15 
+30:11,23 31:16 
+32:3,7,15,25 33:7  kidnapping 13:25 
+33:10,22 34:6 
+35:8,17,21 36:18 
+37:7,15 38:3,7,16  kind 13:12,13 31:8 
+33:25 35:14 36:10 
+38:17,18,19,22 
+37:18 39:6 40:18 
+39:1,7,10,11,18 
+46:1 47:23 53:1,5 
+39:25 40:7,10,16 
+53:13,14,21 54:7 
+40:24,24 41:3,6 
+55:4 57:12 
+41:11,13,15,19 
+42:7,11 43:4,8 
+
+8:12,16,21,25 9:3 
+9:10,19 10:4,10 
+16:13 24:22 26:11 
+27:1 54:11,17,20 
+54:22,23 55:2 
+56:22 57:1 
+
+13:25 14:16 36:17 
+48:6,18 49:4 
+
+L 
+
+l 47:6 
+language 15:23 
+19:16 49:22,22 
+
+large 25:8 28:9 
+
+58:8 
+
+largely 4:20 
+larger 37:16 
+laughter 15:18 
+law 9:24 12:1,3 
+21:16 33:3,12 
+49:5 54:9 56:8 
+57:21 60:20,23 
+
+laws 33:22 
+lead 25:9 53:14 
+
+60:17 
+
+led 17:16 61:9 
+left 22:11 23:15 
+leg 47:18 
+legal 42:1 43:22 
+legally 58:24 
+legislated 10:17 
+legislating 8:20 
+
+9:22 
+
+legislation 10:7 
+legitimate 20:11 
+lenity 46:25 59:24 
+
+60:1,4,6 62:5 
+
+lesser 26:23 57:2 
+level 53:9 
+levels 31:13 34:22 
+liability 32:18 
+
+kinds 47:2 52:24 
+
+Alderson Reporting Company
+ 
+
+Page 68 
+
+licensing 14:23 
+
+27:8 
+
+life 41:4,16 47:20 
+light 4:4 56:12 
+limitation 33:16 
+limited 61:25 
+limiting 16:10,11 
+
+49:17 
+
+linked 31:11 
+list 23:19 27:16 
+
+28:1,9 
+
+listed 4:23 22:7 
+38:15 52:11,11 
+
+listing 28:8,12 
+lists 3:23 
+literally 11:2 
+litigants 21:4 
+litigate 19:2 56:20 
+
+58:5,7 
+
+litigation 56:14 
+
+57:23 
+
+little 11:6 12:19 
+
+32:4 35:23 
+locked 57:10 
+logic 35:18,19,24 
+
+36:1,11 
+
+logical 35:15 55:9 
+logically 39:4 
+long 15:7 44:11 
+
+61:11 
+
+look 14:20 17:8 
+
+20:5 21:5 25:3,14 
+29:19,23 36:7 
+37:11 42:20 45:9 
+46:6 49:3,6,7,25 
+50:10 54:3 61:20 
+looked 33:21 60:1 
+looking 36:1 39:2 
+
+49:21 
+
+looks 47:23 
+loses 46:16,24 
+
+55:21,24 56:2 
+lot 10:16 11:6,9 
+12:7,18 17:22 
+37:20 42:16 45:24 
+56:14,19 58:19 
+
+Official 
+
+lower 3:19 5:17 
+
+meeting 7:17 
+6:21 11:23 12:24  members 9:14 
+17:6 30:20 32:21 
+33:14 34:25 
+memos 39:13 
+34:17,20 35:15 
+43:23 54:3 56:11  menendez 1:15 2:3  monday 1:9 
+
+minute 49:17,19 
+minutes 59:19 
+missing 61:11 
+moments 29:25 
+
+30:19 
+
+O 
+
+M 
+
+m 1:13,15 2:3,9 3:2 
+
+3:7 59:20 62:16 
+
+mafia 41:21 
+mail 52:9 
+majority 13:21 
+making 42:14 
+manageable 31:14 
+mandatory 7:22 
+15:3 26:15,25 
+31:20,25 42:15 
+57:5,5 
+
+manner 55:5 
+margin 48:17 
+marginal 60:4 
+margins 13:16,17 
+
+24:24 25:1,8,9,13 
+45:6 
+
+o 2:1 3:1 
+objective 45:10 
+2:9 3:6,7,9,20 4:2  money 40:12 48:20  obligated 58:23 
+obvious 25:12 
+4:24 5:7,24 6:14  morning 3:9 
+obviously 5:12 
+7:5,8 8:2,11,14,18  motion 58:18 
+occurred 19:18 
+8:23 9:2,6,18,21  multiple 14:8 
+occurring 13:16 
+10:9,13 11:10,19  murder 26:5 
+odd 17:10 
+12:10,13,17 13:7  muster 48:25 
+odds 5:9 
+13:17,24 14:19 
+N 
+offense 4:8,11,13 
+15:10,17 16:4,17 
+16:22 17:22 18:15  n 2:1,1 3:1 
+18:20 19:4,21 
+20:19 21:4,14,22 
+21:25 22:5,9,14 
+22:19,25 23:3,7 
+23:10,22 24:7,16 
+24:19 25:5 26:22  nationwide 60:3 
+27:3,20 28:7,15 
+29:8,11 59:18,20 
+59:22 
+
+narrow 16:12 
+narrower 17:2 
+
+narrowly 28:19 
+
+41:25 42:5 
+
+29:12 
+
+offenses 3:15 4:23 
+
+nature 60:25 
+nearly 43:25 44:14 
+necessary 29:18 
+need 12:12 20:5 
+needed 48:25 
+needs 22:11 39:19 
+
+60:7 61:12 
+
+negligence 32:18 
+negotiations 42:11 
+
+mens 31:13 38:12 
+
+matter 1:11 8:6,6  mention 5:1 
+
+9:24,24 36:11 
+55:10 57:21 62:17  mere 5:21,24 21:14 
+
+mentioned 61:16 
+
+maximum 7:19 
+
+42:18,19 
+
+27:8 62:7 
+merely 6:3 
+merits 62:4 
+messes 7:7 
+
+58:10 
+
+mean 11:8 12:1 
+nest 37:16 
+18:23,24 19:2 
+22:18 25:20 27:21  met 29:4 
+nested 37:12,12 
+30:23 33:1 35:8  method 12:1 41:23  never 8:14 10:2 
+11:25 55:7,8 
+35:18 36:17 38:19  methodology 30:9 
+40:1,1,8,11 41:15  michael 1:17 2:6 
+57:16 60:20 
+42:2,22 45:3,17 
+48:10 55:12 56:17  mind 31:17 32:2 
+58:7 61:24 
+37:1,9 38:6,8 
+40:18 59:2 
+
+new 27:2,3 40:13 
+nobodys 45:23 
+normal 41:23 
+normative 30:8 
+
+meaning 42:5 
+
+30:3 
+
+56:16 
+
+minimum 31:20 
+
+46:18 
+
+32:1 42:15 
+
+meaningful 3:18 
+meaningfully 13:3  minn 1:15 
+means 5:18 13:15  minneapolis 1:15 
+minnesota 21:16 
+minor 53:4 54:5 
+
+16:19 41:20 
+
+meant 44:8 
+meet 9:10 57:24 
+
+61:18 
+
+noted 30:8 31:9 
+novo 57:21 
+number 10:21 
+
+11:12 12:18 13:5 
+13:19 28:9 
+
+Page 69 
+
+44:25 
+
+ordinarily 31:14 
+ordinary 18:3,4 
+
+35:2 36:11 46:6 
+48:1,2,24 52:5 
+60:10,23 
+
+original 29:21 
+originally 51:17 
+ought 46:1 
+outcome 25:21 
+outset 26:21 
+outside 31:22 
+overruled 6:11 
+
+4:21,22,23 6:4 8:8 
+9:16 18:2 19:22 
+20:4,6,25 21:7,9 
+22:15 35:5 36:2,3  page 2:2 16:7 
+46:18 60:13 61:18  pages 14:6 25:15 
+61:22,24 
+
+p 3:1 
+
+44:1 
+
+P 
+
+parent 48:8,12 
+
+7:20 13:11 20:14  part 6:19 9:6 16:10 
+23:18 26:1,2 29:3 
+31:5,6,12,21 
+34:14 38:9,15 
+39:15 44:7,7 
+45:22 53:5 62:7 
+
+particular 16:15 
+19:14 31:1 35:4 
+47:14 54:15 
+
+17:2 31:24 32:1 
+35:22 47:13 61:13 
+
+offensive 33:20 
+officer 35:2 39:23 
+
+parties 19:7 26:14 
+
+43:16 
+
+52:23 59:13 60:16  parts 20:1 
+
+oh 27:20 
+okay 28:12 49:14 
+once 32:12 55:21 
+onerous 15:2 26:25  penalties 27:12 
+
+passed 51:19 
+patch 33:1 
+pay 41:21 47:18,21 
+
+53:4 
+
+27:11 
+
+ones 37:20 52:18 
+
+penalty 15:2 19:14 
+20:12 28:2 31:20 
+pending 25:20 26:7 
+operation 7:12 16:8  people 13:11 20:12 
+37:18 52:22 53:21 
+opinion 5:9,9 30:14 
+56:20 58:5,6 
+
+32:22 42:1 60:1 
+
+47:4 
+
+opinions 39:18 
+
+percent 48:7,17 
+perfect 23:19 
+opposed 48:21 
+perfectly 15:19 
+opposite 16:15 25:1  period 6:12 11:1 
+oral 1:11 2:2,5 3:7 
+permission 29:24 
+person 29:2 31:21 
+
+30:3 
+
+numerous 5:14 
+
+order 34:22 40:20 
+
+37:3 40:19,21 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+41:9 53:13,22 
+57:8 
+
+19:22 
+
+52:1 60:6 
+posed 35:6 
+poses 8:9 40:22 
+position 26:13 32:9  presents 18:3 50:9 
+
+presentence 43:15 
+
+58:21 59:11 
+
+persons 41:4 
+perspective 54:8 
+persuade 48:23 
+petitioner 1:4,16 
+2:4,10 3:8 44:4 
+51:12 55:10 57:17  possess 20:12 57:19 
+59:21 
+
+40:25 42:13 44:11 
+44:17,20,25 
+posner 37:23 
+
+petitions 26:7 
+phrase 31:9 34:7 
+physical 7:21 8:9 
+9:17 12:6 15:24 
+possessory 62:6 
+17:18 18:11 22:21  possibility 50:22 
+31:19 36:12,14 
+38:10 50:10 51:15  possible 7:9 16:6 
+
+57:6 
+
+19:14,17,22 21:10  prevailed 48:4 
+21:11,15,17 58:15  prevents 17:2 
+previous 7:20 
+62:7 
+
+29:16 
+
+58:25 
+
+pressure 59:1 
+presumably 23:14 
+
+25:24 
+
+prosecuted 48:18 
+prosecutor 38:20 
+
+42:9 58:10,21 
+59:6 
+
+prosecutors 42:20 
+protected 47:5 
+prove 7:14 58:17 
+proven 3:17 6:24 
+
+provided 32:13 
+provides 30:25 
+
+61:3 
+
+provision 26:24 
+
+possession 4:21,23  presume 8:14 24:8  provide 31:14 
+
+29:4 41:1 
+
+primarily 39:2 
+principle 30:8 42:4  punch 60:16 
+principles 56:11 
+prior 9:15 20:13 
+
+purposeful 31:10 
+put 17:11 
+
+31:21 41:16 59:4  putting 42:12 
+59:6 
+
+49:22 55:11 
+possibly 38:11 
+postal 40:11 
+potential 7:21 8:9 
+
+prison 56:20 
+15:25 18:10 20:23  private 36:9 
+21:3 23:1 34:12 
+36:13,21,22 38:10 
+48:12 50:10,15,17  probation 59:12 
+51:15 
+
+probably 24:20 
+
+problem 17:11,17 
+
+53:11 
+
+Q 
+
+qualification 4:7 
+qualifies 20:7 
+qualify 26:1 
+quantified 61:25 
+question 4:8 5:6 
+
+Page 70 
+
+raise 55:5 
+rap 7:20 9:15 
+rates 45:4,11 47:7,8 
+ratio 56:18 
+rationale 55:1,2 
+rea 31:13 38:12 
+reach 5:5 
+read 42:25 50:8,13 
+reading 16:3 
+ready 6:15 
+reaffirmed 6:9,12 
+reality 26:10 
+realize 37:6 
+realizes 53:12 
+really 11:2,6 25:19 
+26:6 31:19 37:15 
+37:17 43:20 44:5 
+44:6 45:14,17,23 
+45:25 46:13 49:24 
+50:25 51:24 52:13 
+52:22 54:1 55:11 
+55:23 57:12 
+
+reargument 3:4 
+reason 9:4 19:3 
+reasonable 19:23 
+reasoning 9:4 
+
+picked 37:23 
+place 24:20 36:9 
+plain 5:13,14 
+plainly 5:1,3 
+play 39:18,20 
+plea 42:10 58:10 
+
+59:1 
+
+plead 42:14 
+pleaded 43:14 
+pleas 39:23 
+please 3:10 30:6 
+
+52:15 
+
+potentially 32:18 
+
+37:3 
+
+power 33:3,11 
+
+58:10 
+
+point 17:12 19:5 
+30:25 35:24,25 
+36:1 42:11 43:16  pre 20:23 
+45:8 46:13 50:21  precedent 6:20,24 
+62:2 
+
+practice 27:13 
+
+precise 34:18 
+
+pointed 25:15 31:1  precisely 6:2 12:22 
+points 19:4 31:2,17 
+
+21:22 26:16,24 
+31:11 
+
+61:4 
+
+18:16,22 21:2 
+24:10 28:20 31:17 
+34:16 42:7,8,9 
+49:9 53:6 
+
+problems 18:24 
+
+19:24 24:23 
+process 57:23 
+produce 30:10 
+
+36:13 
+
+product 39:13 
+prohibited 57:18 
+
+police 35:2 39:23 
+
+precision 36:24 
+
+57:18 
+
+52:22 
+
+53:10 
+
+prohibits 21:10 
+
+policy 8:7 9:8,11,13  preclude 29:22 
+
+58:15 
+
+10:11 
+
+pollution 34:4 
+poor 7:10,24 
+poorly 8:15 
+portions 4:4,6 
+pose 22:15 43:21 
+
+predicate 3:15 20:6  promise 35:24 
+properly 53:15 
+property 37:3 
+
+predominantly 
+
+21:6 
+
+34:18 
+
+prepared 43:15 
+
+59:12 
+
+40:19 41:9 
+
+proposal 51:6 
+propose 51:3 
+
+45:19,23,24 48:11  presented 10:23,25  prosecute 42:18 
+
+6:2,15 11:13 
+12:14,16,21,21,22  reasons 5:1 8:22 
+12:22 13:8 14:25 
+9:1 49:15 58:14 
+15:6,6 16:23 17:5  rebuttal 2:8 28:25 
+18:1,10,11 20:3 
+24:2 25:25 26:2 
+26:11 27:5 28:16 
+28:25 29:22 34:12  reckless 12:5 
+36:16 42:2 49:13 
+53:9 57:17 
+
+recidivism 57:16 
+recidivist 19:10,13 
+
+recklessness 26:2 
+
+59:20 
+
+32:18 
+
+questions 11:15 
+
+19:1 29:17 43:21 
+43:22 55:6 61:9 
+
+quick 28:25 
+quickly 50:24 
+quite 41:24 43:2 
+44:8 53:24 59:1 
+
+quo 23:11 
+
+R 
+
+r 1:17 2:6 3:1 30:3 
+
+recommendations 
+
+59:14 
+
+recommending 
+
+9:25 
+
+record 20:13 
+reference 4:13 
+references 4:12 
+referred 44:2 
+reflected 47:3 
+refused 60:14 
+regard 39:13 
+
+Alderson Reporting Company
+ 
+
+regarded 53:13 
+regarding 18:7 
+
+35:10 
+
+regulatory 34:3 
+relationship 32:23 
+
+34:13 
+
+reliably 43:19 
+relitigate 19:8 
+remaining 59:19 
+remains 6:20 
+remember 4:18 
+
+37:10 
+
+remind 34:25 
+rendered 7:10 
+repeated 3:17 7:13 
+repeatedly 61:3 
+replicable 3:18 
+reply 25:6 44:3 
+report 43:15 58:21 
+
+59:11 
+
+response 24:2 
+rest 3:22 
+restrict 32:17 
+result 43:22 62:11 
+returning 48:10 
+reveal 40:13 41:4 
+reveals 5:14 
+reverse 9:25 
+review 56:8,10 
+
+57:22 
+
+revisit 32:11 
+right 14:18 15:13 
+15:16 21:21 25:3 
+25:7,20 26:8 37:7 
+38:7 41:18 42:18 
+42:24 43:3 49:13 
+50:5 53:6 
+rights 48:9 
+rise 17:6,19,24 
+
+25:16 27:9 
+
+reported 47:24 
+
+risk 7:21 8:9 9:16 
+
+role 39:21 
+roughly 50:19 
+routes 28:1 
+routinely 16:22 
+rule 5:19 29:14 
+
+46:24 55:25 62:4 
+
+ruled 54:25 
+rulings 56:12 
+
+S 
+
+s 2:1 3:1 38:22 
+
+39:11 
+
+samuel 1:3 
+satisfied 38:12 
+
+46:15 52:4 
+satisfies 6:4 
+satisfy 52:3 
+save 29:21,24 
+saving 51:9 
+savings 24:5 
+sawedoff 19:15,17 
+
+Official 
+
+48:5,16 49:2 
+52:16 58:2 59:10 
+59:16,18 62:14 
+
+sea 11:7 
+seasoned 13:1 
+second 11:24 57:20 
+
+58:20 60:9 
+
+Page 71 
+
+shotgun 19:15,17 
+21:10,11,15 62:8 
+shouldnt 23:24,24 
+25:9 38:24 57:11 
+
+section 56:14 58:14  show 29:16 48:7 
+shows 5:22 25:12 
+see 21:7,13 23:21 
+shrunk 45:6 
+side 36:4 50:20 
+similar 38:15 42:4 
+similarinkind 
+
+27:22 31:16 37:7 
+37:12 38:15 40:2 
+42:24 46:6 47:18 
+49:7 51:20 
+seeking 41:8 
+sees 43:20 
+select 18:4 45:24 
+sense 52:21 53:2 
+
+33:16 
+
+similarity 31:5,7,8 
+similarityinkind 
+
+32:5 38:11 
+
+similarly 36:16 
+
+60:25 
+
+sentence 7:19 8:8 
+
+42:5 
+
+9:12,17 31:25 
+simplicity 26:8 
+38:19 53:15 60:17  simply 6:24 7:7 
+60:20 
+
+sentences 38:23 
+sentencing 7:17 8:6  single 6:4 29:2 60:3 
+
+17:12 20:25 22:22 
+33:20 
+
+9:11 15:2 26:20 
+sit 49:16 50:20 
+26:24 27:11 37:25  situation 37:19 
+57:3 59:15 
+
+skewed 60:11,24 
+separate 39:14 42:1  small 13:19 25:13 
+serious 7:21 8:9 
+smaller 25:12,12 
+sodomy 36:6,12 
+solicitation 26:5 
+
+9:16 12:6 15:24 
+16:5 17:1,18 
+18:10 20:23 21:2 
+22:8,23 23:1,1 
+27:18 28:4 34:12 
+36:13,21,21 38:10 
+48:11 50:9,15,17 
+51:14 55:5 
+
+36:5 
+
+solicitor 1:17 5:10 
+solution 19:6,6 
+
+20:20 21:14,25 
+22:10,15 23:15 
+51:24,25 59:25 
+60:6 
+
+solve 21:1 24:10 
+solves 21:13 
+solving 18:16 
+somebody 36:17 
+
+37:5 40:18 60:13 
+sort 28:5,18 31:17 
+sounds 10:6 38:17 
+55:24 56:1 61:18 
+61:18 
+
+specific 4:22 19:9 
+
+53:24 62:1 
+
+49:6,8 60:11,18 
+60:20,23 
+
+require 18:17 
+21:16 54:13 
+
+required 18:6 57:2 
+
+59:12 
+
+requires 4:9 20:3 
+
+36:8,12 
+
+requiring 23:12 
+
+50:14 
+
+research 37:24 
+
+52:4 
+
+resentenced 62:12 
+residual 3:12,21,25 
+4:5,20 5:15 6:7,7 
+13:12 16:8 20:16 
+23:8 29:6 31:5 
+35:3 51:16 60:5 
+resisting 60:14,15 
+resolve 12:20 
+resolved 60:19 
+respect 6:22 17:4 
+respects 15:1 
+respondent 1:19 
+
+2:7 30:4 
+
+22:2 24:1,4 28:11 
+28:12 36:20 45:2 
+46:23 55:10,13,14 
+
+21:10,11 
+
+saying 8:1 12:25 
+
+12:4,6,6 15:24 
+16:5 17:1,18 18:4 
+18:6,7,10 19:23 
+20:21,23 21:3,8 
+21:13,18,20 22:8 
+22:23,23 23:1,1 
+23:12,14,22 27:18 
+28:4,13 31:7,13 
+31:18 32:24 34:13  says 14:12 15:25 
+34:22 35:6 36:14 
+36:21,22,24 39:5 
+39:6 40:22 42:15 
+43:9 45:19 46:7,9 
+46:10 48:11 50:10 
+50:15,18 51:15 
+52:6 53:25 54:9 
+55:3,16 
+
+scalia 9:23 10:6 
+
+19:15 56:19 
+
+52:13 
+
+seriously 52:11 
+set 3:15 37:13 
+
+15:5,12,19 16:19 
+21:19,23 24:13,18 
+32:25 33:7,11,22 
+35:8,17,21 36:18 
+40:7,24 41:3,6,11 
+41:13,15,19 44:10  settled 25:17 
+44:14,16,19,23 
+45:2 46:20,23 
+47:12 50:2,7 51:2 
+51:8 55:7,13,18 
+55:23 56:7 
+school 48:9 
+scrutiny 26:23 27:8 
+
+sex 26:1 36:9 54:4 
+sexual 61:17 
+shed 4:4 
+sheet 7:20 9:15 
+shes 55:13 
+shortbarrel 21:15 
+
+62:8 
+
+27:10 
+
+shot 54:9 
+
+risks 38:10,15 
+
+39:24 
+
+risky 35:3 
+road 19:3 25:25 
+robbery 29:20 
+roberts 3:3 23:6,9 
+30:1,11,23 34:6 
+42:7 43:4,8 47:10 
+
+Alderson Reporting Company
+ 
+
+30:24 50:6 
+
+specifically 22:7 
+
+56:18,24 57:20 
+61:5,12 62:5 
+specifies 34:5 56:24  statutes 12:3,7 
+specify 29:19 
+15:22 16:2,14 
+17:5 19:10 23:13 
+spencer 14:10 
+27:7 34:9 38:2 
+spend 49:16 
+splits 10:22,25 
+47:3 53:2,3,4 
+54:12,13,24 
+statutory 5:19 
+33:13 41:24 
+
+11:12 12:18 13:13 
+25:19 43:21 44:5 
+44:6 
+
+stake 56:19,20 
+standard 14:15,20 
+26:15,16,20 29:6 
+45:1,10,11,12 
+47:7,9 57:24 
+60:12 
+
+stare 6:19 
+start 35:24 38:1 
+starting 45:8 
+state 7:17 21:6 
+35:11,12 49:4 
+statement 24:23 
+
+26:21 27:9 57:13 
+58:3 
+
+states 1:1,6,12 3:5 
+5:10 10:16 29:19 
+29:23 30:7 45:9 
+
+statistical 34:18 
+statistics 34:21 
+
+39:17,19,20 48:6 
+
+step 62:9 
+sticks 37:9 
+strict 32:18 
+strikes 29:14 
+strived 24:9 
+strong 33:20 
+structure 3:14 35:4 
+struggle 12:25 
+stuff 15:15 45:19 
+subject 16:10 53:15 
+subjective 18:8 
+
+45:10 47:9 61:16 
+subjectivity 45:15 
+submitted 18:12 
+
+62:15,17 
+
+substantial 18:4 
+
+19:23 30:20 54:8 
+55:3 60:7 
+
+substitute 61:17 
+subsume 32:19 
+subsumed 39:6 
+suffice 57:9 
+sufficient 57:24 
+sufficiently 35:2 
+suggest 27:21 30:24 
+
+statue 57:15 
+statues 22:3 
+status 4:7 23:11 
+statute 3:22,22 4:4 
+4:17 6:23 7:2,3,6 
+7:10 11:8,18 
+36:18 44:22 
+14:10,13 15:13,20  suggested 14:5 
+17:2,11 18:5 
+37:23 59:25 
+19:13,13,16 24:3 
+24:5,15 25:7 27:9 
+28:3,22 30:14,18 
+31:12 32:20 33:1 
+34:5 35:5 42:6 
+44:11 45:9 46:16 
+46:21,24 47:1 
+50:25 51:3 56:13 
+
+15:12 18:9,9 
+
+38:5 60:7 
+
+suggestion 24:11 
+
+24:14 49:17 50:19 
+60:9 
+
+suggests 16:1 27:7 
+
+supposed 59:5 61:4 
+
+suppose 7:16 13:8 
+
+Official 
+
+suppression 58:18 
+supreme 1:1,12 
+sure 28:22 34:10 
+40:3 43:5 45:23 
+47:7 59:10 
+surface 43:24 
+survive 54:24 
+suspended 60:19 
+sykes 6:8 30:8,16 
+
+30:25 31:9 32:13 
+34:17,24 35:1 
+39:21,22 54:2 
+
+synthesizes 59:14 
+
+T 
+
+t 2:1,1 
+take 12:23 15:3 
+28:1,24 36:3 
+44:10,16 47:15 
+61:10 
+
+taken 45:7 
+takes 32:25 62:8 
+talked 39:19,22 
+talking 13:4,5 27:4 
+37:11 48:8 50:3,6 
+53:19,20 
+
+task 8:19,19 
+tasked 8:3 16:23 
+tell 24:8 55:14,15 
+
+55:16,20,22 
+
+tells 59:6 
+ten 43:9 
+term 16:5 
+test 31:1,14 32:5,14 
+32:24 47:13 56:22 
+
+testimony 23:23 
+tests 25:22 
+text 3:14 7:12 
+
+24:15,19 31:11 
+33:2 
+
+textual 33:17 
+thank 16:4 29:25 
+
+30:1 59:16,17,22 
+62:13,14 
+
+thats 4:21 7:24,25 
+8:12 9:19,21,22 
+
+10:7,19,25 15:11 
+15:19 17:9,11,16 
+17:19 19:2,6 20:2 
+27:18,22 31:16,23 
+33:4,5 34:8 35:17 
+37:2 38:14 39:6 
+41:18 43:12 48:13 
+49:13 50:19 52:25 
+53:1,5 54:18 
+55:10,23 56:6,17 
+56:25 60:24 
+
+theres 5:21 9:15 
+13:9,14 15:15 
+17:10,18,23 22:19 
+25:11,19 44:11 
+45:3 46:20,25 
+47:4 50:15 56:19 
+57:2 58:4 61:12 
+61:21 
+
+theyre 10:16 14:7 
+
+Page 72 
+
+24:11,18 25:5 
+26:22 27:6 28:2,8 
+28:16 29:7,11,14 
+29:18 30:13 31:24 
+32:3,20 33:12 
+34:1,10,15 35:14 
+36:23 37:23 38:3 
+39:20 40:15,17 
+41:2,23 43:2 
+44:13,24 45:8 
+46:8,14,22 47:2 
+47:11,17,22 48:6 
+49:22,24 50:4,24 
+51:11,23,24 52:12 
+52:14,17,18,25 
+53:7,23 54:1,7 
+55:5,9 56:5,9,18 
+56:25 57:23 58:5 
+58:9,25 59:24 
+61:13 62:9,11 
+
+25:17 31:22 37:12  thought 17:21,22 
+37:12 43:1 44:5 
+23:6 25:1 33:3 
+40:3 42:16 44:3 
+46:5,7 48:7 52:18 
+44:19 47:19 48:24 
+58:7,9 
+48:25 60:9 
+
+theyve 12:7 
+thing 10:3 13:13,13 
+14:16 19:25 20:9 
+20:10,10,11 37:9 
+46:1,3,20,25 
+57:20 58:20 
+
+things 11:10,20 
+
+13:19 14:4 17:23 
+25:11 27:18 28:9 
+28:19 42:17 47:2 
+57:14 61:2 
+
+think 4:17 5:25 
+
+thousands 11:3 
+
+29:10 
+
+threat 37:3,6 40:22 
+
+41:11 53:12 
+threaten 41:4 
+threatened 22:21 
+threatens 40:19 
+
+42:10 
+
+threats 41:10,11 
+three 15:1 22:22 
+29:14 40:2 44:4 
+56:15 59:19 
+
+55:25 61:14 
+
+tie 4:6 20:20 46:19 
+
+6:14 7:1 8:2,12,18 
+8:22,24,25 9:19 
+9:21,22 10:10,13 
+10:23 11:11,15,17  time 4:25 6:4 9:11 
+12:12,23 13:9,22 
+13:24 14:3,16,19 
+15:11 17:14,23 
+18:15,20,21 19:5 
+19:9,19,19,24,25 
+20:9,19,20 22:10 
+
+11:3,14 23:25 
+24:9 28:25 31:23 
+31:24 56:20 61:12 
+62:9 
+
+30:19 44:2 61:6 
+
+times 6:1 12:19 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 73 
+
+12:11 26:13 27:15 
+38:20 49:1 
+
+understandable 
+
+6:22 
+
+understood 53:10 
+undertake 48:23 
+
+4:16 5:15 7:4,11  way 19:11 20:17 
+7:14,15 11:19 
+18:21 19:7 25:9 
+26:15,20 30:10,14 
+30:24 42:13 56:3  ways 33:1 
+56:23 57:3 
+
+24:3,4 34:4,16,17  yeah 32:7 39:25 
+43:12 44:25 50:15  years 6:2,13 11:1,1 
+53:25 
+
+Y 
+
+tinge 47:4 
+today 3:4 32:11 
+totally 58:20 
+touched 42:12 
+touching 33:20 
+traditional 25:7 
+trial 16:5 58:8,18 
+tried 37:25 
+trigger 35:3 
+trouble 13:15 
+troubled 9:7 
+true 14:8 31:16 
+
+61:1 
+
+53:13 
+
+validity 56:23 
+variance 12:22 
+unfettered 9:9 
+variants 53:4 
+uniform 32:13 
+various 30:9 34:9 
+uniformly 25:17 
+vast 13:21 25:2 
+unique 56:13 
+united 1:1,6,12 3:5  vehicle 33:17,18 
+
+5:10 
+
+35:1 
+
+try 32:5 36:25 46:7  universally 32:14 
+
+vehicular 35:6 
+
+48:23 60:23 61:7  unjust 45:5 
+
+52:20 
+
+veneer 26:8 
+verging 9:21 
+versus 60:15 
+viable 51:24,25 
+
+trying 18:24 20:8 
+
+28:15 
+
+unlawful 61:22 
+unleashing 46:10 
+unmanageability 
+
+38:4 
+
+turn 12:14 37:21 
+turning 60:22 
+turns 52:23 
+twice 6:12 
+two 11:10 16:7 26:7  unsettleable 12:20 
+unworkable 13:6 
+
+28:5,22 31:21 
+37:1 44:6 52:12 
+53:16 57:14 58:13  use 3:24 4:9,10,11 
+
+45:11 47:7,8 
+
+unreasonable 45:5  victim 61:23 
+
+15:11 19:6 
+
+view 41:25 
+viewed 34:8 
+violation 47:14 
+violations 34:3 
+violence 26:3,7 
+12:4,5 20:15 
+40:5,7 48:3,12 
+22:20,21,21 37:21  violent 3:12 4:7 
+39:1 41:9 49:18 
+53:17 56:16 
+
+twothirds 57:9 
+type 34:3 
+typical 47:14,15,16 
+47:17,19 55:14,15 
+55:21 
+
+typically 43:13 
+
+56:10 
+
+U 
+
+u 38:22 39:11 
+unable 6:18 
+uncertainty 11:8 
+unconstitutional 
+
+11:18 12:9 15:15 
+30:10,16 
+
+unconstitutionally 
+3:14 4:5 5:22 6:8 
+6:23 7:2 18:13 
+19:20 20:16 62:6 
+62:10 
+
+understand 7:23 
+
+20:1 28:20 31:10 
+33:23,24 37:18 
+48:20 61:19,23 
+volunteer 30:14 
+vulnerable 16:2 
+
+W 
+
+useful 6:20 7:13 
+
+11:22 
+
+uses 15:23 
+usually 17:2 
+
+V 
+
+wait 10:15 37:8 
+want 9:14 23:10 
+28:17,17,19,24 
+34:25 37:8 42:14 
+46:14 49:12 50:20 
+58:1 
+
+v 1:5 3:4 14:22 27:6 
+vague 3:14 4:5,18 
+5:23 6:8,24 7:2,7 
+7:10,25 9:4 14:13 
+14:14,21 15:8 
+16:21 17:3 18:14 
+19:20 20:16 26:18 
+27:9 44:12 46:17 
+46:21,24,25 47:3  wants 29:12 57:12 
+washington 1:8,18 
+62:6,10 
+wasnt 19:12 31:11 
+
+31:20 51:11 
+wanting 48:21 
+
+wanted 23:5,16,18 
+
+vagueness 3:16 
+
+wealth 43:23 
+weapon 58:15 
+wed 18:24 
+weigh 12:20 
+went 19:3 
+weve 25:6 31:24 
+whats 10:24 14:3 
+
+20:2 32:19 35:21 
+61:3 
+
+whatsoever 37:22 
+whos 25:3 
+willing 45:7 53:13 
+win 62:11 
+wins 56:4 
+wonderful 55:24 
+
+56:1 
+
+wont 25:24 58:6 
+word 33:23,24 
+
+56:16,17 
+
+words 6:3,5 12:4,5 
+12:8 13:10 15:25 
+17:15 20:22 22:7 
+24:5 26:19 34:11 
+37:12 42:4 50:8 
+50:13,17 55:12 
+56:18 
+
+work 39:13 
+workability 6:19 
+workable 6:20,25 
+works 50:25 
+world 52:8 
+worst 29:13,13 
+wouldnt 18:24 19:2 
+
+24:20 
+
+writing 26:9 
+written 39:8 
+wrong 20:2 
+wrote 28:21 
+
+X 
+
+x 1:2,7 
+
+42:15,23 43:9 
+56:20 57:6 58:5,6 
+
+york 40:13 
+youd 21:12 22:23 
+
+37:15 42:23 50:21 
+
+youre 3:24 4:24 
+14:14,15 15:5 
+21:24 22:2,22 
+25:7 35:18 40:13 
+46:23 50:2 53:18 
+53:20 58:17 
+
+youve 10:24 17:9,9 
+
+17:12,20 39:19 
+49:15 
+
+Z 
+zero 52:24 
+
+0 
+
+04 1:13 3:2 62:16 
+
+1 
+10 1:13 3:2 
+11 62:16 
+137120 1:4 3:4 
+14 6:3,4 10:25 11:6 
+11:7,14 12:18,19 
+17:7 20:22 36:5 
+15 11:1 42:15,23 
+15year 31:20,25 
+17 44:2 52:11 
+1984 29:21 
+
+2 
+20 1:9 11:1 
+200 22:19 23:13 
+2007 6:6 
+2011 6:9 
+2015 1:9 
+20yearold 18:25 
+
+3 
+3 2:4 52:12 
+30 2:7 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 74
+ 
+
+40 48:7
+ 
+
+59 2:10
+ 
+
+4
+ 
+
+5
+ 
+
+6
+ 
+
+7
+ 
+
+8
+ 
+
+8 6:13 14:6 25:15 
+
+44:1 
+
+9
+ 
+
+9 14:6 25:15 44:1 
+922 58:14 
+924 56:14 61:2,3,7 
+
+Alderson Reporting Company
+ 
+
+

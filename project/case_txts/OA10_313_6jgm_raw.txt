@@ -1,0 +1,9763 @@
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+       IN THE SUPREME COURT OF THE UNITED STATES
+
+- - - - - - - - - - - - - - - - - x
+
+TALK AMERICA, INC.,               :
+
+            Petitioner            :  No. 10-313
+
+       v.                         :
+
+MICHIGAN BELL TELEPHONE COMPANY,  :
+
+DBA AT&T MICHIGAN                 :
+
+- - - - - - - - - - - - - - - - - x
+
+and
+
+- - - - - - - - - - - - - - - - - x
+
+ORJIAKOR ISIOGU, ET AL.,          :
+
+            Petitioners           :  No. 10-329
+
+       v.                         :
+
+MICHIGAN BELL TELEPHONE COMPANY,  :
+
+DBA AT&T MICHIGAN                 :
+
+- - - - - - - - - - - - - - - - - x
+
+                       Washington, D.C.
+
+                       Wednesday, March 30, 2011
+
+              The above-entitled matter came on for oral
+
+argument before the Supreme Court of the United States
+
+at 11:07 a.m.
+
+APPEARANCES:
+
+JOHN J. BURSCH, ESQ., Solicitor General, Lansing,
+
+   Michigan; on behalf of Petitioners.
+
+1
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+ERIC D. MILLER, ESQ., Assistant to the Solicitor
+
+   General, Department of Justice, Washington, D.C.; on
+
+   behalf of the United States, as amicus curiae,
+
+   supporting Petitioners.
+
+SCOTT H. ANGSTREICH, ESQ., Washington, D.C.; on behalf
+
+   of Respondents.
+
+2
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+                     C O N T E N T S
+
+ORAL ARGUMENT OF                                  PAGE
+
+JOHN J. BURSCH, ESQ.
+
+   On behalf of the Petitioners                     4
+
+ORAL ARGUMENT OF
+
+ERIC D. MILLER, ESQ.
+
+   On behalf of the United States, as amicus
+
+   curiae, supporting the Petitioners               19
+
+ORAL ARGUMENT OF
+
+SCOTT H. ANGSTREICH, ESQ.
+
+   On behalf of the Respondents                     29
+
+REBUTTAL ARGUMENT OF
+
+JOHN J. BURSCH, ESQ.
+
+   On behalf of the Petitioners                     55
+
+3
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+                 P R O C E E D I N G S
+
+                                 (11:07 a.m.)
+
+            CHIEF JUSTICE ROBERTS:  We'll hear argument
+
+next this morning in Case 10-313, Talk America v.
+
+Michigan Bell, and the consolidated case.
+
+            Mr. Bursch.
+
+             ORAL ARGUMENT OF JOHN J. BURSCH
+
+              ON BEHALF OF THE PETITIONERS
+
+            MR. BURSCH:  Thank you, Mr. Chief Justice,
+
+and may it please the Court:
+
+            Interconnection is the lifeblood of local
+
+phone competition.  That is why, in section 251(c)(2) of
+
+the Telecommunications Act, Congress guaranteed that
+
+competitors would have interconnection at the location
+
+and at the method of their choosing and at TELRIC rates
+
+irregardless of market impairment.  The question in this
+
+case is whether that 251(c)(2) obligation encompasses
+
+the tens of thousands of existing entrance facilities
+
+that even today are interconnecting competitive and
+
+incumbent networks.  And the answer --
+
+            JUSTICE SCALIA:  Did you get -- you get
+
+(c)(2) at TELRIC rates?
+
+            MR. BURSCH:  Yes, you do, Your Honor.  You
+
+get (c)(2) and (c)(3) at TELRIC rates.
+
+            And so, the answer to the question presented
+
+4
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+is yes, for three reasons:  First, because the FCC says
+
+so.  And, as the expert agency charged with interpreting
+
+and implementing the Act, that conclusion is entitled to
+
+deference.
+
+            Second, the FCC's conclusion is consistent
+
+with the plain text of the statute and the implementing
+
+regulations.
+
+            And, third, the FCC's conclusion is
+
+consistent with the policies embodied in the Act,
+
+because the practical result of affirming the Sixth
+
+Circuit opinion in this case is that a competitive
+
+carrier, like Sprint for example, will be forced to
+
+either charge its customers more for interconnection or
+
+lay tens of thousands of duplicate entrance facility
+
+cables, and those are precisely what the Act were
+
+designed to prevent.
+
+            I'd like to start with the Sixth Circuit
+
+opinion -- and, specifically, this is at page 20a of the
+
+Talk America cert petition appendix -- because this goes
+
+to the heart of AT&T's position and the Sixth Circuit's
+
+conclusion with respect to the orange plugs and cords
+
+analogy.  You'll recall that the Sixth Circuit said this
+
+was like a situation where a homeowner had a plug in
+
+their garage and a long orange cord extending out to a
+
+park, which the court called the entrance facility, and
+
+5
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+then the competitive carrier would be that person in the
+
+park.
+
+            On page 20a of the petition appendix in
+
+footnote 9, about halfway down, this is the key flaw in
+
+the Sixth Circuit's reasoning:  The Sixth Circuit says,
+
+"If you, as the homeowner" -- that's the -- I'm sorry,
+
+that's the incumbent -- "had said that they may plug
+
+into the surge protector, then the big orange extension
+
+cord is just an 'entrance facility.'  But, if you had
+
+said they must plug into the big orange extension cord,
+
+then the big orange extension cord becomes the
+
+'interconnection facility' and, consequently, the park
+
+goers" -- the competitors -- "may plug into it."
+
+            The problem with this is that the Sixth
+
+Circuit was wrong in that the incumbent doesn't get to
+
+choose where the point of connection is.  The statute
+
+and the regulations and the FCC make clear it's the
+
+competitor that gets to choose.  So, if the competitor
+
+chooses the end of the extension cord where it connects
+
+to the CLEC network in the park, then even the Sixth
+
+Circuit agrees with us and the Seventh, Eighth, and
+
+Ninth Circuits that the entrance facility is the
+
+interconnection facility.
+
+            JUSTICE KENNEDY:  I have just one small
+
+question on that.
+
+6
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+            MR. BURSCH:  Yes.
+
+Official
+
+            JUSTICE KENNEDY:  Suppose that there are two
+
+competitors and each of them wants to connect, but each
+
+of them wants to connect at a different point and in a
+
+different way.  Must the incumbent accommodate both if
+
+they're technically feasible?
+
+            MR. BURSCH:  Justice Kennedy, the answer is
+
+yes.  The statute gives the competitive carrier the
+
+opportunity to choose the point and the method, all at
+
+TELRIC rates.
+
+            JUSTICE GINSBURG:  Doesn't it say something
+
+about feasible?  It -- it doesn't -- it doesn't give
+
+free choice entirely.  It says -- what are the words?
+
+That the -- the interconnection doesn't have to be put
+
+just anyplace if it's not feasible or it's undue expense
+
+or something to that effect.
+
+            MR. BURSCH:  Justice Ginsburg, the statute
+
+and the regulations make clear that it must be
+
+technically feasible, but there is an almost
+
+irrebuttable presumption that when there are already
+
+facilities in place performing that function, that is
+
+technically feasible.
+
+            JUSTICE SCALIA:  But you -- you want the
+
+incumbent here to -- to build the -- the orange cord and
+
+extend it to wherever you have your switching equipment.
+
+7
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+And what they say is, no, you -- you bring your
+
+switching equipment here; we'll -- we'll allow you to
+
+connect at, you know, the end of our facilities; but, by
+
+God, you -- you make -- you make your own connection
+
+to -- to the switches.
+
+            Now -- now, moreover, you're -- you're
+
+making them -- you'll pay them for the orange cord, but
+
+only at TELRIC rates, which are not realistic.  Now, why
+
+-- why are they wrong and you're right, especially when
+
+you have legislation, the purpose of which was to
+
+encourage the independent building of new facilities?  I
+
+mean, it's clear that the Act wanted these new entrants
+
+where -- where possible to build new facilities, and not
+
+simply to glom on to the extant facilities of the
+
+incumbents.
+
+            MR. BURSCH:  Three responses to that
+
+argument, Your Honor.  First, this case is about
+
+existing facilities, not about facilities to be built,
+
+although there's a lot of talk about that.  This isn't a
+
+head-on challenge to the statute or the regulations.
+
+The procedural posture is that this was AT&T trying to
+
+get out of arbitration agreements that it had for
+
+existing entrance facilities.  And so, that's the
+
+posture of our case.
+
+            JUSTICE SCALIA:  Well, but the logic of your
+
+8
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+case, as you described it, would also require AT&T to
+
+build out the orange cord.
+
+            MR. BURSCH:  Right.  And -- and two
+
+additional points, Your Honor, on that.  First, they say
+
+this is a large obligation because we're talking about
+
+miles and miles.  That is not the position that AT&T
+
+took with the FCC when they were commenting on the TRRO.
+
+At page 16a of the Michigan blue brief, in footnote 397
+
+of the TRRO, the FCC acknowledges AT&T's statement that
+
+entrance facilities involve very short distances.  In
+
+addition, we have the FCC's regulation and the Local
+
+Competition Order, paragraph 553 --
+
+            JUSTICE SCALIA:  Excuse me, excuse me.
+
+            MR. BURSCH:  Yes.
+
+            JUSTICE SCALIA:  Extant entrance facilities
+
+I assume they were referring to.
+
+            MR. BURSCH:  Yes.  I believe that's correct,
+
+yes.
+
+            JUSTICE SCALIA:  Okay.  Well --
+
+            MR. BURSCH:  They're very short distances.
+
+            JUSTICE SCALIA:  Right.  But if you ask for
+
+a longer distance, they would presumably have to build
+
+it.
+
+            MR. BURSCH:  Well, not necessarily --
+
+            JUSTICE SCALIA:  And charge you TELRIC
+
+9
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+rates.
+
+Official
+
+            MR. BURSCH:  Right, because the FCC has
+
+promulgated in -- in 521, the meet-point obligation,
+
+which is another way that you can have interconnection.
+
+And that demonstrates two things:  First, that sometimes
+
+AT&T as the incumbent is required to build out
+
+facilities, that it's not just a passive obligation.
+
+            But, in addition, when they're talking about
+
+meet point, they say that it's up to State commissions
+
+to decide the appropriate and reasonable distance.
+
+            So, even if we were presented with the
+
+case -- not this case, but a different case -- where
+
+you're talking about what's the appropriate length of
+
+the facilities, the FCC has already acknowledged there
+
+could be some reasonable limits on that.
+
+            And the most important fundamental point,
+
+the fourth point on this, is that Congress already in
+
+(c)(2) said you're going to have interconnection without
+
+regard to market impairment, and so we're not going to
+
+look at the availability of other entrance facilities in
+
+the market.  If a competitor asks to have this location
+
+and this method and it's technically feasible, they do
+
+get the TELRIC rates.
+
+            And the competitive carriers would take
+
+issue with the presumption that TELRIC rates are -- are
+
+10
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+unfair.  You know, the regulations do contemplate that
+
+they're going to recover not only their cost but a
+
+reasonable profit.  And we can disagree about the
+
+congressional wisdom of requiring rates like that, but
+
+in the Verizon case, this Court definitively put to bed
+
+the question of the reasonableness of the TELRIC rates.
+
+            JUSTICE BREYER:  Where would I read this?
+
+As I read the statute, the statute says the cheap system
+
+here is where they provide -- they have a duty to
+
+provide the incumbent interconnection, okay?  That
+
+requires some physical stuff.
+
+            MR. BURSCH:  Yes.
+
+            JUSTICE BREYER:  Okay.  And they have to --
+
+they -- you have to -- you're not charged a lot for
+
+that; there's a limit on what they can charge you for
+
+the interconnection.
+
+            MR. BURSCH:  Correct.
+
+            JUSTICE BREYER:  Now, somebody is going to
+
+have to decide whether if Pacific Tel and Tel is being
+
+tried to forced to connect with Maine, you know, they
+
+have to pay for a wire across country to get the
+
+interconnection or not.  That seems unreasonable.
+
+Across the street, maybe they do.
+
+            My candidate would normally be the FCC or
+
+some regulator decides that kind of thing, and it's up
+
+11
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+to them to say whether this is or is not what's needed
+
+for interconnection.  That would be an intuitive account
+
+I would have, without having read the statute in depth.
+
+            So, now what do I read to find out how this
+
+works?  What is it that distinguishes something that is
+
+ridiculous, like my California example, from something
+
+that makes a lot of sense, like they're next door and
+
+have to make 50 feet of wire.
+
+            MR. BURSCH:  Justice Breyer, if you look at
+
+paragraph 553 of the Local Competition Order, which
+
+appears at page 27a of the Michigan blue brief --
+
+            JUSTICE BREYER:  Michigan blue --
+
+            MR. BURSCH:  At least that's where it
+
+begins.  If you flip over to -- to page 28a, this is the
+
+second page of the paragraph.
+
+            JUSTICE BREYER:  Where -- where -- 28a,
+
+okay.
+
+            MR. BURSCH:  Very good.
+
+            About halfway down the -- that paragraph
+
+there, it says:  "Regarding the distance from an
+
+incumbent LEC's premises that an incumbent should be
+
+required to build out facilities for meet-point
+
+arrangements" -- so, again, this is in the meet-point
+
+context -- "we believe that the parties and State
+
+commissions are in a better position than the commission
+
+12
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+to determine the appropriate distance that would
+
+constitute the required reasonable accommodation for
+
+interconnection."  So, again --
+
+            JUSTICE BREYER:  Okay.  So, it's up to the
+
+State commission.
+
+            MR. BURSCH:  Exactly.
+
+            JUSTICE BREYER:  This is the FCC speaking?
+
+            MR. BURSCH:  The FCC is speaking --
+
+            JUSTICE BREYER:  All right.  And the State
+
+commission says -- they say it's up to the State
+
+commission.  And the State commission here said?
+
+            MR. BURSCH:  Well, here, the State
+
+commission didn't say anything, because we're talking
+
+about existing facilities.  There's no one requesting a
+
+new entrance facility to be built, for example, from
+
+Lansing to Detroit.  That's not this case.  This case is
+
+about the existing facilities.
+
+            JUSTICE SCALIA:  Mr. Bursch, the -- the key
+
+to your case is -- is that an entrance facility is
+
+interconnection, right?
+
+            MR. BURSCH:  Correct.
+
+            JUSTICE SCALIA:  You have to equate those
+
+two -- those two terms.
+
+            MR. BURSCH:  I do.
+
+            JUSTICE SCALIA:  What do you rely upon to
+
+13
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+equate them?  Because the -- as I read the regulations,
+
+they -- they use them as separate terms.
+
+            MR. BURSCH:  Regulation 51.5 defines
+
+"interconnection" as the mutual -- or, I'm sorry -- as
+
+the linking of two networks for the mutual exchange of
+
+traffic.  There is no dispute that an entrance facility
+
+physically links a competitive network with an incumbent
+
+network; thus, when that entrance facility is used for
+
+the mutual exchange of traffic, it is providing
+
+interconnection.  And that's exactly what the FCC has
+
+concluded.
+
+            JUSTICE SCALIA:  Doesn't -- doesn't the
+
+interconnection -- doesn't it have to be part of the
+
+internal system of the incumbent carrier?
+
+            MR. BURSCH:  It has to be part of their
+
+network.  But in the TRRO, the FCC made clear repeatedly
+
+that entrance facilities constructed by incumbents are
+
+part of their network.  And so, there's really no
+
+dispute that it can be part of the network.  And so --
+
+            JUSTICE KENNEDY:  You say that this is a
+
+link, and your -- the opposition says that it's a --
+
+that it's transport.  Is that correct?
+
+            MR. BURSCH:  It is transport.  By
+
+definition, interconnection has to include transport
+
+because it involves the mutual exchange of traffic from
+
+14
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+one to another.
+
+Official
+
+            JUSTICE KENNEDY:  But the -- but the reg
+
+says interconnection does not include transport.
+
+            MR. BURSCH:  Well, we address that point at
+
+length in our reply brief, because AT&T advances that
+
+argument, and it's really a fundamental misconception or
+
+misunderstanding of the regulation.  51.5 --
+
+            JUSTICE KENNEDY:  I have -- I've got it in
+
+front of me.  It says, "This term does not include
+
+transport."  But you -- you say it does?
+
+            MR. BURSCH:  Yes.  Well, the entrance
+
+facilities do include transport.  All interconnection
+
+facilities --
+
+            JUSTICE KENNEDY:  No, I'm talking about --
+
+            MR. BURSCH:  Yes.
+
+            JUSTICE KENNEDY:  -- interconnection.
+
+            MR. BURSCH:  Right.  What 51.5 -- I assume
+
+that's what you're looking at.
+
+            JUSTICE KENNEDY:  Yes.
+
+            MR. BURSCH:  That -- that goes to a term of
+
+art or a phrase of art, "transport and termination of
+
+traffic."  And as the FCC made clear in its regulation
+
+51.701, which is at page 35a of the red brief, what
+
+they're really distinguishing there are the two types of
+
+charges.  You have 251(c)(2) interconnection charges and
+
+15
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+you have 251(b)(5) transport and termination of traffic
+
+charges.  And those are two separate concepts.
+
+            The interconnection charge runs from the
+
+competitive network to the incumbent network.  The
+
+transport and termination of traffic charge runs from
+
+the point of interconnection to the incumbent's end
+
+customer, and that's very clear.  The Ninth Circuit
+
+specifically acknowledged that point in note 16 of the
+
+Pacific Bell case.  But common sense tells you that has
+
+to be right because under AT&T's view, the way they
+
+interpret 51.5, there would be no interconnection
+
+obligation because there's always going to be transport,
+
+a mutual exchange of traffic when interconnection is
+
+involved.
+
+            CHIEF JUSTICE ROBERTS:  Is that right or --
+
+            JUSTICE BREYER:  Do you read --
+
+            CHIEF JUSTICE ROBERTS:  Is there a mutual
+
+exchange of traffic when you're talking about
+
+backhauling?
+
+            MR. BURSCH:  No, there is not, and we don't
+
+take that position.  The mutual exchange is when a
+
+competitive customer talks to an incumbent customer or
+
+vice versa.  Everything else we can call backhauling,
+
+and that's not what's at issue when we're talking about
+
+251(c)(2).
+
+16
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            JUSTICE BREYER:  Can I go back to my
+
+question?  Because I haven't gotten an answer.
+
+            MR. BURSCH:  Yes.
+
+            JUSTICE BREYER:  You see, I would think --
+
+you said, well, this is an existing facility.
+
+            MR. BURSCH:  Yes.
+
+            JUSTICE BREYER:  But my intuition would be
+
+that makes no difference whatsoever.  You could have
+
+some kind of mechanism that connects two companies.
+
+Now, half of it is a simple wire and half of it is bells
+
+and whistles.  And so, we have to decide which part is
+
+the part that's necessary for the interconnection and
+
+which part is some kind of -- well, I don't know, extra
+
+bells and whistles, and therefore, since it's not an
+
+impairment kind of problem, they have to pay full price
+
+for it.
+
+            That, again, seems like the kind of job that
+
+Congress would leave up to a commission, but I guess I
+
+want you to tell me:  Who's to decide that kind of
+
+thing, and how do we decide it?
+
+            MR. BURSCH:  Are you talking about the
+
+distance, or what the bells and whistles are--
+
+            JUSTICE BREYER:  I don't know what it is.
+
+Often, these things are not distance.  Often, a
+
+connection is all kinds of complex things, you know?
+
+17
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+And some are necessary and some aren't.  But I can --
+
+can't you imagine with me the same kind of California
+
+problem arising, but it just arises in -- in kind,
+
+rather than in distance?
+
+            MR. BURSCH:  Well, as far as --
+
+            JUSTICE BREYER:  My -- if I'm so far off
+
+base you can't get the question, forget it.
+
+            MR. BURSCH:  No, not at all, Justice Breyer.
+
+            JUSTICE BREYER:  I mean, I might not be able
+
+to get an answer.
+
+            MR. BURSCH:  I think it's a very good
+
+question.  And really --
+
+            JUSTICE BREYER:  You don't have to think
+
+it's that.
+
+            MR. BURSCH:  I'll take it in two parts.  You
+
+know, again, with respect to distance, in the meet-point
+
+context, the FCC has already delegated in LCO paragraph
+
+553 appropriate and reasonable distances.
+
+            With respect to the bells and whistles, it's
+
+really not that complicated.  You've got a cable.
+
+That's your entrance facility, you know, typically a
+
+fiberoptic cable.  And there's going to be a conduit
+
+that it needs to run through.  There might be, you know,
+
+risers or spacers with little twisty ties or something
+
+similar to that, zip cords, that will allow the cable to
+
+18
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+be run into a building and up a wall and connect into
+
+the appropriate place.  But to the extent those are
+
+interconnection facilities, those are necessarily part
+
+of the 251(c)(2) obligation.
+
+            And unless there are any further questions,
+
+I'll reserve the remainder of my time.
+
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+
+            MR. BURSCH:  Thank you.
+
+            CHIEF JUSTICE ROBERTS:  Mr. Miller.
+
+             ORAL ARGUMENT OF ERIC D. MILLER
+
+   ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE,
+
+               SUPPORTING THE PETITIONERS
+
+            MR. MILLER:  Mr. Chief Justice, and may it
+
+please the Court:
+
+            There are a lot of statements by the FCC at
+
+issue in this case, but I'd like to focus on two
+
+statements by the commission in its published regulation
+
+and orders that, taken together, resolve the question
+
+presented here.  And the first is the commission's
+
+determination in 47 CFR 51.305(e), which appears at page
+
+5a of Michigan's brief, that it is the competitor, not
+
+the incumbent, that gets to select the point at which
+
+interconnection takes place.
+
+            Specifically, that regulation says that if
+
+an incumbent wants to deny a request for
+
+19
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+interconnection, it has -- at a particular point, it has
+
+the burden of proving that interconnection at that point
+
+would be technically infeasible.  And that undercuts a
+
+key premise of the decision below, which was that as
+
+long as the incumbent provides interconnection at some
+
+technically feasible point that it has selected, then
+
+it's discharged its obligation, and if the competitor
+
+doesn't like it, that's just too bad.  They can build
+
+their own facility if they want to interconnect
+
+somewhere else.  That's --
+
+            JUSTICE SOTOMAYOR:  Counsel, underlying that
+
+question is an issue that I think Justices Ginsburg and
+
+Scalia were asking.  Technically feasible is different
+
+from economically ridiculous or economically burdensome.
+
+How does that, "economically burdensome" -- does it get
+
+considered by anyone so that -- because one could
+
+imagine, as Justice Breyer said, that a competitor could
+
+come in and say, now, build me the Taj Mahal as an
+
+entrance facility or as an interconnection facility.
+
+So, is there anyone controlling for that latter issue?
+
+            MR. MILLER:  In terms of the definition of
+
+"technical feasibility" -- that's a defined term in
+
+section 51.5 of the regulations, and it does not include
+
+economic considerations.
+
+            Nonetheless, as the commission explained
+
+20
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+when it adopted those regulations in 1996 at paragraph
+
+209 of the Local Competition Order, competitors have an
+
+incentive to ask for an economically efficient means of
+
+interconnection because they have to pay for it.  I
+
+mean, the -- they don't pay as much as AT&T would
+
+like -- because they're paying TELRIC rates -- but they
+
+do still have to pay for interconnection, so they have
+
+incentive to ask for a reasonable method of it.
+
+            And what's at issue in this case, to get to
+
+the second part of your question, is not --
+
+            JUSTICE GINSBURG:  That's why it's only
+
+technically feasible, because the economic burden is --
+
+is not on the company.  It has to provide it at the
+
+place if it's technically feasible, but it doesn't pay
+
+for it.
+
+            MR. MILLER:  That -- that's right.
+
+            CHIEF JUSTICE ROBERTS:  Mr. Miller, you
+
+began by saying there were two regulations that disposed
+
+of the case.  You got one.  What's the second?
+
+            MR. MILLER:  The -- the second is the
+
+commission's determination in the Triennial Review
+
+Remand Order in response to the D.C. Circuit's remand of
+
+its previous order, that entrance facilities are,
+
+indeed, part of the incumbent's network because the
+
+statutory obligation, of course, is to allow
+
+21
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+interconnection at any technically feasible point within
+
+the incumbent carrier's network.
+
+            JUSTICE BREYER:  Where do I find that?
+
+            MR. MILLER:  That's in paragraph 137 of the
+
+Triennial Review Remand Order, which appears at page 10a
+
+of Michigan's brief.  And in the preceding paragraph,
+
+the commission traced the history of its definition of
+
+the dedicated transport network elements in the Local
+
+Competition Order, its revision of that in the Triennial
+
+Review Order, in which it had said that the facilities
+
+are not part of the network.  The D.C. Circuit then
+
+vacated that.
+
+            JUSTICE SCALIA:  What section are you
+
+referring to?  On page 10a?  Which one is it?
+
+            MR. MILLER:  Well, I've -- I've just gone
+
+back to the previous two pages, but it -- 10a is
+
+paragraph 137, where the court says, "In response" --
+
+excuse me -- where the commission says, "In response to
+
+the court's remand" -- that's the D.C. Circuit's remand
+
+in the USTA case -- "we reinstate the Local Competition
+
+Order of dedicated" -- "Order definition of dedicated
+
+transport."  And that was a definition of a network
+
+element that included entrance facilities.  So, what the
+
+commission was saying there by its reference back to
+
+that definition --
+
+22
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            JUSTICE SCALIA:  You -- you do not need to
+
+provide unbundled access under (c)(3) to entrance
+
+facilities, right?
+
+            MR. MILLER:  That -- that's correct, and the
+
+court of appeals, I think, perceived a contradiction
+
+between saying that this isn't something to which you
+
+have to provide unbundled access under (c)(3), but it is
+
+something that has to be made available for
+
+interconnection under (c)(2).
+
+            And there is no contradiction there because
+
+these are separate, independent statutory obligations,
+
+and what's particularly significant about the difference
+
+between the two statutes -- statutes is that (c)(3) has
+
+an impairment test.  You only have to make available
+
+those network elements without which the competitor
+
+would be impaired in its provision of service.
+
+            (C)(2) does not have an impairment test, and
+
+that's because Congress recognized that interconnection
+
+is absolutely fundamental to any effective telephone
+
+competition.
+
+            JUSTICE BREYER:  So, what's the
+
+definition difference between entrance facility and
+
+interconnection facility?  How do we know which is
+
+which?
+
+            MR. MILLER:  If you're referring to the --
+
+23
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+what the -- in the way the commission used those terms
+
+in the --
+
+            JUSTICE BREYER:  No, no, I'm not.  I want to
+
+know what's the difference.  Tell me in English what the
+
+difference is.
+
+            MR. MILLER:  An entrance facility --
+
+            JUSTICE BREYER:  No, no.  I mean, how do we
+
+know which is which?  We see some big lines and stuff in
+
+it; how do we know which is which?
+
+            MR. MILLER:  The -- an entrance facility, as
+
+the commission explained in the TRRO, is just the link
+
+between the incumbent's office and the competitor's
+
+office.  And an interconnection facility is anything --
+
+any part of the network that's being used for
+
+interconnection.
+
+            JUSTICE SCALIA:  It's a genus and -- and the
+
+entrance facility is the species --
+
+            MR. MILLER:  It can be.
+
+            JUSTICE SCALIA:  -- in your estimation?
+
+            MR. MILLER:  It -- it can be when it is used
+
+for interconnection.  It could also sometimes be used
+
+for other things, but we're talking about the situation
+
+where the competitor wishes to use the entrance facility
+
+for interconnection.
+
+            CHIEF JUSTICE ROBERTS:  I'm sorry.  Could
+
+24
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+you run that by me again?
+
+Official
+
+            MR. MILLER:  The -- the entrance facility is
+
+just the link between the two offices --
+
+            CHIEF JUSTICE ROBERTS:  Okay.
+
+            MR. MILLER:  -- the incumbent and the
+
+competitor.
+
+            CHIEF JUSTICE ROBERTS:  Got it.
+
+            MR. MILLER:  That can be used for a couple
+
+of different purposes, but one of the purposes for which
+
+it can be used is interconnection.  And when it is being
+
+used for that purpose, it is appropriately described as
+
+a -- as an interconnection facility.
+
+            JUSTICE GINSBURG:  Mr. Miller, would you,
+
+before you sit down, explain what is the Government's
+
+position when an agency is asked to file a brief?  The
+
+Sixth Circuit asked -- invited the FCC to file a brief,
+
+it did, and then the Sixth Circuit disagreed.  And there
+
+was some suggestion that when an agency files a brief
+
+here in this Court, as opposed to a court of appeals, it
+
+deserves more weight.
+
+            MR. MILLER:  We -- we agree with the view
+
+expressed by Judge Sutton in his dissenting opinion
+
+below, that there really is no reason to distinguish
+
+between amicus briefs, particularly those filed at the
+
+invitation of a court, in the court of appeals, from
+
+25
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+those -- filed here.  In this case, of course, the
+
+question of --
+
+            JUSTICE SCALIA:  But there may be a -- a
+
+reason to give less weight to briefs in this Court,
+
+different from the briefs filed with a court of appeals.
+
+And you've taken a different position here on -- on the
+
+issue of whether, when backhauling is included, it's
+
+part of the -- it's -- it's part of the interconnection
+
+facility?
+
+            MR. MILLER:  No.
+
+            JUSTICE SCALIA:  I do not think you made
+
+that distinction below about, you know, oh, it is part
+
+where there is back -- where there is not backhauling,
+
+but where there is, it isn't.
+
+            MR. MILLER:  I think our briefs in -- in the
+
+two cases are consistent.  Our brief here provides more
+
+detail in explaining the commission's orders, but in
+
+both cases, we have taken the view, as the commission
+
+has consistently taken the view since the TRRO, that
+
+entrance facilities don't have to be made available as
+
+unbundled elements for purposes of back haul, but they
+
+do have to be made available when the incumbent seeks to
+
+use them for interconnection.  And I think this is
+
+precisely the sort of case where --
+
+            JUSTICE SCALIA:  Wait.  They have to be as
+
+26
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+unbundled elements?  I thought they never had to be --
+
+            MR. MILLER:  No, they -- they --
+
+            JUSTICE SCALIA:  -- made available as
+
+unbundled elements.  That's (c)(3).
+
+            MR. MILLER:  That's right.  Then they are --
+
+            JUSTICE SCALIA:  Your argument here is that
+
+only have to be made available under (c)(2)?
+
+            MR. MILLER:  Exactly.
+
+            JUSTICE SCALIA:  Which is not unbundled?
+
+            MR. MILLER:  Right.  And it's only for
+
+purposes of -- of interconnection.  And I think this is
+
+precisely the sort of case where deference under Auer is
+
+appropriate, given that you have a highly complex
+
+statute regulating a very complex, dynamic industry, and
+
+so the commission's regulations involve not only the
+
+exercise of --
+
+            JUSTICE SCALIA:  You certainly encourage us
+
+to throw up our hands.  There's no doubt about it.
+
+            (Laughter.)
+
+            MR. MILLER:  I -- another way of saying that
+
+would be that it's appropriate to recognize the
+
+commission's not only policy-making discretion but
+
+technical expertise in the industry that's being
+
+regulated.  And certainly the commission has tried to be
+
+as clear as it can in its regulations, but this is an
+
+27
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+area where some level of imprecision is probably
+
+inevitable.  And I think that's why it's appropriate to
+
+defer to --
+
+            JUSTICE KENNEDY:  Well, I don't know why --
+
+why it's so hard.  I mean, I got out my orange cord, and
+
+I --
+
+            (Laughter.)
+
+            JUSTICE KENNEDY:  But I -- I wasn't sure of
+
+if -- if it was a transport or link.  That -- that's my
+
+concern.
+
+            MR. MILLER:  Well, I guess I would say maybe
+
+we need to put the difference between interconnection
+
+and transport in concrete terms.  It would be the
+
+interconnection charge which is at TELRIC rates under
+
+252(d)(1).  There would be a flat fee for setting it up
+
+and then a flat monthly fee just for having the link
+
+there.
+
+            CHIEF JUSTICE ROBERTS:  Oh, continue.
+
+            MR. MILLER:  Thank you.  And that's
+
+independent of usage.
+
+            Then, separately, each time a call is made,
+
+there is a charge under 252(d)(2) for the transport and
+
+termination of the call.  And that goes both ways.  So,
+
+when the competitor's customer calls the ILEC, the
+
+customer -- the competitor pays the ILEC for terminating
+
+28
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+the call and vice versa.
+
+Official
+
+            CHIEF JUSTICE ROBERTS:  Thank you,
+
+Mr. Miller.
+
+            Mr. Angstreich.
+
+          ORAL ARGUMENT OF SCOTT H. ANGSTREICH
+
+              ON BEHALF OF THE RESPONDENTS
+
+            MR. ANGSTREICH:  Thank you, Mr. Chief
+
+Justice, and may it please the Court:
+
+            In this case, the agency is trying to use an
+
+amicus brief to interpret a few sentences in orders from
+
+years ago to create a new legal rule without ever going
+
+through a process that would result in judicial review.
+
+In fact, in the Triennial Review Orders, where the
+
+agency supposedly announced this new obligation, it
+
+assured incumbents like AT&T that it was not altering
+
+its interpretation of the statutory interconnection
+
+duty.  And the Government correctly concedes here that
+
+before those orders, the Government had never
+
+interpreted the statutory interconnection duty to
+
+require companies like AT&T to sell a fiberoptic cable
+
+at TELRIC rates.  Yes --
+
+            JUSTICE SOTOMAYOR:  Counsel, I know you're
+
+saying that, but everybody's arguing about what the --
+
+what the TRO and the TRRO say or don't say.  But I go
+
+behind that and I go -- I think the Government's entire
+
+29
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+argument is not based even on those.  It's based on the
+
+LCO regulations themselves.  They've cited two, which is
+
+51.305 and 51.321.  They're not relying on those TROs in
+
+their back and forth there; they're relying on the
+
+regulation.
+
+            MR. ANGSTREICH:  Well, Your Honor, I
+
+actually read their brief differently, and I note that
+
+in the Sixth Circuit, they didn't rely on any
+
+regulations at all.  The argument was entirely based on
+
+paragraph 140.
+
+            But going to the regulations, at the same
+
+time they promulgated those rules, the government did
+
+define interconnection to exclude transport, and when
+
+they defended that exclusion --
+
+            JUSTICE SOTOMAYOR:  So, how do you address
+
+their point that there are two different charges at
+
+issue?
+
+            MR. ANGSTREICH:  There are --
+
+            JUSTICE SOTOMAYOR:  That one -- that
+
+interconnection by definition includes transport.  It's
+
+hard for me to think of how it doesn't because they've
+
+got to travel from one place to another, so --
+
+            MR. ANGSTREICH:  Your Honor, when the FCC
+
+explained this to the Eighth Circuit, what it said is
+
+there are really three things going on.  One is (c)(2),
+
+30
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+is the duty to interconnect at a point, not to provide a
+
+whole host of facilities that get you to the point, but
+
+literally the duty to interconnect at a specific point
+
+in the world; selected by the competitor to be sure, but
+
+that only tells you where interconnection occurs.
+
+That's the point.
+
+            The commission then said:  Okay, then there
+
+are other obligations in the statute.  One of them is in
+
+section 251(b)(5), and that's what obligates the
+
+incumbent to accept telephone calls that are sent to
+
+that point and to send telephone calls through that
+
+point to the competitor.
+
+            And then, there's the third thing, and this
+
+is directly from the government's brief to the Eighth
+
+Circuit, where they explain that section (c)(2) --
+
+            JUSTICE SCALIA:  The Sixth Circuit?
+
+            MR. ANGSTREICH:  The Eighth Circuit.  We
+
+cite this at -- from 1996, this is the contemporaneous
+
+view of the agency at the time it promulgated the
+
+interconnection regulations.  It's defending those
+
+regulations against a challenge that they are too
+
+narrow.  And what the agency says to the Eighth Circuit,
+
+which then deferred to this interpretation, is if
+
+section (c)(2), interconnection, included routing and
+
+transmission, (c)(2) would overlap with other sections
+
+31
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+that, one, describe a duty to route and transmit
+
+traffic, telephone calls; and, two, a duty to lease
+
+facilities that will be used for routing and
+
+transmission.  Footnote:  Those duties are (b)(5) and
+
+(c)(3).  To the extent there is a duty to lease the
+
+facilities, the fiberoptic cables that competitors are
+
+going to use to get to the interconnection point of
+
+their choice, that duty has to arise, the commission is
+
+saying here, only under section 251(c)(3).
+
+            And we know it doesn't arise under that
+
+section because these aren't things that are bottleneck
+
+elements.  These aren't things that competitors can't
+
+get themselves.  Competitors are interconnecting today.
+
+Wireless carriers, other competitors, everyone in the
+
+State of Ohio has since 2005 not been paying TELRIC
+
+rates, and as the amicus brief showed, there has been no
+
+detriment to competition.  Interconnection is occurring.
+
+            And so, what the Government is trying to do
+
+here is impose this leasing obligation under the
+
+interconnection duty in a way that never gave AT&T and
+
+other incumbents any opportunity to challenge it.  They
+
+never explain how it squares with the text and structure
+
+of the statute, with their prior statements, or why
+
+there's any policy basis for interpreting what they
+
+claim is an ambiguous statute to require TELRIC pricing
+
+32
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+for things that are not bottleneck elements.
+
+            Back in the Local Competition Order, Justice
+
+Sotomayor, when they adopted the TELRIC methodology,
+
+they recognized -- this is in paragraph 702 --
+
+interconnection services -- that's what they called it
+
+back then -- are bottlenecks, not things that
+
+competitors can build themselves or buy from third
+
+parties in the marketplace, as the agency has found is
+
+the case since 2005.  They never --
+
+            JUSTICE SOTOMAYOR:  Well, now you're reading
+
+limitation into the statute.  All the statute says is
+
+you're obligated to provide interconnection services.
+
+It doesn't say how or limit it only to things that are
+
+not bottlenecks or things that are bottlenecks.  It just
+
+says you're obligated to do X.  And that's what the
+
+agency's saying.
+
+            MR. ANGSTREICH:  I understand this, Your
+
+Honor.  But if the agency had ever done that through
+
+notice and comment with a rule and published it in the
+
+Federal Register -- which they concede that before 2003
+
+they hadn't done that as to entrance facilities -- and
+
+they claim they had no occasion to address the
+
+question -- and then in 2003 we get a single sentence in
+
+a paragraph of an order where there was no notice they
+
+were considering interconnection duties, no publication
+
+33
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+of a new regulation, no publication -- nothing that
+
+would have, you know, told AT&T and other incumbents you
+
+should seek judicial review of this if you think it's
+
+wrong.
+
+            And now we're being told 8 years later that
+
+when they said "facilities" in that paragraph, they
+
+meant entrance facilities.  And we're being told 2 years
+
+later when they said "interconnection facilities," that
+
+they meant entrance facilities, even though when they
+
+were asked that question by the Sixth Circuit they said
+
+we didn't define that term.  And Mr. Miller might want
+
+to say they've just said a little bit more now, but
+
+they've said something radically different.
+
+            JUSTICE SOTOMAYOR:  I -- in that regard, in
+
+all of these years, are -- you mean to tell me there is
+
+no other incumbent that has provided interconnection
+
+services at an entrance facility and charged TELRIC
+
+rates?
+
+            MR. ANGSTREICH:  Prior to 2003 and 2005,
+
+when there was an unbundling rule in place -- and the
+
+commission had always recognized when it established
+
+that unbundling rule in 1996 that competitors would use
+
+unbundled transport facilities to connect to incumbent
+
+switches, so to connect to those interconnection points.
+
+And, sure, prior to 2005 when the unbundling rule was in
+
+34
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+place, competitors would lease these facilities and pay
+
+TELRIC rates and use them to get to the interconnection
+
+point, but there was never during that time any
+
+statement that even if there was no impairment, section
+
+251(c)(2) would require the exact same thing to get to
+
+the interconnection point.
+
+            JUSTICE SCALIA:  What happened to the
+
+unbundling rule?
+
+            MR. ANGSTREICH:  It got -- it was gotten rid
+
+of.  It doesn't exist anymore.  So, now AT&T has said
+
+those things you used to buy under the unbundling rules,
+
+we don't have to sell them to you at TELRIC rates
+
+anymore.  We have a tariff.  We've always had a tariff.
+
+We'll sell them to you at just and reasonable rates
+
+under the tariff.  You can build them yourself, as
+
+competitors and wireless carriers are doing.  You can
+
+buy them from the third parties that build them and
+
+advertise their offering of them.
+
+            But what you can't do is say all of a sudden
+
+that the interconnection duty had always required the
+
+exact same thing as the unbundling duty, at least not
+
+without going through a rulemaking where you lay out
+
+your policy grounds.
+
+            JUSTICE SCALIA:  Why was the unbundling rule
+
+abandoned?
+
+35
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            MR. ANGSTREICH:  It was abandoned because
+
+the record evidence showed unambiguously that
+
+competitors don't need these things from incumbents.
+
+            JUSTICE SCALIA:  It's not a bottleneck?
+
+            MR. ANGSTREICH:  It's not in any way, shape,
+
+or form a bottleneck.  And I guess that gets to the
+
+second point I'd make, which is that, again -- and I
+
+don't think they rely on the regulations, Justice
+
+Sotomayor, and they've never -- and the Government
+
+concedes in footnote 6 that the regulations themselves
+
+don't get them to where they want to go.  They need
+
+these statements they made in 2003 and 2005.  And even
+
+if you credit their new position that when they said
+
+facilities and interconnection facilities, that was just
+
+an imprecise way of saying entrance facilities, those
+
+statements don't get you to the rule that they're
+
+endorsing.
+
+            What the agency actually said is that
+
+competitors will have access to these facilities -- and
+
+let's pretend that means entrance facilities for the
+
+time being -- will have access to entrance facilities at
+
+cost-based rates to the extent that they require them to
+
+interconnect, and that's paragraph 140 of the Triennial
+
+Review Order and -- remand order, and they said the same
+
+thing, although they used the word "need," not
+
+36
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+"require."
+
+Official
+
+            JUSTICE SCALIA:  Which is (c)(3).
+
+            MR. ANGSTREICH:  Well, I think the point is
+
+what they -- this is why we think the right reading of
+
+those statements is that the facilities they're
+
+referring to are things they actually do require and
+
+need, which are the things inside AT&T buildings that
+
+they can't replicate, that it's strange for them to have
+
+said you're going to get these facilities you require,
+
+but to have meant something that they don't in fact
+
+require.
+
+            But even if you want to read, again,
+
+facilities and interconnection facilities to mean
+
+entrance facilities, the rule that they're endorsing --
+
+and, you know, Michigan now wants, if it's in the ground
+
+we have to provide it; if we'd have to build it, we
+
+don't have to provide it.  It's the first time we've
+
+heard of that in the scope of this litigation.  The
+
+Government seems to only be willing to -- to talk about
+
+those few facilities that had been gotten under the old,
+
+now-gone unbundling rules, but that's not the
+
+distinction that the commission drew when it said this
+
+thing that's supposedly imposing an obligation on AT&T
+
+and other companies.  It limited it to those things that
+
+competitors require.
+
+37
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            JUSTICE SOTOMAYOR:  But that's -- that's
+
+(c)(3).
+
+            MR. ANGSTREICH:  But that's what --
+
+            JUSTICE SOTOMAYOR: (C)(2) says you just --
+
+you have to.  It imposes an affirmative obligation to
+
+provide interconnection -- an interconnection.
+
+            MR. ANGSTREICH:  Well, it imposes an
+
+obligation, Your Honor, to provide interconnection at a
+
+point -- it's at a point within our network.
+
+            JUSTICE SCALIA:  Excuse me.  That's your
+
+point, I thought.  I thought it is precisely your point
+
+that it is (c)(3) rather than (c)(2).
+
+            MR. ANGSTREICH:  Well, that's -- my point
+
+is, yes, if there is a facilities leasing obligation, it
+
+has to exist under (c)(3).  That's absolutely right,
+
+Justice Scalia, that -- we think that's the right
+
+reading of the statute, we think that's what the FCC
+
+told the Eighth Circuit, we think it's what the FCC said
+
+in the Local Competition Order.
+
+            JUSTICE BREYER:  I don't -- what I --
+
+there's no way for you all to go to the FCC and decide
+
+what part of this thing is -- or any State regulator,
+
+what part of it is -- part of what's necessary to
+
+facilitate interconnection and what part of it is really
+
+providing the work primarily of the -- simply
+
+38
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+transporting services?
+
+Official
+
+            MR. ANGSTREICH:  Your Honor --
+
+            JUSTICE BREYER:  What part is doing
+
+something else?
+
+            MR. ANGSTREICH:  There's really no
+
+dispute --
+
+            JUSTICE BREYER:  There's no way to do that?
+
+            MR. ANGSTREICH:  No.
+
+            JUSTICE BREYER:  Okay, so a judge has to
+
+say, on the basis of what, on the basis -- the judge has
+
+to say on the basis of the statute, which just uses the
+
+word "interconnection"?
+
+            MR. ANGSTREICH:  The Michigan commission
+
+decided that the FCC in that paragraph 140 created this
+
+obligation.
+
+            JUSTICE BREYER:  Yes.  But the -- the --
+
+            MR. ANGSTREICH:  That's wrong.
+
+            JUSTICE SCALIA:  Excuse me.  I -- I thought
+
+it was conceded that -- that none of this is -- is
+
+necessary under (c)(3).  I thought that's what the
+
+Eighth Circuit said and which is why they eliminated the
+
+unbundling obligation under (c)(3).
+
+            MR. ANGSTREICH:  That's -- that's absolutely
+
+right, Your Honor.
+
+            JUSTICE SCALIA:  So, it is accepted by both
+
+39
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+sides, I think, that this is not necessary.
+
+            MR. ANGSTREICH:  That's right, and because
+
+it's not necessary, you can't read, as the government
+
+tries to, belatedly, years after the fact, those
+
+statements in their orders from 2003 and 2005, those few
+
+statements in these matching orders --
+
+            JUSTICE BREYER:  It doesn't help because
+
+it's a network element if it's in (3), and what this is,
+
+is something that's going to be needed to -- to
+
+interconnect.  If it's -- if it's in -- if it's in the
+
+first one.  And I don't know which is which, and I
+
+gather that sometimes it would be tough.  And what
+
+courts use to do with the ICC when they got into this
+
+kind of situation is a doctrine called primary
+
+jurisdiction, and they'd ask them for a brief.  All
+
+right?  So, if that's what we've done hypothetically, we
+
+have the brief.
+
+            MR. ANGSTREICH:  Well, Your Honor --
+
+            JUSTICE BREYER:  Now, why don't we have to
+
+follow the brief?
+
+            MR. ANGSTREICH:  Because the brief here
+
+doesn't do what a decision on a primary jurisdiction
+
+referral would do, which is square what the agency is
+
+doing with the text and structure of the statute with
+
+prior statements that contradict --
+
+40
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            JUSTICE SCALIA:  Do you agree that it has to
+
+be needed to interconnect?
+
+            MR. ANGSTREICH:  Your Honor --
+
+            JUSTICE SCALIA:  The whole problem here is
+
+it doesn't have to be needed to interconnect.
+
+            MR. ANGSTREICH:  Our --
+
+            JUSTICE SCALIA:  It has to be needed under
+
+(c)(3), but under (c)(2), it's -- it's up to the -- to
+
+the new company to say I want to interconnect here; and
+
+-- and the incumbent cannot say, oh, no, you -- you
+
+don't have interconnect here; you can interconnect
+
+somewhere else.
+
+            MR. ANGSTREICH:  That -- Your Honor, that's
+
+absolutely right, Justice Scalia.  They get to pick a
+
+point.  The point has to be within our network.  Rule
+
+51.305 identifies a series of illustrative points, all
+
+of which exist inside AT&T buildings.  And that's what
+
+they've done.  They've picked a point --
+
+            JUSTICE SOTOMAYOR:  But wait a minute.  Does
+
+-- don't the regulations now and the commission's TRO,
+
+et cetera, say that an entrance facility is within your
+
+network?  You haven't challenged that.
+
+            MR. ANGSTREICH:  We do disagree.  I mean, at
+
+the time of the Triennial Review Order, they said it was
+
+outside of our network.
+
+41
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            JUSTICE SOTOMAYOR:  And it's now they --
+
+            MR. ANGSTREICH:  That's when they also
+
+supposedly adopted this rule.  So, somehow, this rule
+
+they've adopted has to coexist with the notion that
+
+these things are outside of our network.  But in or out,
+
+I think it's important to recognize they're not
+
+claiming --
+
+            JUSTICE SOTOMAYOR:  If they're in your
+
+network --
+
+            MR. ANGSTREICH:  Pardon me.  I think -- if
+
+you have the Network Engineers' brief, figure 4 on page
+
+19, I think it does a very good job of illustrating what
+
+it is we're talking about.
+
+            JUSTICE SCALIA:  Like orange wires and such?
+
+            (Laughter.)
+
+            MR. ANGSTREICH:  They draw them in black,
+
+but yes.
+
+            JUSTICE SCALIA:  In black?
+
+            JUSTICE SOTOMAYOR:  Figure 4.
+
+            MR. ANGSTREICH:  Figure 4 on page 19.  What
+
+the competitors in this case and Michigan have long said
+
+is that the competitor has picked as its point of
+
+interconnection a point inside the box on the right
+
+labeled Incumbent Local Exchange Carrier Central Office.
+
+And then they need some fiberoptic cable to bridge the
+
+42
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+gap to that interconnection point.  That's how Judge
+
+Sutton understood it in dissent.  That's how Judge
+
+Batchelder understood it in the majority.
+
+            And all the interconnection duty talks
+
+about, all any of the interconnection regulations talk
+
+about, is letting the competitors pick that point.  How
+
+they get to the point is up to them.
+
+            JUSTICE BREYER:  That's not what the statute
+
+says.  The statute says the carriers have a duty to
+
+provide interconnection.
+
+            MR. ANGSTREICH:  Right.
+
+            JUSTICE BREYER:  Now, in carrying out a duty
+
+to provide, you say that's just picking a point.
+
+Somebody could equally well say, no, it's a duty to
+
+provide means to get to the point.  Now, either of those
+
+seem equally consistent with the language.
+
+            MR. ANGSTREICH:  Your Honor, there's more
+
+language that I think forecloses those interpretations.
+
+It's not just the duty to provide interconnection.  It's
+
+the duty to provide interconnection for the competitor's
+
+facilities and equipment --
+
+            JUSTICE BREYER:  Yes.
+
+            MR. ANGSTREICH:  -- at a point within the
+
+incumbent's network.  Nothing in that statutory language
+
+says that the duty is to provide the competitor with the
+
+43
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+facilities and equipment --
+
+Official
+
+            JUSTICE BREYER:  No, it doesn't say that,
+
+but it doesn't say the opposite.  And, therefore, you
+
+might have an agency reasonably deciding that to provide
+
+-- to fulfill that duty, you must provide equipment
+
+reasonably necessary to allow the competitor to connect.
+
+That's equally sensible.
+
+            MR. ANGSTREICH:  And, Justice Breyer, you
+
+might have an agency that did that.
+
+            JUSTICE BREYER:  Yes.
+
+            MR. ANGSTREICH:  We don't have an agency
+
+that did that.
+
+            JUSTICE BREYER:  Apparently, you have an
+
+agency that never really said one way or the other.
+
+            MR. ANGSTREICH:  And that means that
+
+Michigan was wrong when it thought that the agency had
+
+said it, and the Sixth Circuit was right when it agreed.
+
+            JUSTICE SCALIA:  Well, it used to say the
+
+other.  You -- you contend it used to say the other, and
+
+it has never, by proper means, gainsaid its prior
+
+position.
+
+            MR. ANGSTREICH:  That's correct, Justice
+
+Scalia.
+
+            JUSTICE BREYER:  I don't see what the
+
+other -- I didn't hear anything that said they said the
+
+44
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+other.  They've said when you have wires and you're
+
+using the wires for communication, then they don't fall
+
+outside this; that's true.  But if you're using them for
+
+interconnection, and they're necessary to use for
+
+interconnection, maybe it does fall inside this.  I
+
+don't --
+
+            MR. ANGSTREICH:  Well, Justice Breyer,
+
+again, we point you to their definition of
+
+"interconnection" where they excluded transport from
+
+interconnection and explained to the Eighth Circuit's --
+
+you know --
+
+            JUSTICE BREYER:  Excluded -- they excluded
+
+transport -- all transport to the point of
+
+interconnection, where you could not provide the
+
+facility to interconnect unless you had the transport?
+
+Is that what they did?
+
+            MR. ANGSTREICH:  What they said is --
+
+            JUSTICE BREYER:  Did they do that?  Yes or
+
+no?  I bet the answer is no.
+
+            MR. ANGSTREICH:  What they -- I -- Your
+
+Honor, I just -- I don't think you're describing it in
+
+the way that consists --
+
+            JUSTICE BREYER:  All right.
+
+            MR. ANGSTREICH:  -- comports with the
+
+language of the Act.
+
+45
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            What they said is a duty to lease facilities
+
+that will be used for routing and transmission of
+
+telephone calls to the point, that's (c)(3).  That's not
+
+part of the interconnection duty.  When they contrasted,
+
+in their Local Competition Order, paragraph 172, they
+
+said what interconnection does is it lets the competitor
+
+pick the place where they're going to drop the traffic
+
+off.  But it is section (c)(3) that lets the competitor
+
+say:  I'd prefer to use incumbent facilities at TELRIC
+
+rates to get to that point.
+
+            They have made that very distinction.  But
+
+what they're trying to do through their amicus brief
+
+here is to turn (c)(2) into a facilities leasing
+
+provision.
+
+            Now, again, we don't think this Court needs
+
+to say that they could never have promulgated a rule
+
+with reasons that would get you there, but they've never
+
+done it.  If they had done it, we would have had the
+
+opportunity to seek judicial review.  They would have
+
+had to explain themselves.  We've never had that
+
+opportunity.
+
+            When they've said -- put, you know -- I
+
+think it's important, when they put out these sentences
+
+in the Triennial Review Order and Triennial Review
+
+Remand Order that supposedly told us of this new
+
+46
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+obligation, they never asked for notice about this, even
+
+though, in their notice of proposed rulemaking, they
+
+said, should we get rid of entrance facilities under
+
+(c)(3)?  They didn't say, and if we do, what would that
+
+mean for (c)(2)?  They didn't ask the question.
+
+            JUSTICE SCALIA:  I thought they said,
+
+moreover, that they were not amending (c)(2),
+
+specifically.
+
+            MR. ANGSTREICH:  That's exactly right.  In
+
+the orders themselves, they assured AT&T and others that
+
+they weren't changing anything with regard to (c)(2).
+
+            JUSTICE BREYER:  But there are -- there are
+
+cases, I think, in primary jurisdiction where what a
+
+district court has done, anyway, is to hold the case
+
+while the ICC went and had a proceeding.  And I'm sure
+
+that hasn't been used in a long time.
+
+            MR. ANGSTREICH:  No, that is still used,
+
+Justice Breyer.
+
+            JUSTICE BREYER:  It is?
+
+            MR. ANGSTREICH:  But I'd point --
+
+            JUSTICE BREYER:  Well, maybe this is the
+
+case for it.
+
+            MR. ANGSTREICH:  Well, I don't think
+
+there's -- and I'd point to this Court's decision by
+
+Justice Ginsburg in Northwest Airlines v. Kent, 510 U.S.
+
+47
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+355, where this Court said:  Nobody has asked us to
+
+invoke the doctrine of primary jurisdiction; we're not
+
+going to do it; instead, we will adopt an interpretation
+
+of the statute that will suffice for the purposes at
+
+hand.  And as the Court later recognized in Brand X,
+
+that leaves it open to the agency, in a rulemaking, to
+
+actually do the work that, as Justice Scalia noted, the
+
+agency has never done here.
+
+            And so.  It's -- rather than imposing
+
+something through a combination of amicus briefs and
+
+statements that don't actually set forth the rule that
+
+the agency is trying to defend here, we'd have a real
+
+rulemaking --
+
+            JUSTICE SOTOMAYOR:  I --
+
+            MR. ANGSTREICH:  -- and a chance --
+
+            JUSTICE SOTOMAYOR:  I guess the problem I'm
+
+having is that you tell me on the one hand that up
+
+until, what, 2005, you were always paying the cost plus
+
+profit rates, the TELRIC's rates, for interconnection at
+
+a -- at an entrance facility.
+
+            MR. ANGSTREICH:  That's not quite right,
+
+Justice Sotomayor.  Up until 2005, companies like Talk
+
+America were allowed to get both the actual physical
+
+linking at TELRIC rates and the transport facility at
+
+TELRIC rates, but under two separate statutory
+
+48
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+provisions.  They were getting the transport facility
+
+under (c)(3); that's gone away.  They were getting the
+
+linking under (c)(2).
+
+            Now, there were other companies like
+
+wireless carriers.  They were getting the linking at
+
+TELRIC rates under (c)(2), but they were paying full
+
+freight for the transport, because they have never been
+
+allowed to get unbundled network elements.  So, this
+
+notion that there's going to be a price increase to
+
+wireless carriers is a fiction.
+
+            But what -- so, competitors were doing two
+
+things under two provisions.  One of those has gone
+
+away.  And it was only after it went away that anybody
+
+raised this notion that maybe that transport facility
+
+had always been required under (c)(2) also.  But that's
+
+nothing the commission has ever done in a rulemaking.
+
+            It never did that in the proper way in the
+
+Triennial Review Order or the Triennial Review Remand
+
+Order.  As Justice Scalia noted, it assured AT&T and
+
+other incumbents that it wasn't changing the law.  When
+
+it published things in the Federal Register, which is
+
+where it's supposed to publish substantive rules, it
+
+identified specifically the elimination of entrance
+
+facilities as unbundled network elements, and said not a
+
+word about any continued duty to provide them under
+
+49
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+section --
+
+Official
+
+            JUSTICE SOTOMAYOR:  Well, it did in its
+
+footnotes.  It said -- that's what the whole dispute is
+
+about, which is we're not changing the obligation to
+
+provide interconnection services.  So, it said it
+
+clearly.
+
+            MR. ANGSTREICH:  It -- it said it --
+
+            JUSTICE SOTOMAYOR:  Its view --
+
+            MR. ANGSTREICH:  -- but then the question,
+
+Justice Sotomayor, is:  Well, what was that obligation?
+
+And the government concedes in footnote 6 that prior to
+
+making those statements, it had never interpreted that
+
+obligation to include the duty to lease that transport
+
+facility.  It claims the question never came up because,
+
+while it was an unbundled element, it didn't matter.
+
+            Now, I think it's quite telling that while
+
+it was an unbundled element and we were having 10 years
+
+of litigation about what the right standard is for an
+
+unbundled element, nobody even thought to say:  By the
+
+way, all of this litigation is beside the point with
+
+respect to the use of these facilities when we attach
+
+them to an interconnection point.
+
+            JUSTICE SCALIA:  The Eighth Circuit's
+
+decision would have been unnecessary and the revision of
+
+the rule?
+
+50
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            MR. ANGSTREICH:  Exactly, Justice Scalia.
+
+It's very strange that no -- I mean -- and I think from
+
+the fact that nobody thought to say it comes to what we
+
+view has happened, is that this is a rear-guard effort
+
+to preserve TELRIC pricing for things that the
+
+commission has said should no longer be available as
+
+TELRIC -- at TELRIC pricing.
+
+            JUSTICE SCALIA:  Maybe the commission didn't
+
+like the Eighth Circuit's decision.
+
+            MR. ANGSTREICH:  I -- I think it's probably
+
+a fair statement that the commission does not like the
+
+decisions vacating its unbundling rules, but
+
+nonetheless, that's what happened, and the new rules get
+
+rid of this element.
+
+            Again, what the Michigan commission found
+
+was that the FCC had specifically determined that there
+
+is a leasing obligation under (c)(2).  That never
+
+happened.  The Sixth Circuit was right about that.
+
+There is no leasing obligation that the commission has
+
+ever established.
+
+            I think, Justice Breyer, to go back to your
+
+question, whether they could do it is a separate
+
+question.  I don't think they could.  I think we have an
+
+incredibly good chance to prevail if they were to ever
+
+promulgate such a rule, but they never did it.  They
+
+51
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+said things directly to the contrary.
+
+            JUSTICE BREYER:  It all didn't matter
+
+because, in fact, they got the TELRIC rates under (c)(3)
+
+until they changed the impairment part?
+
+            MR. ANGSTREICH:  Right.
+
+            JUSTICE BREYER:  So, who cared?  And now
+
+after that, they care.
+
+            MR. ANGSTREICH:  Right, they care.
+
+            JUSTICE BREYER:  And now -- now -- now the
+
+other side cares, of course.  And so, now -- now we're
+
+faced with a situation where they're just putting this
+
+in the brief for the first time, but they can't base it
+
+on anything the commission actually did?
+
+            MR. ANGSTREICH:  That's exactly right.  And
+
+if the commission had actually --
+
+            JUSTICE BREYER:  Amd I'm glad it's right
+
+because I don't know what I'm talking about.
+
+            (Laughter.)
+
+            MR. ANGSTREICH:  I'm glad -- I'm glad we're
+
+at least agreeing with each other, Justice Breyer.
+
+But -- and I think that really is the key administrative
+
+law point here, is that if the agency in the Triennial
+
+Review Order or Triennial Review Remand Order had
+
+actually said what they say in their brief, we never had
+
+occasion to consider this question before.  Now we're
+
+52
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+considering it, and here is why we think it's
+
+appropriate to read (c)(2) to impose leasing.
+
+            And despite the fact that, you know --
+
+again, the commission claims that the statute's
+
+ambiguous.  They'd need a policy reason why it's
+
+appropriate to read this ambiguous statute to require
+
+TELRIC pricing for things that third parties are
+
+actually investing in and selling at marketplace rates,
+
+why it's appropriate to undercut those third-party
+
+business models with this TELRIC pricing for something
+
+the competitors can and are building themselves, third
+
+parties are selling --
+
+            JUSTICE SOTOMAYOR:  If we accept their
+
+policy arguments, what does that do to your main
+
+argument?
+
+            MR. ANGSTREICH:  I --
+
+            JUSTICE SOTOMAYOR:  Because I think they've
+
+explained it to my satisfaction why this is necessary
+
+because (c)(2) requires interconnection.  Congress has
+
+made a judgment that interconnection is the mainstay of
+
+competition in this area.  So, if I accept that --
+
+            MR. ANGSTREICH:  With due respect, Justice
+
+Sotomayor, I don't think they've made that policy claim
+
+here, and in particular this is not a case about whether
+
+interconnection is going to occur.
+
+53
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            Competitors and wireless carriers are
+
+picking their points of interconnection.  They are
+
+interconnecting today.  They have been doing it.  And
+
+wireless carriers never had TELRIC priced transport
+
+facilities, and yet they're interconnected.  Competitors
+
+in nearly a dozen States that have addressed this issue
+
+and disagreed with Michigan and agreed with the Sixth
+
+Circuit are interconnecting today using their own
+
+facilities, using third-party facilities.  And when they
+
+come to AT&T and say we'd like to plug our facility into
+
+this point, AT&T says, absolutely, and does the work
+
+necessary to get those two things connected.
+
+            JUSTICE SCALIA:  It doesn't say it that
+
+happily.  It really doesn't.
+
+            MR. ANGSTREICH:  You're right.  It
+
+certainly --
+
+            JUSTICE SCALIA:  Well, okay.
+
+            MR. ANGSTREICH:  It's -- it's an imposition
+
+on AT&T.  But the notion that in any way, shape, or form
+
+the price of the cable will alter the interconnection of
+
+telephone networks is simply false.  Yes,
+
+interconnection is an important policy, and Congress
+
+said we have to provide it at points within our networks
+
+selected by competitors.  And we do that.
+
+            But Congress didn't say, and the FCC has
+
+54
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+never said, that we also have to provide them whatever
+
+it is that they want to use to get to that point.  And
+
+there really is -- and I think some of the questioning
+
+pulled that out, though they want to say I think because
+
+the Government won't endorse the absolute position the
+
+Petitioners were taking in their opening briefs, that
+
+this is only about things that used to be ordered as
+
+unbundled elements or things already in the ground.
+
+            But their position, their interpretation of
+
+the statute has no stopping point.  It would cover
+
+anything a competitor might ever want to use to get
+
+telephone calls to the interconnection point.  And
+
+they've never defended that limitless reading.  And if
+
+the agency ever wanted to adopt it, we would challenge
+
+it.  And as I've said, I like our chances, but until
+
+they do it, Michigan was wrong to conclude that the
+
+commission had done it, and the Sixth Circuit was
+
+correct to reject that.
+
+            If there are no further questions, I'll sit
+
+down.
+
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+
+            Mr. Bursch -- Bursch, you have 4 minutes
+
+remaining.
+
+           REBUTTAL ARGUMENT OF JOHN J. BURSCH
+
+              ON BEHALF OF THE PETITIONERS
+
+55
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            MR. BURSCH:  Your Honors, everything you
+
+heard in the last 30 minutes is premised on the idea
+
+that the FCC is doing something new and that there was
+
+never a promulgated regulation.  That is demonstrably
+
+false.
+
+            If you turn with me to page 32a of the red
+
+brief, this is the FCC's regulation, promulgated all the
+
+way back in 1996, which defined the scope of the (c)(2)
+
+interconnection obligation.  It's 47 CFR 51.321.  And
+
+this goes directly to the points that Justice Sotomayor
+
+was making.
+
+            On page 32a, the FCC says that an incumbent
+
+must provide interconnection at a particular point upon
+
+a request by a telecommunications carrier, such as a
+
+competitor.  "Technically feasible methods" -- this is
+
+in sub (b) -- "include, but are not limited to" -- and
+
+they give two examples:  collocation and meet points.
+
+But this isn't the be-all-end-all of interconnection
+
+obligations.  These are exemplary.
+
+            To take an analogy, assume you had a high
+
+school cafeteria, and the school board said you have to
+
+provide vegetables to students when they ask for them,
+
+and you have to give them the vegetable that they ask
+
+for; those include broccoli and green beans.  And they
+
+don't say anything else.  Then you have a separate
+
+56
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+obligation in (c)(3), and the school board says until we
+
+see that the kids have enough nutrition, you must give
+
+them peas.  That's entrance facilities unbundled under
+
+(c)(3).
+
+            So, some time goes by, and the school board
+
+says, okay, the kids are getting enough peas; we're
+
+going to wipe away that second restriction, but the
+
+initial restriction, the obligation in 321, is still
+
+there; and if a student asks for peas, it's within the
+
+scope of 321 because broccolis and green beans were
+
+representative examples, and peas are another one.  And
+
+that's where entrance facilities fit.
+
+            JUSTICE SCALIA:  Why did they fight the
+
+Eighth Circuit litigation?  Why did -- I mean, it --
+
+you're telling me it made no difference whether (c)(3)
+
+allowed them to do what they wanted to do and what the
+
+Eighth Circuit said they couldn't do, right?
+
+            MR. BURSCH:  The premise -- no, that's
+
+incorrect, Your Honor, because if you have an entrance
+
+facility under (c)(3), you can use it for more things
+
+than you can under (c)(2) because under (c)(3) you can
+
+have it for backhauling and still get TELRIC rates.
+
+Under (c)(2), you're limited to interconnection.  So,
+
+it's a different question.
+
+            But the idea that somehow the FCC can --
+
+57
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            JUSTICE SCALIA:  Very slightly different.
+
+That's not that big a deal.
+
+            MR. BURSCH:  Backhauling is a big deal to
+
+competitors.  And so, to say that they did something new
+
+in the TRRO is wrong.  And to prove that point, if you
+
+look at the comments --
+
+            JUSTICE SCALIA:  Incidentally, where do
+
+you -- where do you get that backhauling restriction
+
+from?
+
+            MR. BURSCH:  The backhauling --
+
+            JUSTICE SCALIA:  Yes, yes.  The --
+
+            MR. BURSCH:  From the TRO and the TRRO, and
+
+the FCC discussed that distinction in the Sixth Circuit
+
+briefing at pages 6 to 7.  So, this isn't anything new,
+
+either.
+
+            So, the fact that this is not something new
+
+is demonstrated conclusively by comments in the TRRO
+
+proceedings from Bell South, which is now an AT&T
+
+subsidiary.  And Bell South says, at page 59 of its
+
+comments, fully recognizing the obligation that went all
+
+the way back to 1996 in reg 321:  Because entrance
+
+facilities may be required for interconnection purposes
+
+and Congress explicitly enacted provisions that govern
+
+carrier obligations to provide interconnection in
+
+251(c)(2), it was altogether reasonable for the
+
+58
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+commission to exclude these network elements from a
+
+definition of ILEC dedicated transport intended for
+
+unbundled access under 251(c)(3).
+
+            So, even incumbent carriers knew what the
+
+FCC was doing in paragraph 140 of the TRRO, and there
+
+was nothing new there.
+
+            One other small point with respect to the
+
+Network Engineers' map.  This entrance facility right
+
+here on page 19 already exists.  We're talking about
+
+existing facilities.  And it's true, as the Sixth
+
+Circuit said, that if the point of interconnection is
+
+here at the ILEC switch, then that's where
+
+interconnection takes place, and this entrance facility
+
+is -- is truly providing transport, not interconnection.
+
+            But when a competitive carrier chooses its
+
+own switch as the point of interconnection, this is the
+
+end of the AT&T entrance facility, then interconnection
+
+takes place there.  And even in the Sixth Circuit's
+
+view, that entrance facility is interconnection under
+
+(c)(2).  And as Congress has said, that's the obligation
+
+that is immutable because it is so important,
+
+fundamental to competition.
+
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+
+            The case is submitted.
+
+            MR. BURSCH:  Thank you.
+
+59
+
+Alderson Reporting Company
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official
+
+            (Whereupon, at 12:05 p.m., the case in the
+
+above-entitled matter was submitted.)
+
+60
+
+Alderson Reporting Company
+
+Official
+Official
+
+61
+
+A
+
+abandoned35:25
+
+36:1
+
+able 18:9
+above-entitled
+
+1:20 60:2
+
+absolute 55:5
+absolutely 23:19
+
+38:15 39:23
+41:14 54:11
+accept 31:10
+
+53:13,21
+
+accepted39:25
+access 23:2,7
+
+36:19,21 59:3
+accommodate
+
+accommodation
+
+7:5
+
+13:2
+
+account 12:2
+acknowledged
+
+10:14 16:8
+
+acknowledges
+
+9:9
+
+Act 4:13 5:3,9,15
+
+8:12 45:25
+actual 48:23
+addition9:11
+
+10:8
+
+additional 9:4
+address 15:4
+30:15 33:22
+
+addressed54:6
+administrative
+
+52:21
+
+adopt 48:3 55:14
+adopted21:1
+33:3 42:3,4
+advances 15:5
+advertise 35:18
+affirmative 38:5
+affirming 5:10
+agency 5:2 25:15
+
+25:18 29:9,14
+
+31:19,22 33:8
+33:18 36:18
+40:23 44:4,9,11
+44:14,16 48:6,8
+48:12 52:22
+55:14
+
+agency's 33:16
+ago 29:11
+agree 25:21 41:1
+agreed44:17
+
+54:7
+
+agreeing 52:20
+agreements 8:22
+agrees 6:21
+Airlines 47:25
+AL 1:11
+allow8:2 18:25
+
+21:25 44:6
+
+allowed48:23
+
+49:8 57:16
+alter54:20
+altering 29:15
+altogether58:25
+ambiguous 32:25
+
+53:5,6
+
+Amd 52:16
+amending 47:7
+America 1:3 4:4
+
+5:19 48:23
+
+amicus 2:3 3:7
+19:11 25:24
+29:10 32:16
+46:12 48:10
+analogy 5:22
+
+56:20
+
+Angstreich2:5
+3:10 29:4,5,7
+30:6,18,23
+31:17 33:17
+34:19 35:9 36:1
+36:5 37:3 38:3
+38:7,13 39:2,5
+39:8,13,17,23
+40:2,18,21 41:3
+41:6,13,23 42:2
+
+42:10,16,20
+43:11,17,23
+44:8,11,15,22
+45:7,17,20,24
+47:9,17,20,23
+48:15,21 50:7,9
+51:1,10 52:5,8
+52:14,19 53:16
+53:22 54:15,18
+announced29:14
+answer4:20,25
+7:7 17:2 18:10
+45:19
+
+anybody 49:13
+anymore 35:10
+
+35:13
+
+anyplace 7:15
+anyway 47:14
+Apparently
+
+44:13
+
+appeals 23:5
+
+25:19,25 26:5
+
+APPEARANC...
+
+1:23
+
+appears 12:11
+
+19:20 22:5
+
+appendix 5:19
+
+6:3
+
+appropriate
+
+10:10,13 13:1
+18:18 19:2
+27:13,21 28:2
+53:2,6,9
+
+appropriately
+
+25:11
+
+arbitration8:22
+area 28:1 53:21
+arguing 29:23
+argument 1:21
+
+3:2,5,9,12 4:3,7
+8:17 15:6 19:10
+27:6 29:5 30:1
+30:9 53:15
+55:24
+
+arguments 53:14
+
+arises 18:3
+arising 18:3
+arrangements
+
+12:23
+
+art 15:21,21
+asked25:15,16
+
+34:10 47:1 48:1
+
+asking 20:13
+asks 10:21 57:9
+Assistant 2:1
+assume 9:16
+15:17 56:20
+assured29:15
+47:10 49:19
+attach50:21
+AT&T 1:7,15
+
+8:21 9:1,6 10:6
+15:5 21:5 29:15
+29:20 32:20
+34:2 35:10 37:7
+37:23 41:17
+47:10 49:19
+54:10,11,19
+58:18 59:17
+
+AT&T's 5:20 9:9
+
+16:10
+
+Auer27:12
+availability
+
+10:20
+
+available 23:8,14
+26:20,22 27:3,7
+51:6
+
+a.m1:22 4:2
+
+B
+
+b 32:4 56:16
+back 17:1 22:16
+22:24 26:13,21
+30:4 33:2,6
+51:21 56:8
+58:21
+
+backhauling
+
+16:19,23 26:7
+26:13 57:22
+58:3,8,10
+
+Alderson Reporting Company
+Alderson Reporting Company
+
+bad20:8
+base 18:7 52:12
+based30:1,1,9
+basis 32:24
+
+39:10,10,11
+
+Batchelder43:3
+beans 56:24
+
+57:10
+bed11:5
+began 21:18
+begins 12:14
+behalf 1:25 2:3,5
+3:4,7,11,14 4:8
+19:11 29:6
+55:25
+
+belatedly 40:4
+believe 9:17
+
+12:24
+
+Bell 1:6,14 4:5
+16:9 58:18,19
+
+bells 17:10,14,22
+
+18:19
+
+bet 45:19
+better12:25
+be-all-end-all
+
+56:18
+
+big 6:8,10,11
+24:8 58:2,3
+
+bit 34:12
+black 42:16,18
+blue 9:8 12:11,12
+board 56:21 57:1
+
+57:5
+
+bottleneck 32:11
+
+33:1 36:4,6
+
+bottlenecks 33:6
+
+33:14,14
+box 42:23
+Brand 48:5
+Breyer11:7,13
+11:18 12:9,12
+12:16 13:4,7,9
+16:16 17:1,4,7
+17:23 18:6,8,9
+18:13 20:17
+
+22:3 23:21 24:3
+24:7 38:20 39:3
+39:7,9,16 40:7
+40:19 43:8,12
+43:22 44:2,8,10
+44:13,24 45:7
+45:12,18,23
+47:12,18,19,21
+51:21 52:2,6,9
+52:16,20
+
+bridge 42:25
+brief9:8 12:11
+15:5,23 19:21
+22:6 25:15,16
+25:18 26:16
+29:10 30:7
+31:14 32:16
+40:15,17,20,21
+42:11 46:12
+52:12,24 56:7
+briefing 58:14
+briefs 25:24 26:4
+26:5,15 48:10
+55:6
+
+bring 8:1
+broccoli 56:24
+broccolis 57:10
+build 7:24 8:13
+
+9:2,22 10:6
+12:22 20:8,18
+33:7 35:15,17
+37:16
+
+building 8:11
+19:1 53:11
+
+buildings 37:7
+
+41:17
+
+built 8:18 13:15
+burden20:2
+
+21:12
+
+burdensome
+
+20:14,15
+
+Bursch1:24 3:3
+3:13 4:6,7,9,23
+7:1,7,17 8:16
+9:3,14,17,20
+
+9:24 10:2 11:12
+11:17 12:9,13
+12:18 13:6,8,12
+13:18,21,24
+14:3,15,23 15:4
+15:11,15,17,20
+16:20 17:3,6,21
+18:5,8,11,15
+19:8 55:22,22
+55:24 56:1
+57:18 58:3,10
+58:12 59:25
+business 53:10
+buy 33:7 35:11
+
+35:17
+
+C
+
+c 3:1 4:1,22,24
+
+4:24 10:18 23:2
+23:7,9,13,17
+27:4,7 30:25
+31:15,24,25
+32:5 37:2 38:2
+38:4,12,12,15
+39:20,22 41:8,8
+46:3,8,13 47:4
+47:5,7,11 49:2
+49:3,6,15 51:17
+52:3 53:2,19
+56:8 57:1,4,15
+57:20,21,21,23
+59:20
+
+cable 18:20,22
+18:25 29:20
+42:25 54:20
+
+cables 5:15 32:6
+cafeteria 56:21
+California 12:6
+
+18:2
+
+call 16:23 28:21
+
+28:23 29:1
+
+called5:25 33:5
+
+40:14
+
+calls 28:24 31:10
+31:11 32:2 46:3
+
+Official
+
+62
+
+55:12
+
+candidate 11:24
+care 52:7,8
+cared52:6
+cares 52:10
+carrier5:12 6:1
+
+7:8 14:14 42:24
+56:14 58:24
+59:15
+
+carriers 10:24
+32:14 35:16
+43:9 49:5,10
+54:1,4 59:4
+carrier's 22:2
+carrying 43:12
+case 4:4,5,17
+5:11 8:17,24
+9:1 10:12,12,12
+11:5 13:16,16
+13:19 16:9
+19:16 21:9,19
+22:20 26:1,24
+27:12 29:9 33:9
+42:21 47:14,22
+53:24 59:24
+60:1
+
+cases 26:16,18
+
+47:13
+
+Central 42:24
+cert 5:19
+certainly 27:17
+
+27:24 54:16
+cetera 41:21
+CFR 19:20 56:9
+challenge 8:20
+31:21 32:21
+55:14
+
+challenged41:22
+chance 48:15
+
+51:24
+
+chances 55:15
+changed52:4
+changing 47:11
+
+49:20 50:4
+
+charge 5:13 9:25
+
+11:15 16:3,5
+28:14,22
+charged5:2
+
+11:14 34:17
+
+charges 15:25,25
+
+16:2 30:16
+cheap 11:8
+Chief4:3,9 16:15
+16:17 19:7,9,13
+21:17 24:25
+25:4,7 28:18
+29:2,7 55:21
+59:23
+
+choice 7:13 32:8
+choose 6:16,18
+
+7:9
+
+chooses 6:19
+
+59:15
+
+choosing 4:15
+Circuit 5:11,17
+5:22 6:5,15,21
+16:7 22:11
+25:16,17 30:8
+30:24 31:15,16
+31:17,22 34:10
+38:18 39:21
+44:17 51:18
+54:8 55:17
+57:14,17 58:13
+59:11
+
+Circuits 6:22
+Circuit's 5:20 6:5
+
+21:22 22:19
+45:10 50:23
+51:9 59:18
+
+cite 31:18
+cited30:2
+claim32:25
+
+33:22 53:23
+claiming 42:7
+claims 50:14
+
+53:4
+
+clear 6:17 7:18
+
+8:12 14:16
+15:22 16:7
+
+27:25
+
+clearly 50:6
+CLEC 6:20
+coexist 42:4
+collocation56:17
+combination
+
+come 20:18
+
+48:10
+
+54:10
+
+comes 51:3
+comment 33:19
+commenting 9:7
+comments 58:6
+
+58:17,20
+
+commission
+
+12:25 13:5,10
+13:11,11,13
+17:18 19:17
+20:25 22:7,18
+22:24 24:1,11
+26:18 27:24
+31:7 32:8 34:21
+37:22 39:13
+49:16 51:6,8,11
+51:15,19 52:13
+52:15 53:4
+55:17 59:1
+commissions
+10:9 12:25
+commission's
+19:19 21:21
+26:17 27:15,22
+41:20
+
+common16:9
+communication
+
+45:2
+
+companies 17:9
+
+29:20 37:24
+48:22 49:4
+
+company 1:6,14
+
+21:13 41:9
+
+competition4:12
+9:12 12:10 21:2
+22:9,20 23:20
+32:17 33:2
+
+Alderson Reporting Company
+
+38:19 46:5
+53:21 59:22
+
+competitive 4:19
+
+5:11 6:1 7:8
+10:24 14:7 16:4
+16:22 59:15
+
+competitor6:18
+
+6:18 10:21
+19:21 20:7,17
+23:15 24:23
+25:6 28:25 31:4
+31:12 42:22
+43:25 44:6 46:6
+46:8 55:11
+56:15
+
+competitors 4:14
+
+17:9
+
+6:13 7:3 21:2
+32:6,12,13,14
+33:7 34:22 35:1
+35:16 36:3,19
+37:25 42:21
+43:6 49:11
+53:11 54:1,5,24
+58:4
+
+competitor's
+24:12 28:24
+43:20
+
+complex17:25
+
+27:13,14
+
+complicated
+
+18:20
+
+comports 45:24
+concede 33:20
+conceded39:19
+concedes 29:17
+
+36:10 50:11
+concepts 16:2
+concern 28:10
+conclude 55:16
+concluded14:11
+conclusion5:3,5
+
+5:8,21
+
+conclusively
+
+58:17
+
+Official
+
+63
+
+contrary 52:1
+contrasted46:4
+controlling 20:20
+cord 5:24 6:9,10
+
+6:11,19 7:24
+8:7 9:2 28:5
+
+cords 5:21 18:25
+correct 9:17
+11:17 13:21
+14:22 23:4
+44:22 55:18
+
+correctly 29:17
+cost 11:2 48:18
+cost-based36:22
+counsel 19:7
+20:11 29:22
+55:21 59:23
+country 11:21
+couple 25:8
+course 21:25
+26:1 52:10
+
+court 1:1,21 4:10
+5:25 11:5 19:14
+22:17 23:5
+25:19,19,25,25
+26:4,5 29:8
+46:15 47:14
+48:1,5
+
+courts 40:13
+court's 22:19
+
+47:24
+
+cover55:10
+create 29:11
+created39:14
+credit 36:13
+curiae 2:3 3:8
+
+19:11
+
+customer16:7
+
+16:22,22 28:24
+28:25
+
+customers 5:13
+
+D
+
+D 2:1 3:6 4:1
+
+19:10
+
+DBA 1:7,15
+deal 58:2,3
+decide 10:10
+
+11:19 17:11,19
+17:20 38:21
+decided39:14
+decides 11:25
+deciding 44:4
+decision 20:4
+40:22 47:24
+50:24 51:9
+
+decisions 51:12
+dedicated22:8
+22:21,21 59:2
+
+defend 48:12
+defended30:14
+
+55:13
+
+defending 31:20
+defer28:3
+deference 5:4
+
+27:12
+
+deferred31:23
+define 30:13
+
+defined20:22
+
+34:11
+
+56:8
+
+defines 14:3
+definition14:24
+20:21 22:7,21
+22:22,25 23:22
+30:20 45:8 59:2
+definitively 11:5
+delegated18:17
+demonstrably
+
+demonstrated
+
+demonstrates
+
+56:4
+
+58:17
+
+10:5
+
+deny 19:25
+Department 2:2
+depth12:3
+describe 32:1
+described9:1
+
+25:11
+
+describing 45:21
+deserves 25:20
+designed5:16
+despite 53:3
+detail 26:17
+determination
+19:20 21:21
+
+determine 13:1
+determined
+
+51:16
+
+detriment 32:17
+Detroit 13:16
+difference 17:8
+
+23:12,22 24:4,5
+28:12 57:15
+different 7:4,5
+10:12 20:13
+25:9 26:5,6
+30:16 34:13
+57:24 58:1
+
+differently 30:7
+directly 31:14
+
+52:1 56:10
+disagree 11:3
+
+disagreed25:17
+
+41:23
+
+54:7
+
+discharged20:7
+discretion27:22
+discussed58:13
+disposed21:18
+dispute 14:6,19
+
+39:6 50:3
+dissent 43:2
+dissenting 25:22
+distance 9:22
+10:10 12:20
+13:1 17:22,24
+18:4,16
+
+distances 9:10
+
+9:20 18:18
+
+distinction26:12
+
+37:22 46:11
+58:13
+
+distinguish25:23
+
+conduit 18:22
+Congress 4:13
+10:17 17:18
+23:18 53:19
+54:22,25 58:23
+59:20
+
+congressional
+
+11:4
+
+connect 7:3,4 8:3
+
+11:20 19:1
+34:23,24 44:6
+connected54:12
+connection6:16
+
+8:4 17:25
+
+connects 6:19
+
+consequently
+
+6:12
+
+consider52:25
+considerations
+
+20:24
+
+considered20:16
+considering
+33:25 53:1
+
+consistent 5:5,9
+
+26:16 43:16
+consistently
+
+26:19
+
+consists 45:22
+consolidated4:5
+constitute 13:2
+constructed
+
+contemplate
+
+14:17
+
+11:1
+
+31:18
+
+contemporane...
+
+contend 44:19
+context 12:24
+
+18:17
+
+continue 28:18
+continued49:25
+contradict 40:25
+contradiction
+
+concrete 28:13
+
+23:5,10
+
+Alderson Reporting Company
+
+distinguishes
+
+distinguishing
+
+12:5
+
+15:24
+
+district 47:14
+doctrine 40:14
+
+48:2
+
+doing 35:16 39:3
+
+40:24 49:11
+54:3 56:3 59:5
+
+door12:7
+doubt 27:18
+dozen54:6
+draw42:16
+drew37:22
+drop46:7
+due 53:22
+duplicate 5:14
+duties 32:4 33:25
+duty 11:9 29:17
+29:19 31:1,3
+32:1,2,5,8,20
+35:20,21 43:4,9
+43:12,14,19,20
+43:25 44:5 46:1
+46:4 49:25
+50:13
+
+dynamic 27:14
+D.C 1:17 2:2,5
+
+21:22 22:11,19
+
+E
+E 3:1 4:1,1
+economic 20:24
+
+21:12
+
+economically
+20:14,14,15
+21:3
+
+effect 7:16
+effective 23:19
+efficient 21:3
+effort 51:4
+Eighth6:21
+
+30:24 31:14,17
+31:22 38:18
+
+39:21 45:10
+50:23 51:9
+57:14,17
+
+either5:13 43:15
+
+58:15
+
+element 22:23
+40:8 50:15,17
+50:19 51:14
+elements 22:8
+23:15 26:21
+27:1,4 32:12
+33:1 49:8,24
+55:8 59:1
+
+eliminated39:21
+elimination
+
+49:23
+
+embodied5:9
+enacted58:23
+encompasses
+
+encourage 8:11
+
+endorse 55:5
+endorsing 36:17
+
+Engineers 42:11
+
+4:17
+
+27:17
+
+37:14
+
+59:8
+
+English24:4
+entire 29:25
+entirely 7:13
+
+30:9
+
+entitled5:3
+entrance 4:18
+
+5:14,25 6:9,22
+8:23 9:10,15
+10:20 13:15,19
+14:6,8,17 15:11
+18:21 20:19
+21:23 22:23
+23:2,22 24:6,10
+24:17,23 25:2
+26:20 33:21
+34:7,9,17 36:15
+36:20,21 37:14
+41:21 47:3
+
+Official
+
+64
+
+48:20 49:23
+57:3,12,19
+58:21 59:8,13
+59:17,19
+
+entrants 8:12
+equally 43:14,16
+
+equate 13:22
+
+44:7
+
+14:1
+
+equipment 7:25
+8:2 43:21 44:1
+44:5
+
+ERIC 2:1 3:6
+
+19:10
+
+especially 8:9
+ESQ 1:24 2:1,5
+
+3:3,6,10,13
+established
+34:21 51:20
+
+estimation24:19
+et 1:11 41:21
+everybody's
+
+29:23
+
+evidence 36:2
+exact 35:5,21
+exactly 13:6
+
+14:10 27:8 47:9
+51:1 52:14
+example 5:12
+12:6 13:15
+
+examples 56:17
+
+57:11
+
+exchange 14:5,9
+14:25 16:13,18
+16:21 42:24
+exclude 30:13
+
+59:1
+
+45:12
+
+excluded45:9,12
+
+exclusion 30:14
+excuse 9:13,13
+22:18 38:10
+39:18
+
+exemplary 56:19
+exercise 27:16
+
+exist 35:10 38:15
+
+41:17
+
+existing 4:18
+
+8:18,23 13:14
+13:17 17:5
+59:10
+
+exists 59:9
+expense 7:15
+expert 5:2
+expertise 27:23
+explain 25:14
+31:15 32:22
+46:20
+
+explained20:25
+
+24:11 30:24
+45:10 53:18
+
+explaining 26:17
+explicitly 58:23
+expressed25:22
+extant 8:14 9:15
+extend 7:25
+extending 5:24
+extension 6:8,10
+
+6:11,19
+
+extent 19:2 32:5
+
+36:22
+
+extra 17:13
+
+F
+
+faced52:11
+facilitate 38:24
+facilities 4:18
+
+7:21 8:3,11,13
+8:14,18,18,23
+9:10,15 10:7,14
+10:20 12:22
+13:14,17 14:17
+15:12,13 19:3
+21:23 22:10,23
+23:3 26:20 31:2
+32:3,6 33:21
+34:6,7,8,9,23
+35:1 36:14,14
+36:15,19,20,21
+37:5,9,13,13
+
+37:14,20 38:14
+43:21 44:1 46:1
+46:9,13 47:3
+49:24 50:21
+54:5,9,9 57:3
+57:12 58:22
+59:10
+
+facility 5:14,25
+6:9,12,22,23
+13:15,19 14:6,8
+17:5 18:21 20:9
+20:19,19 23:22
+23:23 24:6,10
+24:13,17,23
+25:2,12 26:9
+34:17 41:21
+45:15 48:20,24
+49:1,14 50:14
+54:10 57:20
+59:8,13,17,19
+fact 29:13 37:10
+40:4 51:3 52:3
+53:3 58:16
+
+fair51:11
+fall 45:2,5
+false 54:21 56:5
+far18:5,6
+FCC 5:1 6:17 9:7
+
+9:9 10:2,14
+11:24 13:7,8
+14:10,16 15:22
+18:17 19:15
+25:16 30:23
+38:17,18,21
+39:14 51:16
+54:25 56:3,12
+57:25 58:13
+59:5
+
+FCC's 5:5,8 9:11
+
+56:7
+
+feasibility 20:22
+feasible 7:6,12
+
+7:15,19,22
+10:22 20:6,13
+21:12,14 22:1
+
+Alderson Reporting Company
+
+Official
+
+65
+
+Federal 33:20
+
+56:15
+
+49:21
+
+fee 28:15,16
+feet 12:8
+fiberoptic 18:22
+
+29:20 32:6
+42:25
+
+fiction49:10
+fight 57:13
+figure 42:11,19
+
+42:20
+
+file 25:15,16
+filed25:24 26:1,5
+files 25:18
+find 12:4 22:3
+first5:1 8:17 9:4
+
+10:5 19:19
+37:17 40:11
+52:12
+fit 57:12
+flat 28:15,16
+flaw6:4
+flip 12:14
+focus 19:16
+follow40:20
+footnote 6:4 9:8
+
+32:4 36:10
+50:11
+
+footnotes 50:3
+forced5:12
+
+11:20
+
+forecloses 43:18
+forget 18:7
+form 36:6 54:19
+forth30:4 48:11
+found 33:8 51:15
+fourth10:17
+free 7:13
+freight 49:7
+front 15:9
+fulfill 44:5
+full 17:15 49:6
+fully 58:20
+function7:21
+
+fundamental
+10:16 15:6
+23:19 59:22
+
+further19:5
+
+55:19
+
+G
+
+G 4:1
+gainsaid 44:20
+gap 43:1
+garage 5:24
+gather40:12
+General 1:24 2:2
+genus 24:16
+getting 49:1,2,5
+
+57:6
+
+Ginsburg 7:11
+
+7:17 20:12
+21:11 25:13
+47:25
+
+give 7:12 26:4
+56:17,23 57:2
+
+given27:13
+gives 7:8
+glad52:16,19,19
+glom8:14
+go 17:1 29:24,25
+
+36:11 38:21
+51:21
+God8:4
+goers 6:13
+goes 5:19 15:20
+
+28:23 56:10
+57:5
+
+going 10:18,19
+11:2,18 16:12
+18:22 29:11
+30:11,25 32:7
+35:22 37:9 40:9
+46:7 48:3 49:9
+53:25 57:7
+
+good 12:18 18:11
+
+42:12 51:24
+
+gotten17:2 35:9
+
+37:20
+
+govern 58:23
+government
+
+29:17,18 30:12
+32:18 36:9
+37:19 40:3
+50:11 55:5
+
+government's
+25:14 29:25
+31:14
+
+green56:24
+
+ground 37:15
+
+57:10
+
+55:8
+
+grounds 35:23
+guaranteed4:13
+guess 17:18
+28:11 36:6
+48:16
+
+H
+
+H 2:5 3:10 29:5
+half 17:10,10
+halfway 6:4
+
+12:19
+
+hand 48:5,17
+hands 27:18
+happened35:7
+
+51:4,13,18
+happily 54:14
+hard 28:5 30:21
+haul 26:21
+head-on8:20
+hear 4:3 44:25
+heard 37:18 56:2
+heart 5:20
+help 40:7
+high56:20
+highly 27:13
+history 22:7
+hold 47:14
+homeowner5:23
+
+6:6
+
+Honor4:23 8:17
+
+9:4 30:6,23
+33:18 38:8 39:2
+
+39:24 40:18
+41:3,13 43:17
+45:21 57:19
+Honors 56:1
+host 31:2
+hypothetically
+
+40:16
+
+I
+
+ICC 40:13 47:15
+idea 56:2 57:25
+identified49:23
+identifies 41:16
+ILEC 28:24,25
+
+59:2,12
+
+illustrating 42:12
+illustrative 41:16
+imagine 18:2
+
+20:17
+
+immutable 59:21
+impaired23:16
+impairment 4:16
+
+10:19 17:15
+23:14,17 35:4
+52:4
+
+implementing
+
+5:3,6
+
+important 10:16
+
+42:6 46:23
+54:22 59:21
+impose 32:19
+
+imposes 38:5,7
+imposing 37:23
+
+53:2
+
+48:9
+
+imposition54:18
+imprecise 36:15
+imprecision28:1
+incentive 21:3,8
+Incidentally 58:7
+include 14:24
+
+15:3,9,12 20:23
+50:13 56:16,24
+
+included22:23
+
+26:7 31:24
+
+includes 30:20
+incorrect 57:19
+increase 49:9
+incredibly 51:24
+incumbent 4:20
+6:7,15 7:5,24
+10:6 11:10
+12:21,21 14:7
+14:14 16:4,22
+19:22,25 20:5
+22:2 25:5 26:22
+31:10 34:16,23
+41:10 42:24
+46:9 56:12 59:4
+incumbents 8:15
+
+14:17 29:15
+32:21 34:2 36:3
+49:20
+
+incumbent's 16:6
+
+21:24 24:12
+43:24
+
+independent
+8:11 23:11
+28:20
+
+industry 27:14
+
+27:23
+
+inevitable 28:2
+infeasible 20:3
+initial 57:8
+inside 37:7 41:17
+
+42:23 45:5
+intended59:2
+interconnect
+20:9 31:1,3
+36:23 40:10
+41:2,5,9,11,11
+45:15
+
+interconnected
+
+54:5
+
+interconnecting
+4:19 32:13 54:3
+54:8
+
+interconnection
+
+4:11,14 5:13
+6:12,23 7:14
+
+Alderson Reporting Company
+
+10:4,18 11:10
+11:16,22 12:2
+13:3,20 14:4,10
+14:13,24 15:3
+15:12,16,25
+16:3,6,11,13
+17:12 19:3,23
+20:1,2,5,19
+21:4,7 22:1
+23:9,18,23
+24:13,15,21,24
+25:10,12 26:8
+26:23 27:11
+28:12,14 29:16
+29:19 30:13,20
+31:5,20,24 32:7
+32:17,20 33:5
+33:12,25 34:8
+34:16,24 35:2,6
+35:20 36:14
+37:13 38:6,6,8
+38:24 39:12
+42:23 43:1,4,5
+43:10,19,20
+45:4,5,9,10,14
+46:4,6 48:19
+50:5,22 53:19
+53:20,25 54:2
+54:20,22 55:12
+56:9,13,18
+57:23 58:22,24
+59:11,13,14,16
+59:17,19
+
+internal 14:14
+interpret16:11
+
+29:10
+
+interpretation
+29:16 31:23
+48:3 55:9
+
+interpretations
+
+43:18
+
+interpreted
+
+29:19 50:12
+
+interpreting 5:2
+
+32:24
+
+intuition17:7
+intuitive 12:2
+investing 53:8
+invitation25:25
+invited25:16
+invoke 48:2
+involve 9:10
+
+27:15
+
+involved16:14
+involves 14:25
+irrebuttable 7:20
+irregardless 4:16
+ISIOGU 1:11
+issue 10:25
+
+16:24 19:16
+20:12,20 21:9
+26:7 30:17 54:6
+
+J
+
+J 1:24 3:3,13 4:7
+
+55:24
+
+job17:17 42:12
+JOHN 1:24 3:3
+3:13 4:7 55:24
+judge 25:22 39:9
+
+39:10 43:1,2
+judgment 53:20
+judicial 29:12
+34:3 46:19
+jurisdiction
+
+40:15,22 47:13
+48:2
+
+Justice 2:2 4:3,9
+4:21 6:24 7:2,7
+7:11,17,23 8:25
+9:13,15,19,21
+9:25 11:7,13,18
+12:9,12,16 13:4
+13:7,9,18,22
+13:25 14:12,20
+15:2,8,14,16
+15:19 16:15,16
+16:17 17:1,4,7
+17:23 18:6,8,9
+18:13 19:7,9,13
+
+Official
+
+20:11,17 21:11
+21:17 22:3,13
+23:1,21 24:3,7
+24:16,19,25
+25:4,7,13 26:3
+26:11,25 27:3,6
+27:9,17 28:4,8
+28:18 29:2,8,22
+30:15,19 31:16
+33:2,10 34:14
+35:7,24 36:4,8
+37:2 38:1,4,10
+38:16,20 39:3,7
+39:9,16,18,25
+40:7,19 41:1,4
+41:7,14,19 42:1
+42:8,14,18,19
+43:8,12,22 44:2
+44:8,10,13,18
+44:22,24 45:7
+45:12,18,23
+47:6,12,18,19
+47:21,25 48:7
+48:14,16,22
+49:19 50:2,8,10
+50:23 51:1,8,21
+52:2,6,9,16,20
+53:13,17,22
+54:13,17 55:21
+56:10 57:13
+58:1,7,11 59:23
+
+Justices 20:12
+
+K
+
+Kennedy 6:24
+7:2,7 14:20
+15:2,8,14,16
+15:19 28:4,8
+
+Kent 47:25
+key 6:4 13:18
+20:4 52:21
+kids 57:2,6
+kind 11:25 17:9
+17:13,15,17,19
+18:2,3 40:14
+
+kinds 17:25
+knew59:4
+know8:3 11:1,20
+
+17:13,23,25
+18:16,21,23
+23:23 24:4,8,9
+26:12 28:4
+29:22 32:10
+34:2 37:15
+40:11 45:11
+46:22 52:17
+53:3
+
+L
+
+labeled42:24
+language 43:16
+43:18,24 45:25
+
+Lansing 1:24
+
+13:16
+large 9:5
+Laughter27:19
+
+28:7 42:15
+52:18
+
+law49:20 52:22
+lay 5:14 35:22
+LCO 18:17 30:2
+lease 32:2,5 35:1
+
+46:1 50:13
+leasing 32:19
+38:14 46:13
+51:17,19 53:2
+
+leave 17:18
+leaves 48:6
+LEC's 12:21
+legal 29:11
+legislation 8:10
+length10:13 15:5
+letting 43:6
+let's 36:20
+level 28:1
+lifeblood4:11
+limit 11:15 33:13
+limitation33:11
+limited37:24
+56:16 57:23
+
+66
+
+limitless 55:13
+limits 10:15
+lines 24:8
+link 14:21 24:11
+
+25:3 28:9,16
+
+linking 14:5
+
+48:24 49:3,5
+
+links 14:7
+literally 31:3
+litigation37:18
+
+50:18,20 57:14
+little 18:24 34:12
+local 4:11 9:11
+
+12:10 21:2 22:8
+22:20 33:2
+38:19 42:24
+46:5
+
+location4:14
+
+10:21
+
+logic 8:25
+long 5:24 20:5
+42:21 47:16
+
+longer9:22 51:6
+look 10:20 12:9
+
+58:6
+
+looking 15:18
+lot 8:19 11:14
+12:7 19:15
+
+M
+
+Mahal 20:18
+main 53:14
+Maine 11:20
+mainstay 53:20
+majority 43:3
+making 8:7 50:12
+
+56:11
+
+map59:8
+March 1:18
+market4:16
+
+10:19,21
+
+marketplace
+
+33:8 53:8
+
+matching 40:6
+matter1:20
+
+Alderson Reporting Company
+
+50:15 52:2 60:2
+
+mean8:12 18:9
+21:5 24:7 28:5
+34:15 37:13
+41:23 47:5 51:2
+57:14
+
+means 21:3
+
+36:20 43:15
+44:15,20
+
+meant 34:7,9
+
+37:10
+
+mechanism17:9
+meet 10:9 56:17
+meet-point 10:3
+12:22,23 18:16
+method4:15 7:9
+
+10:22 21:8
+methodology
+
+33:3
+
+methods 56:15
+Michigan1:6,7
+1:14,15,25 4:5
+9:8 12:11,12
+37:15 39:13
+42:21 44:16
+51:15 54:7
+55:16
+
+Michigan's
+19:21 22:6
+miles 9:6,6
+Miller2:1 3:6
+19:9,10,13
+20:21 21:16,17
+21:20 22:4,15
+23:4,25 24:6,10
+24:18,20 25:2,5
+25:8,13,21
+26:10,15 27:2,5
+27:8,10,20
+28:11,19 29:3
+34:11
+
+minute 41:19
+minutes 55:22
+
+56:2
+
+misconception
+
+15:6
+
+15:7
+
+misunderstand...
+
+models 53:10
+monthly 28:16
+morning 4:4
+mutual 14:4,5,9
+14:25 16:13,17
+16:21
+
+N
+N 3:1,1 4:1
+narrow31:22
+nearly 54:6
+necessarily 9:24
+
+19:3
+
+necessary 17:12
+
+18:1 38:23
+39:20 40:1,3
+44:6 45:4 53:18
+54:12
+
+need23:1 28:12
+36:3,11,25 37:7
+42:25 53:5
+
+needed12:1 40:9
+
+41:2,5,7
+
+needs 18:23
+
+46:15
+
+network 6:20
+14:7,8,16,18
+14:19 16:4,4
+21:24 22:2,8,11
+22:22 23:15
+24:14 38:9 40:8
+41:15,22,25
+42:5,9,11 43:24
+49:8,24 59:1,8
+
+networks 4:20
+14:5 54:21,23
+never27:1 29:18
+32:20,22 33:9
+35:3 36:9 44:14
+44:20 46:16,17
+46:20 47:1 48:8
+49:7,17 50:12
+
+Official
+
+50:14 51:17,25
+52:24 54:4 55:1
+55:13 56:4
+
+new8:11,12,13
+
+13:15 29:11,14
+34:1 36:13 41:9
+46:25 51:13
+56:3 58:4,14,16
+59:6
+
+Ninth6:22 16:7
+normally 11:24
+Northwest47:25
+note 16:8 30:7
+noted48:7 49:19
+notice 33:19,24
+
+47:1,2
+
+notion42:4 49:9
+
+49:14 54:19
+
+now-gone 37:21
+nutrition57:2
+
+O
+O 3:1 4:1
+obligated33:12
+
+33:15
+
+obligates 31:9
+obligation4:17
+
+9:5 10:3,7
+16:12 19:4 20:7
+21:25 29:14
+32:19 37:23
+38:5,8,14 39:15
+39:22 47:1 50:4
+50:10,13 51:17
+51:19 56:9 57:1
+57:8 58:20
+59:20
+
+obligations 23:11
+
+31:8 56:19
+58:24
+
+occasion 33:22
+
+52:25
+
+occur 53:25
+occurring 32:17
+occurs 31:5
+
+67
+
+P
+
+P 4:1
+Pacific 11:19
+
+16:9
+
+page 3:2 5:18 6:3
+9:8 12:11,14,15
+15:23 19:20
+22:5,14 42:11
+42:20 56:6,12
+58:19 59:9
+pages 22:16
+
+58:14
+
+paragraph 9:12
+
+12:10,15,19
+18:17 21:1 22:4
+22:6,17 30:10
+33:4,24 34:6
+36:23 39:14
+46:5 59:5
+
+Pardon42:10
+park 5:25 6:2,12
+
+6:20
+
+part 14:13,15,18
+14:19 17:11,12
+17:13 19:3
+21:10,24 22:11
+24:14 26:8,8,12
+38:22,23,23,24
+39:3 46:4 52:4
+particular20:1
+53:24 56:13
+
+particularly
+
+23:12 25:24
+parties 12:24
+
+33:8 35:17 53:7
+53:12
+
+parts 18:15
+passive 10:7
+pay 8:7 11:21
+
+17:15 21:4,5,7
+21:14 35:1
+paying 21:6
+
+32:15 48:18
+49:6
+
+offering 35:18
+office 24:12,13
+
+42:24
+
+offices 25:3
+oh 26:12 28:18
+
+41:10
+
+Ohio 32:15
+okay 9:19 11:10
+
+11:13 12:17
+13:4 25:4 31:7
+39:9 54:17 57:6
+
+old 37:20
+open48:6
+opening 55:6
+opinion5:11,18
+
+25:22
+
+opportunity 7:9
+32:21 46:19,21
+
+opposed25:19
+opposite 44:3
+opposition14:21
+oral 1:20 3:2,5,9
+4:7 19:10 29:5
+orange 5:21,24
+6:8,10,11 7:24
+8:7 9:2 28:5
+42:14
+
+order9:12 12:10
+21:2,22,23 22:5
+22:9,10,21,21
+33:2,24 36:24
+36:24 38:19
+41:24 46:5,24
+46:25 49:18,19
+52:23,23
+
+ordered55:7
+orders 19:18
+
+26:17 29:10,13
+29:18 40:5,6
+47:10
+
+ORJIAKOR
+
+1:11
+
+outside 41:25
+
+42:5 45:3
+
+overlap31:25
+
+Alderson Reporting Company
+
+Official
+
+68
+
+pays 28:25
+peas 57:3,6,9,11
+perceived23:5
+performing 7:21
+person 6:1
+petition5:19 6:3
+Petitioner1:4
+Petitioners 1:12
+1:25 2:4 3:4,8
+3:14 4:8 19:12
+55:6,25
+
+phone 4:12
+phrase 15:21
+physical 11:11
+
+48:23
+
+physically 14:7
+pick 41:14 43:6
+
+picked41:18
+
+picking 43:13
+
+46:7
+
+42:22
+
+54:2
+
+place 7:21 19:2
+19:23 21:14
+30:22 34:20
+35:1 46:7 59:13
+59:18
+plain 5:6
+please 4:10
+19:14 29:8
+
+plug 5:23 6:7,10
+
+6:13 54:10
+
+plugs 5:21
+plus 48:18
+point 6:16 7:4,9
+
+10:9,16,17 15:4
+16:6,8 19:22
+20:1,2,6 22:1
+30:16 31:1,2,3
+31:6,11,12 32:7
+35:3,6 36:7
+37:3 38:9,9,11
+38:11,13 41:15
+41:15,18 42:22
+42:23 43:1,6,7
+
+43:13,15,23
+45:8,13 46:3,10
+47:20,24 50:20
+50:22 52:22
+54:11 55:2,10
+55:12 56:13
+58:5 59:7,11,16
+points 9:4 34:24
+41:16 54:2,23
+56:10,17
+policies 5:9
+policy 32:24
+
+35:23 53:5,14
+53:23 54:22
+policy-making
+
+27:22
+
+position5:20 9:6
+
+12:25 16:21
+25:15 26:6
+36:13 44:21
+55:5,9
+
+possible 8:13
+posture 8:21,24
+practical 5:10
+preceding 22:6
+precisely 5:15
+26:24 27:12
+38:11
+
+prefer46:9
+premise 20:4
+
+57:18
+
+premised56:2
+premises 12:21
+presented4:25
+
+10:11 19:19
+preserve 51:5
+presumably 9:22
+presumption
+7:20 10:25
+
+pretend 36:20
+prevail 51:24
+prevent 5:16
+previous 21:23
+
+22:16
+
+price 17:15 49:9
+
+26:16
+
+Alderson Reporting Company
+
+54:20
+
+priced54:4
+pricing 32:25
+
+51:5,7 53:7,10
+primarily 38:25
+primary 40:14,22
+
+47:13 48:2
+
+providing 14:9
+38:25 59:14
+proving 20:2
+provision23:16
+
+46:14
+
+provisions 49:1
+
+49:12 58:23
+
+prior32:23 34:19
+
+publication33:25
+
+34:25 40:25
+44:20 50:11
+probably 28:1
+
+51:10
+
+problem6:14
+
+17:15 18:3 41:4
+48:16
+
+procedural 8:21
+proceeding
+
+proceedings
+
+47:15
+
+58:18
+
+process 29:12
+profit 11:3 48:19
+promulgate
+
+51:25
+
+promulgated
+10:3 30:12
+31:19 46:16
+56:4,7
+
+proper44:20
+
+49:17
+
+proposed47:2
+protector6:8
+prove 58:5
+provide 11:9,10
+
+21:13 23:2,7
+31:1 33:12
+37:16,17 38:6,8
+43:10,13,15,19
+43:20,25 44:4,5
+45:14 49:25
+50:5 54:23 55:1
+56:13,22 58:24
+
+provided34:16
+provides 20:5
+
+34:1
+
+publish49:22
+published19:17
+
+33:19 49:21
+
+pulled55:4
+purpose 8:10
+
+25:11
+
+purposes 25:9,9
+
+26:21 27:11
+48:4 58:22
+put 7:14 11:5
+
+28:12 46:22,23
+
+putting 52:11
+p.m60:1
+
+Q
+
+question4:16,25
+6:25 11:6 17:2
+18:7,12 19:18
+20:12 21:10
+26:2 33:23
+34:10 47:5 50:9
+50:14 51:22,23
+52:25 57:24
+
+questioning 55:3
+questions 19:5
+
+55:19
+
+quite 48:21 50:16
+
+R
+
+R 4:1
+radically 34:13
+raised49:14
+rates 4:15,22,24
+
+7:10 8:8 10:1
+10:23,25 11:4,6
+21:6 28:14
+
+29:21 32:16
+34:18 35:2,12
+35:14 36:22
+46:10 48:19,19
+48:24,25 49:6
+52:3 53:8 57:22
+read 11:7,8 12:3
+12:4 14:1 16:16
+30:7 37:12 40:3
+53:2,6
+
+reading 33:10
+
+37:4 38:17
+55:13
+
+real 48:12
+realistic 8:8
+really 14:18 15:6
+15:24 18:12,20
+25:23 30:25
+38:24 39:5
+44:14 52:21
+54:14 55:3
+
+rear-guard 51:4
+reason 25:23
+
+26:4 53:5
+reasonable
+
+10:10,15 11:3
+13:2 18:18 21:8
+35:14 58:25
+
+reasonableness
+
+11:6
+
+44:6
+
+reasonably 44:4
+
+reasoning 6:5
+reasons 5:1
+
+46:17
+
+REBUTTAL
+3:12 55:24
+
+recall 5:22
+recognize 27:21
+
+42:6
+
+recognized23:18
+33:4 34:21 48:5
+
+recognizing
+
+58:20
+
+record 36:2
+
+recover11:2
+red15:23 56:6
+reference 22:24
+referral 40:23
+referring 9:16
+22:14 23:25
+37:6
+
+reg 15:2 58:21
+regard 10:19
+34:14 47:11
+
+Regarding 12:20
+Register33:20
+
+49:21
+
+regulated27:24
+regulating 27:14
+regulation9:11
+14:3 15:7,22
+19:17,24 30:5
+34:1 56:4,7
+
+regulations 5:7
+6:17 7:18 8:20
+11:1 14:1 20:23
+21:1,18 27:15
+27:25 30:2,9,11
+31:20,21 36:8
+36:10 41:20
+43:5
+
+regulator11:25
+
+38:22
+
+reinstate 22:20
+reject 55:18
+rely 13:25 30:8
+
+36:8
+
+relying 30:3,4
+remainder19:6
+remaining 55:23
+remand 21:22,22
+
+22:5,19,19
+36:24 46:25
+49:18 52:23
+
+request 19:25
+
+56:14
+
+requesting 13:14
+require 9:1 29:20
+
+32:25 35:5
+36:22 37:1,6,9
+37:11,25 53:6
+
+required10:6
+12:22 13:2
+35:20 49:15
+58:22
+
+requires 11:11
+
+53:19
+
+requiring 11:4
+reserve 19:6
+resolve 19:18
+respect 5:21
+
+18:16,19 50:21
+53:22 59:7
+
+3:11 29:6
+
+response 21:22
+
+22:17,18
+
+responses 8:16
+restriction57:7,8
+
+58:8
+
+result 5:10 29:12
+review21:21
+
+22:5,10 29:12
+29:13 34:3
+36:24 41:24
+46:19,24,24
+49:18,18 52:23
+52:23
+
+rid 35:9 47:3
+
+ridiculous 12:6
+
+50:24
+
+51:14
+
+20:14
+
+repeatedly 14:16
+replicate 37:8
+reply 15:5
+representative
+
+57:11
+
+right 8:9 9:3,21
+10:2 13:9,20
+15:17 16:10,15
+21:16 23:3 27:5
+27:10 37:4
+
+Official
+
+69
+
+38:15,16 39:24
+40:2,16 41:14
+42:23 43:11
+44:17 45:23
+47:9 48:21
+50:18 51:18
+52:5,8,14,16
+54:15 57:17
+59:8
+
+risers 18:24
+ROBERTS 4:3
+
+16:15,17 19:7,9
+21:17 24:25
+25:4,7 28:18
+29:2 55:21
+59:23
+
+route 32:1
+routing 31:24
+
+32:3 46:2
+
+34:20,22,25
+35:8,24 36:16
+37:14 41:15
+42:3,3 46:16
+48:11 50:25
+51:25
+
+rulemaking
+
+35:22 47:2 48:6
+48:13 49:16
+
+rules 30:12 35:11
+
+37:21 49:22
+51:12,13
+
+run 18:23 19:1
+
+25:1
+
+S
+S 3:1 4:1
+satisfaction
+
+53:18
+
+saying 21:18
+22:24 23:6
+27:20 29:23
+32:9 33:16
+36:15
+
+says 5:1 6:5 7:13
+
+11:8 12:20
+13:10 14:21
+15:3,9 19:24
+22:17,18 31:22
+33:11,15 38:4
+43:9,9,25 54:11
+56:12 57:1,6
+58:19
+
+Scalia 4:21 7:23
+8:25 9:13,15,19
+9:21,25 13:18
+13:22,25 14:12
+20:13 22:13
+23:1 24:16,19
+26:3,11,25 27:3
+27:6,9,17 31:16
+35:7,24 36:4
+37:2 38:10,16
+39:18,25 41:1,4
+41:7,14 42:14
+42:18 44:18,23
+47:6 48:7 49:19
+50:23 51:1,8
+54:13,17 57:13
+58:1,7,11
+
+school 56:21,21
+
+57:1,5
+
+57:10
+
+29:5
+
+SCOTT 2:5 3:10
+
+second 5:5 12:15
+
+21:10,19,20
+36:7 57:7
+section 4:12
+20:23 22:13
+31:9,15,24 32:9
+32:11 35:4 46:8
+50:1
+
+sections 31:25
+see 17:4 24:8
+44:24 57:2
+
+seek 34:3 46:19
+seeks 26:22
+
+select 19:22
+selected20:6
+31:4 54:24
+
+sell 29:20 35:12
+
+35:14
+
+selling 53:8,12
+send 31:11
+sense 12:7 16:9
+sensible 44:7
+sent 31:10
+sentence 33:23
+sentences 29:10
+
+46:23
+
+separate 14:2
+16:2 23:11
+48:25 51:22
+56:25
+
+separately 28:21
+series 41:16
+service 23:16
+services 33:5,12
+34:17 39:1 50:5
+
+set 48:11
+setting 28:15
+Seventh 6:21
+shape 36:5 54:19
+short 9:10,20
+showed32:16
+
+side 52:10
+sides 40:1
+significant 23:12
+similar18:25
+simple 17:10
+simply 8:14
+
+38:25 54:21
+single 33:23
+sit 25:14 55:19
+situation5:23
+24:22 40:14
+52:11
+
+Sixth5:10,17,20
+
+5:22 6:5,5,14
+6:20 25:16,17
+30:8 31:16
+
+scope 37:18 56:8
+
+36:2
+
+Respondents 2:6
+
+rule 29:11 33:19
+
+revision 22:9
+
+runs 16:3,5
+
+Alderson Reporting Company
+
+Official
+
+70
+
+34:10 44:17
+51:18 54:7
+55:17 58:13
+59:10,18
+
+slightly 58:1
+small 6:24 59:7
+Solicitor1:24 2:1
+somebody 11:18
+
+sorry 6:6 14:4
+
+43:14
+
+24:25
+
+sort 26:24 27:12
+Sotomayor20:11
+29:22 30:15,19
+33:3,10 34:14
+36:9 38:1,4
+41:19 42:1,8,19
+48:14,16,22
+50:2,8,10 53:13
+53:17,23 56:10
+
+South58:18,19
+spacers 18:24
+speaking 13:7,8
+species 24:17
+specific 31:3
+specifically 5:18
+16:8 19:24 47:8
+49:23 51:16
+
+Sprint 5:12
+square 40:23
+squares 32:22
+standard 50:18
+start 5:17
+State 10:9 12:24
+
+13:5,9,10,11
+13:12 32:15
+38:22
+
+statement 9:9
+35:4 51:11
+statements
+
+19:15,17 32:23
+36:12,16 37:5
+40:5,6,25 48:11
+50:12
+
+3:7 19:11 54:6
+statute 5:6 6:16
+
+7:8,17 8:20
+11:8,8 12:3
+27:14 31:8
+32:23,25 33:11
+33:11 38:17
+39:11 40:24
+43:8,9 48:4
+53:6 55:10
+
+statutes 23:13
+
+23:13
+
+statute's 53:4
+statutory 21:25
+23:11 29:16,19
+43:24 48:25
+stopping 55:10
+strange 37:8
+
+51:2
+
+street 11:23
+structure 32:22
+
+40:24
+
+student 57:9
+students 56:22
+stuff 11:11 24:8
+sub 56:16
+submitted59:24
+
+60:2
+
+subsidiary 58:19
+substantive
+
+49:22
+
+sudden35:19
+suffice 48:4
+suggestion 25:18
+supporting 2:4
+
+3:8 19:12
+Suppose 7:2
+supposed49:22
+supposedly
+
+29:14 37:23
+42:3 46:25
+
+Supreme 1:1,21
+sure 28:8 31:4
+34:25 47:15
+
+States 1:1,21 2:3
+
+surge 6:8
+
+Sutton25:22
+
+43:2
+
+switch59:12,16
+switches 8:5
+
+switching 7:25
+
+34:24
+
+8:2
+
+system11:8
+
+14:14
+
+T
+
+T 3:1,1
+Taj20:18
+take 10:24 16:21
+
+18:15 56:20
+
+taken19:18 26:6
+
+26:18,19
+takes 19:23
+59:13,18
+
+talk 1:3 4:4 5:19
+8:19 37:19 43:5
+48:22
+
+talking 9:5 10:8
+
+10:13 13:13
+15:14 16:18,24
+17:21 24:22
+42:13 52:17
+59:9
+
+talks 16:22 43:4
+tariff 35:13,13
+
+technical 20:22
+
+35:15
+
+27:23
+
+technically 7:6
+7:19,22 10:22
+20:3,6,13 21:12
+21:14 22:1
+56:15
+
+Tel 11:19,19
+telecommunic...
+
+4:13 56:14
+
+telephone 1:6,14
+23:19 31:10,11
+32:2 46:3 54:21
+55:12
+
+tell 17:19 24:4
+34:15 48:17
+telling 50:16
+
+57:15
+
+tells 16:9 31:5
+TELRIC 4:15,22
+
+4:24 7:10 8:8
+9:25 10:23,25
+11:6 21:6 28:14
+29:21 32:15,25
+33:3 34:17 35:2
+35:12 46:9
+48:24,25 49:6
+51:5,7,7 52:3
+53:7,10 54:4
+57:22
+
+TELRIC's 48:19
+tens 4:18 5:14
+term 15:9,20
+20:22 34:11
+
+terminating
+
+28:25
+
+termination
+
+15:21 16:1,5
+28:23
+
+terms 13:23 14:2
+
+20:21 24:1
+28:13
+
+test 23:14,17
+text 5:6 32:22
+
+40:24
+
+Thank 4:9 19:7,8
+
+28:19 29:2,7
+55:21 59:23,25
+they'd 40:15 53:5
+thing 11:25 17:20
+
+31:13 35:5,21
+36:25 37:23
+38:22
+
+49:12,21 51:5
+52:1 53:7 54:12
+55:7,8 57:20
+
+think 17:4 18:11
+
+18:13 20:12
+23:5 26:11,15
+26:23 27:11
+28:2 29:25
+30:21 34:3 36:8
+37:3,4 38:16,17
+38:18 40:1 42:6
+42:10,12 43:18
+45:21 46:15,23
+47:13,23 50:16
+51:2,10,21,23
+51:23 52:21
+53:1,17,23 55:3
+55:4
+
+third 5:8 31:13
+
+33:7 35:17 53:7
+53:11
+
+third-party 53:9
+
+54:9
+
+thought 27:1
+
+38:11,11 39:18
+39:20 44:16
+47:6 50:19 51:3
+
+thousands 4:18
+
+three 5:1 8:16
+
+5:14
+
+30:25
+
+throw27:18
+ties 18:24
+time 19:6 28:21
+
+30:12 31:19
+35:3 36:21
+37:17 41:24
+47:16 52:12
+57:5
+
+things 10:5 17:24
+
+today 4:19 32:13
+
+17:25 24:22
+30:25 32:11,12
+33:1,6,13,14
+35:11 36:3 37:6
+37:7,24 42:5
+
+54:3,8
+
+told 34:2,5,7
+38:18 46:25
+
+tough40:12
+traced22:7
+
+Alderson Reporting Company
+
+traffic 14:6,9,25
+15:22 16:1,5,13
+16:18 32:2 46:7
+
+transmission
+
+31:25 32:4 46:2
+
+transmit 32:1
+transport 14:22
+14:23,24 15:3
+15:10,12,21
+16:1,5,12 22:8
+22:22 28:9,13
+28:22 30:13,20
+34:23 45:9,13
+45:13,15 48:24
+49:1,7,14 50:13
+54:4 59:2,14
+transporting
+
+39:1
+
+travel 30:22
+tried11:20 27:24
+Triennial 21:21
+22:5,9 29:13
+36:23 41:24
+46:24,24 49:18
+49:18 52:22,23
+
+tries 40:4
+TRO 29:24
+
+41:20 58:12
+
+TROs 30:3
+TRRO 9:7,9
+14:16 24:11
+26:19 29:24
+58:5,12,17 59:5
+
+true 45:3 59:10
+truly 59:14
+trying 8:21 29:9
+
+32:18 46:12
+48:12
+
+turn 46:13 56:6
+twisty 18:24
+two 7:2 9:3 10:5
+13:23,23 14:5
+15:24 16:2 17:9
+18:15 19:16
+21:18 22:16
+
+23:13 25:3
+26:16 30:2,16
+32:2 48:25
+49:11,12 54:12
+56:17
+
+types 15:24
+typically 18:21
+
+U
+
+unambiguously
+
+36:2
+
+unbundled23:2,7
+26:21 27:1,4,9
+34:23 49:8,24
+50:15,17,19
+55:8 57:3 59:3
+unbundling 34:20
+
+34:22,25 35:8
+35:11,21,24
+37:21 39:22
+51:12
+
+undercut 53:9
+undercuts 20:3
+underlying 20:11
+understand
+
+understood43:2
+
+33:17
+
+43:3
+
+undue 7:15
+unfair11:1
+United1:1,21 2:3
+
+3:7 19:11
+
+unnecessary
+
+unreasonable
+
+50:24
+
+11:22
+
+usage 28:20
+use 14:2 24:23
+
+26:23 29:9 32:7
+34:22 35:2
+40:13 45:4 46:9
+50:21 55:2,11
+57:20
+
+uses 39:11
+USTA 22:20
+
+Official
+
+U.S 47:25
+
+V
+
+v 1:5,13 4:4
+
+47:25
+
+vacated22:12
+vacating 51:12
+vegetable 56:23
+vegetables 56:22
+Verizon11:5
+versa 16:23 29:1
+vice 16:23 29:1
+view16:10 25:21
+26:18,19 31:19
+50:8 51:4 59:19
+
+W
+
+wait 26:25 41:19
+wall 19:1
+want 7:23 17:19
+20:9 24:3 34:11
+36:11 37:12
+41:9 55:2,4,11
+
+wanted8:12
+55:14 57:16
+
+wants 7:3,4
+
+19:25 37:15
+
+Washington1:17
+
+2:2,5
+
+wasn't 28:8
+
+49:20
+
+way 7:5 10:4
+16:10 24:1
+27:20 32:20
+36:5,15 38:21
+39:7 44:14
+45:22 49:17
+50:20 54:19
+56:8 58:21
+ways 28:23
+Wednesday 1:18
+weight 25:20
+
+went 47:15 49:13
+
+26:4
+
+58:20
+
+weren't 47:11
+we'll 4:3 8:2,2
+
+35:14
+
+we're 9:5 10:19
+
+13:13 16:24
+24:22 34:5,7
+42:13 48:2 50:4
+52:10,19,25
+57:6 59:9
+we've 35:13
+
+37:17 40:16
+46:20
+
+whatsoever17:8
+whistles 17:11
+
+17:14,22 18:19
+
+willing 37:19
+wipe 57:7
+wire 11:21 12:8
+
+17:10
+
+wireless 32:14
+35:16 49:5,10
+54:1,4
+
+wires 42:14 45:1
+
+45:2
+
+wisdom11:4
+wishes 24:23
+word 36:25 39:12
+
+49:25
+
+words 7:13
+work 38:25 48:7
+
+54:11
+
+works 12:5
+world 31:4
+wrong 6:15 8:9
+
+34:4 39:17
+44:16 55:16
+58:5
+
+X
+
+x 1:2,8,10,16
+33:15 48:5
+
+Y
+
+years 29:11 34:5
+
+34:7,15 40:4
+
+71
+
+50:17
+
+Z
+zip 18:25
+
+1
+10 50:17
+10a 22:5,14,16
+10-313 1:4 4:4
+10-329 1:12
+11:07 1:22 4:2
+12:05 60:1
+137 22:4,17
+140 30:10 36:23
+
+39:14 59:5
+
+16 16:8
+16a 9:8
+172 46:5
+19 3:8 42:12,20
+
+59:9
+
+1996 21:1 31:18
+
+34:22 56:8
+58:21
+
+2
+
+2 4:22,24 10:18
+23:9,17 27:7
+30:25 31:15,24
+31:25 34:7 38:4
+38:12 41:8
+46:13 47:5,7,11
+49:3,6,15 51:17
+53:2,19 56:8
+57:21,23 59:20
+
+20a 5:18 6:3
+2003 33:20,23
+34:19 36:12
+40:5
+
+2005 32:15 33:9
+34:19,25 36:12
+40:5 48:18,22
+
+2011 1:18
+209 21:2
+251(b)(5) 16:1
+
+31:9
+
+Alderson Reporting Company
+
+251(c)(2) 4:12,17
+
+15:25 16:25
+19:4 35:5 58:25
+
+251(c)(3) 32:9
+
+59:3
+
+252(d)(1) 28:15
+252(d)(2) 28:22
+27a 12:11
+28a 12:14,16
+29 3:11
+
+3
+
+3 4:24 23:2,7,13
+27:4 32:5 37:2
+38:2,12,15
+39:20,22 40:8
+41:8 46:3,8
+47:4 49:2 52:3
+57:1,4,15,20
+57:21
+
+30 1:18 56:2
+32a 56:6,12
+321 57:8,10
+
+58:21
+
+35a 15:23
+355 48:1
+397 9:8
+
+4 3:4 42:11,19,20
+
+55:22
+
+47 19:20 56:9
+
+4
+
+5
+
+5 32:4
+5a 19:21
+50 12:8
+51.305 30:3
+
+41:16
+
+51.305(e) 19:20
+51.321 30:3 56:9
+51.5 14:3 15:7,17
+
+16:11 20:23
+51.701 15:23
+510 47:25
+
+Official
+
+72
+
+521 10:3
+55 3:14
+553 9:12 12:10
+
+18:18
+59 58:19
+
+6
+
+6 36:10 50:11
+
+58:14
+
+7
+
+7 58:14
+702 33:4
+
+8
+
+9
+
+8 34:5
+
+9 6:4
+
+Alderson Reporting Company
+
+
