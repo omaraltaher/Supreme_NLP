@@ -1,0 +1,26951 @@
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+ 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+ 
+
+Official 
+
+1 
+
+       
+
+IN  THE  SUPREME  COURT  OF  THE  UNITED  STATES
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x
+ 
+
+                                 
+
+ALFRED  GOBEILLE,  IN  HIS 
+
+ 
+
+ 
+
+ 
+
+           
+
+OFFICIAL  CAPACITY  AS  CHAIR 
+
+ 
+
+ 
+
+ 
+
+        
+
+OF  THE  VERMONT  GREEN  MOUNTAIN 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+CARE  BOARD, 
+
+ 
+
+                       
+
+:
+ 
+
+:
+ 
+
+:
+ 
+
+:
+ 
+
+            
+
+Petitioner 
+
+               
+
+:  No.  14­181
+ 
+
+ 
+
+       
+
+v. 
+
+                         
+
+:
+ 
+
+LIBERTY  MUTUAL  INSURANCE 
+
+ 
+
+ 
+
+          
+
+:
+ 
+
+COMPANY. 
+
+                          
+
+:
+ 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x
+ 
+
+                                 
+
+                       
+
+Washington,  D.C.
+ 
+
+ 
+
+                       
+
+Wednesday,  December  2,  2015
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+The  above­entitled  matter  came  on  for  oral
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argument  before  the  Supreme  Court  of  the  United  States
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+at  10:03  a.m.
+ 
+
+ 
+
+ 
+
+APPEARANCES:
+ 
+
+BRIDGET  C.  ASAY,  ESQ.,  Vermont  Solicitor  General,
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Montpelier,  Vt.;  on  behalf  of  Petitioner.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JOHN  F.  BASH,  ESQ.,  Assistant  to  the  Solicitor  General,
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Department  of  Justice,  Washington,  D.C.;  for  United
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+States,  as  amicus  curiae,  supporting  Petitioner.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SETH  P.  WAXMAN,  ESQ.,  Washington,  D.C.;  on  behalf  of
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Respondent. 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+                                   
+
+C O N T E N T S 
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+                                  
+
+2 
+
+PAGE 
+
+BRIDGET  C.  ASAY,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  the  Petitioner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+JOHN  F.  BASH,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+   
+
+For  United  States,  as  amicus  curiae, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+supporting  the  Petitioner 
+
+ 
+
+ 
+
+                        
+
+3 
+
+18 
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+SETH  P.  WAXMAN,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  the  Respondent 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+29 
+
+REBUTTAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+BRIDGET  C.  ASAY,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  the  Petitioner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+50 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+3 
+
+                                      
+
+P  R  O  C  E  E  D  I  N  G  S 
+
+                                           
+
+(10:03  a.m.) 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  We'll  hear  argument 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  morning  in  Case  14­181,  Gobeille  v.  Liberty  Mutual 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Insurance  Company. 
+
+ 
+
+            
+
+Ms.  Asay. 
+
+ 
+
+            
+
+ORAL  ARGUMENT  OF  BRIDGET  C.  ASAY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ON  BEHALF  OF  THE  PETITIONER 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  Mr.  Chief  Justice,  and  may  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please  the  Court: 
+
+ 
+
+ 
+
+            
+
+Under  ­­ under  the  principles  this  Court 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+adopted  in  Travelers,  Vermont's  collection  of  health 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+care  data  is  not  preempted.  The  database  statute  does 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  affect  ERISA  plans  in  any  way  that  undermines 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA's  core  objectives,  does  not  require  plans  to  offer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+benefits,  affect  the  financing  or  fiduciary  standards 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  plans,  or  change  the  way  the  plans  administer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+benefits  to  their  members. 
+
+ 
+
+ 
+
+ 
+
+            
+
+Vermont  is  merely  collecting  standardized 
+
+ 
+
+ 
+
+ 
+
+ 
+
+data  that  Blue  Cross  necessarily  generates  and  already 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+provides  to  the  State  for  itself  and  other  entities. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  And  it  hasn't  been  argued 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+by  Liberty,  and  we  can  ask  them  about  that,  that  this  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burdensome,  that  it  might  be  different  from  State  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State  and  so  forth,  and  it  may  be  that  this  sounds  more 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+4 
+
+in  conflict  preemption  than  statutory  preemption.  But 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can  you  just  answer  a  few  questions? 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Does  this  apply  to  people  that  are  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+residents  in  Vermont  but  that  have  been  treated  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vermont? 
+
+            
+
+And  does  it  also  apply  to  people  that  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+outside  of  ­­ that  are  Vermonters  but  are  treated 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+outside  Vermont? 
+
+ 
+
+              
+
+I  mean,  what  ­­ who  is  the  universe  to  whom 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+these  ­­ this  applies? 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  it  seems  to  me  that  that  would  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+difficult  for  plans  to  ­­ to  figure  out. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  As  implemented  by  the  board,  Your 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Honor,  the  ­­ the  database  requirements  apply  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vermonters  receiving  health  care  services  from  a  covered 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+insurer  regardless  of  their  location,  so  both  inside 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vermont  and  outside  Vermont,  if  it's  paid  for  by  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+covered  insurer.  It  does  not  ­­ the  board  has  chosen 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  to  require  data  from  non­Vermont  residents  receiving 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+care  in  Vermont. 
+
+ 
+
+ 
+
+            
+
+With  respect  to  the  ­­ to  the  burden  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  respect  to  the  burden  issue  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  You  say  it's  chosen  to. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Does  the  statute  authorize  it  to? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  The  statute  authorizes  it  to  do 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+5 
+
+either,  Your  Honor. 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  We  ­­ we  ­­ we  ought  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+consider  that,  don't  you  think? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  I  don't  ­­ I  don't  believe  so, 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Your  Honor,  because  the  ­­ the  program  that  has  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+challenged  here  by  Liberty  Mutual  is  the  program  as  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  been  implemented  by  the  board,  and  that  ­­ that  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+how  it  has  been  implemented. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  this  kind  of  generally  applicable  health 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+care  regulation  is  not  preempted  for  the  reasons  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  Court  has  expressed  in  a  series  of  decisions, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+including  Travelers,  De  Buono,  Mackey,  and  Dillingham. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  What  of  the  point  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kennedy  suggested,  that  ­­ that  States  can  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+different  reporting  requirements?  So  it's  a  little  bit 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+like  Egelhoff  in  that  respect,  that  if  there  were 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+uniform  requirements,  that  would  be  less  burdensome,  but 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if  each  State  has  its  own  specifications,  then  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+becomes  burdensome  and  costly. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  Your  Honor,  two  responses  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that.  The  first  is  that  there  is  simply  no  evidence  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  record  that  there  is  any  cognizable  burden  on  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+third­party  administrators  who  are  health  care  insurers 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+who  generate  this  data  and  are  providing  it  already  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+their  capacity  as  insurers. 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+6 
+
+            
+
+Second,  certainly  some  States  may  choose  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+do  these  programs  differently,  but  as  several  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amicus  briefs  explain,  including  the  brief  from  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+National  Association  of  Health  Data  Organizations,  these 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are  carefully  designed  programs  that  track  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+electronic  transaction  rule  under  HIPAA  that  provides 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+national  standards  for  electronic  claims  transactions. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  Suppose  States  had 
+
+  
+
+ 
+
+ 
+
+ 
+
+different  reporting  requirements  and  the  plan  showed  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  haven't  ­­ I  don't  think  showed,  but  suppose  they 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+showed  that  this  was  burdensome.  Does  that  affect  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+analysis  of  the  preemption  question? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  Only  in  this  way,  Your  Honor:  I 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  that  the  Court's  holding  in  Travelers  can  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+distilled  to  basically  three  questions.  The  first 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+question  is: 
+
+ 
+
+            
+
+Does  the  plan  ­­ does  the  State  law 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+specifically  and  directly  regulate  ERISA  plans  only? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+That's  not  at  issue  in  this  case.  It  does  not. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  second  question  is  whether  the  State  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulating  in  an  area  that  Congress  reserved  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+States  or  is  regulating  in  an  area  with  which  ERISA  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+principally  concerned.  And  here  the  State  is  engaging 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  classic  health  care  regulation,  so  on  that  question 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  answer  is  no. 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+7 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+            
+
+            
+
+And  then  Travelers  leaves  open  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  Excuse  me.  You  could  say 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  it's  engaged  in  health  care  regulation.  You  could 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+also  say  it's  ­­ it  is  engaged  in  data  collection.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if  you  say  the  latter,  that  is  something  that  ­­ that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA  covers. 
+
+ 
+
+            
+
+MS.  ASAY:  Your  Honor,  ERISA  governs  plan 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+financial  reporting  and  plan  disclosures  to  the  members. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It  ­­ primarily  the  reporting  requirements  that  ERISA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sets  out  are  about  the  plan  finances:  actuarial 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statements,  statements  of  audited  financial  statements, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  about  how  the  plan  is  ­­ about  the  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+degree  of  the  plan's  financial  soundness.  And  nothing 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  Vermont  is  doing  has  anything  to  do  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  Is  that  still  true  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Well  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  ­­ after  the  Affordable  Care 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Act?  Doesn't  the  Affordable  Care  Act  include  in  ERISA  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+section  authorizing  the  Secretary  to  gather  information 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  plans  for  the  purpose  of  improving  health  outcomes? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  Yes.  The  Affordable  Care  Act 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+made  a  technical  amendment  to  ERISA,  which  in  turn 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incorporated  the  Act's  amendments  to  the  Public  Health 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Services  Act.  Those  do  not  change  the  test  for  ERISA 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preemption.  They're  not  part  of  the  plan's  annual 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+8 
+
+reporting  to  the  Department  of  Labor. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+There's  a  couple  of  reasons  for  that.  One 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  that  the  Affordable  Care  Act  itself  has  a  ­­ has  a  ­­
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  ­­ almost  an  anti­preemption  provision,  a  provision 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  says  that  the  Affordable  Care  Act  only  prevents 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  State  laws  that  prevent  the  application  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Act. 
+
+            
+
+Part  7  of  ERISA  also,  which  has  those 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amendments  in  it,  is  not  part  of  ERISA  as  it  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+originally  passed.  That  was  added  by  HIPAA.  And  Part  7 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+itself  has  a  provision  that  says  it  does  not  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+JUSTICE  ALITO:  But  why  does  it  matter  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MS.  ASAY:  ­­ affect  the  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  ALITO:  ­­ why  does  it  matter 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whether  it  was  in  ERISA  as  originally  passed?  It  is  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA  now.  And  it  is  true  that  there  is  sort  of  an 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anti­preemption  provision,  but  there  is  also  a  provision 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  Affordable  Care  Act  that  says  that  the  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+provisions  that  are  added  have  no  effect  on  the  ERISA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preemption  provision. 
+
+ 
+
+            
+
+MS.  ASAY:  That's  right,  Your  Honor. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  So  what  do  you  make  of  that? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  What  I  make  of  that  is  that  it 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  not  change  the  test  for  preemption  either  way.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+when  ­­ when  Congress  passed  the  Affordable  Care  Act, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+9 
+
+Travelers  had  been  on  the  books  for  years.  The 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standards  set  forth  in  Travelers,  which  reserved,  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State's,  health  care  regulation,  was  understood  by  ­­ by 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Traveler  ­­ was  understood  by  Congress,  and  it  was  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+changed. 
+
+            
+
+And  this  program  that  ­­ that  Vermont  has 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+adopted  is  a  classic  health  care  regulation.  The 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+data  ­­
+
+ 
+
+            
+
+JUSTICE  BREYER:  It  is  health  care 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulation.  Vermont  also  has  laws  that  govern 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fiduciaries.  So  could  they  have  a  statute  which  says 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+all  fiduciaries,  including  fiduciaries  ­­ ERISA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fiduciaries  must  report  ­­ fill  out  the  following  forms 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  how  they  ­­ how  they  invest  their  money. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Can  they  do  that? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  They  could  ­­ they  could  have  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standard  for  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  No,  no,  no.  Can  they  do 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  what  I  said?  Is  ­­ or  is  that  preempted? 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  It  would  be  preempted  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  Correct. 
+
+  
+
+ 
+
+            
+
+MS.  ASAY:  ­­ as  applied  to  the  ERISA  plan. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  Now,  suppose,  instead  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  what  they  say  is,  what  we  would  like  is  that  all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fiduciaries  of  ERISA  plans  send  us  each  month  a  report 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+10 
+
+of  all  of  the  benefits  under  the  retirement  plan  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  have  paid  to  any  member. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+Can  they  do  that? 
+
+ 
+
+ 
+
+ 
+
+MS.  ASAY:  Your  Honor,  I  think  the  answer  to 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  probably  depends  on  the  area  in  which  the  State  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulating. 
+
+            
+
+JUSTICE  BREYER:  So  what  they're  doing  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  have  their  ­­ their  Secretary  of  Health  and  Human 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Services  that  would  like  to  know  how  wealthy  or  poor  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+workers  are.  So  that's  why  they  do  it. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  I  think  that  would  prevent  a  very 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+close  question. 
+
+ 
+
+            
+
+question? 
+
+            
+
+            
+
+JUSTICE  BREYER:  You  think  that's  a  close 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+MS.  ASAY:  That  is  a  close  question. 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  BREYER:  In  other  words,  they  can  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+gee,  I  see  case  after  case  here  that  says  that  reporting 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements  are  a  central  function.  You  know,  I  ­­
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+you've  read  them  just  as  well  as  I.  And  ­­ and  it  seems 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  me  surprising  that  they  can  do  that. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+Isn't  that  the  job  of  the  Labor  Department. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MS.  ASAY:  I  think  that  is  primarily  the  job 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  the  Labor  Department.  And  I  ­­ I  say  that  it  ­­
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  Because  obviously,  my 
+
+  
+
+ 
+
+ 
+
+ 
+
+question  ­­ it's  a  good  answer,  because  you're  saying 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+11 
+
+I'm  not  getting  anywhere  with  this  line  of  ­­ because 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you're  ­­ because  I'm  going  to  say  what  about  health 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+care.  That's  the  next  question. 
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+My  actual  question  I'm  driving  at  is  this: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+You  should  have  the  information.  I  have  no  doubt  about 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that.  But  the  question  is  whether  you  have  to  go  to  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Labor  Department  first  or  HHS  and  say,  we  want  uniform 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rules  here,  or  whether  they  have  to  come  to  you  when  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rules  of  50  States  turn  out  to  be  a  mess. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  you  ­­ you  ­­ you  say  you  want  to  go 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+first  and  let  them  come  after  me,  and  I  think  the  other 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+side  says  no.  If  you  want  to  do  what  you  want  to  do,  go 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  the  Labor  Department,  get  a  national  rule  that  gives 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  large  range  to  get  what  you  want. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MS.  ASAY:  And  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  BREYER:  And  I  don't  know  the  answer 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  that  question.  That's  why  I  ask  it. 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  And,  Your  Honor,  the  answer  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  question  is  that,  because  this  is  classic  health 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+care  regulation  for  which  States  are  responsible  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+insurance  rate  review,  budget  review,  health  care 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+research  ­­ it  is  an  area  in  which  States  are  permitted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  regulate.  And  they're  permitted  to  regulate  even 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+slightly  differently  from  State  to  State. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  as  the  Department  of  Labor,  the  Federal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+12 
+
+government  agrees  with  us  that  this  is  an  area  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA  leaves  to  the  States,  even  though  it  involves  data 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+collection,  because  ERISA  cannot  possibly  have  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intended  to  sweep  away  all  collection  of  information 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  plans  by  States.  Congress  adopted  a  deliberately 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+expansive  definition  of  a  welfare  benefit  plan  and  ERISA 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  includes,  not  just  the  direct  provision  of  medical 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+care,  but  also  day  care  centers,  apprenticeship 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+programs,  prepaid  legal  services.  These  are  all  areas 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  which  when  plans  would  act,  they  would  necessarily  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+providing  information  to  States. 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  I  ­­ I  see  that  ­­ I  ­­ I 
+
+    
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+see  that  argument  as  to  ERISA  as  originally  enacted,  but 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  am  very  troubled  by  the  fact  that  it  now  authorizes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  collection  of  data  for  the  purpose  of  improving 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+health  outcomes  ­­ health  care  outcomes.  I  ­­ I  don't 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+see  how  that  ­­ unless  the  anti­preemption  provision 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+saves  the  day,  I  don't  see  how  that  does  not  undermine 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+your  principal  argument,  which  is  that  ERISA  may  preempt 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reporting  of  financial  data  and  that  sort  of  thing,  but 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  doesn't  preempt  the  collection  of  data  regarding 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+health  care. 
+
+ 
+
+            
+
+MS.  ASAY:  Your  Honor,  the  ­­ the  scope  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA's  preemption  provision  in  1144  is  governed  by  what 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  intended  when  it  passed  ERISA  in  1974.  And  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+13 
+
+later  amendments  to  ERISA  regarding  group  health  plans 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+include  the  language  that  says,  "does  not  affect  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+modify  that  standard."  And  so  this  Court,  when  it  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+considering  the  scope  of  the  ­­ of  the  areas  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  left  to  the  States  in  1974  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  I  really  don't  see  how  that 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can  possibly  be.  If  Congress  enacted  an  amendment 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tomorrow  that  says  one  of  the  core  purposes  of  ERISA  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  collect  health  care  information,  and  here  is  a  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+here  is  the  health  care  collecting  requirement,  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  say,  well,  that's  not  preempted,  because  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wasn't  the  purpose  when  they  enacted  the  preemption 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+provision,  originally. 
+
+ 
+
+            
+
+MS.  ASAY:  I  would  certainly  say  that  was 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  preempted  if  it  was  added  to  Part  7,  which  says  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part  7  does  not  affect  the  test  for  ERISA  preemption  in 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1144. 
+
+            
+
+JUSTICE  SCALIA:  Well,  saying  it  doesn't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+affect  the  test  is  quite  different  from  saying  that  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  ­­ that  nothing  changes.  The  test  remains  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+same,  but  now,  that  test  is  applied  to  collection, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+which  ­­ which  the  Labor  Department  is  itself 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+conducting,  or  is  itself  authorized  to  conduct.  That's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  changing  the  test.  It's  simply  ­­ it's  simply 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+changing  the  facts  to  which  the  test  has  been  applied  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+14 
+
+or  the  law  to  which  the  test  has  been  applied. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  It  would  change  the  test,  Your 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Honor,  because  if  ERISA  was  now  considered  to  have  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+broader,  expansive  scope  that  intruded  into  health  care, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  would  change  this  Court's  settled  precedent  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Travelers  and  De  Buono.  And  again,  Congress  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  Well,  that  doesn't  change 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  test.  Our  test  would  still  be  the  same  whether  it's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  core  function  of  ERISA  or  not,  and  ­­ and  it  has  made 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  a  core  function  of  ERISA. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  It  has  not  made  it  a  core 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+function  of  ERISA.  It  has  ­­ there  were  ­­ it's  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Affordable  Care  Act's  amendment  to  ERISA,  and  again, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there's  also  in  addition  to  Part  7's  preemption 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+language,  there  is  the  Affordable  Care  Act's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anti­preemption  language,  and  to  think  that  when 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  passed  the  Affordable  Care  Act,  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+contemplated  a  robust  Federal­State  partnership  in 
+
+   
+
+ 
+
+ 
+
+ 
+
+health  experimentation,  which  included  language  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+authorized  the  Department  of  Health  and  Human  Services 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  provide  Medicare  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  But  this  is  no  problem  for 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you.  All  you  have  to  do  is  go  to  DOL  or  HHS.  The  State 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+representative  says,  this  is  what  we  want  to  do,  will 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  please  promulgate  a  regulation.  ­­ you  can  do  it 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+15 
+
+maybe  in  90  days  or  120  days  ­­ which  says  that  this  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+similar  things  are  fine.  And  in  our  opinion,  it  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  ­­ it  is  not  preempted.  I  think  you  could  do  that. 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+That's  my  opinion.  I  may  be  the  only  one  who  thinks 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that.  So  I  ­­ I  think  it's  just  a  question  of  which 
+
+   
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+forms  you  have  to  go  through. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  if  we  take  you  and  say,  I'm  going  to  ask 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+­­ I'm  really  asking  the  government  this  question, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because  I  don't  see  why  they're  on  your  side,  and 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they'll  have  an  answer  to  that.  See,  I  want  to  find 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+out.  But  what  I  want  to  find  out  is  this:  The  factor  I 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+saw  was  93  million  people  have  these  plans.  And  if  93 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+million  people  have  these  plans,  there  can  be  50  States 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  50  different  sets  of  regulations  imposing  a  huge 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+financial  burden  upon  health  care. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  were  that  to  happen,  suddenly  all  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  we're  trying  to  help  under  this  plan  will  find 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+themselves  much  worse  off,  and  purely  for  bureaucratic 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasons.  If  I  take  their  side  of  it,  I  can  have  some 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+assurance  that  the  purpose  of  Congress  in  these  statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+will  be  fulfilled,  because  there  will  not  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+unnecessary,  conflicting  reporting  requirements,  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sound  like  nothing,  but  they're  very  expensive  to  ­­ to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actually  implement. 
+
+ 
+
+            
+
+Now,  that's  my  basic  problem.  The  same 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+16 
+
+question  for  you,  for  the  government,  and  for  the  other 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+side,  but  the  other  side  will  agree  with  the  way  I  put 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  question. 
+
+ 
+
+            
+
+MS.  ASAY:  And  if  I  may  try  responding  this 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+way,  Your  Honor.  The  ­­ the  notion  that  it's  more 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+efficient  for  the  Department  of  Labor  to  collect  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+subset  of  standardized  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  You're  not  going  to  collect 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anything.  All  they're  going  to  say  is  in  our  reg,  you 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  permission  to  go  and  impose  these  requirements. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+But  by  having  to  go  to  them  first,  we  prevent  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+conflicting  requirements  of  50  different  systems. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  And  it's  possible  that  they  may 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be  able  to  do  that.  I'm  not  sure  where  that  authority 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  come  from  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  It  ­­ it  ­­ it  isn't  clear 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  they're  able  to  do  that,  is  it? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MS.  ASAY:  No. 
+
+  
+
+ 
+
+JUSTICE  SCALIA:  It  isn't  clear  that  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Federal  agency  can  eliminate  preemption  by  simply 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+saying,  okay,  you  can  go  ahead  and  do  it. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+point  ­­
+
+ 
+
+            
+
+JUSTICE  BREYER:  I'm  only  asking.  My 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  Even  though  it's  otherwise 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+preempted  under  the  statute,  we  say  it's  okay.  I  ­­ I 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2
+ 
+
+3
+ 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+17 
+
+think  that's  not  a  ­­ not  a  ­­ not  a  clear  ­­ a  clear
+ 
+
+   
+
+   
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+question.
+ 
+
+            
+
+MS.  ASAY:  It's  ­­ I  think  it's  not  clear 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  they  can  do  that.  And  again,  I  think  the  question 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  the  Court  is  not  what  the  Department  of  Labor  can 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+do,  but  what  Congress  reserved  to  the  States. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  I  ­­ I  know  your  time  is 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+running  up,  but  consider  two  cases.  Case  one:  Vermont 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  the  only  State  that  requires  this.  Case  two:  50 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+states  requirement  ­­ require  this  and  it's  all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+different  and  it's  burdensome. 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+Same  preemption  analysis?
+ 
+
+ 
+
+ 
+
+MS.  ASAY:  Yes,  Your  Honor,  same  preemption
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+analysis 
+ 
+
+as	  in  Travelers  and  De  Buono  and  Mackey. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  And  same  result? 
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  Yes,  Your  Honor,  same  result.  As 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  Mackey,  where  this  Court  held  that  State  garnishment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+litigation  procedures  as  applied  to  the  very  benefits 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  plan  was  paying  out  were  permissible.  Clearly, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  were  going  to  vary  State  by  State,  and  involve  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans  in  State­by­State  regulation. 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  On  rebuttal,  because  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+don't  want  to  eat  up  more  of  your  time,  would  you  go 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+through  the  ­­ through  more  careful  ­­ more  slowly,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fact  that  this  information  is  all  electronic,  all  of  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+18 
+
+already  set  out  in  the  HIPAA  regulations.  And  so  it's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  a  question  of  ­­ and  ­­ and  now,  all  reporting  is 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+being  done  in  one  system,  ICD­10,  right?  Everybody  has 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  use  the  one  computer  system. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  ASAY:  I  am  not  actually  familiar  with 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  but  I  will  ­­ if  I  may  reserve  my  remaining  time. 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+MS.  ASAY:  Thank  you. 
+
+  
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Mr.  Bash. 
+
+  
+
+ 
+
+ 
+
+ 
+
+              
+
+ORAL  ARGUMENT  OF  JOHN  F.  BASH 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+          
+
+FOR  UNITED  STATES,  AS  AMICUS  CURIAE, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+SUPPORTING  THE  PETITIONER 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Mr.  Chief  Justice,  and  may  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please  the  Court: 
+
+ 
+
+ 
+
+              
+
+I  would  like  to  start,  if  I  could,  with 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Breyer's  questions,  and  then  hopefully  I  can 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+move  on  to  Justice  Alito's  questions  about  the  ACA  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kennedy's  questions  about  the  burden  here.  Let 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+me  set  out  how  we  see  the  interaction  of  the  preemption 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+framework  and  recordkeeping  requirements,  and  then  turn 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  what  I  think  DOL's  role  is  here. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Both  sides  agree,  essentially,  that  ERISA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans  can  be  subject  to  some  reporting  requirements, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+probably  many  reporting  requirements,  incident  to  State 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+laws  in  other  substantive  fields.  So,  for  example,  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+19 
+
+Solicitor  General  gave  the  example  of  day  care  centers. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA  plans  can  run  day  care  centers.  I  don't  think 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anyone  doubts  that  you  can  have  all  sorts  of  reporting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements  to  make  sure  the  staff  is  trained,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+facilities  are  safe.  And  so  forth. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+This  Court's  case  in  De  Buono  upheld  a  tax 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+imposed  on  employer  contributions  to  an  ERISA  medical 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+benefit  plan  that  provided  the  medical  benefits 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+directly.  And  we  told  the  Court  at  the  time  that  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tax  had  all  sorts  of  reporting  requirements.  So 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+essentially,  the  question  is  here,  where  to  draw  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+line  between  reporting  requirements  that  are  permissible 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  those  that  are  nonpermissible. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+As  I  take  Respondent's  view,  it's  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+they're  ­­ it's  certain  information  that  is  so  core  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  plan  that  you  simply  can't  have  State  law  reporting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements  about  that  information. 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  don't  think  that  can  be  right.  Take,  for 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+example,  real  property  held  in  trust  by  a  pension  plan. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DOL  requires  reporting  on  that.  Obviously,  you  need  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+know  the  assets  the  pension  plan  has,  but  certainly  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State  taxing  authority  can  require  reporting  about  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+same  information  to  assess  a  property  tax. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  same  was  true  with  the  tax  in  De  Buono. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  same  is  true,  by  the  way,  in  Dillingham.  That  was  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+20 
+
+case  about  an  ERISA­run  apprentice  program.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+California  law  said,  you  either  follow  our  standards  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+apprenticeship,  or  you  have  to  pay  a  higher  wage.  I 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mean,  that  was  as  core  as  you  get.  It  was  literally  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+way  the  apprenticeship  program  was  set  up. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  I  don't  think  the  test  can  be  whether  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  is,  in  some  sense,  core  to  ERISA.  I  think 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  test  has  to  be,  is  this  reporting  requirement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incident  to  a  law  in  the  field  governed  by  ERISA,  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vesting,  funding,  fiduciary  duties  and  so  forth  ­­ or  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  incident  to  a  law  in  health  care,  or  in  day  care 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+center  regulation? 
+
+ 
+
+            
+
+Here,  I  don't  think  anyone  disputes:  This 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+information  is  used  for  hospital  budget  review,  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+health  insurance  rate  review,  for  medical  research. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+There's  no  question  that  it's  incident  to  classic  State 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+health  care  regulation. 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Why  isn't  there  also  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirement  that  the  law  just  not  be  burdensome  over  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+certain  level? 
+
+ 
+
+            
+
+MR.  BASH:  It  ­­ it  is,  Justice  Kagan.  And 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  ­­ I  think  I  cut  short  my  test. 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  first  inquiry  is:  Is  this  incident  to  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+field  that  ERISA  doesn't  govern?  I  think  that's 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+satisfied  here. 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+21 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+            
+
+ 
+
+ 
+
+But  then  there's  still  another  question 
+
+ 
+
+ 
+
+ 
+
+under  Travelers,  which  looked  to  both  purpose  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+effects  of  whether  the  effect  of  the  law  is  so 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burdensome  that  effectively  frustrates  or  impedes  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+design  of  ERISA  plans  or  the  administration  of  ERISA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans.  And  I  think  a  law  like  this  that  imposes 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+reporting  requirements  on  a  claim  could  theoretically  be 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  burdensome.  And  so  when  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  How  is  that  any  different 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+than  conflict  preemption?  How  does  that  give  any 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+special  effect  to  the  statute  here?  I  mean,  you  could 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+make  that  argument  if  there  was  no  preemption  provision. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Well,  I  ­­ I  think  the  way  it's 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+different  than  conflict  preemption,  or  at  least  one  way, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  that  if  it  actually  is  in  the  core  field  governed  by 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA,  I  mean,  if  the  State  said,  we  just  want  to  make 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sure  these  pension  plans  are  well­funded,  so  we're  going 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  ask  for  reports  incident  to  that  role,  it  would  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preempted  even  if  the  requirements  weren't  particularly 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burdensome. 
+
+              
+
+I  mean,  the  Court  has  never  held  that  in  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+specific  case,  but  I  think  the  Court's  analysis  leans 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+towards  that  direction.  So  it  could  either  be  within 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  preempted  field,  in  which  case  it  relates  to  ERISA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans  and  it's  out,  or  it  could  be  so  burdensome  that  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+22 
+
+effectively  frustrates  the  purpose  of  a  uniform  ERISA  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  The  former  sounds  to  me 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+like  standard  field  preemption  and  the  latter  like 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standard  conflict  preemption. 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+MR.  BASH:  Well,  I  think  there  have  been  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  Is  that  what  you're  saying? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  BASH:  There  have  been  some  well­written 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+separate  opinions  in  this  area  that  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  I  know  that. 
+
+    
+
+ 
+
+ 
+
+            
+
+(Laughter.) 
+
+            
+
+MR.  BASH:  I  don't  think  ­­ I  don't  think  ­­
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  here's  what  I  would  say  about  that:  I  mean,  I  know 
+
+    
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+your  opinion  and  the  opinion  of  a  few  other  justices 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  suggested  we  should  shift  to  field  preemption.  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  if  the  Court  were  to  say  what  we've  been  doing  all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+along  is  field  preemption,  and  it  makes  more  sense 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doctrinally  to  classify  it  that  way,  from  the  Department 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  Labor's  perspective,  that  would  be  fine. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  think  we  would  be  a  little  bit  concerned 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if  the  Court  signaled  to  lower  courts  in  its  opinion 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  it  was  marking  a  big  shift  in  its  jurisprudence 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  could  destabilize  the  law.  We  think  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  Why  aren't  you  on  the  other 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+side  of  the  case?  That  is,  I  was  fine  with  you  until  I 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+read  a  few  of  these  amicus  briefs,  and  then  suddenly  I 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+23 
+
+saw  93  million  people.  And  there  are  associations  all 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+over  the  place  that  are  worried  about  this  problem.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  have  a  big  chart  where  they  show  the  possibilities 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  ­­ of  conflict.  You  yourself  are  worried  about 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+conflict.  Conflict  among  States  in  requirements  means 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+money.  A  lot  of  money.  That's  what  they  say,  and 
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  plausible. 
+
+ 
+
+            
+
+So  what  I  want  to  know  is:  What  do  you  all 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+propose  to  do  about  that  in  the  U.S.  government?  One 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+thing  to  do  about  it  ­­ and  I've  looked  up  the  regs,  so 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+maybe  Justice  Scalia  disagrees,  but  I'm  talking  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  I  think.  All  right? 
+
+   
+
+  
+
+ 
+
+            
+
+The  ­­ the  ­­ it  seems  like  they  would  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+authority  to  issue  regs  either  way;  blocking,  or  getting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+permission  first.  That's  where  I  ended  up,  and  that's 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  I  wanted  your  view  about.  You  see  what  I'm  saying? 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  I  see  what  you're  saying. 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+There's  two  pieces  there,  whether  this  actually  has  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burden  and  what  we  could  do  about  it  if  there  was.  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+didn't  mean  to  suggest  we  think  it  has  a  burden. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+It's  the  view  of  the  Department  of  Justice 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  significant  burden  has  not  been  shown  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department  of  Labor  that  the  significant  burden  has  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  shown  here.  So  that  starting  premise,  we  do  not 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+agree  with  that.  All  I'm  saying  is  that  if  a  party 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+24 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+could  show  that  burden,  that  would  raise  a  substantial 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preemption  question  and  would  be  highly  relevant  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preemption  analysis. 
+
+ 
+
+            
+
+been  shown? 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Then  why  hasn't  that  burden 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  BASH:  Respondent  submitted  nothing 
+
+  
+
+ 
+
+ 
+
+ 
+
+below.  I  mean,  really.  They  submitted  an  Internet  fax 
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sheet  ­­
+
+ 
+
+            
+
+JUSTICE  KAGAN:  There's  something  very 
+
+  
+
+ 
+
+ 
+
+ 
+
+intuitive  about  their  argument,  and  it's  ­­ it's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+essentially  what  Justice  Kennedy  said.  It's  ­­ it's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+when  50  States  devise  50  different  requirements  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this,  different  formatting,  different  particular 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  requested,  that  just  all  adds  up  to  a  lot  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hassle,  which  all  adds  up  to  a  lot  of  money. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Two  points.  I  mean,  first  it 
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+seems  far  less  burdensome  than  State  laws  this  Court  has 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+already  upheld,  or  that  State  laws  that  I  think  most 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  would  agree  have  to  be  upheld. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  mean,  the  tax  ­­ or  the  surcharge  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Travelers  ­­ that  was  the  case  where  you  bought 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+commercial  insurance,  you  had  to  pay  a  surcharge  up  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+24  percent  more  on  medical  purchases,  that's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+unbelievably  burdensome,  and  surely  had  reporting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements  associated  with  it.  And  having  to  pay 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+25 
+
+vastly  different  surcharges  in  50  States  could  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burdensome  too. 
+
+ 
+
+            
+
+What  this  Court's  precedents  have  said, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+including  Travelers  and  Dillingham  and  De  Buono  is  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  mere  burden  is  not  enough.  What  has  to  be  shown  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  it  interferes  with  the  administration  of  benefits. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+So  in  Egelhoff  ­­
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Well,  but  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+consistent  theme  in  our  cases,  when  you  say  a  mere 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burden  is  not  enough,  is  that  the  government  wants 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+employers  to,  one,  set  things  up  ­­ they  don't  have  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+­­ and  two,  they  want  the  money  to  go  to  benefits,  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  go  to  administrative  and  bureaucracy  expenses. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Is  it  your  view  in  analyzing  this  question, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+do  we  look  at  what  would  happen  if  50  States  adopted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+different  programs,  or  do  we  look  at  just  Vermont 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because  Vermont  happens  to  be  first? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  The  former.  Our  view  is  you  have 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  contemplate  the  50  States  would  adopt  different 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regimes? 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Yeah,  I  think  that's 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+right.  So  you  don't  think  50  different  regimes  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reporting  is  going  to  require  a  significant  diversion  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+money  away  from  benefits  to  administration? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Not  ­­ not  on  this  record.  Mr. 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+26 
+
+Chief  Justice,  recall  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  What  kind  of  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+record  do  you  need  to  show  that? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  BASH:  Well  ­­
+
+  
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Of  course  you  can't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  a  record  of  what  50  States  are  doing  if  it's  a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hypothetical  question. 
+
+ 
+
+            
+
+MR.  BASH:  Well,  I  think  there's  a  couple 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ways  Respondent  could  have  made  the  showing  here.  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mean,  at  minimum,  Respondent  could  have  had  its  own 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+third­party  administrator  come  in  and  say  these 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reporting  requirements  are  burdensome;  this  is  what 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we've  had  to  do.  We've  had  to  change  the  way  we  process 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+claims  because  they're  so  burdensome.  I  suspect  they 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+could  not  have  made  that  showing  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  But  you  have  pages  26  and 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27  of  the  Blue  Cross  Blue  Shield  brief.  And  there  they 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  a  big  chart,  and  there  are  all  these  organizations 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+out  there  that  are  trying,  like  the  Uniform  Law 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Commissioners,  to  create  uniformity.  That's  why  I  say 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  why  I'm  puzzled  as  to  what  to  do. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Am  I  supposed  to  write  an  opinion  that  says 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+even  though  Blue  Cross  Blue  Shield  feels  it's  a  big  mess 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  trying  to  straighten  it  out,  they  didn't  make  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+right  record  in  the  Vermont  trial  court?  How  do  I  write 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+27 
+
+that  opinion? 
+
+ 
+
+            
+
+MR.  BASH:  Going  to  the  ­­ the  chart  point, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  mean,  the  chart  actually  doesn't  show  conflicting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements.  Most  of  the  counterpoints  they  have  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+like  not  required.  I  don't  think  there  are  conflicting 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements. 
+
+            
+
+And  even  if  you  look  at  the  end  of  the  Blue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cross  Blue  Shield  brief,  they  never  actually  say  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  ­­
+
+ 
+
+            
+
+JUSTICE  BREYER:  I  mean,  I'm  serious.  How 
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+do  I  write  the  opinion?  I  suppose  it  could  happen,  but 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  hasn't  happened  yet.  How  do  I  write  the  opinion? 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  I  think  ­­ I  think  the  opinion  is 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+written  like  this:  One,  this  is  a  reporting  requirement 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incident  to  a  field  that  is  not  governed  by  ERISA, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+health  care  regulation.  It's  presumptively  valid,  but 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we're  going  to  look  and  see  if  Respondent  has  made  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+showing  that  it's  so  burdensome,  it  fundamentally 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+changes  the  way  plans  are  administered  or  designed. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Respondent  has  not  made  that  showing  here.  That  is  how 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  opinion  is  written. 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  mean,  this  Court  has  never  actually  said 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  a  burden  is  so  bad  that  it's  preempted,  even  if  it 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+operates  in  a  field  outside  of  ERISA.  It  has  suggested 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  dicta  that  it's  possible,  but  that  is  inherently  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+28 
+
+factual  determination,  and  it's  hard  to  see  how  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court  could  reach  that  conclusion  without  some  factual 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+showing  ­­
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  So  we  go  through  at 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+one  point  ­­ all  of  a  sudden  there  ­­ the  11th  State 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  does  this,  and  it's  the  11  different  things,  we  say 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  that  a  burden?  Is  that  a  sufficient  burden?  We  say 
+
+   
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+no.  But  then  when  30  States  do  it,  maybe  it's  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+different  answer.  That  seems  like  a  very  odd  preemption 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+analysis. 
+
+            
+
+MR.  BASH:  Well,  I  ­­ I  don't  think  it 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+should  turn  on  that,  Mr.  Chief  Justice.  I  do  think  it's 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+appropriate  for  a  court  to  consider  what  if  50  States 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+impose  different  requirements  like  this.  But  just  like 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+50  different  States  might  have  different  requirements 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  daycare  centers,  or  for  prepaid  legal  services, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  I  don't  think,  is  the  sort  of  burden  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Well,  but  this  goes 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  basic,  very  comprehensive  reporting  of  data.  It's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  simply,  well,  if  you  run  a  daycare  center,  you  have 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  comply  with  the  rules  about  daycare  centers.  Of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+course  you  do.  It's  quite  different. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+One  of  the  things  ERISA  plans  do  is  report 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+data  and  compile  data.  And  it  seems  to  me  that  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+analysis  that  says,  well,  daycare  centers  you  can.  That 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+29 
+
+seems  a  little  bit  off  basis. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+MR.  BASH:  May  I  respond,  Mr.  Chief  Justice? 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  No. 
+
+  
+
+ 
+
+ 
+
+Of  course  you  can. 
+
+ 
+
+ 
+
+ 
+
+            
+
+(Laughter.) 
+
+            
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Please. 
+
+  
+
+ 
+
+ 
+
+MR.  BASH:  I  think  that  the  ­­ I'll  try  to 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+do  it  in  two  sentences. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  think  that  the  burden  here  is  far  less 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+substantial  than  the  burden  of  complying  with  State 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+apprenticeship  regulations  for  the  way  you  designed  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+program  in  Dillingham.  Here,  most  self­insured  plans 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+use  third­party  administrators.  And  often  those 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+third­party  administrators  are  insurance  companies  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+already  have  the  infrastructure  in  place  for  reporting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements  as  applied  to  them  which  cannot  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preempted  under  ERISA. 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Mr.  Waxman. 
+
+ 
+
+             
+
+ORAL  ARGUMENT  OF  SETH  P.  WAXMAN 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ON  BEHALF  OF  THE  RESPONDENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  Mr.  Chief  Justice,  and  may  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please  the  Court: 
+
+ 
+
+ 
+
+              
+
+A  signal  goal  of  ERISA  enacted  in  1974  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  foster  employee  benefit  plans  that  could  operate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+30 
+
+nationally  under  nationally  uniform  rules  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+administration,  first  and  foremost,  rules  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+recordkeeping  and  reporting. 
+
+ 
+
+ 
+
+            
+
+ 
+
+Now,  of  course  ERISA  plans,  like  other 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regular  businesses,  are  subject  to  ancillary  regulation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+like  maintaining  a  safe  workplace,  paying  minimum  wage 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  prevailing  wage  laws,  paying  their  State  real  estate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+taxes  on  their  headquarters,  and  if  they  choose  to  run  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hospital,  run  a  law  firm  for  their  legal  services, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+benefit  program,  run  a  childcare  center,  they  are 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+subject  to  local  regulation  like  other  providers  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  local  services. 
+
+ 
+
+ 
+
+            
+
+But  in  every  single  case  in  this  Court,  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+every  lower  court  decision  that  I  have  found  in  which 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+courts  have  upheld,  State  by  State,  reporting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements,  it  has  always  been  incident  to  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+substantive  obligation  that  the  State  could  impose.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+no  one  contends  that  Vermont  could  impose  substantive 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulations  on  the  claims  that  Liberty  Mutual  pays  under 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its  employment  plan. 
+
+ 
+
+ 
+
+            
+
+            
+
+Now,  I  want  to  go  to  the  point  of  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  Mr.  Waxman,  why  was  it  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  introduced  absolutely  no  evidence  of  burden  in  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lower  courts  here? 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  That  is  not  true,  Justice 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+31 
+
+Kagan.  What  ­­ we  did  not  introduce  any  evidence  about 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  it  would  cost  us  in  dollars  and  cents  to  have  Blue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cross  Blue  Shield  comply  with  the  Vermont  request  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  the  subject  to  the  subpoena.  But  we  did  introduce 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+substantial  evidence  in  the  record  below,  and  ­­ and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  of  it  is  included  in  the  Joint  Appendix,  and  all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  pages  that  are  extra  long  folded  in,  about  what  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  that  we  have  to  do,  both  in  Vermont  and  in  the  then 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15  other  States  that  imposed  very,  very  different 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reporting  obligations. 
+
+ 
+
+            
+
+So  we  didn't  put  a  dollars  and  cents  in,  but 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  did  make  the  lower  court,  the  district  court,  on  its 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+request,  very  aware  of  this  very  substantial  burden. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  Congress,  in  determining  ­­ in  ­­ in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+deciding  to,  in  exchange  for  blanket  Federal  regulation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  these  fostered  national  plans,  to  grant  a  very  broad 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preemption  provision  that  says  this  is  going  to  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Federal  regulation  ­­
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+JUSTICE  BREYER:  What  about  the  converse  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  WAXMAN:  ­­ not  State  regulation. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  BREYER:  What  about  the  converse? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+What  about  the  converse  point  for  you  that  I  was  making 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+before?  The  number  that  jumped  out  from  the  page  is  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+93  million  people  this  affects.  Now,  that's  a  huge 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+number,  and  therefore  the  risk  of  conflicting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+32 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+regulations  is  serious  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  WAXMAN:  It's  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  BREYER:  ­­ in  raising  costs. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+That's  for  you.  But  they  say  it  hasn't  been  shown 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+yet  ­­
+
+ 
+
+            
+
+            
+
+MR.  WAXMAN:  Well,  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  BREYER:  ­­ so  I  ask  you:  If  it 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  come  about,  if  it  should  come  about  and  you  lost 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  case,  why  can't  your  clients  go  right  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department  of  Labor,  whose  regulations  I've  read,  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+possibly  ACCA,  and  say,  we  want  you  to  impose  a  uniform 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+national  data  collection  system  or  the  equivalent,  put 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+limits,  and  then  preempt  the  conflicting  State  limits? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Now,  it  may  be  other  members  of  the  Court  do 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  agree  with  this  approach,  but  I've  written  a  case, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MetroMedia,  where  I  think  the  agencies  have  a  lot  of 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+power  there,  and  I  think  they  have  more  capacity  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+decide  this  kind  of  thing  than  a  group  of  judges. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+points: 
+
+            
+
+So  what  about  that  for  you? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  WAXMAN:  Justice  Breyer,  a  couple  of 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+First,  in  the  lower  court  and  in  this  Court, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+neither  party  on  the  other  side  has  disputed  what  I 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  is  the  self­evident  proposition,  that  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department  of  Labor  and  now  the  Department  of  Labor  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+33 
+
+the  Department  of  Health  and  Human  Services,  absolutely 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  the  statutory  authority  under  ERISA  to  impose  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+kind  of  recordkeeping  and  reporting  requirements  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vermont  and  now  17  or  19  other  States  do.  They  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+never  disavowed  that.  The  ­­ the  SG's  brief  at  both  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+invitation  stage  and  the  merits  stage  sort  of  coyly 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suggests  that  that's  right,  and  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Well,  that  sounds  like  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+one­size­fits­all  solution,  and  there's  some  value  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+States  being  able  to  think  about  their  own  health  care 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+needs. 
+
+            
+
+MR.  WAXMAN:  Of  course. 
+
+  
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  And  to  think  about  what 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+things  they  want. 
+
+ 
+
+ 
+
+            
+
+So  I  mean,  just  again,  let's  go  back  to  this 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burden  because  it  is  a  very  intuitive  idea  that  you  have 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+on  your  side:  50  different  States;  that's  a  lot  of 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+money.  But  I  guess  I  wonder  why  it  is  a  lot  of  money. 
+
+   
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  mean,  as  I  understand  what's  going  on  here,  that  all 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  data  that's  being  requested  is  data  that  Blue  Cross 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Blue  Shield  generates  anyway.  That  all  the  data  that's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+being  requested  is  data  that  Blue  Cross  Blue  Shield 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reports  for  other  people.  That  really  this  is  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+formatting  question,  even  with  respect  to  the  wide 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+variety  of  States,  that  the  States  have  started  getting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+34 
+
+their  formatting  more  uniform. 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  I  ­­ I  mean,  you  know,  it's  ­­ you  can 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+say  it's  93  million  people,  but,  you  know,  in  the  end 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what's  the  cost? 
+
+ 
+
+ 
+
+            
+
+            
+
+the  record? 
+
+ 
+
+            
+
+MR.  WAXMAN:  Oh. 
+
+  
+
+ 
+
+JUSTICE  KAGAN:  And  why  don't  you  have  it  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  WAXMAN:  Okay.  I  ­­ there  is  not  a  ­­
+
+    
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  respect  to  burden,  Congress,  in  enacting  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preemption  provision  and  their  ­­ we  ­­ we've  cited  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  Court  place  after  place  in  the  conference  reports, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  House  reports,  the  statements  of  the  sponsors,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+recognition  in  ­­ in  repealing  the  Disclosure  Act,  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+set  a  reporting  ­­ a  national  reporting  floor  and 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+allowed  the  States  to  add  onto  it  and  record  evidence 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+before  Congress  that  small  plans  were  spending  up  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+40  percent  of  their  entire  assets  on  State  reporting. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  made  the  determination  that  this  Court  has 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reflected  in  many,  many  of  its  decisions,  including 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Egelhoff,  that  the  very  fact  that  there  could  be  50 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+different  State  regulations  is  the  burden  that  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preemption  provision  is  designed  to  address. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+And  the  notion  ­­ and  that  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  Well,  we  know  ­­ we  know, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mr.  Waxman,  that  Blue  ­­ Blue  Cross  is  providing  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+35 
+
+information  with  respect  to  individuals  that  its  own 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans  insure,  and  we're  told  that  it  is  providing  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  for  other  self­insured  ERISA  plans  who 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+didn't  make  this  objection.  So  do  we  know  at  least  what 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  the  burden  of  providing  that  information  for  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+other  self­insured  ERISA  plans  that  Blue  Cross  is  ­­ is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+providing  the  information  for? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  Justice  Ginsburg,  the  Blue 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cross  Blue  Shield  Association  has  actually  filed  a  brief 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  its  ­­ in  this  case,  and  it  explains  at  great  detail, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+as  does  the  brief  of  the  multi­employer  plans,  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+like  Liberty  Mutual  operate  in  50  States,  about  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burden,  about  the  fact  that  Blue  Cross  Blue  Shield 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doesn't  have  all  this  information  in  the  normal  course, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  multi­employer  plans  don't  have  it,  and  Blue  Cross 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Blue  Shield,  as  a  third­party  administrator,  has  told 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  Court  just  exactly  how  burdensome  and  how  expensive 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  is. 
+
+ 
+
+            
+
+Of  course  they  could  do  it  for  Liberty 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mutual  in  Vermont.  The  only  question  is  how  much  it's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  to  cost  and  how  much  they're  going  to  charge. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  look,  for  example,  at  since  this  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+since  this  litigation  began,  the  Commonwealth  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Massachusetts  has  now  told  Liberty  Mutual  that  it  wants 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reporting  under  its  APCD  statute.  And  as  we  recount  at 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+36 
+
+page  36  of  our  brief,  their  regulations  require,  among 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+other  things,  the  premiums  the  plan  charges,  its 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actuarial  assumptions,  the  summary  of  its  plan  designs, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  plan's  reserves,  its  surplus,  its  provider  payments, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its  provider  levels,  and  information  about  medical 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedures  whose  claims  are  denied.  And  the  chart  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  submitted  in  the  district  court  reflects  the  wide 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+variation  in  States. 
+
+ 
+
+ 
+
+            
+
+There  is  ­­ the  ­­ the  burden  that  Congress 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+foresaw  is  coming  to  play  before  our  very  eyes  as 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+States  ­­ more  and  more  States  adopt  these  mandatory 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans. 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Is  that  information, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ the  ­­ the  laundry  list  you  went  through,  is  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+already  available  at  Blue  Cross  Blue  Shield  and  being 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reported  somewhere  else? 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  No,  it  is  not.  Absolutely  not. 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  the  Blue  Cross  Blue  Shield  Association  amicus  brief 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reports  that.  The  multi­employer  plan  brief  reports 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  they  only  ­­ that  their  plans  generally  have  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70  to  80  percent  of  the  information  that's  required  by 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+any  one  of  these  States.  And  to  go  to  ­­ I  think  it  was 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Breyer's  hypothetical  ­­ look,  the  same  rules 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  apply  here  are  going  to  apply  to  pension  plans. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  the  State  of  Vermont,  like  many  other  States  now,  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+37 
+
+concerned  not  just  about  health  care  costs  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+delivering  good  health  care  outcomes,  but  it's  concerned 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  the  financial  well­being  of  its  senior  citizens. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  in  fact,  they've  asked  the  Department  of  Labor  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+permit  State  ­­ States  to  operate  their  own  ERISA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pension  plans  for  their  residents. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Now,  they  could  pass  a  database  statute  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+says,  we're  really  concerned  about  whether  elderly,  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+know,  Vermonters  are  going  to  have  enough  money  in  their 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+elder  years,  and  we  know  that  93  million  people  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+covered  by  employer  pension  plans,  and  we  just  want  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  report  ­­ you  can  pay  whatever  you  want,  but  we  want 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  to  keep  records  and  report  to  us  about  what  your 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plan  is  and  how  much  money  people  are  going  to  have  when 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  retire.  Every  single  dollar  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+JUSTICE  BREYER:  Why  can't  you  do  this? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  WAXMAN:  Well,  every  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  BREYER:  Why  can't  you  ­­ why  can't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  simply  go  ­­ and  the  statute  says,  1143(a)(1)  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statute  says  that  the  Secretary  of  Labor  and  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+authorities  ­­ broad  in  these  ­­ has  authority  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+undertake  surveys  and  collect,  compile,  analyze,  publish 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+data  information  and  statistics  on  welfare  plans.  Okay? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+That's  ERISA  welfare  plans. 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  you  go  to  them. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+38 
+
+MR.  WAXMAN:  Well  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  BREYER:  And  you  say,  DOL,  we  want 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+you  to  promulgate  a  reg  that  says  you  will  collect  some 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  this  information,  but  even  if  you  collect  ­­ don't 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+collect  it  all,  you  let  the  States  collect  the  rest. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  WAXMAN:  Just  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  BREYER:  Now,  they  can  prevent  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  being  burdensome. 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  Justice  Breyer,  I  know  how 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+exciting  it  is  to  get  in  the  middle  of  a  jurisprudential 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+debate  between  you  and  Justice  Scalia. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+JUSTICE  BREYER:  But  this  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+MR.  WAXMAN:  I  ­­
+
+    
+
+ 
+
+JUSTICE  BREYER:  I  don't  see  ­­ this  is  not 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+­­ go  ahead. 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  I'm  ­­ my  ­­ my  fingers  are 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tingling  at  the  prospect.  I  am  not  sure  ­­
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+(Laughter.) 
+
+            
+
+MR.  WAXMAN:  I  am  not  sure  that  the 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department  of  Labor  has  the  regulatory  authority  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+essentially  excuse  the  preemption  provision,  but  ­­ and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  don't  have  to  just  go  to  the  provision  of  ERISA  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  quoted  ­­ in  1024(a)(2)(B)  of  ERISA,  it  authorizes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  Secretary  of  Labor  to  require  the  production  of, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+quote,  "any  information  or  data  from  an  ERISA  plan  where 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+39 
+
+he  finds  that  such  data  or  information  is  necessary  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+carry  out  the  purposes  of  this  subchapter."  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+adverting  to  Justice  Alito's  comments,  in  the  ACCA,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Secretary  has  the  authority  to  require  the  production 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  ­­ from  plans  of,  quote,  "any  other  information  as 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+determined  appropriate  by  the  Secretary." 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  the  notion  that  preemption  here  is  sort 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  like  an  ­­ operates  like  an  accordion  ­­ if  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department  of  Labor  has  the  authority  to  get  it  but 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hasn't  chosen  to  exercise,  it's  not  preempted;  but  if 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  did  promulgate  a  regulation,  either  of  your  color 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+or  Justice  Scalia's  color,  that  it  would  be  preempted  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  a  crazy  ­­ is  a  crazy  notion. 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  You  might  think  this  is  not 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sane,  but  what  I'm  ­­ the  way  I'm  seeing  it  here  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  are  two  competing  problems.  One  is  they  should  be 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+able  to  get  information  like  this  in  the  States. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+But  two,  there  is  a  problem  of  burden. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  I  think  there  are  probably  100  or  200 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  in  Department  of  Labor  and  HHS  that  could  write 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regs  that  reconcile  those  problems  and  allow  both.  But 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  can't,  because  I'm  a  judge. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+So  what  I'm  trying  to  figure  out  is  how  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+interpret  this  statute  in  a  way  that  achieves  those 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+objectives. 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+40 
+
+            
+
+MR.  WAXMAN:  How  to  interpret  this  statute 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+as  to  say  that  in  exchange  for  blanket  Federal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulation  of  these  plans,  now  augmented  in  the  context 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  health  care  plans  by  the  Affordable  Care  Act,  the  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+by  the  Federal  government,  the  States  are  preempted  from 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulating  the  core  functions  of  what  an  ERISA  plan 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does.  And  there  is  nothing  more  core  than  the  payment 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  benefits. 
+
+ 
+
+            
+
+If  the  State  is  attempting  to  regulate, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whether  it's  by  substantively  regulating  or  imposing  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+recordkeeping  or  reporting  obligation  about  the  very 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+activity  that  defines  it  as  an  ­­ as  an  ERISA  plan,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+payment  of  benefits,  that  State  law  necessarily  relates 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to,  because  it  has  a  connection  with,  an  ERISA  plan. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  frankly,  it's  pretty  ironic  that  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Petitioner  and  the  government  claim  on  the  one  hand  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  is  so  important  to  get  this  information  from  these 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans  because  60  percent  of  all  citizens  in  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+United  States  get  their  health  care  from  these 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+self­funded  plans,  and  yet  requiring  them  to  keep  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+particular  records  that  the  State  wants  and  to  report  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+on  a  quarterly,  annually,  or  monthly  basis,  has  no 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+relation  to  or  connection  with  the  plan.  I  don't 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+understand  how  both  of  those  thoughts  can  inhere  at  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+same  time. 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+41 
+
+            
+
+JUSTICE  KAGAN:  Mr.  Waxman,  I  guess  I  just 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+don't  understand  this  argument.  I  ­­ I  ­­ I  mean,  I  ­­
+
+    
+
+   
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+I  understand  completely  that  there  should  be  some 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+restriction  on  overly  burdensome  State  regulations  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whatever  kind.  You  know,  it  could  be  taxes,  it  could  be 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+day  care,  it  could  be  anything.  Right?  But  why  is  it 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  this  regulation  falls  in  a  different  category  than 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+taxes  or  childcare  or  anything  else?  Because  the  State 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+here  clearly  is  not  attempting  to,  and  is  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulating,  payment  of  benefits.  It's  doing  something 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  has  an  effect  on  your  operations,  no  doubt,  but  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State  is  operating  in  a  completely  separate  area  for 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+completely  separate  purposes  in  a  way  that  does  not 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+trump  or  conflict  with,  or  anything  else,  the  choices 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  ERISA  has  made  as  to  payment  of  benefits. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  Okay.  I  ­­ I  want  to  ­­ I  want 
+
+    
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+to  come  to  the  end  and  dispute  that  premise  that  you  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  end  of  your  question.  But  if  the  ­­ if  you  look  at 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  Court's  cases  that  have  set  about  to  evaluate  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+burden,  or  at  least  included,  as  in  the  last  section  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Travelers,  a  section  that  says  of  course  if  this  were 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+terribly  burdensome  there  might  be  another  question, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  are  cases  ­­ and  it's  Travelers,  Dillingham,  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+De  Buono.  We  all  agree  on  that  ­­ those  were  all  cases 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  which  there  was  a  burden  being  placed  on  an  entity 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+42 
+
+that  wasn't  ­­ in  Travelers  it  was  hospitals;  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+De  Buono  it  was  hospitals;  in  Dillingham  it  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+apprenticeship  programs,  all  of  which  affected  the  price 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  ERISA  plans  might  have  to  pay  to  get  benefits  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+services  from  those  kinds  of  providers. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  so  it  took  several  sentences  in  each  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  ­­ several  paragraphs  in  each  of  those  opinions 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+even  to  explain  how  putting  a  tax  on  the  non­Blue  Cross 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+insurance  plans  in  Travelers,  or  respecting  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prevailing  wage  rate  in  California,  actually  had  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+effect  on  any  ERISA  plan  anyway,  because  they  weren't 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulation  of  the  plans,  per  se.  They  were  indirect 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulations.  And  when  the  regulation  is  indirect,  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is,  it  is  not  a  regulation  that  is  directed  at  the  very 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+activity  that  makes  the  plan  an  ERISA  plan,  you  do  look 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+at  burden.  And  indirect  regulation  obviously  can  occur. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+But  if  ­­ as  this  Court  explained  in  the  last  section  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Travelers,  if  it's  too  burdensome,  it  might  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preempted. 
+
+            
+
+But  where  the  regulation  is  direct,  where 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  State  is  requiring  reporting  because  the  self  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because  the  self­insured  plan  is  engaged  in  the  very 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+activity  that  brings  it  under  ERISA  that  qualifies  it  as 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  ERISA  plan,  that  obviously  relates  to  and  has  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+connection  with  the  plan,  and  is  preempted. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+43 
+
+            
+
+JUSTICE  GINSBURG:  You're  ­­ you're  saying 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  State  simply  cannot  have  an  all  ­­ all­payer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+database,  that  that's  out  because  ERISA  precludes  it, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+even  though  it's  going  to  leave  a  big  hole  in  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  that  the  State  has  about  that  health  care 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+being  given  to  its  citizens, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  I  don't  think  that  that's  at 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+all  the  case,  Justice  Ginsburg,  and  I  don't  want  to  be 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+misunderstood  about  this. 
+
+ 
+
+ 
+
+            
+
+The  State  of  Vermont,  just  to  take  one 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+example:  The  database  statute  authorizes  the  relevant 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Secretary  to  obtain  this  information  from  everybody,  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+only  who  pays  for  health  care  in  Vermont,  but  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hospitals  and  clinics  that  provide  it.  But  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Secretary,  the  executive  official  has  chosen  not  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+require  that  information  from  hospitals  and  clinics  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doctors  in  Vermont. 
+
+ 
+
+ 
+
+            
+
+There  is  also  no  doubt  that  if  all­payer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+claims  databases  so  badly  need  the  information  from 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+self­funded  plans,  and  it  turns  out  that  the  self­funded 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plan  ­­ a  significant  number  of  self­funded  plans  say 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+no,  that's  preempted,  the  Federal  government  has  all  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+authority  it  needs  to  get  that  information  and  require 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  that  information  be  provided,  either  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Secretary  and  then  to  the  States,  or  directly  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+44 
+
+States. 
+
+            
+
+And  in  fact,  they  can  do  what  often  happens 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  areas  of  field  preemption  and  express  preemption, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+which  is  to  make  it  worth  the  plan's  while.  You  know? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+They  can  offer  all  sorts  of  benefits  to  self­employed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans  to  provide  this  information  if  it's  so  important. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+What's  interesting  when  we're  talking  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  is  or  isn't  in  the  record  in  this  case,  is  no 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+explanation  whatsoever  from  the  State  of  Vermont  at  any 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stage  as  to  why  they  haven't  requested  the  actual 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+providers  of  these  health  care  services  to  provide  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  and  that  it  is  inadequate.  I  mean,  the  ­­
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ the  only  exchange  I  can  recall  is  in  the  Second 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Circuit  oral  argument  transcript,  which  is  recorded  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+discussed  in  Judge  ­­ Judge  Straub's  dissenting  opinion, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  State  was  asked,  you  know,  look,  how  important  is  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  get  the  ­­ the  ­­ the  district  judge  ­­ I  think  it 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+was  the  district  judge  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  Well  ­­ well,  as  ­­ as 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you're  explaining  this,  it  just  seems  to  me  it's  much 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+easier  to  ask  the  plan  provider  than  to  ask  15  doctors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  ­­ in  ­­ in  one  small  town,  and  50  others,  and  all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  patients  ­­
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  WAXMAN:  You  know  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  ­­ unless  I  misunderstand 
+
+   
+
+  
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+45 
+
+your  point  ­­
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  WAXMAN:  No,  you're  not. 
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  ­­ it  seems  to  me  it's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+much  ­­ much  easier. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  It  ­­ perhaps  it's  easier,  but 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+here's  the  point.  And  this  is  the  insight  of  the  ERISA 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preemption  provision:  The  hospitals  in  Vermont,  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+clinics  in  Vermont,  the  medical  practices  in  Vermont  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  subject  to  varying  regulation  in  50  different 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+States.  They  operate  locally.  They're  subject  to  State 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulation. 
+
+            
+
+Here,  we're  talking  about  plans  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  wanted  to  encourage  that  would  do  something 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+new,  that  would  provide  health  care  benefits  and  other 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+employee  benefits  on  a  national  basis,  and  in  order  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+foster  that,  to  subject  them  to  a  single  set  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reporting,  recordkeeping,  and  regulatory  obligations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  that,  it  seems  to  me,  is  the  insight  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ERISA.  And  it  was  the  ­­ the  bargain  that  ERISA  plainly 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+struck. 
+
+              
+
+I  ­­ I  simply  noted  in  response  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Ginsburg's  question  that  the  State  statute  gives 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+them  the  authority  to  do  it.  There  aren't  that  many 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hospitals  in  Vermont.  They  already  have  all  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  about  what  services  are  or  aren't  being 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+46 
+
+provided. 
+
+            
+
+The  State  could  have  said,  no,  no,  no.  We 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+absolutely  can't  get  by  without  this.  But  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+representation  at  oral  argument  in  front  of  the  judge, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+which  has  also  been  transcribed  and  is  in  the  record, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  State  ­­ the  lawyer  representing  the  State  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+judge  was  sort  of  trying  to  settle  this  case  and  said, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  know,  how  much  do  you  really  need  this  information? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  the  response  was,  we  don't  really  need  it.  This  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  a  couple  of  employees.  This  is  just  one  plan.  But 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there's  a  principle  here. 
+
+   
+
+ 
+
+            
+
+And  we  agree  with  that.  And  we  also  agree 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  the  representations  of  my  friends  on  the  other  side 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  question  for  this  Court  ­­ it  has  to  take 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+account  of  the  possibility,  which  is  the  emerging 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reality,  that  all  50  States  and  the  District  of  Columbia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  Puerto  Rico  will  have  their  own  mandatory  all­payer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+claims  databases  that  will  require  different  things. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  if  I  can  just  anticipate  Justice 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sotomayor's  question  reserved  for  rebuttal  to  ­­ to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State  of  Vermont,  our  brief  explains,  and  the  Blue  Cross 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Blue  Shield  brief  also  explains,  how  there  are  ­­ of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hundreds  of  data  fields  that  Vermont  alone  requires, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  are  dozens  of  them  as  to  which  there  is  no  ICD  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whatever  the  ­­ the  ­­ the  agreed  national  format  is. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+47 
+
+There  are  dozens  and  dozens  of  them  as  to  which  there  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+no  HIPAA  standard,  no  HIPAA  guarantee  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+confidentiality.  And  this  is  just  one  State.  If  you 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+look,  as  I  said,  at  the  Massachusetts  APCD  statute, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+which  is  the  only  other  State  that's  actually  come  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Liberty  Mutual  so  far,  and  look  at  our  discussion  of  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+on  Page  36,  the  stuff  that  they  are  asking  for  is  so 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+obviously  critical  to  what  the  plan  does. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  But  this  is  ­­ this 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  is  provided  by  Blue  Cross  for  some 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+self­insured  plans,  right? 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  I  believe  that  ­­ I  believe 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+that  the  record  shows  that  Blue  Cross  Blue  Shield 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+provides  this  information  to  Vermont,  not  only  on  behalf 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  itself  as  an  insurer,  but  also  some  other  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  And  do  we  know  ­­ do  we 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+know  what  costs  Blue  Shield  then  passes  on  to  those 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+other  self­insured  plans? 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  We  don't  know  it.  We  were  not 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+able  to  get  it  from  Blue  Cross  at  the  time  the  case  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+before  the  district  judge. 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  in  any  event,  as  the  Chief  Justice's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+question  suggests,  the  ­­ this  issue  doesn't  end  at 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vermont.  It  ­­ it  has  to  take  account  of  a  burden  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  was  very,  very  aware  of,  it  was  very  cognizant 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+48 
+
+of  the  regime  under  the  Repeal  Disclosure  Act,  and  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+costs  of  plans  that  are  trying  to  be  national  plans 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+complying  with  50  different  State  regulations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  I  really  commend  to  the  Court  the  amicus 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+brief  filed  by  the  multi­employer  plans  in  this  case. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+These  are  plans  that  are  essentially  union­sponsored 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plans.  They  are  not  fancy  plans.  Every  dollar  that 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  have  to  spend  comply  ­­ gathering  the  data  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+each  State  ­­ that  different  States  say  they  have  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  comes  directly  out  of  the  benefits  that  they  can 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pay.  Just  as  if  ­­ if  Vermont  decides  next  week,  if  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wins  this  case,  that  it  wants  to  get  information  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pension  plans,  and  how  they're  being  administered,  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  benefits  are  being  provided  and  not  provided,  those 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are  all  100  percent  self­funded  plans.  If  my  employer 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  to  provide  all  that  information,  that  is  coming  out 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  my  401(k)  benefits. 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Mr.  Waxman,  could  a  State 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+pass  a  tax  law  that  requires  information  about  ­­ about 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pension  disbursements,  about  claim  payments,  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+assets  held  in  trust?  Could  a  State  do  that? 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  I  don't  think  that  a  State  ­­
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+when  you're  saying  requested  information  or  imposing  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tax? 
+
+            
+
+JUSTICE  KAGAN:  A  tax  law  that  requires 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+49 
+
+information  of  various  kinds. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  I  don't  think  a  ­­ I  don't 
+
+    
+
+   
+
+   
+
+ 
+
+ 
+
+think  a  State  can  impose  a  tax  on  benefits  that  are  ­­
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Not  impose  a  tax,  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+requires  information  in  order  to  ensure  that  the  State 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  taxing  the  right  things. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  In  other  words,  we  want  to  tax 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  benefits  that  you're  getting  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Do  you  think  that  a  State 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+tax  law  can't  require  any  information  about  any  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+things  that  ERISA  does,  that  the  plans  do,  pension 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+disbursements,  assets,  claim  payments,  nothing? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  WAXMAN:  I  ­­ I  think  not.  I  think  that 
+
+    
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+the  State  ­­ I  mean,  I  don't  think  this  case  turns  on 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it,  but  thinking  about  it,  if  the  State  could  say,  look, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  just  want  to  know  all  the  benefits  that  you  pay  every 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+one  of  our  residents,  I  think  that  would  be  preempted. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+As  I  say,  that's  ­­ that's  not  what's  going 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+on  here.  And  even  if  I'm  wrong  about  it,  it  seems  to  me 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  this  is  quite  different.  You  know,  there  is  a  lot 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  discussion  on  the  other  side  of,  you  know,  this  just 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requires  the  press  of  a  button  and  all  the  information 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+goes. 
+
+            
+
+And  our  brief  goes  on  for  pages  and  pages, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  the  other  amici  ­­ amicus  briefs  show  how  that  is  so 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+50 
+
+far  from  true.  In  order  to  comply  with  these,  it's  not 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  a  question  of  saying,  oh,  yes,  we  paid  Seth  Waxman 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$300  in  benefits  last  year.  This  requires  that  we  keep 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+records  that  we  don't  keep,  and  that  we  display  them  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+provide  information  in  ways  that  we  don't,  and  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+differ  from  one  State  to  another.  And  for  those 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasons,  unless  the  Court  has  questions,  I  will  submit 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  judgment  should  be  affirmed. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ms.  Asay,  you  have  three  minutes  remaining. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+          
+
+REBUTTAL  ARGUMENT  OF  BRIDGET  C.  ASAY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ON  BEHALF  OF  THE  PETITIONER 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MS.  ASAY:  Thank  you. 
+
+  
+
+ 
+
+ 
+
+I'd  like  to  begin  with  Justice  Sotomayor's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+question  about  the  standardized  data,  because  I  think 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  ties  in  nicely  with  many  questions  from  the  Court 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  the  question  of  burden. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  the  way  that  electronic  claims 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+transactions  work  is  not  something  that  the  State  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vermont  invented.  It's  part  of  HIPAA.  It's  a  Federal 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulation  called  the  Electronic  Transaction  Rule,  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  sets  standardized  coding  and  formatting  requirements 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  the  transaction  between  the  payer  and  the  provider. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  we  ­­ we  don't  even  have  to  look  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulation  for  that,  although  that's  in  45  C.F.R.  Part 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+51 
+
+160,  but  it's  actually  in  the  record  at  Joint 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix  66.  This  is  the  agreement  between  Blue  Cross 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  Liberty  Mutual,  which  says  that  Blue  Cross  shall  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+capable  of  transmitting  electronic  data  for  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+transaction  standards  have  been  promulgated  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+compliance  with  HIPAA  Electronic  Transactions  Rule  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+shall,  to  the  extent  possible,  transmit  electronic  data 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  accordance  with  that  rule. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+That  is  how  third­party  administrators  work, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  that  is  why  self­insured  plans  nearly  always  have  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+third­party  administrator,  which  is  typically  a  health 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+insurer  to  process  claims,  because  although  it  may  look 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+on  the  surface  as  though  these  reporting  requirements 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  the  ­­ the  data  collection  seems  very  complicated, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it's  complicated  not  because  of  anything  Vermont  has 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+done.  It's  because  there  is  the  standardized  national 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standard  for  how  this  data  is  collected,  which  is  fairly 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+specific,  fairly  detailed,  and  they're  already  doing  it. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  it  is  generating  a  pool  of  tremendously 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+helpful  data  that  has  incredible  potential  to  help 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+States  and  the  Federal  government  figure  out  ways  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bend  the  cost  curve  and  improve  the  provision  of  health 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+care  delivery  to  everyone  in  the  country. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  Affordable  Care  Act  expressly 
+
+ 
+
+ 
+
+ 
+
+ 
+
+contemplated  that  States  would  do  this  kind  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+52 
+
+experimentation.  It  authorized  the  Federal  government 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  provide  Medicare  claims  data  to  the  States.  It 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+authorized  ­­ it  created  the  Center  for  Medicare  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Medicaid  Innovation,  which  then  authorized  States  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+experiment,  to  develop  new  models  for  delivery,  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+then  need  to  be  tested  and  evaluated.  And  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+United  States  has  explained  in  its  brief  that  those 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+programs  depend  upon  the  collection  of  all­payer  data, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+which  is  something  only  the  States  are  doing. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  promise  here  is  enormous,  and  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fact  ­­ and  the  loss  of  this  data  to  the  plans  would  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tremendous.  I  would  like  to  address  briefly  one  issue 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  my  friend  raised,  which  is  the  question  of  provider 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+data.  Vermont  does,  in  fact,  collect  provider  data,  and 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we've  collected  it  for  a  very  long  time.  It's  called 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hospital  discharge  data,  and  it  was  one  of  the  first 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+data  sets  that  researchers  looked  to.  But  it's  not  as 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+helpful  as  all­payer  data,  and  here's  why. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Hospitals  don't  have  information  that  tracks 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+care  across  an  episode  of  care.  If  someone  has  their 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+knee  replaced,  it  starts  with  the  doctor's  visit,  their 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+surgery.  There's  an  anesthesiologist.  There's  a  stay 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+at  a  rehab  facility.  There's  follow­up  physical 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+therapy.  And  if  you're  trying  to  compare  outcomes  and 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+costs  for  a  procedure  like  that,  it's  the  payer,  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+ 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+53 
+
+centralized  payer,  as  Justice  Kennedy  said,  who  has  all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  information.  There's  only  a  few  of  them.  That  is 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  real  power  of  the  data,  and  it's  not  in  the  hospital 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+data.
+ 
+
+            
+
+Thank  you. 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  case  is  submitted. 
+
+ 
+
+ 
+
+ 
+
+            
+
+(Whereupon,  at  11:01  a.m.,  the  case  in  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+above­entitled  matter  was  submitted.) 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+Official
+
+affect 3:14,16 6:11 
+
+anti­preemption 
+
+A 
+
+a.m 1:17 3:2 53:8 
+able 16:14,17 33:10  affirmed 50:8 
+
+8:13 13:2,16,19 
+
+8:4,17 12:17 
+14:16 
+
+Affordable 7:17,18  anticipate 46:19 
+
+8:3,5,7,18,25 
+12:10 14:17 34:13  ALFRED 1:3 
+40:4 48:1 51:24 
+
+ALITO 7:15,17 
+
+Page 54 
+
+17:3,13,16 18:5,8  basically 6:15 
+50:10,11,13 
+
+basis 29:1 40:22 
+
+asked 37:4 44:16 
+asking 15:8 16:22 
+
+47:7 
+
+assess 19:23 
+assets 19:21 34:17 
+
+48:21 49:12 
+Assistant 1:21 
+associated 24:25 
+Association 6:4 
+
+35:9 36:18 
+
+associations 23:1 
+assumptions 36:3 
+assurance 15:20 
+attempting 40:9 
+
+41:9 
+
+audited 7:11 
+augmented 40:3 
+authorities 37:21 
+authority 16:14 
+
+45:15 
+
+began 35:23 
+behalf 1:20,24 2:4 
+2:11,14 3:8 29:21 
+47:14 50:12 
+
+believe 5:4 47:12 
+
+47:12 
+
+bend 51:22 
+benefit 12:6 19:8 
+
+29:25 30:10 
+
+benefits 3:16,18 
+10:1 17:18 19:8 
+25:6,12,24 40:8 
+40:13 41:10,15 
+42:4 44:5 45:14 
+45:15 48:10,14,17 
+49:3,8,16 50:3 
+
+big 22:21 23:3 
+26:18,23 43:4 
+
+19:22 23:14 33:2  bit 5:15 22:19 29:1 
+37:21 38:20 39:4  blanket 31:15 40:2 
+39:9 43:23 45:23  blocking 23:14 
+
+authorize 4:24 
+authorized 13:23 
+14:20 52:1,3,4 
+authorizes 4:25 
+
+12:14 38:23 43:11 
+
+authorizing 7:19 
+available 36:15 
+aware 31:13 47:25 
+
+badly 43:19 
+bargain 45:19 
+Bash 1:21 2:6 18:9 
+
+18:10,13 20:21 
+21:13 22:5,7,11 
+23:17 24:6,16 
+25:18,25 26:4,8 
+27:2,13 28:11 
+29:2,7 
+
+basic 15:25 28:19 
+
+Blue 3:20 26:17,17 
+
+26:23,23 27:7,8 
+31:2,3 33:20,21 
+33:22,22 34:25,25 
+35:6,8,9,13,13,15 
+35:16 36:15,15,18 
+36:18 46:21,22 
+47:10,13,13,17,20 
+51:2,3 
+
+board 1:6 4:13,18 
+
+5:7 
+
+books 9:1 
+bought 24:21 
+Breyer 9:9,18,21 
+9:23 10:7,13,16 
+10:24 11:16 14:22 
+16:8,22 22:23 
+26:16 27:10 31:19 
+31:21 32:3,7,20 
+37:16,18 38:2,7,9 
+38:12,14 39:14 
+
+Breyer's 18:16 
+
+7:21 8:3,5,18,25 
+14:13,15,17 40:4 
+51:24 
+
+agencies 32:16 
+agency 16:20 
+agree 16:2 18:22 
+
+23:25 24:19 32:15 
+41:24 46:12,12 
+
+agreed 46:25 
+agreement 51:2 
+agrees 12:1 
+ahead 16:21 38:15 
+
+8:12,14,22 12:12 
+13:6 
+
+Alito's 18:17 39:3 
+all­payer 43:2,18 
+
+46:17 52:8,18 
+
+allow 39:21 
+allowed 34:15 
+amendment 7:22 
+
+13:7 14:13 
+
+amendments 7:23 
+
+8:9 13:1 
+
+amici 49:25 
+amicus 1:23 2:7 6:3 
+
+anyway 33:21 
+
+42:11 
+
+APCD 35:25 47:4 
+APPEARANCES 
+
+1:18 
+
+Appendix 31:6 
+
+51:2 
+
+applicable 5:9 
+application 8:6 
+applied 9:22 13:21 
+13:25 14:1 17:18 
+29:16 
+
+applies 4:10 
+apply 4:3,6,14 
+
+36:24,24 
+
+apprentice 20:1 
+apprenticeship 
+
+12:8 20:3,5 29:11 
+42:3 
+
+approach 32:15 
+appropriate 28:13 
+
+39:6 
+
+area 6:21,22 10:5 
+11:22 12:1 22:8 
+41:12 
+
+areas 12:9 13:4 
+
+44:3 
+
+39:17 47:20 
+
+above­entitled 1:15 
+
+53:9 
+
+absolutely 30:23 
+33:1 36:17 46:3 
+
+ACA 18:17 
+ACCA 32:11 39:3 
+accordion 39:8 
+account 46:15 
+
+47:24 
+
+achieves 39:24 
+act 7:18,18,21,24 
+
+Act's 7:23 14:13,15 
+activity 40:12 
+
+42:15,23 
+
+actual 11:4 44:10 
+actuarial 7:10 36:3 
+add 34:15 
+added 8:10,19 
+
+13:15 
+
+addition 14:14 
+address 34:22 
+
+52:12 
+
+adds 24:14,15 
+administer 3:17 
+administered 27:19 
+
+48:13 
+
+administration 
+
+21:5 25:6,24 30:2 
+
+administrative 
+
+25:13 
+
+administrator 
+
+18:11 22:25 36:18  argued 3:22 
+48:4 49:25 
+
+argument 1:16 2:2 
+
+analysis 6:12 17:12 
+17:14 21:22 24:3 
+28:10,25 
+
+analyze 37:22 
+analyzing 25:14 
+
+B 
+2:5,9,12 3:3,7 
+back 33:15 
+12:13,19 18:10 
+21:12 24:10 29:20  bad 27:23 
+41:2 44:14 46:4 
+50:11 
+
+26:11 35:16 51:11  ancillary 30:5 
+
+administrators 
+5:23 29:13,14 
+51:9 
+
+adopt 25:19 36:11 
+adopted 3:12 9:7 
+
+12:5 25:15 
+
+adverting 39:3 
+
+anesthesiologist 
+
+52:22 
+
+annual 7:25 
+annually 40:22 
+answer 4:2 6:25 
+
+10:4,25 11:16,18 
+15:10 28:9 
+
+Asay 1:19 2:3,13 
+3:6,7,9 4:13,25 
+5:4,20 6:13 7:7,21 
+8:13,21,23 9:16 
+9:20,22 10:4,11 
+10:15,22 11:15,18 
+12:23 13:14 14:2 
+14:11 16:4,13,18 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Official 
+
+36:23 
+
+42:10 
+
+26:13 
+
+BRIDGET 1:19 2:3  called 50:21 52:15 
+
+2:13 3:7 50:11 
+
+capable 51:4 
+
+changed 9:5 
+changes 13:20 
+
+brief 6:3 26:17 27:8  capacity 1:4 5:25 
+
+27:19 
+
+33:5 35:9,11 36:1 
+36:18,19 46:21,22  care 1:6 3:13 4:15 
+48:5 49:24 52:7 
+
+32:17 
+
+27:2,3 36:6 
+
+changing 13:24,25 
+charge 35:21 
+4:20 5:10,23 6:24  charges 36:2 
+7:3,17,18,21 8:3,5  chart 23:3 26:18 
+8:18,25 9:3,7,9 
+11:3,20,21 12:8,8  Chief 3:3,9 7:16 
+12:16,22 13:9,10 
+14:4,13,15,17 
+15:15 19:1,2 
+20:11,11,17 27:16 
+33:10 37:1,2 40:4 
+40:4,19 41:6 43:5  childcare 30:10 
+43:13 44:11 45:14 
+51:23,24 52:20,20  choices 41:14 
+
+41:8 
+
+choose 6:1 30:8 
+careful 17:24 
+chosen 4:18,23 
+carefully 6:5 
+carry 39:2 
+39:10 43:15 
+case 3:4 6:19 10:17  Circuit 44:14 
+
+citizens 37:3 40:18 
+
+43:6 
+
+10:17 17:8,9 19:6  cited 34:10 
+20:1 21:22,24 
+22:24 24:21 30:13 
+32:9,15 35:10 
+43:8 44:8 46:7 
+47:20 48:5,12 
+49:14 53:7,8 
+cases 17:8 25:9 
+
+claim 21:7 40:16 
+
+48:20 49:12 
+
+claims 6:7 26:14 
+
+briefly 52:12 
+briefs 6:3 22:25 
+
+49:25 
+
+brings 42:23 
+broad 31:16 37:21 
+broader 14:4 
+budget 11:21 20:14 
+Buono 5:12 14:6 
+17:14 19:6,24 
+25:4 41:24 42:2 
+
+burden 4:21,22 
+
+5:22 15:15 18:18 
+23:19,20,22,23 
+24:1,4 25:5,10 
+27:23 28:7,7,17 
+29:9,10 30:23 
+31:13 33:16 34:9 
+34:21 35:5,13 
+36:9 39:18 41:20 
+41:25 42:16 47:24 
+50:17 
+
+burdensome 3:24 
+
+5:17,19 6:11 
+17:11 20:19 21:4 
+21:8,20,25 24:17 
+24:24 25:2 26:12 
+26:14 27:18 35:17 
+38:8 41:4,22 
+42:18 
+
+18:7,9,13 25:8,21  Columbia 46:16 
+26:1,2,5 28:4,12 
+28:18 29:2,3,6,18 
+29:22 36:13 47:22 
+50:9 53:6 
+
+come 11:8,11 16:15 
+
+26:11 32:8,8 
+41:17 47:5 
+comes 48:10 
+coming 36:10 48:16  connection 40:14 
+commend 48:4 
+comments 39:3 
+commercial 24:22 
+Commissioners 
+
+consider 5:3 17:8 
+
+40:23 42:25 
+
+28:13 
+
+52:14 
+
+collected 51:17 
+
+52:15 
+
+collecting 3:19 
+
+13:10 
+
+collection 3:12 7:4 
+
+12:3,4,15,21 
+13:21 32:12 51:14 
+52:8 
+
+color 39:11,12 
+
+26:20 
+
+Commonwealth 
+
+35:23 
+
+companies 29:14 
+Company 1:10 3:5 
+compare 52:24 
+competing 39:16 
+compile 28:24 
+
+Page 55 
+
+conference 34:11 
+confidentiality 
+
+47:3 
+
+conflict 4:1 21:10 
+
+21:14 22:4 23:4,5 
+23:5 41:14 
+
+conflicting 15:22 
+
+16:12 27:3,5 
+31:25 32:13 
+
+Congress 6:21 8:25 
+9:4 12:5,25 13:5,7 
+14:6,17 15:20 
+17:6 31:14 34:9 
+34:16,18 36:9 
+45:13 47:25 
+
+considered 14:3 
+considering 13:4 
+consistent 25:9 
+contemplate 25:19 
+contemplated 
+14:18 51:25 
+
+contends 30:18 
+context 40:3 
+contributions 19:7 
+converse 31:19,21 
+
+31:22 
+
+core 3:15 13:8 14:9 
+
+14:10,11 19:15 
+20:4,7 21:15 40:6 
+40:7 
+
+41:19,23,24 
+category 41:7 
+center 20:12 28:20 
+
+30:10 52:3 
+
+centers 12:8 19:1,2 
+
+30:19 36:6 43:19 
+46:18 50:18 51:12  completely 41:3,12 
+52:2 
+
+37:22 
+
+41:13 
+
+classic 6:24 9:7 
+
+compliance 51:6 
+complicated 51:14 
+
+11:19 20:16 
+classify 22:17 
+clear 16:16,19 17:1  comply 28:21 31:3  Correct 9:21 
+cost 31:2 34:4 
+35:21 51:22 
+
+complying 29:10 
+
+48:8 50:1 
+
+17:1,3 
+
+51:15 
+
+28:16,21,25 
+bureaucracy 25:13  central 10:18 
+bureaucratic 15:18  centralized 53:1 
+businesses 30:5 
+button 49:22 
+
+cents 31:2,11 
+certain 19:15 20:20 
+certainly 6:1 13:14 
+
+C 
+
+19:21 
+
+C 1:19 2:1,3,13 3:1  CHAIR 1:4 
+
+3:7 50:11 
+C.F.R 50:25 
+California 20:2 
+
+challenged 5:6 
+change 3:17 7:24 
+
+8:24 14:2,5,7 
+
+clearly 17:19 41:9 
+clients 32:9 
+clinics 43:14,16 
+
+45:8 
+
+close 10:12,13,15 
+coding 50:22 
+cognizable 5:22 
+cognizant 47:25 
+collect 13:9 16:6,8 
+37:22 38:3,4,5,5 
+
+48:3 
+
+comprehensive 
+
+28:19 
+
+computer 18:4 
+concerned 6:23 
+22:19 37:1,2,8 
+conclusion 28:2 
+conduct 13:23 
+conducting 13:23 
+
+costly 5:19 
+costs 32:3 37:1 
+
+47:17 48:2 52:25 
+counsel 18:7 29:18 
+
+50:9 53:6 
+
+counterpoints 27:4 
+country 51:23 
+couple 8:2 26:8 
+
+32:20 46:10 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+28:19,24,24 32:12  designed 6:5 27:19  display 50:4 
+dispute 41:17 
+33:20,20,21,22 
+29:11 34:22 
+disputed 32:23 
+37:23 38:25 39:1  designs 36:3 
+46:23 48:8 50:15  destabilize 22:22 
+disputes 20:13 
+dissenting 44:15 
+51:4,7,14,17,20 
+52:2,8,11,14,14 
+distilled 6:15 
+52:16,17,18 53:3 
+53:4 
+
+detail 35:10 
+detailed 51:18 
+determination 28:1  district 31:12 36:7 
+
+34:18 
+
+44:17,18 46:16 
+47:21 
+
+database 3:13 4:14  determined 39:6 
+
+course 26:5 28:22 
+29:4 30:4 33:12 
+35:14,19 41:21 
+court 1:1,16 3:10 
+3:11 5:11 13:3 
+17:5,17 18:14 
+19:9 21:21 22:15 
+22:20 24:17 26:25 
+27:22 28:2,13 
+29:23 30:13,14 
+31:12,12 32:14,22  databases 43:19 
+32:22 34:11,18 
+35:17 36:7 42:17  day 12:8,18 19:1,2 
+46:14 48:4 50:7 
+50:16 
+
+daycare 28:16,20 
+
+37:7 43:3,11 
+
+20:11 41:6 
+
+46:18 
+
+determining 31:14  diversion 25:23 
+develop 52:5 
+doctor's 52:21 
+devise 24:12 
+doctors 43:17 
+dicta 27:25 
+differ 50:6 
+different 3:24 5:15  doing 7:14 10:7 
+
+doctrinally 22:17 
+
+44:21 
+
+22:15 26:6 41:10 
+51:18 52:9 
+
+6:9 13:19 15:14 
+16:12 17:11 21:9 
+21:14 24:12,13,13  DOL 14:23 19:20 
+25:1,16,19,22 
+28:6,9,14,15,15 
+28:22 31:9 33:17  dollar 37:15 48:7 
+34:21 41:7 45:9 
+46:18 48:3,9 
+49:20 
+
+dollars 31:2,11 
+doubt 11:5 41:11 
+
+DOL's 18:21 
+
+43:18 
+
+38:2 
+
+doubts 19:3 
+dozens 46:24 47:1 
+
+47:1 
+
+draw 19:11 
+19:25 25:4 29:12  driving 11:4 
+duties 20:10 
+41:23 42:2 
+
+Court's 6:14 14:5 
+19:6 21:22 25:3 
+41:19 
+
+courts 22:20 30:15 
+
+30:24 
+
+covered 4:15,18 
+
+37:11 
+
+28:21,25 
+days 15:1,1 
+De 5:12 14:6 17:14 
+
+19:6,24 25:4 
+41:24 42:2 
+debate 38:11 
+December 1:13 
+decide 32:18 
+decides 48:11 
+deciding 31:15 
+decision 30:14 
+decisions 5:11 
+
+11:24 
+
+differently 6:2 
+
+covers 7:6 
+coyly 33:6 
+crazy 39:13,13 
+create 26:20 
+created 52:3 
+critical 47:8 
+Cross 3:20 26:17 
+26:23 27:8 31:3 
+33:20,22 34:25 
+35:6,9,13,15 
+36:15,18 42:8 
+46:21 47:10,13,20  delivery 51:23 52:5  directly 6:18 19:9 
+51:2,3 
+
+defines 40:12 
+definition 12:6 
+degree 7:13 
+deliberately 12:5 
+delivering 37:2 
+
+direct 12:7 42:20 
+directed 42:14 
+direction 21:23 
+
+difficult 4:12 
+Dillingham 5:12 
+
+43:25 48:10 
+
+34:19 
+
+curiae 1:23 2:7 
+
+18:11 
+
+curve 51:22 
+cut 20:22 
+
+D 
+
+D 3:1 
+D.C 1:12,22,24 
+data 3:13,20 4:19 
+5:24 6:4 7:4 9:8 
+12:2,15,20,21 
+
+denied 36:6 
+Department 1:22 
+
+disagrees 23:11 
+8:1 10:21,23 11:7  disavowed 33:5 
+11:13,25 13:22 
+disbursements 
+14:20 16:6 17:5 
+discharge 52:16 
+22:17 23:21,23 
+32:10,25,25 33:1  Disclosure 34:13 
+37:4 38:20 39:9 
+39:20 
+
+48:20 49:12 
+
+48:1 
+
+depend 52:8 
+depends 10:5 
+design 21:5 
+
+disclosures 7:8 
+discussed 44:15 
+discussion 47:6 
+
+49:21 
+
+E 
+E 2:1 3:1,1 
+easier 44:21 45:4,5 
+eat 17:23 
+effect 8:19 21:3,11 
+
+41:11 42:11 
+
+effectively 21:4 
+
+22:1 
+
+effects 21:3 
+efficient 16:6 
+Egelhoff 5:16 25:7 
+
+34:20 
+
+either 5:1 8:24 20:2 
+21:23 23:14 39:11 
+43:24 
+
+Page 56 
+
+elder 37:10 
+elderly 37:8 
+electronic 6:6,7 
+17:25 50:18,21 
+51:4,6,7 
+
+eliminate 16:20 
+emerging 46:15 
+employee 29:25 
+
+45:15 
+
+employees 46:10 
+employer 19:7 
+37:11 48:15 
+
+employers 25:11 
+employment 30:20 
+enacted 12:13 13:7 
+
+13:12 29:24 
+enacting 34:9 
+encourage 45:13 
+ended 23:15 
+engaged 7:3,4 
+
+42:22 
+
+engaging 6:23 
+enormous 52:10 
+ensure 49:5 
+entire 34:17 
+entities 3:21 
+entity 41:25 
+episode 52:20 
+equivalent 32:12 
+ERISA 3:14 6:18 
+
+6:22 7:6,7,9,18,22 
+7:24 8:8,9,15,16 
+8:19 9:12,22,25 
+12:2,3,6,13,19,25 
+13:1,8,16 14:3,9 
+14:10,12,13 18:22 
+19:2,7 20:7,9,24 
+21:5,5,16,24 22:1 
+27:15,24 28:23 
+29:17,24 30:4 
+33:2 35:3,6 37:5 
+37:24 38:22,23,25 
+40:6,12,14 41:15 
+42:4,11,15,23,24 
+43:3 45:6,19,19 
+49:11 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+firm 30:9 
+generate 5:24 
+first 5:21 6:15 11:7  generates 3:20 
+
+11:11 16:11 20:23 
+23:15 24:16 25:17  generating 51:19 
+getting 11:1 23:14 
+30:2 32:22 52:16 
+
+33:21 
+
+33:25 49:8 
+
+Ginsburg 5:13 
+
+ERISA's 3:15 
+
+eyes 36:10 
+
+12:24 
+
+ERISA­run 20:1 
+ESQ 1:19,21,24 2:3  F 1:21 2:6 18:10 
+
+F 
+
+2:6,10,13 
+
+essentially 18:22 
+
+facilities 19:5 
+facility 52:23 
+
+19:11 24:11 38:21  fact 12:14 17:25 
+48:6 
+
+34:20 35:13 37:4 
+44:2 52:11,14 
+
+exactly 35:17 
+example 18:25 19:1  fax 24:7 
+
+50:1 
+
+19:19 35:22 43:11  Federal 11:25 
+
+estate 30:7 
+evaluate 41:19 
+evaluated 52:6 
+event 47:22 
+everybody 18:3 
+
+43:12 
+
+evidence 5:21 
+30:23 31:1,5 
+34:15 
+
+exchange 31:15 
+
+40:2 44:13 
+
+exciting 38:10 
+excuse 7:2 38:21 
+executive 43:15 
+exercise 39:10 
+expansive 12:6 
+
+14:4 
+
+expenses 25:13 
+expensive 15:23 
+
+35:17 
+
+experiment 52:5 
+experimentation 
+
+14:19 52:1 
+
+explain 6:3 42:8 
+explained 42:17 
+
+52:7 
+
+explaining 44:20 
+explains 35:10 
+
+46:21,22 
+
+explanation 44:9 
+express 44:3 
+expressed 5:11 
+expressly 51:24 
+extent 51:7 
+extra 31:7 
+
+Page 57 
+
+hand 40:16 
+happen 15:16 
+25:15 27:11 
+
+happened 27:12 
+happens 25:17 44:2 
+hard 28:1 
+hassle 24:15 
+
+5:9,23 6:4,24 7:3 
+7:20,23 9:3,7,9 
+10:8 11:2,19,21 
+12:16,16,22 13:1 
+13:9,10 14:4,19 
+14:20 15:15 20:11 
+20:15,17 27:16 
+33:1,10 37:1,2 
+40:4,19 43:5,13 
+44:11 45:14 51:11 
+51:22 
+hear 3:3 
+
+34:24 35:8 43:1,8  headquarters 30:8 
+47:9,16 
+
+health 3:12 4:15 
+
+Ginsburg's 45:22 
+give 21:10 
+given 43:6 
+gives 11:13 45:22 
+go 11:6,10,12 14:23 
+15:6 16:10,11,21 
+17:23 25:12,13 
+28:4 30:21 32:9 
+33:15 36:22 37:19 
+37:25 38:15,22 
+
+21:21 48:21 
+
+goal 29:24 
+Gobeille 1:3 3:4 
+goes 28:18 49:23,24  held 17:17 19:19 
+going 11:2 15:7 
+16:8,9 17:20 
+21:17 25:23 27:2  helpful 51:20 52:18 
+27:17 31:17 33:19  HHS 11:7 14:23 
+35:21,21 36:24 
+37:9,14 43:4 
+49:18 
+
+help 15:17 51:20 
+
+higher 20:3 
+highly 24:2 
+HIPAA 6:6 8:10 
+
+39:20 
+
+governed 12:24 
+
+20:9 21:15 27:15  holding 6:14 
+
+18:1 47:2,2 50:20 
+51:6 
+
+government 12:1 
+15:8 16:1 23:9 
+25:10 40:5,16 
+43:22 51:21 52:1 
+
+hole 43:4 
+Honor 4:14 5:1,5 
+
+5:20 6:13 7:7 
+8:21 10:4 11:18 
+12:23 14:3 16:5 
+17:13,16 
+
+hopefully 18:16 
+hospital 20:14 30:9 
+
+52:16 53:3 
+
+hospitals 42:1,2 
+
+43:14,16 45:7,24 
+52:19 
+
+House 34:12 
+
+floor 34:14 
+folded 31:7 
+follow 20:2 
+follow­up 52:23 
+following 9:13 
+foremost 30:2 
+foresaw 36:10 
+format 46:25 
+formatting 24:13 
+33:24 34:1 50:22 
+former 22:2 25:18 
+forms 9:13 15:6 
+forth 3:25 9:2 19:5 
+
+20:10 
+
+foster 29:25 45:16 
+fostered 31:16 
+found 30:14 
+framework 18:20 
+frankly 40:15 
+friend 52:13 
+friends 46:13 
+front 46:4 
+frustrates 21:4 
+
+22:1 
+
+14:10,12 
+
+functions 40:6 
+fundamentally 
+
+27:18 
+
+funding 20:10 
+
+factor 15:11 
+facts 13:25 
+factual 28:1,2 
+fairly 51:17,18 
+falls 41:7 
+familiar 18:5 
+fancy 48:7 
+far 24:17 29:9 47:6 
+
+16:20 31:15,18 
+40:2,5 43:22 
+50:20 51:21 52:1 
+
+Federal­State 
+
+14:18 
+
+feels 26:23 
+fiduciaries 9:11,12 
+
+9:12,13,25 
+
+fiduciary 3:16 
+
+20:10 
+
+field 20:9,24 21:15 
+21:24 22:3,14,16 
+27:15,24 44:3 
+
+fields 18:25 46:23 
+figure 4:12 39:23 
+
+51:21 
+
+fulfilled 15:21 
+function 10:18 14:9  govern 9:10 20:24 
+
+good 10:25 37:2 
+
+G 
+
+G 3:1 
+
+filed 35:9 48:5 
+fill 9:13 
+governs 7:7 
+finances 7:10 
+grant 31:16 
+financial 7:8,11,13  garnishment 17:17  great 35:10 
+GREEN 1:5 
+group 13:1 32:18 
+guarantee 47:2 
+guess 33:18 41:1 
+
+gather 7:19 
+gathering 48:8 
+gee 10:17 
+General 1:19,21 
+
+12:20 15:15 37:3 
+
+financing 3:16 
+find 15:10,11,17 
+finds 39:1 
+fine 15:2 22:18,24 
+fingers 38:16 
+
+generally 5:9 36:20 
+
+H 
+
+19:1 
+
+Alderson Reporting Company
+ 
+
+huge 15:14 31:24 
+Human 10:8 14:20 
+
+33:1 
+
+hundreds 46:23 
+hypothetical 26:7 
+
+36:23 
+
+I 
+ICD 46:24 
+ICD­10 18:3 
+idea 33:16 
+impedes 21:4 
+implement 15:24 
+implemented 4:13 
+
+5:7,8 
+
+important 40:17 
+
+44:6,16 
+
+impose 16:10 28:14 
+
+30:17,18 32:11 
+33:2 49:3,4 
+
+imposed 19:7 31:9 
+imposes 21:6 
+imposing 15:14 
+
+40:10 48:23 
+improve 51:22 
+improving 7:20 
+
+12:15 
+
+inadequate 44:12 
+incident 18:24 20:9 
+20:11,16,23 21:18 
+27:15 30:16 
+
+include 7:18 13:2 
+included 14:19 
+
+31:6 41:20 
+includes 12:7 
+including 5:12 6:3 
+9:12 25:4 34:19 
+incorporated 7:23 
+incredible 51:20 
+indirect 42:12,13 
+
+42:16 
+
+individuals 35:1 
+information 7:12 
+
+7:19 11:5 12:4,11 
+13:9 17:25 19:15 
+19:17,23 20:7,14 
+
+24:14 35:1,3,5,7 
+35:14 36:5,13,21 
+37:23 38:4,25 
+39:1,5,17 40:17 
+43:5,12,16,19,23 
+43:24 44:6,12 
+45:25 46:8 47:10 
+47:14 48:12,16,19 
+48:23 49:1,5,10 
+49:22 50:5 52:19 
+53:2 
+
+infrastructure 
+
+29:15 
+
+inhere 40:24 
+inherently 27:25 
+Innovation 52:4 
+inquiry 20:23 
+inside 4:16 
+insight 45:6,18 
+insurance 1:9 3:5 
+
+11:21 20:15 24:22 
+29:14 42:9 
+insure 35:2 
+insurer 4:16,18 
+
+47:15 51:12 
+
+insurers 5:23,25 
+intended 12:4,25 
+interaction 18:19 
+interesting 44:7 
+interferes 25:6 
+Internet 24:7 
+interpret 39:24 
+
+40:1 
+
+introduce 31:1,4 
+introduced 30:23 
+intruded 14:4 
+intuitive 24:10 
+
+33:16 
+
+invented 50:20 
+invest 9:14 
+invitation 33:6 
+involve 17:20 
+involves 12:2 
+ironic 40:15 
+issue 4:22 6:19 
+
+Page 58 
+
+lawyer 46:6 
+leans 21:22 
+leave 43:4 
+leaves 7:1 12:2 
+left 13:5 
+legal 12:9 28:16 
+
+30:9 
+
+let's 33:15 
+level 20:20 
+levels 36:5 
+Liberty 1:9 3:4,23 
+5:6 30:19 35:12 
+35:19,24 47:6 
+51:3 
+
+limits 32:13,13 
+line 11:1 19:12 
+list 36:14 
+literally 20:4 
+litigation 17:18 
+
+35:23 
+
+little 5:15 22:19 
+
+29:1 
+
+local 30:11,12 
+locally 45:10 
+location 4:16 
+long 31:7 52:15 
+look 25:15,16 27:7 
+27:17 35:22 36:23 
+41:18 42:15 44:16 
+47:4,6 49:15 
+50:24 51:12 
+
+looked 21:2 23:10 
+
+52:17 
+
+loss 52:11 
+lost 32:8 
+lot 23:6 24:14,15 
+32:16 33:17,18 
+49:20 
+
+Official 
+
+J 
+
+job 10:21,22 
+JOHN 1:21 2:6 
+
+18:10 
+
+Joint 31:6 51:1 
+judge 39:22 44:15 
+44:15,17,18 46:4 
+46:7 47:21 
+judges 32:18 
+judgment 50:8 
+jumped 31:23 
+jurisprudence 
+
+22:21 
+
+jurisprudential 
+
+38:10 
+
+K 
+
+Kagan 20:18,21 
+
+24:4,9 30:22 31:1 
+33:8,13 34:6 41:1 
+48:18,25 49:4,9 
+keep 37:13 40:20 
+
+50:3,4 
+
+Kennedy 3:22 5:14 
+6:8 17:7,15 21:9 
+24:11 44:19,25 
+45:3 53:1 
+
+Kennedy's 18:18 
+kind 5:9 26:2 32:18 
+
+33:3 41:5 51:25 
+
+L 
+
+kinds 42:5 49:1 
+knee 52:21 
+know 10:9,18 11:16 
+
+17:7 19:21 22:9 
+22:12 23:8 34:2,3 
+34:24,24 35:4 
+37:9,10 38:9 41:5 
+44:4,16,24 46:8 
+47:16,17,19 49:16 
+49:20,21 
+
+Justice 1:22 3:3,9 
+3:22 4:23 5:2,13 
+5:14 6:8 7:2,15,16 
+7:17 8:12,14,22 
+9:9,18,21,23 10:7 
+10:13,16,24 11:16 
+12:12 13:6,18 
+14:7,22 16:8,16 
+16:19,22,24 17:7 
+17:15,22 18:7,9 
+18:13,16,17,18 
+20:18,21 21:9 
+22:2,6,9,23 23:11 
+23:21 24:4,9,11 
+25:8,21 26:1,2,5 
+26:16 27:10 28:4 
+28:12,18 29:2,3,6 
+29:18,22 30:22,25  Labor's 22:18 
+language 13:2 
+31:19,21 32:3,7 
+14:15,16,19 
+32:20 33:8,13 
+34:6,24 35:8 
+36:13,23 37:16,18  Laughter 22:10 
+38:2,7,9,11,12,14 
+39:3,12,14 41:1 
+43:1,8 44:19,25 
+45:3,22 46:19 
+47:9,16 48:18,25 
+49:4,9 50:9,14 
+53:1,6 
+
+Labor 8:1 10:21,23 
+11:7,13,25 13:22 
+16:6 17:5 23:23 
+32:10,25,25 37:4 
+37:20 38:20,24 
+39:9,20 
+
+large 11:14 
+
+29:5 38:18 
+
+30:24 31:12 32:22 
+
+lower 22:20 30:14 
+
+laundry 36:14 
+law 6:17 14:1 19:16 
+20:2,9,11,19 21:3 
+21:6 22:22 26:19 
+30:9 40:13 48:19  Mackey 5:12 17:14 
+48:25 49:10 
+
+laws 8:6 9:10 18:25  maintaining 30:6 
+
+17:17 
+
+M 
+
+24:17,18 30:7 
+
+making 31:22 
+
+Justice's 47:22 
+23:14 47:23 52:12  justices 22:13 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 59 
+
+mandatory 36:11  Montpelier 1:20 
+
+obligation 30:17 
+
+P 1:24 2:10 3:1 
+
+19:12 
+
+40:11 
+
+29:20 
+
+permission 16:10 
+
+obligations 31:10 
+
+page 2:2 31:23 36:1 
+
+23:15 
+
+47:7 
+
+49:24,24 
+
+pages 26:16 31:7 
+
+permit 37:5 
+permitted 11:22,23 
+perspective 22:18 
+paid 4:17 10:2 50:2  Petitioner 1:7,20 
+paragraphs 42:7 
+part 7:25 8:8,9,10 
+13:15,16 14:14 
+50:20,25 
+
+1:23 2:4,8,14 3:8 
+18:12 40:16 50:12 
+
+physical 52:23 
+pieces 23:18 
+place 23:2 29:15 
+
+46:17 
+
+marking 22:21 
+Massachusetts 
+
+35:24 47:4 
+
+matter 1:15 8:12,14 
+
+53:9 
+
+morning 3:4 
+MOUNTAIN 1:5 
+move 18:17 
+multi­employer 
+35:11,15 36:19 
+48:5 
+
+mean 4:9 20:4 
+
+Mutual 1:9 3:4 5:6 
+
+21:11,16,21 22:12 
+23:20 24:7,16,20 
+26:10 27:3,10,22 
+N 
+33:15,19 34:2 
+41:2 44:12 49:14  N 2:1,1 3:1 
+
+national 6:4,7 
+
+45:17 
+
+obtain 43:12 
+obviously 10:24 
+19:20 42:16,24 
+47:8 
+
+30:19 35:12,20,24  occur 42:16 
+47:6 51:3 
+
+11:13 31:16 32:12 
+34:14 45:15 46:25  one­size­fits­all 
+48:2 51:16 
+
+37:23 41:16 
+
+particular 24:13 
+
+odd 28:9 
+offer 3:15 44:5 
+official 1:4 43:15 
+oh 34:5 50:2 
+okay 16:21,25 34:8  particularly 21:19 
+partnership 14:18 
+party 23:25 32:23 
+pass 37:7 48:19 
+passed 8:10,15,25 
+
+40:21 
+
+33:9 
+
+open 7:1 
+operate 29:25 
+
+12:25 14:17 
+35:12 37:5 45:10  passes 47:17 
+
+operates 27:24 39:8  patients 44:23 
+operating 41:12 
+operations 41:11 
+
+pay 20:3 24:22,25 
+37:12 42:4 48:11 
+49:16 
+
+22:13,13,20 26:22  payer 50:23 52:25 
+27:1,11,12,13,21 
+44:15 
+
+paying 17:19 30:6 
+
+53:1 
+
+nationally 30:1,1 
+nearly 51:10 
+necessarily 3:20 
+
+12:10 40:13 
+necessary 39:1 
+need 19:20 26:3 
+
+needs 33:11 43:23 
+neither 32:23 
+never 21:21 27:8 
+
+43:19 46:8,9 52:6  opinion 15:2,4 
+
+27:22 33:5 
+
+opinions 22:8 42:7 
+oral 1:15 2:2,5,9 
+3:7 18:10 29:20 
+44:14 46:4 
+
+new 45:14 52:5 
+nicely 50:16 
+non­Blue 42:8 
+non­Vermont 4:19  order 45:15 49:5 
+nonpermissible 
+
+50:1 
+
+19:13 
+
+normal 35:14 
+noted 45:21 
+notion 16:5 34:23 
+
+39:7,13 
+
+number 31:23,25 
+
+43:21 
+
+O 
+
+O 2:1 3:1 
+objection 35:4 
+objectives 3:15 
+
+39:25 
+
+organizations 6:4 
+
+26:18 
+
+originally 8:10,15 
+
+12:13 13:13 
+
+ought 5:2 
+outcomes 7:20 
+12:16,16 37:2 
+52:24 
+
+outside 4:7,8,17 
+
+27:24 
+
+overly 41:4 
+
+P 
+
+30:7 
+
+payment 40:7,13 
+
+41:10,15 
+
+payments 36:4 
+48:20 49:12 
+
+pays 30:19 43:13 
+pension 19:19,21 
+
+21:17 36:24 37:6 
+37:11 48:13,20 
+49:11 
+
+people 4:3,6 15:12 
+
+15:13,17 23:1 
+24:19 31:24 33:23 
+34:3 37:10,14 
+39:20 
+
+percent 24:23 
+
+34:17 36:21 40:18 
+48:15 
+
+permissible 17:19 
+
+Alderson Reporting Company
+ 
+
+means 23:5 
+Medicaid 52:4 
+medical 12:7 19:7,8 
+20:15 24:23 36:5 
+45:8 
+
+Medicare 14:21 
+
+52:2,3 
+
+member 10:2 
+members 3:18 7:8 
+
+32:14 
+
+mere 25:5,9 
+merely 3:19 
+merits 33:6 
+mess 11:9 26:23 
+MetroMedia 32:16 
+middle 38:10 
+million 15:12,13 
+23:1 31:24 34:3 
+37:10 
+
+minimum 26:10 
+
+30:6 
+
+minutes 50:10 
+misunderstand 
+
+44:25 
+
+misunderstood 
+
+43:9 
+
+models 52:5 
+modify 13:3 
+money 9:14 23:6,6 
+
+24:15 25:12,24 
+33:18,18 37:9,14 
+
+month 9:25 
+monthly 40:22 
+
+34:11,11 
+
+placed 41:25 
+plainly 45:19 
+plan 6:9,17 7:7,8 
+
+7:10,12 9:22 10:1 
+12:6 15:17 17:19 
+19:8,16,19,21 
+30:20 36:2,3,19 
+37:14 38:25 40:6 
+40:12,14,23 42:11 
+42:15,15,22,24,25 
+43:21 44:21 46:10 
+47:8 
+
+plan's 7:13,25 36:4 
+
+44:4 
+
+plans 3:14,15,17,17 
+
+4:12 6:18 7:20 
+9:25 12:5,10 13:1 
+15:12,13 17:21 
+18:23 19:2 21:5,6 
+21:17,25 27:19 
+28:23 29:12,25 
+30:4 31:16 34:16 
+35:2,3,6,11,15 
+36:12,20,24 37:6 
+37:11,23,24 39:5 
+40:3,4,18,20 42:4 
+42:9,12 43:20,21 
+44:6 45:12 47:11 
+47:18 48:2,2,5,6,7 
+48:7,13,15 49:11 
+51:10 52:11 
+plausible 23:7 
+play 36:10 
+
+Official 
+
+pretty 40:15 
+prevailing 30:7 
+
+42:10 
+
+44:21 50:23 52:13 
+52:14 
+
+providers 30:11 
+
+18:16,17,18 50:7 
+50:16 
+
+quite 13:19 28:22 
+
+prevent 8:6 10:11 
+
+42:5 44:11 
+
+49:20 
+
+15:25 23:2 39:18  provisions 8:19 
+
+problems 39:16,21  Public 7:23 
+procedure 52:25 
+procedures 17:18 
+
+36:6 
+
+process 26:13 
+
+51:12 
+
+please 3:10 14:25 
+
+18:14 29:6,23 
+point 5:13 16:23 
+27:2 28:5 30:21 
+31:22 45:1,6 
+
+16:11 38:7 
+points 24:16 32:21  prevents 8:5 
+pool 51:19 
+poor 10:9 
+possibilities 23:3 
+possibility 46:15 
+possible 16:13 
+
+price 42:3 
+primarily 7:9 10:22 
+principal 12:19 
+principally 6:23 
+principle 46:11 
+principles 3:11 
+probably 10:5 
+18:24 39:19 
+problem 14:22 
+
+27:25 51:7 
+
+possibly 12:3 13:7 
+
+32:11 
+
+potential 51:20 
+power 32:17 53:3 
+practices 45:8 
+precedent 14:5 
+precedents 25:3 
+precludes 43:3 
+preempt 12:19,21 
+
+32:13 
+
+preempted 3:13 
+
+production 38:24 
+
+program 5:5,6 9:6 
+
+39:4 
+
+5:10 9:19,20 
+13:11,15 15:3 
+16:25 21:19,24 
+27:23 29:17 39:10 
+39:12 40:5 42:19  programs 6:2,5 
+42:25 43:22 49:17 
+
+20:1,5 29:12 
+30:10 
+
+12:9 25:16 42:3 
+52:8 
+
+preemption 4:1,1 
+
+38:3 39:11 
+
+promulgate 14:25 
+
+6:12 7:25 8:20,24  promise 52:10 
+12:24 13:12,16 
+14:14 16:20 17:12 
+17:13 18:19 21:10  promulgated 51:5 
+property 19:19,23 
+21:12,14 22:3,4 
+22:14,16 24:2,3 
+propose 23:9 
+28:9 31:17 34:10  proposition 32:24 
+34:22 38:21 39:7  prospect 38:17 
+44:3,3 45:7 
+provide 14:21 
+premise 23:24 
+
+43:14 44:6,11 
+45:14 48:16 50:5 
+52:2 
+
+premiums 36:2 
+prepaid 12:9 28:16  provided 19:8 
+press 49:22 
+presumptively 
+
+43:24 46:1 47:10 
+48:14,14 
+
+27:16 
+
+provider 36:4,5 
+
+41:17 
+
+Alderson Reporting Company
+ 
+
+Page 60 
+
+regarding 12:21 
+
+13:1 
+
+regardless 4:16 
+regime 48:1 
+regimes 25:20,22 
+regs 23:10,14 39:21 
+regular 30:5 
+regulate 6:18 11:23 
+
+11:23 40:9 
+
+regulating 6:21,22 
+
+10:6 40:6,10 
+41:10 
+
+regulation 5:10 
+
+6:24 7:3 9:3,7,10 
+11:20 14:25 17:21 
+20:12,17 27:16 
+30:5,11 31:15,18 
+31:20 39:11 40:3 
+41:7 42:12,13,14 
+42:16,20 45:9,11 
+50:21,25 
+
+regulations 15:14 
+18:1 29:11 30:19 
+32:1,10 34:21 
+36:1 41:4 42:13 
+48:3 
+
+45:17 
+
+rehab 52:23 
+relates 21:24 40:13 
+
+42:24 
+
+relation 40:23 
+relevant 24:2 43:11 
+remaining 18:6 
+
+50:10 
+
+remains 13:20 
+Repeal 48:1 
+repealing 34:13 
+replaced 52:21 
+report 9:13,25 
+
+28:23 37:12,13 
+40:21 
+
+reported 36:16 
+reporting 5:15 6:9 
+
+7:8,9 8:1 10:17 
+12:20 15:22 18:2 
+
+provides 3:21 6:6 
+
+47:14 
+
+providing 5:24 
+
+quote 38:25 39:5 
+quoted 38:23 
+
+R 
+
+12:11 34:25 35:2 
+35:5,7 
+
+R 3:1 
+raise 24:1 
+provision 8:4,4,11 
+raised 52:13 
+8:17,17,20 12:7 
+raising 32:3 
+12:17,24 13:13 
+21:12 31:17 34:10  range 11:14 
+34:22 38:21,22 
+45:7 51:22 
+
+42:10 
+
+rate 11:21 20:15 
+
+reach 28:2 
+read 10:19 22:25 
+
+32:10 
+
+53:3 
+
+real 19:19 30:7 
+
+publish 37:22 
+Puerto 46:17 
+purchases 24:23 
+purely 15:18 
+purpose 7:20 12:15  really 13:6 15:8 
+24:7 33:23 37:8 
+46:8,9 48:4 
+
+13:12 15:20 21:2 
+22:1 
+
+reality 46:16 
+
+purposes 13:8 39:2  reasons 5:10 8:2 
+
+15:19 50:7 
+
+41:13 
+
+put 16:2 31:11 
+
+32:12 
+
+putting 42:8 
+puzzled 26:21 
+
+Q 
+
+46:20 50:11 
+
+recall 26:1 44:13 
+receiving 4:15,19 
+recognition 34:13 
+reconcile 39:21 
+record 5:22 25:25 
+
+26:3,6,25 31:5 
+34:7,15 44:8 46:5 
+47:13 51:1 
+
+qualifies 42:23 
+quarterly 40:22 
+question 6:12,16,20 
+6:24 10:12,14,15 
+10:25 11:3,4,6,17  recorded 44:14 
+11:19 15:5,8 16:1  recordkeeping 
+16:3 17:2,4 18:2 
+19:11 20:16 21:1 
+24:2 25:14 26:7 
+33:24 35:20 41:18 
+41:22 45:22 46:14  recount 35:25 
+46:20 47:23 50:2 
+reflected 34:19 
+reflects 36:7 
+50:15,17 52:13 
+reg 16:9 38:3 
+
+18:20 30:3 33:3 
+40:11 45:17 
+records 37:13 
+
+questions 4:2 6:15 
+
+40:21 50:4 
+
+rebuttal 2:12 17:22  regulatory 38:20 
+
+Official 
+
+Page 61 
+
+50:21 51:6,8 
+
+rules 11:8,9 28:21 
+
+30:1,2 36:23 
+
+self­employed 44:5 
+self­evident 32:24 
+self­funded 40:20 
+
+run 19:2 28:20 30:8 
+
+43:20,20,21 48:15 
+
+side 11:12 15:9,19 
+
+16:2,2 22:24 
+32:23 33:17 46:13 
+49:21 
+
+self­insured 29:12 
+
+35:3,6 42:22 
+47:11,18 51:10 
+
+sides 18:22 
+signal 29:24 
+signaled 22:20 
+significant 23:22 
+
+send 9:25 
+senior 37:3 
+sense 20:7 22:16 
+sentences 29:8 42:6  simply 5:21 13:24 
+separate 22:8 41:12 
+
+similar 15:2 
+
+23:23 25:23 43:21 
+
+41:13 
+
+series 5:11 
+serious 27:10 32:1 
+services 4:15 7:24 
+10:9 12:9 14:20 
+28:16 30:9,12 
+33:1 42:5 44:11 
+45:25 
+
+13:24 16:20 19:16 
+28:20 37:19 43:2 
+45:21 
+
+single 30:13 37:15 
+
+45:16 
+
+slightly 11:24 
+slowly 17:24 
+small 34:16 44:22 
+Solicitor 1:19,21 
+
+set 9:2 18:1,19 20:5 
+
+19:1 
+
+25:11 34:14 41:19  solution 33:9 
+45:16 
+
+sort 8:16 12:20 
+
+Seth 1:24 2:10 
+
+29:20 50:2 
+
+sets 7:10 15:14 
+50:22 52:17 
+
+settle 46:7 
+settled 14:5 
+SG's 33:5 
+sheet 24:8 
+Shield 26:17,23 
+
+27:8 31:3 33:21 
+33:22 35:9,13,16 
+36:15,18 46:22 
+47:13,17 
+
+shift 22:14,21 
+short 20:22 
+show 23:3 24:1 
+
+26:3 27:3 49:25 
+showed 6:9,10,11 
+showing 26:9,15 
+27:18,20 28:3 
+shown 23:22,24 
+24:5 25:5 32:4 
+
+shows 47:13 
+
+28:17 33:6 39:7 
+46:7 
+
+sorts 19:3,10 44:5 
+SOTOMAYOR 
+
+17:22 
+
+Sotomayor's 46:20 
+
+50:14 
+
+sound 15:23 
+soundness 7:13 
+sounds 3:25 22:2 
+
+33:8 
+
+special 21:11 
+specific 21:22 
+
+51:18 
+
+specifically 6:18 
+specifications 5:18 
+spend 48:8 
+spending 34:16 
+sponsors 34:12 
+staff 19:4 
+stage 33:6,6 44:10 
+standard 9:17 13:3 
+22:3,4 47:2 51:17 
+
+20:15 
+
+42:21 
+
+research 11:22 
+
+18:23,24 19:3,10 
+19:12,16,20,22 
+20:8 21:7 24:24 
+25:23 26:12 27:14  researchers 52:17 
+28:19 29:15 30:3 
+30:15 31:10 33:3 
+17:6 46:20 
+34:14,14,17 35:25 
+40:11 42:21 45:17  reserves 36:4 
+51:13 
+
+reserve 18:6 
+reserved 6:21 9:2 
+
+residents 4:4,19 
+
+reports 21:18 33:23 
+
+37:6 49:17 
+
+34:11,12 36:19,19  respect 4:21,22 
+
+representation 
+
+46:4 
+
+representations 
+
+46:13 
+
+representative 
+
+14:24 
+
+representing 46:6 
+request 31:3,13 
+requested 24:14 
+33:20,22 44:10 
+48:23 
+
+require 3:15 4:19 
+
+5:16 33:24 34:9 
+35:1 
+
+respecting 42:9 
+respond 29:2 
+Respondent 1:25 
+
+2:11 24:6 26:9,10 
+27:17,20 29:21 
+
+Respondent's 
+
+19:14 
+
+responding 16:4 
+response 45:21 
+
+46:9 
+
+17:10 19:22 25:23  responses 5:20 
+36:1 38:24 39:4 
+43:16,23 46:18 
+49:10 
+
+responsible 11:20 
+rest 38:5 
+restriction 41:4 
+result 17:15,16 
+retire 37:15 
+retirement 10:1 
+review 11:21,21 
+
+required 27:5 
+
+36:21 
+
+requirement 13:10 
+
+17:10 20:8,19 
+27:14 
+
+20:14,15 
+requirements 4:14  Rico 46:17 
+
+30:9,10 
+
+running 17:8 
+
+S 
+
+S 2:1 3:1 
+safe 19:5 30:6 
+sane 39:15 
+satisfied 20:25 
+saves 12:18 
+saw 15:12 23:1 
+saying 10:25 13:18 
+13:19 16:21 22:6 
+23:16,17,25 43:1 
+48:23 50:2 
+
+says 8:5,11,18 9:11 
+10:17 11:12 13:2 
+13:8,15 14:24 
+15:1 26:22 28:25 
+31:17 37:8,19,20 
+38:3 41:21 51:3 
+Scalia 4:23 5:2 7:2 
+13:18 14:7 16:16 
+16:19,24 22:2,6,9 
+23:11 38:11 
+Scalia's 39:12 
+scope 12:23 13:4 
+
+14:4 
+
+se 42:12 
+second 6:1,20 
+
+44:13 
+
+5:15,17 6:9 7:9 
+10:18 15:22 16:10 
+16:12 18:20,23,24 
+19:4,10,12,17 
+21:7,19 23:5 
+24:12,25 26:12 
+27:4,6 28:14,15 
+29:16 30:16 33:3 
+50:22 51:13 
+
+requires 17:9 19:20 
+
+46:23 48:19,25 
+49:5,22 50:3 
+
+requiring 40:20 
+
+right 8:21 18:3 
+
+19:18 23:12 25:22  Secretary 7:19 10:8 
+37:20 38:24 39:4 
+26:25 32:9 33:7 
+39:6 43:12,15,25 
+41:6 47:11 49:6 
+section 7:19 41:20 
+
+risk 31:25 
+ROBERTS 3:3 
+
+7:16 18:7,9 25:8 
+25:21 26:2,5 28:4 
+28:18 29:3,6,18 
+36:13 50:9 53:6 
+
+robust 14:18 
+role 18:21 21:18 
+rule 6:6 11:13 
+
+41:21 42:17 
+
+see 10:17 12:12,13 
+
+12:17,18 13:6 
+15:9,10 18:19 
+23:16,17 27:17 
+28:1 38:14 
+seeing 39:15 
+self 42:21 
+
+Alderson Reporting Company
+ 
+
+48:9 51:21,25 
+52:2,4,7,9 
+
+standardized 3:19 
+
+16:7 50:15,22 
+51:16 
+
+standards 3:16 6:7 
+
+9:2 20:2 51:5 
+
+statistics 37:23 
+statute 3:13 4:24 
+4:25 9:11 16:25 
+21:11 35:25 37:7 
+37:19,20 39:24 
+40:1 43:11 45:22 
+47:4 
+
+statutes 15:20 
+statutory 4:1 33:2 
+stay 52:22 
+straighten 26:24 
+
+start 18:15 
+started 33:25 
+starting 23:24 
+starts 52:21 
+State 3:21,24,25 
+5:18 6:17,20,23 
+8:6 10:5 11:24,24 
+14:23 17:9,17,20 
+17:20 18:24 19:16  Straub's 44:15 
+19:22 20:16 21:16  struck 45:20 
+24:17,18 28:5 
+29:10 30:7,15,15 
+30:17 31:20 32:13  subject 18:23 30:5 
+30:11 31:4 45:9 
+34:17,21 36:25 
+37:5 40:9,13,21 
+45:10,16 
+41:4,8,12 42:21 
+43:2,5,10 44:9,16 
+45:10,22 46:2,6,6 
+46:21 47:3,5 48:3 
+48:9,18,21,22 
+49:3,5,9,14,15 
+50:6,19 
+State's 9:3 
+State­by­State 
+
+subpoena 31:4 
+subset 16:7 
+substantial 24:1 
+29:10 31:5,13 
+
+submit 50:7 
+submitted 24:6,7 
+
+stuff 47:7 
+subchapter 39:2 
+
+substantive 18:25 
+
+36:7 53:7,9 
+
+30:17,18 
+
+Page 62 
+
+51:19 
+
+14:6 17:14 21:2 
+24:21 25:4 41:21 
+41:23 42:1,9,18 
+
+treated 4:4,7 
+tremendous 52:12 
+tremendously 
+
+10:4,11,13,22 
+11:11 14:16 15:3 
+15:5 17:1,3,4 
+18:21 19:2,18 
+20:6,7,13,22,24 
+21:6,13,22 22:5 
+22:11,11,15,19,22 
+23:12,20 24:18 
+25:21,22 26:8 
+27:5,13,13 28:11 
+28:12,17 29:7,9 
+32:16,17,24 33:10 
+33:13 36:22 39:14  trump 41:14 
+39:19 43:7 44:17 
+48:22 49:2,3,9,13 
+49:13,14,17 50:15  trying 15:17 26:19 
+26:24 39:23 46:7 
+48:2 52:24 
+
+trial 26:25 
+troubled 12:14 
+true 7:15 8:16 
+
+trust 19:19 48:21 
+try 16:4 29:7 
+
+19:24,25 30:25 
+50:1 
+
+thinking 49:15 
+
+Official 
+
+surcharges 25:1 
+sure 16:14 19:4 
+21:17 38:17,19 
+
+surely 24:24 
+surface 51:13 
+surgery 52:22 
+surplus 36:4 
+surprising 10:20 
+surveys 37:22 
+suspect 26:14 
+sweep 12:4 
+system 18:3,4 32:12 
+systems 16:12 
+
+T 
+
+T 2:1,1 
+take 15:7,19 19:14 
+
+talking 23:11 44:7 
+
+45:12 
+
+tax 19:6,10,23,24 
+24:20 42:8 48:19 
+48:24,25 49:3,4,7 
+49:10 
+
+taxes 30:8 41:5,8 
+taxing 19:22 49:6 
+technical 7:22 
+terribly 41:22 
+
+19:18 43:10 46:14  thinks 15:4 
+47:24 
+
+third­party 5:23 
+26:11 29:13,14 
+35:16 51:9,11 
+thoughts 40:24 
+three 6:15 50:10 
+ties 50:16 
+time 17:7,23 18:6 
+19:9 40:25 47:20 
+52:15 
+
+tingling 38:17 
+told 19:9 35:2,16 
+
+35:24 
+
+turn 7:22 11:9 
+18:20 28:12 
+
+turns 43:20 49:14 
+two 5:20 17:8,9 
+
+23:18 24:16 25:12 
+29:8 39:16,18 
+typically 51:11 
+
+U 
+
+U.S 23:9 
+unbelievably 24:24 
+undermine 12:18 
+undermines 3:14 
+understand 33:19 
+
+40:24 41:2,3 
+
+understood 9:3,4 
+undertake 37:22 
+uniform 5:17 11:7 
+22:1 26:19 30:1 
+32:11 34:1 
+
+uniformity 26:20 
+union­sponsored 
+
+13:19,20,21,24,25  tomorrow 13:8 
+14:1,2,8,8 20:6,8 
+20:22 
+
+town 44:22 
+track 6:5 
+tested 52:6 
+tracks 52:19 
+Thank 18:7,8 29:18  trained 19:4 
+
+transaction 6:6 
+50:21,23 51:5 
+transactions 6:7 
+
+50:19 51:6 
+
+17:21 
+
+statements 7:11,11 
+
+7:11 34:12 
+
+substantively 40:10  test 7:24 8:24 13:16 
+sudden 28:5 
+suddenly 15:16 
+
+states 1:1,16,23 2:7 
+
+22:25 
+
+5:14 6:1,8,22 11:9  sufficient 28:7 
+suggest 23:20 
+11:20,22 12:2,5 
+suggested 5:14 
+12:11 13:5 15:13 
+17:6,10 18:11 
+22:14 27:24 
+23:5 24:12 25:1 
+25:15,19 26:6 
+28:8,13,15 31:9 
+33:4,10,17,25,25 
+34:15 35:12 36:8 
+36:11,11,22,25 
+37:5 38:5 39:17 
+40:5,19 43:25 
+44:1 45:10 46:16 
+
+suppose 6:8,10 
+
+9:23 27:11 
+
+2:8 18:12 
+
+supposed 26:22 
+Supreme 1:1,16 
+surcharge 24:20,22 
+
+suggests 33:7 47:23 
+summary 36:3 
+supporting 1:23 
+
+50:9,13 53:5,6 
+
+theme 25:9 
+theoretically 21:7 
+therapy 52:24 
+thing 12:20 23:10 
+
+32:18 
+
+things 15:2 25:11 
+
+28:6,23 33:14 
+36:2 46:18 49:6 
+49:11 
+
+think 5:3 6:10,14 
+
+48:6 
+
+transcribed 46:5 
+transcript 44:14 
+transmit 51:7 
+transmitting 51:4 
+Traveler 9:4 
+Travelers 3:12 5:12  universe 4:9 
+
+United 1:1,16,22 
+2:7 18:11 40:19 
+52:7 
+
+6:14 7:1 9:1,2 
+
+unnecessary 15:22 
+
+Alderson Reporting Company
+ 
+
+Page 63 
+
+upheld 19:6 24:18 
+
+wants 25:10 35:24 
+
+24:19 30:15 
+use 18:4 29:13 
+
+V 
+
+v 1:8 3:4 
+valid 27:16 
+value 33:9 
+variation 36:8 
+variety 33:25 
+various 49:1 
+vary 17:20 
+varying 45:9 
+vastly 25:1 
+Vermont 1:5,19 
+
+3:19 4:4,5,8,17,17 
+4:20 7:14 9:6,10 
+17:8 25:16,17 
+26:25 30:18 31:3 
+31:8 33:4 35:20 
+36:25 43:10,13,17 
+44:9 45:7,8,8,24 
+46:21,23 47:14,24 
+48:11 50:20 51:15 
+52:14 
+
+Vermont's 3:12 
+Vermonters 4:7,15 
+
+37:9 
+
+vesting 20:10 
+view 19:14 23:16 
+23:21 25:14,18 
+
+visit 52:21 
+Vt 1:20 
+
+W 
+
+wage 20:3 30:6,7 
+
+42:10 
+
+want 11:7,10,12,12 
+11:14 14:24 15:10 
+15:11 17:23 21:16 
+23:8 25:12 30:21 
+32:11 33:14 37:11 
+37:12,12 38:2 
+41:16,16 43:8 
+49:7,16 
+
+wanted 23:16 45:13 
+
+40:21 48:12 
+
+Washington 1:12 
+
+1:22,24 
+
+wasn't 13:12 42:1 
+Waxman 1:24 2:10 
+29:19,20,22 30:22 
+30:25 31:20 32:2 
+32:6,20 33:12 
+34:5,8,25 35:8 
+36:17 37:17 38:1 
+38:6,9,13,16,19 
+40:1 41:1,16 43:7 
+44:24 45:2,5 
+47:12,19 48:18,22 
+49:2,7,13 50:2 
+way 3:14,17 6:13 
+
+8:24 16:2,5 19:25 
+20:5 21:13,14 
+22:17 23:14 26:13 
+27:19 29:11 39:15 
+39:24 41:13 50:18 
+
+ways 26:9 50:5 
+
+51:21 
+
+We'll 3:3 
+we're 15:17 21:17 
+27:17 35:2 37:8 
+44:7 45:12 
+
+we've 22:15 26:13 
+
+26:13 34:10 52:15 
+
+wealthy 10:9 
+Wednesday 1:13 
+week 48:11 
+welfare 12:6 37:23 
+
+37:24 
+
+well­being 37:3 
+well­funded 21:17 
+well­written 22:7 
+went 36:14 
+weren't 21:19 
+
+42:11 
+
+whatsoever 44:9 
+wide 33:24 36:7 
+wins 48:12 
+wonder 33:18 
+words 10:16 49:7 
+
+Official 
+
+work 50:19 51:9 
+workers 10:10 
+workplace 30:6 
+worried 23:2,4 
+worse 15:18 
+worth 44:4 
+write 26:22,25 
+
+27:11,12 39:20 
+written 27:14,21 
+
+32:15 
+
+wrong 49:19 
+
+X 
+
+x 1:2,11 
+
+Y 
+Yeah 25:21 
+year 50:3 
+years 9:1 37:10 
+
+Z 
+
+0 
+
+1 
+
+24 24:23 
+26 26:16 
+27 26:17 
+29 2:11 
+
+3 
+
+3 2:4 
+30 28:8 
+300 50:3 
+36 36:1 47:7 
+
+4 
+
+40 34:17 
+401(k) 48:17 
+45 50:25 
+
+5 
+
+50 2:14 11:9 15:13 
+15:14 16:12 17:9 
+24:12,12 25:1,15 
+25:19,22 26:6 
+28:13,15 33:17 
+34:20 35:12 44:22 
+45:9 46:16 48:3 
+
+10:03 1:17 3:2 
+100 39:19 48:15 
+1024(a)(2)(B) 38:23 
+11 28:6 
+11:01 53:8 
+1143(a)(1) 37:19 
+1144 12:24 13:17 
+11th 28:5 
+120 15:1 
+14­181 1:7 3:4 
+15 31:9 44:21 
+160 51:1 
+17 33:4 
+18 2:8 
+19 33:4 
+1974 12:25 13:5 
+
+60 40:18 
+66 51:2 
+
+6 
+
+7 
+
+7 8:8,10 13:15,16 
+7's 14:14 
+70 36:21 
+
+80 36:21 
+
+8 
+
+9 
+
+90 15:1 
+93 15:12,12 23:1 
+
+31:24 34:3 37:10 
+
+29:24 
+
+2 
+
+2 1:13 
+200 39:19 
+2015 1:13 
+
+Alderson Reporting Company
+ 
+
+

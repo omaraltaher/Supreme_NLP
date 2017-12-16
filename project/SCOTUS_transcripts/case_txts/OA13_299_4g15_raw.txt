@@ -1,0 +1,8438 @@
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+BRANDON C. CLARK, ET UX., 
+
+       
+
+: 
+
+ Petitioners, 
+
+        
+
+:  No. 13­299 
+
+ v. 
+
+                       
+
+: 
+
+WILLIAM J. RAMEKER, 
+
+             
+
+: 
+
+TRUSTEE, ET AL. 
+
+                 
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Monday, March 24, 2014 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:05 a.m. 
+
+APPEARANCES: 
+
+KANNON K. SHANMUGAM, ESQ., Washington, D.C.; on behalf 
+
+ of Petitioners. 
+
+DANIELLE SPINELLI, ESQ., Washington, D.C.; on behalf of 
+
+ Respondents. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+KANNON K. SHANMUGAM, ESQ. 
+
+ On behalf of the Petitioners 
+
+                   
+
+3 
+
+ORAL ARGUMENT OF 
+
+DANIELLE SPINELLI, ESQ. 
+
+ On behalf of the Respondents 
+
+                   
+
+24 
+
+REBUTTAL ARGUMENT OF 
+
+KANNON K. SHANMUGAM, ESQ. 
+
+ On behalf of the Petitioners 
+
+                   
+
+45 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4 
+
+5
+
+6
+
+7
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (10:05 a.m.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+this morning in Case 13­299, Clark versus Rameker. 
+
+ Mr. Shanmugam. 
+
+ ORAL ARGUMENT OF KANNON K. SHANMUGAM 
+
+ ON BEHALF OF PETITIONERS 
+
+ MR. SHANMUGAM: 
+
+Thank you, Mr. Chief 
+
+Justice, and may it please the Court: 
+
+ This case concerns the Bankruptcy Code's 
+
+retirement funds exemption.  By its plain terms, that 
+
+provision categorically exempts funds that have been set 
+
+aside for retirement in certain tax­exempt retirement 
+
+accounts.  Funds in an inherited individual retirement 
+
+account qualify for the exemption first because they 
+
+were set aside for retirement when they were deposited 
+
+in the account, and second, because an IRA remains tax 
+
+exempt after it passes to a beneficiary upon the death 
+
+of its initial owner. 
+
+ Respondents ask this Court to exclude 
+
+inherited IRAs by engrafting an additional limitation on 
+
+to the statute.  Under their interpretation, the funds 
+
+must be in an account that not only is tax exempt, but 
+
+also possesses certain "objective features." 
+
+ JUSTICE KENNEDY: 
+
+It's true, I think, that 
+
+3
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the Respondents have to explain why their position 
+
+doesn't commit us to a difficult case­by­case 
+
+adjudication down the line, and yours is a more simple 
+
+approach.  On the other hand, it seems to me that you 
+
+really rendered the words "retirement funds" 
+
+superfluous. 
+
+ MR. SHANMUGAM: 
+
+Well, I don't think that 
+
+that is true, Justice Kennedy. 
+
+ JUSTICE KENNEDY: 
+
+I mean, the words in the 
+
+bankruptcy statute. 
+
+ MR. SHANMUGAM: 
+
+Yes.  And ­­ and let me 
+
+explain why we think that retirement funds are not 
+
+superfluous here.  First of all, we think that 
+
+retirement funds serves a clarifying function with the 
+
+result that in the event that if Congress were to add 
+
+something to one of the many tax provisions that are 
+
+incorporated into the provision, that is not a 
+
+retirement account, that would be excluded. 
+
+ In other words, the phrase "retirement 
+
+funds" makes clear that only funds that have been set 
+
+aside in a retirement account are exempted. 
+
+ But I want to say something more broadly 
+
+about this argument concerning superfluity, which I 
+
+think is really at the core of Respondents' textual 
+
+argument here.  I think that argument really 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+misapprehends, with respect, the structure of the 
+
+statute.  It may very well be true that at least as 
+
+matters currently stand, the phrase "retirement funds" 
+
+does not independently exclude anything from the scope 
+
+of the statute.  But this statute, of course, includes a 
+
+"to the extent that" clause.  And our interpretation 
+
+gives the phrase "retirement funds" meaning.  It gives 
+
+it a broader meaning.  Retirement funds ­­
+
+ JUSTICE GINSBURG: 
+
+But, Mr. Shanmugam, it 
+
+could have meaning if it were read to refer to the 
+
+debtor's retirement fund, not anyone's retirement fund. 
+
+ And let me ask you one disturbing feature of 
+
+this.  Congress was very careful when it crafted 
+
+exemptions from the bankrupt estate, like the homestead 
+
+exemption.  It said what, 22 ­­ something over $22,000, 
+
+the car, 37­something.  Is it likely that Congress would 
+
+have created an exemption so large that ­­ this one is 
+
+claimed to be $300,000 ­­ for funds that are immediately 
+
+usable by the bankrupt?  I mean, this big pot of money 
+
+gets exempt from ­­ from the creditors' claim, it just 
+
+seems incongruous considering how narrow Congress has 
+
+made the other exemptions. 
+
+ MR. SHANMUGAM: 
+
+Two points in response to 
+
+that.  First, Justice Ginsburg, with regard to the 
+
+admittedly very high cap on retirement funds, it is true 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+that a beneficiary of an inherited IRA has the ability 
+
+to withdraw the funds immediately, though Congress has 
+
+created considerable tax incentives for such an 
+
+individual not to do so.  But the same could be said of, 
+
+for example, an individual who holds a 457(b) account, 
+
+that's a retirement account for employees of certain 
+
+governmental entities and nonprofits, who has left 
+
+employment and then goes into bankruptcy. 
+
+ So, too, with regard to an individual who 
+
+holds a Roth IRA, at least with regard to the 
+
+contributions that the individual made to that IRA. 
+
+And, in fact, while the cap limits the amount of money 
+
+that can be exempted at $1.25 million, it actually also 
+
+contains exceptions for rollover IRAs such that an 
+
+individual can exempt essentially an unlimited amount. 
+
+All of which is to say that Congress did intend this 
+
+exemption to be quite expansive. 
+
+ Now, to go to the first part of your 
+
+question, Justice Ginsburg, and the text of the statute. 
+
+The court of appeals, unlike Respondent ­­ Respondents 
+
+here ­­
+
+ JUSTICE SOTOMAYOR: 
+
+How many of those other 
+
+items are immediately withdrawn?  Meaning, the Roth IRA 
+
+has the 10 percent penalty if you withdraw it. 
+
+ MR. SHANMUGAM: 
+
+But not with regard to the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+money that was originally contributed to the account. 
+
+That is to say ­­
+
+ JUSTICE SOTOMAYOR: 
+
+No.  Because the taxes 
+
+have already been paid.  But there's a penalty.  How 
+
+many of those others? 
+
+ MR. SHANMUGAM: 
+
+Well, there is no penalty 
+
+with regard to contributions.  And indeed there is no 
+
+penalty with regard to the entire amount to the extent 
+
+that it is being used for one of the specified 
+
+non­retirement purposes, for which the funds can be 
+
+withdrawn without penalty.  And those are the 
+
+educational and medical and other purposes that we set 
+
+out in our brief. 
+
+ The two primary types of accounts for which 
+
+money can be withdrawn without penalty are Roth IRAs and 
+
+these 457(b)'s that I was referring to a minute earlier. 
+
+ Now, I do want to say just one more thing 
+
+about the text of the statute in response to Justice 
+
+Ginsburg.  The court of appeals, unlike Respondents 
+
+here, offered an interpretation under which retirement 
+
+funds would mean funds that have been set aside for the 
+
+debtor's own retirement.  But the fundamental flaw with 
+
+that interpretation is that it reads an additional 
+
+limitation into the statute, this debtor­based 
+
+limitation. 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ And as we point out in our brief, all 11 of 
+
+the other exemptions in Section 522(d) contain 
+
+references to the debtor.  And many of those references, 
+
+including the homestead exemption, specifically refer to 
+
+uses by the debtor.  And so in order to invoke the 
+
+Federal homestead exemption ­­
+
+ JUSTICE SOTOMAYOR: 
+
+How would a retirement 
+
+fund ­­ except in this situation an inherited one, 
+
+wouldn't that always be a debtor's? 
+
+ MR. SHANMUGAM: 
+
+Well ­­
+
+ JUSTICE SOTOMAYOR: 
+
+The name is generally a 
+
+debtor's. 
+
+ MR. SHANMUGAM: 
+
+Well, that is certainly 
+
+true, which is to say that that limitation would 
+
+obviously exclude inherited IRAs and inherited IRAs 
+
+alone.  And I would just note parenthetically that if 
+
+there were any evidence that Congress had actually 
+
+focused on this issue and if in fact Congress's intent 
+
+had been to exclude inherited IRAs, this would be a very 
+
+odd way of going about effectuating that intent through 
+
+this negative inference from the phrase "retirement 
+
+funds." 
+
+ JUSTICE ALITO: 
+
+Well, let's suppose there 
+
+are two debtors who are in a somewhat similar situation, 
+
+but one simply inherits $300,000 from a parent who dies 
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+and the other is the beneficiary of an IRA that the 
+
+parent had.  Why would Congress want to give 
+
+preferential treatment in bankruptcy to the latter and 
+
+not the former?  Both of them have ­­ can use the money 
+
+immediately. 
+
+ MR. SHANMUGAM: 
+
+Justice Alito, that is 
+
+simply because ­­ and this is a very important 
+
+"because" ­­ the funds remain in a tax­exempt retirement 
+
+account.  And while it is true that the degree of tax 
+
+deferral in the hands of a beneficiary is perhaps not 
+
+quite as great as it is in the hands of an initial 
+
+owner, it is still considerable.  The funds remain tax 
+
+exempt while they remain in the account.  And while it 
+
+is true that the beneficiary of an inherited IRA must 
+
+take certain required minimum distributions, the 
+
+accountholder, the beneficiary, can stretch out the tax 
+
+consequences over the course of her own lifetime. 
+
+ JUSTICE ALITO: 
+
+I tend to think of this 
+
+in ­­ in rather simple terms, retirement funds.  Why 
+
+would Congress provide this treatment for retirement 
+
+funds?  Because it doesn't want debtors to be completely 
+
+without means of supporting themselves after they reach 
+
+retirement age. 
+
+ But in this situation, particularly where 
+
+the beneficiary is a relatively young person, the money 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+is either all going to be withdrawn immediately, long 
+
+before retirement age is reached, or if it's taken out 
+
+on a ­­ on an an annual basis, much of the money will be 
+
+distributed before retirement.  In this case, it would 
+
+be roughly two­thirds, wouldn't that be correct, would 
+
+be distributed to ­­ to the beneficiary prior to 65? 
+
+ MR. SHANMUGAM: 
+
+I actually don't think that 
+
+that is correct as an empirical matter, Justice Alito. 
+
+And as we explain in our brief, as long as the annual 
+
+rate of return is a reasonable one, it will often be the 
+
+case and, indeed, it's a quite plausible scenario, that 
+
+a beneficiary will end up with more or roughly the same 
+
+amount in the account at retirement as at the time ­­
+
+ JUSTICE KAGAN: 
+
+Well, at the very least, Mr. 
+
+Shanmugam, it's a one­way ratchet.  You absolutely 
+
+cannot add to these funds; is that correct? 
+
+ MR. SHANMUGAM: 
+
+Yes, that is correct. 
+
+ JUSTICE KAGAN: 
+
+I mean, that seems like a 
+
+strange feature of a retirement fund, that you can't add 
+
+to the fund and that, moreover, you have to deplete the 
+
+fund at least to a certain amount.  It may not be the 
+
+whole thing.  You may try to keep it as a retirement 
+
+fund in order to get tax savings, tax benefits for it, 
+
+but at least in part you're going to have to deplete the 
+
+fund.  You can't add to it.  That doesn't seem like a 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+retirement fund in people's natural understanding of the 
+
+language. 
+
+ MR. SHANMUGAM: 
+
+Well, at the risk of seeming 
+
+flip, Justice Kagan, I think that one point that's 
+
+important to keep in mind is that this is still 
+
+denominated a retirement account.  And why that's actually 
+
+substantively important and not just a formalism is 
+
+because that has significant tax consequences.  The 
+
+funds remain exempt as long as they remain in the 
+
+account.  And to go to Justice ­­
+
+ JUSTICE GINSBURG: 
+
+Wasn't the purpose of 
+
+that, however, to see that the beneficiary wasn't going 
+
+to be hit with a huge tax liability if it had to take 
+
+the whole thing all at once? 
+
+ MR. SHANMUGAM: 
+
+But it also gives the 
+
+beneficiary the ability to use the funds in the account 
+
+for her own retirement. 
+
+ Now, just to be clear, we don't think that 
+
+whether or not the beneficiary in fact does so is 
+
+relevant, precisely because of the language that 
+
+Congress chose. 
+
+ And, Justice Alito, to go to the underlying 
+
+policy justifications here ­­ and I do so with the 
+
+proviso that we obviously think that the plain language 
+
+disposes of this case without any need to weigh the 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+policy justifications.  But we think that there are, in 
+
+fact, important and compelling policy justifications to 
+
+support our interpretation, and we think that it is 
+
+therefore no accident that seven States in the last 3 
+
+years alone have expressly exempted inherited IRAs. 
+
+ The first of those policy justifications is 
+
+that Congress wanted to link bankruptcy exemption to tax 
+
+exemption and there is some evidence in the legislative 
+
+history to support that as the policy justification for 
+
+this very expansive provision.  After all, Congress 
+
+enacted the retirement funds exemption knowing that 
+
+there were already other exemptions or exceptions that 
+
+covered a vast range of retirement accounts and yet 
+
+Congress deliberately chose this very broad language in 
+
+order to provide even broader protection and, really, to 
+
+link bankruptcy exemption ­­ bankruptcy protection to 
+
+tax protection. 
+
+ JUSTICE ALITO: 
+
+Why would Congress want to 
+
+do that? 
+
+ MR. SHANMUGAM: 
+
+I think really for ease of 
+
+application.  Congress in the Tax Code has obviously 
+
+already made judgments about which types of retirement 
+
+accounts should be subject to special treatment.  And 
+
+the retirement funds exemption simply creates congruence 
+
+between the Bankruptcy Code and the Tax Code. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ Now, to be sure, we don't think that that's 
+
+the only relevant policy justification here.  And we do 
+
+think that the fact that Congress has made considerable 
+
+tax benefits available to the holders of inherited IRAs 
+
+is indeed significant.  And Congress for two decades had 
+
+provided this ability for the beneficiaries of inherited 
+
+IRAs to stretch out the tax consequences over the course 
+
+of their entire lifetimes.  And so exempting inherited 
+
+IRAs really does encourage beneficiaries to take 
+
+advantage of those available tax benefits. 
+
+ JUSTICE GINSBURG: 
+
+But in this very case, I 
+
+mean, this was a fund of what, $400,000­odd.  The 
+
+daughter, the beneficiary, had already spent 150,000 of 
+
+that. 
+
+ MR. SHANMUGAM: 
+
+She had taken out more than 
+
+the required minimum distributions before she went into 
+
+bankruptcy and then she took out one additional extra 
+
+distribution immediately after going into bankruptcy. 
+
+But I think it is fair to say that, regardless of the 
+
+circumstances of my clients, many individuals who are in 
+
+this position will use these inherited IRAs as 
+
+retirement tools or at a minimum as long­term financial 
+
+planning tools.  And again, it is certainly congruent 
+
+with that policy interest, an interest that is expressed 
+
+in the relevant tax provisions, to exempt inherited 
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+IRAs as well. 
+
+ JUSTICE KAGAN: 
+
+Mr. Shanmugam, can I go back 
+
+to Justice Kennedy's statement, because I wasn't quite 
+
+sure I understood your answer.  He asked why did they 
+
+use this retirement ­­ "retirement funds" phrase at all 
+
+and you said, well, just in case Congress adds something 
+
+later to these sections.  And then you thought that 
+
+there was a second point, too.  And what was the second 
+
+point? 
+
+ MR. SHANMUGAM: 
+
+I think my second point, 
+
+Justice Kagan, was simply that the use of the phrase 
+
+"retirement funds" really makes clear the purpose of 
+
+this provision in a way that I think would obviously not 
+
+be clear absent that reference. 
+
+ JUSTICE KAGAN: 
+
+Well, why would that be 
+
+important to Congress, that it wanted to clarify the 
+
+purpose of the provision, if you're saying that 
+
+everything that was currently in, that was currently ­­
+
+that currently received tax protection in these 
+
+sections, counted? 
+
+ MR. SHANMUGAM: 
+
+Well, I think that it is 
+
+admittedly descriptive.  And to be sure, Congress at the 
+
+time it enacted this provision may not have been 100 
+
+percent sure that everything in those tax provisions was 
+
+in fact a retirement account.  Because if you take a 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+look at Section 501 of the Internal Revenue Code, it may 
+
+be many things, but immediately clear it certainly is 
+
+not.  And so Congress may have just wanted to ensure 
+
+that only funds that have been set aside in retirement 
+
+accounts are exempted, whether with reference to the Tax 
+
+Code as it currently stands or with regard to anything 
+
+that might subsequently be added to the tax code in the 
+
+future. 
+
+ But again, I think it's really important to 
+
+underscore the structure of this particular provision. 
+
+I think when you have a statute that contains a phrase 
+
+like "to the extent that," it is in fact entirety 
+
+natural for what comes before that clause, the 
+
+antecedent, if you will, to set out a broad category 
+
+which is then narrowed by the "to the extent that" 
+
+clause. 
+
+ And so, for example, if you had a statute 
+
+that created a tax break for sports teams to the extent 
+
+that they are members of the major professional sports 
+
+leagues, you wouldn't immediately think that the phrase 
+
+"sports teams" has to somehow do some exclusionary work. 
+
+It would be perfectly natural to view "sports teams" as 
+
+an incredibly broad category that could include little 
+
+league teams as well, but then view the "to the extent 
+
+that" clause to narrow it to teams that play in Major 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+League Baseball or the National Football League. 
+
+ So too here, "retirement funds" simply 
+
+refers to funds that have been set aside for retirement 
+
+and the "to the extent that" clause narrows that broad 
+
+category to funds that have been set aside and remain in 
+
+the enumerated types of retirement accounts. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, you still have 
+
+the problem of figuring out set aside, you know, by ­­
+
+by whom.  It seems to me that if you inherit one of 
+
+these IRAs and somebody, you know, asked you about it, 
+
+you could say, well, my mother ­­ you know, you wouldn't 
+
+say, would you, my mother left me a retirement account? 
+
+You would say my mother left me $300,000. 
+
+ MR. SHANMUGAM: 
+
+Well, you might say either 
+
+of those things, Mr. Chief Justice. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+I know, but I think 
+
+it's more likely that you would be describing ­­ if you 
+
+said a retirement account, it would seem to me to be 
+
+confusing to the normal English speaker, while if you 
+
+say what the amount is, I mean, that's what you got and 
+
+you could take it all out the next day, which is why the 
+
+retirement aspect would seem to be incidental. 
+
+ MR. SHANMUGAM: 
+
+Well, I don't think that 
+
+there actually is anything odd about that, and I think 
+
+in part that's because of what these accounts actually 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+are.  We refer to them as inherited individual 
+
+retirement accounts, and there are a few references to 
+
+inherited IRAs in the statute, but they really remain 
+
+individual retirement accounts in the most relevant 
+
+sense. 
+
+ I don't think there's really any dispute 
+
+that, even in the hands of a beneficiary, an individual 
+
+retirement account remains tax exempt under Section 
+
+408(e) of the Internal Revenue Code. 
+
+ JUSTICE SOTOMAYOR: 
+
+I'm not sure why tax 
+
+exemption is the point.  I thought the point of 
+
+retirement funds was that you would keep the money to a 
+
+certain designated age, 59­1/2.  I think that's what 
+
+your opponent is arguing.  The tax consequences are 
+
+irrelevant to the Roth IRA, so it can't be that tax 
+
+exemption is the meaning of a retirement fund. 
+
+ MR. SHANMUGAM: 
+
+But I think, Justice 
+
+Sotomayor, that is what it means in the context of this 
+
+statute.  And our interpretation ­­
+
+ JUSTICE SOTOMAYOR: 
+
+But why?  This includes 
+
+Roth IRAs. 
+
+ MR. SHANMUGAM: 
+
+Right.  The Roth IRAs remain 
+
+tax exempt.  That is to say, as long as the funds are in 
+
+the account, they remain tax exempt. 
+
+ JUSTICE SOTOMAYOR: 
+
+They are tax exempt, 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+period, because taxes were paid when the money was put 
+
+in. 
+
+ MR. SHANMUGAM: 
+
+That's correct.  But they 
+
+also remain tax exempt while they're in the account. 
+
+And so to give you an example, if, for instance, you 
+
+have an IRA or a Roth IRA and you engage in certain 
+
+transactions, you move funds out of a particular stock 
+
+and move them into another stock, you would ordinarily 
+
+have to pay capital gains.  But as long as they remain 
+
+in the account, they are not subject to taxation. 
+
+That's all that "tax exempt" means in the statute. 
+
+ But I think more broadly, our interpretation 
+
+of the statute really reads the statute as an integrated 
+
+whole.  To be sure, it might be a very different statute 
+
+if it stopped after the phrase "retirement funds," and 
+
+someone might be able to argue, for instance, that if 
+
+they put money aside in a general purpose investment 
+
+account, that would qualify as long as they intended to 
+
+use those funds for retirement. 
+
+ But under our interpretation, "retirement 
+
+funds" has to be read in the context of the "to the 
+
+extent that" clause, and that clause really explains how 
+
+it is that the funds are set aside for retirement. 
+
+Funds have to be set aside in one of the enumerated 
+
+types of accounts in order to qualify.  And I think this 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+discussion really points up the fundamental textual flaw 
+
+with Respondents' interpretation. 
+
+ Respondents talk at great length in their 
+
+brief about the supposed objective features that define 
+
+a retirement account.  As we explain in our reply brief, 
+
+many of those features are not shared by all of the 
+
+enumerated accounts in the statute.  But more 
+
+importantly, Congress specified, Justice Sotomayor, the 
+
+one objective feature that matters for purposes of the 
+
+application of the exemption, and that is the tax­exempt 
+
+status of the funds in the account, and that is all that 
+
+is required in order to trigger this very expansive 
+
+provision. 
+
+ JUSTICE GINSBURG: 
+
+So for your purposes, you 
+
+wouldn't need ­­ I mean, you would be ­­ you would have 
+
+a, I think, an airtight case if the statute didn't use 
+
+the word "retirement funds," it just exempted funds 
+
+in ­­ in an account that is exempt from taxation, 
+
+period? 
+
+ MR. SHANMUGAM: 
+
+It ­­ it may very well be, 
+
+Justice Ginsburg, that such a statute would have the 
+
+same meaning, at least as the Tax Code is currently 
+
+constituted.  But again, we think that it gives meaning 
+
+to the word "retirement," which is really the only term 
+
+that Respondents argue would be superfluous under our 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+interpretation, by saying that the word "retirement" 
+
+serves a clarifying function.  It makes clear that only 
+
+funds that have been set aside in retirement accounts 
+
+can be exempted.  And so if Congress were, say, to tack 
+
+some new form of educational savings account onto the 
+
+back end of Section 408 of the Tax Code, money that is 
+
+set aside in that account would be excluded and that 
+
+would be a circumstance under which the term 
+
+"retirement" would do some additional work. 
+
+ But I think it's important to underscore, 
+
+and this is why I really want to focus on the structure 
+
+of this particular statutory provision, that "retirement 
+
+funds" has meaning under our interpretation.  It is a 
+
+broader category which the phrase "to the extent that" 
+
+then narrows.  It is simply that the word "retirement" 
+
+does not necessarily do any exclusionary work.  But that 
+
+does not mean that the word "retirement" is superfluous. 
+
+It simply means that as a matter of natural grammar 
+
+Congress started with a broader category, retirement 
+
+funds, and then proceeded to narrow it with the "to the 
+
+extent that" clause that follows. 
+
+ Our interpretation naturally follows from 
+
+the structure of the text of the statute and it is 
+
+certainly preferable as a textual matter to Respondents' 
+
+interpretation, which, however it is sliced, ultimately 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+reads an additional limitation into the text of the 
+
+statute.  And this is not the paradigmatic sort of 
+
+statutory interpretation case where ­­
+
+ JUSTICE GINSBURG: 
+
+But it would just be 
+
+defining "retirement funds" to mean the debtor's 
+
+retirement funds. 
+
+ MR. SHANMUGAM: 
+
+And that is the additional 
+
+limitation that the court of appeals read into the 
+
+statute.  I would respectfully submit that that is not 
+
+quite the interpretation that Respondents are advancing. 
+
+But this is the one exemption in Section 522(d) that 
+
+contains no reference to the debtor.  And if Congress 
+
+had intended to set ­­ to limit the provision to funds 
+
+that have been set aside for the debtor's own 
+
+retirement, Congress certainly knew how to say so. 
+
+ And I would just say one other thing before 
+
+reserving the balance of my time, and that is, that this 
+
+is not the paradigmatic statutory interpretation case 
+
+where you have the text of the statute on the one hand 
+
+and the legislative history of this statute on the 
+
+other.  There is no relevant legislative history here. 
+
+There is no evidence in the long history of BAPCPA ­­
+
+ JUSTICE KENNEDY: 
+
+So all we have is the 
+
+statute on one hand and common sense on the other. 
+
+ MR. SHANMUGAM: 
+
+I would respectfully submit 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+that if you think that this is that sort of case, that 
+
+seven State legislatures might have a beef with that, 
+
+Justice Kennedy, because seven States ­­
+
+ JUSTICE GINSBURG: 
+
+Could you explain in that 
+
+context?  You said something about uniformity.  Seven 
+
+states isn't a particularly high percentage of the 
+
+States.  Does the ­­ does the debtor's home State ­­ has 
+
+the debtor's home State adopted this exemption? 
+
+ MR. SHANMUGAM: 
+
+No, Justice Ginsburg.  But 
+
+what is really unique about this exemption is that it 
+
+applies to individuals regardless of whether they opt 
+
+for the Federal or the State exemption regime.  So this 
+
+was a case in which my clients, Petitioners, opted for 
+
+the Wisconsin exemption regime, but were entitled to 
+
+invoke this exemption precisely because it applies 
+
+regardless of which regime debtors proceed under. 
+
+ And in our view, that is an additional 
+
+policy argument in addition to the ones that I set out 
+
+earlier that supports our interpretation.  Congress 
+
+clearly wanted to provide uniformity across the Federal 
+
+and State regimes.  Our interpretation provides that 
+
+uniformity.  I am sure ­­
+
+ JUSTICE GINSBURG: 
+
+So would the other 
+
+interpretation that says it has to be the debtor's 
+
+retirement account. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ MR. SHANMUGAM: 
+
+Well, no, because under that 
+
+interpretation, by virtue of the fact that States have 
+
+as a policy matter opted to provide protection for 
+
+inherited IRAs, you would have disuniformity, depending 
+
+on whether or not an individual was proceeding under the 
+
+exemption regimes of one of these States. 
+
+ Justice Kennedy ­­
+
+ JUSTICE KENNEDY: 
+
+Well, if we ­­ if we 
+
+look ­­ if we look to what the States did, are there 
+
+some statements, some recitation of purpose that does 
+
+weigh in on the common sense side of the equation in 
+
+your favor; in other words, the States were doing this 
+
+for some ­­for some particular reason? 
+
+ MR. SHANMUGAM: 
+
+We have been unable to find 
+
+any legislative history in those seven States and we 
+
+have certainly looked for it.  I would respectfully 
+
+submit that the policy interests are the ones that I've 
+
+articulated.  And in addition to the ones I've 
+
+articulated, I would just add that our interpretation 
+
+does provide additional encouragement for individuals to 
+
+save for retirement in the first instance, knowing that 
+
+if they leave funds to an intended beneficiary, those 
+
+funds will be protected in the event that the 
+
+beneficiary goes into bankruptcy. 
+
+ My point is simply that in the absence of 
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+any legislative history, this is not a case in which 
+
+this Court should weigh the policy judgments itself and 
+
+impose them on the broad language that Congress actually 
+
+wrote.  It should give effect to that language and if 
+
+the ­­ in the event that Congress wants to create an 
+
+exception, it can obviously do so. 
+
+ And I would reserve the balance of my time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Ms. Spinelli. 
+
+ ORAL ARGUMENT OF DANIELLE SPINELLI 
+
+ ON BEHALF OF THE RESPONDENTS 
+
+ MS. SPINELLI: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ The parties agree that retirement funds are 
+
+funds set aside for the day when an individual stops 
+
+working.  Funds in an inherited IRA do not meet that 
+
+definition.  When the beneficiary of an inherited IRA 
+
+files for bankruptcy, the funds in the inherited IRA are 
+
+no longer set aside for the original owner's retirement, 
+
+nor are they set aside for the beneficiary's retirement. 
+
+The beneficiary of an inherited IRA can withdraw all the 
+
+funds in the account at any time for any reason without 
+
+restriction. 
+
+ JUSTICE SOTOMAYOR: 
+
+But that's true of a 
+
+beneficiary who receives a retirement fund from an 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+employer­sponsored retirement account.  And there is at 
+
+least one amici, Tribune, who says that makes ­­ why 
+
+would we impute into ­­ to Congress a desire to treat 
+
+employer­sponsored retirement funds differently from 
+
+employee­sponsored funds? 
+
+ MS. SPINELLI: 
+
+Two responses to that, 
+
+Justice Sotomayor.  First, as we point out in our brief, 
+
+that is a situation that's very unlikely to arise, 
+
+because in most qualified retirement plans, including 
+
+401(k)'s, the plan provides that beneficiaries have to 
+
+take the funds in the account in a lump sum.  That's the 
+
+reason Congress in Section 402(c)(11) of the Tax Code 
+
+provided that non­spousal beneficiaries of such accounts 
+
+can roll those funds over into an inherited IRA. 
+
+ The other point, though, is that qualified 
+
+retirement plans ­­
+
+ JUSTICE SOTOMAYOR: 
+
+But an inherited IRA is 
+
+tax exempt.  It's ­­ it can't be alienated.  So in 
+
+bankruptcy, that would still be protected. 
+
+ MS. SPINELLI: 
+
+Let me ­­ let me clarify, 
+
+Justice Sotomayor.  Qualified retirement plans, 
+
+including 401(k)'s, are subject to the provision in 
+
+ERISA that requires that they be non­alienable.  Because 
+
+of that, those plans never come into the bankruptcy 
+
+estate to begin with under Section 541(c)(2) of the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Bankruptcy Code. 
+
+ IRAs are not subject to that requirement of 
+
+ERISA.  So there is a difference in treatment between 
+
+401(k)'s and IRAs to begin with.  That is the result of 
+
+Congress's conscious decision in ERISA not to make IRAs 
+
+subject to that requirement.  It has ­­
+
+ JUSTICE KAGAN: 
+
+Please.  I'm sorry. 
+
+ MS. SPINELLI: 
+
+It doesn't ­­ I don't think 
+
+it affects the interpretation of this specific 
+
+provision. 
+
+ JUSTICE KAGAN: 
+
+Can I go back to your 
+
+initial point, and just ­­ I mean, it seems to me that 
+
+these are kind of hybrids.  You were saying, oh, they 
+
+are nothing like retirement accounts for the ­­ for the 
+
+reasons that you gave.  But they are something like 
+
+retirement accounts, which is that they are tax­deferred 
+
+and that there is an enormous incentive for people 
+
+actually to try to use them as retirement accounts to 
+
+the extent that they don't have current pressing needs. 
+
+ So, you know, given that, why shouldn't ­­
+
+given the sort of half and half, why shouldn't we just 
+
+treat them as retirement accounts, if nothing else for, 
+
+than for administrative simplicity? 
+
+ MS. SPINELLI: 
+
+Justice Kagan, I don't 
+
+believe they are half and half.  I do believe they are 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+fundamentally different.  All the ­­ all the retirement 
+
+plans that are governed by the enumerated provisions of 
+
+the Tax Code share two things in common.  One is that 
+
+there is some restriction on the ability to take funds 
+
+out prior to 59­1/2 or retirement age. 
+
+ The other is that one can leave the funds to 
+
+grow intact until retirement.  Neither of those is true 
+
+of an inherited IRA. 
+
+ JUSTICE KAGAN: 
+
+Yes, but in a case in which 
+
+one inherits one of these things as a young person or 
+
+even as a middle­aged person, they actually ­­ to the 
+
+extent that you don't take the option to take it out at 
+
+once, it really looks like a retirement account to a 
+
+person. 
+
+ So I just did some back­of­the­envelope 
+
+calculations.  Suppose you inherit a $200,000 IRA. 
+
+Looks to me as though you're going ­­ at the age of 
+
+about 50 or so.  Looks to me you're going to get a check 
+
+for about $5,000 a year, and your account can grow far 
+
+more than that. 
+
+ So it ends up sort of looking like one's 
+
+retirement portfolio. 
+
+ MS. SPINELLI: 
+
+It's certainly true that the 
+
+accounts can grow depending on the age at which they're 
+
+inherited and the rate of return.  There's no question 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+about that.  I think the question is whether the 
+
+tax­exempt treatment of inherited IRAs has anything to 
+
+do with retirement.  And I don't think that ­­ that can 
+
+be reconciled with the conscious decision that Congress 
+
+made not to permit non­spousal beneficiaries of IRAs to 
+
+treat the funds as their own. 
+
+ JUSTICE KENNEDY: 
+
+Would you ­­ would you 
+
+agree that it ­­ pursuant to the Petitioner's counsel's 
+
+last comment, that it does affect the retirement 
+
+decision of the original owner? 
+
+ MS. SPINELLI: 
+
+No, I would not, Justice 
+
+Kennedy.  Well, actually ­­
+
+ JUSTICE KENNEDY: 
+
+In other words ­­ in other 
+
+words, there's a benefit to ­­ this is an encouragement 
+
+for the original owner to retire because he knows that 
+
+this can be handed down. 
+
+ MS. SPINELLI: 
+
+Two points in response to 
+
+that.  First, I think that to the extent such a 
+
+motivation exists, it's extremely attenuated.  But more, 
+
+importantly, encouraging retirement savings is not a 
+
+motivation behind the bankruptcy exemptions.  It 
+
+certainly is a motivation behind the Tax Code.  It's not 
+
+a motivation behind the bankruptcy exemptions. 
+
+ Chapter 7 has as its basic bargain the 
+
+notion that the debtor gets a fresh start, that is, a 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+discharge of prepetition debt.  And in return for that, 
+
+the debtor turns over all prepetition property to the 
+
+trustee for equitable distribution among creditors with 
+
+legitimate claims. 
+
+ Now, there are exceptions to that, which are 
+
+the bankruptcy exemptions, which make sure that the 
+
+debtor has sufficient assets remaining after the 
+
+bankruptcy to provide basic life necessities, and that 
+
+includes assets saved to be a substitute for wages in 
+
+retirement. 
+
+ So the bankruptcy exemptions really balance 
+
+a set of competing interests:  On the one hand, the 
+
+debtor's interest in obtaining a fresh start; on the 
+
+other hand, the creditors' interest in a fair and 
+
+equitable distribution on account of their legitimate 
+
+claims, and also society at large's interest in ensuring 
+
+a continued flow of consumer credit. 
+
+ Those interests have been carefully balanced 
+
+by Congress, and I submit that it doesn't make sense to 
+
+read the text of the bankruptcy exemptions in a way that 
+
+furthers the goal of saving for retirement.  That just 
+
+doesn't fit into the considerations Congress balanced. 
+
+ JUSTICE GINSBURG: 
+
+The court below had a ­­
+
+had a simple take on this.  It says that "retirement 
+
+funds" means funds set aside for the debtor's own 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+29
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+retirement.  Petitioner tells us that you don't defend 
+
+that definition, the definition that "retirement funds" 
+
+means the debtor's retirement funds.  Is that so? 
+
+ MS. SPINELLI: 
+
+Well, Justice ­­ I apologize. 
+
+ JUSTICE GINSBURG: 
+
+Is it so that you do not 
+
+defend the position that "retirement funds" means funds 
+
+set aside for the debtor's own retirement? 
+
+ MS. SPINELLI: 
+
+I think our basic position is 
+
+that at the time the bankruptcy petition is filed, which 
+
+is at the time that the exemptions are determined and 
+
+the only relevant time for purposes of this case, the 
+
+funds are not set aside for anyone's retirement.  They 
+
+are no longer set aside for the original owner's 
+
+retirement because the original owner has died.  They're 
+
+not set aside for the debtor's retirement because of the 
+
+characteristics that I've previously alluded to.  The 
+
+debtor can't make additional contributions, can't roll 
+
+them over into his or her own retirement account. 
+
+ JUSTICE SOTOMAYOR: 
+
+Why are you fighting 
+
+Justice Ginsburg?  I just need to understand what you 
+
+see as a difference. 
+
+ MS. SPINELLI: 
+
+Let me ­­ let me clarify, 
+
+Justice Sotomayor and Justice Ginsburg.  I think that 
+
+the upshot of our position may well be that it's ­­ it 
+
+only ­­ only the debtor's retirement funds are relevant. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+I think that's so because the date on which the 
+
+exemptions are determined is the petition date.  And 
+
+because of that, I think it's effectively the case that 
+
+it is only the debtor's retirement funds that are 
+
+relevant. 
+
+ Now, that makes sense because the purpose of 
+
+the bankruptcy exemptions is to ensure the support of 
+
+the debtor and the debtor's dependents. 
+
+now, just to respond quickly ­­
+
+ JUSTICE GINSBURG: 
+
+It's just ­­ it's just 
+
+puzzling why you want to disassociate yourself from the 
+
+clear position of the court below that "retirement 
+
+funds" means the debtor's retirement funds.  Why would 
+
+you want to do that? 
+
+ MS. SPINELLI: 
+
+I don't want to do that, 
+
+Justice Ginsburg. 
+
+ JUSTICE BREYER: 
+
+You don't?  Because I 
+
+suppose one reason I thought you might want to do it is 
+
+because in (d) there are a list of, "the following 
+
+property may be exempted," and then we have 12 items. 
+
+And the first item, number one, the debtor's aggregate 
+
+interest; two, the debtor's interest in the motor 
+
+vehicle; three, the debtor's interest in furnishings; 
+
+four, the debtor's interest in jewelry; five, the 
+
+debtor's interest in 1225; six, the debtor's aggregate 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+interest in; seven, et cetera, life insurance owned by 
+
+the debtor; eight, the debtor's interest; nine, 
+
+prescribed health.  You know, I can go through those. 
+
+ MS. SPINELLI: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+And then we get to number 
+
+12.  And Number 12, oddly enough, just says retirement 
+
+funds. 
+
+ MS. SPINELLI: 
+
+Yes, but let ­­
+
+ JUSTICE BREYER: 
+
+It doesn't say anything 
+
+about the debtor.  And moreover, it has four paragraphs 
+
+earlier in which it describes retirement funds in which 
+
+it says nothing about the debtor.  And then there are 
+
+three paragraphs prior to that in which, once again, 
+
+we're talking about State exemptions, we talk about the 
+
+debtor's interest in real property, et cetera, and then 
+
+we say retirement funds. 
+
+ MS. SPINELLI: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+So I guess that's the 
+
+reason you didn't want to say it means the debtor's 
+
+retirement funds. 
+
+ MS. SPINELLI: 
+
+Let me respond to that, 
+
+Justice Breyer. 
+
+ First, just to finish my response to Justice 
+
+Ginsburg's question.  We are not abandoning the 
+
+reasoning of the court of appeals.  The court of appeals 
+
+1 
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18
+
+19 
+
+20 
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+looked at the objective characteristics of inherited 
+
+IRAs and said that inherited IRAs are not set aside for 
+
+anyone's retirement, and we ­­ that is precisely the 
+
+argument that we're advancing. 
+
+ Now, Justice Breyer, as to your point, I 
+
+don't think that the ­­ the use of the phrase "the 
+
+debtor" in those other exemptions at all helps 
+
+Petitioner's argument, and this is the reason:  Only the 
+
+debtor's interest in property can come into the 
+
+bankruptcy estate in the first place.  Section 541(a)(1) 
+
+­­
+
+ JUSTICE BREYER: 
+
+No, I see your argument 
+
+here.  I ­­ I just thought there is no easy answer, one 
+
+way or the other, because this is a case where common 
+
+sense, frankly, in my case doesn't get me anywhere, and 
+
+that's why ­­
+
+ MS. SPINELLI: 
+
+Well, I think to answer that 
+
+as well ­­
+
+ JUSTICE BREYER: 
+
+And I sort of looked at the 
+
+statute and the statute kept talking about the debtor's 
+
+interest in everything else and then we get to this one, 
+
+it says retirement funds. 
+
+ MS. SPINELLI: 
+
+That's correct, Justice 
+
+Breyer. 
+
+ JUSTICE BREYER: 
+
+So I thought it means 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25
+
+33
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+retirement funds. 
+
+ MS. SPINELLI: 
+
+But the reason that these 
+
+other ­­ and by the way, this appears on Page 5­A of the 
+
+appendix to the red brief.  The reason that the other 
+
+Federal exemptions use the term "the debtor" is in order 
+
+to set a cap on the value of the exemption.  So as you 
+
+said, (d)(1) says, "The debtor's aggregate interest not 
+
+to exceed a certain amount in value in real property." 
+
+ (2) is "The debtor's interest not to exceed 
+
+a certain amount in value in one motor vehicle."  The 
+
+use of "the debtor" there does not suggest that the 
+
+exemption is limited to the debtor's interest in 
+
+property.  That's already implicit because under 
+
+541(a)(1), only the debtor's interest in property can 
+
+come into the estate in the first place, so only the 
+
+debtor's interest in property is exempt. 
+
+ The reason similar language doesn't appear 
+
+in (d)(12) is that the cap on the value of the 
+
+retirement funds exemption appears elsewhere in the 
+
+statute at Section 522(n). 
+
+ There are also certain ­­ just to offer a 
+
+complete response to this, there are also certain of the 
+
+exemptions that talk about assets for the use 
+
+of ­­
+
+ JUSTICE BREYER: 
+
+You don't have to, on my 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+account, go into this, because I was just giving that as 
+
+an example of why I find this not an easy case.  I don't 
+
+see an easy answer to it.  That's all.  I ­­ I 
+
+understand your point and that's why you're making a 
+
+different point of what retirement funds are. 
+
+ MS. SPINELLI: 
+
+Well, I think once ­­ once 
+
+one agrees that retirement funds are funds set aside for 
+
+retirement, this does become a fairly easy case, because 
+
+these funds are not set aside ­­
+
+ JUSTICE BREYER: 
+
+Oh, no, but they were. 
+
+ MS. SPINELLI: 
+
+They were at one time. 
+
+ JUSTICE BREYER: 
+
+And so a retirement fund is 
+
+a fund that was set aside for retirement.  At some point 
+
+in time, someone set aside for retirement.  Now the 
+
+question is, they were set aside for retirement and no 
+
+one denies that and so ­­
+
+ MS. SPINELLI: 
+
+That's correct. 
+
+ JUSTICE BREYER: 
+
+­­ do they change their 
+
+nature because a different person now owns the fund? 
+
+ MS. SPINELLI: 
+
+And they do ­­
+
+ JUSTICE BREYER: 
+
+Now, if you were talking 
+
+about pearl earrings, you would say they stay pearl 
+
+earrings no matter who retains it.  If you say 
+
+retirement funds, you say, but they were retirement 
+
+funds.  When did they change their nature?  And at that 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10
+
+11
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+point you have to make your argument, which I think is a 
+
+more ­­ is complicated, but perhaps I understand and he 
+
+makes his argument and says, let's keep this simple. 
+
+They were retirement funds, period, okay?  And that ­­
+
+that's where I am, if you want to know.  I mean, that's 
+
+­­ I have to figure it out. 
+
+ MS. SPINELLI: 
+
+Justice Breyer, two ­­ two 
+
+points.  First, the nature ­­ unlike a pearl earring, 
+
+the nature of these funds fundamentally changes when the 
+
+original owner dies and the interest passes to a 
+
+non­spousal beneficiary.  And one thing that might help 
+
+make that clearer is the difference between what happens 
+
+when a spousal beneficiary receives the interest and 
+
+when a non­spousal beneficiary receives the interest. 
+
+ A spousal beneficiary can treat the 
+
+retirement funds as her own.  She can roll them over 
+
+into her own retirement accounts.  She can make 
+
+contributions.  There's a penalty for taking the funds 
+
+out prior to age 59 1/2, assuming it's a traditional 
+
+IRA. 
+
+ None of those things are true of inherited 
+
+IRAs, which require the non­spousal beneficiary to begin 
+
+taking the funds out immediately. 
+
+ JUSTICE KAGAN: 
+
+Ms. Spinelli, here's one 
+
+thing that's a little bit perplexing to me.  These are 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+not arcane accounts.  Tons and tons of people have IRAs 
+
+and they die every day, and then they're inherited IRAs. 
+
+So, I mean, this is something that applies to masses of 
+
+people, and it seems to me that if ­­ if Congress meant 
+
+to exclude these inherited IRAs, why wouldn't it have 
+
+said so?  This is not like a hidden thing and then all 
+
+of a sudden you realize, oh, that was there.  We should 
+
+have said something about it.  And this is ­­ this is 
+
+pretty obvious that an enormous number of people are 
+
+going to have these accounts and you write language that 
+
+suggests because of the listing of the sections, that 
+
+these are ­­ you know, these accounts are in those 
+
+sections, why wouldn't have Congress done something more 
+
+explicit to exclude them? 
+
+ MS. SPINELLI: 
+
+Well, Justice Kagan, I 
+
+believe Congress did exclude them by using the phrase 
+
+"retirement funds" as to doing something more explicit. 
+
+ JUSTICE KAGAN: 
+
+Well, that's at the least a 
+
+very ambiguous way to exclude them.  Then we have to get 
+
+into this whole question of what did they mean when they 
+
+said retirement funds?  Are these retirement funds?  In 
+
+what way are they retirement funds?  I mean, that's 
+
+pretty ­­
+
+ MS. SPINELLI: 
+
+As ­­ as to whether Congress 
+
+could have done something more explicit, I think one 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+thing that's important to understand is that inherited 
+
+IRAs are not some special kind of account.  Rather, 
+
+they're simply an IRA of whatever type, a traditional 
+
+IRA, a Roth IRA, any other kind of IRA that has been 
+
+passed to a non­spousal beneficiary, and the same thing 
+
+is true of qualified retirement plans. 
+
+ For all of those plans, under our reading, 
+
+as they are all exempt in the hands of the original 
+
+owner and they are all exempt in the hands of a spousal 
+
+beneficiary.  It's only the fundamental change in 
+
+treatment when they are inherited by a non­spousal 
+
+beneficiary that makes them not retirement funds.  And 
+
+so for that ­­ for that reason, I think it was perfectly 
+
+understandable of Congress to put the limit "retirement 
+
+funds" into the statute. 
+
+ And I also think, Justice Kennedy, that ­­ I 
+
+hope that that starts to answer your question as to why 
+
+our reading doesn't commit the courts to a difficult 
+
+case­by­case approach.  I don't believe it does.  I 
+
+think the analysis is actually quite similar to the 
+
+analysis this Court engaged in in Rousey where it had to 
+
+answer the question, is a traditional IRA similar to a 
+
+stock bonus, pension, profit sharing or annuity plan. 
+
+ In that case, the Court framed the question 
+
+as:  Do the objective characteristics of the account 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+38
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+make this more like those plans, which the Court saw as 
+
+substitutes for wages, or more like simply a 
+
+tax­deferred savings account. 
+
+ JUSTICE ALITO: 
+
+Why do you suppose seven 
+
+States have provided an exemption for inherited IRAs? 
+
+ MS. SPINELLI: 
+
+I don't know, Justice Alito, 
+
+but I would say that States frequently do provide more 
+
+generous exemptions than the Federal government, and ­­
+
+but, you know, the unlimited homestead exemption that's 
+
+available in some States is a good example.  I don't 
+
+believe that it's consistent with the structure and 
+
+purpose of the bankruptcy exemptions to permit a debtor 
+
+to exempt a potentially unlimited amount of funds that 
+
+can be used for current consumption that are not in any 
+
+way set aside for the debtor's own retirement.  There is 
+
+no other exemption in the bankruptcy exemptions that 
+
+works that way, that withholds that kind of unlimited 
+
+amount of free cash from creditor's legitimate claims. 
+
+ JUSTICE KAGAN: 
+
+Can ­­ can I go back to the 
+
+language? 
+
+ MS. SPINELLI: 
+
+Of course. 
+
+ JUSTICE KAGAN: 
+
+The retirement funds, your 
+
+definition of retirement funds, are there any retirement 
+
+funds that do not fall within the denominated sections 
+
+under your definition? 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15
+
+16
+
+17 
+
+18
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+ MS. SPINELLI: 
+
+If one looked at the phrase 
+
+"retirement funds" in isolation, I think it could have a 
+
+much broader meaning.  So it could include, you know, 
+
+the cash in a box under the bed that someone is saving 
+
+for retirement.  The fact that Congress chose to link 
+
+the exemption to the specific tax­exempt accounts 
+
+covered by the enumerated sections of the tax code, I 
+
+think, makes clear that "retirement funds" has to be 
+
+understood in that context and that an objective 
+
+interpretation of the phrase "retirement funds" is more 
+
+appropriate, and I think here we agree with Petitioners 
+
+than a subjective interpretation. 
+
+ JUSTICE KAGAN: 
+
+Well, then what's the "to 
+
+the extent that" language doing there? 
+
+ MS. SPINELLI: 
+
+Well ­­
+
+ JUSTICE KAGAN: 
+
+Because that does seem a 
+
+kind of narrowing language, but ­­
+
+ MS. SPINELLI: 
+
+I don't believe ­­
+
+ JUSTICE KAGAN: 
+
+­­ on your objective test, 
+
+there would be nothing to narrow. 
+
+ MS. SPINELLI: 
+
+I don't believe it 
+
+necessarily is narrowing language.  I mean, the phrase 
+
+"lawyers to the extent they are women" doesn't suggest 
+
+that all women are lawyers.  And I think the same thing 
+
+is true here.  These set up two independent 
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+requirements, which is how all the courts that have 
+
+addressed the question have viewed it.  Were that not 
+
+so, Congress would not have needed to write this 
+
+elaborate phraseology.  It could have simply said we 
+
+exempt funds in an account that's exempt from taxation. 
+
+ JUSTICE KAGAN: 
+
+I'm sorry.  I didn't get 
+
+that.  Because lawyers to the extent that they are 
+
+women, does seem ­­ it's saying, you know, we have this 
+
+big category, it's lawyers, and now we have a smaller 
+
+category, which is women lawyers, so the "to the extent 
+
+that" takes you from the big category to the small 
+
+category. 
+
+ JUSTICE KENNEDY: 
+
+Yes, I agree with Justice 
+
+Kagan's comment.  And you argue against your own 
+
+box­under­the­bed analogy by, as Justice Kagan 
+
+indicates, saying that "to the extent" is ­­ indicates 
+
+that retirement funds may be greater than what's in the 
+
+clause.  It seems to me that you should argue the other 
+
+way around, as Justice Kagan is indicating.  Or am I 
+
+missing something? 
+
+ MS. SPINELLI: 
+
+Let me try to explain again. 
+
+I think that ­­ and maybe this was not a good example, 
+
+but I think that the phrase "lawyers to the extent they 
+
+are women" does not suggest that all women are lawyers, 
+
+which I think is what Petitioner's reading suggests. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+41
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+"Retirement funds to the extent that those funds are in 
+
+a fund or account" suggests that all funds in such a 
+
+fund or account are retirement funds.  I don't think 
+
+that's logically true.  So ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+I might have lost 
+
+you, but no one says "lawyers to the extent they are 
+
+women."  They say "lawyers who are women." 
+
+ MS. SPINELLI: 
+
+Correct.  But nonetheless, I 
+
+think that the phrase "to the extent that" is extremely 
+
+helpful to our analysis, because if it weren't the case 
+
+that these are two independent requirements that phrase 
+
+wouldn't be necessary.  It would merely be necessary to 
+
+say "funds in a fund or account that is exempt from 
+
+taxation." 
+
+ That wasn't what Congress did. 
+
+Congress 
+
+chose to use the phrase "retirement funds."  We think 
+
+that choice should be given effect.  And this is a 
+
+particularly odd statute in which to read the phrase 
+
+retirement funds out of the statute altogether, as 
+
+Petitioners' reading would do, because it is the direct 
+
+object of the exemption, and it's the purpose of the 
+
+exemption.  The purpose of the exemption is to ensure 
+
+that debtors are allowed to retain assets that they may 
+
+need to live on in retirement. 
+
+ So it strikes me as quite odd to say that 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+42
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+"retirements funds" essentially has no function in this 
+
+­­ in this statute.  To the extent that retirement funds 
+
+were going to be defined as funds in a fund or account 
+
+that is exempt from taxation, Congress could have said 
+
+retirement funds defined as or retirement funds, i.e., 
+
+but it didn't.  It set up two separate requirements. 
+
+ JUSTICE BREYER: 
+
+The problem, I mean 
+
+basically, is that you're not going to make us go into 
+
+subjective intent.  You don't want us to. 
+
+ MS. SPINELLI: 
+
+Absolutely not. 
+
+ JUSTICE BREYER: 
+
+That leaves somebody out. 
+
+I'm never going to retire says X, but when I'm 70­ 1/2 
+
+I'm going to take that money out of there and buy my own 
+
+airplane. 
+
+ MS. SPINELLI: 
+
+It doesn't matter ­­
+
+ JUSTICE BREYER: 
+
+Okay.  That's beside the 
+
+point. 
+
+ MS. SPINELLI: 
+
+That's absolutely ­­
+
+ JUSTICE BREYER: 
+
+While the daughter who 
+
+inherited thinks this is fabulous, I'm going to keep it 
+
+through my retirement, at least I'll be able to ­­
+
+that's out of the question. 
+
+ Okay. 
+
+Once you put that aside, then you're 
+
+falling back on, well, are they the retirement funds of 
+
+the debtor?  And it's pretty hard to do that ­­ that's 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16
+
+17 
+
+18
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+43
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+what the court of appeals did ­­ because of the language 
+
+of the rest of the statute. 
+
+ And now, once you're past those two points, 
+
+then where are we?  Because now it seems what we are 
+
+doing is just drawing a line that's somewhat arbitrary. 
+
+Makes some sense policy­wise, but it just seems like a 
+
+line that says:  Inherited ones, no; not inherited ones, 
+
+yes. 
+
+ MS. SPINELLI: 
+
+There's nothing ­­
+
+ JUSTICE BREYER: 
+
+You have some theory behind 
+
+that, but how can I do more than that? 
+
+ MS. SPINELLI: 
+
+There's nothing arbitrary 
+
+about that line, Justice Breyer. 
+
+ JUSTICE BREYER: 
+
+I don't think it's 
+
+arbitrary, either.  But I mean the trouble is what is it 
+
+resting on?  If it's not resting on subjective intent, 
+
+it's not resting on these words refer to the funds of 
+
+the debtor, what does it rest on? 
+
+ MS. SPINELLI: 
+
+It's resting on the objective 
+
+characteristics of the account, which is precisely what 
+
+this Court relied on in Rousey in determining whether 
+
+funds were a substitute for wages in retirement.  I 
+
+think the question here is quite similar:  Are these 
+
+funds set aside for retirement? 
+
+ To answer that question in Rousey, the Court 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+44
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+looked to the objective characteristics of the account 
+
+and specifically the fact that there was a penalty for 
+
+taking funds out before age 59­1/2, and that the owner 
+
+was allowed to leave the funds in until age 70­1/2, at 
+
+which time they had to begin to be withdrawn. 
+
+ Neither of those characteristics is present 
+
+here.  To the contrary, beneficiaries of an inherited 
+
+IRA can take out all of the funds at any time and cannot 
+
+leave them intact for their retirement, but have to 
+
+begin taking them out right away.  And I think that is, 
+
+you know, far from arbitrary.  It rests on a fundamental 
+
+difference between retirement funds in the hands of 
+
+their original owners or in the hands of spousal 
+
+beneficiaries and those same funds in the hands of 
+
+non­spousal beneficiaries. 
+
+ If there are no further questions, we ask 
+
+that the judgment below be affirmed. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Shanmugam, you have 5 minutes 
+
+remaining ­­ I'm sorry, 6 minutes. 
+
+ REBUTTAL ARGUMENT OF KANNON K. SHANMUGAM 
+
+ ON BEHALF OF PETITIONERS 
+
+ MR. SHANMUGAM: 
+
+Thank you, Mr. Chief 
+
+Justice. 
+
+ I'd like to start with the text of the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19
+
+20 
+
+21
+
+22
+
+23
+
+24 
+
+25
+
+45
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+statute.  The court of appeals in its opinion defined 
+
+"retirement funds" as funds that have been set aside for 
+
+the debtor's own retirement.  And I think it's clear 
+
+from the arguments this morning that Respondents really 
+
+don't defend that interpretation.  And you may be left 
+
+wondering why.  Why, I would respectfully submit that 
+
+the reason why is the reason that was exposed in Ms. 
+
+Spinelli's colloquy with Justice Breyer:  That 
+
+interpretation really would nakedly read an additional 
+
+limitation into the statute. 
+
+ And I want to address Ms. Spinelli's 
+
+argument as to why that is not so and explain why that 
+
+is in fact so.  If you take a look at the 11 exemptions 
+
+that Justice Breyer recited, it is true that to some 
+
+extent the references to the debtor simply confirm what 
+
+Section 541 already makes clear, namely that the debtor 
+
+after all has to have a property interest in the 
+
+property in question at the time the debtor goes into 
+
+bankruptcy.  But those exemptions also contain 
+
+limitations relevant to the debtor's use of the 
+
+property. 
+
+ And if you take a look at page 5(a) of 
+
+Respondent's brief and the text of Section 522(d)(1), 
+
+the homestead exemption, that text makes this point 
+
+clear.  The homestead exemption reads, and I'm quoting: 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+46
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+"The debtor's aggregate interest," not to exceed a 
+
+certain amount in value, "in real property or personal 
+
+property that the debtor or a dependent of the debtor 
+
+uses as a residence."  That is precisely the type of 
+
+limitation that the court of appeals was reading into 
+
+the retirement funds exemption.  And of course, that 
+
+sort of limitation is entirely absent.  And it's not 
+
+just (d)(1).  You can find them in (d)(3), (d)(4) and 
+
+others of the exemptions. 
+
+ Now, I think that because of that problem 
+
+Respondents instead offer this objective features 
+
+interpretation.  But while Ms. Spinelli made some 
+
+references to the objective features in the course of 
+
+her argument, she didn't actually tell us what those 
+
+objective features actually are.  And I think that the 
+
+problem, once you start to identify those features, is 
+
+that it inevitably leads you into a fact­intensive 
+
+case­by­case analysis as to whether a particular ­­
+
+ JUSTICE BREYER: 
+
+Not necessarily.  I think 
+
+her point ­­ now, it's been very helpful to me, the 
+
+argument, but I think that it's a by and large point. 
+
+You see, by and large the funds in the hands of the 
+
+original setter­aside of the funds.  By and large, they 
+
+are used for retirement of that person and therefore, 
+
+they are retirement funds.  Not always, but by and 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+47
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+large. 
+
+ MR. SHANMUGAM: 
+
+Well ­­
+
+ JUSTICE BREYER: 
+
+And in the hands of the 
+
+inheriting person, by and large they are not. 
+
+ MR. SHANMUGAM: 
+
+Well ­­
+
+ JUSTICE BREYER: 
+
+And so that's why she 
+
+thinks the one falls within and the other falls without 
+
+the phrase "retirement funds." 
+
+ MR. SHANMUGAM: 
+
+Well, let's focus on the 
+
+objective features that Respondents did identify in 
+
+their brief, and two of those features were limitations 
+
+on early withdrawals and required minimum distributions 
+
+after retirement.  And as we explained in our reply 
+
+brief, at least as to some of these types of accounts, 
+
+even in the hands of the initial owner those limitations 
+
+would not apply. 
+
+ And I would respectfully submit that if 
+
+there is one thing that is reasonably clear from the 
+
+legislative history, it's that Congress certainly wanted 
+
+to provide protection for all of these types of accounts 
+
+when they are in the hands of the initial owner.  And 
+
+any sort of test like that, a by­and­large test, would be 
+
+a recipe for chaos in the lower courts, as bankruptcy 
+
+courts have to try to figure out whether particular 
+
+types of accounts, even in the hands of initial owners, 
+
+1 
+
+2
+
+3
+
+4 
+
+5
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+48
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+would qualify. 
+
+ And I want to say just one other thing about 
+
+text.  Ms. Spinelli referred to this ­­
+
+ JUSTICE SCALIA: 
+
+Could you be more specific? 
+
+What are the particular aspects of other accounts that 
+
+you think would not qualify? 
+
+ MR. SHANMUGAM: 
+
+The limitations on early 
+
+withdrawals, which do not apply to Roths and to 457(b)s 
+
+and ­­ and with regard to Roths, that is true only with 
+
+regard to contributions, but, of course, the 
+
+contributions to a Roth can be a very substantial part 
+
+of the funds in the account.  And then required minimum 
+
+distributions after a retirement, which Roth IRAs do not 
+
+possess. 
+
+ And I want to say just one other thing on 
+
+the text with regard to Rousey.  Rousey itself obviously 
+
+involved very different language, and Congress was 
+
+legislating against the backdrop of Rousey when it 
+
+adopted the retirement funds exemption.  But when it 
+
+adopted that exemption, it contained no limitation on 
+
+whether or not the payments were being received on 
+
+account of age, but instead swept much more broadly, 
+
+focusing on the accounts and focusing on the one 
+
+objective feature of the accounts that matters, the 
+
+tax­exempt status of the funds in the account. 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+49
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ And so Rousey, I would respectfully submit, 
+
+really offers Respondents little help. 
+
+ I want to say just a word about the policy 
+
+issue that we were discussing during my opening 
+
+argument.  This question of whether beneficiaries are, 
+
+in fact, going to be relatively young and, therefore, 
+
+more likely to make free use of the funds. 
+
+ First of all, as Justice Kagan pointed out, 
+
+beneficiaries have every incentive to keep the funds in 
+
+the account because of the tax benefits.  But I think 
+
+it's more important to kind of understand the reality of 
+
+this type of situation.  It is true that my client, 
+
+Heidi Heffron­Clark, was about 22 years old when she 
+
+inherited this account.  Her parents tragically died at 
+
+a very young age.  But the Department of Labor has 
+
+indicated that the prime age for inheritance is between 
+
+the age of 50 and 59.  And, of course, with regard to 
+
+retirement accounts in the hands of an initial owner, 
+
+the funds can be accessed at the age of 59 1/2.  So it 
+
+will often be the case that the beneficiaries will use 
+
+the funds for retirement. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you counsel. 
+
+ Counsel, the case is submitted. 
+
+ (Whereupon, at 11:02 a.m., the case in the 
+
+above­entitled matter was submitted.) 
+
+1
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24
+
+25 
+
+50 
+
+Alderson Reporting Company 
+
+Page 51 
+
+aspect 16:22 
+aspects 49:5 
+assets 29:7,9 34:23  beneficiary 3:18 
+
+45:7,14,15 50:5,9 
+50:20 
+
+42:23 
+
+assuming 36:19 
+attenuated 28:19 
+available 13:4,10 
+
+39:10 
+
+B 
+
+b 6:5 7:16 49:8 
+back 14:2 20:6 
+
+6:1 9:1,10,14,16 
+9:25 10:6,12 
+11:12,16,19 13:13 
+17:7 23:22,24 
+24:17,21,25 36:11 
+36:13,14,15,22 
+38:5,10,12 
+
+beneficiarys 24:20 
+benefit 28:14 
+
+26:11 39:19 43:24  benefits 10:23 13:4 
+
+backdrop 49:18 
+backoftheenvelope  big 5:19 41:9,11 
+
+13:10 50:10 
+
+27:15 
+
+bit 36:25 
+
+balance 21:17 24:7  bonus 38:23 
+
+brandon 1:3 
+4:10 6:8 9:3 12:7  break 15:18 
+12:16,16,25 13:17  breyer 31:17 32:5,9 
+13:18 23:24 24:18 
+32:18,22 33:5,12 
+25:19,24 26:1 
+33:19,24,25 34:25 
+28:21,23 29:6,8 
+35:10,12,18,21 
+29:11,20 30:9 
+36:7 43:7,11,16 
+31:7 33:10 39:12 
+43:19 44:10,13,14 
+39:16 46:19 48:23 
+46:8,14 47:19 
+48:3,6 
+
+bapcpa 21:22 
+bargain 28:24 
+baseball 16:1 
+basic 28:24 29:8 
+
+30:8 
+
+29:11 
+
+apply 48:16 49:8 
+approach 4:4 38:19  balanced 29:18,22 
+bankrupt 5:14,19 
+bankruptcy 3:10 
+
+box 40:4 
+boxunderthebed 
+
+41:15 
+
+A 
+
+abandoning 32:24 
+ability 6:1 11:16 
+
+13:6 27:4 
+
+able 18:16 43:21 
+aboveentitled 1:12 
+
+50:25 
+
+absence 23:25 
+absent 14:14 47:7 
+absolutely 10:15 
+
+43:10,18 
+
+address 46:11 
+addressed 41:2 
+adds 14:6 
+adjudication 4:3 
+administrative 
+
+26:23 
+
+admittedly 5:25 
+
+14:22 
+
+adopted 22:8 49:19 
+
+49:20 
+
+advancing 21:10 
+
+accessed 50:19 
+accident 12:4 
+account 3:15,17,23  affect 28:9 
+
+advantage 13:10 
+
+33:4 
+
+Official 
+Official
+
+33:17 35:3 38:17 
+38:22 44:25 
+
+antecedent 15:14 
+anyones 5:11 30:12 
+
+33:3 
+
+apologize 30:4 
+appeals 6:20 7:19 
+
+21:8 32:25,25 
+44:1 46:1 47:5 
+
+appear 34:17 
+appearances 1:15 
+appears 34:3,19 
+appendix 34:4 
+application 12:21 
+
+19:10 
+
+affirmed 45:17 
+
+37:3 
+
+27:5,17,24 36:19 
+45:3,4 49:22 
+50:15,16,17,19 
+
+4:18,21 6:5,6 7:1 
+9:9,13 10:13 11:6  age 9:23 10:2 17:13  applies 22:11,15 
+11:10,16 14:25 
+16:12,18 17:8,24 
+18:4,10,18 19:5 
+19:11,18 20:5,7 
+22:25 24:22 25:1 
+25:11 27:13,19 
+29:15 30:18 35:1 
+38:2,25 39:3 41:5  agrees 35:7 
+42:2,3,13 43:3 
+44:20 45:1 49:12 
+49:22,25 50:10,14  al 1:7 
+
+aggregate 31:21,25  appropriate 40:11 
+arbitrary 44:5,12 
+
+arcane 37:1 
+argue 18:16 19:25 
+
+airplane 43:14 
+airtight 19:16 
+
+agree 24:14 28:8 
+
+44:15 45:11 
+
+40:11 41:13 
+
+34:7 47:1 
+
+41:14,18 
+
+arguing 17:14 
+argument 1:13 2:2 
+2:5,8 3:3,6 4:23 
+4:25,25 22:18 
+24:10 33:4,8,12 
+36:1,3 45:21 
+46:12 47:14,21 
+50:5 
+
+accountholder 9:16  alienated 25:18 
+accounts 3:14 7:14  alito 8:23 9:6,18 
+
+allowed 42:23 45:4 
+
+10:8 11:22 12:18 
+39:4,6 
+
+12:13,23 15:5 
+16:6,25 17:2,4 
+18:25 19:7 20:3 
+25:13 26:14,16,18  alluded 30:16 
+26:22 27:24 36:17  altogether 42:19 
+ambiguous 37:19 
+37:1,10,12 40:6 
+amici 25:2 
+48:14,20,25 49:5 
+amount 6:12,15 7:8  aside 3:13,16 4:21 
+49:23,24 50:18 
+add 4:15 10:16,19 
+
+arguments 46:4 
+articulated 23:18 
+
+23:19 
+
+10:25 23:19 
+
+added 15:7 
+addition 22:18 
+
+23:18 
+
+additional 3:21 
+
+7:23 13:17 20:9 
+21:1,7 22:17 
+23:20 30:17 46:9 
+
+10:13,21 16:20 
+34:8,10 39:13,18 
+47:2 
+
+analogy 41:15 
+analysis 38:20,21 
+
+42:10 47:18 
+annual 10:3,9 
+annuity 38:23 
+answer 14:4 33:13 
+
+basically 43:8 
+basis 10:3 
+bed 40:4 
+7:21 15:4 16:3,5,8  beef 22:2 
+18:17,23,24 20:3 
+20:7 21:14 24:15 
+24:19,20 29:25 
+30:7,12,13,15 
+33:2 35:7,9,13,14 
+35:15 39:15 43:23 
+44:24 46:2 
+
+behalf 1:16,18 2:4 
+2:7,10 3:7 24:11 
+45:22 
+
+37:16 38:19 39:11 
+40:18,21 
+
+beneficiaries 13:6,9 
+
+believe 26:25,25 
+
+asked 14:4 16:10 
+
+25:10,13 28:5 
+
+brief 7:13 8:1 10:9 
+19:4,5 25:7 34:4 
+46:23 48:11,14 
+
+broad 12:14 15:14 
+15:23 16:4 24:3 
+broader 5:8 12:15 
+
+20:14,19 40:3 
+
+broadly 4:22 18:12 
+
+49:22 
+
+buy 43:13 
+byandlarge 48:22 
+
+C 
+
+c 1:3,9,16,18 2:1 
+
+3:1 25:12,25 
+
+calculations 27:16 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Official 
+
+Page 52 
+
+50:22,23 
+
+counsel 24:8 45:18 
+
+confirm 46:15 
+confusing 16:19 
+congress 4:15 5:13 
+
+28:25 29:2,7 
+30:17 31:8 32:2 
+32:10,12 33:7 
+counsels 28:8 
+34:5,11 39:12 
+5:16,21 6:2,16 
+counted 14:20 
+43:25 44:18 46:15 
+8:17 9:2,20 11:21  course 5:5 9:17 
+13:7 39:21 47:6 
+46:16,18 47:3,3 
+12:7,10,14,18,21 
+47:13 49:10 50:17  debtorbased 7:24 
+13:3,5 14:6,16,22 
+15:3 19:8 20:4,19  court 1:1,13 3:9,20  debtors 5:11 7:22 
+21:12,15 22:19 
+24:3,5 25:3,12 
+28:4 29:19,22 
+37:4,13,16,24 
+38:14 40:5 41:3 
+42:15,15 43:4 
+48:19 49:17 
+
+6:20 7:19 21:8 
+24:2,13 29:23 
+31:12 32:25,25 
+38:21,24 39:1 
+44:1,21,25 46:1 
+47:5 
+
+courts 38:18 41:1 
+
+8:9,12,24 9:21 
+21:5,14 22:7,8,16 
+22:24 29:13,25 
+30:3,7,15,25 31:4 
+31:8,13,21,22,23 
+31:24,25,25 32:2 
+32:15,19 33:9,20 
+34:7,9,12,14,16 
+39:15 42:23 46:3 
+46:20 47:1 
+decades 13:5 
+decision 26:5 28:4 
+
+clark 1:3 3:4 
+clause 5:6 15:13,16 
+15:25 16:4 18:22 
+18:22 20:21 41:18  congresss 8:18 26:5 
+
+cant 10:19,25 17:15  chose 11:21 12:14 
+
+25:18 30:17,17 
+
+cap 5:25 6:12 34:6 
+
+34:18 
+
+40:5 42:16 
+
+circumstance 20:8 
+circumstances 
+
+39:18 
+
+13:20 
+
+claim 5:20 
+claimed 5:18 
+claims 29:4,16 
+
+capital 18:9 
+car 5:16 
+careful 5:13 
+carefully 29:18 
+case 3:4,10 10:4,11 
+11:25 13:11 14:6 
+19:16 21:3,18 
+22:1,13 24:1 27:9  clarifying 4:14 20:2 
+30:11 31:3 33:14 
+33:15 35:2,8 
+38:24 42:10 50:20 
+50:23,24 
+
+clarify 14:16 25:20 
+
+30:22 
+
+casebycase 4:2 
+38:19 47:18 
+
+cash 39:18 40:4 
+categorically 3:12 
+category 15:14,23 
+
+16:5 20:14,19 
+41:9,10,11,12 
+
+certain 3:13,24 6:6 
+9:15 10:21 17:13 
+18:6 34:8,10,21 
+34:22 47:2 
+
+certainly 8:13 
+
+clear 4:20 11:18 
+14:12,14 15:2 
+20:2 31:12 40:8 
+46:3,16,25 48:18 
+
+clearer 36:12 
+clearly 22:20 
+client 50:12 
+clients 13:20 22:13 
+code 12:21,25,25 
+
+15:1,6,7 17:9 
+19:22 20:6 25:12 
+26:1 27:3 28:22 
+40:7 
+
+13:23 15:2 20:24 
+21:15 23:16 27:23  codes 3:10 
+28:22 48:19 
+cetera 32:1,15 
+change 35:18,25 
+
+34:15 
+
+colloquy 46:8 
+come 25:24 33:9 
+
+38:10 
+
+changes 36:9 
+chaos 48:23 
+chapter 28:24 
+characteristics 
+
+30:16 33:1 38:25 
+44:20 45:1,6 
+
+check 27:18 
+chief 3:3,8 16:7,15 
+
+16:16 24:8,12 
+42:5 45:18,23 
+50:22 
+
+choice 42:17 
+
+comes 15:13 
+comment 28:9 
+
+41:14 
+
+commit 4:2 38:18 
+common 21:24 
+
+23:11 27:3 33:14 
+
+compelling 12:2 
+competing 29:12 
+complete 34:22 
+completely 9:21 
+complicated 36:2 
+concerning 4:23 
+concerns 3:10 
+
+48:23,24 
+
+covered 12:13 40:7 
+congruence 12:24 
+crafted 5:13 
+congruent 13:23 
+conscious 26:5 28:4  create 24:5 
+consequences 9:17 
+
+created 5:17 6:3 
+
+11:8 13:7 17:14 
+considerable 6:3 
+
+9:12 13:3 
+
+considerations 
+
+29:22 
+
+15:18 
+
+28:10 
+
+creates 12:24 
+credit 29:17 
+creditors 5:20 29:3  define 19:4 
+
+defend 30:1,6 46:5 
+deferral 9:10 
+
+29:14 39:18 
+current 26:19 
+
+39:14 
+
+currently 5:3 14:18 
+
+considering 5:21 
+consistent 39:11 
+constituted 19:23 
+consumer 29:17 
+consumption 39:14 
+contain 8:2 46:19 
+contained 49:20 
+contains 6:14 15:11  d 1:9,16,18 3:1 8:2 
+
+14:18,19 15:6 
+19:22 
+
+D 
+
+defined 43:3,5 46:1 
+defining 21:5 
+definition 24:17 
+30:2,2 39:23,25 
+
+degree 9:9 
+deliberately 12:14 
+denies 35:16 
+denominated 11:6 
+
+39:24 
+
+21:12 
+
+context 17:18 18:21 
+
+22:5 40:9 
+
+21:11 31:19 34:7  department 50:15 
+34:18 46:23 47:8  dependent 47:3 
+47:8,8 
+dependents 31:8 
+depending 23:4 
+
+danielle 1:18 2:6 
+
+continued 29:17 
+contrary 45:7 
+contributed 7:1 
+contributions 6:11  daughter 13:13 
+
+date 31:1,2 
+
+24:10 
+
+7:7 30:17 36:18 
+49:10,11 
+core 4:24 
+correct 10:5,8,16 
+
+43:19 
+
+day 16:21 24:15 
+
+37:2 
+
+death 3:18 
+10:17 18:3 33:23  debt 29:1 
+35:17 42:8 
+
+debtor 8:3,5 21:12 
+
+27:24 
+
+deplete 10:20,24 
+deposited 3:16 
+describes 32:11 
+describing 16:17 
+descriptive 14:22 
+designated 17:13 
+desire 25:3 
+determined 30:10 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+entitled 22:14 
+enumerated 16:6 
+18:24 19:7 27:2 
+40:7 
+
+equation 23:11 
+equitable 29:3,15 
+erisa 25:23 26:3,5 
+esq 1:16,18 2:3,6,9 
+essentially 6:15 
+
+43:1 
+
+estate 5:14 25:25 
+
+33:10 34:15 
+
+et 1:3,7 32:1,15 
+event 4:15 23:23 
+
+24:5 
+
+evidence 8:17 12:8 
+
+21:22 
+
+E 
+
+e 2:1 3:1,1 17:9 
+
+43:5 
+
+earlier 7:16 22:19 
+
+32:11 
+
+early 48:12 49:7 
+earring 36:8 
+earrings 35:22,23 
+
+easy 33:13 35:2,3,8 
+educational 7:12 
+
+20:5 
+
+effect 24:4 42:17 
+effectively 31:3 
+effectuating 8:20 
+eight 32:2 
+either 10:1 16:14 
+
+44:15 
+
+example 6:5 15:17 
+18:5 35:2 39:10 
+41:22 
+
+elaborate 41:4 
+empirical 10:8 
+employees 6:6 
+employeesponsor...  exception 24:6 
+exceptions 6:14 
+
+exceed 34:8,9 47:1 
+
+25:5 
+
+employersponsor... 
+
+25:1,4 
+
+12:12 29:5 
+
+exclude 3:20 5:4 
+8:15,19 37:5,14 
+37:16,19 
+
+excluded 4:18 20:7 
+exclusionary 15:21 
+
+20:16 
+
+Page 53 
+
+21:11 22:8,10,12 
+22:14,15 23:6 
+34:6,12,19 39:5,9 
+39:16 40:6 42:21 
+42:22,22 46:24,25  falls 48:7,7 
+47:6 49:19,20 
+
+fair 13:19 29:14 
+fairly 35:8 
+fall 39:24 
+falling 43:24 
+
+far 27:19 45:11 
+
+exemptions 5:14,22  favor 23:12 
+
+8:2 12:12 28:21 
+28:23 29:6,11,20 
+30:10 31:2,7 
+32:14 33:7 34:5 
+34:23 39:8,12,16 
+46:13,19 47:9 
+
+exempts 3:12 
+exists 28:19 
+expansive 6:17 
+
+12:10 19:12 
+
+explain 4:1,12 10:9 
+
+19:5 22:4 41:21 
+46:12 
+
+feature 5:12 10:19 
+
+19:9 49:24 
+
+features 3:24 19:4 
+19:6 47:11,13,15 
+47:16 48:10,11 
+federal 8:6 22:12 
+22:20 34:5 39:8 
+
+fighting 30:19 
+figure 36:6 48:24 
+figuring 16:8 
+filed 30:9 
+files 24:18 
+financial 13:22 
+find 23:14 35:2 
+
+47:8 
+
+explained 48:13 
+explains 18:22 
+explicit 37:14,17,25  finish 32:23 
+exposed 46:7 
+expressed 13:24 
+expressly 12:5 
+extent 5:6 7:8 
+
+first 3:15 4:13 5:24 
+
+6:18 12:6 23:21 
+25:7 28:18 31:21 
+32:23 33:10 34:15 
+36:8 50:8 
+
+fit 29:22 
+
+15:12,15,18,24 
+16:4 18:22 20:14 
+20:21 26:19 27:12  five 31:24 
+28:18 40:14,23 
+41:7,10,16,23 
+42:1,6,9 43:2 
+46:15 
+
+30:21 36:12 45:12  ease 12:20 
+
+31:2 
+
+determining 44:21 
+didnt 19:16 32:19 
+41:6 43:6 47:14 
+
+die 37:2 
+died 30:14 50:14 
+dies 8:25 36:10 
+difference 26:3 
+
+different 18:14 
+27:1 35:5,19 
+49:17 
+
+differently 25:4 
+difficult 4:2 38:18 
+direct 42:20 
+disassociate 31:11 
+discharge 29:1 
+discussing 50:4 
+discussion 19:1 
+disposes 11:25 
+dispute 17:6 
+distributed 10:4,6 
+distribution 13:18 
+
+29:3,15 
+
+distributions 9:15 
+
+13:16 48:12 49:13  employment 6:8 
+
+disturbing 5:12 
+disuniformity 23:4 
+doesnt 4:2 9:21 
+
+enacted 12:11 
+
+14:23 
+
+encourage 13:9 
+encouragement 
+
+10:25 26:8 29:19 
+29:22 32:9 33:15 
+34:17 38:18 40:23  encouraging 28:20 
+43:15 
+
+23:20 28:14 
+
+doing 23:12 37:17 
+
+ends 27:21 
+engage 18:6 
+engaged 38:21 
+dont 4:7 10:7 11:18  english 16:19 
+
+40:14 44:5 
+
+13:1 16:23 17:6 
+26:8,19,24 27:12 
+28:3 30:1 31:15 
+31:17 33:6 34:25 
+35:2 38:19 39:6 
+39:10 40:18,21 
+42:3 43:9 44:14 
+46:5 
+
+drawing 44:5 
+
+engrafting 3:21 
+enormous 26:17 
+
+37:9 
+
+ensure 15:3 31:7 
+
+42:22 
+
+ensuring 29:16 
+entire 7:8 13:8 
+entirely 47:7 
+entirety 15:12 
+entities 6:7 
+
+exempt 3:18,23 
+5:20 6:15 9:13 
+11:9 13:25 17:8 
+17:23,24,25 18:4 
+18:11 19:18 25:18  extra 13:17 
+34:16 38:8,9 
+39:13 41:5,5 
+42:13 43:4 
+
+42:9 
+
+extremely 28:19 
+
+exempted 4:21 6:13 
+
+12:5 15:5 19:17 
+20:4 31:20 
+
+exempting 13:8 
+exemption 3:11,15 
+5:15,17 6:17 8:4,6 
+12:7,8,11,16,24 
+17:11,16 19:10 
+
+F 
+
+fabulous 43:20 
+fact 6:12 8:18 
+
+11:19 12:2 13:3 
+14:25 15:12 23:2 
+40:5 45:2 46:13 
+50:6 
+
+factintensive 47:17 
+
+flaw 7:22 19:1 
+flip 11:4 
+flow 29:17 
+focus 20:11 48:9 
+focused 8:18 
+focusing 49:23,23 
+following 31:19 
+follows 20:21,22 
+football 16:1 
+form 20:5 
+formalism 11:7 
+former 9:4 
+four 31:24 32:10 
+framed 38:24 
+frankly 33:15 
+free 39:18 50:7 
+
+Alderson Reporting Company
+ 
+
+fundamental 7:22 
+19:1 38:10 45:11 
+
+fundamentally 
+
+27:1 36:9 
+
+funds 3:11,12,14 
+
+g 3:1 
+gains 18:9 
+general 18:17 
+generally 8:11 
+generous 39:8 
+ginsburg 5:9,24 
+
+frequently 39:7 
+fresh 28:25 29:13 
+function 4:14 20:2 
+
+43:1 
+
+fund 5:11,11 8:8 
+
+49:19,25 50:7,9 
+50:19,21 
+
+furnishings 31:23 
+further 45:16 
+furthers 29:21 
+
+10:19,20,21,23,25  future 15:8 
+11:1 13:12 17:16 
+24:25 35:12,13,19 
+42:2,3,13 43:3 
+
+G 
+
+42:17 
+
+gives 5:7,7 11:15 
+
+19:23 
+
+giving 35:1 
+
+ginsburgs 32:24 
+give 9:2 18:5 24:4 
+given 26:20,21 
+
+6:19 7:19 11:11 
+13:11 19:14,21 
+21:4 22:4,9,23 
+29:23 30:5,20,23 
+31:10,16 
+
+3:22 4:5,12,14,20 
+4:20 5:3,7,8,18,25 
+6:2 7:10,21,21 
+8:22 9:8,12,19,21 
+10:16 11:9,16 
+12:11,24 14:5,12 
+15:4 16:2,3,5 
+17:12,23 18:7,15 
+18:19,21,23,24 
+19:11,17,17 20:3 
+20:13,20 21:5,6 
+21:13 23:22,23 
+24:14,15,16,18,22  go 6:18 11:10,22 
+14:2 26:11 32:3 
+25:4,5,11,14 27:4 
+35:1 39:19 43:8 
+27:6 28:6 29:25 
+29:25 30:2,3,6,6 
+30:12,25 31:4,13 
+31:13 32:7,11,16 
+32:20 33:22 34:1 
+34:19 35:5,7,7,9 
+35:24,25 36:4,9 
+36:16,18,23 37:17 
+37:21,21,22 38:12 
+38:15 39:13,22,23  good 39:10 41:22 
+39:24 40:2,8,10 
+41:5,17 42:1,1,2,3  government 39:8 
+governmental 6:7 
+42:13,16,19 43:1 
+grammar 20:18 
+43:2,3,5,5,24 
+great 9:11 19:3 
+44:17,22,24 45:3 
+45:4,8,12,14 46:2  greater 41:17 
+46:2 47:6,22,23 
+47:25 48:8 49:12 
+
+going 8:20 10:1,24 
+11:12 13:18 27:17 
+27:18 37:10 43:3 
+43:8,12,13,20 
+50:6 
+
+grow 27:7,19,24 
+guess 32:18 
+
+goal 29:21 
+goes 6:8 23:24 
+
+46:18 
+
+governed 27:2 
+
+Official 
+
+H 
+
+half 26:21,21,25,25 
+hand 4:4 21:19,24 
+
+29:12,14 
+
+handed 28:16 
+hands 9:10,11 17:7 
+
+38:8,9 45:12,13 
+45:14 47:22 48:3 
+48:15,21,25 50:18 
+
+happens 36:12 
+hard 43:25 
+health 32:3 
+hear 3:3 
+heffronclark 50:13 
+heidi 50:13 
+help 36:11 50:2 
+helpful 42:10 47:20 
+helps 33:7 
+heres 36:24 
+hidden 37:6 
+high 5:25 22:6 
+history 12:9 21:20 
+
+21:21,22 23:15 
+24:1 48:19 
+
+hit 11:13 
+holders 13:4 
+holds 6:5,10 
+home 22:7,8 
+homestead 5:14 8:4 
+8:6 39:9 46:24,25 
+
+hope 38:17 
+huge 11:13 
+hybrids 26:13 
+
+I 
+
+id 45:25 
+identify 47:16 
+
+48:10 
+ill 43:21 
+im 17:10 26:7 41:6 
+
+43:12,12,13,20 
+45:20 46:25 
+
+immediately 5:18 
+6:2,23 9:5 10:1 
+13:18 15:2,20 
+36:23 
+
+Page 54 
+
+implicit 34:13 
+important 9:7 11:5 
+
+11:7 12:2 14:16 
+15:9 20:10 38:1 
+50:11 
+
+importantly 19:8 
+
+28:20 
+
+impose 24:3 
+impute 25:3 
+incentive 26:17 
+
+50:9 
+
+incentives 6:3 
+incidental 16:22 
+include 15:23 40:3 
+includes 5:5 17:20 
+
+29:9 
+
+50:14 
+
+inheriting 48:4 
+inherits 8:25 27:10 
+initial 3:19 9:11 
+
+26:12 48:15,21,25 
+50:18 
+
+instance 18:5,16 
+
+23:21 
+
+insurance 32:1 
+intact 27:7 45:9 
+integrated 18:13 
+intend 6:16 
+intended 18:18 
+
+21:13 23:22 
+
+intent 8:18,20 43:9 
+
+44:16 
+
+including 8:4 25:9 
+
+interest 13:24,24 
+
+25:22 
+
+incongruous 5:21 
+incorporated 4:17 
+incredibly 15:23 
+independent 40:25 
+
+42:11 
+
+independently 5:4 
+indicated 50:16 
+indicates 41:16,16 
+indicating 41:19 
+individual 3:14 6:4 
+6:5,9,11,15 17:1,4 
+17:7 23:5 24:15 
+individuals 13:20 
+
+22:11 23:20 
+
+inevitably 47:17 
+inference 8:21 
+inherit 16:9 27:16 
+inheritance 50:16 
+inherited 3:14,21 
+6:1 8:8,15,15,19 
+9:14 12:5 13:4,6,8 
+13:21,25 17:1,3 
+23:4 24:16,17,18 
+24:21 25:14,17 
+27:8,25 28:2 33:1 
+33:2 36:21 37:2,5 
+38:1,11 39:5 
+43:20 44:7,7 45:7 
+
+29:13,14,16 31:22 
+31:22,23,24,25 
+32:1,2,15 33:9,21 
+34:7,9,12,14,16 
+36:10,13,14 46:17 
+47:1 
+
+interests 23:17 
+
+29:12,18 
+
+internal 15:1 17:9 
+interpretation 3:22 
+
+5:6 7:20,23 12:3 
+17:19 18:12,20 
+19:2 20:1,13,22 
+20:25 21:3,10,18 
+22:19,21,24 23:2 
+23:19 26:9 40:10 
+40:12 46:5,9 
+47:12 
+
+investment 18:17 
+invoke 8:5 22:15 
+involved 49:17 
+ira 3:17 6:1,10,11 
+
+6:23 9:1,14 17:15 
+18:6,6 24:16,17 
+24:18,21 25:14,17 
+27:8,16 36:20 
+38:3,4,4,4,22 45:8 
+iras 3:21 6:14 7:15 
+
+8:15,15,19 12:5 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+11:24 12:14 24:3 
+24:4 34:17 37:10 
+39:20 40:14,17,22 
+44:1 49:17 
+
+logically 42:4 
+long 10:1,9 11:9 
+17:23 18:9,18 
+21:22 
+
+Page 55 
+
+million 6:13 
+mind 11:5 
+minimum 9:15 
+
+13:16,22 48:12 
+49:12 
+
+minute 7:16 
+minutes 45:19,20 
+misapprehends 5:1 
+
+money 5:19 6:12 
+
+7:1,15 9:4,25 10:3 
+17:12 18:1,17 
+20:6 43:13 
+
+morning 3:4 46:4 
+mother 16:11,12,13 
+motivation 28:19 
+
+28:21,22,23 
+
+motor 31:22 34:10 
+move 18:7,8 
+
+looked 23:16 33:1  missing 41:20 
+33:19 40:1 45:1  monday 1:10 
+
+longer 24:19 30:13 
+longterm 13:22 
+look 15:1 23:9,9 
+
+46:13,22 
+
+looking 27:21 
+looks 27:13,17,18 
+lost 42:5 
+lower 48:23 
+lump 25:11 
+
+M 
+
+13:4,7,9,21 14:1 
+16:10 17:3,21,22 
+23:4 26:2,4,5 28:2 
+28:5 33:2,2 36:22 
+37:1,2,5 38:2 39:5  justification 12:9 
+49:13 
+
+43:19 44:10,13,14 
+45:18,24 46:8,14 
+47:19 48:3,6 49:4 
+50:8,22 
+
+13:2 
+
+irrelevant 17:15 
+isnt 22:6 
+isolation 40:2 
+issue 8:18 50:4 
+item 31:21 
+items 6:23 31:20 
+ive 23:17,18 30:16 
+
+J 
+
+j 1:6 
+jewelry 31:24 
+judgment 45:17 
+judgments 12:22 
+
+24:2 
+
+justifications 11:23 
+
+12:1,2,6 
+
+K 
+
+k 1:16 2:3,9 3:6 
+25:10,22 26:4 
+45:21 
+
+kagan 10:14,18 
+
+11:4 14:2,11,15 
+26:7,11,24 27:9 
+36:24 37:15,18 
+39:19,22 40:13,16 
+40:19 41:6,15,19 
+50:8 
+
+justice 3:3,9,25 4:8  kagans 41:14 
+
+3:6 45:21 
+
+17:12 36:3 43:20 
+50:9 
+
+kept 33:20 
+kind 26:13 38:2,4 
+
+kennedy 3:25 4:8,9 
+21:23 22:3 23:7,8 
+28:7,12,13 38:16 
+41:13 
+
+4:9 5:9,24 6:19,22  kannon 1:16 2:3,9 
+7:3,18 8:7,11,23 
+9:6,18 10:8,14,18  keep 10:22 11:5 
+11:4,10,11,22 
+12:18 13:11 14:2 
+14:3,11,15 16:7 
+16:15,16 17:10,17 
+17:20,25 19:8,14 
+19:21 21:4,23 
+22:3,4,9,23 23:7,8  kennedys 14:3 
+24:8,12,24 25:7 
+25:17,21 26:7,11 
+26:24 27:9 28:7 
+28:11,13 29:23 
+30:4,5,19,20,23 
+30:23 31:10,16,17 
+32:5,9,18,22,23 
+33:5,12,19,23,25 
+34:25 35:10,12,18  knowing 12:11 
+35:21 36:7,24 
+37:15,18 38:16 
+39:4,6,19,22 
+40:13,16,19 41:6 
+41:13,13,15,19 
+42:5 43:7,11,16 
+
+L 
+labor 50:15 
+language 11:2,20 
+
+26:20 32:3 36:5 
+37:12 39:6,9 40:3 
+41:8 45:11 
+
+knew 21:15 
+know 16:8,10,11,16 
+
+39:17 40:17 50:11 
+
+knows 28:15 
+
+23:21 
+
+large 5:17 47:21,22 
+
+47:23 48:1,4 
+
+larges 29:16 
+lawyers 40:23,24 
+41:7,9,10,23,24 
+42:6,7 
+
+leads 47:17 
+league 15:24 16:1,1 
+leagues 15:20 
+leave 23:22 27:6 
+
+45:4,9 
+
+leaves 43:11 
+left 6:7 16:12,13 
+
+46:5 
+
+legislating 49:18 
+legislative 12:8 
+
+21:20,21 23:15 
+24:1 48:19 
+
+legislatures 22:2 
+legitimate 29:4,15 
+
+39:18 
+
+length 19:3 
+liability 11:13 
+life 29:8 32:1 
+lifetime 9:17 
+lifetimes 13:8 
+limit 21:13 38:14 
+limitation 3:21 
+
+limitations 46:20 
+
+48:11,15 49:7 
+
+limited 34:12 
+limits 6:12 
+line 4:3 44:5,7,13 
+link 12:7,16 40:5 
+list 31:19 
+listing 37:11 
+little 15:23 36:25 
+
+50:2 
+
+live 42:24 
+
+m 1:14 3:2 50:24 
+major 15:19,25 
+making 35:4 
+march 1:10 
+masses 37:3 
+matter 1:12 10:8 
+20:18,24 23:3 
+35:23 43:15 50:25  name 8:11 
+
+N 
+
+n 2:1,1 3:1 34:20 
+nakedly 46:9 
+
+matters 5:3 19:9 
+
+narrow 5:21 15:25 
+
+49:24 
+
+20:20 40:20 
+
+mean 4:9 5:19 7:21  narrowed 15:15 
+10:18 13:12 16:20  narrowing 40:17 
+19:15 20:17 21:5 
+26:12 36:5 37:3 
+37:20,22 40:22 
+43:7 44:15 
+
+narrows 16:4 20:15 
+national 16:1 
+natural 11:1 15:13 
+
+40:22 
+
+15:22 20:18 
+
+6:23 17:16 19:22  naturally 20:22 
+19:23 20:13 40:3  nature 35:19,25 
+
+means 9:22 17:18 
+
+36:8,9 
+
+18:11 20:18 29:25  necessarily 20:16 
+30:3,6 31:13 
+32:19 33:25 
+
+40:22 47:19 
+
+meant 37:4 
+medical 7:12 
+meet 24:16 
+members 15:19 
+merely 42:12 
+middleaged 27:11 
+
+necessary 42:12,12 
+necessities 29:8 
+need 11:25 19:15 
+
+30:20 42:24 
+
+needed 41:3 
+needs 26:19 
+negative 8:21 
+
+7:24,25 8:14 21:1 
+21:8 46:10 47:5,7  meaning 5:7,8,10 
+49:20 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+passes 3:18 36:10 
+pay 18:9 
+payments 49:21 
+pearl 35:22,22 36:8 
+penalty 6:24 7:4,6 
+7:8,11,15 36:18 
+45:2 
+
+pension 38:23 
+
+Page 56 
+
+26:7 
+
+31:20 32:15 33:9 
+34:8,13,14,16 
+46:17,18,21 47:2 
+47:3 
+
+point 8:1 11:4 14:8 
+14:9,10 17:11,11 
+23:25 25:7,15 
+26:12 33:5 35:4,5  protected 23:23 
+35:13 36:1 43:17 
+46:24 47:20,21 
+
+25:19 
+
+pointed 50:8 
+
+12:15 18:25 19:12  people 26:17 37:1,4  points 5:23 19:1 
+34:5 
+28:17 36:8 44:3 
+
+37:9 
+
+normal 16:19 
+note 8:16 
+notion 28:25 
+number 31:21 32:5 
+
+32:6 37:9 
+
+ordinarily 18:8 
+original 24:19 
+
+peoples 11:1 
+percent 6:24 14:24 
+
+28:10,15 30:13,14  percentage 22:6 
+36:10 38:8 45:13  perfectly 15:22 
+47:23 
+
+38:13 
+
+policy 11:23 12:1,2 
+
+12:6,9 13:2,24 
+22:18 23:3,17 
+24:2 50:3 
+
+policywise 44:6 
+portfolio 27:22 
+position 4:1 13:21 
+30:6,8,24 31:12 
+
+possess 49:14 
+possesses 3:24 
+pot 5:19 
+potentially 39:13 
+precisely 11:20 
+
+period 18:1 19:19 
+
+36:4 
+
+permit 28:5 39:12 
+perplexing 36:25 
+person 9:25 27:10 
+
+27:11,14 35:19 
+47:24 48:4 
+
+opinion 46:1 
+opponent 17:14 
+opt 22:11 
+opted 22:13 23:3 
+
+neither 27:7 45:6 
+never 25:24 43:12 
+new 20:5 
+nine 32:2 
+nonalienable 25:23  option 27:12 
+nonprofits 6:7 
+nonretirement 7:10 
+nonspousal 25:13 
+28:5 36:11,14,22 
+38:5,11 45:15 
+
+order 8:5 10:23 
+
+24:10 
+
+oral 1:12 2:2,5 3:6 
+
+O 
+
+o 2:1 3:1 
+object 42:21 
+objective 3:24 19:4 
+
+19:9 33:1 38:25 
+40:9,19 44:19 
+45:1 47:11,13,15 
+48:10 49:24 
+
+obtaining 29:13 
+obvious 37:9 
+obviously 8:15 
+
+originally 7:1 
+owned 32:1 
+owner 3:19 9:12 
+28:10,15 30:14 
+36:10 38:9 45:3 
+48:15,21 50:18 
+
+owners 24:19 30:13 
+
+45:13 48:25 
+
+owns 35:19 
+
+P 
+
+p 3:1 
+
+11:24 12:21 14:13  page 2:2 34:3 46:22 
+24:6 49:16 
+
+odd 8:20 16:24 
+
+paragraphs 32:10 
+
+21:18 
+
+32:13 
+
+42:18,25 
+oddly 32:6 
+offer 34:21 47:11 
+offered 7:20 
+offers 50:2 
+oh 26:13 35:10 37:7 
+okay 36:4 43:16,23  parents 50:14 
+old 50:13 
+once 11:14 27:13 
+
+parent 8:25 9:2 
+parenthetically 
+
+part 6:18 10:24 
+
+16:25 49:11 
+
+8:16 
+
+protection 12:15,16 
+12:17 14:19 23:3 
+48:20 
+
+provide 9:20 12:15 
+
+22:20 23:3,20 
+29:8 39:7 48:20 
+
+provided 13:6 
+
+25:13 39:5 
+
+provides 22:21 
+
+25:10 
+
+provision 3:12 4:17 
+12:10 14:13,17,23 
+15:10 19:13 20:12 
+21:13 25:22 26:10 
+
+provisions 4:16 
+
+13:25 14:24 27:2 
+
+14:12,17 18:17 
+23:10 31:6 39:12 
+42:21,22 
+
+purposes 7:10,12 
+
+19:9,14 30:11 
+pursuant 28:8 
+put 18:1,17 38:14 
+
+43:23 
+
+puzzling 31:11 
+
+Q 
+
+qualified 25:9,15 
+
+25:21 38:6 
+
+qualify 3:15 18:18 
+
+18:25 49:1,6 
+
+question 6:19 27:25 
+28:1 32:24 35:15 
+37:20 38:17,22,24 
+41:2 43:22 44:23 
+44:25 46:18 50:5 
+
+questions 45:16 
+quickly 31:9 
+
+proviso 11:24 
+22:15 33:3 44:20  purpose 11:11 
+47:4 
+
+personal 47:2 
+petition 30:9 31:2 
+petitioner 30:1 
+petitioners 1:4,17 
+2:4,10 3:7 22:13 
+28:8 33:8 40:11 
+41:25 42:20 45:22  prescribed 32:3 
+
+preferable 20:24 
+preferential 9:3 
+prepetition 29:1,2 
+
+paid 7:4 18:1 
+paradigmatic 21:2  phrase 4:19 5:3,7 
+
+8:21 14:5,11 
+15:11,20 18:15 
+20:14 33:6 37:16 
+40:1,10,22 41:23 
+42:9,11,16,18 
+48:8 
+
+present 45:6 
+pressing 26:19 
+pretty 37:9,23 
+
+43:25 
+
+previously 30:16 
+primary 7:14 
+prime 50:16 
+prior 10:6 27:5 
+
+32:13 36:19 
+
+particular 15:10 
+
+phraseology 41:4 
+place 33:10 34:15 
+plain 3:11 11:24 
+plan 25:10 38:23 
+18:7 20:12 23:13  planning 13:23 
+47:18 48:24 49:5  plans 25:9,16,21,24  proceeded 20:20 
+proceeding 23:5 
+professional 15:19 
+profit 38:23 
+property 29:2 
+
+plausible 10:11 
+play 15:25 
+please 3:9 24:13 
+
+22:6 42:18 
+parties 24:14 
+passed 38:5 
+
+problem 16:8 43:7 
+
+27:2 38:6,7 39:1 
+
+proceed 22:16 
+
+47:10,16 
+
+32:13 35:6,6 
+43:23 44:3 47:16 
+
+ones 22:18 23:17 
+
+oneway 10:15 
+opening 50:4 
+
+23:18 27:21 44:7  particularly 9:24 
+44:7 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+48:17 50:1 
+
+respond 31:9 32:21 
+respondent 6:20 
+respondents 1:19 
+2:7 3:20 4:1,24 
+6:20 7:19 19:2,3 
+19:25 20:24 21:10 
+24:11 46:4,23 
+47:11 48:10 50:2 
+response 5:23 7:18 
+28:17 32:23 34:22 
+
+responses 25:6 
+rest 44:2,18 
+resting 44:16,16,17 
+
+44:19 
+
+restriction 24:23 
+
+31:12,13 32:6,11 
+32:16,20 33:3,22 
+34:1,19 35:5,7,8 
+35:12,13,14,15,24 
+35:24 36:4,16,17 
+37:17,21,21,22 
+38:6,12,14 39:15 
+39:22,23,23 40:2 
+40:5,8,10 41:17 
+42:1,3,16,19,24 
+43:2,5,5,21,24 
+44:22,24 45:9,12 
+46:2,3 47:6,24,25 
+48:8,13 49:13,19 
+50:18,21 
+
+retirements 43:1 
+return 10:10 27:25 
+
+quite 6:17 9:11 
+
+10:11 14:3 21:10 
+38:20 42:25 44:23  refer 5:10 8:4 17:1 
+
+reconciled 28:4 
+red 34:4 
+
+quoting 46:25 
+
+44:17 
+
+reference 14:14 
+
+15:5 21:12 
+
+references 8:3,3 
+
+17:2 46:15 47:13 
+
+referred 49:3 
+referring 7:16 
+refers 16:3 
+regard 5:24 6:9,10 
+
+6:25 7:7,8 15:6 
+49:9,10,16 50:17 
+
+regardless 13:19 
+
+22:11,16 
+
+R 
+
+r 3:1 
+rameker 1:6 3:4 
+range 12:13 
+ratchet 10:15 
+rate 10:10 27:25 
+reach 9:22 
+reached 10:2 
+read 5:10 18:21 
+
+21:8 29:20 42:18 
+46:9 
+
+reading 38:7,18 
+
+41:25 42:20 47:5 
+
+reads 7:23 18:13 
+
+21:1 46:25 
+
+real 32:15 34:8 
+
+47:2 
+
+Page 57 
+
+26:13 41:8,16 
+says 22:24 25:2 
+29:24 32:6,12 
+33:22 34:7 36:3 
+42:6 43:12 44:7 
+
+scalia 49:4 
+scenario 10:11 
+scope 5:4 
+second 3:17 14:8,8 
+
+14:10 
+
+section 8:2 15:1 
+
+17:8 20:6 21:11 
+25:12,25 33:10 
+34:20 46:16,23 
+sections 14:7,20 
+37:11,13 39:24 
+40:7 
+
+see 11:12 30:21 
+
+33:12 35:3 47:22 
+
+sense 17:5 21:24 
+
+23:11 29:19 31:6 
+33:15 44:6 
+separate 43:6 
+serves 4:14 20:2 
+set 3:12,16 4:20 
+
+7:12,21 15:4,14 
+16:3,5,8 18:23,24 
+20:3,7 21:13,14 
+22:18 24:15,19,20 
+29:12,25 30:7,12 
+30:13,15 33:2 
+34:6 35:7,9,13,14 
+35:15 39:15 40:25 
+43:6 44:24 46:2 
+setteraside 47:23 
+seven 12:4 22:2,3,5 
+
+reality 50:11 
+realize 37:7 
+really 4:5,24,25 
+12:15,20 13:9 
+14:12 15:9 17:3,6 
+18:13,22 19:1,24 
+20:11 22:10 27:13 
+29:11 46:4,9 50:2  remains 3:17 17:8 
+
+relied 44:21 
+remain 9:8,12,13 
+11:9,9 16:5 17:3 
+17:22,24 18:4,9 
+
+remaining 29:7 
+
+45:20 
+
+reason 23:13 24:22  rendered 4:5 
+
+25:12 31:18 32:19  reply 19:5 48:13 
+33:8 34:2,4,17 
+38:13 46:7,7 
+
+require 36:22 
+required 9:15 
+
+27:4 
+
+29:1 
+
+36:16 
+
+24:8 42:5 45:18 
+50:22 
+
+13:25 17:4 21:21 
+30:11,25 31:5 
+46:20 
+
+revenue 15:1 17:9 
+right 17:22 45:10 
+risk 11:3 
+roberts 3:3 16:7,16 
+
+regime 22:12,14,16 
+regimes 22:21 23:6  rests 45:11 
+relatively 9:25 50:6  result 4:15 26:4 
+relevant 11:20 13:2  retain 42:23 
+retains 35:23 
+retire 28:15 43:12 
+retirement 3:11,13 
+3:13,14,16 4:5,12 
+4:14,18,19,21 5:3  roll 25:14 30:17 
+5:7,8,11,11,25 6:6 
+7:20,22 8:7,21 9:8  rollover 6:14 
+9:19,20,23 10:2,4  roth 6:10,23 7:15 
+10:13,19,22 11:1 
+17:15,21,22 18:6 
+11:6,17 12:11,13 
+38:4 49:11,13 
+12:22,24 13:22 
+14:5,5,12,25 15:4  roughly 10:5,12 
+16:2,3,6,12,18,22 
+17:2,4,8,12,16 
+18:15,19,20,23 
+19:5,17,24 20:1,3 
+20:9,12,15,17,19 
+21:5,6,15 22:25 
+23:21 24:14,19,20 
+save 23:21 
+24:25 25:1,4,9,16 
+25:21 26:14,16,18  saved 29:9 
+26:22 27:1,5,7,13 
+27:22 28:3,9,20 
+29:10,21,24 30:1 
+30:2,3,6,7,12,14 
+30:15,18,25 31:4 
+
+requires 25:23 
+reserve 24:7 
+reserving 21:17 
+residence 47:4 
+respect 5:1 
+respectfully 21:9 
+
+rousey 38:21 44:21 
+44:25 49:16,16,18 
+50:1 
+
+requirement 26:2,6 
+requirements 41:1 
+
+13:16 19:12 48:12 
+49:12 
+
+21:25 23:16 46:6 
+
+roths 49:8,9 
+
+42:11 43:6 
+
+Alderson Reporting Company
+ 
+
+reasonable 10:10 
+reasonably 48:18 
+reasoning 32:25 
+reasons 26:15 
+rebuttal 2:8 45:21 
+received 14:19 
+
+49:21 
+
+receives 24:25 
+
+36:13,14 
+
+recipe 48:23 
+recitation 23:10 
+recited 46:14 
+
+S 
+
+25:22 26:4 49:8 
+
+23:15 32:1 39:4 
+s 2:1 3:1 7:16 25:10  shanmugam 1:16 
+2:3,9 3:5,6,8 4:7 
+4:11 5:9,23 6:25 
+7:6 8:10,13 9:6 
+10:7,15,17 11:3 
+11:15 12:20 13:15 
+14:2,10,21 16:14 
+16:23 17:17,22 
+18:3 19:20 21:7 
+
+saving 29:21 40:4 
+savings 10:23 20:5 
+
+saw 39:1 
+saying 14:17 20:1 
+
+28:20 39:3 
+
+subject 12:23 18:10  talk 19:3 32:14 
+
+spent 13:13 
+spinelli 1:18 2:6 
+24:9,10,12 25:6 
+25:20 26:8,24 
+27:23 28:11,17 
+30:4,8,22 31:15 
+32:4,8,17,21 
+33:17,23 34:2 
+35:6,11,17,20 
+36:7,24 37:15,24 
+39:6,21 40:1,15 
+40:18,21 41:21 
+42:8 43:10,15,18 
+44:9,12,19 47:12 
+49:3 
+
+spinellis 46:8,11 
+sports 15:18,19,21 
+
+15:22 
+
+spousal 36:13,15 
+
+38:9 45:13 
+
+stand 5:3 
+stands 15:6 
+start 28:25 29:13 
+
+statutory 20:12 
+
+21:3,18 
+stay 35:22 
+stock 18:7,8 38:23 
+stopped 18:15 
+stops 24:15 
+strange 10:19 
+stretch 9:16 13:7 
+strikes 42:25 
+structure 5:1 15:10 
+
+20:11,23 39:11 
+
+25:22 26:2,6 
+
+subjective 40:12 
+
+43:9 44:16 
+
+submit 21:9,25 
+
+23:17 29:19 46:6 
+48:17 50:1 
+
+submitted 50:23,25 
+subsequently 15:7 
+substantial 49:11 
+substantively 11:7 
+substitute 29:9 
+
+44:22 
+
+T 
+
+t 2:1,1 
+tack 20:4 
+take 9:15 11:13 
+
+13:9 14:25 16:21 
+25:11 27:4,12,12 
+29:24 43:13 45:8 
+46:13,22 
+
+taken 10:2 13:15 
+takes 41:11 
+
+34:23 
+
+talking 32:14 33:20 
+
+35:21 
+
+tax 3:17,23 4:16 6:3 
+
+9:9,12,16 10:23 
+10:23 11:8,13 
+12:7,17,21,25 
+13:4,7,10,25 
+14:19,24 15:5,7 
+15:18 17:8,10,14 
+17:15,23,24,25 
+18:4,11 19:22 
+20:6 25:12,18 
+27:3 28:22 40:7 
+50:10 
+
+share 27:3 
+shared 19:6 
+sharing 38:23 
+shouldnt 26:20,21 
+side 23:11 
+significant 11:8 
+
+13:5 
+
+similar 8:24 34:17 
+
+38:20,22 44:23 
+simple 4:3 9:19 
+
+29:24 36:3 
+
+simplicity 26:23 
+simply 8:25 9:7 
+
+12:24 14:11 16:2 
+20:15,18 23:25 
+38:3 39:2 41:4 
+46:15 
+
+situation 8:8,24 
+
+9:24 25:8 50:12 
+
+six 31:25 
+sliced 20:25 
+small 41:11 
+smaller 41:9 
+society 29:16 
+somebody 16:10 
+
+43:11 
+
+Official 
+
+43:2 44:2 46:1,10 
+
+swept 49:22 
+
+21:25 22:9 23:1 
+23:14 45:19,21,23  specified 7:9 19:8 
+48:2,5,9 49:7 
+
+45:2 
+
+45:25 47:16 
+started 20:19 
+starts 38:17 
+state 22:2,7,8,12,21  suggest 34:11 40:23  taxation 18:10 
+
+substitutes 39:2 
+sudden 37:7 
+sufficient 29:7 
+
+somewhat 8:24 
+
+32:14 
+
+44:5 
+
+sorry 26:7 41:6 
+
+45:20 
+
+sort 21:2 22:1 
+
+26:21 27:21 33:19 
+47:7 48:22 
+
+statement 14:3 
+statements 23:10 
+states 1:1,13 12:4 
+22:3,6,7 23:2,6,9 
+23:12,15 39:5,7 
+39:10 
+
+sotomayor 6:22 7:3  status 19:11 49:25 
+
+8:7,11 17:10,18 
+17:20,25 19:8 
+24:24 25:7,17,21 
+30:19,23 
+
+speaker 16:19 
+special 12:23 38:2 
+specific 26:9 40:6 
+
+49:4 
+
+specifically 8:4 
+
+statute 3:22 4:10 
+
+5:2,5,5 6:19 7:18 
+7:24 15:11,17 
+17:3,19 18:11,13 
+18:13,14 19:7,16 
+19:21 20:23 21:2 
+21:9,19,20,24 
+33:20,20 34:20 
+38:15 42:18,19 
+
+41:24 
+
+suggests 37:11 
+
+41:25 42:2 
+
+sum 25:11 
+superfluity 4:23 
+superfluous 4:6,13 
+
+19:25 20:17 
+
+support 12:3,9 31:7 
+supporting 9:22 
+supports 22:19 
+suppose 8:23 27:16 
+
+31:18 39:4 
+
+supposed 19:4 
+supreme 1:1,13 
+sure 13:1 14:4,22 
+
+19:18 41:5 42:14 
+43:4 
+
+taxdeferred 26:16 
+
+39:3 
+
+taxes 7:3 18:1 
+taxexempt 3:13 9:8 
+
+19:10 28:2 40:6 
+49:25 
+
+teams 15:18,21,22 
+
+15:24,25 
+tell 47:14 
+tells 30:1 
+tend 9:18 
+term 19:24 20:8 
+
+34:5 
+
+14:24 17:10 18:14  terms 3:11 9:19 
+22:22 29:6 
+
+test 40:19 48:22,22 
+
+Alderson Reporting Company
+ 
+
+Page 58 
+
+text 6:19 7:18 
+
+20:23 21:1,19 
+29:20 45:25 46:23 
+46:24 49:3,16 
+
+textual 4:24 19:1 
+
+20:24 
+
+thank 3:8 24:8 
+
+45:18,23 50:22 
+thats 6:6 11:4,6 
+13:1 16:20,25 
+17:13 18:3,11 
+24:24 25:8,11 
+31:1 32:18 33:16 
+33:23 34:13 35:3 
+35:4,17 36:5,5,25 
+37:18,22 38:1 
+39:9 41:5 42:4 
+43:16,18,22,25 
+44:5 48:6 
+
+theory 44:10 
+theres 7:4 17:6 
+
+27:25 28:14 36:18 
+44:9,12 
+
+theyre 18:4 27:24 
+30:14 37:2 38:3 
+thing 7:17 10:22 
+
+11:14 21:16 36:11 
+36:25 37:6 38:1,5 
+40:24 48:18 49:2 
+49:15 
+
+things 15:2 16:15 
+
+27:3,10 36:21 
+
+think 3:25 4:7,12 
+4:13,24,25 9:18 
+10:7 11:4,18,24 
+12:1,3,20 13:1,3 
+13:19 14:10,13,21 
+15:9,11,20 16:16 
+16:23,24 17:6,13 
+17:17 18:12,25 
+19:16,23 20:10 
+22:1 26:8 28:1,3 
+28:18 30:8,23 
+31:1,3 33:6,17 
+35:6 36:1 37:25 
+38:13,16,20 40:2 
+
+40:8,11,24 41:22 
+41:23,25 42:3,9 
+42:16 44:14,23 
+45:10 46:3 47:10 
+47:15,19,21 49:6 
+50:10 
+
+thinks 43:20 48:7 
+thought 14:7 17:11 
+
+31:18 33:13,25 
+three 31:23 32:13 
+time 10:13 14:23 
+21:17 24:7,22 
+30:9,10,11 35:11 
+35:14 45:5,8 
+46:18 
+
+tons 37:1,1 
+tools 13:22,23 
+traditional 36:19 
+
+38:3,22 
+
+tragically 50:14 
+transactions 18:7 
+treat 25:3 26:22 
+
+28:6 36:15 
+
+treatment 9:3,20 
+12:23 26:3 28:2 
+38:11 
+
+tribune 25:2 
+trigger 19:12 
+trouble 44:15 
+true 3:25 4:8 5:2,25 
+8:14 9:9,14 24:24 
+27:7,23 36:21 
+38:6 40:25 42:4 
+46:14 49:9 50:12 
+
+trustee 1:7 29:3 
+try 10:22 26:18 
+
+41:21 48:24 
+
+turns 29:2 
+two 5:23 7:14 8:24 
+
+13:5 25:6 27:3 
+28:17 31:22 36:7 
+36:7 40:25 42:11 
+43:6 44:3 48:11 
+
+twothirds 10:5 
+type 38:3 47:4 
+
+50:12 
+
+types 7:14 12:22 
+
+16:6 18:25 48:14 
+48:20,25 
+
+U 
+
+ultimately 20:25 
+unable 23:14 
+underlying 11:22 
+underscore 15:10
+
+20:10
+
+understand 30:20
+35:4 36:2 38:1 
+50:11
+
+understandable
+
+38:14
+
+understanding
+
+11:1
+
+understood 14:4
+
+40:9
+
+uniformity 22:5,20 
+
+22:22
+
+unique 22:10
+united 1:1,13 
+unlimited 6:15 39:9 
+
+39:13,17 
+
+upshot 30:24
+usable 5:19 
+use 9:4 11:16 13:21 
+
+14:5,11 18:19 
+19:16 26:18 33:6 
+34:5,11,23 42:16 
+46:20 50:7,20 
+
+uses 8:5 47:4 
+ux 1:3 
+
+V 
+
+v 1:5
+value 34:6,8,10,18 
+
+47:2 
+
+vast 12:13
+vehicle 31:23 34:10 
+versus 3:4 
+view 15:22,24 
+
+22:17 
+
+viewed 41:2 
+virtue 23:2 
+
+Official 
+
+W 
+
+wages 29:9 39:2 
+
+44:22 
+
+want 4:22 7:17 9:2 
+9:21 12:18 20:11 
+31:11,14,15,18 
+32:19 36:5 43:9 
+46:11 49:2,15 
+50:3 
+
+wanted 12:7 14:16 
+15:3 22:20 48:19 
+
+wants 24:5 
+washington 1:9,16 
+
+1:18 
+
+wasnt 11:11,12 
+
+14:3 42:15 
+
+way 8:20 14:13 
+
+29:20 33:14 34:3 
+37:19,22 39:15,17 
+41:19 
+
+weigh 11:25 23:11 
+
+24:2 
+
+went 13:16 
+whats 40:13 41:17 
+william 1:6 
+wisconsin 22:14 
+withdraw 6:2,24 
+
+24:21 
+
+withdrawals 48:12 
+
+49:8 
+
+withdrawn 6:23 
+
+7:11,15 10:1 45:5 
+
+withholds 39:17 
+women 40:23,24 
+41:8,10,24,24 
+42:7,7 
+
+wondering 46:6
+word 19:17,24 20:1 
+
+20:15,17 50:3 
+words 4:5,9,19 
+
+23:12 28:13,14 
+44:17
+
+work 15:21 20:9,16 
+working 24:16
+works 39:17
+wouldnt 8:9 10:5 
+
+Page 59 
+
+15:20 16:11 19:15  22 5:15,15 50:13 
+37:5,13 42:12 
+write 37:10 41:3 
+wrote 24:4
+
+24 1:10 2:7 
+25 6:13
+
+3
+
+X
+
+x 1:2,8 43:12 
+
+Y
+year 27:19
+years 12:5 50:13 
+young 9:25 27:10 
+
+50:6,15 
+
+youre 10:24 14:17 
+
+27:17,18 35:4 
+43:8,23 44:3 
+
+Z 
+
+0
+
+000 5:15,18 8:25 
+
+3 2:4 12:4 47:8 
+300 5:18 8:25 16:13 
+37something 5:16
+
+4
+
+4 47:8
+400 13:12
+401 25:10,22 26:4 
+402 25:12
+408 17:9 20:6 
+45 2:10
+457 6:5 7:16 49:8 
+
+5
+
+5 27:19 45:19 46:22 
+50 27:18 50:17 
+
+13:13 16:13 27:16  501 15:1
+27:19 
+
+522 8:2 21:11 34:20 
+
+46:23
+
+541 25:25 33:10 
+
+34:14 46:16
+
+59 36:19 50:17,19 
+591 17:13 27:5 45:3 
+5a 34:3
+
+6 45:20 
+65 10:6 
+
+7 28:24
+70 43:12
+701 45:4
+
+6
+
+7
+
+8
+
+9
+
+000odd 13:12 
+02 50:24 
+05 1:14 3:2 
+
+1
+
+1 6:13 33:10 34:7 
+
+34:14 36:19 43:12 
+46:23 47:8 50:19 
+
+10 1:14 3:2 6:24 
+100 14:23
+11 8:1 25:12 46:13 
+
+50:24
+
+12 31:20 32:6,6 
+
+34:18 
+
+1225 31:25 
+13299 1:4 3:4 
+150 13:13
+
+2
+
+2 17:13 25:25 27:5 
+34:9 36:19 43:12 
+45:3,4 50:19 
+
+200 27:16
+2014 1:10
+
+Alderson Reporting Company
+ 
+
+

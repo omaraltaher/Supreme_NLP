@@ -1,0 +1,5245 @@
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+KANSAS, 
+:
+                         
+:
+          
+ Petitioner 
+:  No. 07-1356 
+                       
+DONNIE RAY VENTRIS. 
+: 
+             
+- - - - - - - - - - - - - - - - - x
+
+ v. 
+
+ Washington, D.C.
+ Wednesday, January 21, 2009
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+at 11:15 a.m. 
+APPEARANCES: 
+STEPHEN R. McCALLISTER, ESQ., Solicitor General,
+
+ Topeka, Kan., on behalf of the Petitioner. 
+
+NICOLE A. SAHARSKY, ESQ., Assistant to the Solicitor
+
+ General, Department of Justice, Washington,
+ D.C.; on behalf of the United States, as amicus
+ curiae, supporting the Petitioner. 
+
+MATTHEW J. EDGE, ESQ., Assistant Appellate Defender,
+
+ Topeka, Kan,; on behalf of the Respondent. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+1
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF 
+STEPHEN R. McCALLISTER, ESQ.
+
+                                
+
+PAGE 
+
+ On behalf of the Petitioner 
+
+                     
+
+3
+
+
+NICOLE A. SAHARSKY, ESQ.
+
+
+ On behalf of the United States, as amicus
+ curiae, supporting the Petitioner 
+
+              
+
+14
+
+
+MATTHEW J. EDGE, ESQ.
+
+
+ On behalf of the Respondent 
+
+                   
+
+24
+
+
+REBUTTAL ARGUMENT OF
+
+STEPHEN R. McCALLISTER, ESQ.
+
+
+ On behalf of the Petitioner 
+
+                    
+
+38
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+2
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:15 a.m.)
+
+ CHIEF JUSTICE ROBERTS:  We will hear 
+
+argument next in Case 07-1356, Kansas v. Ventris.
+
+ General McAllister.
+
+ ORAL ARGUMENT OF STEPHEN R. McALLISTER
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. McALLISTER:  Mr. Chief Justice, and may 
+
+it please the Court:
+
+ The Court has always held that the 
+
+defendant's voluntary statements obtained in violation 
+of constitutional standards may be used for impeachment 
+purposes when the defendant testifies at trial.
+
+ The Court has excluded statements for all 
+purposes only when they are involuntary or have been 
+compelled.  The question in this case is whether 
+voluntary statements obtained in violation of the rule 
+of Massiah v. United States should be treated 
+differently than all other voluntary statements.
+
+ The answer is "no" for at least three 
+reasons.  First, permitting the impeachment use of 
+voluntary statements obtained in violation of 
+constitutional standards is necessary to prevent perjury 
+by criminal defendants.
+
+ Second, in terms of the effect at trial, 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+3
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+there is no basis for distinguishing a voluntary 
+statement obtained in violation of the Massiah rule from 
+Fourth Amendment violations, Miranda violations, or 
+violations of the rule of Michigan v. Jackson.
+
+ In all of those situations the resulting 
+
+evidence may limit defense counsel's options at trial, 
+but there is no basis in that respect for distinguishing 
+a Massiah violation.  It has no different effect than 
+those others.  Also, the Sixth Amendment right to 
+counsel does not include a right to commit perjury or to 
+have the assistance of counsel in presenting false 
+testimony.
+
+ JUSTICE SCALIA:  When does -- when does the 
+
+Sixth Amendment violation occur?
+
+ MR. McALLISTER:  That question, Your Honor, 
+as you realize, is debated a bit in the briefs, it's --
+Kansas for purposes of deciding this case, is willing to 
+accept the position of the United States and the 
+Respondent that it occurs when the statement is admitted 
+at trial, although the cases have not necessarily 
+definitively resolved that question.  We, frankly, think 
+it is unnecessary to answer the question, because it's a 
+minimal point in terms of potential deterrence --
+deterrence that operate in this segment --
+
+JUSTICE SCALIA:  Do you -- do we have any 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+4
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+other situation in which, for purposes of impeaching 
+testimony, a constitutional violation results?
+
+ MR. McALLISTER:  Well, that's the -- that is 
+
+one of the intricacies of this particular question, 
+although arguably in the Fifth Amendment context 
+certainly the Miranda warnings are given.  The police 
+don't do that.  And if that is the completion of the 
+violation, it's analogous in many ways, if one looks 
+back at the cases.
+
+ The Court has suggested that the actual 
+
+violation is the use of the statement at trial against 
+the defendant, not simply obtaining it without the 
+necessary warnings being given.  So we would argue that 
+is, in fact --
+
+JUSTICE SCALIA:  It's parallel to the Fifth.
+ MR. McALLISTER:  It's parallel to the Fifth 
+in this respect, and certainly, it's distinct from the 
+Fourth in that respect.  But we don't think it matters 
+at the end of the day.  If one were to treat it like the 
+Fourth Amendment, so that the violation is complete when 
+the police send in an informant and he works hard to 
+elicit statements in violation of the Messiah law, if 
+it's complete at that time, then all of the analysis 
+from the Fourth Amendment cases is equally applicable 
+here. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+5
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+If the violation does not occur until it's 
+
+presented at trial, then it's analogous more to the 
+Fifth Amendment and also to the Michigan v. Jackson and 
+Michigan v. Harvey cases, which were Sixth Amendment 
+right to counsel violations, in which case the Court 
+said it was wrong for the police to initiate 
+interrogation after he invoked his right but will let 
+the statement be admitted for impeachment purposes.  So 
+it is exactly analogous to what the Court did in Harvey 
+itself.
+
+ JUSTICE GINSBURG:  Would it make no 
+
+difference, I take it, General McAllister, if this had 
+been a police officer who was pretending to be a 
+cellmate?  In this case it was a snitch, but it could be 
+a police officer doing inside the cell what he couldn't 
+do outside; that is, the police officer outside wants to 
+interrogate, must inform the arrestee of his Miranda 
+rights, but inside the cell, the police could pretend to 
+be a jailbird and they can get the information that way. 
+Is that --
+
+MR. McALLISTER:  Well, Justice Ginsburg, I 
+believe that is correct if -- if it's for example, an 
+undercover officer, someone has gone in -- in fact, 
+there are cases such as Weatherford v. Bursey that 
+involved an undercover agent who was present for 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+6
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+meetings with the defendant and his counsel, and the 
+Court indicated that the presence alone would not 
+violate the right to counsel.  It's the deliberate 
+solicitation and use of statements obtained from the 
+defendant that would violate the Sixth Amendment.
+
+ So if a cellmate, another defendant, is the 
+
+informant who listens and hears, it wouldn't make any 
+difference under the Court's cases if, in fact, it was a 
+police officer pretending to be a cellmate who listens 
+and hears.  Just as it wouldn't make -- it wouldn't be a 
+violation if there were a recording device in the cell 
+and the defendant talked to himself, which there are 
+cases of that, and it was picked up on the recording 
+device.  The mere listening, that goes to whether there 
+is a violation at all.  But the who, there is -- it 
+wouldn't matter for our purposes.
+
+ JUSTICE GINSBURG:  So, the police know that 
+
+they can get around the clear prohibition of their 
+questioning without Miranda warnings by pretending to be 
+a jailbird?
+
+ MR. McALLISTER:  Potentially, yes.  But, 
+again, the violation would go to what happens in the 
+cell.  So if the police officer is pretending to be 
+another defendant and sits in the cell and the defendant 
+starts telling the officer things, that would not 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+7
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+violate the Sixth Amendment at all under the --
+
+JUSTICE GINSBURG:  No, I am assuming we are 
+not in the area where the jail mate is simply passive. 
+In this case, the jail mate made a statement that 
+encouraged the defendant.  He wasn't just passive.  He 
+was encouraging the defendant to speak.
+
+ MR. McALLISTER:  There was certainly 
+
+testimony about what he was told to do and what he did. 
+It does not suggest aggressive efforts, certainly, to 
+find out.  He may not have been completely silent, but 
+he certainly didn't say, tell me what you did, let's 
+talk about your crimes.  But he did make one arguably 
+suggestive statement to the --
+
+JUSTICE GINSBURG:  Anyway, your answer is 
+
+the police officer could affirmatively elicit testimony?
+
+ MR. McALLISTER:  No, not that he could 
+
+affirmatively elicit.  That's the dividing line between 
+the Massiah and Kuhlmann case.  He was in the cell --
+well, I guess what I'm suggesting is --
+
+JUSTICE GINSBURG:  And for your -- you are 
+
+talking about impeachment only.  We are not talking 
+about the case in chief.  So if the police -- he 
+can't -- outside, when he questions the defendant and 
+gives no Miranda warnings, that is inadmissible, right?
+ MR. McALLISTER:  Outside -- well, it would 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+8
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+still be admissible for impeachment.  We are asking for 
+basically the same rule.  It would be the same thing if 
+he were in the cell, deliberately elicits, knows he is 
+violating Massiah, it couldn't be used in the government 
+case in chief, but it could be used for impeachment 
+purposes.  But that would be true of Miranda, if the 
+officer deliberately failed to give the warnings, got a 
+statement, they would not be admissible in the case in 
+chief; but the Court cases are very clearly, it would be 
+admissible for impeachment purposes.
+
+ So we are asking for a precise parallel 
+
+rule.
+
+ JUSTICE GINSBURG:  You are making no 
+
+distinction, then, between the Fifth and Sixth 
+Amendment?
+
+ MR. McALLISTER:  Well, there may be 
+
+distinctions, and there is an distinction in the text of 
+the Fifth Amendment that suggests actually a rule of 
+exclusion when you truly have -- when there truly is a 
+compelled statement.  And the Court has recognized that 
+in cases such as Portash, where the witness has given 
+use immunity, testifies before the grand jury and the 
+government later tries to use it against him.  The Court 
+says, no, you cannot use that testimony for any purpose.
+ So there is a difference between the Sixth 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+9
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+Amendment and Fifth Amendment in that respect.
+
+ But what I was suggesting is the way Massiah 
+
+and Miranda operate is similar in this context, that a 
+violation results in suppression of the evidence from 
+the government's case in chief, but it remains available 
+for use as impeachment.
+
+ JUSTICE GINSBURG:  What about the argument 
+
+that essentially this is like taking a pretrial 
+deposition, only one side isn't represented?
+
+ MR. McALLISTER:  Well, with all due respect 
+
+to that argument, Your Honor, we disagree with that. 
+There are strong incentives for the police, frankly, not 
+to do this.  And in part one of the reasons -- well, 
+there is two.  One is the police know if this is truly 
+in violation of the Sixth Amendment, then nothing can be 
+used in the case in chief.  So, at most, it is 
+impeachment if the defendant testifies and if the 
+defendant testifies inconsistently with whatever is 
+elicited.
+
+ But furthermore, given the line the court 
+
+has drawn between Massiah and Kuhlmann and what goes on 
+with the informant in the cell, if they can hear the 
+statements without deliberately eliciting them, if you 
+will, if the informant is present, the defendant wants 
+to talk, starts chatting, they discuss the crime, those 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+10 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+statements, the Court has held in Kuhlmann, are 
+admissible for all purposes, because they are not a 
+Sixth Amendment violation at all.
+
+ So, the police do have some strong 
+
+incentives to actually try to gather the evidence, if 
+they are going to, in a way that makes it usable in the 
+prosecution's case in chief.  It's much less value to 
+having it solely for impeachment, which is always going 
+to be speculative if it were ever going to be used.  It 
+would depend on if the defendant testifies and if he 
+testifies inconsistently with what he has told an 
+informant.
+
+ And in that regard, there are other 
+
+deterrents I would like to mention here as well.  The 
+informant in this case, for example, in jail recognized 
+that he did not want to be an aggressive questioner or 
+obvious as a government agent.  In fact, he said, I 
+didn't really want to ask him questions because I was 
+afraid if he felt I was being too nosey, I might get 
+hurt.  So, the informants have their own incentives to 
+be careful here.
+
+ And in this case, it's also important to 
+
+remember that deterrence is simply one side of the 
+balance.  And the Court has said many times even if 
+there would be some deterrent effect to extending the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+11 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+rule to include impeachment, that doesn't answer the 
+question whether it should, in fact, be excluded.  That 
+still must be weighed against the costs on the other 
+side.
+
+ And the Court has numerous cases emphasizing 
+
+the costs that are present on the other side of this 
+case.  Perjury by criminal defendants is a primary one, 
+but also cases talking about the importance of allowing 
+the jury to hear the truth and to search for truth.
+
+ The jury here gets to evaluate and did, I 
+
+would argue, quite effectively from Mr. Ventris's 
+standpoint, evaluate the defendant's credibility.  The 
+jury was informed, cross-examination, of the informant's 
+circumstances, what benefit he received, who he was, all 
+the things they might want to know in deciding whether 
+to believe him.  His testimony went not solely but 
+primarily to the question of who was the shooter in the 
+murder in the case, and the jury acquitted Mr. Ventris 
+of the murder charge, so they did not believe, at least 
+beyond a reasonable doubt, that he in fact was the 
+shooter.  And that is precisely how this should work.
+ We are not saying informants are always 
+
+100 percent reliable, but we are saying the court has a 
+long tradition, the country has a long tradition, of 
+putting this evidence in front of a jury.  It's tested 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+12 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+by cross-examination, knowledge of what the incentives 
+are, bringing that out in front of the jury, and then 
+the jury decides.  There are many of these cases where 
+-- this was a typical, one codefendant saying, "he was 
+the shooter," the other defendant saying, "no, she was 
+the shooter."
+
+ And the informant simply had information 
+that was relevant to the credibility.  And that's the 
+way it was used in this case, was as impeachment on 
+rebuttal to evaluate Mr. Ventris's testimony in whether 
+the jury believed him or not.
+
+ The other thing I would remind the Court is 
+
+we are simply saying that the rule should be no 
+exclusion under the Sixth Amendment for impeachment 
+purposes, but that does not mean that the normal rules 
+of evidence and other rules of trial procedure do not 
+apply.  They do.  And they might well result in the 
+exclusion of some potential informant's testimony.  So 
+if the government were to want to put on an informant 
+who had been convicted many times of perjury and the 
+judge said, no, I just do not think this evidence is 
+credible enough to even put in front of the jury, not 
+this person, the ordinary rules of evidence and trial 
+procedure would operate.  Furthermore, as happened in 
+this case, the judge can, and often will, give 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+13 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+cautionary instructions, limiting instructions.  All of 
+that remains appropriate, but there is simply no reason 
+to exclude the evidence as a matter of the Sixth 
+Amendment right to counsel.
+
+ It would be inconsistent, frankly, with --
+
+with, really, the general tone and holdings of the cases 
+in the Fourth Amendment, Miranda, and even Sixth 
+Amendment territory, including primarily 
+Michigan v. Harvey and Nix v. Williams.
+
+ Unless the Court has further questions, I 
+
+will reserve the remainder of my time for rebuttal.
+
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+ Ms. Saharsky.
+ ORAL ARGUMENT OF NICOLE A. SAHARSKY
+
+ ON BEHALF OF THE UNITED STATES,
+
+ AS AMICUS CURIAE,
+
+ SUPPORTING THE PETITIONER
+
+ MS. SAHARSKY:  Mr. Chief Justice, and may it 
+
+please the Court:
+
+ This Court has consistently allowed the use 
+
+of voluntary statements obtained in violation of 
+constitutional standards for impeachment purposes, and 
+that same rule should apply here.  There is no question 
+that Respondent's statements were voluntary, and the 
+substantial societal cost of allowing him to commit 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+14 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+perjury unchecked greatly outweighs any speculative 
+deterrence benefit that would flow from a per se rule of 
+exclusion.
+
+ The purpose of the right to counsel is to 
+
+provide an adversary process to ensure that the 
+defendant gets a fair trial.  And to effectuate that 
+right, the Court has excluded deliberately elicited 
+statements from the government's case-in-chief.  But not 
+allowing the statements for impeachment purposes doesn't 
+further that right.  Instead, what it does is allow the 
+defendant to distort the truth-seeking process, and 
+that's just too high a price to pay.
+
+ CHIEF JUSTICE ROBERTS:  Well, you say there 
+is no deterrent value, since the police are -- are not 
+going to do this if they know they are not going to be 
+able to use this in their case-in-chief.  But there is 
+also no down side, is there?
+
+ I mean, you say it's only for impeachment 
+
+purposes, but, you know, why not?  He -- he may take the 
+stand.  He may lie.  It is better to have this in the 
+bank instead of not.
+
+ MS. SAHARSKY:  But there is a down side.  I 
+mean, as this Court recognized in cases versus -- like 
+Hudson v. Michigan, for example, the police have their 
+own codes of conduct.  They have training on 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+15 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+constitutional rules and standards.  And if they violate 
+those constitutional rules and standards, it has real 
+effect for the police.  It has effect in terms of 
+internal discipline, in -- in terms of limiting their 
+career opportunities.
+
+ JUSTICE GINSBURG:  Is that internal 
+
+discipline verifiable?  Do police officers who engage 
+snitches, do they get disciplined, especially if they 
+are then able to accomplish what was accomplished here? 
+That is, the -- the testimony -- the snitch is then able 
+to testify after the defendant testifies.
+
+ MS. SAHARSKY:  I don't think that there is 
+
+any evidence in the briefs, and I am not aware of 
+specific instances of discipline, but I think that that 
+is because this situation arises pretty infrequently. 
+You know, when this came up in the Kansas Supreme Court 
+it was a case of first impression.  And as General 
+McAllister noted, there are a lot of reasons why the 
+police would want to follow the rule in Kuhlman and send 
+the informant in to be a passive listening post. 
+Because if --
+
+JUSTICE GINSBURG:  On the Federal level is 
+
+there anything one way or another, any manual that 
+instructs a U.S. Attorney about the use of snitches to 
+extract confessions? 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+16 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+MS. SAHARSKY:  I think the Department of 
+
+Justice Manual sets out this Court's rules in terms of 
+the Kuhlman case and the Henry case.  And then, of 
+course, there are also State and the Model Professional 
+Ethics Rules that talk about when a prosecutor can 
+contact a person who is represented by counsel.  And 
+there are limitations there as well, both in terms of 
+the prosecutor contacting a person represented or using 
+an agent contacting a person represented.
+
+ But I mean, those are -- those are 
+deterrents.  I think the police discipline is a 
+deterrent.  But I think we also need to -- to focus on 
+this Court's cases in the Fourth and Fifth and Sixth 
+Amendment Jackson context that taking the evidence and 
+making it unavailable in the government's case-in-chief 
+is a substantial deterrent.
+
+ This Court said in each of those previous 
+
+case that not having the evidence available in the 
+government's case-in-chief is a very high price to pay, 
+because that means that the government has to come up 
+with other evidence that can meet its burden of proving 
+all of the elements of the case beyond a reasonable 
+doubt.
+
+ And, as General McAllister noted, it is 
+
+really very speculative, and the police certainly 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+17
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+wouldn't know at the time they are asking questions of 
+the defendant, whether this rebuttal impeachment 
+evidence could ever be used.  It's entirely within the 
+control of the defendant.  It is only if the defendant 
+-- if the government first meets its burden of proof 
+with other evidence at trial, and then the defendant 
+decides to testify, and then he testifies inconsistently 
+with his prior statements.
+
+ And our position is at that point that the 
+
+jury should hear the conflicting evidence just as it has 
+heard it in all of these other previous cases and be 
+allowed to make a decision about who is telling the 
+truth.
+
+ JUSTICE STEVENS:  It seems to me you are 
+
+just confirming the answer to the Chief Justice's 
+question.  There really isn't any down side.  The worst 
+that -- the worst that happens is maybe they can't use 
+the stuff.  But what -- what is the down side?
+
+ MS. SAHARSKY:  Again, I -- I think that 
+
+there is a down side in terms of police discipline and 
+the deterrence --
+
+JUSTICE STEVENS:  Has any police officer 
+
+ever been disciplined for doing this; do you know?
+
+ MS. SAHARSKY:  I -- I --
+JUSTICE STEVENS:  I would find it rather 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+18 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+amazing if he has.
+
+ MS. SAHARSKY:  Again, I think that most 
+
+police officers just follow the rule that this Court set 
+forth in Kuhlman, so that this issue has not arisen 
+frequently.  But, you know, even if you thought that 
+there would be some type of minimal deterrence benefit 
+that would arise from -- from not making the evidence 
+available for impeachment purposes, you have to balance 
+it against the cost to the truth-seeking process that 
+would be incurred if the defendant could --
+
+JUSTICE STEVENS:  The defendant could 
+
+sometimes lie.  But sometimes people who are in this 
+position in prison are not the most trustworthy people, 
+either.
+
+ MS. SAHARSKY:  I think --
+JUSTICE STEVENS:  You could bring that out 
+
+on cross-examination.  I understand that.
+
+ MS. SAHARSKY:  That -- that is what I was 
+
+going to say.  I mean, as General McAllister noted, that 
+-- that happened in this case.  The prosecutor himself 
+got up and talked about the -- the informant's prior 
+offenses, why the informant was in jail, whether the 
+informant received anything in exchange for his 
+testimony, the fact that the informant had actually gone 
+back to jail after testifying -- or after serving as an 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+19 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+informant in this case.
+
+ JUSTICE STEVENS:  It seems to me that that 
+all confirms the fact, well, they have nothing to lose. 
+Maybe we have one witness who is not very persuasive, 
+but no harm in giving it a try.
+
+ MS. SAHARSKY:  I think that the -- the fact 
+
+that the evidence would be unavailable in the 
+government's case-in-chief really is a strong price that 
+the government pays.  And -- and this Court recognized 
+it in in Havens, in Walder, in Harris, in Hass, in 
+Harvey, and in all of those prior cases.  And there is 
+just -- there is not any reason to depart from them, 
+because the -- the other side of the balance is that, 
+you know, you are letting a defendant to get up and take 
+the stand and -- and not subject himself to this prior 
+statement.
+
+ And this -- this prior statement, if 
+
+believed by the jury, is incredibly important to his 
+credibility, probative with respect to whether the 
+crimes were committed and the defendant is telling the 
+truth.
+
+ JUSTICE STEVENS:  If it is truthfully 
+
+reported.  Of course, that is always -- that is an issue 
+of credibility in all of these cases.
+
+ MS. SAHARSKY:  Yes, every case has a 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+20 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+question about someone's credibility, some witness's 
+credibility, and that's for the jury to decide.  And in 
+-- in this case there was ample cross-examination, and 
+there was the limiting instruction that the State 
+mentioned.
+
+ I mean, clearly the jury did its job here 
+
+because it went back and it considered all this 
+information.  And it didn't come back with a -- a 
+verdict -- although you, of course, never know exactly 
+what the jury is thinking, it didn't come back with a 
+verdict suggesting it just reflexively believed the 
+informant's testimony.
+
+ JUSTICE SCALIA:  Ms. Saharsky, I am still a 
+little hung up on -- on whether we would be allowing a 
+constitutional violation.  General McAllister said that 
+in the Fifth Amendment area we -- we indeed allow --
+allow it to be introduced in rebuttal even though that 
+is the actual constitutional violation.  Isn't that the 
+case other than in the Miranda situation?  I mean, 
+suppose you have a generally coerced confession.  Would 
+we -- would we permit that to go in?
+
+ MS. SAHARSKY:  Certainly not.  In the Fifth 
+
+Amendment context, the text of the amendment itself 
+would prohibit the use of that statement for any 
+purposes. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+21 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA:  Exactly, but why -- why is 
+
+not that the case with the right to counsel?
+
+ MS. SAHARSKY:  Because the text of the Sixth 
+
+Amendment doesn't say anything about the exclusion of 
+evidence at trial. What it does is it guarantees counsel 
+for a purpose, and that purpose is to ensure an 
+adversary process at trial. And if counsel is not 
+afforded, then it's up to the court to determine what 
+the remedy is --
+
+JUSTICE SCALIA:  But its real meaning is 
+that counsel is guaranteed at trial; isn't that right?
+
+ MS. SAHARSKY:  I'm sorry.  I missed the 
+
+first --
+
+JUSTICE SCALIA:  Its root purpose is that 
+counsel is guaranteed at trial.  And here we're saying 
+it's okay not to have counsel at trial so long as it's 
+refuting a lie by the defendant.
+
+ MS. SAHARSKY:  That's not true. I mean, 
+
+certainly counsel is available at trial. The question is 
+just whether statements that were obtained without 
+counsel prior to trial can be used for impeachment 
+purposes. The answer --
+
+JUSTICE SCALIA:  So you say that -- you say 
+
+the Sixth Amendment violation occurs before trial?
+
+ MS. SAHARSKY:  I'm sorry if I suggested 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+22
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+that.  No, the Sixth Amendment violation occurs when the 
+statements are introduced in the government's case in 
+chief at trial.
+
+ JUSTICE SCALIA:  That's right.
+ MS. SAHARSKY:  And that's because the 
+
+government should not be allowed to go behind counsel 
+prior to trial and gather up statements, and then use 
+them to prove guilt at trial. That subverts the 
+adversary process. When you are talking about 
+impeachment, you are not talking about proving guilt at 
+trial. You are not talking about the government 
+distorting the adversary process.  If there is any 
+distortion of the adversary process, it's with the 
+defendant attempting to commit perjury at that point.
+ The Sixth Amendment is different from the 
+Fifth Amendment in that it doesn't say anything about 
+statements that are obtained and if it can be used at 
+trial.  And that means it's up to courts to balance the 
+cost and benefit of exclusion of evidence.  And in the 
+case of the government's case in chief, that balance 
+means that that the statements cannot come in because it 
+would be too much of a cost to the adversary process 
+that the Sixth Amendment guarantees to allow the 
+statements in.
+
+ But, when you switch over in looking at 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+23 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+impeachment, this Court said 50 years ago impeachment is 
+a very different story than the government's case in 
+chief. The interest that you are talking about 
+furthering there, the adversary process interest, would 
+not be furthered by allowing the defendant to take the 
+stand and be able to commit perjury unchecked. It would 
+not be furthered, and it would not lead to greater 
+deterrence by simply allowing the statements to be 
+unavailable for impeachment purposes, because the great 
+deterrent comes with the statements being unavailable in 
+the government's case in chief.
+
+ We just don't think there's any reason to 
+
+depart from this Court's rule that, so long as 
+statements are not involuntary, they can be used for 
+impeachment purposes.
+
+ If there are no further questions, we submit 
+
+the judgment below should be reversed.
+
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+ Mr. Edge.
+ ORAL ARGUMENT OF MATTHEW J. EDGE
+
+ ON BEHALF OF THE RESPONDENT
+
+ MR. EDGE:  Mr. Chief Justice, and may it 
+
+please the Court:
+
+ I guess I have basically three arguments 
+
+with the -- or problems with the State's position. First 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+24 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+of all, what we are dealing with in the Sixth Amendment 
+case here is a violation of a core enumerated trial 
+right, and this makes it a very different animal from 
+all the other cases that we are talking about. If we are 
+talking about the Fourth Amendment, we are talking about 
+something that isn't a trial right. It's a right of the 
+people to be secure in their homes and possessions. The 
+violation occurs when the police commit whatever 
+misconduct makes the search of the evidence illegal. But 
+the use of that evidence at trial doesn't work any 
+further constitutional --
+
+JUSTICE BREYER:  Wasn't this individual 
+
+represented by counsel? Was he represented by counsel?
+
+ MR. EDGE:  Yes, he was.
+ JUSTICE BREYER:  And he was represented by 
+
+counsel at the time that the informant took the 
+statement, got the statement elicited? Is that right?
+
+ MR. EDGE:  No, I don't think so --
+JUSTICE BREYER:  I have my memo that I 
+
+haven't looked through carefully, but I would be quite 
+interested. I thought he asked for counsel.  He was 
+given counsel, and subsequent to that, this statement 
+was elicited. I would like to know that because the 
+Sixth Amendment says you have right to assistance of 
+counsel in your defense, period. And I guess, if he had 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+25 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+a lawyer, the lawyer could have told him, "Don't talk to 
+informants in the jailhouse."  He could have said, "I'm 
+going to talk to who I want." Or he might not have. But 
+I would be interested in knowing, did he have assistance 
+of counsel at the time the statement was elicited?  It's 
+one thing to me if he did, and another if he didn't. 
+Don't know?
+
+ MR. EDGE:  No.
+ JUSTICE BREYER:  How can I find out?
+ MR. EDGE:  No, the -- I don't know exactly 
+
+the day that this happened. I do know that he was 
+arrested on the 16th of January of 2004, and there was a 
+search of his cell on January 20th. And we know from 
+that testimony that -- why that's relevant that he was 
+cellmates with Mr. Doser by that time, and Mr. Doser 
+testified that he was the cellmate of Mr. Ventris for 
+two days.  And on the second day, Mr. Ventris supposedly 
+made these statements.
+
+ So my best guess is that the -- this 
+
+conversation occurred sometime between the 17th and the 
+20th. Now, the order of appointing counsel was entered 
+on January 21st, and counsel doesn't enter his 
+appearance until January 27th.
+
+ JUSTICE BREYER:  So it might be he asked for 
+
+counsel but hadn't yet received counsel? 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+26 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+MR. EDGE:  Correct, Your Honor.
+ CHIEF JUSTICE ROBERTS:  Counsel, do I 
+
+understand the first sentence on page 6 of your brief to 
+concede that there's no deterrent value from prohibiting 
+the introduction of these statements for impeachment? 
+The sentence says, "A Sixth Amendment exclusionary rule 
+that allowed use of uncounseled statements for 
+impeachment would not deter violations of the right to 
+counsel."
+
+ MR. EDGE:  That's correct, Your Honor. And 
+the reason I believe this is that, as long as there's 
+some kind of incentive for the prosecutor to use 
+informants in this manner, then the only -- then even if 
+they are not usable in the case in chief, there is still 
+an incentive to use this kind of evidence, and the 
+prosecutor and the police will attempt to obtain it. 
+There's simply very little downside. The prosecutor 
+instructs the informant not to deliberately elicit the 
+statement. The prosecutor is still responsible for the 
+informant, because the informant is his agent, so even 
+if -- when the informant goes ahead and deliberately 
+elicits the statement, it's still a constitutional 
+violation. But so long as you allow it for some kind of 
+purpose, then there isn't a deterrent effect, and to --
+JUSTICE ALITO:  So in a situation like we 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+27
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+have here, where the law enforcement officers do not 
+instruct the informant to do anything that would violate 
+the Sixth Amendment and in fact, according to their 
+testimony, instruct him to engage in conduct that is 
+consistent with the Sixth Amendment, there's no 
+deterrent value in later suppressing the use of the 
+statements for impeachment purposes?
+
+ MR. EDGE:  I mean  -- I guess, maybe I am 
+confused. There is a deterrent -- there is a deterrent 
+effect from suppressing it in the case in chief, but 
+it's not sufficient unless it's also extended to use in 
+rebuttal as well.
+
+ JUSTICE ALITO:  But what do you want to 
+
+deter? You want to deter them from using informants at 
+all, even in a manner that is consistent with the Sixth 
+Amendment?
+
+ MR. EDGE:  No, Your Honor. What I am 
+
+attempting to deter is the sort of up-ending of the 
+adversarial system that this represents. There was a 
+question that was presented earlier about when does this 
+violation occur? And I think that gets to the manner of 
+-- or the nature of the Sixth Amendment violation. Our 
+contention is that the violation occurs when the 
+statement is extracted, and then it's further aggravated 
+when it's used at trial. When the police obtain these 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+28 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+kinds of statements, even if they are not used at trial, 
+it does work a harm on the defendant and his 
+relationship with counsel. It affects defendant's --
+
+JUSTICE BREYER:  I see the problem. I wonder 
+if you have an answer to another question. You may not. 
+I can't find it. It seems to me it's been 20 years since 
+this -- nearly 20 -- since the Court decided the 
+Michigan case. The other cases were decided even 
+earlier. And it's just surprising to me that it has 
+never come up or rarely, rarely come up that the 
+question of whether the State can introduce into 
+evidence a statement made when the State questioned an 
+individual who'd asked for counsel or had counsel out of 
+the presence of the counsel.
+
+ I mean, does that normally happen, or does 
+it never happen? Why is there so little law on it? Do 
+you have any idea?
+
+ MR. EDGE:  I do not, Your Honor. And I am 
+really at a loss to speculate as to why that would be.
+ CHIEF JUSTICE ROBERTS:  You agree with the 
+
+representations on -- from your friends on the other 
+side that there is no case of ours where we have 
+excluded a statement of evidence submitted for 
+impeachment, even though it would have been excluded in 
+this case in chief?  If you prevail here, it would be 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+29 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+the first time that any evidence or statement has been 
+excluded when submitted for purposes of impeachment?
+ MR. EDGE:  It would be a very different 
+
+rule.  I think the only rule that this would be the case 
+so far is in Portash, the self-incrimination clause.  We 
+are saying that the same type of rule should apply to 
+the Sixth Amendment.  Otherwise, no, that's correct, 
+whenever you are talking about the Fourth Amendment or 
+one of the prophylactic rules like Miranda or Jackson, 
+then they are admissible for impeachment purposes.  What 
+makes this case different is that it -- it involves a 
+violation of an enumerated Constitutional trial right.
+
+ JUSTICE BREYER:  That's what I'm not certain 
+about.  And this is why I ask -- have been asking these 
+questions and what I can't figure out in my own mind is 
+this.
+
+ I ask for a lawyer.  The State has some 
+
+period of time to give me a lawyer.  Now it's one thing 
+if what's going on is once I ask for a lawyer, the State 
+should deal with me through my lawyer; that's how they 
+are supposed to do it.  But that isn't as basic --
+that's like a rule of ethics in most States in civil 
+context and other contexts -- that's not as basic as if 
+I ask for a lawyer and then the State just doesn't give 
+me one, though it should. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+30 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+That's a different violation, a different 
+kind of violation.  One is a kind of a rule of ethics 
+incorporated in the Constitution.  The second is what 
+the case is -- is what the Constitution is really about, 
+give him a lawyer when he asks for one.  And which is 
+this case?  That -- that's why I'm having hard time.  Is 
+it the first or the second?
+
+ MR. EDGE:  Well, in -- I think one of the 
+
+complicating factors here, Your Honor, is that the State 
+in this particular case didn't try a straightforward 
+interrogation.  They sent in an undercover informant.
+
+ JUSTICE BREYER:  No, no, no.  I will 
+
+amalgamate that for you.  I will say they are exactly 
+the same thing.  But what I want to know is what rule is 
+violated, what Sixth Amendment rule.  The rule -- you 
+heard what I said, the rule "don't talk to a guy who 
+wants a lawyer until you talk to the lawyer."  No 
+communications with a client.  It's a communication with 
+the lawyer.  That's one thing.
+
+ And the other rule is he has asked for a 
+lawyer but you never gave him one.  Now which is this 
+case?  I mean, I first thought well if he didn't have a 
+lawyer at all, then it must be the second; but then I 
+thought they must have a reasonable time to give him a 
+lawyer, and they haven't violated that second. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+31
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+If you have any view on that, it would be 
+
+helpful to me.
+
+ MR. EDGE:  I don't know whether he had asked 
+for a lawyer or not.  I know that he was entitled to one 
+at the time, and one would be appointed for him.  But 
+otherwise--
+
+JUSTICE GINSBURG:  But we do know that 
+
+unlike the police giving Miranda warnings, there's no 
+warning here at all.  I mean, he thinks he is talking to 
+a cellmate.  Nobody tells him, "remember you've got a 
+right to be represented by counsel," and he's 
+essentially giving a statement without the Miranda 
+warnings.
+
+ MR. EDGE:  That's correct, Your Honor.
+ JUSTICE GINSBURG:  But the other side says 
+well, practically, the defendant is much more likely to 
+say something that's really involuntary when he is 
+confronting police officers, that the reason that we 
+exclude in the case of a police officer is this 
+intimidating setting, when the defendant is in the 
+police station or in the cell and there are these police 
+officers.  Now he thinks he's just with a cellmate, so 
+there isn't -- there isn't the coercive atmosphere that 
+there is when the police do the questioning.
+
+ MR. EDGE:  Well, Your Honor, I think that 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+32
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+there certainly can be a coercive atmosphere even if you 
+are not talking to a known police agent.  Now, those are 
+not the facts of this particular case and there is no 
+claim that the statement was involuntary.  However, one 
+of the advantages of speaking to known police officers 
+is that a defendant can simply end the interrogation by 
+invoking his right to counsel, and that is not 
+necessarily a course of action that is available to him 
+if he thinks he is merely talking to a cellmate, 
+somebody who whether he wants to speak to him or not is 
+going to be in the cell with him for some time.
+
+ CHIEF JUSTICE ROBERTS:  Counsel, you've --
+
+you've emphasized that what distinguishes this case from 
+the other ones where we have allowed evidence that would 
+be excluded from the case in chief and for impeachment 
+purposes is that this is a trial right.  But the Sixth 
+Amendment says in criminal prosecutions you have a right 
+to the assistance of counsel.  Well, he had assistance 
+of counsel here, and one of the things that counsel did 
+was point out the problems with relying on the snitch's 
+evidence and all the bad things that he did.
+
+ But -- but just like in the case of a Fourth 
+
+Amendment violation where we allow the evidence to be 
+admitted at trial, this Sixth Amendment problem, you 
+know, it doesn't -- I just don't see the -- the strength 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+33 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+of that distinction.
+
+ MR. EDGE:  Your Honor, I think it goes to 
+
+the nature of the harm that comes from a Sixth Amendment 
+violation.  The Sixth Amendment simply doesn't limit 
+itself to the trial.  The exact wording of the -- the 
+constitutional provision is in all criminal 
+prosecutions.
+
+ CHIEF JUSTICE ROBERTS:  Well, it seems to me 
+
+you are getting away from the basis for your 
+distinction, then.  Saying well, it's not just at trial. 
+Well, these other constitutional rights where we have 
+allowed the evidence to come in for impeachment are 
+indistinguishable from the Sixth Amendment right, 
+outside of trial.
+
+ MR. EDGE:  Well, because the harm isn't 
+
+something that just affects the outcome of the trial, it 
+also affects the -- it affects the litigation in a much, 
+much deeper way.  It affects counsel's trial strategy, 
+it affects the defendant's decision whether or not to 
+testify.  It also --
+
+CHIEF JUSTICE ROBERTS:  Just to pause on 
+that, it affects his decision to testify because it 
+makes it more likely that he will testify truthfully if 
+he is going to testify.
+
+ MR. EDGE:  Not necessarily. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+34 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS:  The focus -- the 
+focus on the context is at least a double-edged sword 
+because the harm that we are facilitating under your 
+rule is to allow perjured testimony.
+
+ MR. EDGE:  Yes, Your Honor, in some contexts 
+it would.  I think one of the underlying assumptions of 
+the State's argument with regard to perjury is that the 
+mere existence of a prior inconsistent statement is 
+necessarily indicative of perjury, and we know there are 
+many reasons why the defendant may have given a prior 
+inconsistent statement.
+
+ CHIEF JUSTICE ROBERTS:  Yeah, and if he has 
+
+the assistance at trial consistent with the Sixth 
+Amendment, those -- those problems could be pointed out. 
+He was -- he was he is not lying now.  The reason he 
+said something different then was, you know, he likes to 
+brag in prison or whatever the basis is.
+
+ MR. EDGE:  In some cases it will be possible 
+
+for counsel to vigorously cross-examine the informant. 
+In others it may not.  But in addition to that, Your 
+Honor, I would also say that it doesn't simply affect 
+the decision whether or not to go to trial or whether or 
+not to testify at trial; it also affects the litigation 
+in a very deep way, inasmuch as the defendant is 
+burdened in trying to negotiate a favorable plea deal. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+35
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+Every statement or every piece of evidence 
+
+that the State has affects their willingness to plea 
+bargain, and when the State obtains this kind of 
+evidence illegally, it puts the defendant in a bind for 
+-- puts the defendant's counsel in a bind.
+
+ CHIEF JUSTICE ROBERTS:  I think -- I think 
+that's quite right.  But I don't see how excluding the 
+evidence even on impeachment helps that.  I mean, 
+they've still got the statement, and they -- I mean, you 
+know -- I guess your point, you know, maybe they will 
+get some leads from it even if they can't use it.  But 
+excluding the evidence for impeachment purposes doesn't 
+eliminate that harm.
+
+ MR. EDGE:  It would, Your Honor, inasmuch it 
+
+would remove any disincentive for the police to obtain 
+this evidence by this manner in the first place.  So 
+there would be that marginal deterrent factor.
+
+ JUSTICE ALITO:  Which of the things that 
+
+you've just said result from the use of this for 
+impeachment would not be true with respect to the other 
+situations where illegally obtained evidence has been 
+used for impeachment purposes?  Take the Fourth 
+Amendment, for example.
+
+ MR. EDGE:  I think they would be largely the 
+
+same, Your Honor.  The difference would be in the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+36
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+interest protected.  The self-incrimination clause in 
+the Fifth Amendment is aimed primarily at coercion of 
+the defendant; whereas, the Sixth Amendment aims 
+primarily at the preservation of an adversarial process, 
+the relationship between counsel and his attorney.
+
+ JUSTICE ALITO:  You don't dispute that there 
+
+was a Sixth Amendment violation at the time this 
+statement was taken, do you?
+
+ MR. EDGE:  No, I do not.
+ JUSTICE GINSBURG:  You urged a -- a 
+
+fall-back, and you said at least that there may -- there 
+should be a determination by the judge that the 
+defendant intentionally testified falsely.  And I was 
+wondering how that would operate.  You are here in the 
+-- the heat of the trial, and the prosecutor says, I 
+want to call snitch so-and-so.  And then what do we do, 
+just interrupt the trial and have kind of a mini trial 
+to test the credibility of the -- the informant?
+
+ MR. EDGE:  Yes, you could, Your Honor. 
+
+Also, you could have it as part of the pretrial 
+suppression hearings.  I would anticipate that even if 
+the -- if the Court were to adopt our position, these 
+kinds of Sixth Amendment cases are still going to be 
+litigated.  The issue is simply going to be whether or 
+not the States or the police agent is deliberately 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+37 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+eliciting the statement or not.
+
+ So there is -- there is likely going to be 
+
+some kind of pretrial litigation regarding the 
+admissibility of the statements, and it could be handled 
+at that time.
+
+ If there are no further questions, I will 
+
+reserve the remainder of my time.
+
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+Mr. McAllister, you have six minutes remaining.
+
+ REBUTTAL ARGUMENT OF STEPHEN R. McALLISTER
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. McALLISTER:  Two points by way of 
+rebuttal.  The balancing of the interests here is 
+sprinkling water under the bridge even in the Sixth 
+Amendment context.  In both Nix versus Williams and 
+Michigan versus Harvey where the Court was dealing with 
+Sixth Amendment interests and the Sixth Amendment right 
+to counsel violations, the bulk of those cases make 
+clear that the question of what exclusionary effect to 
+give a violation is subject to a balancing analysis. 
+And that's what we are asking for here.  That's why it's 
+treated for these purposes like the Fourth Amendment in 
+the Miranda context.
+
+ And Nicks itself, to paraphrase the Court, 
+makes a fundamental point which I think illustrates how 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+38 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+this works, and it worked effectively to defendant's 
+advantage in this case.
+
+ In Nix v. Williams, the Court said the Sixth 
+
+Amendment right to counsel -- and I am paraphrasing 
+slightly -- protects against unfairness by assuring an 
+adversary process in which proffered evidence is tested 
+by cross-examination.  And it's done in front of a jury. 
+It is not about requiring the exclusion of entire 
+categories of witnesses or types of evidence for all 
+purposes.
+
+ So the right to counsel was exercised.  It 
+was exercised effectively in this case when Mr. Doser 
+was strongly cross-examined by defense counsel.
+
+ JUSTICE STEVENS:  Would that apply equally 
+
+for statements under oath?
+
+ MR. McALLISTER:  It could, Your Honor.  I 
+realize a logical extension is you could say just test 
+all of it.  But that is where the -- the police here and 
+prosecutor pay the price of the way in which the 
+evidence was obtained.  It's excluded from the 
+government's case-in-chief.
+
+ Unless there are further questions, we would 
+
+respectfully ask that this Court reverse the decision 
+below.
+
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+39 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+The case is submitted.
+
+ (Whereupon, at 12:01 p.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+40 
+
+Alderson Reporting Company 
+
+A 
+
+able 15:16 16:9 
+
+16:10 24:6 
+
+above-entitled 
+
+1:11 40:3 
+accept 4:18 
+accomplish 16:9 
+accomplished 
+
+16:9 
+
+acquitted 12:18 
+action 33:8 
+actual 5:10 
+
+21:18 
+
+addition 35:20 
+admissibility 
+
+38:4 
+
+admissible 9:1,8 
+
+9:10 11:2 
+30:10 
+
+admitted 4:19 
+
+6:8 33:24 
+adopt 37:22 
+advantage 39:2 
+advantages 33:5 
+adversarial 
+28:19 37:4 
+
+adversary 15:5 
+22:7 23:9,12 
+23:13,22 24:4 
+39:6 
+
+affect 35:21 
+affirmatively 
+
+8:15,17 
+
+afforded 22:8 
+afraid 11:19 
+agent 6:25 11:17 
+
+17:9 27:20 
+33:2 37:25 
+aggravated 
+
+28:24 
+
+aggressive 8:9 
+
+11:16 
+ago 24:1 
+agree 29:20 
+ahead 27:21 
+aimed 37:2 
+aims 37:3 
+
+Official - Subject to Final Review 
+
+anticipate 37:21  assuring 39:5 
+atmosphere 
+Anyway 8:14 
+appearance 
+32:23 33:1 
+
+26:23 
+
+21:16,17 23:23  APPEARAN... 
+27:23 33:23 
+35:4 
+
+1:14 
+
+ALITO 27:25 
+28:13 36:18 
+37:6 
+
+allow 15:10 
+
+allowed 14:20 
+
+18:12 23:6 
+27:7 33:14 
+34:12 
+
+allowing 12:8 
+14:25 15:9 
+21:14 24:5,8 
+amalgamate 
+
+31:13 
+
+Appellate 1:21 
+applicable 5:24 
+apply 13:17 
+14:23 30:6 
+39:14 
+
+appointed 32:5 
+appointing 
+
+26:21 
+
+appropriate 
+
+14:2 
+
+balancing 38:13  careful 11:21
+
+brag 35:17
+BREYER 25:12
+25:15,19 26:9 
+26:24 29:4
+30:13 31:12
+bridge 38:14
+brief 27:3
+briefs 4:16
+
+16:13
+
+bring 19:16
+bringing 13:2
+bulk 38:18
+burden 17:21
+
+18:5
+
+burdened 35:25
+Bursey 6:24
+
+C
+C 2:1 3:1 
+call 37:16
+career 16:5
+
+carefully 25:20
+case 3:4,16 4:17 
+6:5,14 8:4,18 
+8:22 9:5,8 10:5 
+10:16 11:7,15
+11:22 12:7,18
+13:9,25 16:17 
+17:3,3,18,22
+19:20 20:1,25
+21:3,19 22:2 
+23:2,20,20
+24:2,11 25:2 
+27:14 28:10
+29:8,22,25
+30:4,11 31:4,6 
+31:10,22 32:19 
+33:3,13,15,22
+39:2,12 40:1,2 
+
+cases 4:20 5:9 
+
+5:24 6:4,24 7:8 
+7:13 9:9,21
+12:5,8 13:3 
+14:6 15:23
+17:13 18:11
+20:11,24 25:4 
+
+attempt 27:16 
+attempting 
+
+23:14 28:18 
+attorney 16:24 
+
+37:5 
+
+available 10:5 
+
+17:18 19:8 
+22:19 33:8 
+aware 16:13 
+a.m 1:13 3:2 
+
+B
+
+back 5:9 19:25 
+
+21:7,8,10
+bad 33:21
+balance 11:24 
+
+19:8 20:13 
+23:18,20 
+
+38:20 
+
+bank 15:21 
+bargain 36:3 
+basic 30:21,23 
+basically 9:2 
+
+basis 4:1,7 34:9 
+
+24:24 
+
+35:17 
+
+behalf 1:16,19 
+
+1:22 2:4,6,9,12 
+3:7 14:15 
+24:21 38:11 
+believe 6:22 
+
+12:16,19 27:11 
+
+believed 13:11 
+20:18 21:11 
+benefit 12:14 
+
+15:2 19:6 
+23:19 
+
+best 26:19 
+better 15:20 
+beyond 12:20 
+
+17:22 
+
+bind 36:4,5 
+bit 4:16 
+
+amazing 19:1 
+amendment 4:3  arguably 5:5
+
+area 8:3 21:16 
+
+8:12
+
+12:11
+
+argue 5:13
+
+4:9,14 5:5,20 
+5:24 6:3,4 7:5 
+8:1 9:15,18 
+10:1,1,15 11:3  argument 1:12
+2:2,10 3:4,6 
+13:14 14:4,7,8 
+10:7,11 14:14 
+17:14 21:16,23 
+24:20 35:7
+21:23 22:4,24 
+38:10
+23:1,15,16,23 
+25:1,5,24 27:6  arguments
+28:3,5,16,22 
+30:7,8 31:15 
+33:17,23,24 
+34:3,4,13 
+35:14 36:23 
+37:2,3,7,23 
+38:15,17,17,22 
+39:4 
+
+arisen 19:4
+arises 16:15
+arrested 26:12
+arrestee 6:17
+asked 25:21
+26:24 29:13
+31:20 32:3
+amicus 1:19 2:6  asking 9:1,11
+18:1 30:14
+38:21
+
+14:16 
+
+24:24
+
+ample 21:3 
+analogous 5:8 
+
+asks 31:5
+assistance 4:11
+
+6:2,9 
+
+analysis 5:23 
+
+38:20 
+
+animal 25:3 
+answer 3:20 
+
+25:24 26:4
+33:18,18 35:13 
+
+Assistant 1:17
+
+1:21
+
+4:22 8:14 12:1  assuming 8:2
+assumptions
+18:15 22:22 
+29:5 
+
+35:6
+
+41 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+29:8 35:18 
+37:23 38:18 
+case-in-chief 
+
+15:8,16 17:15 
+17:19 20:8 
+39:21 
+
+coercion 37:2 
+coercive 32:23 
+
+33:1 
+
+come 17:20 21:8 
+
+20:23 21:9 
+33:8 
+
+3:12,23 5:2 
+14:22 16:1,2 
+21:15,18 25:11  court 1:1,12 3:9  decided 29:7,8 
+27:22 30:12 
+34:6,11 
+
+debated 4:16 
+decide 21:2 
+
+decides 13:3 
+
+18:7 
+
+21:10 23:21 
+29:10,10 34:12  contact 17:6 
+
+communicatio... 
+
+35:5 
+
+34:3 
+
+comes 24:10 
+
+categories 39:9 
+cautionary 14:1 
+cell 6:15,18 7:11  commit 4:10 
+14:25 23:14 
+24:6 25:8 
+committed 
+
+7:23,24 8:18 
+9:3 10:22 
+26:13 32:21 
+33:11 
+
+20:20 
+
+cellmate 6:14 
+7:6,9 26:16 
+32:10,22 33:9 
+cellmates 26:15 
+certain 30:13 
+certainly 5:6,17 
+8:7,9,11 17:25 
+21:22 22:19 
+33:1 
+
+communication 
+
+31:18 
+
+31:18 
+
+9:20 
+
+5:23 
+
+compelled 3:16 
+
+complete 5:20 
+
+completely 8:10 
+completion 5:7 
+complicating 
+
+concede 27:4 
+conduct 15:25 
+
+31:9 
+
+charge 12:19 
+chatting 10:25 
+chief 3:3,8 8:22 
+9:5,9 10:5,16 
+11:7 14:12,18 
+15:13 18:15 
+23:3,20 24:3 
+24:11,18,22 
+27:2,14 28:10 
+29:20,25 33:12  confirming 
+33:15 34:8,21 
+35:1,12 36:6 
+38:8 39:25 
+
+18:15 
+
+16:25 
+
+28:4 
+
+confirms 20:3 
+conflicting 
+
+confession 21:20 
+confessions 
+
+circumstances 
+
+12:14 
+
+18:10 
+
+confronting 
+
+32:18 
+
+confused 28:9 
+
+civil 30:22 
+claim 33:4 
+clause 30:5 37:1  considered 21:7 
+clear 7:18 38:19  consistent 28:5 
+clearly 9:9 21:6 
+28:15 35:13 
+client 31:18 
+consistently 
+codefendant 
+
+14:20 
+
+13:4 
+
+codes 15:25 
+coerced 21:20 
+
+Constitution 
+
+31:3,4 
+
+constitutional 
+
+12:15 
+
+decision 18:12 
+
+deciding 4:17 
+
+3:10,14 5:10 
+6:5,9 7:2 9:9 
+9:20,23 10:20 
+11:1,24 12:5 
+12:23 13:12 
+14:10,19,20 
+15:7,23 16:16 
+17:17 19:3 
+20:9 22:8 24:1  deeper 34:18 
+24:23 29:7 
+37:22 38:16,24 
+39:3,23 
+
+deep 35:24 
+
+34:19,22 35:22 
+39:23 
+
+defendant 3:13 
+5:12 7:1,5,6,12 
+7:24,24 8:5,6 
+8:23 10:17,18 
+10:24 11:10 
+13:5 15:6,11 
+16:11 18:2,4,4 
+18:6 19:10,11 
+20:14,20 22:17 
+23:14 24:5 
+29:2 32:16,20 
+33:6 35:10,24 
+36:4 37:3,13 
+
+courts 23:18 
+Court's 7:8 17:2 
+
+17:13 24:13 
+
+credibility 12:12 
+13:8 20:19,24 
+21:1,2 37:18 
+credible 13:22 
+crime 10:25 
+crimes 8:12 
+
+20:20 
+
+contacting 17:8 
+
+17:9 
+
+contention 
+
+28:23 
+
+context 5:5 10:3 
+
+17:14 21:23 
+30:23 35:2 
+38:15,23 
+
+contexts 30:23 
+
+control 18:4 
+conversation 
+
+26:20 
+
+convicted 13:20 
+core 25:2 
+correct 6:22 
+
+27:1,10 30:7 
+32:14 
+
+cost 14:25 19:9 
+
+12:7 
+
+cross-examine 
+
+defendants 3:24 
+
+cross-examina... 
+
+12:13 13:1 
+19:17 21:3 
+39:7 
+
+criminal 3:24 
+12:7 33:17 
+34:6 
+
+defendant's 
+3:11 12:12 
+29:3 34:19 
+36:5 39:1 
+
+23:19,22 
+costs 12:3,6 
+counsel 4:10,11 
+6:5 7:1,3 14:4 
+14:12 15:4 
+17:6 22:2,5,7 
+22:11,15,16,19 
+22:21 23:6 
+24:18 25:13,13 
+25:16,21,22,25  cross-examined  definitively 4:21 
+26:5,21,22,25 
+26:25 27:2,9 
+29:3,13,13,14 
+32:11 33:7,12 
+33:18,19,19 
+35:19 36:5 
+37:5 38:8,18 
+39:4,11,13,25 
+
+deliberate 7:3 
+deliberately 9:3 
+9:7 10:23 15:7 
+27:18,21 37:25 
+
+D 3:1
+day 5:19 26:11 
+
+Defender 1:21 
+defense 4:6 
+
+Department
+1:18 17:1 
+
+14:16 
+D
+
+curiae 1:20 2:7 
+
+depart 20:12 
+
+25:25 39:13 
+
+24:13 
+
+39:13 
+
+35:19 
+
+26:17
+
+counsel's 4:6 
+
+34:18 
+
+country 12:24 
+course 17:4 
+
+days 26:17
+deal 30:20 35:25 
+dealing 25:1
+
+38:16
+
+depend 11:10 
+deposition 10:9 
+deter 27:8 28:14 
+
+28:14,18 
+
+42 
+
+Alderson Reporting Company 
+
+determination 
+
+double-edged 
+
+37:12 
+
+35:2 
+
+determine 22:8 
+deterrence 4:23 
+
+doubt 12:20 
+
+17:23 
+
+4:24 11:23 
+15:2 18:21 
+19:6 24:8 
+
+downside 27:17 
+drawn 10:21 
+due 10:10 
+deterrent 11:25  D.C 1:8,19 
+
+15:14 17:12,16 
+24:10 27:4,24 
+28:6,9,9 36:17 
+deterrents 11:14 
+
+17:11 
+
+device 7:11,14 
+difference 6:12 
+7:8 9:25 36:25 
+
+different 4:8 
+23:15 24:2 
+25:3 30:3,11 
+31:1,1 35:16 
+differently 3:19 
+disagree 10:11 
+discipline 16:4,7 
+
+16:14 17:11 
+18:20 
+
+disciplined 16:8 
+
+18:23 
+
+discuss 10:25 
+disincentive 
+
+36:15 
+
+dispute 37:6 
+distinct 5:17 
+distinction 9:14 
+9:17 34:1,10 
+
+distinctions 9:17 
+distinguishes 
+
+distinguishing 
+
+33:13 
+
+4:1,7 
+
+distort 15:11 
+distorting 23:12 
+distortion 23:13 
+dividing 8:17 
+doing 6:15 18:23 
+DONNIE 1:6 
+Doser 26:15,15 
+
+39:12 
+
+E
+
+E 2:1 3:1,1 
+earlier 28:20
+
+29:9
+
+Edge 1:21 2:8 
+24:19,20,22
+25:14,18 26:8 
+26:10 27:1,10
+28:8,17 29:18 
+30:3 31:8 32:3 
+32:14,25 34:2 
+34:15,25 35:5 
+35:18 36:14,24
+37:9,19
+
+effect 3:25 4:8 
+11:25 16:3,3 
+27:24 28:10 
+38:19 
+
+effectively 12:11 
+
+39:1,12 
+
+effectuate 15:6 
+efforts 8:9 
+either 19:14 
+elements 17:22 
+elicit 5:22 8:15 
+
+8:17 27:18 
+elicited 10:19 
+
+15:7 25:17,23 
+26:5 
+
+eliciting 10:23 
+
+38:1 
+
+elicits 9:3 27:22 
+eliminate 36:13 
+emphasized 
+
+33:13 
+
+emphasizing 
+
+12:5 
+
+encouraged 8:5 
+
+engage 16:7 
+
+28:1 
+
+28:4 
+
+ensure 15:5 22:6 
+enter 26:22 
+entered 26:21 
+entire 39:8 
+entirely 18:3 
+entitled 32:4 
+enumerated 
+25:2 30:12 
+equally 5:24 
+
+39:14 
+
+especially 16:8 
+ESQ 1:15,17,21 
+
+2:3,5,8,11 
+
+essentially 10:8 
+
+32:12 
+
+ethics 17:5 
+30:22 31:2 
+
+evaluate 12:10 
+12:12 13:10 
+evidence 4:6 
+10:4 11:5 
+12:25 13:16,21 
+13:23 14:3 
+16:13 17:14,18 
+17:21 18:3,6 
+18:10 19:7 
+20:7 22:5 
+23:19 25:9,10 
+27:15 29:12,23 
+30:1 33:14,21 
+33:23 34:12 
+36:1,4,8,12,16
+36:21 39:6,9
+39:20 
+
+exact 34:5 
+exactly 6:9 21:9 
+
+22:1 26:10 
+31:13 
+
+example 6:22 
+11:15 15:24 
+36:23 
+
+exchange 19:23 
+
+Official - Subject to Final Review 
+
+encouraging 8:6  exclude 14:3 
+enforcement 
+
+32:19 
+
+excluded 3:14 
+
+12:2 15:7 
+29:23,24 30:2 
+33:15 39:20 
+excluding 36:7 
+
+36:12 
+
+exclusion 9:19 
+13:14,18 15:3 
+22:4 23:19 
+39:8 
+
+exclusionary 
+27:6 38:19 
+
+exercised 39:11 
+
+39:12 
+
+existence 35:8 
+extended 28:11 
+extending 11:25 
+extension 39:17 
+extract 16:25 
+extracted 28:24 
+
+F
+
+facilitating 35:3
+fact 5:14 6:23 
+
+find 8:10 18:25 
+
+26:9 29:6 
+
+first 3:21 16:17 
+
+18:5 22:13 
+24:25 27:3 
+30:1 31:7,22 
+36:16 
+
+flow 15:2 
+focus 17:12 35:1 
+
+follow 16:19 
+
+35:2 
+
+19:3 
+
+forth 19:4 
+Fourth 4:3 5:18 
+
+5:20,24 14:7 
+17:13 25:5 
+30:8 33:22 
+36:22 38:22 
+frankly 4:21 
+10:12 14:5 
+
+frequently 19:5 
+friends 29:21 
+front 12:25 13:2 
+
+13:22 39:7 
+fundamental 
+
+38:25 
+
+further 14:10 
+15:10 24:16 
+25:11 28:24 
+38:6 39:22 
+
+furthered 24:5,7
+furthering 24:4 
+furthermore 
+10:20 13:24 
+
+7:8 11:17 12:2 
+12:20 19:24
+20:3,6 28:3 
+factor 36:17
+factors 31:9
+facts 33:3
+failed 9:7
+fair 15:6
+fall-back 37:11
+false 4:11
+G 3:1
+falsely 37:13 
+gather 11:5 23:7 
+far 30:5 
+favorable 35:25  general 1:15,18
+Federal 16:22 
+3:5 6:12 14:6 
+felt 11:19 
+16:17 17:24
+Fifth 5:5,15,16 
+19:19 21:15
+
+G
+
+generally 21:20
+getting 34:9
+
+6:3 9:14,18 
+10:1 17:13 
+21:16,22 23:16  Ginsburg 6:11
+6:21 7:17 8:2 
+37:2 
+8:14,20 9:13 
+
+figure 30:15 
+
+43 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+10:7 16:6,22 
+32:7,15 37:10
+
+give 9:7 13:25 
+30:18,24 31:5 
+31:24 38:20 
+given 5:6,13 
+9:21 10:20 
+25:22 35:10 
+
+happened 13:24 
+
+19:20 26:11 
+happens 7:22 
+
+18:17 
+
+hard 5:21 31:6 
+harm 20:5 29:2 
+34:3,15 35:3 
+36:13 
+
+gives 8:24 
+Harris 20:10 
+giving 20:5 32:8  Harvey 6:4,9 
+14:9 20:11 
+38:16 
+
+32:12 
+
+go 7:22 21:21 
+23:6 35:22 
+
+Hass 20:10 
+
+goes 7:14 10:21  Havens 20:10 
+hear 3:3 10:22 
+
+27:21 34:2 
+
+going 11:6,8,9 
+
+15:15,15 19:19
+
+26:3 30:19 
+33:11 34:24 
+37:23,24 38:2 
+government 9:4 
+
+12:9 18:10 
+heard 18:11 
+
+31:16 
+
+hearings 37:21 
+hears 7:7,10 
+heat 37:15 
+held 3:10 11:1 
+helpful 32:2 
+
+government's 
+
+9:23 11:17 
+13:19 17:20 
+18:5 20:9 23:6  helps 36:8 
+Henry 17:3 
+23:11 
+high 15:12 17:19 
+holdings 14:6 
+homes 25:7 
+Honor 4:15 
+
+10:5 15:8 
+17:15,19 20:8 
+23:2,20 24:2 
+24:11 39:21 
+
+grand 9:22 
+great 24:9 
+greater 24:7 
+greatly 15:1 
+guaranteed 
+22:11,15 
+
+guarantees 22:5 
+
+23:23 
+
+guess 8:19 24:24 
+
+25:25 26:19 
+28:8 36:10 
+guilt 23:8,10 
+guy 31:16 
+H 
+
+handled 38:4 
+happen 29:15,16 
+
+10:11 27:1,10 
+28:17 29:18 
+31:9 32:14,25 
+34:2 35:5,21 
+36:14,25 37:19 
+39:16 
+
+Hudson 15:24 
+hung 21:14 
+hurt 11:20 
+
+I 
+idea 29:17 
+illegal 25:9 
+illegally 36:4,21 
+illustrates 38:25 
+immunity 9:22 
+impeaching 5:1 
+impeachment 
+
+3:12,21 6:8 
+8:21 9:1,5,10 
+10:6,17 11:8 
+12:1 13:9,14 
+14:22 15:9,18 
+18:2 19:8 
+22:21 23:10 
+24:1,1,9,15 
+27:5,8 28:7 
+29:24 30:2,10 
+33:15 34:12 
+36:8,12,20,22 
+importance 12:8 
+important 11:22 
+
+20:18 
+
+impression 
+
+16:17 
+
+inadmissible 
+
+inasmuch 35:24 
+
+incentive 27:12 
+
+8:24 
+
+36:14 
+
+27:15 
+
+incentives 10:12 
+
+11:5,20 13:1 
+
+include 4:10 
+
+12:1 
+
+including 14:8 
+inconsistent 
+
+14:5 35:8,11 
+inconsistently 
+10:18 11:11 
+18:7 
+
+incorporated 
+
+31:3 
+
+incredibly 20:18 
+incurred 19:10 
+indicated 7:2 
+indicative 35:9 
+indistinguisha... 
+
+34:13 
+
+29:13 
+
+inform 6:17 
+informant 5:21 
+7:7 10:22,24 
+11:12,15 13:7 
+
+13:19 16:20 
+19:22,23,24 
+20:1 25:16 
+27:18,20,20,21 
+28:2 31:11 
+35:19 37:18 
+
+informants 
+
+11:20 12:22 
+26:2 27:13 
+28:14 
+
+informant's 
+12:13 13:18 
+19:21 21:12 
+information 
+
+6:19 13:7 21:8 
+informed 12:13
+
+infrequently 
+
+16:15 
+
+initiate 6:6 
+inside 6:15,18 
+instances 16:14 
+instruct 28:2,4 
+instruction 21:4 
+instructions 
+
+14:1,1 
+
+instructs 16:24 
+
+intentionally 
+
+27:18 
+
+37:13 
+
+interest 24:3,4 
+
+37:1 
+
+26:4 
+
+interested 25:21 
+
+interests 38:13 
+
+38:17 
+
+internal 16:4,6 
+interrogate 6:17 
+interrogation 
+
+6:7 31:11 33:6 
+interrupt 37:17 
+intimidating 
+
+intricacies 5:4 
+introduce 29:11 
+introduced 
+21:17 23:2 
+introduction 
+
+individual 25:12 
+
+32:20 
+
+27:5
+
+
+invoked 6:7 
+invoking 33:7 
+involuntary 
+3:15 24:14 
+32:17 33:4 
+involved 6:25 
+involves 30:11 
+issue 19:4 20:23 
+
+37:24 
+J
+
+J 1:21 2:8 24:20 
+Jackson 4:4 6:3 
+
+17:14 30:9 
+
+jail 8:3,4 11:15 
+
+19:22,25 
+
+jailbird 6:19 
+
+7:20 
+
+jailhouse 26:2 
+January 1:9 
+
+26:12,13,22,23 
+
+job 21:6 
+judge 13:21,25 
+
+37:12 
+
+judgment 24:17 
+jury 9:22 12:9 
+
+12:10,13,18,25 
+13:2,3,11,22
+18:10 20:18
+21:2,6,10 39:7 
+Justice 1:18 3:3 
+
+3:8 4:13,25
+5:15 6:11,21
+7:17 8:2,14,20
+9:13 10:7
+14:12,18 15:13 
+16:6,22 17:2 
+18:14,22,25
+19:11,16 20:2 
+20:22 21:13 
+22:1,10,14,23
+23:4 24:18,22 
+25:12,15,19
+26:9,24 27:2 
+27:25 28:13
+29:4,20 30:13 
+
+44 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+31:12 32:7,15 
+33:12 34:8,21 
+35:1,12 36:6 
+36:18 37:6,10 
+38:8 39:14,25 
+Justice's 18:15 
+
+K 
+
+Kan 1:16,22 
+Kansas 1:3 3:4 
+
+4:17 16:16 
+kind 27:12,15 
+27:23 31:2,2 
+36:3 37:17 
+38:3 
+
+kinds 29:1 37:23 
+know 7:17 10:14 
+12:15 15:15,19 
+16:16 18:1,23 
+19:5 20:14 
+21:9 25:23 
+26:7,10,11,13 
+31:14 32:3,4,7 
+33:25 35:9,16 
+36:10,10 
+
+knowing 26:4 
+knowledge 13:1 
+known 33:2,5 
+knows 9:3 
+Kuhlman 16:19 
+
+17:3 19:4 
+
+Kuhlmann 8:18 
+
+10:21 11:1 
+
+L 
+
+largely 36:24 
+law 5:22 28:1 
+
+29:16 
+
+level 16:22 
+lie 15:20 19:12 
+
+22:17 
+
+likes 35:16 
+limit 4:6 34:4 
+limitations 17:7 
+limiting 14:1 
+
+16:4 21:4 
+
+line 8:17 10:20 
+listening 7:14 
+
+16:20 
+
+listens 7:7,9 
+litigated 37:24 
+litigation 34:17 
+
+35:23 38:3 
+little 21:14 
+
+27:17 29:16 
+logical 39:17 
+long 12:24,24 
+22:16 24:13 
+27:11,23 
+
+looked 25:20 
+looking 23:25 
+looks 5:8 
+lose 20:3 
+loss 29:19 
+lot 16:18 
+lying 35:15 
+
+M
+
+making 9:13 
+17:15 19:7 
+
+manner 27:13 
+
+28:15,21 36:16 
+
+manual 16:23 
+
+17:2 
+
+marginal 36:17 
+Massiah 3:18 
+
+lawyer 26:1,1 
+
+4:2,8 8:18 9:4 
+30:17,18,19,20 
+10:2,21 
+30:24 31:5,17  mate 8:3,4 
+31:17,19,21,23  matter 1:11 7:16 
+31:25 32:4 
+lead 24:7 
+leads 36:11 
+letting 20:14 
+let's 8:11 
+
+1:21 2:8 24:20 
+McAllister 3:5,6 
+
+matters 5:18 
+MATTHEW 
+
+14:3 40:3 
+
+3:8 4:15 5:3,16 
+6:12,21 7:21 
+8:7,16,25 9:16 
+10:10 16:18 
+17:24 19:19 
+21:15 38:9,10 
+38:12 39:16 
+
+McCALLIST... 
+
+1:15 2:3,11 
+mean 13:15 
+
+15:18,23 17:10 
+19:19 21:6,19 
+22:18 28:8 
+29:15 31:22 
+32:9 36:8,9 
+
+meaning 22:10 
+means 17:20 
+
+23:18,21 
+meet 17:21 
+meetings 7:1 
+meets 18:5 
+memo 25:19 
+mention 11:14 
+mentioned 21:5 
+mere 7:14 35:8 
+merely 33:9 
+Messiah 5:22 
+Michigan 4:4 
+
+6:3,4 14:9 
+15:24 29:8 
+38:16 
+
+mind 30:15 
+mini 37:17 
+minimal 4:23 
+
+19:6 
+
+N 
+N 2:1,1 3:1 
+nature 28:22 
+
+34:3 
+
+nearly 29:7 
+necessarily 4:20 
+
+33:8 34:25
+35:9
+
+necessary 3:23
+
+5:13
+
+need 17:12
+negotiate 35:25
+never 21:9 29:10 
+
+29:16 31:21
+
+Nicks 38:24
+NICOLE 1:17
+
+2:5 14:14
+
+Nix 14:9 38:15 
+
+39:3
+
+normal 13:15
+normally 29:15
+nosey 11:19
+noted 16:18
+
+17:24 19:19 
+numerous 12:5
+
+O
+O 2:1 3:1 
+oath 39:15
+obtain 27:16 
+28:25 36:15 
+obtained 3:11 
+
+3:17,22 4:2 7:4 
+14:21 22:20
+23:17 36:21
+39:20
+
+minutes 38:9 
+Miranda 4:3 5:6  obtaining 5:12
+
+6:17 7:19 8:24  obtains 36:3
+9:6 10:3 14:7 
+obvious 11:17
+21:19 30:9 
+occur 4:14 6:1 
+32:8,12 38:23 
+
+28:21
+
+misconduct 25:9  occurred 26:20
+missed 22:12 
+Model 17:4 
+murder 12:18 
+
+occurs 4:19
+22:24 23:1
+25:8 28:23
+
+12:19 
+
+offenses 19:22
+officer 6:13,15 
+
+6:16,23 7:9,23 
+7:25 8:15 9:7 
+18:22 32:19
+officers 16:7
+19:3 28:1
+32:18,22 33:5 
+
+okay 22:16
+once 30:19
+ones 33:14
+operate 4:24
+10:3 13:24
+37:14
+
+opportunities
+
+16:5
+
+options 4:6
+oral 1:11 2:2 3:6 
+
+14:14 24:20
+
+order 26:21
+ordinary 13:23
+outcome 34:16
+outside 6:16,16
+8:23,25 34:14 
+outweighs 15:1
+
+P
+
+P 3:1
+page 2:2 27:3 
+parallel 5:15,16
+
+9:11
+
+paraphrase
+
+38:24
+
+paraphrasing
+
+39:4
+
+part 10:13 37:20 
+particular 5:4
+
+31:10 33:3
+passive 8:3,5
+
+16:20
+
+pause 34:21
+pay 15:12 17:19 
+
+39:19
+
+pays 20:9
+people 19:12,13
+
+25:7
+
+percent 12:23
+period 25:25
+
+30:18
+
+45 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+12:2,17 14:23 
+18:16 21:1 
+22:19 28:20 
+29:5,11 38:19 
+
+perjured 35:4 
+perjury 3:23 
+
+potential 4:23 
+
+13:18 
+
+23:12,13,22 
+24:4 37:4 39:6 
+
+4:10 12:7 
+13:20 15:1 
+23:14 24:6 
+35:7,9 
+
+Potentially 7:21  Professional 
+practically 
+
+17:4 
+
+32:16 
+
+precise 9:11 
+precisely 12:21 
+
+permit 21:21 
+permitting 3:21  presence 7:2 
+person 13:23 
+
+29:14 
+
+29:12 
+
+questioned 
+
+proffered 39:6 
+prohibit 21:24 
+prohibiting 27:4  questioner 
+prohibition 7:18 
+proof 18:5 
+prophylactic 
+
+questioning 
+7:19 32:24 
+
+11:16 
+
+17:6,8,9 
+
+present 6:25 
+10:24 12:6 
+presented 6:2 
+
+persuasive 20:4 
+prosecutions 
+Petitioner 1:4 
+1:16,20 2:4,7 
+33:17 34:7 
+2:12 3:7 14:17  presenting 4:11  prosecution's 
+38:11 
+
+preservation 
+
+28:20 
+
+11:7 
+
+30:9 
+
+questions 8:23 
+11:18 14:10 
+18:1 24:16 
+30:15 38:6 
+39:22 
+
+prosecutor 17:5  quite 12:11 
+25:20 36:7 
+
+37:4 
+
+24:23 
+
+7:9,19,23 
+
+pretend 6:18 
+pretending 6:13 
+
+picked 7:13 
+piece 36:1 
+place 36:16 
+plea 35:25 36:2 
+please 3:9 14:19  pretrial 10:8 
+37:20 38:3 
+pretty 16:15 
+prevail 29:25 
+prevent 3:23 
+previous 17:17 
+
+point 4:23 18:9 
+23:14 33:20 
+36:10 38:25 
+pointed 35:14 
+points 38:12 
+police 5:6,21 6:6  price 15:12 
+17:19 20:8 
+39:19 
+
+18:11 
+
+17:8 19:20 
+27:12,16,17,19 
+37:15 39:19 
+protected 37:1 
+protects 39:5 
+prove 23:8 
+provide 15:5 
+proving 17:21 
+
+23:10 
+
+provision 34:6 
+purpose 9:24 
+
+14:8 37:2,4 
+primary 12:7 
+
+15:4 22:6,6,14 
+27:24 
+
+6:13,15,16,18 
+7:9,17,23 8:15 
+8:22 10:12,14 
+11:4 15:14,24 
+16:3,7,19 
+17:11,25 18:20  prior 18:8 19:21 
+18:22 19:3 
+25:8 27:16 
+28:25 32:8,18 
+32:19,21,21,24  prison 19:13 
+33:2,5 36:15 
+37:25 39:18 
+Portash 9:21 
+
+primarily 12:17  purposes 3:13 
+3:15 4:17 5:1 
+6:8 7:16 9:6,10 
+11:2 13:15 
+14:22 15:9,19 
+19:8 21:25 
+22:22 24:9,15 
+28:7 30:2,10 
+33:16 36:12,22 
+38:22 39:10 
+put 13:19,22 
+puts 36:4,5 
+
+20:11,15,17 
+22:21 23:7 
+35:8,10 
+
+probative 20:19 
+problem 29:4 
+
+35:17 
+
+33:24 
+
+30:5 
+
+problems 24:25  putting 12:25 
+
+position 4:18 
+18:9 19:13 
+24:25 37:22 
+
+possessions 25:7 
+possible 35:18 
+post 16:20 
+
+33:20 35:14 
+
+procedure 13:16 
+
+13:24 
+
+process 15:5,11 
+19:9 22:7 23:9 
+
+p.m 40:2 
+Q 
+
+question 3:16 
+
+4:15,21,22 5:4 
+
+R
+
+R 1:15 2:3,11 
+3:1,6 38:10 
+
+rarely 29:10,10
+RAY 1:6
+real 16:2 22:10 
+realize 4:16
+
+39:17
+
+really 11:18
+14:6 17:25
+18:16 20:8
+29:19 31:4
+32:17
+
+reason 14:2
+
+20:12 24:12
+27:11 32:18
+35:15
+
+reasonable
+
+12:20 17:22
+31:24
+
+reasons 3:21
+10:13 16:18
+35:10
+
+rebuttal 2:10
+13:10 14:11
+18:2 21:17
+28:12 38:10,13
+
+received 12:14
+19:23 26:25
+
+recognized 9:20 
+
+11:15 15:23 
+20:9 
+
+recording 7:11 
+
+7:13 
+
+reflexively 
+
+21:11 
+
+refuting 22:17 
+regard 11:13 
+
+35:7 
+
+regarding 38:3 
+relationship 
+29:3 37:5 
+
+relevant 13:8 
+
+26:14 
+
+reliable 12:23 
+relying 33:20 
+remainder 
+14:11 38:7 
+
+remaining 38:9 
+remains 10:5 
+
+14:2 
+
+remedy 22:9 
+remember 
+
+11:23 32:10 
+remind 13:12 
+remove 36:15 
+reported 20:23 
+representations
+
+29:21 
+
+represented 
+
+10:9 17:6,8,9
+25:13,13,15
+32:11 
+
+represents
+
+28:19 
+
+requiring 39:8 
+reserve 14:11 
+
+38:7 
+
+resolved 4:21 
+respect 4:7 5:17 
+
+5:18 10:1,10
+20:19 36:20 
+
+respectfully
+
+39:23 
+
+Respondent
+
+1:22 2:9 4:19 
+
+46 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+24:21 
+
+Respondent's 
+
+14:24 
+
+responsible 
+
+result 13:17 
+
+27:19 
+
+36:19 
+
+resulting 4:5 
+results 5:2 10:4 
+reverse 39:23 
+reversed 24:17 
+right 4:9,10 6:5 
+
+2:5 14:13,14 
+14:18 15:22 
+16:12 17:1 
+18:19,24 19:2 
+19:15,18 20:6 
+20:25 21:13,22 
+22:3,12,18,25 
+23:5 
+
+saying 12:22,23 
+
+13:4,5,13 
+22:15 30:6 
+34:10 
+
+says 9:24 25:24 
+
+6:7 7:3 8:24 
+27:6 32:15 
+14:4 15:4,7,10 
+22:2,11 23:4 
+33:17 37:15 
+25:3,6,6,17,24  SCALIA 4:13 
+27:8 30:12 
+32:11 33:7,16 
+33:17 34:13 
+36:7 38:17 
+39:4,11 
+
+4:25 5:15 
+21:13 22:1,10 
+22:14,23 23:4 
+
+se 15:2 
+search 12:9 25:9 
+
+rights 6:18 
+
+34:11 
+
+ROBERTS 3:3 
+
+14:12 15:13 
+24:18 27:2 
+29:20 33:12 
+34:8,21 35:1 
+35:12 36:6 
+38:8 39:25 
+
+26:13 
+
+second 3:25 
+
+26:17 31:3,7 
+31:23,25 
+secure 25:7 
+see 29:4 33:25 
+
+36:7 
+
+segment 4:24 
+self-incrimina... 
+
+simply 5:12 8:3 
+11:23 13:7,13 
+14:2 24:8 
+27:17 33:6 
+34:4 35:21 
+37:24 
+sits 7:24 
+situation 5:1 
+16:15 21:19 
+27:25 
+
+situations 4:5 
+
+36:21 
+six 38:9 
+Sixth 4:9,14 6:4 
+7:5 8:1 9:14,25 
+10:15 11:3 
+13:14 14:3,7 
+17:13 22:3,24 
+23:1,15,23 
+25:1,24 27:6 
+28:3,5,15,22 
+30:7 31:15 
+33:16,24 34:3 
+34:4,13 35:13 
+37:3,7,23 
+38:14,17,17 
+39:3 
+
+slightly 39:5 
+snitch 6:14 
+
+16:10 37:16 
+
+sprinkling 38:14 
+stand 15:20 
+20:15 24:6 
+
+standards 3:12 
+
+19:11,16 20:2 
+20:22 39:14 
+
+story 24:2 
+straightforward 
+
+3:23 14:22 
+16:1,2 
+
+standpoint 
+
+12:12 
+
+starts 7:25 10:25 
+State 17:4 21:4 
+
+31:10 
+
+strategy 34:18 
+strength 33:25 
+strong 10:12 
+11:4 20:8 
+
+strongly 39:13 
+
+29:11,12 30:17  stuff 18:18 
+30:19,24 31:9 
+36:2,3 
+
+subject 20:15 
+
+38:20 
+
+statement 4:2,19  submit 24:16 
+
+25:22 
+
+30:2 40:1,3 
+subsequent 
+
+5:11 6:8 8:4,13  submitted 29:23 
+9:8,20 20:16 
+20:17 21:24 
+25:17,17,22 
+26:5 27:19,22 
+28:24 29:12,23 
+30:1 32:12 
+33:4 35:8,11 
+36:1,9 37:8 
+38:1 
+
+14:25 17:16 
+subverts 23:8 
+sufficient 28:11 
+suggest 8:9 
+suggested 5:10 
+
+substantial 
+
+statements 3:11 
+3:14,17,19,22 
+5:22 7:4 10:23 
+11:1 14:21,24 
+15:8,9 18:8 
+22:20 23:2,7 
+23:17,21,24 
+24:8,10,14 
+26:18 27:5,7 
+28:7 29:1 38:4 
+39:15 
+
+22:25 
+
+suggesting 8:19 
+
+10:2 21:11 
+
+suggestive 8:13 
+suggests 9:18 
+supporting 1:20 
+
+2:7 14:17 
+
+suppose 21:20 
+supposed 30:21 
+supposedly 
+
+26:17 
+
+suppressing 
+
+28:6,10 
+
+suppression 
+10:4 37:21 
+
+Supreme 1:1,12 
+
+16:16 
+
+surprising 29:9 
+switch 23:25 
+sword 35:2 
+system 28:19 
+
+T
+
+30:5 37:1 
+
+snitches 16:8,24 
+root 22:14 
+snitch's 33:20 
+rule 3:17 4:2,4 
+societal 14:25 
+9:2,12,18 12:1 
+solely 11:8 12:16 
+13:13 14:23 
+solicitation 7:4 
+15:2 16:19 
+Solicitor 1:15,17  States 1:1,12,19 
+19:3 24:13 
+somebody 33:10 
+2:6 3:18 4:18 
+27:6 30:4,4,6 
+someone's 21:1 
+14:15 30:22 
+30:22 31:2,14 
+31:15,15,16,20  shooter 12:17,21  sorry 22:12,25 
+37:25 
+35:4 
+
+send 5:21 16:19 
+sent 31:11 
+sentence 27:3,6 
+serving 19:25 
+set 19:3 
+sets 17:2 
+setting 32:20 
+
+State's 24:25 
+
+13:5,6 
+
+rules 13:15,16 
+13:23 16:1,2 
+17:2,5 30:9 
+
+S 
+S 2:1 3:1 
+Saharsky 1:17 
+
+sort 28:18 
+so-and-so 37:16 
+speak 8:6 33:10 
+
+35:7 
+
+side 10:9 11:23 
+12:4,6 15:17 
+15:22 18:16,18  speaking 33:5 
+specific 16:14 
+18:20 20:13 
+speculate 29:19 
+29:22 32:15 
+speculative 11:9  STEVENS 
+
+2:3,11 3:6 
+38:10 
+
+station 32:21 
+STEPHEN 1:15 
+
+15:1 17:25 
+
+18:14,22,25 
+
+silent 8:10 
+similar 10:3 
+
+47 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+T 2:1,1 
+take 6:12 15:19 
+
+20:14 24:5 
+36:22 
+
+taken 37:8 
+talk 8:12 10:25 
+
+17:5 26:1,3 
+31:16,17 
+talked 7:12 
+
+19:21 
+
+talking 8:21,21 
+12:8 23:9,10 
+23:11 24:3 
+25:4,5,5 30:8 
+32:9 33:2,9 
+
+tell 8:11 
+telling 7:25 
+
+18:12 20:20 
+
+tells 32:10 
+terms 3:25 4:23 
+16:3,4 17:2,7
+
+18:20 
+
+territory 14:8 
+test 37:18 39:17 
+tested 12:25 
+
+39:6 
+
+testified 26:16 
+
+37:13 
+
+testifies 3:13 
+
+9:22 10:17,18 
+11:10,11 16:11
+
+18:7 
+
+testify 16:11 
+
+thing 9:2 13:12 
+
+26:6 30:18 
+31:14,19 
+things 7:25 
+
+12:15 33:19,21 
+36:18 
+
+think 4:21 5:18 
+13:21 16:12,14 
+17:1,11,12 
+18:19 19:2,15 
+20:6 24:12 
+25:18 28:21 
+30:4 31:8 
+32:25 34:2 
+35:6 36:6,6,24 
+38:25 
+
+thinking 21:10 
+thinks 32:9,22 
+
+33:9 
+
+thought 19:5 
+
+25:21 31:22,24 
+three 3:20 24:24 
+time 5:23 14:11 
+
+18:1 25:16 
+26:5,15 30:1 
+30:18 31:6,24 
+32:5 33:11 
+37:7 38:5,7 
+times 11:24 
+
+13:20
+
+
+told 8:8 11:11 
+
+26:1 
+
+tone 14:6 
+
+18:7 34:20,22  Topeka 1:16,22
+
+tradition 12:24 
+34:23,24 35:23
+
+testifying 19:25 
+testimony 4:12 
+
+training 15:25 
+
+12:24 
+
+5:2 8:8,15 9:24  treat 5:19 
+12:16 13:10,18 
+16:10 19:24 
+21:12 26:14 
+28:4 35:4 
+
+38:22 
+
+treated 3:18 
+
+text 9:17 21:23 
+
+22:3 
+
+Thank 14:12 
+24:18 38:8 
+39:25 
+
+trial 3:13,25 4:6 
+4:20 5:11 6:2 
+13:16,23 15:6 
+18:6 22:5,7,11 
+22:15,16,19,21 
+22:24 23:3,7,8 
+23:11,18 25:2 
+
+25:6,10 28:25 
+29:1 30:12 
+33:16,24 34:5 
+34:10,14,16,18 
+35:13,22,23 
+37:15,17,17 
+
+tries 9:23 
+true 9:6 22:18 
+
+truly 9:19,19 
+
+trustworthy 
+
+36:20 
+
+10:14 
+
+19:13 
+
+truth 12:9,9 
+18:13 20:21 
+
+truthfully 20:22 
+
+34:23 
+
+truth-seeking 
+15:11 19:9 
+try 11:5 20:5
+
+
+31:10 
+
+trying 35:25 
+two 10:14 26:17 
+
+38:12 
+
+type 19:6 30:6 
+types 39:9 
+typical 13:4 
+
+U 
+
+unavailable 
+17:15 20:7 
+24:9,10 
+
+24:6 
+
+27:7 
+
+up-ending 28:18 
+urged 37:10 
+usable 11:6 
+
+27:14 
+
+use 3:21 5:11 
+
+7:4 9:22,23,24 
+10:6 14:20 
+15:16 16:24 
+18:17 21:24 
+23:7 25:10 
+27:7,12,15 
+28:6,11 36:11 
+36:19 
+
+U.S 16:24 
+V 
+
+v 1:5 3:4,18 4:4 
+6:3,4,24 14:9,9 
+15:24 39:3 
+
+value 11:7 15:14 
+
+27:4 28:6 
+
+Ventris 1:6 3:4 
+12:18 26:16,17 
+Ventris's 12:11 
+
+13:10 
+
+verdict 21:9,11
+verifiable 16:7 
+versus 15:23 
+
+38:15,16 
+view 32:1 
+vigorously 
+
+35:19 
+
+16:1 28:2 
+
+31:25 
+
+30:12 31:1,2 
+33:23 34:4 
+37:7 38:20 
+
+violations 4:3,3 
+
+4:4 6:5 27:8 
+38:18 
+
+voluntary 3:11 
+3:17,19,22 4:1 
+14:21,24 
+W
+
+Walder 20:10
+want 11:16,18
+12:15 13:19
+16:19 26:3
+28:13,14 31:14 
+37:16 
+
+wants 6:16
+
+10:24 31:17 
+33:10
+
+warning 32:9 
+warnings 5:6,13
+7:19 8:24 9:7 
+32:8,13
+
+Washington 1:8 
+
+1:18
+
+wasn't 8:5 25:12 
+water 38:14
+way 6:19 10:2 
+
+11:6 13:9
+16:23 34:18 
+35:24 38:12
+39:19
+ways 5:8
+
+6:24
+
+unchecked 15:1  violate 7:3,5 8:1 
+
+uncounseled 
+
+violated 31:15  Weatherford
+
+undercover 6:23  violating 9:4 
+violation 3:11 
+
+6:25 31:11 
+
+Wednesday 1:9
+weighed 12:3
+
+underlying 35:6 
+understand 
+19:17 27:3 
+
+unfairness 39:5 
+United 1:1,12,19 
+
+2:6 3:18 4:18 
+14:15 
+
+unnecessary 
+
+4:22 
+
+Williams 14:9 
+
+3:17,22 4:2,8  went 12:16 21:7 
+4:14 5:2,8,11  we're 22:15
+5:20,22 6:1 
+7:11,15,22 
+10:4,15 11:3 
+14:21 21:15,18  willingness 36:2
+22:24 23:1 
+25:2,8 27:23 
+28:21,22,23 
+
+38:15 39:3
+willing 4:17
+
+witnesses 39:9
+
+witness 9:21 
+
+20:4
+
+48 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+6 
+
+6 27:3 
+
+witness's 21:1 
+wonder 29:4 
+wondering 
+
+37:14 
+
+wording 34:5 
+work 12:21 
+25:10 29:2 
+worked 39:1 
+works 5:21 39:1 
+worst 18:16,17 
+wouldn't 7:7,10 
+
+7:10,16 18:1 
+
+wrong 6:6 
+X 
+
+x 1:2,7 
+
+Y 
+
+Yeah 35:12 
+years 24:1 29:6 
+
+0 
+
+07-1356 1:5 3:4 
+
+1 
+100 12:23 
+11:15 1:13 3:2 
+12:01 40:2 
+14 2:7 
+16th 26:12 
+17th 26:20 
+2 
+20 29:6,7 
+20th 26:13,21 
+2004 26:12 
+2009 1:9 
+21 1:9 
+21st 26:22 
+24 2:9 
+27th 26:23 
+3 
+
+3 2:4 
+38 2:12 
+
+5 
+
+50 24:1 
+
+49 
+
+Alderson Reporting Company 
+
+

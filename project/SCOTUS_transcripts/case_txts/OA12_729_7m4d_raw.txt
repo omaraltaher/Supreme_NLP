@@ -1,0 +1,10105 @@
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+JULIE HEIMESHOFF, 
+
+               
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 12­729 
+
+ v. 
+
+                       
+
+: 
+
+HARTFORD LIFE & ACCIDENT 
+
+        
+
+: 
+
+INSURANCE CO., ET AL 
+
+            
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Tuesday, October 15, 2013 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:02 a.m. 
+
+APPEARANCES: 
+
+MATTHEW W.H. WESSLER, ESQ., Washington, D.C.; on behalf 
+
+ of Petitioner. 
+
+GINGER D. ANDERS, ESQ., Assistant to the Solicitor 
+
+ General, Department of Justice, Washington, D.C.; for 
+
+ United States, as amicus curiae, supporting 
+
+ Petitioner. 
+
+CATHERINE M.A. CARROLL, ESQ., Washington, D.C.; on 
+
+ behalf of Respondents. 
+
+ 
+
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+1
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+MATTHEW W.H. WESSLER, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+3 
+
+ORAL ARGUMENT OF 
+
+GINGER D. ANDERS, ESQ. 
+
+ For United States, as amicus curiae, 
+
+ Supporting Petitioner 
+
+                          
+
+18 
+
+ORAL ARGUMENT OF 
+
+CATHERINE M.A. CARROLL, ESQ. 
+
+ On behalf of the Respondents 
+
+                   
+
+28 
+
+REBUTTAL ARGUMENT OF 
+
+MATTHEW W.H. WESSLER, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+56 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (11:02 a.m.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We will hear 
+
+argument next in Case 12­729, Heimeshoff v. Hartford 
+
+Life & Accident Insurance. 
+
+ Mr. Wessler. 
+
+ ORAL ARGUMENT OF MATTHEW W.H. WESSLER 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. WESSLER: 
+
+Thank you. 
+
+ Mr. Chief Justice, and may it please the 
+
+Court: 
+
+ This case involves an accrual provision in 
+
+an ERISA plan that starts the clock running on a Federal 
+
+denial of benefits claim near the beginning of ERISA's 
+
+mandatory internal claims process before the Federal 
+
+claim ever exists or could be filed in court. 
+
+ This provision directly conflicts with 
+
+ERISA's two­tiered remedial structure, which is designed 
+
+to maximize the number of claims that are resolved 
+
+internally without lawyers in courts.  The Respondent's 
+
+provision undermines this goal by making it impossible 
+
+for anyone to know in advance how much time will be left 
+
+on the limitations clock after the internal process is 
+
+complete. 
+
+ JUSTICE GINSBURG: 
+
+How much time was left in 
+
+3
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+this case? 
+
+ MR. WESSLER: 
+
+There was approximately one 
+
+year, Your Honor. 
+
+ JUSTICE GINSBURG: 
+
+And you ­­ and if there 
+
+were a one­year limitation running from the final 
+
+administrative review, you would be out? 
+
+ MR. WESSLER: 
+
+Well, I don't think we would 
+
+be out in this case, Your Honor, because the provision 
+
+in this case was a three year from final denial.  Going 
+
+forward, if, in fact, ERISA plans had a one­year clock 
+
+running from final denial, everyone would know that they 
+
+would need to file their claim within one year from time 
+
+of final denial. 
+
+ JUSTICE GINSBURG: 
+
+Yes, but if there were 
+
+such a rule, one year from the final administrative 
+
+decision, this claim would become too late. 
+
+ MR. WESSLER: 
+
+If, in fact, the provision in 
+
+this plan ­­
+
+ JUSTICE GINSBURG: 
+
+Yes.  Yes. 
+
+ MR. WESSLER: 
+
+­­ said one year from final 
+
+denial, that's correct, Your Honor. 
+
+ JUSTICE GINSBURG: 
+
+What accounts for the 
+
+delay?  When the ­­ the clock was running and more than 
+
+a year went by before this suit was instituted, why was 
+
+that ­­ why did that happen? 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+ MR. WESSLER: 
+
+Well, I think this gets us, 
+
+Your Honor, to one of the core problems with this 
+
+provision, which is that it's confusing.  It is unclear. 
+
+One of the key questions with these provisions, when 
+
+they're coupled with the mandatory exhaustion 
+
+requirement, that is ­­ that is actually quite uncertain 
+
+when proof of loss is due. 
+
+ And so below, one ­­ one of the key 
+
+questions, which actually still remains unresolved, is 
+
+when the clock actually started ticking.  But I think 
+
+there's a ­­ there's a more fundamental problem ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I'm sorry.  I thought 
+
+the court below said that that was irrelevant to the 
+
+resolution of this case, that even if they accepted your 
+
+date for when the proof of loss started, that you would 
+
+still lose. 
+
+ MR. WESSLER: 
+
+In this case, Your Honor, 
+
+that's true; however, the problem with these proof of 
+
+loss dates coupled with this mandatory exhaustion 
+
+requirement is that it is unclear from the outset 
+
+when ­­ when the clock ­­ how much time after final 
+
+denial would be left when you're in the middle of the 
+
+process.  And on this question of proof of loss ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I'm a little confused 
+
+because it would be the same no matter what rule we 
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+instituted. 
+
+ MR. WESSLER: 
+
+Well, I ­­ I don't think 
+
+that's right, Your Honor. 
+
+ JUSTICE SOTOMAYOR: 
+
+Meaning, you would never 
+
+know when the administrative ­­ you really never know 
+
+when the administration process is final, just like 
+
+you're arguing you don't know when the proof of loss 
+
+date is final.  But at least the advantage of proof of 
+
+loss, you know you got three years from at least the 
+
+beginning of the process. 
+
+ MR. WESSLER: 
+
+Right, although I ­­ there's 
+
+actually quite a bit of disagreement among the lower 
+
+courts about how you measure proof of loss, when that 
+
+date actually triggers the limitations clock. 
+
+ So for instance, in the Seventh Circuit, the 
+
+court has held that proof of loss starts the clock 
+
+ticking the first time proof of loss is due under the 
+
+plan, which is the first set of documents that a 
+
+claimant actually provides to her plan supporting her 
+
+claim for disability. 
+
+ The plan, however, through this internal 
+
+process, can come back and ask for more documents, more 
+
+evidence supporting the disability.  And if the claimant 
+
+then provides those additional documents, that could 
+
+conceivably reset the limitations clock under this proof 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+of loss requirement. 
+
+ JUSTICE SOTOMAYOR: 
+
+That can only help you. 
+
+That can only help you.  It gives you more time, but it 
+
+doesn't take time away from you. 
+
+ MR. WESSLER: 
+
+That's true, Your Honor. 
+
+ JUSTICE SOTOMAYOR: 
+
+You have three 
+
+years, no matter what.  From the first date, you have 
+
+three years. 
+
+ MR. WESSLER: 
+
+Well, in fact ­­
+
+ JUSTICE SOTOMAYOR: 
+
+If you need more time, 
+
+you have a potential out. 
+
+ MR. WESSLER: 
+
+Well, in fact, you don't have 
+
+necessarily three years from when proof of loss starts 
+
+because courts, as respondents themselves acknowledge, 
+
+are necessarily going to have to evaluate these ­­ these 
+
+provisions on a case­by­case basis.  So it's ­­
+
+ JUSTICE SCALIA: 
+
+Well, you know, I guess 
+
+there are answers to these ­­ to these legal questions, 
+
+whether it's the first filing or if supplemental 
+
+documents are required, it's the second filing.  There's 
+
+an answer, you know?  Some court will provide the 
+
+answer. 
+
+ The mere fact that ­­ that provisions in a 
+
+contract are subject to various interpretations doesn't 
+
+make the provision invalid.  It means something.  We 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+just don't know right now what it means until ­­ until a 
+
+court provides the answer.  But, wow, that's not 
+
+different from any contract. 
+
+ MR. WESSLER: 
+
+Well, except, Your Honor, that 
+
+in ERISA, one of the core goals of this statute is to 
+
+provide predictability, certainty, and efficiency in the 
+
+administration of benefits. 
+
+ And so to have courts being placed in the 
+
+center of what should be a straightforward and 
+
+streamlined process undermines the way Congress intended 
+
+this benefits administration process to proceed.  And if 
+
+you ­­ if you place courts exactly in the middle of 
+
+this, where they're going to necessarily be policing the 
+
+enforceability of a ­­ of a limitations provision before 
+
+they ever get to the question of were the benefits 
+
+properly denied, you're undermining the nature of what 
+
+this private process is supposed to be. 
+
+ It was supposed to be intended to allow the 
+
+parties to privately resolve their benefit claims 
+
+without ­­
+
+ JUSTICE GINSBURG: 
+
+But ERISA itself contains 
+
+no statute of limitations, and it's generally assumed 
+
+that, therefore, this State statute of limitations would 
+
+govern, and if a State has the position that parties can 
+
+contract the statute of limitations ­­ I mean, ERISA 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+does have ­­ does have a statute of limitations for 
+
+breach of fiduciary claims, right? 
+
+ MR. WESSLER: 
+
+That's ­­ that's correct, Your 
+
+Honor. 
+
+ JUSTICE GINSBURG: 
+
+And it has none for this 
+
+kind of claim. 
+
+ MR. WESSLER: 
+
+That's correct, Your Honor. 
+
+And I think it was reasonable for Congress to expect 
+
+that the ­­ that ­­ that for these denial of benefit 
+
+claims, we would look to State law to determine the 
+
+length of the period. 
+
+ But when that period starts running ­­ and 
+
+that's ­­ that's what's at stake here, is when the 
+
+limitations clock starts running ­­ was not a question 
+
+that we would look to State law for; rather, it's a 
+
+question of Federal law.  When does the claim actually 
+
+become ripe?  When can you file it in court? 
+
+ And ­­ and what ­­ what we have here is a 
+
+limitations provision that includes an accrual date that 
+
+starts the clock running, not just before when you can 
+
+file it in court, but before there's ever even been an 
+
+injury. 
+
+ JUSTICE ALITO: 
+
+Well, ERISA doesn't have a 
+
+statute of limitations, it doesn't specifically set out 
+
+a statute of limitations for this type of claim.  But it 
+
+1 
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+does have a savings clause that says it doesn't preempt 
+
+State laws that regulate insurance. 
+
+ So what would happen in this situation? 
+
+Let's say that a State statute says essentially what the 
+
+plan at issue says.  It says that a claim for the 
+
+incorrect denial of insurance benefits must be brought 
+
+within three years after the proof of loss. 
+
+ And now let's assume we agree with you, that 
+
+under ERISA, any statute of limitations for the denial 
+
+of benefits must begin not when the proof of loss must 
+
+be filed, but upon the denial of benefits. 
+
+ Does it follow, then, that the rule that 
+
+you're advocating would mean that ERISA preempted the 
+
+State law that regulated insurance in the way that I 
+
+just specified? 
+
+ MR. WESSLER: 
+
+I ­­ I would think it would, 
+
+because it ­­ because it would conflict with ERISA's 
+
+remedial structure.  I would stress here that in this 
+
+case, we know that these State laws don't apply to 
+
+Respondent's provision.  They themselves have made that 
+
+clear in their opposition brief. 
+
+ Most State laws, however, actually include 
+
+language to the effect of that insurers can use these 
+
+kinds of proof of loss languages or something similar so 
+
+far as it's not any less favorable. 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+ JUSTICE ALITO: 
+
+I think your answer to 
+
+that question has to be yes; otherwise, the situation 
+
+would be a mess. 
+
+ MR. WESSLER: 
+
+Yes.  Yes. 
+
+ JUSTICE ALITO: 
+
+But I ­­ but in ­­ in what 
+
+sense is the law that I hypothesize not a law that 
+
+regulates insurance?  So why wouldn't it fall within 
+
+ERISA's savings clause? 
+
+ MR. WESSLER: 
+
+It might as a first step, Your 
+
+Honor, but I think it would be impliedly conflicted 
+
+because it conflicts with the Federal structure of 
+
+ERISA.  And the key point about these State law 
+
+provisions, which is I think where this provision comes 
+
+from in Respondent's plan, is that these State law 
+
+insurance regimes do not require mandatory exhaustion of 
+
+any internal claims process. 
+
+ You ­­ your clock starts running at proof of 
+
+loss and so long as you wait a 60­day waiting period, 
+
+you can then file your claim in court regardless of 
+
+whether the insurer has actually acted on your claim. 
+
+ That is not true here. 
+
+Claimants do not 
+
+have the ability to file their claims in court until 
+
+they have exhausted this mandatory process. 
+
+ JUSTICE KENNEDY: 
+
+Is there any evidence in 
+
+other circuits that have this same rule that ­­ that the 
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+approach the Respondents advocate has caused 
+
+difficulties and disruption and unfairness? 
+
+ MR. WESSLER: 
+
+Well, I think we have seen 
+
+courts struggling with a host of questions about how to 
+
+resolve the enforceability of these provisions.  As just 
+
+an example, we know that courts are in the ­­ are having 
+
+now to be in the business of asking whether the parties' 
+
+conduct during this internal process has caused some 
+
+waiver or estoppel of the limitations provision. 
+
+ That kind of inquiry, an estoppel kind of 
+
+inquiry, is a fact­based inquiry about whether the 
+
+plan's conduct in the internal process was unduly 
+
+reasonable ­­
+
+ JUSTICE KENNEDY: 
+
+But in this case, as 
+
+Justice Ginsburg indicated at the outset, there was a 
+
+period of, I think, just over a year, in which it was 
+
+very clear that the administrative process had ended and 
+
+nothing happened.  I don't see the unfairness in the 
+
+application of the rule in this case. 
+
+ MR. WESSLER: 
+
+Yes, Your Honor, but I think 
+
+the core problem here isn't so much one of unfairness as 
+
+it is certainty and predictability of what employees' 
+
+and plans' rights are under an ERISA plan. 
+
+ JUSTICE KENNEDY: 
+
+Well, but there is also 
+
+certainty and fairness in processing the claim, and when 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+evidence is lost, especially in cases where employees 
+
+who were key witnesses have likely departed, that's 
+
+another very important consideration. 
+
+ MR. WESSLER: 
+
+Absolutely, Your Honor.  But 
+
+to be clear, there is nothing about Respondent's 
+
+provision that advances any of those goals any more than 
+
+running a limitations clock one year from final denial. 
+
+ As this Court has said, the internal claims 
+
+process itself provides notice to all the parties about 
+
+the possibility for claims and, critically, preserves 
+
+all of the evidence that ­­
+
+ JUSTICE BREYER: 
+
+What happens ­­ what 
+
+happens if you brought suit before the exhaustion, while 
+
+it was still going on, before it ended, but you said to 
+
+the judge, Judge, we're in the middle of exhausting, so 
+
+don't ­­ we don't want to hear the case until that's 
+
+finished, can you do that or not? 
+
+ MR. WESSLER: 
+
+I think that is a very open 
+
+question.  I do not know the answer. 
+
+ JUSTICE BREYER: 
+
+It's an open question. 
+
+ So then if it were held that you could do 
+
+it, you could file the lawsuit within the three years 
+
+and if exhaustion had not taken place, well, just don't 
+
+hear the case until the exhaustion does.  That would 
+
+solve your problem. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ MR. WESSLER: 
+
+I think it would, but I also 
+
+think ­­
+
+ JUSTICE BREYER: 
+
+I mean, it wouldn't solve 
+
+your problem because you waited too long.  But I mean 
+
+that would solve the problem of other people in the 
+
+future in your situation. 
+
+ MR. WESSLER: 
+
+Correct.  It would create a 
+
+vehicle for protecting the claimant's rights and 
+
+providing certainty ­­
+
+ JUSTICE BREYER: 
+
+What is it that stops that? 
+
+I mean, on that ground you would say these clauses are 
+
+valid.  It's valid to say he has to ­­ you have to bring 
+
+a lawsuit within three years.  Nothing wrong with that. 
+
+File a protective complaint. 
+
+ MR. WESSLER: 
+
+Absolutely, Your Honor.  But 
+
+that gets lawyers and courts involved in a process that 
+
+should be private.  ERISA's internal benefits process, 
+
+it processes millions of claims a year.  If we have 
+
+lawyers turning what should be a non­adversarial, 
+
+private process into one that is adversarial and that 
+
+allows for the possibility of filing protective actions 
+
+in which we ask the Federal court to stay a potential 
+
+Federal claim that may never exist while we are in this 
+
+indeterminant, flexible process, the courts would be 
+
+brought directly into a process that should be private. 
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ JUSTICE SOTOMAYOR: 
+
+Counsel, if we rule in 
+
+your favor ­­ I'm sorry, against you ­­ and just say the 
+
+plans can do this, do you see any reason why the 
+
+government couldn't pass a regulation saying you've got 
+
+to give people at least a year from the end of the 
+
+administrative process to file? 
+
+ MR. WESSLER: 
+
+I can't speculate on what the 
+
+government would do.  I don't actually know if they 
+
+would have the authority to do that. 
+
+ JUSTICE SOTOMAYOR: 
+
+I'm going to ask them 
+
+that question. 
+
+ MR. WESSLER: 
+
+I'm sure you are. 
+
+ JUSTICE SOTOMAYOR: 
+
+But are you aware of 
+
+anything that would stop them from doing that? 
+
+ MR. WESSLER: 
+
+I am not.  Their regulations, 
+
+what they have now addresses the internal claims 
+
+process.  It doesn't address the rights that exist when 
+
+you get to Federal court. 
+
+ JUSTICE SOTOMAYOR: 
+
+If we rule in your 
+
+favor, however, they would be estopped from passing a 
+
+regulation requiring something different than what we 
+
+say, correct? 
+
+ MR. WESSLER: 
+
+I would think that that's 
+
+right.  I mean, I think ­­ I think a rule of accrual 
+
+that the limitations clock starts running at final 
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+denial is exactly the kind of uniform and clean rule 
+
+that everyone can rely on ex ante, from the outset, 
+
+across the board in every jurisdiction in the country. 
+
+ JUSTICE KAGAN: 
+
+Mr. Wessler, this just I 
+
+think follows up on Justice Kennedy's question, but have 
+
+you identified any cases in which this serves to prevent 
+
+somebody from bringing a suit? 
+
+ MR. WESSLER: 
+
+We have not found any cases in 
+
+which a claimant has actually lost the right to file a 
+
+suit.  The problem isn't so much in that possibility. 
+
+The problem is in what we do see, which is where there 
+
+are three or four or two or five months left after final 
+
+denial on the clock, and courts are now in the business 
+
+of having to evaluate, does that give enough time to the 
+
+claimant to do all the things that she needs to do to 
+
+file her claim? 
+
+ JUSTICE KAGAN: 
+
+But it seems as though those 
+
+courts have been pretty liberal in saying, whenever it 
+
+is necessary, no, take a little bit more time.  So, this you know, it 
+
+seems just a little bit like a solution in search of a 
+
+problem. 
+
+ MR. WESSLER: 
+
+I think in fact it's just the 
+
+opposite.  Running the clock during the internal process 
+
+ex ante, no one knows where they will be at the end. 
+
+This process is indeterminate.  We want the parties to 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+take all the time they need to work it out. 
+
+ JUSTICE GINSBURG: 
+
+I didn't understand your 
+
+response to Justice Breyer's question, Mr. Wessler.  I 
+
+don't see how a Federal court that simply stays its ­­
+
+stays its hand, abides the termination of the 
+
+administrative proceeding, is in any way engaging in any 
+
+kind of adversary process. 
+
+ MR. WESSLER: 
+
+With respect, Your Honor, it's 
+
+not the court that is engaging in the adversarial 
+
+process.  It's the private internal claims process that 
+
+is supposed to be non­adversarial that has now become 
+
+adversarial because there is now a lawyer involved who 
+
+has advised her client that she must file a protective 
+
+action to avoid the possibility that she will lose her 
+
+claim.  We don't ­­
+
+ JUSTICE GINSBURG: 
+
+Yes, many people in the 
+
+administrative process aren't represented, but some are, 
+
+right? 
+
+ MR. WESSLER: 
+
+That's right, but we think 
+
+that this provision would incentivize more lawyers 
+
+getting involved because if you are uncertain about how 
+
+much time you'll have you will be in a position where 
+
+you will want advice.  This provision breeds confusion, and 
+
+when we are confused we look for help, and the help that 
+
+is going to come into this process are lawyers who are 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+going to take those kinds of strategic action that 
+
+Justice Breyer suggested and involve the courts in what 
+
+should be a private process. 
+
+ That in and of itself drastically undermines 
+
+the point of this internal benefit administration and 
+
+just amplifies and magnifies the litigation costs 
+
+associated with it. 
+
+ If I could reserve the rest of my time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Ms. Anders. 
+
+ ORAL ARGUMENT OF GINGER D. ANDERS, 
+
+ FOR THE UNITED STATES, AS AMICUS CURIAE, 
+
+ SUPPORTING THE PETITIONER 
+
+ MS. ANDERS: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ The limitations provision in Respondent's 
+
+plan deviates from bedrock Federal limitations 
+
+principles in a way that undermines ERISA's two­tiered 
+
+remedial framework.  Congress enacted that remedial 
+
+structure, which requires mandatory exhaustion before 
+
+judicial review, against the established limitations 
+
+principle that the limitations period begins to run only 
+
+when the cause of action accrues, in other words, here, 
+
+when exhaustion is complete and the plan has rendered 
+
+its final decision. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ JUSTICE ALITO: 
+
+I find it very hard to 
+
+answer the question that is presented here without 
+
+knowing the answer to the preemption question that I 
+
+asked Mr. Wessler.  And I know you refer to it in a 
+
+footnote in your brief and you say that this ­­ the type 
+
+of State statute to which I referred would likely be 
+
+preempted.  And I can understand why you wouldn't want 
+
+to go further than that on that question in a case where 
+
+that question isn't squarely presented. 
+
+ But if it's not presented, then I think we 
+
+would be creating an incredible mess that Congress would 
+
+not have intended.  So I really don't understand how I 
+
+can answer the question here without knowing the answer 
+
+to the question there. 
+
+ MS. ANDERS: 
+
+I think that's ­­ I think 
+
+that's right and I think State laws that require plans 
+
+to have this sort of provision would be preempted.  They 
+
+may fall within the savings clause, but, as this Court 
+
+has said, even statutes that are within the savings 
+
+clause are still subject to ordinary contract preemption 
+
+principles. 
+
+ JUSTICE KENNEDY: 
+
+Those are general 
+
+statutes, so they would be preempted just in this class 
+
+of claims.  So lawyers would have to know that this 
+
+statute is still valid for many purposes, but not for 
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ERISA. 
+
+ MS. ANDERS: 
+
+Well, it may be valid for many 
+
+State law purposes, but when a plan is regulated by 
+
+ERISA, ERISA's remedial framework establishes the limits 
+
+of what that plan ­­
+
+ JUSTICE KENNEDY: 
+
+But then you have ­­ you 
+
+have lack of uniformity within the State on when these 
+
+claims must be brought under an insurance policy. 
+
+ MS. ANDERS: 
+
+I don't think there'd be more 
+
+­­ any more lack of uniformity than there is already. 
+
+In fact, most of these State laws, they ­­ they actually 
+
+require plans to provide substitute language that would 
+
+be at least as favorable to the insureds. 
+
+ So, for instance, you could have a plan ­­ a 
+
+plan could easily remedy the problem we have here by 
+
+saying our limitations period runs from 3 years from 
+
+proof of loss or 6 months from the plan's final 
+
+determination, whichever is ­­ is later.  That would be 
+
+an easy way for a plan to both be uniform and avoid the 
+
+problem that we have here, which is undermining ERISA's 
+
+remedial framework by setting the two ­­
+
+ JUSTICE SCALIA: 
+
+But it hasn't undermined 
+
+the framework.  I mean,the Petitioner had a year.  I mean, 
+
+I can understand if ­­ finding that a particular case 
+
+is ­­ is not filed too late when indeed there was ­­
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+there was no time to do it.  But here they ­­ they had a 
+
+year.  Why ­­ why does that undermine the framework?  If 
+
+and when they don't have enough time, the court can say 
+
+the ­­ this suit is not precluded. 
+
+ MS. ANDERS: 
+
+Well, in this case we now know 
+
+post hoc that ­­ that the Petitioner had about a year. 
+
+But the problem with this framework is that it actually 
+
+sets the required exhaustion procedure under 1133 and 
+
+the required judicial review under 1132 against each 
+
+other, because a claimant who is going through 
+
+exhaustion is not going to know while she's going 
+
+through the exhaustion process how much time she's going 
+
+to have remaining. 
+
+ JUSTICE SCALIA: 
+
+So what? 
+
+ JUSTICE KAGAN: 
+
+What evidence do you have 
+
+that any bad incentives ­­ you know, any bad effects are 
+
+actually flowing from this?  There's actually a big 
+
+leeway in this statute, because it's 3 years.  The 
+
+administrative review process only takes about a year. 
+
+Even if this is a ­­ it's a complicated case where 
+
+there's some tolling, you know, maybe it gets you up to 
+
+another year, you still have a year. 
+
+ I mean, what ­­ how would people behave 
+
+badly or behave in ways that you think would disrupt the 
+
+statutory scheme, if we just let everything stay as it 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+is? 
+
+ MS. ANDERS: 
+
+Well, first, I think there is 
+
+evidence that there have been ­­ that there have been 
+
+problems created by this kind of scheme.  There's an 
+
+example of a case in which exhaustion took 4 years. 
+
+This is an iterative process; the Department of Labor's 
+
+regulations, of course, mean for mainstream cases to be 
+
+resolved in about a year.  But you can always have cases 
+
+­­ you know, these are situations in which you need 
+
+medical exams, you need test results, you need written 
+
+reports.  Either side ­­
+
+ JUSTICE GINSBURG: 
+
+Now ­­ in practice ­­ in 
+
+practice, how often is that the case that the ­­ that 
+
+the guidelines set by the Department of Labor are not ­­
+
+are not met? 
+
+ MS. ANDERS: 
+
+I don't have precise 
+
+statistics, but the regulations are designed to be 
+
+flexible, precisely because there will often be cases in 
+
+which one or the other side will need an extension.  And 
+
+so there are many cases or at least there are some cases 
+
+here where ­­ where if the limitations period is 3 
+
+years, it takes ­­ it has taken over 2 1/2 years for 
+
+exhaustion to occur, so the ­­ the plaintiff is left 
+
+with about 5 months to sue.  And then there's a question 
+
+about whether that's reasonable or not which leads to 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+collateral litigation.  There are some cases where the 
+
+statute of limitations is only 1 or 2 years. 
+
+ JUSTICE SOTOMAYOR: 
+
+Counsel, I could be more 
+
+troubled by this case if the proof of loss provision 
+
+required a suit to be brought in a year because as I'm 
+
+adding up the timeframe, it's about 15 months if no 
+
+exceptions remain for the administrative process. 
+
+ Could you answer my question on whether you 
+
+see any impediment if we rule against you in this case, 
+
+to the department saying something like, you've got to 
+
+give at least a year, from the finality of the 
+
+administrative process?  Could you pass such a 
+
+regulation later? 
+
+ MS. ANDERS: 
+
+I think the Department of Labor 
+
+would have that authority to do that. I mean, we think the 
+
+statute is clear right now that, you know, several 
+
+provisions ­­ there are several concepts here that I 
+
+think are very clear.  One this mandatory exhaustion in 
+
+the statute.  Two, Congress enacted the statute against 
+
+the traditional limitations rule, which means that the 
+
+statute runs from the date of accrual, and deviating 
+
+from that would undermine the structure by causing the 
+
+limitations provision to work in a way that limitations 
+
+provisions never do.  Limitations provisions are 
+
+designed to create certainty for both parties, so that 
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+you know when you have to bring suit. 
+
+ JUSTICE SCALIA: 
+
+Counsel ­­
+
+ JUSTICE GINSBURG: 
+
+But, Ms. Anders, the 
+
+question is ­­ there is a division in the courts of 
+
+appeals, and the question is:  Could the Department of 
+
+Labor, by regulation, resolve the matter one way or the 
+
+other? 
+
+ Does ­­ even if ­­ even if it thinks the 
+
+statute is clear, the courts obviously don't because 
+
+most go the other way.  So given that most courts go the 
+
+other way, does the Department of Labor have authority 
+
+to adopt a ­­ a regulation that would adopt the accrual 
+
+rule? 
+
+ MS. ANDERS: 
+
+We do think it would have that 
+
+authority and it has that authority because it has the 
+
+authority to regulate the claims process and the 
+
+procedures ­­
+
+ JUSTICE SCALIA: 
+
+Well, that's ­­ that's the 
+
+internal claims.  Do you know any other instance in 
+
+which ­­ when a suit can be brought in ­­ in Federal 
+
+court will be determined by an agency? 
+
+ MS. ANDERS: 
+
+Well, we ­­
+
+ JUSTICE SCALIA: 
+
+An agency saying you've got 
+
+to sue within 1 year, you've got to sue within 6 years. 
+
+Offhand, I can't think of any, and ­­ and I think it 
+
+1 
+
+2
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+goes well beyond what ­­ what the Executive is 
+
+authorized to prescribe. 
+
+ MS. ANDERS: 
+
+Well, we do think the agency 
+
+would have the authority here because we think that the 
+
+statute of limitations ­­ when the statute of 
+
+limitations runs from is intertwined with the 
+
+effectiveness about ­­ of the claims procedure.  So 
+
+because we think that the ­­ that having the limitations 
+
+provision run from before exhaustion even starts 
+
+undermines the efficacy of the claims procedure, the 
+
+Department of Labor would have the authority to protect 
+
+the efficacy of the claims procedure ­­
+
+ JUSTICE SCALIA: 
+
+You know any other 
+
+instances where ­­ where a Federal agency has, in 
+
+effect, prescribed the running of the statute for the 
+
+courts?  Maybe there are some, but I don't know of any. 
+
+ MS. ANDERS: 
+
+I can't tell you right now. 
+
+I'm not sure that there aren't any such provisions.  But 
+
+we do think the department would have the authority 
+
+here. 
+
+ JUSTICE KAGAN: 
+
+I guess one question is, if 
+
+you think that you do have authority and you think that 
+
+the majority rule has been creating problems, why the 
+
+Department of Labor hasn't done that? 
+
+ MS. ANDERS: 
+
+Well, the department's focus ­­
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+in 2000, the last time it regulated, it chose to focus 
+
+on matters that were directly involved in the claims 
+
+process itself.  It hasn't regulated since then, but its 
+
+position is that the statute does not permit plans to 
+
+deviate from bedrock limitations principles like this 
+
+and undermine the remedial scheme.  So its position is 
+
+reflected in our brief and we think it could regulate. 
+
+ JUSTICE ALITO: 
+
+If we agree with you, would 
+
+a State legislature have the authority to pass a statute 
+
+setting out a particular ­­ a specific statute of 
+
+limitations for ERISA claims? 
+
+ MS. ANDERS: 
+
+I think it ­­ I think it might 
+
+have the authority to do that so long as the statute 
+
+were framed in a way that didn't undermine the ­­ the 
+
+remedial framework here, yes. 
+
+ JUSTICE GINSBURG: 
+
+What is your position on 
+
+Justice Breyer's suggestion that the trigger can be 
+
+proof ­­ when you file proof of claim, but if it happens 
+
+that beginning of suit at that point would ­­ while 
+
+the ­­ while the administrative review process is 
+
+underway, why not say you have to follow the time of 
+
+filing, but if the administrative process ­­ in your 
+
+case, the 4 years ­­ took 4 years ­­ just hold the suit 
+
+in abeyance until the administrative process is 
+
+complete? 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MS. ANDERS: 
+
+I think that would be kind of a 
+
+bizarre scheme that would turn the exhaustion process 
+
+and the point of exhaustion on its head, and that 
+
+essentially would require a rush to court by claimants 
+
+who don't know yet whether the exhaustion process will 
+
+be resolved in their favor.  And the point of exhaustion 
+
+is ­­ is to avoid unnecessary suits like that. 
+
+ So I ­­ I think it has that problem. 
+
+It 
+
+also is not clear that every claimant is going to know 
+
+to ­­ to file a protective suit. 
+
+ JUSTICE BREYER: 
+
+­­ What about our saying that, and 
+
+what about our saying to the courts as a judge­made 
+
+doctrine, exhaustion has to conclude in enough time so 
+
+that they have time left to file a lawsuit? 
+
+ MS. ANDERS: 
+
+I'm sorry.  If you were to rule 
+
+that ­­
+
+ JUSTICE BREYER: 
+
+Yes.  Because isn't ­­
+
+isn't exhaustion a judge­made doctrine? 
+
+ MS. ANDERS: 
+
+It is a judge ­­ it is a 
+
+judge­made doctrine, but I think ­­
+
+ JUSTICE BREYER: 
+
+It would be an unfair 
+
+process that doesn't leave them a reasonable amount of 
+
+time to file a lawsuit. 
+
+ MS. ANDERS: 
+
+Well, I think in this case 
+
+exhaustion is ­­ is established by statute, it's 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+required by statute and by the regulations.  And so, you 
+
+know, I think ­­ I think in this case the problem is 
+
+that the statute of limitations starts running well 
+
+before the exhaustion process is complete, and 
+
+therefore, damages the efficacy of that process. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Ms. Carroll. 
+
+ ORAL ARGUMENT OF CATHERINE M.A. CARROLL 
+
+ ON BEHALF OF THE RESPONDENTS 
+
+ MS. CARROLL: 
+
+Thank you, Mr. Chief Justice, 
+
+and may it please the Court: 
+
+ Subject to State insurance law, ERISA gives 
+
+employers broad leeway to choose the terms on which they 
+
+agree to provide benefits, and a suit for benefits 
+
+due under an ERISA plan can seek only to enforce those 
+
+agreed­upon terms. 
+
+ JUSTICE SCALIA: 
+
+They don't have to provide 
+
+benefits at all, do they? 
+
+ MS. CARROLL: 
+
+Exactly.  But one of 
+
+Congress's purposes ­­
+
+ JUSTICE SCALIA: 
+
+And if they do, they do it 
+
+on their own terms. 
+
+ MS. CARROLL: 
+
+That's correct, 
+
+Justice Scalia.  And that was one of Congress's 
+
+overarching purposes in enacting the statute. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+ JUSTICE BREYER: 
+
+I suppose the problem here 
+
+is that we have found nine cases ­­ you know, we can do 
+
+computer­assisted research, which my clerks are good 
+
+at ­­ and ­­ and they found five cases in which the 
+
+exhaustion period was actually longer than the 3­year 
+
+statute of limitations.  And then they found four others 
+
+that were ­­ well, there was like 5 days left in one, 
+
+and there was 5 months in another.  And in most of 
+
+­­ almost all those cases, the judge got around the 
+
+problem by saying the statute begins to run at the time 
+
+the exhaustion is finished. 
+
+ Now, I can think of other ways of solving 
+
+the problem.  One was, you get a reg.  Another way was 
+
+that we interpret the exhaustion doctrine to require 
+
+leaving at least a year.  But what's your way of solving 
+
+the problem?  Are you just going to let those nine 
+
+people just ­­ they can't bring their lawsuit, or what? 
+
+ MS. CARROLL: 
+
+Well, I think when those 
+
+situations arise ­­ and to be clear, we have 40, almost 
+
+40 years of experience under ERISA of these provisions 
+
+coexisting with the ERISA remedial framework.  And in 
+
+that time period, to come up with, I recall, was it five 
+
+or nine cases ­­
+
+ JUSTICE BREYER: 
+
+The question was, what do 
+
+you want to do with those nine people?  Now, I know 
+
+29
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+there are a lot of ERISA cases, but still there were 
+
+nine people ­­
+
+ MS. CARROLL: 
+
+Of course. 
+
+ JUSTICE BREYER: 
+
+­­ who will have this 
+
+problem.  And my question is, what do you suggest we do 
+
+about them? 
+
+ MS. CARROLL: 
+
+In the highly unusual 
+
+circumstances where those situations arise, and we don't 
+
+have any reason to believe they are anything but highly 
+
+unusual, we think courts are well equipped to apply the 
+
+same equitable doctrines that courts have always applied 
+
+to statutes of limitations when situations like that 
+
+arise.  I think my friend referred to ­­
+
+ JUSTICE BREYER: 
+
+My question was, what 
+
+specific doctrine or ­­ I saw three routes.  Now, you 
+
+can name some others, and we do about those nine people 
+
+precisely, not in some general terms, but we do what 
+
+about them? 
+
+ MS. CARROLL: 
+
+In the Lamantia case cited in 
+
+the reply brief, the doctrine that was applied was 
+
+equitable estoppel because in the facts of that case you 
+
+couldn't get to a four­year point without a final 
+
+decision without something having gone wrong.  And in 
+
+that case there was ­­
+
+ JUSTICE BREYER: 
+
+And now, I suppose ­­ so we 
+
+1 
+
+2 
+
+3
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+could use equitable estoppel, even though nobody has 
+
+said anything, even though nobody held out anything as a 
+
+basis for estoppel.  But we could say use equitable 
+
+estoppel.  I'll think about that one. 
+
+ Is there any other thing we could use? 
+
+ MS. CARROLL: 
+
+There are many.  I want to 
+
+be clear.  Estoppel applies where the facts support it, 
+
+as do equitable tolling, as do the several provisions in 
+
+the Department of Labor regulations that already account 
+
+precisely for the interaction between the internal 
+
+review process and ­­
+
+ JUSTICE SCALIA: 
+
+Why wouldn't equitable 
+
+tolling apply if you don't have enough time to prepare 
+
+the court suit?  You have just a month, let's say, and 
+
+it's not your fault because you pursued the 
+
+administrative proceedings vigorously and promptly.  Why 
+
+wouldn't it be applicable? 
+
+ MS. CARROLL: 
+
+I think it very well might, 
+
+Your Honor.  I don't see any reason why that is not a 
+
+perfectly adequate solution. 
+
+ JUSTICE SCALIA: 
+
+So these seven people, nine 
+
+people ­­ how many were there?  Over 40 years, they 
+
+probably had a way out? 
+
+ MS. CARROLL: 
+
+I think that's right.  And I 
+
+think ­­
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+ CHIEF JUSTICE ROBERTS: 
+
+So you're pushing 
+
+this start to the statute of limitations period, and 
+
+your answer to the problems is:  Well, don't worry.  If 
+
+it ever turns into something that's going to be 
+
+enforced, we won't enforce it, or it won't be 
+
+enforceable without a judicial determination about 
+
+equitable estoppel and all these other things that are 
+
+very difficult to apply. 
+
+ MS. CARROLL: 
+
+Our position is that this 
+
+limitation provision, like any limitation provision, 
+
+whether contractual or statutory, is subject to 
+
+equitable doctrines that might apply on the facts of a 
+
+particular case.  These are not novel doctrines that 
+
+courts are unaccustomed to applying and we don't think 
+
+that they are particularly difficult. 
+
+ JUSTICE KAGAN: 
+
+Ms. Carroll, what would you 
+
+think if the State here just amended its statutes 
+
+tomorrow and said not 3 years but 18 months?  So for 
+
+everybody, it's an 18­month period.  It doesn't give 
+
+people very long after the 12 or 13 months of the 
+
+administrative review process is over.  What should a 
+
+court do then?  Should a court strike the entire 
+
+statute? 
+
+ MS. CARROLL: 
+
+Strike the ­­ strike the State 
+
+statute? 
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ JUSTICE KAGAN: 
+
+Yes.  Should the court say, 
+
+that's unreasonable, that goes too far? 
+
+ MS. CARROLL: 
+
+I mean, I ­­ going back to the 
+
+preemption analysis that Justice Alito referred to, I 
+
+think that provision would clearly fall within the 
+
+saving clause, and the thrust of this Court's ERISA 
+
+implied conflict preemption cases has been to ask only 
+
+whether the State law purports to supplement or displace 
+
+the exclusive remedial scheme under ERISA.  And I don't 
+
+think that provision would. 
+
+ Now, maybe there would be a new analysis we 
+
+would have to ask, which is, does this provision provide 
+
+a reasonable opportunity for full and fair review, and 
+
+does it practically deprive claimants of the opportunity 
+
+to obtain judicial review at the end of that period. 
+
+And maybe we would have ­­
+
+ JUSTICE KAGAN: 
+
+I'm sorry.  You know what? 
+
+Take it out of the statute context.  Just say that the 
+
+contract said 18 months rather ­­ so ­­ so that's really 
+
+what I meant.  What is ­­ what's a court to do with a 
+
+contract that says that? 
+
+ MS. CARROLL: 
+
+I think ­­ I think we would 
+
+apply that same analysis of asking, has there been a 
+
+reasonable opportunity for full and fair review, and has 
+
+the claimant been deprived of the opportunity to seek 
+
+33
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+judicial review? 
+
+ JUSTICE KAGAN: 
+
+Well, but in 18 months. I mean and 
+
+so 18 ­­ the administrative review process takes about 
+
+12 months in most cases. 
+
+ MS. CARROLL: 
+
+Yes. 
+
+ JUSTICE KAGAN: 
+
+Is 18 months enough? 
+
+ MS. CARROLL: 
+
+I think that would be a much 
+
+harder case because I do think we ­­ I think our ­­ our 
+
+experience with ERISA provisions generally does suggest 
+
+that exhaustion can take, you know, usually about a 
+
+year, maybe a little over a year.  And so that would be 
+
+a harder case. 
+
+ It's not what the laws of the vast majority 
+
+of States do require, though.  And it's not the 
+
+provision that's in this policy.  And I think just as 
+
+there can be line­drawing in that direction, there could 
+
+be line­drawing questions asked of my friend, what if ­­
+
+ JUSTICE KAGAN: 
+
+Well but, what's the rule of 
+
+law ­­ what's the rule of law that allows us to get rid of 
+
+a contract provision that's set at 14 months or 
+
+15 months or 16 months and to leave this one? 
+
+ MS. CARROLL: 
+
+Well, I don't want to ­­ if 
+
+I ­­ if I ­­ if I suggested that I wanted to completely 
+
+concede that, I misspoke because I think it's a hard 
+
+question.  I'm not sure what the answer is.  But I think 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the applicable ­­
+
+ JUSTICE KAGAN: 
+
+I was thinking that I would 
+
+like to ­­ like, 14 months would just seem unreasonable 
+
+to me. 
+
+ MS. CARROLL: 
+
+Okay.  Well, I think that's ­­
+
+I mean, going back to the Riddlesbarger decision and 
+
+Wolfe, this Court has long recognized the common law 
+
+principle that contracting parties may agree to a 
+
+limitations provision, it must be consistent with the 
+
+statutory framework, and it must provide a period of 
+
+time for suit that's not unreasonably short.  And I 
+
+think the Court could apply ­­
+
+ JUSTICE BREYER: 
+
+There, your opponent is 
+
+saying, I have a simpler answer.  I mean, instead of 
+
+having to worry whether 14 months is too long or 
+
+7 months is too short or a year and a half is adequate 
+
+time, instead of having to worry about that in difficult 
+
+cases, I have a simpler idea.  We will just run the 
+
+three years from the time the ­­ the internal exhaustion 
+
+is finished.  Then you don't have to worry about it. 
+
+You don't have to worry about equitable tolling, and you 
+
+don't have to worry about all this other stuff.  That's 
+
+their point. 
+
+ MS. CARROLL: 
+
+Justice Breyer, the question 
+
+before the Court is not what would be the best idea or 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the best, most simple model if we were writing on a 
+
+blank slate.  The question is, is this term in an ERISA 
+
+plan, in a suit from which the Petitioner's rights flow 
+
+from that plan and her cause of action seeks to enforce 
+
+the terms of that plan ­­ may that provision be excised 
+
+from every plan in which it appears in all cases on a 
+
+categorical basis because we can imagine the possibility 
+
+of five or nine cases in which its operation had to be 
+
+addressed through the application of traditional 
+
+equitable doctrines. 
+
+ JUSTICE ALITO: 
+
+Why would ­­ why would 
+
+employers with ERISA plans be hurt by the rule that the 
+
+Petitioner is advocating going forward?  Why wouldn't 
+
+they just be then able to amend the plan, make the ­­
+
+the period for filing suit begin on the ­­ at the end of 
+
+the review process, shorten the period, if ­­ so as to 
+
+bring it in line with basically what happened before, 
+
+when the period began upon the proof of loss, I don't 
+
+quite understand why, going forward, that is ­­ is a 
+
+disadvantage to ­­ to employers? 
+
+ MS. CARROLL: 
+
+I do think that the current 
+
+wording of the provision has a lot to recommend it, and 
+
+that's why you see it used as the typical model in 
+
+insurance.  And here are a couple of the things.  One is 
+
+that ­­
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3
+
+4 
+
+5
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ JUSTICE ALITO: 
+
+The current model being the 
+
+proof of loss? 
+
+ MS. CARROLL: 
+
+Being proof of loss.  And that 
+
+is ­­
+
+ JUSTICE ALITO: 
+
+And why is that preferable? 
+
+ MS. CARROLL: 
+
+That is because, from the 
+
+moment the claim is filed, we know at the outset that 
+
+the claim ­­ the books can be closed on the claim for 
+
+reserving purposes three years from the proof of loss 
+
+date.  Whereas, under a limitation period that does not 
+
+commence until the conclusion of the administrative 
+
+process, we won't know from the outset when the 
+
+limitation period will run or not. 
+
+ And so this provision provides some 
+
+certainty that the other type of provision doesn't.  I'm 
+
+not saying ­­
+
+ JUSTICE GINSBURG: 
+
+Isn't it true that in 
+
+insurance contracts, generally, where there is this 
+
+proof of loss as the trigger, there isn't a mandatory 
+
+administrative ­­ most States don't have this mandatory 
+
+administrative review. 
+
+ MS. CARROLL: 
+
+Justice Ginsburg, that's 
+
+actually not correct, and we've provided some examples 
+
+at pages 20 to 21 of the red brief that show how these 
+
+provisions do commonly work in the traditional insurance 
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+context.  And what you commonly see is a limitation 
+
+period, often about 12 months, that will run from the 
+
+time of the insured loss, let's say the time of the fire 
+
+in a fire insurance policy. 
+
+ What subsequently must happen within that 
+
+12 months is that the claimant must present proof of 
+
+loss within the 12 months as the clock is ticking. 
+
+Sometimes they must await the insurer's decision. 
+
+Sometimes they simply have a waiting period.  And then 
+
+they have to file suit.  And that was the ­­ that was 
+
+the scheme that this Court discussed at some length in 
+
+the Wolfe case. 
+
+ And what that model is about is ­­ I mean, I 
+
+think we're all very familiar with the kind of Federal 
+
+administrative scheme where there are several steps of 
+
+administrative review, followed by a judicial review 
+
+step, where Congress writes a limitation period that's 
+
+essentially a grant of time in which a claimant can 
+
+proceed from one step to the next. 
+
+ But that's not the only model, and it's not 
+
+the model that characterizes the insurance practice. 
+
+With that model ­­ the way that often works is there is 
+
+a deadline out there in the future, and by that deadline 
+
+a claimant must complete the pre­litigation steps 
+
+necessary and file their claim.  That's the type of 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+38
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+model that this court also considered in enforcing the 
+
+McMahon case.  And there's nothing in the law that says 
+
+one model versus the other is the only way a limitation 
+
+period can ever be written. 
+
+ And in ERISA, Congress did not step in to 
+
+decide what it thought the limitation period ought to be 
+
+or how it thought it ought to work.  It instead said, 
+
+number one, we want to defer to State insurance 
+
+regulators, even though these provisions had long been 
+
+on the books already, we want to defer to State 
+
+insurance regulators to govern the content of insured 
+
+plans.  And number two, we want to defer to employers' 
+
+decisions about the terms on which they want to enter 
+
+into the voluntary undertaking of providing benefits. 
+
+ And it is a voluntary undertaking and 
+
+Congress, speaking about concerns about uncertainty and 
+
+so on, the primary uncertainty that Congress was worried 
+
+about and that would be visited on employers and 
+
+insurers if this Court were to ­­ were to rule for 
+
+Ms. Heimeshoff, would be that we don't want to be in a 
+
+legal regime where every term in an ERISA plan is 
+
+potentially unenforceable because someone can imagine a 
+
+handful of five or nine cases in which it's unfair. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, but there's 
+
+no ­­ there's no employer who is going to have a plan 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+put together and say, well, I'm not going to do this 
+
+unless the statute of limitations for claims runs from 
+
+the proof of loss.  And if you tell me it's got to run 
+
+from the exhaustion of remedies, I'm just not going to 
+
+give a benefit plan.  That's an implausible scenario. 
+
+ MS. CARROLL: 
+
+I ­­ I think that it's a 
+
+broader point, however, in terms of the uncertainty that 
+
+this would raise.  To ­­ to say that this provision 
+
+should be excised from ERISA plans in all plans where it 
+
+appears, for all cases because of speculation about what 
+
+might happen in some cases but does not usually happen, 
+
+to say that that can be a basis, absent any other anchor 
+
+in the statute, for judicially rewriting or ignoring 
+
+plan terms, would be a tectonic shift in the law of 
+
+ERISA in terms of Congress's goal of making sure that 
+
+plans would be enforced as written, particularly in a 
+
+cause of action under Section (a)(1)(B), which is a suit 
+
+not to defeat the plan terms, but to enforce the plan 
+
+terms. 
+
+ JUSTICE SOTOMAYOR: 
+
+Well, what would your 
+
+argument be if ­­ if this ­­ if ERISA said there is a 
+
+minimum 3­year statute of limitations?  Would your 
+
+argument be identical today or would that be a clearer 
+
+demonstration that Congress intended that the background 
+
+principle that that starts from, the exhaustion of 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+administrative process, be incorporated? 
+
+ MS. CARROLL: 
+
+Under the ­­ under the 
+
+principle this Court recognized in Riddlesbarger and 
+
+Wolfe, parties to a contract may agree to a limitation 
+
+period that differs from one in the governing scheme. 
+
+So, for example ­­
+
+ JUSTICE SOTOMAYOR: 
+
+So do you require an 
+
+explicit agreement that the start is going to be 
+
+different as well? 
+
+ MS. CARROLL: 
+
+An explicit agreement ­­
+
+ JUSTICE SOTOMAYOR: 
+
+That you can shorten or 
+
+lengthen a limitations period, but this is not about 
+
+shortening or lengthening a limitations period.  This is 
+
+about changing a start time for the limitations period. 
+
+ Do you require something explicit ­­ an 
+
+explicit statement as to that as well? 
+
+ MS. CARROLL: 
+
+Your Honor, if I am 
+
+understanding the question correctly, I think if you ­­
+
+if you begin from the premise, as I think all parties 
+
+do, that ­­ that contracting parties may agree to the 
+
+length of the limitation period ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Right. 
+
+ MS. CARROLL: 
+
+A limitation period ­­ a 
+
+length of a limitation period can't be defined or 
+
+expressed without reference to some starting point. 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+41
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+It's not the norm to say, oh, we're going to have a 
+
+3­year period.  You would say it's 3 years from some 
+
+date.  It's 3 years from proof of loss or 3 years from 
+
+notice or 3 years from discovery or 3 years from my 
+
+decision ­­
+
+ JUSTICE SOTOMAYOR: 
+
+So you think Congress 
+
+would only legislate in that way? 
+
+ MS. CARROLL: 
+
+I'm sorry? 
+
+ JUSTICE SOTOMAYOR: 
+
+You think Congress would 
+
+only legislate that way?  Do you have any examples of 
+
+that, of Congress saying the limitations period starts 
+
+at the end of the administrative process and is for 3 
+
+years or 1 year? 
+
+ MS. CARROLL: 
+
+Well, typically, Congress 
+
+writes limitations periods that run from the time the 
+
+"cause of action," accrues, which is why this Court ­­
+
+ JUSTICE SOTOMAYOR: 
+
+That's much better. 
+
+ MS. CARROLL: 
+
+­­ usually has to decide when 
+
+the cause of action accrued.  But that's not always the 
+
+case.  So in the Dodd case, for instance, the limitation 
+
+period in the Federal habeas statute is not drawn to 
+
+anything having to do with accrual, but to a ­­ a menu 
+
+of a series of particular events. 
+
+ And the same thing is true under this 
+
+provision where the parties, rather than defining the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+42
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+limitation period by reference to the accrual of a cause 
+
+of action, they have defined it by reference to a 
+
+particular point in time, which is a model that is 
+
+common in ­­ in the insurance practice and has been 
+
+widely used in ERISA plans since ERISA's enactment. 
+
+ JUSTICE SCALIA: 
+
+Do you have any position on 
+
+whether the executive can prescribe when ­­ when suit 
+
+must be brought? 
+
+ MS. CARROLL: 
+
+I ­­ here's how the Department 
+
+of Labor has threaded that needle, and that is in the 
+
+provisions of the regulations that say things like, if 
+
+an ERISA plan provides for additional voluntary appeals 
+
+beyond the minimum that's necessary, then the plan must 
+
+agree to ­­ not to assert any defense based on the 
+
+statute of limitations or timeliness.  And so I think 
+
+that sort of approach is probably something that they 
+
+could do.  I mean, I think that probably avoids the 
+
+question that Your Honor was asking earlier. 
+
+ I think, you know, as far as the DOL's 
+
+regulatory authority more generally, I think there is 
+
+also the looming question about whether the Department 
+
+has statutory authority to adopt a regulation that would 
+
+have the effect of preempting State law. 
+
+ But leaving those authority questions aside, 
+
+I think the only other question is whether the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+43
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Department could compile a factual record that would 
+
+provide a non­arbitrary basis for taking this action. 
+
+I ­­ I'm not sure that they could, but it's certainly 
+
+within their right to initiate notice and comment 
+
+rulemaking to try to do that. 
+
+ JUSTICE GINSBURG: 
+
+Ms. Carroll, did I 
+
+understand you before to be taking the position that 
+
+even if Congress enacted a statute of limitations with 
+
+an accrual rule, that that might not be effective as 
+
+against a plan provision that provides for the trigger 
+
+being proof of claim? 
+
+ MS. CARROLL: 
+
+I ­­ I think it would be a 
+
+question of statutory interpretation there whether the 
+
+inclusion of a particular statute of limitations was 
+
+meant to limit contracting parties' ability to agree to 
+
+a different one.  And I think if you had a situation 
+
+where, you know, let's say the Court in this case 
+
+upholds the plan's provision and then Congress amends 
+
+the statute to say, you know, we really think this 
+
+doesn't make sense and we want to have a different rule, 
+
+I think there would be a strong argument that that 
+
+statute was intended to foreclose, as Congress may do, 
+
+the right of ­­ of parties to contract around that rule. 
+
+ JUSTICE SCALIA: 
+
+They're not going to do 
+
+this for a lobby of nine people, are they? 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+44
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MS. CARROLL: 
+
+I ­­ I wouldn't expect so. 
+
+ JUSTICE BREYER: 
+
+But if they do that, the 
+
+question answers itself.  The ­­ the ­­
+
+ (Laughter.) 
+
+ JUSTICE BREYER: 
+
+The ­­ the question I would 
+
+like to know is if you know empirically, roughly, what 
+
+are typical statutes of limitations in this area?  The 
+
+basic rule is State law unless contract, is that right? 
+
+ MS. CARROLL: 
+
+I ­­ I think that's right, 
+
+yes. 
+
+ JUSTICE BREYER: 
+
+And how long on average? 
+
+Do you have any idea of ­­ of how long people normally 
+
+have to bring their action? 
+
+ MS. CARROLL: 
+
+Well, the 3 years from proof 
+
+of loss is the standard provision.  So that is typical. 
+
+ JUSTICE BREYER: 
+
+It's the standard provision 
+
+in contracts? 
+
+ MS. CARROLL: 
+
+Yes.  In ­­ in certain types 
+
+of insurance contracts, yes. 
+
+ JUSTICE BREYER: 
+
+Well, I mean ­­ in certain 
+
+types of insurance contracts.  So ERISA is all over the 
+
+place.  I wouldn't even know where to start.  Does the 
+
+Department of Labor keep statistics on this or what? 
+
+ MS. CARROLL: 
+
+I ­­ I have ­­ I ­­ we have 
+
+looked far and wide for empirical information about this 
+
+1
+
+2
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16
+
+17 
+
+18
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+45
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+and the best I can do is to refer Your Honor to page 29 
+
+of the amicus brief for the American Council of Life 
+
+Insurers, which does collect a little bit of empirical 
+
+information about the exceeding rarity with which this 
+
+issue ever arises in ERISA cases and the typical length 
+
+of time that's required to exhaust. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, it's hard to 
+
+see what you mean by the exceeding rarity.  I suspect 
+
+there are more than nine cases where people are looking 
+
+at the running of the statute of limitations and they're 
+
+saying, well, I've got to sue if I don't get this and 
+
+when do I have to hire a lawyer.  And the last thing you 
+
+want in this process is to get lawyers involved at the 
+
+claim procedure.  And they say, well, there's only 10 
+
+months left, I'd better hire a lawyer, you know, and 
+
+instead of the informal resolution, you've suddenly got 
+
+lawyers involved.  Why isn't that a legitimate concern? 
+
+ On the other hand, if you wait until the 
+
+claim is exhausted, you may ­­ you may not need the 
+
+lawyer at all.  But if you don't know when that period 
+
+is going to run, you'd better get one early ­­ sooner 
+
+rather than later. 
+
+ MS. CARROLL: 
+
+Well, of course in this case, 
+
+the Petitioner did have counsel from relatively early on 
+
+in the process. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+46
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, she was very 
+
+prudent. 
+
+ MS. CARROLL: 
+
+So I'm not sure that ­­
+
+Pardon? 
+
+ CHIEF JUSTICE ROBERTS: 
+
+I mean, she didn't 
+
+know when it was going to run, you'd better get somebody 
+
+in there right away.  The typical lay person who's got a 
+
+claim for $9,000 in disability benefits or whatever, you 
+
+know, may not know.  Better get a lawyer to tell her. 
+
+ It just seems to me that you keep it as an 
+
+informal resolution ­­ inexpensive resolution process if 
+
+you tell somebody look, you don't have to worry about 
+
+getting a lawyer until we tell you whether we're going 
+
+to deny your claims or not. 
+
+ MS. CARROLL: 
+
+And, Your Honor, that easy, 
+
+inexpensive process is how it works in the vast majority 
+
+of cases.  I think something like 80 percent of 
+
+disability claims are granted through the internal 
+
+review process without there ever being any need to go 
+
+to litigation.  And I think the reason ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, that's my 
+
+point.  I'm not talking about the need to go to 
+
+litigation.  I think there are probably more than 9 
+
+people who had to hire lawyers before they even had a 
+
+decision. 
+
+47
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MS. CARROLL: 
+
+Oh, I think that's right.  I 
+
+mean, this is not ­­ I think our best sense is that 
+
+there's something around the order of about a quarter to 
+
+a third of cases in which claimants are represented by 
+
+counsel.  But I think the question that Your Honor is ­­
+
+is posing, of the claimant who's approaching some point 
+
+where they are wondering what to do, that's going to be 
+
+a claimant who's looking at a deadline for filing suit 
+
+that is probably still a year and a half or two years 
+
+away in typical cases. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, and it's 
+
+probably a claimant that doesn't have all that much 
+
+experience with the legal system and doesn't know well how long 
+
+does it take, you know, to get a complaint ready and ­­
+
+I don't know.  It just seems to me that the problem of a 
+
+statute of limitations that runs before the claim even 
+
+accrues requires people to worry about their legal 
+
+rights in a way that ­­ the simple rule about when your 
+
+benefits are denied, that's when the period starts 
+
+running. 
+
+ MS. CARROLL: 
+
+Well, I mean, granted all 
+
+statutes of limitations do impose some obligation on 
+
+would­be plaintiffs to take steps to protect themselves. 
+
+That ­­ that is true of all limitations periods no 
+
+matter how they are drawn. 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+48
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ JUSTICE KENNEDY: 
+
+It's fair to say, in other 
+
+words, that it's typical in the insurance industry that 
+
+statute of limitations run from proof of loss? 
+
+ MS. CARROLL: 
+
+In the group ­­ in the group 
+
+benefit plans of the type that are subject to ERISA, 
+
+that is very common.  That is the standard term.  Going 
+
+back to the older products like fire insurance, life 
+
+insurance, and so on, it would often run before proof of 
+
+loss, from the actual insured event. 
+
+ JUSTICE KENNEDY: 
+
+From occurrence? 
+
+Occurrence ­­
+
+ MS. CARROLL: 
+
+Exactly.  Exactly.  And with 
+
+­­ the reason why it's different in a long­term 
+
+disability plan is that you have to make sure that the 
+
+disability is actually a long­term disability.  And so 
+
+that's why you have these elimination periods followed 
+
+by a proof of loss deadline because there has to be a 
+
+sustained disability in that interim period.  And so you 
+
+don't run it from an earlier point because it's not 
+
+clear that the insured event has occurred until you've 
+
+come to that point. 
+
+ JUSTICE ALITO: 
+
+Well, you started to answer 
+
+this question before, but I'm not sure I understand the 
+
+answer, why this proof of loss model is ­­ is so 
+
+attractive in the disability insurance field?  You said 
+
+49
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+that it provides a clear date on which you know you can 
+
+begin to count.  But so does an accrual rule.  So maybe 
+
+you can explain a little bit more. 
+
+ MS. CARROLL: 
+
+I ­­ I think what I meant by 
+
+that was that under what I take Your Honor to mean by an 
+
+accrual rule, meaning a limitation period that runs ­­
+
+ JUSTICE ALITO: 
+
+Right, right. 
+
+ MS. CARROLL: 
+
+­­ at the conclusion of the 
+
+administrative process, we don't know at the time that 
+
+the claim is initially presented when that's going to 
+
+be.  Is it going to be 6 months from now?  A year from 
+
+now?  A year and a half from now?  And so it's just simply 
+
+for reserving purposes, it helps to have a greater sense 
+
+of certainty about the timing of potential claims and 
+
+when we can close the books. ­
+
+ JUSTICE BREYER: 
+
+It's ­­ the doctrine of 
+
+exhaustion is a judge­created doctrine. 
+
+ MS. CARROLL: 
+
+Correct. 
+
+ JUSTICE BREYER: 
+
+And therefore you cannot, 
+
+in your contract, contract yourself around it.  You 
+
+can't get out of it. 
+
+ MS. CARROLL: 
+
+No.  And ­­
+
+ JUSTICE BREYER: 
+
+So what this would require 
+
+would be to say that that judge­created doctrine 
+
+requires exhaustion to take place before the accrual of 
+
+50
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the statute of limitations, end of opinion.  For the 
+
+reason of certainty, for the reason of uniformity, for 
+
+the reason of avoiding, through hiring lawyers, et 
+
+cetera, an interference with the voluntary nature, 
+
+simple nature, and hopefully pre­legal involvement 
+
+nature of that exhaustion process, all right?  Da, da, 
+
+da. 
+
+ Now, the reason ­­ what trouble would that 
+
+cause? 
+
+ MS. CARROLL: 
+
+The ­­
+
+ JUSTICE BREYER: 
+
+What trouble in the 
+
+industry would that cause? 
+
+ MS. CARROLL: 
+
+The ­­ that trouble ­­ that 
+
+would cause trouble for every employer, plan sponsor, 
+
+insurer that has an ERISA plan.  And here's why.  Since 
+
+ERISA's enactment, this Court has never held that in a 
+
+suit to enforce the terms of an ERISA plan those terms 
+
+can be thrown out the window because we worry that they 
+
+might be unfair in some case that we can speculate 
+
+about. 
+
+ That would be a very significant shift in 
+
+how this Court enforces ERISA plans, and it would 
+
+undermine Congress's goal of wanting to assure employers 
+
+and plan sponsors that the terms on which they agree to 
+
+provide benefits will be respected. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+51
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ JUSTICE SCALIA: 
+
+I thought that this 
+
+contract required exhaustion of administrative remedies 
+
+before you can sue.  Isn't that in the contract? 
+
+ MS. CARROLL: 
+
+It is. 
+
+ JUSTICE SCALIA: 
+
+So it's not a judge­created 
+
+doctrine. 
+
+ MS. CARROLL: 
+
+It's ­­
+
+ JUSTICE SCALIA: 
+
+I mean, we create it in 
+
+other instances where ­­ where there are agency, you 
+
+know, requirements to go through the agency, and we ­­
+
+we make it up.  But here it's ­­ it's in the contract, 
+
+isn't it? 
+
+ MS. CARROLL: 
+
+It is in the contract. 
+
+ JUSTICE SCALIA: 
+
+So we are not as entitled 
+
+to fiddle with it as much as we are when it is our 
+
+creation, I suppose. 
+
+ MS. CARROLL: 
+
+Well, but even when it is the 
+
+Court's creation it is not without exceptions, it is not 
+
+jurisdictional.  We like exhaustion.  We think ­­ we 
+
+think that internal review is a very successful and 
+
+workable scheme that resolves the vast majority of cases 
+
+with mutual benefits to all sides. 
+
+ JUSTICE KAGAN: 
+
+Ms. Carroll, please tell me 
+
+if I'm wrong.  But even if a contract does not have an 
+
+exhaustion requirement, courts have required exhaustion. 
+
+52
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MS. CARROLL: 
+
+That's ­­ that's correct, for 
+
+good reason, although with exceptions. 
+
+ JUSTICE KAGAN: 
+
+And courts have required it 
+
+even though the statute doesn't say so. 
+
+ MS. CARROLL: 
+
+That's true. 
+
+ JUSTICE KAGAN: 
+
+It's an extra­textual 
+
+requirement the courts have made up, irrespective of 
+
+what the contract provides. 
+
+ MS. CARROLL: 
+
+That's true.  But it is not 
+
+one that required setting aside or defeating any term of 
+
+an ERISA plan.  And that's the key distinction. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Did I ­­
+
+ MS. CARROLL: 
+
+And as the party that has come 
+
+forward to say that even though I am trying to enforce 
+
+this plan, I nevertheless want to jettison the plan 
+
+terms, I think the Petitioner bears a burden to say 
+
+there is some anchor in the statute or some basis in 
+
+evidence or experience to say, not simply to speculate, 
+
+that there is a potential clash with the remedial 
+
+scheme, but that there is one. 
+
+ JUSTICE KAGAN: 
+
+I think what Justice Breyer 
+
+was suggesting, that maybe, given that we have this sort 
+
+of judge­made rule of exhaustion, that the courts just 
+
+did a sort of a half job of it, that they also should have 
+
+put the statute of limitations that makes that 
+
+1
+
+2 
+
+3
+
+4 
+
+5
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+53
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+exhaustion requirement work, and that ensures that it 
+
+doesn't produce unfair, bad outcomes. 
+
+ MS. CARROLL: 
+
+I think if there is a ­­ if 
+
+there is a question as between a judge­made doctrine and 
+
+the terms of a plan as to which should give way, I think 
+
+Congress has made clear that it is the terms of the plan 
+
+that ought to control, as has this Court made clear. 
+
+ JUSTICE KAGAN: 
+
+The Congress was dealing ­­
+
+you know, Congress passed ERISA before this exhaustion 
+
+requirement came into play.  So it's a little bit hard 
+
+to read into anything, to read Congress's silence in the 
+
+normal way here because Congress didn't think that there 
+
+was going to be this exhaustion requirement ­­
+
+ MS. CARROLL: 
+
+I ­­
+
+ JUSTICE KAGAN: 
+
+­­ and the courts put it on 
+
+later. 
+
+ MS. CARROLL: 
+
+I'm not sure about that.  I 
+
+think the courts that found an exhaustion requirement 
+
+did so in an act of statutory interpretation and found 
+
+that to be consistent with Congress's intent in the 
+
+statute. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Did I understand ­­
+
+did I understand you earlier to say we have not had a 
+
+case where we have overridden plan terms in ERISA plans? 
+
+ MS. CARROLL: 
+
+In a ­­ in a suit under 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+54
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+section 1132(a)(1)(B) to enforce a plan term, there is 
+
+no decision in which this Court has said we can simply 
+
+ignore plan terms. Rather what, 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, simply ignore. 
+
+I mean, is there any in which we have overridden plan 
+
+terms? 
+
+ MS. CARROLL: 
+
+No. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+No. 
+
+ MS. CARROLL: 
+
+No.  There are no ­­ there 
+
+have been plenty of cases where people have asked to do 
+
+so, and where this Court has had to say ­­ for example 
+
+in the ­­ in the Amara case, in the McCutchen case, in 
+
+the Kennedy case, where the Court had to consider 
+
+situations where maybe we should come up with a 
+
+judge­made sort of common law model that seems like a 
+
+better rule.  And the Court said, no, we are not going 
+
+to do that because this is a situation.  This is a 
+
+context where Congress wanted plan terms to control. 
+
+ Here the plan terms clearly bar the suit. 
+
+There's no allegation that the ­­ the 
+
+administrative regime here was ­­
+
+ JUSTICE BREYER: 
+
+Look, you agree that we 
+
+would overturn the plan term if the plan term was no 
+
+exhaustion? 
+
+ MS. CARROLL: 
+
+I'm sorry? 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+55
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22
+
+23
+
+24
+
+ JUSTICE BREYER: 
+
+The courts would overturn a 
+
+plan term which plan term said no exhaustion. 
+
+ MS. CARROLL: 
+
+I ­­ well, I doubt very much 
+
+you would ever encounter a plan term like that. 
+
+ JUSTICE BREYER: 
+
+Of course not because what 
+
+we are trying to do ­­ and employers are very 
+
+cooperative and we are trying to work out a system with 
+
+the exhaustion thing that will not destroy ERISA plans 
+
+or something. 
+
+ MS. CARROLL: 
+
+Right. 
+
+ JUSTICE BREYER: 
+
+It ­­ it's which is the ­­
+
+and that's why I phrased it in terms of an explanation 
+
+of the exhaustion requirement. 
+
+ MS. CARROLL: 
+
+Yes.  I suppose if you had an 
+
+intransigent plan that just said, no, we refuse to 
+
+entertain your attempts to appeal, that is a situation 
+
+where a court would apply one of the futility exceptions 
+
+to exhaustion.  So I ­­ I don't think that would ­­
+
+would present an issue. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ MS. CARROLL: 
+
+Thank you. 
+
+ REBUTTAL ARGUMENT OF MATTHEW W.H. WESSLER, 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. WESSLER: 
+
+Thank you.  Just a few ­­ a 
+
+25 
+
+few brief points. 
+
+56
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ CHIEF JUSTICE ROBERTS: 
+
+I'm sorry, you have 
+
+4 minutes left. 
+
+ MR. WESSLER: 
+
+Thank you. 
+
+ First of all, this Court has in UNUM v. Ward 
+
+refused to enforce a plan term that would have 
+
+overridden a State law notice prejudice rule.  But I 
+
+think the bigger point here is that provisions that ­­
+
+ JUSTICE SOTOMAYOR: 
+
+What case is that? 
+
+ MR. WESSLER: 
+
+UNUM v. Ward, Your Honor. 
+
+ The bigger point here is that provisions 
+
+that tamper with ERISA’s enforcement scheme, as this 
+
+provision does, are inconsistent with ERISA's remedial 
+
+structure.  By Respondent's own argument, this is not an 
+
+enforce the contract provision. 
+
+ This is a sometimes enforcing the contract 
+
+provision, that is itself automatically subject to a 
+
+reasonableness override, in which courts can and are 
+
+expected to actually decline to enforce the plain 
+
+language of the provision in cases in which it finds, 
+
+under a host of fact­specific questions, the provision 
+
+is either unreasonable or the plan is estopped 
+
+from enforcing it or has waived it. 
+
+ And that, we submit, Your Honor, is the key 
+
+defect with this provision because it puts courts right 
+
+in the center of policing what should be a private 
+
+1
+
+2 
+
+3
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+57
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+process. 
+
+ If plans are ­­ if Courts are able to look 
+
+back and determine whether a plan's conduct in the 
+
+internal process was ­­ was unreasonable, was dilatory, 
+
+was unreasonably delayed, then all of a sudden the 
+
+private benefit resolution process, which this Court has 
+
+said, as have all of the lower courts that have looked 
+
+at it, is designed to be non­adversarial, flexible, and 
+
+private, turns into something that looks like none of 
+
+those things. 
+
+ It turns into a process in which lawyers get 
+
+involved early, in which courts get involved early, and 
+
+in which these plan terms are subject to revision or 
+
+over ­­ overrides in a host of cases and in which both 
+
+plans and claimants have no idea ex ante whether or when 
+
+this provision will be enforced. 
+
+ A rule running from final denial, which I 
+
+should say is the consistent rule across the board in 
+
+every Federal statutory regime, stated ­­ going back 
+
+from ­­ to the beginning of the law that we have been 
+
+able to find, runs the limitations clock from when you 
+
+can file the claim in court. 
+
+ JUSTICE ALITO: 
+
+Well, if we agree with you, 
+
+would the Federal courts and maybe ultimately this Court 
+
+in the end have to specify what the statute of 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+58
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+limitations is, the length of time?  So we have a bunch 
+
+of cases from different courts, and one circuit says 2 
+
+years is ­­ is the ­­ that's the shortest you can have. 
+
+Another one says, no, you can have a year.  Another one 
+
+says, well, you could have 9 months. 
+
+ How would this ultimately happen? 
+
+Wouldn't 
+
+we be driven to that? 
+
+ MR. WESSLER: 
+
+I ­­ I think not.  I think 
+
+plans have absolute authority to ­­ to themselves 
+
+specify the length of the period.  We see this ­­
+
+ JUSTICE ALITO: 
+
+They specify a lot of 
+
+different lengths, and then they're all challenged ­­
+
+different ones are challenged in different courts, and 
+
+the courts have to say what's reasonable.  And there's 
+
+no State statute of limitations that applies to this 
+
+situation.  So it all comes down just to a question of 
+
+reasonableness. 
+
+ MR. WESSLER: 
+
+I think that ­­ I think two 
+
+answers to that, Your Honor.  First, I don't think 
+
+that's actually correct.  Most plans that run the length 
+
+only do about a one year from ­­ from final denial. 
+
+ As Respondents themselves have ­­ have 
+
+explained, and we agree, courts across the board find 
+
+one year in almost every context to be reasonable.  And 
+
+so it would automatically be enforced. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+59
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14
+
+15
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ But the difference also is in the type of 
+
+reasonableness inquiry that a court would have to apply 
+
+in ­­ in the case that you're suggesting, which is not a 
+
+fact­specific inquiry based on how long the parties took 
+
+to pursue this internal process.  It's simply an 
+
+objective question.  Is the amount of time on the 
+
+limitations clock enough to allow a plaintiff to file 
+
+her claim in court? 
+
+ And one month ­­ excuse me. 
+
+One year from 
+
+final denial would absolutely be enough time, would 
+
+provide all parties under ERISA with the certainty that 
+
+they have to ­­ to file their claim. 
+
+ Thank you, Your Honor. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ The case is submitted. 
+
+ (Whereupon, at 12:03 p.m., the case in the 
+
+above­entitled matter was submitted.) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60 
+
+Alderson Reporting Company 
+
+Official 
+Official
+
+anders 1:18 2:6 
+
+asking 12:7 33:23 
+
+43:18 
+
+18:10,11,14 19:15 
+20:2,9 21:5 22:2 
+22:16 23:14 24:3 
+24:14,22 25:3,17 
+25:25 26:12 27:1 
+27:15,19,24 
+
+assert 43:14 
+assistant 1:18 
+associated 18:7 
+assume 10:8 
+assumed 8:22 
+answer 7:21,22 8:2  assure 51:23 
+
+11:1 13:19 19:2,3  attempts 56:16 
+attractive 49:25 
+19:13,13 23:8 
+32:3 34:25 35:14 
+authority 15:9 
+49:22,24 
+
+answers 7:18 45:3 
+
+59:19 
+
+23:15 24:11,15,15 
+24:16 25:4,11,19 
+25:22 26:9,13 
+43:20,22,24 59:9 
+
+authorized 25:2 
+
+ante 16:2,24 58:15 
+appeal 56:16 
+appeals 24:5 43:12  automatically 
+appearances 1:15 
+57:16 59:25 
+appears 36:6 40:10  average 45:11 
+applicable 31:17 
+
+avoid 17:14 20:19 
+
+32:21 34:3 37:11 
+37:20,21 38:15,16 
+41:1 42:12 50:9 
+52:2 55:21 
+
+adopt 24:12,12 
+
+43:22 
+
+advance 3:22 
+advances 13:6 
+advantage 6:8 
+adversarial 14:20 
+
+17:9,12 
+
+adversary 17:7 
+advice 17:23 
+advised 17:13 
+advocate 12:1 
+advocating 10:13 
+
+36:13 
+
+agency 24:21,23 
+25:3,14 52:9,10 
+
+agree 10:8 26:8 
+
+35:1 
+
+28:14 35:8 41:4 
+41:20 43:14 44:15  application 12:19 
+51:24 55:22 58:23 
+59:23 
+
+36:9 
+
+applied 30:11,20 
+applies 31:7 59:15 
+apply 10:19 30:10 
+
+27:7 
+
+avoiding 51:3 
+avoids 43:17 
+await 38:8 
+aware 15:13 
+
+agreedupon 28:16 
+agreement 41:8,10 
+al 1:7 
+alito 9:23 11:1,5 
+19:1 26:8 33:4 
+36:11 37:1,5 
+49:22 50:7 58:23 
+59:11 
+
+31:13 32:8,12 
+33:23 35:12 56:17  b 40:17 55:1 
+60:2 
+
+back 6:22 33:3 35:6 
+
+B 
+
+49:7 58:3,19 
+
+applying 32:14 
+approach 12:1 
+
+43:16 
+
+background 40:24  breeds 17:23 
+bad 21:16,16 54:2 
+badly 21:24 
+
+breyer 13:12,20 
+
+Page 61 
+
+behalf 1:16,23 2:4 
+2:11,14 3:8 28:9 
+56:23 
+
+behave 21:23,24 
+believe 30:9 
+benefit 8:19 9:9 
+18:5 40:5 49:5 
+58:6 
+
+benefits 3:14 8:7,11 
+
+8:15 10:6,10,11 
+14:17 28:14,14,18 
+39:14 47:8 48:19 
+51:25 52:22 
+
+best 35:25 36:1 
+
+46:1 48:2 
+
+better 42:17 46:15 
+
+46:21 47:6,9 
+55:16 
+
+beyond 25:1 43:13 
+big 21:17 
+bigger 57:7,10 
+bit 6:12 16:19,20 
+46:3 50:3 54:10 
+
+bizarre 27:2 
+blank 36:2 
+board 16:3 58:18 
+
+59:23 
+
+books 37:8 39:10 
+
+50:15 
+
+breach 9:2 
+
+14:3,10 18:2 
+27:11,17,21 29:1 
+29:24 30:4,14,25 
+35:13,24 45:2,5 
+45:11,16,20 50:16 
+50:19,23 51:11 
+53:21 55:22 56:1 
+56:5,11 
+
+A 
+
+abeyance 26:24 
+abides 17:5 
+ability 11:22 44:15 
+able 36:14 58:2,21 
+aboveentitled 1:12 
+
+60:17 
+
+absent 40:12 
+absolute 59:9 
+absolutely 13:4 
+
+14:15 60:10 
+accepted 5:14 
+accident 1:6 3:5 
+account 31:9 
+accounts 4:22 
+accrual 3:12 9:19 
+
+15:24 23:21 24:12 
+42:22 43:1 44:9 
+50:2,6,25 
+
+accrued 42:19 
+accrues 18:23 
+42:16 48:17 
+
+acknowledge 7:14 
+act 54:19 
+acted 11:20 
+action 17:14 18:1 
+18:23 36:4 40:17 
+42:16,19 43:2 
+44:2 45:13 
+actions 14:21 
+actual 49:9 
+adding 23:6 
+additional 6:24 
+
+43:12 
+
+address 15:17 
+addressed 36:9 
+addresses 15:16 
+adequate 31:20 
+
+allegation 55:20 
+allow 8:18 60:7 
+allows 14:21 34:19 
+amara 55:12 
+amend 36:14 
+amended 32:17 
+amends 44:18 
+administration 6:6  american 46:2 
+amicus 1:20 2:7 
+
+35:16 
+
+8:7,11 18:5 
+
+administrative 4:6 
+
+18:12 46:2 
+
+approaching 48:6 
+approximately 4:2  bar 55:19 
+based 43:14 60:4 
+area 45:7 
+basic 45:8 
+arent 17:17 25:18 
+basically 36:17 
+arguing 6:7 
+argument 1:13 2:2  basis 7:16 31:3 
+
+2:5,9,12 3:4,7 
+18:11 28:8 40:21 
+40:23 44:21 56:22  bears 53:16 
+57:13 
+
+36:7 40:12 44:2 
+53:17 
+
+4:15 6:5 12:17 
+15:6 17:6,17 
+21:19 23:7,12 
+26:20,22,24 31:16  anchor 40:12 53:17 
+
+amount 27:22 60:6  arises 46:5 
+amplifies 18:6 
+aside 43:24 53:10 
+analysis 33:4,11,23  asked 19:4 34:17 
+
+55:10 
+
+breyers 17:3 26:17 
+
+bedrock 18:17 26:5  brief 10:21 19:5 
+began 36:18 
+beginning 3:14 
+
+26:7 30:20 37:24 
+46:2 56:25 
+
+6:10 26:19 58:20  bring 14:12 24:1 
+
+begins 18:22 29:10 
+
+29:17 36:17 45:13 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Official 
+
+closed 37:8 
+coexisting 29:21 
+
+4:16 6:20 9:6,16 
+9:25 10:5 11:19 
+11:20 12:25 14:23  collateral 23:1 
+16:16 17:15 26:18  collect 46:3 
+37:7,8,8 38:25 
+44:11 46:14,19 
+47:8 48:16 50:10 
+58:22 60:8,12 
+
+come 6:22 17:25 
+
+29:22 49:21 53:13  consideration 13:3 
+55:14 
+
+Page 62 
+
+54:6,8,9,12 55:18 
+congresss 28:20,24 
+40:15 51:23 54:11 
+54:20 
+
+consider 55:13 
+
+considered 39:1 
+consistent 35:9 
+
+54:20 58:18 
+contains 8:21 
+content 39:11 
+context 33:18 38:1 
+
+55:18 59:24 
+
+contract 7:24 8:3 
+
+8:25 19:20 33:19 
+33:21 34:20 41:4 
+44:23 45:8 50:20 
+50:20 52:2,3,11 
+52:13,24 53:8 
+57:14,15 
+
+contracting 35:8 
+
+41:20 44:15 
+
+contracts 37:18 
+
+45:17,19,21 
+
+contractual 32:11 
+control 54:7 55:18 
+cooperative 56:7 
+core 5:2 8:5 12:21 
+correct 4:21 9:3,7 
+14:7 15:22 28:23 
+37:23 50:18 53:1 
+59:20 
+
+comes 11:13 59:16 
+commence 37:11 
+comment 44:4 
+common 35:7 43:4 
+
+49:6 55:15 
+
+commonly 37:25 
+
+38:1 
+
+compile 44:1 
+complaint 14:14 
+
+48:14 
+
+complete 3:24 
+
+18:24 26:25 28:4 
+38:24 
+
+completely 34:23 
+complicated 21:20 
+computerassisted 
+
+29:3 
+
+concede 34:24 
+conceivably 6:25 
+concepts 23:17 
+concern 46:17 
+concerns 39:16 
+conclude 27:13 
+conclusion 37:11 
+
+50:8 
+
+conduct 12:8,12 
+
+58:3 
+
+14:25 20:8 23:5 
+24:20 43:8 
+bunch 59:1 
+burden 53:16 
+business 12:7 16:13 
+
+44:17 46:23 51:19 
+bringing 16:7 
+54:24 55:12,12,13 
+broad 28:13 
+broader 40:7 
+57:8 60:3,15,16 
+brought 10:6 13:13  casebycase 7:16 
+cases 13:1 16:6,8 
+22:7,8,18,20,20 
+23:1 29:2,4,9,23 
+30:1 33:7 34:4 
+35:18 36:6,8 
+39:23 40:10,11 
+46:5,9 47:17 48:4 
+48:10 52:21 55:10 
+57:19 58:14 59:2 
+
+c 1:9,16,19,22 2:1 
+
+3:1 
+
+C 
+
+cant 15:7 24:25 
+
+categorical 36:7 
+
+25:17 29:17 41:24  catherine 1:22 2:10 
+50:21 
+
+28:8 
+
+claimant 6:19,23 
+
+16:9,15 21:10 
+27:9 33:25 38:6 
+38:18,24 48:6,8 
+48:12 
+
+claimants 11:21 
+14:8 27:4 33:14 
+48:4 58:15 
+
+claims 3:15,19 8:19 
+
+caused 12:1,8 
+causing 23:22 
+
+cause 18:23 36:4 
+40:17 42:16,19 
+43:1 51:9,12,14 
+
+9:2,10 11:16,22 
+13:8,10 14:18 
+15:16 17:10 19:24 
+20:8 24:16,19 
+25:7,10,12 26:2 
+26:11 40:2 47:14 
+47:18 50:14 
+
+carroll 1:22 2:10 
+28:7,8,10,19,23 
+29:18 30:3,7,19 
+31:6,18,24 32:9 
+32:16,24 33:3,22 
+34:5,7,22 35:5,24  center 8:9 57:25 
+36:21 37:3,6,22 
+certain 45:18,20 
+40:6 41:2,10,17 
+certainly 44:3 
+41:23 42:8,14,18 
+certainty 8:6 12:22  clash 53:19 
+43:9 44:6,12 45:1 
+class 19:23 
+45:9,14,18,24 
+clause 10:1 11:8 
+46:23 47:3,15 
+19:18,20 33:6 
+48:1,21 49:4,12 
+50:4,8,18,22 
+51:10,13 52:4,7 
+52:13,17,23 53:1 
+53:5,9,13 54:3,14  characterizes 38:21 
+54:17,25 55:7,9 
+chief 3:3,10 18:9,14 
+55:25 56:3,10,14 
+56:21 
+
+13:5 23:16,18 
+24:9 27:9 29:19 
+31:7 49:20 50:1 
+54:6,7 
+
+clauses 14:11 
+clean 16:1 
+clear 10:21 12:17 
+
+12:25 14:9 23:25 
+37:15 50:14 51:2 
+60:11 
+
+cetera 51:4 
+challenged 59:12 
+
+changing 41:14 
+
+59:13 
+
+28:6,10 32:1 
+39:24 46:7 47:1,5  clearer 40:23 
+47:21 48:11 53:12  clearly 33:5 55:19 
+54:22 55:4,8 
+56:20 57:1 60:14 
+
+clerks 29:3 
+client 17:13 
+clock 3:13,23 4:10 
+
+case 3:4,12 4:1,8,9 
+
+5:14,17 10:19 
+12:14,19 13:16,24 
+19:8 20:24 21:5 
+21:20 22:5,13 
+23:4,9 26:23 
+27:24 28:2 30:19 
+30:21,24 32:13 
+34:8,12 38:12 
+39:2 42:20,20 
+
+correctly 41:18 
+costs 18:6 
+couldnt 15:4 30:22 
+council 46:2 
+
+conflict 10:17 33:7 
+conflicted 11:10 
+conflicts 3:17 11:11  counsel 15:1 18:9 
+confused 5:24 
+
+23:3 24:2 28:6 
+46:24 48:5 56:20 
+60:14 
+
+17:24 
+
+confusing 5:3 
+
+choose 28:13 
+chose 26:1 
+circuit 6:15 59:2 
+circuits 11:25 
+circumstances 30:8 
+cited 30:19 
+claim 3:14,16 4:12 
+
+congress 8:10 9:8 
+
+4:23 5:10,21 6:14  confusion 17:23 
+6:16,25 9:14,20 
+11:17 13:7 15:25 
+16:13,23 38:7 
+58:21 60:7 
+close 50:15 
+
+count 50:2 
+country 16:3 
+18:19 19:11 23:19  couple 36:24 
+38:17 39:5,16,17 
+40:24 42:6,9,11 
+42:14 44:8,18,22 
+
+coupled 5:5,19 
+course 22:7 30:3 
+
+46:23 56:5 
+
+Alderson Reporting Company
+ 
+
+decision 4:16 18:25  different 8:3 15:21 
+
+defense 43:14 
+defer 39:8,10,12 
+defined 41:24 43:2  directly 3:17 14:25  drawn 42:21 48:25 
+
+doubt 56:3 
+drastically 18:4 
+
+Official 
+
+deviate 26:5 
+deviates 18:17 
+deviating 23:21 
+didnt 17:2 26:14 
+
+47:5 54:12 
+
+difference 60:1 
+
+41:9 44:16,20 
+49:13 59:2,12,13 
+59:13 
+
+differs 41:5 
+difficult 32:8,15 
+
+35:17 
+
+difficulties 12:2 
+dilatory 58:4 
+direction 34:16 
+
+dont 4:7 6:2,7 7:12 
+
+8:1 10:19 12:18 
+13:16,16,23 15:8 
+17:4,15 19:12 
+20:9 21:3 22:16 
+24:9 25:16 27:5 
+28:17 30:8 31:13 
+31:19 32:3,14 
+33:9 34:22 35:20 
+35:21,22 36:18 
+37:20 39:20 46:11 
+46:20 47:12 48:15 
+49:19 50:9 56:18 
+59:19 
+
+26:2 
+
+driven 59:7 
+due 5:7 6:17 28:15 
+
+disability 6:20,23 
+47:8,18 49:14,15 
+49:15,18,25 
+
+54:23 
+
+E 
+disadvantage 36:20  e 2:1 3:1,1 
+disagreement 6:12 
+discovery 42:4 
+discussed 38:11 
+displace 33:8 
+disrupt 21:24 
+disruption 12:2 
+distinction 53:11 
+division 24:4 
+doctrine 27:13,18 
+
+58:12,12 
+
+43:23 
+
+effective 44:9 
+
+early 46:21,24 
+
+easily 20:15 
+easy 20:19 47:15 
+effect 10:23 25:15 
+
+earlier 43:18 49:19  engaging 17:6,9 
+
+dates 5:19 
+days 29:7 
+deadline 38:23,23 
+
+court 1:1,13 3:11 
+3:16 5:13 6:16 
+7:21 8:2 9:17,21 
+11:19,22 13:8 
+48:8 49:17 
+14:22 15:18 17:4  dealing 54:8 
+17:9 18:15 19:18  decide 39:6 42:18 
+21:3 24:21 27:4 
+28:11 31:14 32:22 
+32:22 33:1,20 
+decisions 39:13 
+35:7,12,25 38:11 
+decline 57:18 
+39:1,19 41:3 
+42:16 44:17 51:16  defeat 40:18 
+51:22 54:7 55:2 
+55:11,13,16 56:17  defect 57:24 
+57:4 58:6,22,24 
+60:2,8 
+
+30:23 35:6 38:8 
+42:5 47:25 55:2 
+
+defeating 53:10 
+
+courts 3:20 6:13 
+
+delayed 58:5 
+
+7:14 8:8,12 12:4,6  defining 42:25 
+14:16,24 16:13,18  delay 4:23 
+18:2 24:4,9,10 
+25:16 27:12 30:10  demonstration 
+30:11 32:14 33:6 
+52:18,25 53:3,7 
+53:23 54:15,18 
+56:1 57:17,24 
+58:2,7,12,24 59:2 
+59:13,14,23 
+
+denial 3:14 4:9,11 
+4:13,21 5:22 9:9 
+10:6,9,11 13:7 
+16:1,13 58:17 
+59:21 60:10 
+
+40:24 
+
+denied 8:16 48:19 
+deny 47:14 
+departed 13:2 
+department 1:19 
+
+create 14:7 23:25 
+
+52:8 
+
+created 22:4 
+creating 19:11 
+
+25:23 
+
+creation 52:16,18 
+critically 13:10 
+curiae 1:20 2:7 
+
+18:12 
+
+D 
+
+d 1:9,16,18,19,22 
+
+2:6 3:1 18:11 
+
+22:6,14 23:10,14 
+24:5,11 25:11,19 
+25:24 31:9 43:9 
+43:21 44:1 45:23  doctrines 30:11 
+32:12,13 36:10 
+
+departments 25:25 
+
+27:20 29:14 30:15  effectiveness 25:7 
+30:20 50:16,17,24  effects 21:16 
+52:6 54:4 
+
+efficacy 25:10,12 
+
+efficiency 8:6 
+
+28:5 
+
+deprived 33:25 
+designed 3:18 
+
+documents 6:18,22  either 22:11 57:21 
+elimination 49:16 
+empirical 45:25 
+
+6:24 7:20 
+dodd 42:20 
+
+current 36:21 37:1  deprive 33:14 
+
+da 51:6,6,7 
+damages 28:5 
+date 5:15 6:8,14 7:7  determine 9:10 
+
+20:18 32:6 
+
+9:19 23:21 37:10 
+42:3 50:1 
+
+46:3 
+
+destroy 56:8 
+determination 
+
+22:17 23:25 58:8  doesnt 7:4,24 9:23 
+empirically 45:6 
+9:24 10:1 15:17 
+27:22 32:19 37:15  employees 12:22 
+44:20 48:12,13 
+53:4 54:2 
+doing 15:14 
+dols 43:19 
+
+determined 24:21 
+
+employers 28:13 
+
+employer 39:25 
+
+51:14 
+
+13:1 
+
+58:3 
+
+Alderson Reporting Company
+ 
+
+Page 63 
+
+36:12,20 39:12,18 
+51:23 56:6 
+
+enacted 18:19 
+
+23:19 44:8 
+
+enacting 28:25 
+enactment 43:5 
+
+51:16 
+
+encounter 56:4 
+ended 12:17 13:14 
+enforce 28:15 32:5 
+36:4 40:18 51:17 
+53:14 55:1 57:5 
+57:14,18 
+
+enforceability 8:14 
+
+12:5 
+
+enforceable 32:6 
+enforced 32:5 
+
+40:16 58:16 59:25 
+enforcement 57:11 
+enforces 51:22 
+enforcing 39:1 
+
+57:15,22 
+
+ensures 54:1 
+enter 39:13 
+entertain 56:16 
+entire 32:22 
+entitled 52:14 
+equipped 30:10 
+equitable 30:11,21 
+31:1,3,8,12 32:7 
+32:12 35:21 36:10 
+erisa 3:13 4:10 8:5 
+8:21,25 9:23 10:9 
+10:13 11:12 12:23 
+20:1,4 26:11 
+28:12,15 29:20,21 
+30:1 33:6,9 34:9 
+36:2,12 39:5,21 
+40:9,15,21 43:5 
+43:12 45:21 46:5 
+49:5 51:15,17,22 
+53:11 54:9,24 
+56:8 57:11 60:11 
+
+erisas 3:14,18 
+
+10:17 11:8 14:17 
+
+Official 
+
+18:17 24:20 25:14  forward 4:10 36:13 
+38:14 42:21 58:19 
+58:24 
+
+found 16:8 29:2,4,6 
+
+36:19 53:14 
+
+54:18,19 
+
+four 16:12 29:6 
+fouryear 30:22 
+framed 26:14 
+framework 18:19 
+
+fiddle 52:15 
+fiduciary 9:2 
+field 49:25 
+file 4:12 9:17,21 
+11:19,22 13:22 
+14:14 15:6 16:9 
+16:16 17:13 26:18 
+27:10,14,23 38:10  friend 30:13 34:17 
+38:25 58:22 60:7 
+60:12 
+
+full 33:13,24 
+fundamental 5:11 
+further 19:8 
+futility 56:17 
+future 14:6 38:23 
+
+G 
+
+34:9 48:13 53:18 
+
+20:25 37:7 
+
+filed 3:16 10:11 
+
+filing 7:19,20 14:21 
+26:22 36:15 48:8 
+final 4:5,9,11,13,15 
+
+18:18 20:4,20 
+43:5 51:16 57:12 
+
+especially 13:1 
+esq 1:16,18,22 2:3 
+
+2:6,10,13 
+
+essentially 10:4 
+
+27:4 38:18 
+
+established 18:21 
+
+27:25 
+
+establishes 20:4 
+estopped 15:20 
+
+57:21 
+
+estoppel 12:9,10 
+
+30:21 31:1,3,4,7 
+32:7 
+
+23:18 25:9 27:2,3 
+27:5,6,13,18,25 
+28:4 29:5,11,14 
+34:10 35:19 40:4 
+40:25 50:17,25 
+51:6 52:2,19,25 
+52:25 53:23 54:1 
+54:9,13,18 55:24 
+56:2,8,13,18 
+
+exist 14:23 15:17 
+exists 3:16 
+expect 9:8 45:1 
+expected 57:18 
+experience 29:20 
+
+explain 50:3 
+
+et 1:7 51:3 
+evaluate 7:15 16:14  explained 59:23 
+event 49:9,20 
+events 42:23 
+everybody 32:19 
+evidence 6:23 
+
+explanation 56:12 
+explicit 41:8,10,15 
+
+41:16 
+
+11:24 13:1,11 
+21:15 22:3 53:18 
+
+ex 16:2,24 58:15 
+exactly 8:12 16:1 
+28:19 49:12,12 
+
+example 12:6 22:5 
+
+41:6 55:11 
+
+examples 37:23 
+
+42:10 
+
+exams 22:10 
+exceeding 46:4,8 
+exceptions 23:7 
+
+52:18 53:2 56:17 
+excised 36:5 40:9 
+exclusive 33:9 
+excuse 60:9 
+executive 25:1 43:7 
+exhaust 46:6 
+exhausted 11:23 
+
+46:19 
+
+exhausting 13:15 
+exhaustion 5:5,19 
+
+expressed 41:25 
+extension 22:19 
+extratextual 53:6 
+
+F 
+
+fact 4:10,17 7:9,12 
+7:23 16:22 20:11 
+
+factbased 12:11 
+facts 30:21 31:7 
+
+32:12 
+
+factspecific 57:20 
+
+60:4 
+
+factual 44:1 
+fair 33:13,24 49:1 
+fairness 12:25 
+fall 11:7 19:18 33:5 
+familiar 38:14 
+far 10:25 33:2 
+43:19 45:25 
+
+fault 31:15 
+favor 15:2,20 27:6 
+favorable 10:25 
+
+20:13 
+
+11:15 13:13,23,24  federal 3:13,15 
+18:20,24 21:8,11 
+21:12 22:5,23 
+
+9:16 11:11 14:22 
+14:23 15:18 17:4 
+
+20:4,21,23 21:2,7  govern 8:24 39:11 
+26:15 29:21 35:10  governing 41:5 
+
+Page 64 
+
+32:4 33:3 35:6 
+36:13,19 39:25 
+40:1,4 41:8 42:1 
+44:24 46:21 47:6 
+47:13 48:7 49:6 
+50:10,11 54:13 
+55:16 58:19 
+good 29:3 53:2 
+
+government 15:4,8 
+grant 38:18 
+granted 47:18 
+
+48:21 
+
+greater 50:13 
+ground 14:11 
+group 49:4,4 
+guess 7:17 25:21 
+guidelines 22:14 
+
+4:20 5:21 6:6,8 
+13:7 15:25 16:12 
+18:25 20:17 30:22 
+58:17 59:21 60:10  generally 8:22 34:9  h 1:16 2:3,13 3:7 
+
+g 3:1 
+general 1:19 19:22 
+
+30:17 
+
+H 
+
+finality 23:11 
+find 19:1 58:21 
+
+59:23 
+
+finding 20:24 
+finds 57:19 
+finished 13:17 
+29:11 35:20 
+
+fire 38:3,4 49:7 
+first 6:17,18 7:7,19 
+
+11:9 22:2 57:4 
+59:19 
+
+five 16:12 29:4,22 
+
+36:8 39:23 
+
+flow 36:3 
+flowing 21:17 
+focus 25:25 26:1 
+follow 10:12 26:21 
+followed 38:16 
+
+49:16 
+
+follows 16:5 
+footnote 19:5 
+foreclose 44:22 
+
+37:18 43:20 
+
+56:22 
+
+getting 17:21 47:13  habeas 42:21 
+ginger 1:18 2:6 
+
+half 35:16 48:9 
+
+18:11 
+
+50:12 53:24 
+
+hand 17:5 46:18 
+handful 39:23 
+
+ginsburg 3:25 4:4 
+4:14,19,22 8:21 
+9:5 12:15 17:2,16  happen 4:25 10:3 
+22:12 24:3 26:16 
+37:17,22 44:6 
+give 15:5 16:14 
+
+38:5 40:11,11 
+59:6 
+
+happened 12:18 
+
+23:11 32:19 40:5 
+54:5 
+
+given 24:10 53:22 
+
+36:17 
+
+happens 13:12,13 
+
+26:18 
+
+hard 19:1 34:24 
+
+46:7 54:10 
+
+harder 34:8,12 
+hartford 1:6 3:4 
+hasnt 20:22 25:24 
+
+26:3 
+
+head 27:3 
+
+goals 8:5 13:6 
+goes 25:1 33:2 
+going 4:9 7:15 8:13  hear 3:3 13:16,24 
+13:14 15:10 17:25  heimeshoff 1:3 3:4 
+18:1 21:10,11,11 
+21:12 27:9 29:16  held 6:16 13:21 
+
+39:20 
+
+58:8 
+
+flexible 14:24 22:18  gives 7:3 28:12 
+go 19:8 24:10,10 
+47:19,22 52:10 
+goal 3:21 40:15 
+
+51:23 
+
+Alderson Reporting Company
+ 
+
+31:2 51:16 
+
+help 7:2,3 17:24,24 
+helps 50:13 
+heres 43:9 51:15 
+highly 30:7,9 
+hire 46:12,15 47:24 
+hiring 51:3 
+hoc 21:6 
+hold 26:23 
+honor 4:3,8,21 5:2 
+5:17 6:3 7:5 8:4 
+9:4,7 11:10 12:20 
+13:4 14:15 17:8 
+31:19 41:17 43:18 
+46:1 47:15 48:5 
+50:5 57:9,23 
+59:19 60:13 
+hopefully 51:5 
+host 12:4 57:20 
+
+58:14 
+
+hurt 36:12 
+hypothesize 11:6 
+
+I 
+
+id 46:15 
+idea 35:18,25 45:12 
+
+58:15 
+
+identical 40:23 
+identified 16:6 
+ignore 55:3,4 
+ignoring 40:13 
+ill 31:4 
+im 5:12,24 15:2,10 
+15:12 23:5 25:18 
+27:15 33:17 34:25 
+37:15 40:1,4 42:8 
+44:3 47:3,22 
+49:23 52:24 54:17 
+55:25 57:1 
+
+imagine 36:7 39:22 
+impediment 23:9 
+implausible 40:5 
+implied 33:7 
+impliedly 11:10 
+important 13:3 
+impose 48:22 
+
+impossible 3:21 
+incentives 21:16 
+incentivize 17:20 
+include 10:22 
+includes 9:19 
+inclusion 44:14 
+inconsistent 57:12 
+incorporated 41:1 
+incorrect 10:6 
+incredible 19:11 
+indeterminant 
+
+14:24 
+
+indeterminate 
+
+16:25 
+
+indicated 12:15 
+industry 49:2 51:12 
+inexpensive 47:11 
+
+47:16 
+
+informal 46:16 
+
+47:11 
+
+information 45:25 
+
+46:4 
+
+initially 50:10 
+initiate 44:4 
+injury 9:22 
+inquiry 12:10,11 
+
+12:11 60:2,4 
+
+instance 6:15 20:14 
+
+24:19 42:20 
+
+instances 25:14 
+
+52:9 
+
+instituted 4:24 6:1 
+insurance 1:7 3:5 
+
+10:2,6,14 11:7,15 
+20:8 28:12 36:24 
+37:18,25 38:4,21 
+39:8,11 43:4 
+45:19,21 49:2,7,8 
+49:25 
+
+insured 38:3 39:11 
+
+49:9,20 
+
+insureds 20:13 
+insurer 11:20 51:15 
+insurers 10:23 38:8 
+
+39:19 46:3 
+
+intended 8:10,18 
+
+Official 
+
+19:12 40:24 44:22 
+
+27:18,20 53:23 
+54:4 55:15 
+
+judicial 18:21 21:9 
+
+32:6 33:15 34:1 
+38:16 
+
+intent 54:20 
+interaction 31:10 
+interference 51:4 
+interim 49:18 
+internal 3:15,23 
+6:21 11:16 12:8 
+12:12 13:8 14:17 
+15:16 16:23 17:10  jurisdictional 
+18:5 24:19 31:10 
+35:19 47:18 52:20  justice 1:19 3:3,10 
+58:4 60:5 
+
+judicially 40:13 
+julie 1:3 
+jurisdiction 16:3 
+
+52:19 
+
+Page 65 
+
+K 
+
+kagan 16:4,17 
+
+21:15 25:21 32:16 
+33:1,17 34:2,6,18 
+35:2 52:23 53:3,6 
+53:21 54:8,15 
+
+keep 45:23 47:10 
+kennedy 11:24 
+
+12:14,24 19:22 
+20:6 49:1,10 
+55:13 
+
+internally 3:20 
+interpret 29:14 
+interpretation 
+44:13 54:19 
+
+interpretations 
+
+7:24 
+
+intertwined 25:6 
+intransigent 56:15 
+invalid 7:25 
+involve 18:2 
+involved 14:16 
+17:12,21 26:2 
+46:13,17 58:12,12 
+
+involvement 51:5 
+involves 3:12 
+irrelevant 5:13 
+irrespective 53:7 
+isnt 12:21 16:10 
+19:9 27:17,18 
+37:17,19 46:17 
+52:3,12 
+
+issue 10:5 46:5 
+
+56:19 
+
+iterative 22:6 
+ive 46:11 
+
+J 
+
+jettison 53:15 
+job 53:24 
+judge 13:15,15 
+
+27:19 29:9 
+
+judgecreated 50:17 
+
+50:24 52:5 
+
+judgemade 27:12 
+
+16:1 17:7 22:4 
+27:1 38:14 
+
+13:2 53:11 57:23 
+kind 9:6 12:10,10 
+
+kinds 10:24 18:1 
+know 3:22 4:11 6:5 
+
+6:5,7,9 7:17,21 
+8:1 10:19 12:6 
+13:19 15:8 16:19 
+19:4,24 21:5,11 
+21:16,21 22:9 
+23:16 24:1,19 
+25:13,16 27:5,9 
+28:2 29:2,25 
+33:17 34:10 37:7 
+37:12 43:19 44:17 
+44:19 45:6,6,22 
+46:15,20 47:6,9,9 
+48:13,14,15 50:1 
+50:9 52:10 54:9 
+knowing 19:3,13 
+
+3:25 4:4,14,19,22  kennedys 16:5 
+5:12,24 6:4 7:2,6  key 5:4,8 11:12 
+7:10,17 8:21 9:5 
+9:23 11:1,5,24 
+12:14,15,24 13:12 
+13:20 14:3,10 
+15:1,10,13,19 
+16:4,5,17 17:2,3 
+17:16 18:2,9,14 
+19:1,22 20:6,22 
+21:14,15 22:12 
+23:3 24:2,3,18,23 
+25:13,21 26:8,16 
+26:17 27:11,17,21 
+28:6,10,17,21,24 
+29:1,24 30:4,14 
+30:25 31:12,21 
+32:1,16 33:1,4,17 
+34:2,6,18 35:2,13 
+35:24 36:11 37:1 
+37:5,17,22 39:24 
+40:20 41:7,11,22 
+42:6,9,17 43:6 
+44:6,24 45:2,5,11  knows 16:24 
+45:16,20 46:7 
+47:1,5,21 48:11 
+49:1,10,22 50:7 
+50:16,19,23 51:11 
+52:1,5,8,14,23 
+53:3,6,12,21,21 
+54:8,15,22 55:4,8 
+55:22 56:1,5,11 
+56:20 57:1,8 
+58:23 59:11 60:14 
+
+labors 22:6 
+lack 20:7,10 
+lamantia 30:19 
+language 10:23 
+
+labor 22:14 23:14 
+24:6,11 25:11,24 
+31:9 43:10 45:23 
+
+L 
+
+20:12 57:19 
+
+languages 10:24 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+late 4:16 20:25 
+laughter 45:4 
+law 9:10,15,16 
+
+10:14 11:6,6,12 
+11:14 20:3 28:12 
+33:8 34:19,19 
+35:7 39:2 40:14 
+43:23 45:8 55:15 
+57:6 58:20 
+
+laws 10:2,19,22 
+
+19:16 20:11 34:13 
+lawsuit 13:22 14:13 
+
+27:14,23 29:17 
+
+lawyer 17:12 46:12 
+46:15,20 47:9,13 
+lawyers 3:20 14:16 
+
+14:19 17:20,25 
+19:24 46:13,17 
+47:24 51:3 58:11 
+
+lay 47:7 
+leads 22:25 
+leave 27:22 34:21 
+leaving 29:15 43:24 
+leeway 21:18 28:13 
+left 3:22,25 5:22 
+
+16:12 22:23 27:14 
+29:7 46:15 57:2 
+
+legal 7:18 39:21 
+
+48:13,17 
+
+legislate 42:7,10 
+legislature 26:9 
+legitimate 46:17 
+length 9:11 38:11 
+
+41:21,24 46:5 
+59:1,10,20 
+
+lengthen 41:12 
+lengthening 41:13 
+lengths 59:12 
+liberal 16:18 
+life 1:6 3:5 46:2 
+
+49:7 
+
+limit 44:15 
+limitation 4:5 
+
+32:10,10 37:10,13 
+38:1,17 39:3,6 
+41:4,21,23,24 
+
+Page 66 
+
+46:9 
+
+nonadversarial 
+
+14:19 17:11 58:8 
+nonarbitrary 44:2 
+norm 42:1 
+normal 54:12 
+normally 45:12 
+notice 13:9 42:4 
+
+43:13 
+
+13:15 
+
+59:11 
+
+42:20 43:1 50:6 
+
+lower 6:12 58:7 
+
+middle 5:22 8:12 
+
+lost 13:1 16:9 
+lot 30:1 36:22 
+
+38:3,7 40:3 42:3  mess 11:3 19:11 
+45:15 49:3,9,17  met 22:15 
+49:24 
+
+millions 14:18 
+minimum 40:22 
+
+limitations 3:23 
+6:14,25 8:14,22 
+8:23,25 9:1,14,19 
+9:24,25 10:9 12:9 
+13:7 15:25 18:16 
+18:17,21,22 20:16 
+22:21 23:2,20,23 
+23:23,24 25:5,6,8 
+44:4 57:6 
+26:5,11 28:3 29:6  m 1:14,22 2:10 3:2  model 36:1,23 37:1  novel 32:13 
+30:12 32:2 35:9 
+40:2,22 41:12,13  magnifies 18:6 
+41:14 42:11,15 
+43:15 44:8,14 
+45:7 46:10 48:16 
+48:22,24 49:3 
+51:1 53:25 58:21  mandatory 3:15 
+5:5,19 11:15,23 
+59:1,15 60:7 
+18:20 23:18 37:19 
+37:20 
+
+38:13,20,21,22 
+39:1,3 43:3 49:24 
+55:15 
+
+34:13 47:16 52:21  month 31:14 60:9 
+
+making 3:21 40:15  months 16:12 
+
+mainstream 22:7 
+majority 25:23 
+
+minutes 57:2 
+misspoke 34:24 
+
+moment 37:7 
+
+28:8 60:16 
+
+39:12 
+
+M 
+
+O 
+
+o 2:1 3:1 
+objective 60:6 
+obligation 48:22 
+obtain 33:15 
+
+20:17 22:24 23:6 
+29:8 32:18,20 
+33:19 34:2,4,6,20  obviously 24:9 
+34:21,21 35:3,15 
+35:16 38:2,6,7 
+46:15 50:11 59:5 
+
+occur 22:23 
+occurred 49:20 
+occurrence 49:10 
+
+limits 20:4 
+line 36:17 
+linedrawing 34:16  matter 1:12 5:25 
+7:7 24:6 48:25 
+60:17 
+
+litigation 18:6 23:1 
+
+34:17 
+
+number 3:19 39:8 
+
+mutual 52:22 
+
+49:11 
+
+51:6 
+
+47:20,23 
+
+matters 26:2 
+
+lobby 44:25 
+long 11:18 14:4 
+
+34:11 46:3 50:3 
+54:10 
+
+N 
+n 2:1,1 3:1 
+name 30:16 
+nature 8:16 51:4,5 
+
+october 1:10 
+offhand 24:25 
+oh 42:1 48:1 
+okay 35:5 
+older 49:7 
+ones 59:13 
+near 3:14 
+oneyear 4:5,10 
+necessarily 7:13,15  open 13:18,20 
+operation 36:8 
+opinion 51:1 
+opponent 35:13 
+
+little 5:24 16:19,20  matthew 1:16 2:3 
+2:13 3:7 56:22 
+maximize 3:19 
+mccutchen 55:12 
+mcmahon 39:2 
+26:13 32:20 35:7  mean 8:25 10:13 
+14:3,4,11 15:24 
+35:15 39:9 45:11 
+20:23,23 21:23 
+45:12 48:13 60:4 
+22:7 23:15 33:3 
+longer 29:5 
+34:2 35:6,14 
+longterm 49:13,15 
+38:13 43:17 45:20  need 4:12 7:10 17:1  opportunity 33:13 
+look 9:10,15 17:24 
+46:8 47:5 48:2,21 
+47:12 55:22 58:2 
+50:5 52:8 55:5 
+looked 45:25 58:7 
+looking 46:9 48:8  meaning 6:4 50:6 
+looks 58:9 
+looming 43:21 
+lose 5:16 17:14 
+loss 5:7,15,19,23 
+
+33:14,24,25 
+opposite 16:23 
+opposition 10:21 
+oral 1:12 2:2,5,9 
+3:7 18:11 28:8 
+
+needle 43:10 
+needs 16:15 
+never 6:4,5 14:23 
+
+22:9,10,10,19 
+46:19 47:19,22 
+
+meant 33:20 44:15 
+
+necessary 16:19 
+
+means 7:25 8:1 
+
+23:24 51:16 
+
+38:25 43:13 
+
+23:20 
+
+50:4 
+
+8:13 
+
+nevertheless 53:15 
+new 33:11 
+nine 29:2,16,23,25 
+
+30:2,16 31:21 
+36:8 39:23 44:25 
+
+order 48:3 
+ordinary 19:20 
+ought 39:6,7 54:7 
+outcomes 54:2 
+outset 5:20 12:15 
+
+16:2 37:7,12 
+
+6:7,9,13,16,17 7:1  measure 6:13 
+7:13 10:7,10,24  medical 22:10 
+11:18 20:17 23:4  menu 42:22 
+36:18 37:2,3,9,19  mere 7:23 
+
+Alderson Reporting Company
+ 
+
+overarching 28:25 
+overridden 54:24 
+
+48:19 49:18 50:6 
+59:10 
+
+periods 42:15 
+48:24 49:16 
+
+permit 26:4 
+person 47:7 
+petitioner 1:4,17 
+
+Official 
+
+preserves 13:10 
+
+26:19 27:3,6 
+30:22 35:23 40:7  pretty 16:18 
+41:25 43:3 47:22  prevent 16:6 
+48:6 49:19,21 
+57:7,10 
+
+primary 39:17 
+principle 18:22 
+
+points 56:25 
+35:8 40:25 41:3 
+policing 8:13 57:25  principles 18:18 
+
+55:5 57:6 
+
+override 57:17 
+overrides 58:14 
+overturn 55:23 
+
+56:1 
+
+P 
+p 3:1 60:16 
+page 2:2 46:1 
+pages 37:24 
+pardon 47:4 
+particular 20:24 
+
+26:10 32:13 42:23 
+43:3 44:14 
+
+particularly 32:15 
+
+40:16 
+
+parties 8:19,24 
+
+12:7 13:9 16:25 
+23:25 35:8 41:4 
+41:19,20 42:25 
+44:15,23 60:4,11 
+
+party 53:13 
+pass 15:4 23:12 
+
+26:9 
+
+passed 54:9 
+passing 15:20 
+people 14:5 15:5 
+
+17:16 21:23 29:17 
+29:25 30:2,16 
+31:21,22 32:20 
+44:25 45:12 46:9 
+47:24 48:17 55:10 
+
+percent 47:17 
+perfectly 31:20 
+period 9:11,12 
+
+1:21 2:4,8,14 3:8  policy 20:8 34:15 
+18:13 20:23 21:6 
+36:13 46:24 53:16  posing 48:6 
+56:23 
+
+position 8:24 17:22 
+
+38:4 
+
+petitioners 36:3 
+phrased 56:12 
+place 8:12 13:23 
+
+45:22 50:25 
+
+26:4,6,16 32:9 
+43:6 44:7 
+
+possibility 13:10 
+
+14:21 16:10 17:14 
+36:7 
+
+14:22 50:14 53:19 
+
+post 21:6 
+
+placed 8:8 
+plain 57:18 
+plaintiff 22:23 60:7  potential 7:11 
+plaintiffs 48:23 
+plan 3:13 4:18 6:18  potentially 39:22 
+6:19,21 10:5 
+practically 33:14 
+11:14 12:23 18:17  practice 22:12,13 
+18:24 20:3,5,14 
+20:15,19 28:15 
+36:3,4,5,6,14 
+39:21,25 40:5,14 
+40:18,18 43:12,13  precluded 21:4 
+44:10 49:14 51:14  predictability 8:6 
+51:15,17,24 53:11 
+53:15,15 54:5,6 
+54:24 55:1,3,5,18  preempted 10:13 
+55:19,23,23 56:2 
+56:2,4,15 57:5,21  preempting 43:23 
+preemption 19:3 
+58:13 
+
+38:21 43:4 
+precise 22:16 
+precisely 22:18 
+
+preempt 10:1 
+
+30:17 31:10 
+
+19:7,17,23 
+
+12:22 
+
+plans 4:10 12:12,23 
+
+19:20 33:4,7 
+
+15:3 19:16 20:12  preferable 37:5 
+20:17 26:4 36:12  prejudice 57:6 
+39:12 40:9,9,16 
+43:5 44:18 49:5 
+51:22 54:24 56:8  premise 41:19 
+58:2,3,15 59:9,20  prepare 31:13 
+
+prelegal 51:5 
+prelitigation 38:24 
+
+prescribe 25:2 43:7 
+prescribed 25:15 
+present 38:6 56:19 
+presented 19:2,9 
+
+19:10 50:10 
+
+11:18 12:16 18:22 
+20:16 22:21 29:5 
+29:22 32:2,19 
+33:15 35:10 36:15 
+36:16,18 37:10,13  play 54:10 
+38:2,9,17 39:4,6 
+41:5,12,13,14,21 
+41:23,24 42:2,11 
+42:21 43:1 46:20  point 11:12 18:5 
+
+28:11 52:23 
+plenty 55:10 
+
+please 3:10 18:15 
+
+Page 67 
+
+51:6 58:1,4,6,11 
+60:5 
+
+processes 14:18 
+processing 12:25 
+produce 54:2 
+products 49:7 
+promptly 31:16 
+proof 5:7,15,18,23 
+6:7,8,13,16,17,25 
+7:13 10:7,10,24 
+11:17 20:17 23:4 
+26:18,18 36:18 
+37:2,3,9,19 38:6 
+40:3 42:3 44:11 
+45:14 49:3,8,17 
+49:24 
+
+19:21 26:5 
+
+private 8:17 14:17 
+
+14:20,25 17:10 
+18:3 57:25 58:6,9 
+
+privately 8:19 
+probably 31:23 
+43:16,17 47:23 
+48:9,12 
+
+problem 5:11,18 
+
+12:21 13:25 14:4  properly 8:16 
+14:5 16:10,11,21 
+20:15,20 21:7 
+27:8 28:2 29:1,10  protective 14:14,21 
+29:13,16 30:5 
+48:15 
+
+protect 25:11 48:23 
+protecting 14:8 
+
+17:13 27:10 
+
+problems 5:2 22:4 
+
+25:23 32:3 
+
+procedure 21:8 
+
+25:7,10,12 46:14 
+procedures 24:17 
+proceed 8:11 38:19 
+proceeding 17:6 
+proceedings 31:16 
+process 3:15,23 
+5:23 6:6,10,22 
+8:10,11,17 11:16 
+11:23 12:8,12,17 
+13:9 14:16,17,20 
+14:24,25 15:6,17 
+16:23,25 17:7,10 
+17:10,17,25 18:3 
+21:12,19 22:6 
+23:7,12 24:16 
+26:3,20,22,24 
+27:2,5,22 28:4,5 
+31:11 32:21 34:3 
+36:16 37:12 41:1 
+42:12 46:13,25 
+47:11,16,19 50:9 
+
+provide 7:21 8:6 
+20:12 28:14,17 
+33:12 35:10 44:2 
+51:25 60:11 
+
+provided 37:23 
+provides 6:19,24 
+8:2 13:9 37:14 
+43:12 44:10 50:1 
+53:8 
+
+providing 14:9 
+
+39:14 
+
+provision 3:12,17 
+3:21 4:8,17 5:3 
+7:25 8:14 9:19 
+10:20 11:13 12:9 
+13:6 17:20,23 
+18:16 19:17 23:4 
+23:23 25:9 32:10 
+32:10 33:5,10,12 
+34:15,20 35:9 
+36:5,22 37:14,15 
+40:8 42:25 44:10 
+44:18 45:15,16 
+57:12,14,16,19,20 
+57:24 58:16 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+provisions 5:4 7:16  reason 15:3 30:9 
+
+remedial 3:18 
+
+31:19 47:20 49:13 
+51:2,2,3,8 53:2 
+
+reasonable 9:8 
+
+10:18 18:19,19 
+20:4,21 26:6,15 
+29:21 33:9 53:19 
+57:12 
+
+10:20 11:14 12:1 
+13:5 18:16 28:9 
+57:13 59:22 
+response 17:3 
+rest 18:8 
+
+12:13 22:25 27:22 
+33:13,24 59:14,24  remedies 40:4 52:2  results 22:10 
+
+7:23 11:13 12:5 
+23:17,24,24 25:18 
+29:20 31:8 34:9 
+37:25 39:9 43:11 
+57:7,10 
+
+prudent 47:2 
+purports 33:8 
+purposes 19:25 
+20:3 28:20,25 
+37:9 50:13 
+pursue 60:5 
+pursued 31:15 
+pushing 32:1 
+put 40:1 53:25 
+
+54:15 
+
+puts 57:24 
+
+Q 
+
+quarter 48:3 
+question 5:23 8:15 
+
+reasonableness 
+
+57:17 59:17 60:2 
+
+remedy 20:15 
+rendered 18:24 
+
+rebuttal 2:12 56:22  reply 30:20 
+recall 29:22 
+recognized 35:7 
+
+reports 22:11 
+represented 17:17 
+
+41:3 
+
+recommend 36:22 
+record 44:1 
+red 37:24 
+refer 19:4 46:1 
+reference 41:25 
+
+43:1,2 
+
+referred 19:6 30:13 
+
+33:4 
+
+48:4 
+
+require 11:15 
+
+19:16 20:12 27:4 
+29:14 34:14 41:7 
+41:15 50:23 
+
+21:9 23:5 28:1 
+46:6 52:2,25 53:3 
+53:10 
+
+requirement 5:6,20 
+
+required 7:20 21:8 
+
+41:3 
+
+Page 68 
+
+run 18:22 25:9 
+
+29:10 35:18 37:13 
+38:2 40:3 42:15 
+46:21 47:6 49:3,8 
+49:19 59:20 
+
+running 3:13 4:5 
+4:11,23 9:12,14 
+9:20 11:17 13:7 
+15:25 16:23 25:15 
+28:3 46:10 48:20 
+58:17 
+
+review 4:6 18:21 
+21:9,19 26:20 
+31:11 32:21 33:13 
+33:15,24 34:1,3 
+36:16 37:21 38:16 
+38:16 47:19 52:20  runs 20:16 23:21 
+25:6 40:2 48:16 
+50:6 58:21 
+
+revision 58:13 
+rewriting 40:13 
+rid 34:19 
+riddlesbarger 35:6 
+
+rush 27:4 
+
+S 
+
+s 2:1 3:1 57:11 
+saving 33:6 
+
+right 6:3,11 8:1 9:2 
+15:24 16:9 17:18 
+17:19 19:16 23:16  savings 10:1 11:8 
+25:17 31:24 41:22 
+44:4,23 45:8,9 
+47:7 48:1 50:7,7 
+51:6 56:10 57:24 
+
+19:18,19 
+saw 30:15 
+saying 15:4 16:18 
+
+20:16 23:10 24:23 
+27:11,12 29:10 
+35:14 37:16 42:11 
+46:11 
+
+rights 12:23 14:8 
+
+15:17 36:3 48:18 
+
+says 10:1,4,5,5 
+
+ripe 9:17 
+roberts 3:3 18:9 
+28:6 32:1 39:24 
+46:7 47:1,5,21 
+48:11 53:12 54:22  scalia 7:17 20:22 
+55:4,8 56:20 57:1 
+60:14 
+
+33:21 39:2 59:2,4 
+59:5 
+
+21:14 24:2,18,23 
+25:13 28:17,21,24 
+31:12,21 43:6 
+44:24 52:1,5,8,14 
+
+roughly 45:6 
+routes 30:15 
+rule 4:15 5:25 
+
+scenario 40:5 
+
+26:6 27:2 33:9 
+38:11,15 41:5 
+52:21 53:20 57:11 
+
+10:12 11:25 12:19  scheme 21:25 22:4 
+15:1,19,24 16:1 
+23:9,20 24:13 
+25:23 27:15 34:18 
+34:19 36:12 39:19  search 16:20 
+second 7:20 
+44:9,20,23 45:8 
+section 40:17 55:1 
+48:18 50:2,6 
+see 12:18 15:3 
+53:23 55:16 57:6 
+58:17,18 
+
+16:11 17:4 23:9 
+31:19 36:23 38:1 
+
+rulemaking 44:5 
+
+reflected 26:7 
+refuse 56:15 
+refused 57:5 
+
+regardless 11:19 
+
+7:1 52:25 53:7 
+54:1,10,13,18 
+56:13 
+
+9:14,16 11:2 
+13:19,20 15:11 
+16:5 17:3 19:2,3,8  reg 29:13 
+19:9,13,14 22:24 
+23:8 24:4,5 25:21  regime 39:21 55:21 
+29:24 30:5,14 
+34:25 35:24 36:2 
+41:18 43:18,21,25  regulate 10:2 24:16  requiring 15:21 
+44:13 45:3,5 48:5 
+49:23 54:4 59:16 
+60:6 
+
+research 29:3 
+reserve 18:8 
+reserving 37:9 
+
+requires 18:20 
+48:17 50:25 
+
+regulated 10:14 
+
+regimes 11:15 
+
+requirements 
+
+52:10 
+
+58:19 
+
+26:7 
+
+questions 5:4,9 
+
+7:18 12:4 34:17 
+43:24 57:20 
+quite 5:6 6:12 
+
+36:19 
+
+R 
+
+r 3:1 
+raise 40:8 
+rarity 46:4,8 
+read 54:11,11 
+ready 48:14 
+really 6:5 19:12 
+
+33:19 44:19 
+
+20:3 26:1,3 
+regulates 11:7 
+regulation 15:4,21 
+
+23:13 24:6,12 
+43:22 
+
+regulations 15:15 
+
+50:13 
+
+reset 6:25 
+resolution 5:14 
+
+46:16 47:11,11 
+58:6 
+
+22:7,17 28:1 31:9  resolve 8:19 12:5 
+43:11 
+
+24:6 
+
+regulators 39:9,11 
+regulatory 43:20 
+relatively 46:24 
+rely 16:2 
+remain 23:7 
+remaining 21:13 
+remains 5:9 
+
+resolved 3:19 22:8 
+
+27:6 
+
+resolves 52:21 
+respect 17:8 
+respected 51:25 
+respondents 1:23 
+2:11 3:20 7:14 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+57:6 59:15 
+stated 58:19 
+statement 41:16 
+states 1:1,13,20 2:7 
+18:12 34:14 37:20 
+
+struggling 12:4 
+stuff 35:22 
+subject 7:24 19:20 
+28:12 32:11 49:5 
+57:16 58:13 
+submit 57:23 
+submitted 60:15,17 
+statute 8:5,22,23,25  subsequently 38:5 
+
+statistics 22:17 
+
+45:23 
+
+46:11 52:3 
+
+substitute 20:12 
+successful 52:20 
+sudden 58:5 
+suddenly 46:16 
+sue 22:24 24:24,24 
+
+9:1,24,25 10:4,9 
+19:6,25 21:18 
+23:2,16,19,19,21 
+24:9 25:5,5,15 
+26:4,9,10,13 
+27:25 28:1,3,25 
+29:6,10 32:2,23 
+32:25 33:18 40:2 
+40:13,22 42:21 
+43:15 44:8,14,19 
+44:22 46:10 48:16 
+49:3 51:1 53:4,17 
+53:25 54:21 58:25  suit 4:24 13:13 16:7 
+59:15 
+
+suggest 30:5 34:9 
+suggested 18:2 
+
+suggestion 26:17 
+
+suggesting 53:22 
+
+34:23 
+
+60:3 
+
+statutes 19:19,23 
+
+30:12 32:17 45:7 
+48:22 
+
+statutory 21:25 
+
+32:11 35:10 43:22 
+44:13 54:19 58:19 
+
+stay 14:22 21:25 
+stays 17:4,5 
+step 11:9 38:17,19 
+
+steps 38:15,24 
+
+48:23 
+
+stop 15:14 
+stops 14:10 
+straightforward 
+
+8:9 
+
+strategic 18:1 
+streamlined 8:10 
+stress 10:18 
+strike 32:22,24,24 
+strong 44:21 
+structure 3:18 
+
+16:10 21:4 23:5 
+24:1,20 26:19,23 
+27:10 28:14 31:14 
+35:11 36:3,15 
+38:10 40:17 43:7 
+48:8 51:17 54:25 
+55:19 
+
+suits 27:7 
+supplement 33:8 
+supplemental 7:19 
+support 31:7 
+supporting 1:20 
+
+2:8 6:19,23 18:13 
+suppose 29:1 30:25 
+
+52:16 56:14 
+
+supposed 8:17,18 
+
+17:11 
+
+supreme 1:1,13 
+sure 15:12 25:18 
+
+34:25 40:15 44:3 
+47:3 49:14,23 
+54:17 
+
+suspect 46:8 
+
+Page 69 
+
+T 
+
+t 2:1,1 
+take 7:4 16:19 17:1 
+18:1 33:18 34:10 
+48:14,23 50:5,25 
+taken 13:23 22:22 
+takes 21:19 22:22 
+
+34:3 
+
+talking 47:22 
+tamper 57:11 
+tectonic 40:14 
+tell 25:17 40:3 47:9 
+
+47:12,13 52:23 
+term 36:2 39:21 
+
+49:6 53:10 55:1 
+55:23,23 56:2,2,4 
+57:5 
+
+termination 17:5 
+terms 28:13,16,22 
+30:17 36:5 39:13 
+40:7,14,15,18,19 
+51:17,17,24 53:16 
+54:5,6,24 55:3,6 
+55:18,19 56:12 
+58:13 
+
+test 22:10 
+thank 3:9 18:9 28:6 
+28:10 56:20,21,24 
+57:3 60:13,14 
+
+thats 4:21 5:18 6:3 
+7:5 8:2 9:3,3,7,13 
+9:13 13:2,16 
+15:23 17:19 19:15 
+19:16 22:25 24:18 
+24:18 28:23 31:24 
+32:4 33:2,19 
+34:15,20 35:5,11 
+35:22 36:23 37:22 
+38:17,20,25 40:5 
+42:17,19 43:13 
+45:9 46:6 47:21 
+48:1,7,19 49:16 
+50:10 53:1,1,5,9 
+53:11 56:12 59:3 
+59:20 
+
+thered 20:9 
+
+46:8 59:10 
+
+seek 28:15 33:25 
+seeks 36:4 
+seen 12:3 
+sense 11:6 44:20 
+
+48:2 50:13 
+series 42:23 
+serves 16:6 
+set 6:18 9:24 22:14 
+
+34:20 
+sets 21:8 
+setting 20:21 26:10 
+
+53:10 
+
+seven 31:21 
+seventh 6:15 
+shes 21:11,12 
+shift 40:14 51:21 
+short 35:11,16 
+shorten 36:16 
+
+41:11 
+
+shortening 41:13 
+shortest 59:3 
+show 37:24 
+side 22:11,19 
+sides 52:22 
+significant 51:21 
+silence 54:11 
+similar 10:24 
+simple 36:1 48:18 
+
+51:5 
+
+simpler 35:14,18 
+simply 17:4 38:9 
+
+50:12 53:18 55:2 
+55:4 60:5 
+
+situation 10:3 11:2 
+14:6 44:16 55:17 
+56:16 59:16 
+situations 22:9 
+29:19 30:8,12 
+55:14 
+
+slate 36:2 
+solicitor 1:18 
+solution 16:20 
+
+31:20 
+
+solve 13:25 14:3,5 
+solving 29:12,15 
+
+somebody 16:7 
+
+47:6,12 
+
+sooner 46:21 
+sorry 5:12 15:2 
+
+27:15 33:17 42:8 
+55:25 57:1 
+
+sort 19:17 43:16 
+53:22,24 55:15 
+
+sotomayor 5:12,24 
+6:4 7:2,6,10 15:1 
+15:10,13,19 23:3 
+40:20 41:7,11,22 
+42:6,9,17 57:8 
+speaking 39:16 
+specific 26:10 
+
+30:15 
+
+specifically 9:24 
+specified 10:15 
+specify 58:25 59:10 
+
+59:11 
+
+speculate 15:7 
+51:19 53:18 
+
+speculation 40:10 
+sponsor 51:14 
+sponsors 51:24 
+squarely 19:9 
+stake 9:13 
+standard 45:15,16 
+
+49:6 
+
+start 32:2 41:8,14 
+
+45:22 
+
+49:22 
+
+starting 41:25 
+starts 3:13 6:16 
+
+7:13 9:12,14,20 
+11:17 15:25 25:9 
+28:3 40:25 42:11 
+48:19 
+
+state 8:23,24 9:10 
+
+9:15 10:2,4,14,19 
+10:22 11:12,14 
+19:6,16 20:3,7,11 
+26:9 28:12 32:17 
+32:24 33:8 39:8 
+39:10 43:23 45:8 
+
+started 5:10,15 
+
+39:5 
+
+10:18 11:11 18:20  sustained 49:18 
+23:22 57:13 
+
+system 48:13 56:7 
+
+Alderson Reporting Company
+ 
+
+Page 70 
+
+51:2 
+
+washington 1:9,16 
+
+united 1:1,13,20 
+
+1:19,22 
+
+2:7 18:12 
+
+way 8:10 10:14 
+
+unnecessary 27:7 
+unreasonable 33:2 
+
+35:3 57:21 58:4 
+
+unreasonably 
+
+35:11 58:5 
+
+unresolved 5:9 
+unum 57:4,9 
+unusual 30:7,10 
+upholds 44:18 
+use 10:23 31:1,3,5 
+usually 34:10 40:11 
+
+42:18 
+
+V 
+
+v 1:5 3:4 57:4,9 
+valid 14:12,12 
+
+19:25 20:2 
+various 7:24 
+vast 34:13 47:16 
+
+52:21 
+
+17:6 18:18 20:19 
+23:23 24:6,10,11 
+26:14 29:13,15 
+31:23 38:22 39:3 
+42:7,10 48:18 
+54:5,12 
+
+ways 21:24 29:12 
+went 4:24 
+wessler 1:16 2:3,13 
+
+3:6,7,9 4:2,7,17 
+4:20 5:1,17 6:2,11 
+7:5,9,12 8:4 9:3,7 
+10:16 11:4,9 12:3 
+12:20 13:4,18 
+14:1,7,15 15:7,12 
+15:15,23 16:4,8 
+16:22 17:3,8,19 
+19:4 56:22,24 
+57:3,9 59:8,18 
+
+weve 37:23 
+whats 9:13 29:15 
+33:20 34:18,19 
+59:14 
+
+vehicle 14:8 
+versus 39:3 
+vigorously 31:16 
+visited 39:18 
+whichever 20:18 
+voluntary 39:14,15  whos 47:7 48:6,8 
+
+43:12 51:4 
+
+W 
+
+w 1:16 2:3,13 3:7 
+
+56:22 
+
+wait 11:18 46:18 
+
+wide 45:25 
+widely 43:5 
+window 51:18 
+witnesses 13:2 
+wolfe 35:7 38:12 
+
+Official 
+
+18:18 
+
+type 9:25 19:5 
+
+37:15 38:25 49:5 
+60:1 
+
+types 45:18,21 
+typical 36:23 45:7 
+45:15 46:5 47:7 
+48:10 49:2 
+
+typically 42:14 
+
+U 
+
+ultimately 58:24 
+
+59:6 
+
+unaccustomed 
+
+32:14 
+
+uncertain 5:6 17:21 
+uncertainty 39:16 
+
+39:17 40:7 
+
+unclear 5:3,20 
+undermine 21:2 
+23:22 26:6,14 
+51:23 
+
+undermined 20:22 
+undermines 3:21 
+
+8:10 18:4,18 
+25:10 
+
+undermining 8:16 
+
+20:20 
+
+understand 17:2 
+19:7,12 20:24 
+36:19 44:7 49:23 
+54:22,23 
+
+understanding 
+
+theres 5:11,11 6:11 
+
+7:20 9:21 21:17 
+21:21 22:4,24 
+39:2,24,25 46:14 
+48:3 55:20 59:14 
+
+theyre 5:5 8:13 
+
+three 4:9 6:9 7:6,8 
+7:13 10:7 13:22 
+14:13 16:12 30:15 
+35:19 37:9 
+thrown 51:18 
+thrust 33:6 
+
+44:24 46:10 59:12  ticking 5:10 6:17 
+
+thing 31:5 42:24 
+
+46:12 56:8 
+
+things 16:15 32:7 
+
+38:7 
+
+time 3:22,25 4:12 
+
+31:13 35:21 
+
+5:21 6:17 7:3,4,10 
+16:14,19 17:1,22 
+18:8 21:1,3,12 
+26:1,21 27:13,14 
+27:23 29:10,22 
+31:13 35:11,17,19 
+38:3,3,18 41:14 
+42:15 43:3 46:6 
+50:9 59:1 60:6,10 
+
+timing 50:14 
+today 40:23 
+tolling 21:21 31:8 
+
+36:24 43:11 58:10 
+think 4:7 5:1,10 6:2 
+9:8 10:16 11:1,10 
+11:13 12:3,16,20 
+13:18 14:1,2 
+15:23,24,24 16:5 
+16:22 17:19 19:10 
+19:15,15,16 20:9 
+21:24 22:2 23:14 
+timeframe 23:6 
+23:15,18 24:14,25  timeliness 43:15 
+24:25 25:3,4,8,19 
+25:22,22 26:7,12 
+26:12 27:1,8,20 
+27:24 28:2,2 
+29:12,18 30:10,13  tomorrow 32:18 
+31:4,18,24,25 
+traditional 23:20 
+32:14,17 33:5,10 
+33:22,22 34:7,8,8 
+34:15,24,25 35:5 
+35:12 36:21 38:14  triggers 6:14 
+40:6 41:18,19 
+42:6,9 43:15,17 
+43:19,20,25 44:12  troubled 23:4 
+44:16,19,21 45:9 
+47:17,20,23 48:1 
+48:2,5 50:4 52:19 
+52:20 53:16,21 
+54:3,5,12,18 
+56:18 57:7 59:8,8 
+59:18,18,19 
+thinking 35:2 
+thinks 24:8 
+third 48:4 
+thought 5:12 39:6,7 
+
+trigger 26:17 37:19 
+
+trouble 51:8,11,13 
+
+36:9 37:25 
+
+51:14 
+
+44:10 
+
+23:19 39:12 48:9 
+59:18 
+
+52:1 
+
+threaded 43:10 
+
+twotiered 3:18 
+
+41:18 
+
+41:4 
+
+39:15 
+
+wondering 48:7 
+
+underway 26:21 
+
+true 5:18 7:5 11:21 
+37:17 42:24 48:24  undertaking 39:14  waited 14:4 
+waiting 11:18 38:9  wont 32:5,5 37:12 
+53:5,9 
+waived 57:22 
+try 44:5 
+waiver 12:9 
+trying 53:14 56:6,7  unduly 12:12 
+want 13:16 16:25 
+unenforceable 
+tuesday 1:10 
+17:23 19:7 29:25 
+turn 27:2 
+31:6 34:22 39:8 
+turning 14:19 
+39:10,12,13,20 
+workable 52:21 
+turns 32:4 58:9,11 
+44:20 46:13 53:15  works 38:22 47:16 
+two 16:12 20:21 
+wanted 34:23 55:18  worried 39:17 
+
+wording 36:22 
+words 18:23 49:2 
+work 17:1 23:23 
+37:25 39:7 54:1 
+56:7 
+
+unfairness 12:2,18 
+
+unfair 27:21 39:23 
+
+51:19 54:2 
+
+39:22 
+
+12:21 
+
+uniform 16:1 20:19  wanting 51:23 
+uniformity 20:7,10  ward 57:4,9 
+
+worry 32:3 35:15 
+35:17,20,21,22 
+
+Alderson Reporting Company
+ 
+
+Page 71 
+
+Official 
+
+56 2:14 
+
+6 
+
+6 20:17 24:24 50:11 
+60day 11:18 
+
+7 35:16 
+
+80 47:17 
+
+7 
+
+8 
+
+9 
+
+9 47:8,23 59:5 
+
+47:12 48:17 51:18 
+
+wouldbe 48:23 
+wouldnt 11:7 14:3 
+
+000 47:8 
+02 1:14 3:2 
+03 60:16 
+
+19:7 31:12,17 
+36:13 45:1,22 
+59:6 
+
+wow 8:2 
+writes 38:17 42:15 
+writing 36:1 
+written 22:10 39:4 
+
+40:16 
+
+wrong 14:13 30:23 
+
+52:24 
+
+x 1:2,8 
+
+X 
+
+Y 
+
+year 4:3,9,12,15,20 
+
+4:24 12:16 13:7 
+14:18 15:5 20:23 
+21:2,6,19,22,22 
+22:8 23:5,11 
+24:24 29:15 34:11 
+34:11 35:16 42:13 
+48:9 50:11,12 
+59:4,21,24 60:9 
+years 6:9 7:7,8,13 
+10:7 13:22 14:13 
+20:16 21:18 22:5 
+22:22,22 23:2 
+24:24 26:23,23 
+29:20 31:22 32:18 
+35:19 37:9 42:2,3 
+42:3,4,4,13 45:14 
+48:9 59:3 
+
+youd 46:21 47:6 
+youll 17:22 
+youre 5:22 6:7 8:16 
+
+10:13 32:1 60:3 
+youve 15:4 23:10 
+24:23,24 46:16 
+49:20 
+
+Z 
+
+0 
+
+1 
+
+1 22:22 23:2 24:24 
+40:17 42:13 55:1 
+
+10 46:14 
+11 1:14 3:2 
+1132 21:9 55:1 
+1133 21:8 
+12 32:20 34:4 38:2 
+
+38:6,7 60:16 
+12729 1:4 3:4 
+13 32:20 
+14 34:20 35:3,15 
+15 1:10 23:6 34:21 
+16 34:21 
+18 2:8 32:18 33:19 
+
+34:2,3,6 
+
+18month 32:19 
+
+2 
+
+2 22:22,22 23:2 
+
+59:2 
+
+20 37:24 
+2000 26:1 
+2013 1:10 
+21 37:24 
+28 2:11 
+29 46:1 
+
+3 
+
+3 2:4 20:16 21:18 
+
+22:21 32:18 42:2 
+42:3,3,4,4,12 
+45:14 
+
+3year 29:5 40:22 
+
+42:2 
+
+4 
+
+4 22:5 26:23,23 
+
+57:2 
+
+40 29:19,20 31:22 
+
+5 
+
+5 22:24 29:7,8 
+
+Alderson Reporting Company
+ 
+
+

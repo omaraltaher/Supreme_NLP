@@ -1,0 +1,4382 @@
+ IN THE SUPREME COURT OF THE UNITED STATES
+
+
+- - - - - - - - - - - - - - - -X
+
+
+CENTRAL LABORERS' PENSION 
+
+ FUND, 
+
+ Petitioner 
+
+:
+
+
+:
+
+
+:
+
+
+ v. 
+
+:  No. 02-891
+
+
+THOMAS E. HEINZ, ET AL. 
+
+:
+
+
+- - - - - - - - - - - - - - - -X
+
+
+ Washington, D.C.
+
+
+ Monday, April 19, 2004
+
+
+ The  above-entitled  matter  came  on  for  oral
+
+
+argument before the Supreme Court of  the United States at
+
+
+10:08 a.m.
+
+APPEARANCES:
+
+
+THOMAS C. GOLDSTEIN, ESQ., Washington, D.C.; on behalf of
+
+
+ the Petitioner.
+
+
+JOHN P. ELWOOD, ESQ., Assistant to the Solicitor General,
+
+
+ Department of Justice, Washington, D.C.; on behalf of
+
+
+ the United States, as amicus curiae, supporting the
+
+
+ Petitioner. 
+
+
+DAVID M. GOSSETT, ESQ., Washington, D.C.; on behalf of the
+
+
+ Respondents.
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+1111 14th Street NW, Suite 400 
+
+1
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+PAGE
+
+
+3
+
+
+19
+
+
+29
+
+
+55
+
+
+1
+
+ C O N T E N T S
+
+
+2  ORAL ARGUMENT OF 
+
+3  THOMAS C. GOLDSTEIN, ESQ.
+
+
+4
+
+ On behalf of the Petitioner 
+
+5  JOHN P. ELWOOD, ESQ.
+
+
+6
+
+7
+
+ On behalf of the United States, 
+
+
+ as amicus curiae, supporting the Petitioner 
+
+8  DAVID M. GOSSETT, ESQ.
+
+
+9
+
+ On behalf of the Respondents 
+
+10  REBUTTAL ARGUMENT OF
+
+
+11  THOMAS C. GOLDSTEIN, ESQ.
+
+
+ On behalf of the Petitioner 
+
+12
+
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+1111 14th Street NW, Suite 400 
+
+2
+
+
+Alderson Reporting Company
+
+
+Washington, DC 20005 
+
+1
+
+2
+
+3
+
+ P R O C E E D I N G S 
+
+ CHIEF JUSTICE  REHNQUIST:  We'll hear  argument 
+
+ (10:08 a.m.) 
+
+4  now in No.  02-891, the Central Laborers' Pension  Fund v. 
+
+5  Thomas E. Heinz. 
+
+6
+
+7
+
+8
+
+9
+
+ Mr. Goldstein. 
+
+ ORAL ARGUMENT OF THOMAS C. GOLDSTEIN 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. GOLDSTEIN:  Thank  you, Mr.  Chief Justice, 
+
+10  and may it please the Court: 
+
+11
+
+ This is an  ERISA pension case.  The petitioner 
+
+12  is  a  multiemployer  pension  plan. 
+
+The  respondent 
+
+13  plaintiffs  are  two plan  participants.  Each  accrued a 
+
+14  pension  and took  early retirement  at age  39, and  each 
+
+15  claimed a full pension in the form of a life annuity. 
+
+16
+
+ At issue  in the case is  a plan amendment.  It 
+
+17  authorizes the  suspension of  retirees' benefit  payments 
+
+18  during the time  that they  choose to go  back to work  as 
+
+19  construction  supervisors. 
+
+Before  the  amendment, 
+
+20  suspension was triggered  only by  work as a  construction 
+
+21  laborer. 
+
+22
+
+ The change  gives rise  to an  important, albeit 
+
+23  highly technical, question about the relationship  between 
+
+24  two provisions  of ERISA.  The  question is:  may  such an 
+
+25  amended  employment  suspension  provision  apply  to 
+
+1111 14th Street NW, Suite 400 
+
+3 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  previously accrued benefits?  The plan says  the answer is 
+
+2  yes; the participants say the answer is no. 
+
+3
+
+ The  expert  agencies charged  by  Congress with 
+
+4  administering ERISA  have  also spoken  to  the  question. 
+
+5  They say that ERISA does  authorize such an amendment, and 
+
+6  they reached that  conclusion by construing the  two ERISA 
+
+7  provisions in para materia. 
+
+8
+
+ Countless pension  plans around  the Nation,  in 
+
+9  turn, have  relied on  the agencies'  guidance in  shaping 
+
+10  their  plan  amendments  for  decades,  and  that  is  the 
+
+11  principal reason that the case is so important. 
+
+12
+
+ QUESTION:  In  the -- in the  guidance that  is 
+
+13  given,  does  the 
+
+--  
+
+has  the  IRS  actually  passed  on 
+
+14  particular amendments? 
+
+15
+
+16
+
+17
+
+18
+
+ MR. GOLDSTEIN:  It has,  not in formal guidance. 
+
+ The process is that you can -­
+
+ QUESTION:  How does it do it? 
+
+ MR.  GOLDSTEIN:  There -- there are a couple of 
+
+19  layers  of  it. 
+
+The first  is  that  the  IRS publishes 
+
+20  guidance ahead  of time.  For  about 2 decades,  there has 
+
+21  been  something  called  the  LRM,  the List  of  Required 
+
+22  Modifications.  It's  quoted in 
+
+--  
+
+it's quoted  in  the 
+
+23  Government's brief in particular.  And that said to plans, 
+
+24  if you're going  to adopt a plan or revise  a plan, here's 
+
+25  what you can do. 
+
+1111 14th Street NW, Suite 400 
+
+4 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+2
+
+ QUESTION:  Is this in the manual? 
+
+ MR.  GOLDSTEIN:  Then  there's  a second.  The 
+
+3  second  step  is that  more  recently they  have published 
+
+4  what's known as  to IRM, the Internal Revenue  Manual, and 
+
+5  that's guidance for IRS employees. 
+
+6
+
+ And  then  there's a  third  level, and  that is 
+
+7  plans can submit  their plan provisions and  amendments to 
+
+8  the IRS  for what are  known as  determination letters  on 
+
+9  which the IRS signs off.  And so all three of those exist. 
+
+10
+
+ QUESTION:  Do we -- do we have any indication of 
+
+11  how many determination letters have been issued? 
+
+12
+
+ MR. GOLDSTEIN:  We don't.  I don't think  that 
+
+13  the IRS was able to come  up with a particular number, but 
+
+14  they did say  that their  consistent practice for  decades 
+
+15  has been to approve this particular -­
+
+16
+
+ QUESTION:  Is there anything to  document that, 
+
+17  that it's been for decades?  I mean, the manual provisions 
+
+18  and the rest of -- of what you're describing is not -- not 
+
+19  published.  So where do we get the 2 decades from? 
+
+20
+
+ MR. GOLDSTEIN:  We  get that from, I guess,  two 
+
+21  sources.  The  first is that there is the  document -- the 
+
+22 
+
+--  
+
+the series of documents known  as the LRM, the List of 
+
+23  Required Modifications, that  has guided  the plans for  a 
+
+24  couple of decades, and it  does not restrain plans in  its 
+
+25 
+
+--  
+
+it  specifically  addresses  revisions  to  plans, 
+
+1111 14th Street NW, Suite 400 
+
+5 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  amendments, and  it doesn't say that you can only apply it 
+
+2  a suspension provision to benefit  payments that accrue in 
+
+3  the future.  Beyond that, when it comes to, you know, what 
+
+4  the  IRS does  day in  and  day out,  we  just have  their 
+
+5  representation. 
+
+6
+
+ QUESTION:  Well, do you -- does -- does the list 
+
+7  specifically say that the amendments  can -- can relate -­
+
+8  can,  in  fact, relate  to  or  in  law  relate  to  prior 
+
+9  accrued -­
+
+10
+
+11
+
+12
+
+ MR. GOLDSTEIN:  No, it doesn't.  There --
+
+ QUESTION:  So, it leaves that question open. 
+
+ MR. GOLDSTEIN:  It -- it -- literally in  its 
+
+13  text it  does,  but  as  a  practical  matter  it  doesn't 
+
+14  because, as  I was saying  to Justice Ginsburg,  the LRM's 
+
+15  have addressed revisions  to plans and to  amendments, and 
+
+16  they haven't restrained in any way the ability to apply it 
+
+17  to previous -­
+
+18
+
+ QUESTION: 
+
+But  that's  a  pretty  negative 
+
+19  inference, isn't it? 
+
+20
+
+ MR. GOLDSTEIN:  It's true,  but the -- the way 
+
+21  these documents work,  as I  understand them,  is that  if 
+
+22  there's a restriction, something you can't do, they say it 
+
+23  expressly.  When  you -- remember, the  default rule under 
+
+24  ERISA, of course, is that you  are allowed to adopt a plan 
+
+25  amendment,  and  then  the 
+
+--  
+
+they 
+
+--  
+
+they  articulate 
+
+1111 14th Street NW, Suite 400 
+
+6 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  particular restrictions -­
+
+2
+
+ QUESTION:  So I -- I think it's pretty explicit 
+
+3  when it says  that the  accrued benefit  of a  participant 
+
+4  under a plan may not be  decreased by an amendment of  the 
+
+5  plan. 
+
+6
+
+ And I don't -- the trouble I'm having is it just 
+
+7  seems to  me utterly unrealistic  to say that  his accrued 
+
+8  benefit has not been decreased when he used  to be able to 
+
+9  work  as a -- as  a supervisor and  continued to draw from 
+
+10  the plan.  Now he cannot work  as a supervisor.  How can 
+
+11  you  -- I mean, certainly if  you placed a dollar value on 
+
+12  his right to receive money from the plan, you would -- you 
+
+13  would put  a higher price on  -- on the -- the individual 
+
+14  who  has  the right  to  work as  a  supervisor and  still 
+
+15  continue  to draw  money  as  opposed  to the  person  who 
+
+16  doesn't have that right.  I mean, the -- the language just 
+
+17  seems to me utterly plain. 
+
+18
+
+ MR.  GOLDSTEIN: 
+
+The 
+
+--  
+
+Justice Scalia,  the 
+
+19  reason that the  IRS has  reached the opposite  conclusion 
+
+20  for  decades is threefold,  and I  will focus on  the text 
+
+21  because that's where you focus.  But just to lay them out, 
+
+22  it's going  to be the text, the purposes of the suspension 
+
+23  provision, which  is section  203(a)(3)(B), and  what will 
+
+24  best  protect  participants'  expectations. 
+
+You  focus 
+
+25  rightly on the text. 
+
+1111 14th Street NW, Suite 400 
+
+7 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ The -- the key is what is a benefit versus what 
+
+2  is a  suspension of benefit  payments.  As I said  in the 
+
+3  introduction, the plan participants here  earned a benefit 
+
+4  and that is a life annuity in a service only pension.  So 
+
+5  they were  able  to retire  and they  got  a life  annuity 
+
+6  that's available to them. 
+
+7
+
+ QUESTION:  It's the  dollar amount that  they're 
+
+8  entitled to which is the benefit. 
+
+9
+
+10
+
+ MR. GOLDSTEIN:  It is --
+
+ QUESTION:  But that means you can say, well, you 
+
+11  know, they're still  entitled to  that dollar amount,  but 
+
+12  they can only get it every other year. 
+
+13
+
+14
+
+15
+
+ MR. GOLDSTEIN:  That would be prohibited. 
+
+ QUESTION:  Would that limitation be okay? 
+
+ MR. GOLDSTEIN:  No, it wouldn't because it would 
+
+16  violate the vesting rules. 
+
+17
+
+ Let me continue.  There are two parts  in ERISA, 
+
+18  and this is set  out in your Alessi opinion in  1981.  You 
+
+19  have to accrue a benefit and then you vest in the benefit. 
+
+20  The  accrual is  when  you've earned  the  benefit.  They 
+
+21  earned the benefit.  They earned their pension.  Then they 
+
+22  had to vest in it; that is, though they've earned it, they 
+
+23  have what Alessi  calls a  non-forfeitable right to  claim 
+
+24  it.  And what  a suspension  provision does it  says your 
+
+25  benefit still  exists.  Their  benefit is a  life annuity. 
+
+1111 14th Street NW, Suite 400 
+
+8 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  It exists. 
+
+There is  an available  stream of  payments. 
+
+2  There's  a  stream  of payments  that  is  available every 
+
+3  single month.  That's the accrual rule. 
+
+4
+
+ Then you have to vest.  You have to have a right 
+
+5  to claim it, and that's what a suspension provision does. 
+
+6
+
+ QUESTION:  It's  not you that  vests.  It's  the 
+
+7  pension that vests, isn't it? 
+
+8
+
+ MR.  GOLDSTEIN:  It  is your  claim to  it that 
+
+9  vests,  Mr.  Chief  Justice.  If  I  could  give  you the 
+
+10  language -­
+
+11
+
+ QUESTION:  Well,  I was  just questioning  your 
+
+12  choice of words. 
+
+13
+
+ MR.  GOLDSTEIN: 
+
+I  apologize. 
+
+What  I  had 
+
+14  intended to say  is that your claim to it vests.  There is 
+
+15  a benefit  out there, this life annuity.  And the question 
+
+16  is:  do you have the right to  claim it in any particular 
+
+17  month?  That's the structure of section 203 versus section 
+
+18  204. 
+
+19
+
+ And what a suspension provision  does -- and let 
+
+20  me just  pause to say  the court of  appeals acknowledged, 
+
+21  the plaintiffs  acknowledged, that  when we suspend  their 
+
+22  benefit  payments, we  are not  decreasing their  benefit. 
+
+23  What we're doing is that  they have sacrificed their claim 
+
+24  to a  particular benefit in any  given month.  That's why 
+
+25  Congress  used  the  different  language,  suspension  of 
+
+1111 14th Street NW, Suite 400 
+
+9 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  benefit  payments  versus  the  actual  decrease  in  the 
+
+2  benefit. 
+
+3
+
+ QUESTION:  Well, they concede  that with respect 
+
+4  to the -- the decreases that were a term of the  plan when 
+
+5  it accrued to them. 
+
+6
+
+7
+
+8  they? 
+
+ MR. GOLDSTEIN:  Well, they conceded -­
+
+ QUESTION:  They don't concede anything more, do 
+
+9
+
+ MR.  GOLDSTEIN: 
+
+No, but  the  concession  is, 
+
+10  nonetheless -­
+
+11
+
+12
+
+ QUESTION:  Well, that's no concession. 
+
+ MR. GOLDSTEIN:  Well, it  is we think,  Justice 
+
+13  Souter.  Here's why.  What  I think  Justice Scalia  was 
+
+14  focusing on -- and I may  be mistaken -- is that,  look, 
+
+15  when you  withhold that benefit payment, sort of give me a 
+
+16  break.  They're not getting  the money.  You're decreasing 
+
+17  their benefit.  And in  the terminology of ERISA, that  is 
+
+18  actually not correct. 
+
+19
+
+ QUESTION:  No.  That wasn't my point at all.  My 
+
+20  -- my point,  which I took a  long time to make,  was that 
+
+21  the value of your right to  money, even though you work as 
+
+22  a  supervisor, is greater  than your right  to money which 
+
+23  terminates as soon as you  begin to work as a  supervisor. 
+
+24  It's a less valuable benefit. 
+
+25
+
+ MR. GOLDSTEIN:  Fair enough. 
+
+1111 14th Street NW, Suite 400 
+
+10 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION: 
+
+And  that comes  right  within  the 
+
+2  language.  The accrued benefit may not be decreased by an 
+
+3  amendment. 
+
+4
+
+ MR. GOLDSTEIN:  And  here is why  it does  not. 
+
+5  The real-world value,  the sense that, look,  this is more 
+
+6  desirable.  I would rather have  a benefit that  has less 
+
+7  suspension  provisions  than  one  that  has  more. 
+
+For 
+
+8  example, hey, it's more likely I'm going to get the money. 
+
+9  That  is not a benefit  within the meaning  of ERISA.  The 
+
+10  benefit  is the life annuity.  It's a -- this is -- the -­
+
+11  ERISA  is,  of  course, as  you've  often  said,  a highly 
+
+12  reticulated statute.  There are 3,978 pages of regulations 
+
+13  implementing it in about 6-point  font.  The terms of  art 
+
+14  are highly, highly technical, and  the benefit is the life 
+
+15  annuity.  It's not  just the sense  that I like  it more. 
+
+16  And I can give you an example. 
+
+17
+
+ Section  203(c)  of  ERISA 
+
+--  
+
+and,  Mr.  Chief 
+
+18  Justice, that  is reproduced in the yellow brief.  I don't 
+
+19  think it will be necessary for the Court  to track it, but 
+
+20  it is at  the bottom of 4a  and 5a.  This  is a -- of the 
+
+21  yellow brief.  And this  is a provision under which  plans 
+
+22  are authorized to change their vesting schedules.  And so, 
+
+23  take an example. 
+
+24
+
+ There are  two ways  you can  vest under  ERISA. 
+
+25  One  if over the  course of  7 years in  individual steps. 
+
+1111 14th Street NW, Suite 400 
+
+11 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  Another is so-called  cliff vesting,  and that is,  you've 
+
+2  got your benefit.  You've earned it, but until you've been 
+
+3  in service for 5 years, you don't have any legal  claim to 
+
+4  it  notwithstanding  that  it's out  there. 
+
+Plans under 
+
+5  section 203(c) are  allowed to change their  vesting rules 
+
+6  so that if someone had  earned 2 years of vesting  credit, 
+
+7  the  plan  can,  nonetheless,  change  to a  5-year  cliff 
+
+8  vesting provision.  Now, that's  all very complicated, but 
+
+9  the bottom line is  that it makes it less  valuable in the 
+
+10  real-world sense for the plan participants. 
+
+11
+
+ QUESTION:  Yes, but  that -- that speaks to  the 
+
+12  future effect  of such an amendment, and it -- when you're 
+
+13  talking  about  getting  vesting,  you  can't  have  a 
+
+14  retroactive -- you would not already be vested.  Does that 
+
+15  mean  that if  somebody vested after  2 years,  they could 
+
+16  then adopt an amendment saying henceforth it's got to be 5 
+
+17  years and that applies to somebody who is already vested? 
+
+18
+
+19
+
+20
+
+ MR. GOLDSTEIN:  Unquestionably, yes. 
+
+ QUESTION:  Does it really. 
+
+ MR.  GOLDSTEIN:  Absolutely, yes, without any -­
+
+21  any doubt whatsoever. 
+
+22
+
+23
+
+ QUESTION:  And what is the authority for that? 
+
+ MR. GOLDSTEIN:  That is section 203(c).  Section 
+
+24  203(c) explains  that if  you have  less than  3 years  of 
+
+25  service, you  are not allowed to  object to the  change in 
+
+1111 14th Street NW, Suite 400 
+
+12 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  vesting conditions.  There are rules under  ERISA that say 
+
+2  that  even though  you've vested,  you can, in  effect, be 
+
+3  divested.  That's why it is  a very strange  structure of 
+
+4  the -­
+
+5
+
+ QUESTION:  Well, they -- they wouldn't need that 
+
+6  provision if the principle of law that you're urging  upon 
+
+7  us existed.  I mean, the -- the whole reason, it  seems to 
+
+8  me,  that  they had  to  make that  clear  in a  statutory 
+
+9  provision  is  that  without it,  you  would  obviously be 
+
+10  decreasing  the  value  of  the  plan  and  violating  the 
+
+11  provision of whatever it is, 1054(g)(1). 
+
+12
+
+ MR. GOLDSTEIN:  No.  That's why this is in 1053. 
+
+13  There are two  sets of restrictions.  That  provision that 
+
+14  I've just been describing would  not -- and I don't  think 
+
+15  there's anybody who  really contends  it would -- violate 
+
+16  1054, what we've been calling 204.  It would violate 1053. 
+
+17  You have -­
+
+18
+
+19
+
+ QUESTION:  Which -- which part of 1053? 
+
+ MR. GOLDSTEIN:  It would  violate the beginning 
+
+20  of 1053, Mr. Chief Justice.  Let me take you  to 1a of the 
+
+21  yellow brief, and  the paragraphs involved  would be 1 
+
+--
+
+22  excuse me 
+
+--  
+
+1053(a)(2)(A)  and  (B). 
+
+Those  are  the 
+
+23  places -­
+
+24
+
+25
+
+ QUESTION:  Okay.  Read them please. 
+
+ MR. GOLDSTEIN:  Yes,  Mr. Chief  Justice.  The 
+
+1111 14th Street NW, Suite 400 
+
+13 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  beginning of (2) says, except as provided  in paragraph 4, 
+
+2  which is not  relevant, a plan satisfies  the requirements 
+
+3  of  this  paragraph if  it  satisfies the  requirements of 
+
+4  subparagraphs  (A) or (B).  And subparagraphs  (A) or (B) 
+
+5  which I'll read, give you that 5-year cliff vesting option 
+
+6  or instead over  the course of 7 years.  A plan satisfies 
+
+7  the requirements of  this subparagraph if an  employee who 
+
+8  has  completed  at  least  5  years  service  has  a  non­
+
+9  forfeitable right to 100 percent of the employee's accrued 
+
+10  benefit derived from employer contributions.  And then (B) 
+
+11  is the other option, the 7 years. 
+
+12
+
+ Now, I have  spoken and I've tried  to emphasize 
+
+13  the difference  between a  benefit and  the suspension  of 
+
+14  benefit payments,  but it is  also important to  deal with 
+
+15  the two other reasons that the Government -­
+
+16
+
+ QUESTION:  Let me just be sure I understand that 
+
+17  argument again, Mr. Goldstein.  This says you,  in effect, 
+
+18  can retroactively require  a longer vesting period.  That 
+
+19  would mean require a longer period before  you acquired an 
+
+20  accrued benefit. 
+
+21
+
+22
+
+23
+
+ MR. GOLDSTEIN:  No. 
+
+ QUESTION:  That was 20 -- isn't that right? 
+
+ MR. GOLDSTEIN:  No, Justice  Stevens.  You would 
+
+24  acquire the accrued benefit under 1054 as it accrued  over 
+
+25  time.  What you would not do is vest in that benefit, your 
+
+1111 14th Street NW, Suite 400 
+
+14 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  right to the benefit is not present. 
+
+2
+
+ QUESTION: 
+
+So  accrued -- the  term,  accrued 
+
+3  benefits, applies to benefits that have not yet vested. 
+
+4
+
+5
+
+6
+
+7
+
+ MR. GOLDSTEIN:  That's exactly right. 
+
+ QUESTION:  I see. 
+
+ MR. GOLDSTEIN:  Yes.  Let me just step back. 
+
+ QUESTION:  I'm not sure  that -- I'm not sure  I 
+
+8  understand that, but anyway, go ahead. 
+
+9
+
+ MR.  GOLDSTEIN:  I apologize.  Let me just step 
+
+10  back and explain  it then.  There are two  things that you 
+
+11  have to  do in order  to be able  to collect  your benefit 
+
+12  under ERISA.  It has to accrue.  You have to earn it under 
+
+13  1054. 
+
+14
+
+15
+
+ QUESTION:  Right. 
+
+ MR. GOLDSTEIN:  And you also have to vest in it 
+
+16  under 1053. 
+
+17
+
+ Justice  Scalia, 
+
+you 
+
+had  intimated 
+
+a 
+
+18  hypothetical.  Well, look,  couldn't the  plan just  say, 
+
+19  hey, we're  suspending your benefit  payments and wouldn't 
+
+20  that violate  1054 because you  lessened the value  of the 
+
+21  benefit.  The answer to that question is no.  You couldn't 
+
+22  do it,  but -- because it  would violate  1053.  Someone 
+
+23  would  have  vested  in  the  benefit  and  you  would  be 
+
+24  divesting them of it. 
+
+25
+
+ Let me  also take you  -- because we  do contend 
+
+1111 14th Street NW, Suite 400 
+
+15 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  that we are entitled to -­
+
+2
+
+3
+
+4
+
+5
+
+ QUESTION:  Vesting means -­
+
+ QUESTION:  You're going pretty fast for me. 
+
+ MR. GOLDSTEIN:  Sorry. 
+
+ QUESTION:  Could  I just make sure  I understand 
+
+6  one thing? 
+
+7
+
+8
+
+ MR. GOLDSTEIN:  Yes. 
+
+ QUESTION:  You're saying  that a  delay in  the 
+
+9  period  between the  time a  benefit accrues  and  when it 
+
+10  vests is  not  covered by  204(g), but  a  reduction of  a 
+
+11  benefit that  has already both accrued and vested is -- is 
+
+12  not covered by it or is -- you're saying they're the same. 
+
+13  That's what you're saying -­
+
+14
+
+15
+
+16
+
+17
+
+18
+
+ MR. GOLDSTEIN:  Let me -­
+
+ QUESTION:  -- for purposes of --
+
+ QUESTION:  Answer the question. 
+
+ QUESTION:  Yes. 
+
+ MR. GOLDSTEIN:  No is the -- is the short answer 
+
+19  and  here's the longer  answer.  You cannot  decrease the 
+
+20  benefit even if it has not yet vested.  Let's be perfectly 
+
+21  clear.  If I -- they have a life annuity and I were to say 
+
+22  instead of paying you $1,650 a month, I'm going to pay you 
+
+23  $1,400 a  month, notwithstanding that they  haven't vested 
+
+24  in it, it still violates the accrual rule. 
+
+25
+
+ But  when  you  come  to  the  question  of  the 
+
+1111 14th Street NW, Suite 400 
+
+16 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  suspension of benefit payments,  which throughout ERISA is 
+
+2  a different  concept than a decrease in benefits, when you 
+
+3  come to a suspension -- that is, your -- your claim to the 
+
+4  benefit  payment each month  -- I'm taking  that away from 
+
+5  you -- that's covered by 1053.  And our point is that this 
+
+6  plan  amendment  is -- and  the Government  agrees  -- is 
+
+7  authorized by 1053. 
+
+8
+
+ I had  said that I was  also going to  go beyond 
+
+9  the -- move from the  text to the purposes underlying  the 
+
+10  statute  and the  protection  of participants'  legitimate 
+
+11  expectations. 
+
+12
+
+ But before doing that, I do want to point to the 
+
+13  regulation, 
+
+Justice  Scalia,  that 
+
+addresses  our 
+
+14  understanding of  what it is  to decrease, and  we contend 
+
+15  that the regulation,  which is published after  notice and 
+
+16  comment, is entitled to Chevron  deference.  And it is 
+
+--
+
+17  is reproduced on  page 8a of the yellow  brief, and I will 
+
+18  just -- it's quoted in our brief as well.  And it explains 
+
+19  that a decrease in a benefit is something that changes the 
+
+20  computation of  the benefit.  This  does  not change  the 
+
+21  computation of the  benefit.  It's  not just a  rhetorical 
+
+22  device.  It is a theme that runs throughout the provisions 
+
+23  of ERISA. 
+
+24
+
+ Briefly,  with  respect to  the  purpose  of the 
+
+25  statute and  plan's  expectations, the  critical point  is 
+
+1111 14th Street NW, Suite 400 
+
+17 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  that the  suspension rule  cannot work  if it  -- this  is 
+
+2  section 203(a)(3)(B), the 1053 provision -- cannot work if 
+
+3  it does  not apply to already accrued benefits.  The point 
+
+4  of the statute is to get people  to move in and out of the 
+
+5  workforce.  And  if you  are not  allowed  to apply  your 
+
+6  suspension  provision  to  existing  retirees, you  cannot 
+
+7  influence  them  in  response  to  current  financial 
+
+8  conditions, the  shape of  the construction  labor market, 
+
+9  the  shape of the current trucking market.  You have to be 
+
+10  able to influence their decision whether or not to work or 
+
+11  not to work. 
+
+12
+
+ QUESTION:  Well, that -- that as set forth in -­
+
+13  in  your brief and  -- and you  made it sound  like a very 
+
+14  significant, very important  power, but also you  made it, 
+
+15  to me, sound like  it -- it gives almost no  effect at all 
+
+16  to the anti-cutback provisions. 
+
+17
+
+18
+
+ MR. GOLDSTEIN:  It does -­
+
+ QUESTION:  I  mean, this -- this is a  sweeping 
+
+19  authority you're arguing  for on behalf of  the plaintiff. 
+
+20  Oh, the economy is this way and that way. 
+
+21
+
+ MR. GOLDSTEIN:  Well, I think the critical point 
+
+22  is  that  Congress  in  section  1053, in  203,  carefully 
+
+23  limited the power of the plans; that is, it's -- the right 
+
+24  here is to receive your pension.  That right is completely 
+
+25  in the control of the  participants.  They can choose  not 
+
+1111 14th Street NW, Suite 400 
+
+18 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  to  go back  to work  or to  go back to  work.  They will 
+
+2  receive their benefits. 
+
+3
+
+ In addition, the  plan is only allowed  to limit 
+
+4  the  receipt  of  the benefit  payment  during  periods of 
+
+5  reemployment in the same industry,  trade, or craft in the 
+
+6  same geographic  region only  if  they work  more than  40 
+
+7  hours of  -- a month, and a variety of other restrictions. 
+
+8  And those showed that Congress  was cabining the authority 
+
+9  of  plans so that they  didn't unduly restrict the ability 
+
+10  of plan participants to go back to work. 
+
+11
+
+ But it  is,  I think,  absolutely  critical,  to 
+
+12  return to  the point, that  1053(a)(3)(B), the  suspension 
+
+13  rule, cannot  function as  Congress intended  and that  is 
+
+14  what  the IRS concluded  if it  does not apply  to already 
+
+15  accrued benefits.  We could  not encourage or  discourage 
+
+16  the plan participants to go back to work or not to go back 
+
+17  to  work and thus calibrate the  pension payments that are 
+
+18  coming  into  the plan  if  it did 
+
+--  
+
+if our  suspension 
+
+19  provision did not apply to their benefits. 
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ If I could reserve the remainder of the time. 
+
+ QUESTION:  Very well, Mr. Goldstein. 
+
+ Mr. Elwood, we'll hear from you. 
+
+ ORAL ARGUMENT OF JOHN P. ELWOOD 
+
+ ON BEHALF OF THE UNITED STATES 
+
+ AS AMICUS CURIAE, SUPPORTING THE PETITIONER 
+
+1111 14th Street NW, Suite 400 
+
+19 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR.  ELWOOD: 
+
+Mr. Chief  Justice,  and  may it 
+
+2  please the Court: 
+
+3
+
+ For  at  least 20  years,  the  Internal Revenue 
+
+4  Service has consistently approved the amendment of pension 
+
+5  plans to add or expand disqualifying employment provisions 
+
+6  within the scope  of ERISA's suspension  rule, and it  has 
+
+7  permitted  those amendments  to  be  applied  to  existing 
+
+8  benefit accruals.  Over the years, literally  hundreds of 
+
+9  plans have relied on the  flexibility that policy afforded 
+
+10  in determining whether a plan -­
+
+11
+
+ QUESTION:  Could you address one -- one question 
+
+12  I have?  The fact  that the -- the plan doesn't  -- or the 
+
+13  contributors don't  lose  their  tax  deduction  does  not 
+
+14  necessarily mean that those -- that they otherwise comply 
+
+15  with ERISA. 
+
+16
+
+ MR. ELWOOD:  That is -- I think that  -- well, 
+
+17  actually I  think that  because the  -- the  qualification 
+
+18  provisions are coextensive with the ERISA provisions, that 
+
+19  I think that they rise or fall together. 
+
+20
+
+21
+
+ QUESTION:  Have we ever said that? 
+
+ MR. ELWOOD:  I think that the -- the -- thing is 
+
+22  the language  of the  -- the  provisions is  substantially 
+
+23  identical.  The wording  is -- is basically  exactly the 
+
+24  same.  And so I don't know that there has been a -- a case 
+
+25  on point that  says they  could be construed  differently, 
+
+1111 14th Street NW, Suite 400 
+
+20 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  but I think there would be an uphill road. 
+
+2
+
+ QUESTION:  The Treasury Department,  of course, 
+
+3  is interpreting  -- is  interpreting the  statute for  the 
+
+4  purpose of deciding whether -- the income tax consequences 
+
+5  of contributions basically. 
+
+6
+
+ MR. ELWOOD:  That is correct, but they have been 
+
+7  vested  under  reorganization  plan number  four  with the 
+
+8  authority  to  construe  the exact  same  provisions,  the 
+
+9  corresponding provisions of  title I  of ERISA that  we're 
+
+10  talking about  here.  And  in -- when  they issue  those 
+
+11  regulations, they typically say we're construing both.  We 
+
+12  use the code verbiage, but we're construing both. 
+
+13
+
+ QUESTION:  The  thing that runs through  my mind 
+
+14  is I'm not sure they have the same expertise, for example, 
+
+15  as if the Department of Labor had to give them the same -­
+
+16  same answer to this question. 
+
+17
+
+ MR.  ELWOOD: 
+
+They  have  been  charged  with 
+
+18  interpreting  these  provisions,  the  same provisions  of 
+
+19  title  I  of  ERISA,  the  204,  203  here  as  in  the 
+
+20  corresponding provisions of the code.  And it would be our 
+
+21  position  that they're  just  as  expert  because  they're 
+
+22  exactly the same the language -­
+
+23
+
+ QUESTION:  But the concern at issue in this case 
+
+24  is the ability of people to move in and out of  the -- out 
+
+25  of the  trade, which  is specifically  a Labor  Department 
+
+1111 14th Street NW, Suite 400 
+
+21 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  interest.  The  Labor Department would be  more interested 
+
+2  in ensuring  that -- that  interest is preserved  than the 
+
+3  Treasury Department would. 
+
+4
+
+ MR. ELWOOD:  In any event, the -- the Department 
+
+5  of the Treasury  has been charged with  the responsibility 
+
+6  and because it's  identical language, we would  argue that 
+
+7  they're entitled to  just as much deference  under that as 
+
+8  under title I of ERISA --
+
+9
+
+ QUESTION:  And  the -- the Labor  Department has 
+
+10  not adopted a position on this question -­
+
+11
+
+ MR.  ELWOOD:  The  Labor Department  agrees with 
+
+12  this position.  The Labor Department, again under internal 
+
+13  executive  branch  orders,  is  bound  by  the  IRS 
+
+14  determinations in this regard. 
+
+15
+
+16
+
+ Now, if I could get back to -­
+
+ QUESTION:  Now, may I ask you about section 203? 
+
+17  Because  the  respondent  says  it  governs  only  normal 
+
+18  retirement benefits and not early retirement benefits that 
+
+19  are at issue here. 
+
+20
+
+ MR.  ELWOOD: 
+
+It  governs  normal  retirement 
+
+21  benefits  and  their  actuarial equivalents. 
+
+So  to the 
+
+22  extent that  early retirement  benefits are  the actuarial 
+
+23  equivalent of normal retirement  benefits, just reduced to 
+
+24  account for  the fact  they're received  earlier and  that 
+
+25  they'll be  received over a  longer period, it  applies of 
+
+1111 14th Street NW, Suite 400 
+
+22 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  its own force. 
+
+2
+
+ But again, the -- the Department of the Treasury 
+
+3  has  taken  the  purposes  of  203 into  account  when  it 
+
+4  construes all of the remaining provisions. 
+
+5
+
+6
+
+ Justice Souter -­
+
+ QUESTION:  May I ask you to -- to comment on  an 
+
+7  argument  that  Mr.  Goldstein  just made? 
+
+His 
+
+--  
+
+his 
+
+8  argument was  that,  at  least  certainly so  far  as  the 
+
+9  construction industry  is concerned,  unless this  kind of 
+
+10  retroactive  effect could be  given, there  -- the  -- the 
+
+11  various plans could  not protect  themselves, or at  least 
+
+12  they -- they could not take account of -- of labor market 
+
+13  conditions.  It would be useless to them. 
+
+14
+
+ My question is assume that is so.  ERISA is made 
+
+15  for  all  sorts  of  plans. It  isn't  just  made  for the 
+
+16  construction industry.  Is  there any  reason to  believe 
+
+17  that  Congress  was  concerned  with  the  construction 
+
+18  industry's labor market  problems in -- in fixing the 
+
+--
+
+19  the  statue in the  way Mr. Goldstein  and you  say it has 
+
+20  been arranged? 
+
+21
+
+ MR. ELWOOD:  I think there  is reason to believe 
+
+22  that Congress was  concerned with  the cyclical nature  of 
+
+23  industries for which market -- which are covered typically 
+
+24  by multiemployer plans. 
+
+25
+
+ QUESTION:  How do we -- how do we know that?  In 
+
+1111 14th Street NW, Suite 400 
+
+23 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  other words,  how do we know that this argument is not the 
+
+2  tail wagging the dog? 
+
+3
+
+ MR. ELWOOD:  I think two things.  First of all, 
+
+4  Congress -- several  Members of  Congress,  everyone  who 
+
+5  spoke to  the subject during the debates leading up to the 
+
+6  passage of  ERISA, indicated  that  the idea  here was  to 
+
+7  promote  industrial  stability  and  to  give  plans  the 
+
+8  flexibility, when  market conditions  warranted, to  adopt 
+
+9  suspension provisions. 
+
+10
+
+ QUESTION:  Well, but you don't -- we don't have 
+
+11  to adopt  your provision to -- to accord that flexibility. 
+
+12  All that's  needed  is that  the plan  state,  when it  is 
+
+13  established,  that these provisions dealing with where you 
+
+14  can work are amendable.  Once it says that, then  there's 
+
+15  no reduction in the value of  -- of the benefits that  the 
+
+16  employee receives.  I mean,  it's -- it's just very  clear 
+
+17  from  the  outset  that  these  things  are  subject  to 
+
+18  defeasance.  All  we're  talking about  is  a  plan  that 
+
+19  doesn't contain  that provision  at the  outset, and  then 
+
+20  later decides it wants to change its mind. 
+
+21
+
+ MR.  ELWOOD: 
+
+Actually, Justice  Scalia,  it I 
+
+22  think explicitly indicates that it  contemplates that.  If 
+
+23  you look at pages J.A.  46 and 64, there are  places there 
+
+24  saying that basically if there are material changes in the 
+
+25  suspension  provisions,  that  the  plan  will  notify 
+
+1111 14th Street NW, Suite 400 
+
+24 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  participants of  them.  And so  between that and  the fact 
+
+2  that the  plan itself specifically states on page 50, J.A. 
+
+3  50, that the plan is amendable -­
+
+4
+
+5
+
+ QUESTION:  Yes, but that -­
+
+ QUESTION:  Okay.  You're referring to  J.A. 50. 
+
+6  Give us a minute, if you're -­
+
+7
+
+8
+
+ MR. ELWOOD:  Oh, sure. 
+
+ QUESTION: 
+
+--  
+
+if  you're  interested  in  our 
+
+9  comprehending what  you're saying.  Give  us a minute  to 
+
+10  turn to that page, will you? 
+
+11
+
+12
+
+ Where on page 50 is it? 
+
+ MR.  ELWOOD: 
+
+The 
+
+--  
+
+page  50  is  just  the 
+
+13  explanation that the plan is amendable.  Page 46 indicates 
+
+14  that -- that there can be change in the suspension rules. 
+
+15  It says if benefits have -­
+
+16
+
+17
+
+18
+
+19
+
+ QUESTION:  Whereabouts are you reading? 
+
+ MR. ELWOOD:  It's under (d)(1), page 46. 
+
+ QUESTION:  Okay. 
+
+ MR. ELWOOD:  (d)(1).  That's the -- basically 
+
+20  the last sentence in the bottom three lines. 
+
+21
+
+ I'll  begin  earlier  than that. 
+
+It  says, if 
+
+22  benefits  have been  suspended  and  payment resumed,  new 
+
+23  notification  shall,  upon  resumption, be  given  to  the 
+
+24  participant  if  there  has been  any  material  change in 
+
+25  suspension rules, which  we take to be  an indication that 
+
+1111 14th Street NW, Suite 400 
+
+25 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  the plan contemplated that such amendments could be made. 
+
+2
+
+3
+
+ Justice Souter, if I could -­
+
+ QUESTION: 
+
+It  doesn't  say  anything  about 
+
+4  amendments.  It just says if you had a suspension, you got 
+
+5  -- you got to give notice.  I don't -- I don't see that. 
+
+6
+
+ QUESTION: 
+
+Presumably  that 
+
+--  
+
+that's  a 
+
+7  suspension provided for in the plan but the plan -­
+
+8
+
+ MR. ELWOOD:  No.  It says if  there has been any 
+
+9  material change in the suspension rules, which we think to 
+
+10  apply to  changes in when a suspension can be enacted, not 
+
+11  that a suspension will be given in a particular case. 
+
+12
+
+ In addition, I just -- Mr. Goldstein has already 
+
+13  explained a  bit why we think  the text of  ERISA supports 
+
+14  this, but I think that its purposes -- the purposes of the 
+
+15  anti-cutback rule  are consistent  with this  because what 
+
+16  Congress was trying  to protect  in the anti-cutback  rule 
+
+17  was reduction of retirement income.  And I think that that 
+
+18  is  broadly  satisfied  in  this  case because  what  this 
+
+19  guarantee, as we've explained, is an annuity and a certain 
+
+20  face amount that can never be reduced in face amount.  And 
+
+21  the  only time  it  is  not paid  to  them  is under  very 
+
+22  narrowly  cabined  circumstances  when  they  are,  by 
+
+23  definition,  receiving  essentially  receiving replacement 
+
+24  income from  the same industry, the same trade or craft in 
+
+25  the same  geographic area  that has  funded their  pension 
+
+1111 14th Street NW, Suite 400 
+
+26 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  plan. 
+
+And  I  think  under  those  sort  of  narrow 
+
+2  circumstances,  that  the  -- the  purposes  of  the anti­
+
+3  cutback rule are satisfied. 
+
+4
+
+ In addition, I would like to get back to a point 
+
+5  that Justice Souter raised. 
+
+6
+
+ QUESTION:  What  -- what  would happen if  there 
+
+7  were a -- a  suspension if you were  working in any  other 
+
+8  industry?  Suppose the plan adopted that? 
+
+9
+
+ MR. ELWOOD:  I think  that a plan could adopt  a 
+
+10  suspension rule with  respect to future plan  accruals for 
+
+11  any reemployment, but it is the Government's position that 
+
+12  because what Congress is trying to control here was -- was 
+
+13  basically to give  plans the flexibility so that  their -­
+
+14  their participants would  not have to compete  or, rather, 
+
+15  have to subsidize their competitors --
+
+16
+
+ QUESTION:  But what is  -- what is the provision 
+
+17  of the statute which is -- which -- on which you rest  to 
+
+18  make that distinction -­
+
+19
+
+20
+
+ MR. ELWOOD:  That -­
+
+ QUESTION:  -- as to  whether it's very important 
+
+21  for the  construction industry?  Suppose  some plan  said 
+
+22  it's for any industry. 
+
+23
+
+ MR. ELWOOD:  It's for section  203(a)(3)(B), or 
+
+24  1053(a)(3)(B), which  is set forth at the  yellow brief on 
+
+25  page -- I think it's 1a to 2a.  And there it is just -- it 
+
+1111 14th Street NW, Suite 400 
+
+27 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  just identifies the circumstances under which Congress has 
+
+2  authorized the suspension rule,  which we read to be  able 
+
+3  to be applied to existing benefit accruals.  And it limits 
+
+4  it to  application in  the case of  a multiemployer  plan, 
+
+5  which we've  said tend to  be industries of  more cyclical 
+
+6  swings,  to  cases  where  it's  employment  in  the  same 
+
+7  industry, in  the same  trade or  craft, and  in the  same 
+
+8  geographic area covered by the plan. 
+
+9
+
+ QUESTION:  If this is  so central to your case, 
+
+10  how come  it only shows up in your  -- in the reply brief? 
+
+11  I mean -­
+
+12
+
+ MR. ELWOOD:  No.  It's  cited from the  outset. 
+
+13  It's just -- it's only reproduced in the reply brief.  But 
+
+14  the -- but the very same provision is very central  to the 
+
+15  argument set forth in both the petitioner's brief and  the 
+
+16  Government's. 
+
+17
+
+ QUESTION:  You  -- you've been dying  to respond 
+
+18  to something I raised.  Let me give you the  chance to do 
+
+19  it. 
+
+20
+
+21
+
+22
+
+ (Laughter.) 
+
+ MR. ELWOOD:  Okay.  I appreciate that. 
+
+ But I  just wanted  to clarify  one thing  about 
+
+23  what the notice of required modifications says because the 
+
+24  notice of required modifications basically  sets out model 
+
+25  plan language,  and the model  plan language in  this case 
+
+1111 14th Street NW, Suite 400 
+
+28 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  that  existed  began 
+
+--  
+
+first  appeared  in  1984  said 
+
+2  explicitly  it may be  added to  existing plans.  And the 
+
+3  plan  language  itself doesn't  contain any  language that 
+
+4  would carve our  existing accruals, so that  by definition 
+
+5  it would apply to existing accruals.  And I think that if 
+
+6  the  Treasury  had intended  it  to apply  only  to future 
+
+7  benefit accruals, it  would have contained language.  And 
+
+8  in fact, there are other  provisions that specifically set 
+
+9  out that  kind  of limiting  language so  it  can only  be 
+
+10  applied to future accruals.  So I'd say that.  It's not -­
+
+11  I  -- I think  it's a  -- a reasonable  negative inference 
+
+12  that can be drawn from that.  It's not going out on a limb 
+
+13  too much. 
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+ QUESTION:  Mr. Elwood, you --
+
+ QUESTION:  Thank you, Mr. Elwood. 
+
+ MR. ELWOOD:  Thank you. 
+
+ QUESTION:  Mr. Gossett, it's your turn. 
+
+ ORAL ARGUMENT OF DAVID M. GOSSETT 
+
+ ON BEHALF OF THE RESPONDENTS 
+
+ MR.  GOSSETT:  Mr.  Chief  Justice, and  may it 
+
+21  please the Court: 
+
+22
+
+ The Central Laborers'  Pension Fund promised Tom 
+
+23  Heinz and Rick  Schmitt that after they  accepted an early 
+
+24  retirement  package,  they would  be  entitled to  work in 
+
+25  specific jobs without sacrificing their pension plans.  It 
+
+1111 14th Street NW, Suite 400 
+
+29 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  is a foundational principle of ERISA that participants are 
+
+2  entitled to  rely on plan promises  such as this one.  By 
+
+3  reneging on this promise and changing  the rules after the 
+
+4  fact,  the  plan  violated  section  204(g) of  ERISA  and 
+
+5  decreased  the value  of  participants' plan,  as  Justice 
+
+6  Scalia -­
+
+7
+
+ QUESTION:  Let's assume I -- I agree with you on 
+
+8  that.  The -- there's -- there's another  reliance problem 
+
+9  here and -- and that, I take it, is the -- is the reliance 
+
+10  upon  a contrary view taken by the IRS.  And the -- the -­
+
+11  your  -- your colleagues on the  other side say that if we 
+
+12  see it your way, there's  an enormous number of plans  out 
+
+13  there  who  are  suddenly  going  to  find  themselves 
+
+14  unqualified or disqualified, whatever the  term is.  Is -­
+
+15  is there  a way to avoid that if -- if you are correct on 
+
+16  the law, but they are correct about the -- the practice? 
+
+17
+
+18
+
+19
+
+ MR. GOSSETT:  Yes, Justice Souter. 
+
+ QUESTION:  What part are we -- how does that -­
+
+ MR.  GOSSETT: 
+
+Under  Internal  Revenue  Code 
+
+20  section  7805(b), the IRS  has the  right to say  that any 
+
+21  amendment  before  the date  of  this -- of  this Court's 
+
+22  decision in this case wouldn't  lead to a disqualification 
+
+23  of -- of the plan. 
+
+24
+
+ QUESTION:  Oh, I don't  think they could because 
+
+25  you have an answer there to question 6 which says  that if 
+
+1111 14th Street NW, Suite 400 
+
+30 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  you put in your original  plan a provision that would  say 
+
+2  the employer can change the definition of who's working in 
+
+3  his same company  over time,  as labor circumstances  call 
+
+4  for it, that  that gives the employer discretion,  and you 
+
+5  can't  do  it because  giving  them that  discretion would 
+
+6  itself count as a reduction. 
+
+7
+
+ Now, that's well established.  The whole  point 
+
+8  of this -- so  you tell me how they could  write a plan to 
+
+9  do what  you think  they should  be able  to do.  And  of 
+
+10  course, they  should.  That's the whole point of this part 
+
+11  of 203. 
+
+12
+
+ MR. GOSSETT:  No, Justice Breyer.  The -- the 
+
+13  part -- the -- the point of 203  is not to allow plans to 
+
+14  change the rules over time -­
+
+15
+
+ QUESTION: 
+
+The  whole  point  of  203,  as  I 
+
+16  understand it,  is that it was  something put in  there by 
+
+17  the  Teamsters or possibly the crafts  unions so that when 
+
+18  you  get your -- your  early retirement benefit and you're 
+
+19  out there, don't come back to my plant.  Why not my plant? 
+
+20  Because when you do, you will work for a low wage and that 
+
+21  will depress the wages of other workers. 
+
+22
+
+ Now, I'm not going to say absolutely never.  I'm 
+
+23  not going  to say always.  It's going to  depend on labor 
+
+24  conditions,  and that's  why if that  purpose is  not what 
+
+25  that part  of 203 is there for, you  can explain why it is 
+
+1111 14th Street NW, Suite 400 
+
+31 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  there. 
+
+But if  I'm  right about  why  it's there,  your 
+
+2  interpretation  not only  disrupts 20  years of -- of how 
+
+3  this has been administered, but also makes it unworkable. 
+
+4
+
+ MR. GOSSETT:  That's not why it's there, Justice 
+
+5  Breyer. 
+
+6
+
+7
+
+ QUESTION:  Why is it there? 
+
+ MR. GOSSETT:  Section -- section 203(a)(3)(B), 
+
+8  for starters, only applies  to normal retirement benefits. 
+
+9  Under section 203(a) of  ERISA, normal retirement benefits 
+
+10  are -- cannot be forfeited.  But for section 203(a)(3)(B), 
+
+11  there would  be no situation in which a plan could suspend 
+
+12  benefit  payments. 
+
+So  203(a)(3)(B)  specifies 
+
+--  
+
+it 
+
+13  delimits the limited circumstances in which -­
+
+14
+
+ QUESTION:  Put a little footnote here that I may 
+
+15  not agree with your statement, but go ahead. 
+
+16
+
+17
+
+ MR. GOSSETT:  Okay.  I -- footnote noted. 
+
+ But the point of 203(a)(3)(B) is to say that you 
+
+18  can  only  limit  plans 
+
+--  
+
+suspensions  in  two  certain 
+
+19  circumstances.  The  -- if  you look  at the  legislative 
+
+20  history of 203(a)(3)(B),  though, it discusses how  -- how 
+
+21  employers shouldn't be required  to subsidize competitors. 
+
+22  They shouldn't be  required to  -- union employers  should 
+
+23  not have former union workers  going in for work for  non­
+
+24  union  competitors  at lower  wages  because  they're also 
+
+25  receiving  a  pension  benefit. 
+
+That's  what's  rife 
+
+1111 14th Street NW, Suite 400 
+
+32 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  throughout the legislative of ERISA. 
+
+2
+
+ But  there's nothing  in  that  -- that  purpose 
+
+3  which requires  a plan  to be  able to  change the  rules, 
+
+4  which is what they want. 
+
+5
+
+ QUESTION:  That -- that would be an odd purpose. 
+
+6  Now,  wait, you're saying  that the  purpose of this  -- I 
+
+7  have  a -- a  plant where I  make trousers and  some of my 
+
+8  workers have retired early.  And you're saying the purpose 
+
+9  of  this provision is  to make  sure that my  worker who's 
+
+10  retired  early  doesn't  go  work for  Justice  Ginsburg's 
+
+11  plant, the trousers, some other plant.  All right? 
+
+12
+
+ Now, that would be very odd to have that purpose 
+
+13  served by  the language which I  think says by -- that -­
+
+14  that in the case of a  plan other than by an employer  who 
+
+15  maintains the plan  -- that is,  it's talking about  going 
+
+16  back to the same plant, isn't it?  Am I wrong? 
+
+17
+
+18
+
+ MR. GOSSETT:  Well, in -- there -- there are -­
+
+ QUESTION: 
+
+They're 
+
+--  
+
+they're talking  about 
+
+19  going back to my plant, isn't it? 
+
+20
+
+ MR.  GOSSETT: 
+
+In  the  context  of  a  single 
+
+21  employer plan, which is -­
+
+22
+
+ QUESTION: 
+
+That's -- am  I right  about that? 
+
+23  It's talking  about going  back to  my plant,  not Justice 
+
+24  Ginsburg's plant. 
+
+25
+
+ MR.  GOSSETT:  Sure. 
+
+In the  single employer 
+
+1111 14th Street NW, Suite 400 
+
+33 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  plan, it only limit -- it's only to prevent double -- true 
+
+2  double dipping.  What  double dipping  is,  is where  you 
+
+3  accrued benefits while  also receiving  benefits from  the 
+
+4  same plan.  It's -- it's --
+
+5
+
+6
+
+7
+
+ QUESTION:  I thought that --
+
+ MR. GOSSETT:  That's all you can -­
+
+ QUESTION: 
+
+--  
+
+if I've retired early  and I'm an 
+
+8  expert trouser  maker, I could go back to work for Justice 
+
+9  Ginsburg's  plant and  nobody would  care as  far  as this 
+
+10  provision is concerned.  Right? 
+
+11
+
+ MR.  GOSSETT: 
+
+If  your  pension  fund  was  a 
+
+12  single -­
+
+13
+
+14
+
+ QUESTION:  Yes.  It's my -- my -­
+
+ MR. GOSSETT:  -- employer  pension fund.  It was 
+
+15  not a multiemployer. 
+
+16
+
+17
+
+ QUESTION:  All right. 
+
+ MR. GOSSETT:  But in  the multiemployer context, 
+
+18  it's 
+
+--  
+
+it's only  about  cross-subsidization.  But the 
+
+19  bottom line is that in  either of those cases, there's  no 
+
+20  reason  why the pension fund -- why the -- the fund should 
+
+21  be allowed to change the rules.  The -- those -­
+
+22
+
+ QUESTION:  The reason is supposedly -- what they 
+
+23  say is the reason we  want to change the rules  is because 
+
+24  labor conditions change and whereas in this year where the 
+
+25  plant -- where the economy is booming, I don't really have 
+
+1111 14th Street NW, Suite 400 
+
+34 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  a problem, at least my workers don't, with retirees coming 
+
+2  back and depressing their wages. 
+
+3
+
+ QUESTION: 
+
+Well, it  wouldn't be  changing the 
+
+4  rules, would  it, if you said at the beginning these rules 
+
+5  can be changed?  Isn't that all  your saying, that -- that 
+
+6  the  employer  can  do it  so  long as  when  the  plan is 
+
+7  established,  it  is made  clear  that  the rules  can  be 
+
+8  changed? 
+
+9
+
+10
+
+ MR. GOSSETT:  Not exactly. 
+
+ QUESTION:  Then -- then  you're not changing the 
+
+11  rules when you change the rules, so to speak. 
+
+12
+
+ QUESTION:  I -- I thought your brief was -- was 
+
+13  candid,  Mr. Gossett,  and you  said  you couldn't  -- you 
+
+14  could  not do  what Justice  Scalia just  suggested.  You 
+
+15  couldn't say up front in the plan, we can amend it anytime 
+
+16  back and forth the way we like.  I thought you  said quite 
+
+17  clearly in your brief that that wouldn't work. 
+
+18
+
+ MR. GOSSETT:  Yes,  Justice Ginsburg.  I -- I 
+
+19  agree completely. 
+
+20
+
+ The -- the  point is that there's  no difference 
+
+21  between  a  plan provision  that  says we  can  change the 
+
+22  suspension rules  at any  point and reduce  them versus  a 
+
+23  plan provision that  says we can reduce  your benefit from 
+
+24  $1,600 a month  to $1,400 a  month at any  point if we  so 
+
+25  choose. 
+
+1111 14th Street NW, Suite 400 
+
+35 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+2
+
+3
+
+ QUESTION:  And the only --
+
+ MR. GOSSETT:  Both of those would -- sorry. 
+
+ QUESTION:  I want  to get the answer  to Justice 
+
+4  Scalia's before you lose that. 
+
+5
+
+6
+
+ MR. GOSSETT:  This is -­
+
+ QUESTION: 
+
+Now,  I thought  that  what  he was 
+
+7  suggesting was not  possible because of the  reason of the 
+
+8  answer to question 6.  Am I right or wrong? 
+
+9
+
+ MR. GOSSETT:  The answer to question 6 in the -­
+
+10  in the regulations is a  subsidiary answer.  I think  it's 
+
+11  by far the less important answer. 
+
+12
+
+ QUESTION:  No, but I  want to know first if  I'm 
+
+13  right or wrong. 
+
+14
+
+ MR. GOSSETT:  Yes.  That is an answer is that it 
+
+15  cannot be -­
+
+16
+
+17
+
+ QUESTION:  I am right. 
+
+ MR. GOSSETT:  -- discretionary on the -- to the 
+
+18  plan  to  cut back 
+
+--  
+
+to do  something  because of  plan 
+
+19  funding. 
+
+20
+
+ But the more fundamental answer  is that if that 
+
+21  were the case, every  plan could include a  provision that 
+
+22  said  in just these words, any benefit that we've promised 
+
+23  you in this  plan can be reduced  at a future date  at our 
+
+24  discretion.  And if a  plan could  say that and  still be 
+
+25  valid  under  ERISA,  the  anti-cutback  rule  would  be 
+
+1111 14th Street NW, Suite 400 
+
+36 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  meaningless.  Every plan would -- could say that. 
+
+2
+
+ So  ERISA  was  passed  specifically  because 
+
+3  historically plans were pulling back  benefits, relying on 
+
+4  the common law rule that  a pension is simply a  gratuity. 
+
+5  And  the  anti-cutback rule  is  the primary  provision in 
+
+6  ERISA  that  was  designed  to  say,  no,  when  a 
+
+--  
+
+a 
+
+7  participant is promised something, that  promise has to be 
+
+8  kept. 
+
+9
+
+ QUESTION:  Yes,  but if -- if your hypothesis is 
+
+10  that even when it says they're promised  nothing, in other 
+
+11  words,  that they  -- it  can be changed  retroactively -­
+
+12  you're -- you're saying that that is a promise that's not 
+
+13  kept? 
+
+14
+
+ MR. GOSSETT:  That is a promise that is kept on 
+
+15  the most  technical level,  of  course.  If I'm  promised 
+
+16  nothing and I'm given nothing, I -- I -­
+
+17
+
+18
+
+ QUESTION:  You can't complain. 
+
+ MR. GOSSETT:  -- one simply can't complain.  But 
+
+19  the -- the whole goal of ERISA is  to require employers to 
+
+20  say we're going  to -- to say we're going to give you this 
+
+21  and -- and keep their -- their word to that. 
+
+22
+
+ QUESTION:  I thought  it was 203  that -- that 
+
+23  provided  that  guarantee.  I  thought  it was  203  that 
+
+24  prevents you  from going too far  in what you say  you can 
+
+25  change. 
+
+1111 14th Street NW, Suite 400 
+
+37 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR.  GOSSETT:  It  is both 203  and 204, Justice 
+
+2  Scalia. 
+
+3
+
+4
+
+ QUESTION:  I don't see how 204 does it. 
+
+ MR.  GOSSETT:  The -- the -- Mr. Goldstein tries 
+
+5  to  differentiate  203  and  204  and argue  that  they're 
+
+6  completely  distinct  beasts, the  one  not affecting  the 
+
+7  other.  That's simply not the case.  As the IRS has said 
+
+8  in its  regulations, anything that indirectly  decreases a 
+
+9  benefit is equally violative of 204(g). 
+
+10
+
+ And it's  easy  to come  up  with -- with  plan 
+
+11  provisions that,  quote,  forfeit a  benefit  rather  than 
+
+12  decrease  the benefit,  but  which obviously  reduced  the 
+
+13  value you get.  I mean,  the most obvious example would be 
+
+14  a  -- an amendment  that says,  each month we're  going to 
+
+15  flip a coin and decide whether or not you get a check this 
+
+16  month.  That benefit would be -­
+
+17
+
+ QUESTION:  My -- my true question -- it isn't -­
+
+18  it  isn't -- I think there's no  easy answer to this case. 
+
+19  All right?  And I agree with you that in ordinary English, 
+
+20  we'd call this a reduction.  But there is in 203(g) -- or, 
+
+21  you know, the 203 part we're  talking about -- there is an 
+
+22  obvious purpose  to do  something that  is not  consistent 
+
+23  with the normal ERISA purposes.  It's right there and it's 
+
+24  done for labor reasons.  And you can interpret it  either 
+
+25  way. 
+
+1111 14th Street NW, Suite 400 
+
+38 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ So given  the either-way possibility, in  my own 
+
+2  mind this is where I am.  I'm telling you truthfully.  I'd 
+
+3  say -­
+
+4
+
+5
+
+ MR. GOSSETT:  Thank you. 
+
+ QUESTION: 
+
+--  
+
+either-way  possibility.  Well, 
+
+6  they've had this for  20 years.  They have regs that  are 
+
+7  consistent  with it.  People have lived  with it.  Go with 
+
+8  the administration.  I  mean, that's  -- all  right?  So 
+
+9  that's  -- that's where I  -- that's what  I -- that's how 
+
+10  I'm thinking  about it, and I'd like to hear your response 
+
+11  to that. 
+
+12
+
+ MR. GOSSETT:  Okay.  I have several responses to 
+
+13  that because it's obviously a critical point. 
+
+14
+
+ The -- the  first response is that  although the 
+
+15  IRS  and  Mr. Goldstein  have  told  us  that  this  is  a 
+
+16  longstanding Government position, the  only thing they can 
+
+17  actually  point  to  that  states  that  position  is  the 
+
+18  Internal Revenue Manual that dates  to 2001.  The List  of 
+
+19  Required Modifications, the  LRM, not the IRM,  which does 
+
+20  go back quite some time earlier, specifically says that it 
+
+21  is designed to aid people in  drafting or redrafting plans 
+
+22  and that the  provisions included therein could  be useful 
+
+23  in some plans, it could  be violative in other plans.  So 
+
+24  that's not authority by which someone can actually look at 
+
+25  an IRS publication  and say, this  is what we have  -- the 
+
+1111 14th Street NW, Suite 400 
+
+39 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  IRS allows. 
+
+2
+
+ They  say  that  they've  issued  letters 
+
+--
+
+3  determinations that they  have allowed these in  the past, 
+
+4  but those  are not  due deference under  -- certainly  not 
+
+5  under Chevron, probably  not even  under Skidmore.  Those 
+
+6  are sort of  individual case determinations and  they have 
+
+7  put none of these in the record. 
+
+8
+
+ And in any event, under  section -- code section 
+
+9  7805, the IRS says that those can be wrong, and if they're 
+
+10  wrong, all  it means is the plan can't be disqualified for 
+
+11  having done  something wrong.  There's -- there are no tax 
+
+12  implications.  The plan  can still owe damages  to someone 
+
+13  who in fact was hurt by  the amendment, but that is itself 
+
+14  a small cost in this case. 
+
+15
+
+ Mr.  Goldstein  is engaged 
+
+--  
+
+and more  to the 
+
+16  point, his amici  is engaging in hyperbole  by saying this 
+
+17  is going to bankrupt plans.  In the joint appendix at page 
+
+18  80, the plan -- the  plan's actuary tells us that  exactly 
+
+19  seven  people's  benefits  were  cut off  as  a  result -­
+
+20  suspended as  a result of this  amendment.  That's  out of 
+
+21  5,300 active pensioners, according to  the plan's web site 
+
+22  at the  moment.  We're talking  less than two-tenths  of 1 
+
+23  percent of people were, in  fact, cut -- suspended because 
+
+24  of -­
+
+25
+
+ QUESTION:  But it's not -- if your -- if your 
+
+1111 14th Street NW, Suite 400 
+
+40 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  position prevails, then I take it the only way an employer 
+
+2  can protect  himself against hard times is to say for this 
+
+3  class of early  retirees, no  employment.  Any  employment 
+
+4  will result  in suspension of benefits, and to say for the 
+
+5  ones -- normal retirees are  the ones who  are restricted 
+
+6  only with respect  to the same trade, to  make the rule as 
+
+7  restrictive  as  possible.  I  think  that your 
+
+--  
+
+your 
+
+8  interpretation forces  the employer  who wants  to protect 
+
+9  against hard times to take that view.  Is that not so? 
+
+10
+
+ MR. GOSSETT:  I -- I disagree, Justice Ginsburg. 
+
+11  The -- from the -- the employer setting  up a  plan, the 
+
+12  settlers of  a plan, all they care about is how much money 
+
+13  a plan is going to cost them.  And it's a -- it's a design 
+
+14  decision whether  or not you'd  rather have a  benefit of, 
+
+15  say, $2,000 a month with a narrow -- a narrower suspension 
+
+16  rule or $1,990 a month with a wider suspension rule.  Both 
+
+17  of those plans cost the employer the same amount of money. 
+
+18  There's no -- the -- the details of the number, of course, 
+
+19  are -- are questions for actuaries.  But the -- the design 
+
+20  question is one that can be made completely independent of 
+
+21  this.  Is it's how important is it to the employer whether 
+
+22  people go back to work in other jobs, how  important is it 
+
+23  to the employees that they can work in specific jobs. 
+
+24
+
+ The -- while a change in the plan might save the 
+
+25  -- the plan  money, the initial design  decision about how 
+
+1111 14th Street NW, Suite 400 
+
+41 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  restrictive the rules should be isn't a financial question 
+
+2  in the -- in the slightest.  And in fact, the  fact that 
+
+3  the change  in the plan -- the  -- in the suspension rule, 
+
+4  the amendment  here saved  the plan  money, is  in fact  I 
+
+5  think the best evidence of all that the amendment violates 
+
+6  the  anti-cutback rule.  The anti-cutback  rule prevents, 
+
+7  quote, a decrease -­
+
+8
+
+ QUESTION:  You're -- you're back  to the  word 
+
+9  reduction  where  I agree  with  you.  But  I would  have 
+
+10  thought  that this -- this provision  here in  203 really 
+
+11  reflects a tension within the  union.  The union wants  to 
+
+12  get benefits for its  early retirees, and that  argues for 
+
+13  going back.  But the  union also  wants to reflect  -- or 
+
+14  protect the  wages of  the people  who are  already there. 
+
+15  And that means  that if there is a recession, what we want 
+
+16  to do is stop too many people from going back because that 
+
+17  might  have a  depressing  effect on  the workers  who are 
+
+18  there. 
+
+19
+
+ Now, I put that again  because that -- that  was 
+
+20  how  I  began to  understand  what was  going  on in  this 
+
+21  provision and  I want you  to be  able to say,  no, you're 
+
+22  wrong.  That isn't what's going on. 
+
+23
+
+ MR.  GOSSETT: 
+
+What's  going  on is  that 
+
+--
+
+24  Justice Breyer, is that plans  -- that -- that unions  and 
+
+25  the  employers want to  prevent cross-subsidization.  But 
+
+1111 14th Street NW, Suite 400 
+
+42 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  there's -- while it is  certainly the case that, at  least 
+
+2  according to this plan and its amici, they have started to 
+
+3  rely on this purported right to  deal with changing market 
+
+4  conditions, they have no authority for doing so.  The only 
+
+5  thing  they  can  point  to  is  one  floor  statement  by 
+
+6  Representative  Dent  after that  provision  of ERISA,  in 
+
+7  fact, had  been enacted, saying  that there might  be some 
+
+8  change  in market  conditions which  would affect  things. 
+
+9  Employers can deal with changing  market conditions in the 
+
+10  traditional ways.  They can pay more or less money. 
+
+11
+
+ And  in  any event,  the  thing missing  in that 
+
+12  approach to 203  is the foundational principle  that ERISA 
+
+13  is designed to protect participants.  It's not designed to 
+
+14  protect plans.  It's designed  to protect the participants 
+
+15  in the plans.  That's why it -- that's why the vesting and 
+
+16  accrual rules  are very  explicit.  And in  fact, turning 
+
+17  very briefly to the vesting rules, Mr. -­
+
+18
+
+ QUESTION:  It's certainly  designed to  protect 
+
+19  plans  in  some  respects, the  preemption,  that  sort of 
+
+20  thing. 
+
+21
+
+ MR.  GOSSETT:  Yes,  that's  true,  but  that's 
+
+22  largely  an indirect  way of  protecting  the plan  -- the 
+
+23  plans and more indirectly the -- the participants and more 
+
+24  indirectly  the  participants  and  more  indirectly  the 
+
+25  Federal fisc because, of course,  plans are -- are insured 
+
+1111 14th Street NW, Suite 400 
+
+43 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  by the Pension Benefit Guaranty Board. 
+
+2
+
+ QUESTION:  Am I  right about this, that -- that 
+
+3  the -- that there is a specific provision in there for the 
+
+4  -- for the protection of the plans?  I forget what  it is, 
+
+5  but isn't  there  a provision  that if  the  plan gets  in 
+
+6  financial straits,  then in fact there -- there can -- can 
+
+7  be an amendment that might  otherwise might be allowed, an 
+
+8  amendment  that would -- would save  the plan money?  Is 
+
+9  that  correct?  Or  save  the employer  money  so he  can 
+
+10  continue to contribute to the plan.  Is that correct? 
+
+11
+
+ MR. GOSSETT:  With the -- yes,  Justice Souter. 
+
+12  With the  -- with the consent  of the Secretary  of Labor, 
+
+13  with the disclosure -­
+
+14
+
+15
+
+ QUESTION:  Okay. 
+
+ MR. GOSSETT:  -- to the Secretary  of Labor and 
+
+16  consent, you can pass an amendment in a plan that -­
+
+17
+
+18
+
+19
+
+ QUESTION:  And that would -- that would -­
+
+ MR. GOSSETT:  -- reduces benefits. 
+
+ QUESTION:  -- be -- that would be a  redundancy 
+
+20  on  -- on the argument that your -- your colleagues on the 
+
+21  other side make  then I take it.  On  their position, that 
+
+22  wouldn't be necessary. 
+
+23
+
+24
+
+25
+
+ MR. GOSSETT:  Yes. 
+
+ QUESTION:  Yes. 
+
+ QUESTION:  Mr. Gossett, would you just make sure 
+
+1111 14th Street NW, Suite 400 
+
+44 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  I understand  one thing correctly?  It's been asked two or 
+
+2  three times, but I want to be sure I'm right on it. 
+
+3
+
+ The amendment that  -- the  plan provision  that 
+
+4  Justice Scalia hypothesized which authorized this  sort of 
+
+5  change -- you agree that if you prevail, that kind of plan 
+
+6  provision would be impermissible. 
+
+7
+
+ MR. GOSSETT:  I don't  think this Court needs to 
+
+8  reach the question because the plan in this  case doesn't, 
+
+9  in fact, include that provision. 
+
+10
+
+11
+
+ QUESTION:  No, I understand that. 
+
+ MR.  GOSSETT: 
+
+But  I  think  that  that  plan 
+
+12  provision would not be permissible. 
+
+13
+
+ QUESTION: 
+
+Yes, I  think  that's right.  It's 
+
+14  still is the same -- it doesn't affect your argument, so I 
+
+15  just wanted to be sure about that. 
+
+16
+
+17
+
+18
+
+ MR. GOSSETT:  Yes, yes, I agree with that. 
+
+ I -- I want to -­
+
+ QUESTION:  Because  of what?  Just tell me  the 
+
+19  provision that you think precludes it. 
+
+20
+
+ MR. GOSSETT:  I think  that it is on the  narrow 
+
+21  -- on  the narrow end  -- it's  a technical level  -- it's 
+
+22  precluded under the IRS's own  regulations which point out 
+
+23  that you  can't have -- you  can't change conditions  in a 
+
+24  way  that  violates missions. 
+
+But -- but  on the  more 
+
+25  fundamental level, it violates -­
+
+1111 14th Street NW, Suite 400 
+
+45 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION:  I  want the  statutory provision.  I 
+
+2  want  the  statutory provision  that  makes that  no good. 
+
+3  204(g). 
+
+4
+
+5
+
+6
+
+ MR. GOSSETT:  204(g). 
+
+ QUESTION:  Yes. 
+
+ MR. GOSSETT:  204(g)(1)  which  says you  can't 
+
+7  decrease benefits. 
+
+And while  one can  come  up with  a 
+
+8  technical  reason 
+
+--  
+
+reading  of  that  said  that  your 
+
+9  provision  would  not  violate 204(g)(1),  it  would  read 
+
+10  204(g)(1) -- 204(g) out of ERISA because -­
+
+11
+
+ QUESTION:  And  this is what we  were discussing 
+
+12  before and  you spell this out in your brief, and you were 
+
+13  very candid in  saying Justice Scalia's  solution wouldn't 
+
+14  work. 
+
+15
+
+16
+
+ MR. GOSSETT:  Yes, Justice Ginsburg. 
+
+ I -- I want -- I wanted to turn quickly to -- to 
+
+17  203(c),  the  -- the  amendment  provision in  the vesting 
+
+18  statute  that Mr.  Goldstein talked  about.  There  are a 
+
+19  couple of things to note about that. 
+
+20
+
+ The first and foremost is probably that it shows 
+
+21  that 203(a)(1)(B), the  -- the suspension rule  that we're 
+
+22  talking about, talks about a plan providing for something. 
+
+23  In 203(c),  they talk about a plan amending the rules.  If 
+
+24  they  had  wanted  to  talk  about  an  amendment  in 
+
+25  203(a)(1)(B), they could have.  They -- they talked about 
+
+1111 14th Street NW, Suite 400 
+
+46 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  terms amending things elsewhere in the same provision. 
+
+2
+
+ But more fundamentally, Mr. Goldstein is  simply 
+
+3  wrong that a plan can  retroactively de-vest a participant 
+
+4  of  benefits  that  had  previously  vested. 
+
+Under 
+
+5  203(c)(1)(A), which  is on page 4a of the yellow brief, it 
+
+6  -- it explains that a plan amendment shall not -- shall be 
+
+7  treated  as not satisfying  203 if  the -- if  the amended 
+
+8  amount  is less  than  such  a non-forfeitable  percentage 
+
+9  commuted -- computed under the plan without regard to such 
+
+10  amendment. 
+
+11
+
+ So,  for  example,  if  a  plan participant  had 
+
+12  earned  20  percent  of  their  -- had  a  non-forfeitable 
+
+13  interest  in 20 percent  of their accrued  benefit and the 
+
+14  plan switched  from a progression to a -- a cliff vesting, 
+
+15  where you got everything in  5 years, they could do  that, 
+
+16  but they  couldn't remove your 20 percent.  They could say 
+
+17  you  don't vest in anything more  until the 5-year period, 
+
+18  but they  couldn't say you lose the 20 percent vested that 
+
+19  you already have. 
+
+20
+
+ QUESTION:  I think that they -- that the -- (c) 
+
+21  being  there  shows no  more than,  that the  words, shall 
+
+22  provide, which  is the beginning of 203, do not mean shall 
+
+23  provide  in  the original  plan. 
+
+They must  mean  shall 
+
+24  provide  in  the  original  plan  or  through  permissible 
+
+25  amendments because if  they meant the original  plan only, 
+
+1111 14th Street NW, Suite 400 
+
+47 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  there would be no safety. 
+
+2
+
+ MR.  GOSSETT: 
+
+The  term  provide  is  not  in 
+
+3  203(a)(1)(A) and (B), which are the -­
+
+4
+
+ QUESTION:  It  says at the very  beginning, (A), 
+
+5  each plan shall provide  that.  And as some of  -- reading 
+
+6  some of  what you've written, it's  as if you  think those 
+
+7  words  mean in the original plan, and  -- and I think they 
+
+8  point to (c) to say it can't mean that. 
+
+9
+
+ MR. GOSSETT:  Justice Breyer, the amendment of a 
+
+10  plan  is  authorized  under  ERISA  section  402(b)(3). 
+
+11  402(b)(3)  is the  provision of  ERISA that says  any plan 
+
+12  must  include  a provision  that  allows amendments.  The 
+
+13  amendments  that are  authorized under 402(b)(3)  are then 
+
+14  limited by the anti-cutback rule,  by the provisions of -­
+
+15  of 203, by everything else in ERISA. 
+
+16
+
+ The -- these specific limitations on amendments, 
+
+17  though, are fully  -- are all read in  para materia.  Each 
+
+18 
+
+--  
+
+each  limitation  on  amendments  applies  to  every 
+
+19  amendment and there's no provision in 203  that says these 
+
+20  amendments are allowed. 
+
+21
+
+ QUESTION:  We're  back to the  circle.  I  mean, 
+
+22  the -- you're quite right.  Every time it  talks about the 
+
+23  amendments or otherwise, it uses  some word like you can't 
+
+24  reduce, and  the ordinary -- it would have been simpler if 
+
+25  they had amended  that word reduced, wherever  it appears, 
+
+1111 14th Street NW, Suite 400 
+
+48 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  with the same exception they have here in 203.  Then you'd 
+
+2  lose definitely  and you'd admit it.  On the  other hand, 
+
+3  they didn't put those words in and that gives the strength 
+
+4  to your argument. 
+
+5
+
+ But on the other hand, they say, well, yes, that 
+
+6  if in fact they didn't mean to read it in, they're  really 
+
+7  going to  reduce the  effectiveness of  that same  kind of 
+
+8  thing over in 203, you see, because they  just have it for 
+
+9  the forfeitability.  They don't have it for the reduction. 
+
+10  Really, please, that doesn't make  much sense.  So  that's 
+
+11  why,  you know,  I  can't get  a  firm answer  out of  the 
+
+12  language. 
+
+13
+
+ MR. GOSSETT: 
+
+I think  that  the text  of  the 
+
+14  statute is pretty clearly on my side.  The only thing that 
+
+15  Mr.  Goldstein can  point to is  this created  purpose and 
+
+16  supposed longstanding practice  of plans to be  allowed to 
+
+17  change  rules  retroactively in  light of  changing market 
+
+18  conditions.  But  though the plans  have been doing  that, 
+
+19  it's the text of the statute that controls and -­
+
+20
+
+ QUESTION:  But you  do  acknowledge that  plans 
+
+21  have  been  making  these changes  and  the  IRS has  been 
+
+22  accepting  them  for  purposes  of  the  employer's  tax 
+
+23  deductions. 
+
+24
+
+25
+
+ MR. GOSSETT:  I know, Justice -­
+
+ QUESTION:  Is that right? 
+
+1111 14th Street NW, Suite 400 
+
+49 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ MR.  GOSSETT:  I know,  Justice O'Connor,  that 
+
+2  they did so  in this case.  Beyond that, all we  have are 
+
+3  statements  in  the  IRS's  brief  and  in  the  National 
+
+4  Coordinating  Committee's  brief,  but  they're 
+
+not 
+
+5  actually -­
+
+6
+
+ QUESTION:  Now, section  203  refers to  normal 
+
+7  retirement plans.  You take the position  that it doesn't 
+
+8  cover early retirement. 
+
+9
+
+ MR. GOSSETT:  Section 203(a)(3)(B) doesn't apply 
+
+10  to the subsidized  portion of  early retirement  benefits. 
+
+11  The -- the -- that's obvious because it is an exception to 
+
+12  203(a)  which  says that  your  normal retirement  is non­
+
+13  forfeitable. 
+
+14
+
+ And the  Government has  taken this position  as 
+
+15  well.  This  is not  something that  we created.  In the 
+
+16  regulation 
+
+--  
+
+this  is  in  29  C.F.R.  2530.203. 
+
+The 
+
+17  Government explains  that a  plan can  provide that  early 
+
+18  retirement benefits are  suspended for  any reason -- for 
+
+19  any  reemployment  because  203(a)(3)(B) is  defining  the 
+
+20  universe  of  possible  suspension  rules  for  normal 
+
+21  retirement benefits, but  it doesn't -- doesn't  limit the 
+
+22  universe  of  suspension  rules  for  early  retirement 
+
+23  benefits. 
+
+24
+
+ And  in  fact,  in  September 
+
+--  
+
+on  the  same 
+
+25  amendment that applied to Messrs.  Heinz and Schmitt, that 
+
+1111 14th Street NW, Suite 400 
+
+50 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  -- in  that  same amendment,  the plan  provided that  for 
+
+2  benefits accrued after September 30th, 1998, but only sort 
+
+3  of  prospective  benefits, not  retroactive  benefits, any 
+
+4  post-retirement reemployment would  lead to those benefits 
+
+5  being suspended. 
+
+6
+
+ They -- and  -- and  this actually follows  from 
+
+7  the 
+
+--  
+
+again,  from  the IRS's  own  position. 
+
+In the 
+
+8  Internal  Revenue Manual,  the  IRS says  you  can have  a 
+
+9  provision saying that  any work is  -- is suspensive,  but 
+
+10  you can only do that prospectively because applying the -­
+
+11  such a  changed  rule retroactively  would decrease  their 
+
+12  benefits. 
+
+13
+
+ But to  the extent that you can have a rule that 
+
+14  says any work is suspensive,  that means that 203(a)(3)(B) 
+
+15  isn't  -- just  isn't  applicable  here.  It's  not  what 
+
+16  determines whether or not someone -- the rules that a plan 
+
+17  can have for early retirement benefits.  A plan can  have 
+
+18  a -­
+
+19
+
+ QUESTION:  Was  that  distinction made  in  the 
+
+20  Seventh Circuit between the early retirement benefits with 
+
+21  regard to the application of 203(a)? 
+
+22
+
+23
+
+ MR. GOSSETT:  Sorry. 
+
+ QUESTION:  Was that -- was that an argument that 
+
+24  you presented to  the Seventh  Circuit distinguishing  the 
+
+25  early retirements benefits from normal retirement benefits 
+
+1111 14th Street NW, Suite 400 
+
+51 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  for 203(a)  purposes?  I thought  it was -- that it  was 
+
+2  acknowledged in the Seventh Circuit that 203(a) applied to 
+
+3  the early retirement  benefits as  well as  the normal 
+
+--
+
+4  normal retirement benefits. 
+
+5
+
+ MR. GOSSETT:  203(a) applies to early retirement 
+
+6  benefits  to  the  extent  that  they  are  the  actuarial 
+
+7  equivalent, the net present -- the financial equivalent of 
+
+8  normal  retirement benefits,  but  not  to the  subsidized 
+
+9  portion of  -- of them.  So -- so  I think the  answer is 
+
+10  yes, we did say that in -- in the lower court, but I'm not 
+
+11  100 percent sure, Justice Ginsburg. 
+
+12
+
+ The -- one other  point I  wanted to  -- to  go 
+
+13  over.  Though the plan argues that 204(g) doesn't apply to 
+
+14  this change -- they say that the change only applies  to a 
+
+15  reduction in the value of a life annuity -- that's not the 
+
+16  statutory term.  The  -- the  statutory definition  of an 
+
+17  accrued benefit,  which is in  ERISA section  323, is  the 
+
+18  individual's accrued  benefit determined  under the  plan. 
+
+19  It's whatever the plan promises to the participant that is 
+
+20  protected by the plan.  It's --
+
+21
+
+ QUESTION:  You  -- you say that  204(g) prevents 
+
+22  the plan at  the outset  from rendering itself  amendable, 
+
+23  but if you agreed with  them that 204(g) does not  prevent 
+
+24  the  later amendment,  it would also  be true  that 204(g) 
+
+25  does not  prevent the employer  from the outset  at saying 
+
+1111 14th Street NW, Suite 400 
+
+52 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  that the retirement  benefits are  amendable.  Isn't  that 
+
+2  right? 
+
+3
+
+ MR. GOSSETT:  Justice Scalia,  it allows an 
+
+--
+
+4  you can make an amendment --
+
+5
+
+ QUESTION:  I  was making the point  earlier that 
+
+6  even if we find for you, the employer would -- would  have 
+
+7  a way of -- of solving the problem, which is simply at the 
+
+8  outset to set forth.  Now, it's very difficult for them to 
+
+9  respond to that  argument when they  say that 204(g)  does 
+
+10  not stop -- does -- does not prevent a later change in the 
+
+11  plan.  How could it possibly prevent a later change but -­
+
+12  not prevent  a later change, but  prevent a change  at the 
+
+13  outset and announce that you're going to make a change? 
+
+14
+
+ MR.  GOSSETT: 
+
+Well, it  clearly  prevents the 
+
+15  later change, which is what is at  issue here.  I think it 
+
+16  also prevents the earlier change because I think any other 
+
+17  reading  of the  anti-cutback  rule reads  it  out of  the 
+
+18  statute, but I don't think the Court needs to address that 
+
+19  question in this case. 
+
+20
+
+ QUESTION:  But  another way of  putting Justice 
+
+21  Scalia's point is  if they're right, it's  surprising that 
+
+22  they  didn't make the point clearer in their plans because 
+
+23  it would have been legal to do so. 
+
+24
+
+ MR. GOSSETT:  I don't think -- they didn't  make 
+
+25  this argument  below, to the best  of my knowledge.  They 
+
+1111 14th Street NW, Suite 400 
+
+53 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  made this argument that -­
+
+2
+
+ QUESTION:  But I  mean if their basic theory  of 
+
+3  the  204(g)  is correct,  then  all the  plans  could have 
+
+4  solved this problem by saying so expressly so nobody would 
+
+5  have been  fooled as your clients  were.  They  could have 
+
+6  said in the  plan itself, we retain the  right to do this. 
+
+7  They say  it's  just there  by statute,  but  the plan  is 
+
+8  somewhat ambiguous, and they could  have said so expressly 
+
+9  if they're right and you're wrong. 
+
+10
+
+11
+
+ MR. GOSSETT:  Yes. 
+
+ QUESTION:  They couldn't have  done it if you're 
+
+12  right and they're wrong. 
+
+13
+
+ MR.  GOSSETT: 
+
+That's exactly  right,  Justice 
+
+14  Stevens.  But of course, they didn't. 
+
+15
+
+ The -- the  main provision on amendments  in the 
+
+16  plan, which  is  the provision  at page  50  of the  joint 
+
+17  appendix, says that no amendment  can decrease the accrued 
+
+18  value.  They  elsewhere in the  plan talk about  notifying 
+
+19  participants of  changes to  the plan  and discussed  that 
+
+20  there could be a change,  but that change -- that  doesn't 
+
+21  say that there can be  a retroactive change.  There  could 
+
+22  have been a  prospective change  that loosened the  rules. 
+
+23  There  could  also  have been  a  prospective  change that 
+
+24  applied to newly accrued benefits because by the terms  of 
+
+25  that provision, the -­
+
+1111 14th Street NW, Suite 400 
+
+54 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ QUESTION: 
+
+Thank you,  Mr.  -- thank  you, Mr. 
+
+2  Gossett. 
+
+3
+
+4
+
+5
+
+6
+
+ Mr. Goldstein, you have 2 minutes remaining. 
+
+ REBUTTAL ARGUMENT OF THOMAS C. GOLDSTEIN 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR.  GOLDSTEIN:  Thank you, Mr.  Chief Justice, 
+
+7  and may it please the Court: 
+
+8
+
+ I  have four points.  The  first deals with what 
+
+9  kind of promises we can make to participants that they can 
+
+10  enforce.  The promise can only  go in one direction.  That 
+
+11  is, if we promise them  we will not change the  suspension 
+
+12  rules, if they -- trustees  put that provision in and  the 
+
+13  employees and the participants rely  on it, we -- that 
+
+--
+
+14  to -- to change that would violate the plan and they would 
+
+15  have a right under 502 to enforce it. 
+
+16
+
+ But,  Justice  Scalia,  there  is  no  way  that 
+
+17  there's a middle ground under which the plans flag for the 
+
+18  participants, hey, this is open to a change because 204(g) 
+
+19  -- if  they  win, they'll  win under  204(g).  204(g)  is 
+
+20  categorical.  You can't reduce  benefits even if  you say 
+
+21  you're going  to.  It's  just no way you  can do it.  And 
+
+22  therefore, the only middle ground  is under our provision. 
+
+23  If participants and  the trustees  want a plan  provision, 
+
+24  making it  a concrete promise, we won't  change the rules. 
+
+25  If that's in the plan, it would be enforceable against us. 
+
+1111 14th Street NW, Suite 400 
+
+55 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1  But it isn't. 
+
+2
+
+3
+
+ Second -­
+
+ QUESTION:  No, but  your plan  could have  made 
+
+4  clear what you say the law otherwise authorizes. 
+
+5
+
+ MR. GOLDSTEIN:  It could  have, although I would 
+
+6  say that  the provisions  cited  by the  Assistant to  the 
+
+7  Solicitor General talks  about telling a person  who is in 
+
+8  retirement  about  a  material change  in  the  suspension 
+
+9  rules,  and that's -- that's pretty clear to my mind.  But 
+
+10  it's true.  It could have gone -- we could have  been even 
+
+11  more clear, but this is  a right, a statutory right,  that 
+
+12  we have. 
+
+13
+
+ Justice O'Connor,  Justice  Ginsburg, what  does 
+
+14  203 cover?  It  covers a  normal retirement  benefit, and 
+
+15  usually what  we think of as an  early retirement benefit, 
+
+16  that is,  the unsubsidized  portion of  an -- of a  early 
+
+17  retirement benefit. 
+
+18
+
+ The  third  is  it  is 
+
+--  
+
+Justice  Breyer  is 
+
+19  absolutely right about the purpose of this  provision.  We 
+
+20  want  to be  able to  adjust to current  labor conditions. 
+
+21  And Justice Souter,  the statute recognizes that.  203(a) 
+
+22  has  a special rule  for multiemployer plans.  They cover 
+
+23  things  like  construction  and labor  where  the  markets 
+
+24  change a lot, and they  have a much narrower provision  in 
+
+25  203 for single employer plans. 
+
+1111 14th Street NW, Suite 400 
+
+56 
+
+Alderson Reporting Company 
+
+Washington, DC 20005 
+
+1
+
+ But  ultimately, I  think  that  this is  fairly
+
+
+2  characterized  as  ambiguous. 
+
+The  agency here  has  an
+
+
+3  enormous amount of experience in balancing the purposes of
+
+
+4  these  different  statutes  and knowing  what's  different
+
+
+5  between a decrease and a suspension.
+
+
+6
+
+ CHIEF  JUSTICE  REHNQUIST: 
+
+Thank  you,  Mr.
+
+
+7  Goldstein.
+
+
+8
+
+9
+
+ The case is submitted. 
+
+
+ (Whereupon,  at  11:07  a.m.,  the case  in the
+
+
+10  above-entitled matter was submitted.)
+
+
+11
+
+
+12
+
+
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+1111 14th Street NW, Suite 400 
+
+57
+
+
+Alderson Reporting Company
+
+
+Washington, DC 20005 
+
+

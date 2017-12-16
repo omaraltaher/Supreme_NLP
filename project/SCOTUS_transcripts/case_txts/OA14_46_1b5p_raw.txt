@@ -1,0 +1,15042 @@
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+MICHIGAN, ET AL., 
+
+               
+
+: 
+
+ Petitioners 
+
+         
+
+:  No. 14­46 
+
+ v. 
+
+                       
+
+: 
+
+ENVIRONMENTAL PROTECTION 
+
+        
+
+: 
+
+AGENCY, ET AL.; 
+
+                 
+
+: 
+
+ : 
+
+AND 
+
+                             
+
+: 
+
+ : 
+
+UTILITY AIR REGULATORY 
+
+          
+
+: 
+
+GROUP, 
+
+                          
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 14­47 
+
+ v. 
+
+                           
+
+: 
+
+ENVIRONMENTAL PROTECTION 
+
+        
+
+: 
+
+AGENCY, ET AL.; 
+
+                 
+
+: 
+
+ : 
+
+AND 
+
+                             
+
+: 
+
+ : 
+
+NATIONAL MINING ASSOCIATION, 
+
+    
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 14­49 
+
+ v. 
+
+                           
+
+: 
+
+ENVIRONMENTAL PROTECTION 
+
+        
+
+: 
+
+AGENCY, ET AL.; 
+
+                 
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+1
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11
+
+12 
+
+13
+
+14
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ Washington, D.C. 
+
+ Wednesday, March 25, 2015 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:14 a.m. 
+
+APPEARANCES: 
+
+AARON D. LINDSTROM, ESQ., Solicitor General, Lansing, 
+
+ Mich.; on behalf of State Petitioners. 
+
+F. WILLIAM BROWNELL, ESQ., Washington, D.C.; on behalf 
+
+ of industry Petitioners and Respondents in support. 
+
+GEN. DONALD B. VERRILLI, JR., ESQ., Solicitor General, 
+
+ Department of Justice, Washington, D.C.; on behalf of 
+
+ Federal Respondents. 
+
+PAUL M. SMITH, ESQ., Washington, D.C.; on behalf of 
+
+ industry Respondents. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+AARON D. LINDSTROM, ESQ. 
+
+ On behalf of State Petitioners 
+
+                 
+
+4 
+
+ORAL ARGUMENT OF 
+
+F. WILLIAM BROWNELL, ESQ. 
+
+ On behalf of industry Petitioners and 
+
+ Respondents in support 
+
+                         
+
+28 
+
+ORAL ARGUMENT OF 
+
+GEN. DONALD B. VERRILLI, JR., ESQ. 
+
+ On behalf of the Federal Respondents 
+
+           
+
+41 
+
+ORAL ARGUMENT OF 
+
+PAUL M. SMITH, ESQ. 
+
+ On behalf industry Respondents 
+
+                 
+
+70 
+
+REBUTTAL ARGUMENT OF 
+
+AARON D. LINDSTROM, ESQ. 
+
+ On behalf of State Petitioners 
+
+                 
+
+86 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (10:14 a.m.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+this morning in Case 14­46, Michigan v. The 
+
+Environmental Protection Agency and the consolidated 
+
+cases. 
+
+ Mr. Lindstrom. 
+
+ ORAL ARGUMENT OF AARON D. LINDSTROM 
+
+ ON BEHALF OF STATE PETITIONERS 
+
+ MR. LINDSTROM: 
+
+Mr. Chief Justice, and may 
+
+it please the Court: 
+
+ EPA's view that it can decide whether to 
+
+regulate electric utilities without considering costs is 
+
+contrary to the text and structure of Section 7412. 
+
+ The text sets out two distinct terms and 
+
+thus directs EPA to consider whether it is appropriate 
+
+to regulate and whether it is necessary to regulate. 
+
+EPA found that it's necessary to regulate because of the 
+
+existence of public health harms, and it found it's 
+
+appropriate to regulate for the exact same reason, the 
+
+existence of public health harms. 
+
+ So its interpretation ­­
+
+ JUSTICE KAGAN: 
+
+General, I'm not sure that 
+
+that's quite what EPA said.  My understanding of what 
+
+EPA said is that it's necessary because of public health 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+harms and that it's appropriate because there are 
+
+technologies that can redress or remedy those public 
+
+health harms.  So on the one hand, it said that ­­ it 
+
+said that the phrase "appropriate" went to the nature of 
+
+the harms.  The phrase ­­ the phrase "necessary" went to 
+
+the nature of the harms.  The phrase "appropriate" went 
+
+to the existence of technologies. 
+
+ MR. LINDSTROM: 
+
+Justice Kagan, when they 
+
+relied on the availability of controls, they did that 
+
+only after having already said that we must find it's 
+
+appropriate if a health hazard exists.  So they've 
+
+already determined that the health hazard is a necessary 
+
+and sufficient condition so the existence of controls is 
+
+something that's not ­­
+
+ JUSTICE SCALIA: 
+
+Where is that?  Can you 
+
+give us a citation to their opinion?  I mean, the 
+
+language speaks for itself, I assume.  What are you 
+
+referring to? 
+
+ MR. LINDSTROM: 
+
+For example, if you look ­­
+
+this is in our reply brief, but if you're looking at ­­
+
+ JUSTICE SCALIA: 
+
+In the reply brief? 
+
+ MR. LINDSTROM: 
+
+Yes, Your Honor. 
+
+ I think the ­­ that points you to the actual 
+
+final rule.  That's volume 1 of the UR petition 
+
+appendix.  So the language ­­ let me find it in the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22
+
+23
+
+24 
+
+25 
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+reply brief.  I have the UR ­­ I have the volume. 
+
+ JUSTICE SOTOMAYOR: 
+
+I'm sorry, what was the 
+
+page? 
+
+ MR. LINDSTROM: 
+
+Sure.  If you turn to the 
+
+UR Petition Appendix volume 1. 
+
+ JUSTICE SCALIA: 
+
+Good Lord. 
+
+ MR. LINDSTROM: 
+
+Page 196.  This is the text 
+
+of the final rule.  Page 206A.  I misspoke the first 
+
+time.  206 says, "We must find" ­­ at the top of the 
+
+page ­­ "We must find it appropriate to regulate EGUs 
+
+under Clean Air Act Section 112 if we determine that a 
+
+single HAP emitted from EGUs poses a hazard to public 
+
+health or environment." 
+
+ They said we must regulate. 
+
+And the phrase 
+
+"must regulate" means that when you get back to the 
+
+availability of controls, then there's nothing left to 
+
+be done.  You've already said that we have to do it so 
+
+the availability of controls isn't doing any additional 
+
+work. 
+
+ The over ­­
+
+ JUSTICE KENNEDY: 
+
+Is the government going to 
+
+say that if the predicate for regulation exists, i.e., 
+
+there are emissions, then it's appropriate to regulate? 
+
+That's what the government will say.  I mean, that's ­­
+
+"appropriate" is a capacious term. 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ MR. LINDSTROM: 
+
+It absolutely is. 
+
+ JUSTICE KENNEDY: 
+
+And it would seem to me 
+
+that the government will say, well, it's appropriate to 
+
+regulate if there's an emission, so ­­
+
+ MR. LINDSTROM: 
+
+It is a capacious term, but 
+
+it, in fact, cuts against the government because one of 
+
+the things that's encompassed within the term 
+
+"appropriate" is that it looks at all of the 
+
+circumstances in the context of determining whether or 
+
+not you're going to regulate costs is a relevant 
+
+circumstance.  So the very fact that it's capacious cuts 
+
+against them. 
+
+ But the fact that they're ­­ they've said we 
+
+must find it's appropriate to regulate means that this 
+
+other control ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Well, I thought ­­
+
+ JUSTICE KAGAN: 
+
+Are you saying that they 
+
+didn't ­­ that they didn't look at the availability of 
+
+technologies?  Is that what you're saying?  That they 
+
+thought that the availability of technologies was itself 
+
+irrelevant to the determination?  Is that your argument? 
+
+ MR. LINDSTROM: 
+
+We're not saying they 
+
+thought it was irrelevant.  They thought ­­ well, I 
+
+guess logically irrelevant.  They thought that it's 
+
+something they did look at.  It's something that when 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+they did the utility study, they examined the 
+
+availability of controls, but then they said regardless 
+
+of whether or not controls are available, if a health 
+
+hazard exists, we have to regulate.  So if I can give an 
+
+example ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I ­­ I'm sorry.  I 
+
+thought they said only if it was necessary.  Congress 
+
+was motivated in not listing these sources because it 
+
+didn't know whether the technology that was going to be 
+
+put in place to control acid rain would reduce the HAPs 
+
+sufficiently so that regulation wasn't necessary or a 
+
+listing wasn't necessary. 
+
+ I had a different understanding of 
+
+appropriate and necessary.  Appropriate if there were 
+
+HAPs, but necessary only if those HAPs were not 
+
+sufficiently controlled by the other technology. 
+
+ MR. LINDSTROM: 
+
+The necessary ­­ both of 
+
+them looked at whether or not there was going to be an 
+
+ongoing harm because both necessary and appropriate 
+
+turned on the utility study.  The utility study was 
+
+something that examined what health hazards would remain 
+
+after all the other regulations ­­
+
+ JUSTICE SOTOMAYOR: 
+
+The health hazard could 
+
+have been low enough so that no ­­ no standards were 
+
+necessary. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+ MR. LINDSTROM: 
+
+Well, they determined how 
+
+severe ­­ the severity to the health hazard.  The 
+
+severity went into determining whether or not a public 
+
+health hazard existed at all.  So they looked at the ­­
+
+the effects, and the only place they looked at severity 
+
+in the final rule was determining whether or not a 
+
+public hazard existed.  Once there were enough health 
+
+effects that there was a public health hazard, then they 
+
+said we must regulate.  And the fact that they said we 
+
+must regulate, it's necessary to regulate, is exactly 
+
+the same as what they said with appropriate, that we 
+
+must regulate. 
+
+ JUSTICE KAGAN: 
+
+Can ­­ can I step back for a 
+
+minute, General Lindstrom?  Because it seems to me that 
+
+this quest for very particular meanings attached to each 
+
+one of these adjectives; "appropriate" means X and 
+
+"necessary" means Y.  If we step back a little bit, I 
+
+mean, that kind of language is used all over the U.S. 
+
+Code and, indeed, that kind of language is used in our 
+
+Constitution, the Necessary and Proper Clause. 
+
+ And as I understand what courts have done 
+
+with that kind of language, that they haven't insisted 
+
+that there be separate, defined meanings for each of 
+
+those words.  When John Marshall was doing this in 
+
+McCulloch, in fact, he starts off with the word 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ "necessary" and then he says, no, this is a phrase and 
+
+ we have to understand what the phrase as a whole means. 
+
+ And why shouldn't we similarly say this idea that, you 
+
+ know, you can catch them in a redundancy or a superfluity, 
+
+ it's just not right because it's a complete 
+
+ phrase. 
+
+ MR. LINDSTROM: 
+
+I think there's two 
+
+ responses to that.  First of all, under the Necessary 
+
+ and Proper Clause, if you look at what this Court did in 
+
+ Printz v. The United States, it recognized something 
+
+ might be necessary and not necessarily proper.  The 
+
+ commandeering of State legislature might be necessary 
+
+ to couch what you're trying to do ­­
+
+ JUSTICE SCALIA: 
+
+Exactly.  We ­­ we have 
+
+ separated out the two words and ­­ and said something 
+
+ could be necessary and not proper.  And what Marshall 
+
+ said was that necessary doesn't mean absolutely 
+
+ indispensable.  It just means useful.  That's quite 
+
+ different from saying that proper has no ­­ has no role 
+
+ to play.  It can be necessary; that is, useful to the 
+
+ Federal government, and yet not proper.  So I ­­
+
+ JUSTICE SOTOMAYOR: 
+
+So why do you get to 
+
+ pick what it means?  I mean, I thought in ­­ in our 
+
+ agency law we repeatedly say if a term is ambiguous, 
+
+ and there is no legal definition of appropriate, it's 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ contextual, yes.  But, by definition, if you're saying a 
+
+ word that's not self­defined, you have to look at in 
+
+ context, then it's ambiguous. 
+
+ MR. LINDSTROM: 
+
+I don't think it's ambiguous 
+
+ in context.  You can use the word "appropriate" in such 
+
+ a way that everyone understands what you're meaning.  If 
+
+ I said we're going to take a group of people and we're 
+
+ going to go someplace and I want you to behave in an 
+
+ appropriate manner, and then I told you we're going to 
+
+ the library, everyone would know that that means be 
+
+ quiet. 
+
+ JUSTICE SOTOMAYOR: 
+
+Yes.  But I look at this 
+
+ statute and I see them doing the first part, the part 
+
+ at issue, and the very next provision says in 4 years 
+
+ instead of 3, do a mercury study that includes costs. 
+
+ I'm looking at it.  I can very safely say one study 
+
+ doesn't use the word "costs."  The other does.  The 
+
+ first one doesn't necessarily intend the costs to be 
+
+ looked at.  What is irrational or not plausible about 
+
+ that reading? 
+
+ MR. LINDSTROM: 
+
+Well ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Because we don't ­­ all 
+
+ we have to find is a plausible reading to ­­ to uphold 
+
+ the EPA's interpretation. 
+
+ MR. LINDSTROM: 
+
+It's irrational because 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ they're taking the key statutory word and treating it as 
+
+ surplusage.  The language I should have pointed you to 
+
+ earlier is on page 4 of our reply brief.  So the ­­ by 
+
+ treating them as doing the exactly the same work, 
+
+ they're reading a word out of the statute.  And Chevron 
+
+ deference doesn't extend so far as to say we can violate 
+
+ an ordinary rule of statutory construction, which is 
+
+ that independent words have ­­
+
+ JUSTICE GINSBURG: 
+
+But the word ­­ the word 
+
+ "appropriate," often it's a signal that discretion 
+
+ is what's fitting and you have an expert agency.  So the 
+
+ word "appropriate," I think, is commonly used to 
+
+ indicate that the expert agency will do what it finds 
+
+ fit based on its expertise.  So, how you ­­ well, you 
+
+ are saying that appropriate necessarily embodies a cost 
+
+ calculation and yet this is a statute that uses cost, 
+
+ directs EPA to consider costs multiple, multiple times. 
+
+ Is there any case in all ­­ all of our 
+
+ decisions where we have said even though there was no 
+
+ instruction to consider costs, EPA is required to 
+
+ consider costs?  Is there any such decision? 
+
+ MR. LINDSTROM: 
+
+I don't think this ­­ no, I 
+
+ don't think this issue has arisen the same way where 
+
+ Congress has given broad discretion to an agency, told 
+
+ them to look at all of the circumstances, and the agency 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ has said, we're going to ignore what is an important 
+
+ part of the problem.  And that's why, in the way that 
+
+ Judge Kavanaugh looked at it, this is a problem under 
+
+ Chevron Step 1, 2 or under the State Farm doctrine, 
+
+ because agencies are supposed to not ignore an essential 
+
+ part of the problem as they engage in reasoned 
+
+ decision­making. 
+
+ JUSTICE KAGAN: 
+
+But I think what Justice 
+
+ Ginsburg is getting at, General Lindstrom, is, you know, 
+
+ sometimes what we've done is we've looked at silence and 
+
+ we've said given that silence, cost considerations are 
+
+ precluded, right?  So that's the example in Whitman. 
+
+ Sometimes we've said silence still allows agency 
+
+ discretion.  They can do what they want with it.  But 
+
+ it's so far from our most closely analogous case, which 
+
+ is Whitman, to say not only is ­­ is cost 
+
+ considerations, you know, not precluded, it's ­­ it's 
+
+ required when there's silence as to that subject. 
+
+ Now, if Congress wanted to require 
+
+ something, and clearly, Congress required this in other 
+
+ places, Congress knows how to require consideration of 
+
+ costs, to get from silence to this notion of a 
+
+ requirement seems to be a pretty big jump. 
+
+ MR. LINDSTROM: 
+
+And Justice Kagan, I don't 
+
+ think it is silent when it tells the agency to look at 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ all of the circumstances.  And the material circumstance 
+
+ in the context of the question that the agency has to 
+
+ answer is should we regulate under this section, costs 
+
+ are part of the relevant materials ­­
+
+ JUSTICE SCALIA: 
+
+I'm not even sure I agree 
+
+ with the premise that when ­­ when Congress says nothing 
+
+ about cost, the agency is entitled to disregard cost.  I 
+
+ would think it's classic arbitrary and capricious agency 
+
+ action for an agency to command something that is 
+
+ outrageously expensive and ­­ and in which the expense 
+
+ vastly exceeds whatever public benefit can be ­­ can be 
+
+ achieved.  I would think that's ­­ that's a violation of 
+
+ the Administrative Procedure Act. 
+
+ MR. LINDSTROM: 
+
+And I think that's where ­­
+
+ JUSTICE SCALIA: 
+
+Even without the word 
+
+ "appropriate." 
+
+ MR. LINDSTROM: 
+
+And I think that's where 
+
+ there's overlap between what the State ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I'm sorry.  The study at 
+
+ issue that Congress commanded was simply a study.  "The 
+
+ administrator shall perform a study of the hazards to 
+
+ public health, reasonably anticipated to occur as a 
+
+ result of emissions by electric utility steam­generating 
+
+ units."  So the study that was directed to be made was 
+
+ only of public health hazards.  And then it says, "The 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ administrator shall regulate these entities after" ­­
+
+ under this section ­­ "if it finds regulation is 
+
+ appropriate and necessary after considering the results 
+
+ of the study." 
+
+ So if the study is directed only at public 
+
+ health hazards, doesn't talk about ­­ it doesn't talk at 
+
+ all about cost, just public health hazards, why in the 
+
+ world would one assume that Congress was thinking about 
+
+ cost?  Why didn't it do as it did with mercury?  Make 
+
+ sure the study tells us how much control is going to 
+
+ cost.  But it didn't do that.  It just said tell us if 
+
+ they're a public health hazard. 
+
+ MR. LINDSTROM: 
+
+And, Your Honor, it didn't 
+
+ limit the considerations that EPA was supposed to look 
+
+ at only the study.  It says to consider the study ­­
+
+ JUSTICE SOTOMAYOR: 
+
+But it says only the 
+
+ study. 
+
+ MR. LINDSTROM: 
+
+It doesn't say only the 
+
+ study. 
+
+ JUSTICE SOTOMAYOR: 
+
+After it says ­­ it 
+
+ says, "The administrator shall regulate if the 
+
+ administrator finds such regulation is appropriate and 
+
+ necessary after considering the results of the study. 
+
+ After considering the results of the study."  The only 
+
+ thing that the study requires is a ­­ an evaluation of 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ hazards to public health. 
+
+ MR. LINDSTROM: 
+
+Well, first of all ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I'm not sure how you get 
+
+ to ­­ to ­­ to them having to do another step, when the 
+
+ only step that's a prerequisite to registration is 
+
+ studying public health hazards. 
+
+ MR. LINDSTROM: 
+
+Well, first of all, even EPA 
+
+ doesn't think it's limited solely to the things that 
+
+ were studied in that utility study.  They rely on 
+
+ environmental harms to justify ­­
+
+ JUSTICE SOTOMAYOR: 
+
+But that doesn't ­­
+
+ JUSTICE SCALIA: 
+
+Does it say after 
+
+ considering only the results of the study? 
+
+ MR. LINDSTROM: 
+
+No, Your Honor.  That's ­­
+
+ JUSTICE SCALIA: 
+
+It doesn't say that, does 
+
+ it? 
+
+ MR. LINDSTROM: 
+
+No, Your Honor.  That's 
+
+ correct, it doesn't ­­
+
+ JUSTICE SCALIA: 
+
+Sure.  And they have to 
+
+ consider the results of the study.  It doesn't say they 
+
+ can't consider everything else.  And the word 
+
+ "appropriate" seems to suggest that they may consider 
+
+ other stuff. 
+
+ MR. LINDSTROM: 
+
+Correct.  So there's a study 
+
+ they're supposed to look at, but that's not the end of 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ the analysis.  They're supposed to do something else. 
+
+ That second step is to figure out whether it's also 
+
+ appropriate and necessary to regulate.  So it didn't 
+
+ stop at just the study.  And again, EPA agrees they can 
+
+ look beyond the results of the study.  They look at 
+
+ environmental harms, which is not particularly mentioned 
+
+ here and is mentioned in (n)(1)(b). 
+
+ JUSTICE ALITO: 
+
+It ­­ it seems to me that a 
+
+ very salient feature of the statutes that we have to 
+
+ interpret, maybe the most salient feature is that 
+
+ Congress chose to treat power plants differently from 
+
+ other sources.  It could have treated them the same way 
+
+ and if it hadn't done that, then the ­­ the listing 
+
+ decision would not have taken into account costs, it 
+
+ would have been based on emissions, right? 
+
+ Or if it was an area source, it would have 
+
+ been based on effect of health alone.  So what, if 
+
+ anything, can we infer from that, from the fact that 
+
+ Congress pointedly decided to treat power plants 
+
+ differently? 
+
+ MR. LINDSTROM: 
+
+I think we can tell that 
+
+ they're trying to create a different regime.  They're 
+
+ trying to do something different here than they did 
+
+ elsewhere.  And That includes ­­
+
+ JUSTICE KAGAN: 
+
+But they were trying to 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ create a different regime, but the reason is pretty 
+
+ clear on its face.  They were trying to create a 
+
+ different regime because they thought that the Acid Rain 
+
+ Program might have a real impact on what these electric 
+
+ utilities were doing.  So they said, wait and see and 
+
+ let's see how the Acid Rain Program works, and let's see 
+
+ if we still have a problem to solve.  And that's the 
+
+ reason why they put the electric utilities in a 
+
+ different category, isn't it? 
+
+ MR. LINDSTROM: 
+
+And that highlights why 
+
+ costs are significant.  The Acid Rain Program, in 
+
+ particular, was an economically­based approach that was 
+
+ determined to regulate in a cost­effective manner. 
+
+ JUSTICE KAGAN: 
+
+But the point is that the 
+
+ Acid Rain Program didn't do what they ­­ Congress 
+
+ thought it might have done, and it was still left with 
+
+ this issue of continuing harm from the electric, 
+
+ utilities.  And then once that happened, it seems to me 
+
+ that it's natural to take a look at the rest of the 
+
+ statute and to say, let's regulate in a similar way to 
+
+ the way all other industries are being regulated. 
+
+ MR. LINDSTROM: 
+
+But if they had wanted to do 
+
+ it in the same way, there would have been no need to use 
+
+ the phrase, "necessary and appropriate."  They could 
+
+ have just simply gone to the ten­ton threshold emissions 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ that apply to major sources and to the risk­based 
+
+ analysis that goes to area sources.  So the fact that 
+
+ they used different criteria here in (n)(1) as opposed 
+
+ to criteria that's listed in 7412(c) ­­
+
+ JUSTICE KAGAN: 
+
+Well, they could have, but 
+
+ they might have thought, you know, let's take a look at 
+
+ the Acid Rain Program.  Let's take a look at the problem 
+
+ that still remains, if any, and let's give the 
+
+ discretion to the agency at that point, because it will 
+
+ be years down the road in a different set of 
+
+ circumstances. 
+
+ MR. LINDSTROM: 
+
+But the discretion includes 
+
+ looking at the entire problem.  I mean, again, the 
+
+ language in the circumstances requires looking at the 
+
+ material circumstances, and this ties into the State 
+
+ Farm test.  You have to look at all of the relevant 
+
+ circumstances if you're engaged in  reasoned decision 
+
+ making.  You can't ignore an important part of the 
+
+ problem.  But I would like ­­
+
+ JUSTICE ALITO: 
+
+If the ­­ if the reason for 
+
+ the separate treatment was the belief that the Acid Rain 
+
+ Program would be sufficient at some point in time to 
+
+ bring emissions from power plants below the level that 
+
+ would result in their being listed if they were other 
+
+ sources, why would it be necessary to enact this 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ separate provision asking whether it's necessary and 
+
+ appropriate to regulate them? 
+
+ MR. LINDSTROM: 
+
+It could have just ­­
+
+ JUSTICE ALITO: 
+
+I don't see how that can be 
+
+ the explanation. 
+
+ MR. LINDSTROM: 
+
+Yes, Your Honor.  They could 
+
+ have just had a three­year delay if that's all they were 
+
+ trying to do, as opposed to ­­ and then go through the 
+
+ ordinary system. 
+
+ JUSTICE KAGAN: 
+
+No, because they didn't 
+
+ know.  They thought it might; they thought it might not. 
+
+ They were going to wait and see.  It depended on how the 
+
+ industry responded to the regulatory requirements of the 
+
+ Acid Rain Program. 
+
+ MR. LINDSTROM: 
+
+That still doesn't explain, 
+
+ Your Honor, why they chose to use different criteria as 
+
+ opposed to just reiterating the criteria that are under 
+
+ 7412(c) under the ordinary thing that applies to every 
+
+ other source.  They're still trying to treat electric 
+
+ utilities differently. 
+
+ And I would like to return to one point 
+
+ about the Acid Rain Program, which is that, again, if 
+
+ you're addressing emissions from electric utilities in a 
+
+ program that's specifically targeting electric utilities 
+
+ as they did in the Acid Rain Program and that was 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ entirely based on cost effectiveness, it makes little 
+
+ sense to look at what's remaining after you've already 
+
+ done that and then to say in this area of diminishing 
+
+ marginal utility, we're going to say costs are 
+
+ irrelevant.  That's backwards.  Costs would be 
+
+ especially relevant when you're in the area of what's 
+
+ left over. 
+
+ JUSTICE KENNEDY: 
+
+When the statute refers to 
+
+ the emissions standards for the 12 percent of the best 
+
+ performing plants, will the government say that 
+
+ implicitly is a cost consideration? 
+
+ MR. LINDSTROM: 
+
+I expect ­­
+
+ JUSTICE KENNEDY: 
+
+I mean, is that their 
+
+ position and if so, how do you answer? 
+
+ MR. LINDSTROM: 
+
+Right.  I expect they will. 
+
+ The way I would answer that is to say that that looks at 
+
+ plants across the range of how old they are.  So plants 
+
+ that were built in 2005, for example, might have been 
+
+ built in such a way that they have technology where it 
+
+ was cost effective to include certain control measures. 
+
+ But if you're looking at a plant that was built in 1960, 
+
+ imposing those same control measures on an older plant 
+
+ is something that  would be a lot more expensive. 
+
+ It's the difference between renovating your house and 
+
+ building it certainly in the first place. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE SOTOMAYOR: 
+
+But that's true of 
+
+ all ­­
+
+ JUSTICE KENNEDY: 
+
+Mandated ­­ if that's a 
+
+ mandated base from which the government must operate 
+
+ and ­­
+
+ MR. LINDSTROM: 
+
+It is. 
+
+ JUSTICE KENNEDY: 
+
+­­ and it's ­­ and I ­­ it 
+
+ seems to me like there's an implicit cost consideration 
+
+ there.  You still say that's insufficient because? 
+
+ MR. LINDSTROM: 
+
+Yes, Your Honor.  That's 
+
+ insufficient because it's not ­­ I'm explaining why it 
+
+ doesn't necessarily take costs into effect.  The fact 
+
+ that ­­ into consideration.  The fact that some 
+
+ utilities were able to impose things doesn't mean it 
+
+ would be cost effective for other ones to do it. 
+
+ JUSTICE BREYER: 
+
+Yes.  But why isn't that 
+
+ taken care of by ­­ you see, you have to take into 
+
+ account cost somewhere.  And so they ­­ they ­­ the 
+
+ other side says, well, there's room for that.  But 
+
+ suppose that 25 percent of all electricity generators 
+
+ are near waterfalls.  This is easy for them, okay?  But 
+
+ 75 percent, it's impossible and they'll all go out of 
+
+ business and we'll have no electricity.  Imagine that 
+
+ were so. 
+
+ Could the EPA, under their current theory, 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ take account of that?  Well, I guess the answer you want 
+
+ to say is no, but they say yes, they can.  What about 
+
+ this 12 percent rule?  You know, how does that ­­ well, 
+
+ a little bit earlier in the statute, it says, "The 
+
+ administrator may distinguish among classes, types and 
+
+ sizes of sources."  So if you really had this situation, 
+
+ you could say, look 75 percent of the generators in the 
+
+ United States have this really old technology and 
+
+ they'll all go out of business.  And EPA could say fine. 
+
+ That's a different class.  Okay.  I mean, if that were 
+
+ really true.  So ­­ so don't they have, through that 
+
+ provision and the 12 percent and the next one, the 
+
+ ability to take into account at least serious cost 
+
+ problems? 
+
+ MR. LINDSTROM: 
+
+Well, assuming they have the 
+
+ ability to take into account. 
+
+ JUSTICE BREYER: 
+
+Do they?  Yes or no?  Do 
+
+ they yes or no? 
+
+ MR. LINDSTROM: 
+
+No.  I think ­­
+
+ JUSTICE BREYER: 
+
+No, they don't.  Why not? 
+
+ MR. LINDSTROM: 
+
+The reason that costs are 
+
+ not directly relevant to the first one is what I was 
+
+ explaining about the 12 percent.  So in other words, as 
+
+ you ­­ the example you gave shows that some might be 
+
+ able to have the lower cost­effective approach just 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ because they're near a waterfall.  So relying on the 
+
+ fact that 12 percent were able to meet  this ­­
+
+ JUSTICE BREYER: 
+
+Fine.  My point was ­­ I ­­
+
+ I want an answer to this.  My point was, if in the 
+
+ imaginary situation that I've imagined, 20 percent of 
+
+ the generators, for whatever reason, can meet this 
+
+ pretty easily; the next 80 percent will require the 
+
+ entire gross national product to meet.  Suppose that 
+
+ were the situation.  You, I guess, could go to EPA and 
+
+ say, create, of that second group, a separate class, a 
+
+ separate type, for that's the reason it's so expensive. 
+
+ And, therefore, the 12 percent doesn't apply to them 
+
+ because they're in a separate class. 
+
+ Now, my question is: 
+
+Can you legally make 
+
+ that argument?  And they will take it into account.  And 
+
+ that's what I want a yes or no answer to. 
+
+ MR. LINDSTROM: 
+
+And I think the answer might 
+
+ be yes in the future, but now we can't do it because ­­
+
+ JUSTICE BREYER: 
+
+Did you make the argument 
+
+ here now? 
+
+ MR. LINDSTROM: 
+
+My point is that ­­
+
+ JUSTICE BREYER: 
+
+If you're saying yes in the 
+
+ future, let's now go to this case and say, did you make 
+
+ this argument? 
+
+ MR. LINDSTROM: 
+
+I don't believe either side 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ has made that argument. 
+
+ JUSTICE BREYER: 
+
+Fine.  I'll ­­ I'll ­­
+
+ JUSTICE SCALIA: 
+
+Has ­­ has the argue ­­ has 
+
+ the agency made this obvious argument? 
+
+ MR. LINDSTROM: 
+
+The agency has not ­­
+
+ JUSTICE SCALIA: 
+
+Has the agency said, we're 
+
+ going to take costs into account; we're going to use 
+
+ this ­­ this provision that Justice Breyer discovered, 
+
+ and ­­ and that's what we're going to do?  Is ­­ is that 
+
+ how the agency issued its rule? 
+
+ MR. LINDSTROM: 
+
+They did not.  The only 
+
+ distinction ­­
+
+ JUSTICE SCALIA: 
+
+I don't think so.  I never 
+
+ heard of this argument. 
+
+ MR. LINDSTROM: 
+
+It ­­
+
+ JUSTICE BREYER: 
+
+Now, wait, because I still 
+
+ want to know a fact.  I want to ­­ the fact that I want 
+
+ to know ­­ and you're familiar with this record ­­ is 
+
+ did anyone on your side of the issue ask the agency to 
+
+ take costs into account brutally, roughly, crudely, or 
+
+ did they all say we want a cost benefit analysis? 
+
+ I would like your characterization of the 
+
+ record on that point, because reading what they've said, 
+
+ it's about cost­benefit analysis, that paragraph.  So 
+
+ that gave me the idea that maybe everyone interested in 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ cost asked for a cost­benefit analysis. 
+
+ MR. LINDSTROM: 
+
+And I think the answer is 
+
+ that we asked them to consider costs.  We thought a 
+
+ cost­benefit analysis is the ordinary way that a 
+
+ reasoned agency decision­making happens, not through 
+
+ some vague sense of what the costs are, but by doing an 
+
+ analysis.  And they have said ­­ their entire position 
+
+ here is that we don't need to do that because costs are 
+
+ irrelevant.  That's not something we have to consider 
+
+ under the statute. 
+
+ JUSTICE SOTOMAYOR: 
+
+As I understand ­­
+
+ JUSTICE KAGAN: 
+
+General ­­
+
+ JUSTICE SOTOMAYOR: 
+
+As I understand what 
+
+ happens, listing and standards are the only things that 
+
+ you can generally appeal from.  It's only a final agency 
+
+ action when the ­­ when the standards are issued.  And I 
+
+ thought it was at the issuance of the standards that the 
+
+ government sometimes breaks up the sources and the 
+
+ amount of emissions that each type of source that 
+
+ Justice Breyer is talking about can have. 
+
+ So I think the listing is just of a broad 
+
+ category, because we've had plenty of cases in ­­ in 
+
+ this Court where we've looked at the agency saying this 
+
+ type of source meets these standards, that type of 
+
+ source meets another standard.  Isn't that the way it 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ works? 
+
+ MR. LINDSTROM: 
+
+Well, that highlights why 
+
+ they're not treating this as separate listing versus 
+
+ regulatory decision.  They did both at the exact same 
+
+ time here.  Same time they made the necessary and 
+
+ appropriate finding, they also promulgated the emission 
+
+ standards.  And that shows this isn't simply a typical 
+
+ listing standard. 
+
+ JUSTICE SCALIA: 
+
+Once ­­ once they're 
+
+ listed, they are subject to minimum standards, aren't 
+
+ they? 
+
+ MR. LINDSTROM: 
+
+That's absolutely correct, 
+
+ and must be ­­
+
+ JUSTICE SCALIA: 
+
+And it's not up to the 
+
+ agency to calibrate standards.  Once they're listed, 
+
+ minimum standards apply, right? 
+
+ MR. LINDSTROM: 
+
+Absolutely. 
+
+ JUSTICE SCALIA: 
+
+And the agency could have 
+
+ discretion as to whether to lift the standards further, 
+
+ but the minimums apply, right? 
+
+ MR. LINDSTROM: 
+
+That's EPA's position. 
+
+ You ­­
+
+ JUSTICE SCALIA: 
+
+That's theirs. 
+
+ MR. LINDSTROM: 
+
+­­ must regulate as soon 
+
+ as ­­ has been made. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ If I could reserve my time for rebuttal. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, 
+
+ Mr. Lindstrom. 
+
+ Mr. Brownell. 
+
+ ORAL ARGUMENT OF F. WILLIAM BROWNELL 
+
+ ON BEHALF OF INDUSTRY PETITIONERS 
+
+ AND RESPONDENTS IN SUPPORT 
+
+ MR. BROWNELL: 
+
+Mr. Chief Justice, and may it 
+
+ please the Court: 
+
+ I would like to make three points to 
+
+ supplement my colleague's argument:  First, regarding 
+
+ the nature of power plant regulation under the Clean Air 
+
+ Act; second, the language of Subsection (n)(1)(A); and, 
+
+ third, the broader Clean Air Act context. 
+
+ To begin, power plants are the most 
+
+ regulated source category under the Clean Air Act both 
+
+ before 1990 and after the 1990 Amendments.  The Court 
+
+ has talked about some of the programs.  It's not only 
+
+ Title IV Acid Deposition Program, but a visibility, 
+
+ best available retrofit technology, pollution transport 
+
+ programs targeted at power plants, and a variety of 
+
+ other control programs, both control and air quality. 
+
+ JUSTICE KAGAN: 
+
+Mr. Brownell, I ­­ I would 
+
+ think that cuts the other way, that every other 
+
+ significant industry in the United States is subject to 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ this program except for electric power plants. 
+
+ MR. BROWNELL: 
+
+Your Honor, what it shows is 
+
+ that for the other industries, EPA estimated in 2010 
+
+ that for all other industries, this Air Toxics Program 
+
+ would impose compliance costs of about $840 million. 
+
+ All of these other programs for power plants would 
+
+ impose compliance costs, EPA estimated in 2011, about 
+
+ 10.4 billion. 
+
+ This single regulation now on air toxics 
+
+ imposes annual costs of 9.6 billion.  And what does one 
+
+ get for it?  There are three standards at issue here, 
+
+ and I think that this is important to understand some of 
+
+ the questions that have been asked.  There's a regulation 
+
+ for mercury, there's a regulation for nonmercury metals, 
+
+ and there's a regulation for acid gases. 
+
+ Most of the costs here ­­ the majority, 
+
+ about 5 billion annually ­­ are associated with the acid 
+
+ gas regulation which the agency has concluded presents 
+
+ no public health risk, no public health concern.  The 
+
+ agency said that our modeling has consistently showed 
+
+ that power­plant­related exposures are at least an order 
+
+ of magnitude below the conservatively determined safe 
+
+ level. 
+
+ Now, in the Title IV program, Congress 
+
+ addressed pollution with acidification potential and 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+29
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ required reductions of 9 million tons a year at about a 
+
+ cost of 1 to 1.4 billion.  The Acid Gas Program is 
+
+ projected to result in reductions of acid gases about 
+
+ 40­ to 50,000 tons per year at a cost of $5 billion. 
+
+ What that background shows, Your Honor, is 
+
+ that when ­­ why Congress treated power plants 
+
+ differently.  It asked whether it is appropriate to 
+
+ impose further regulation of a specific type, whether 
+
+ it's appropriate to propose regulation under this 
+
+ section on the most aggressively regulated industry 
+
+ under the Clean Air Act. 
+
+ Now, what the statutory ­­
+
+ JUSTICE KAGAN: 
+
+Mr. Brownell, can I take you 
+
+ back to Justice Breyer's first question?  And the first 
+
+ question was about the way these categories work and how 
+
+ the categories enable the EPA to mitigate certain 
+
+ dramatic or onerous costs on certain segments of the 
+
+ industry, because that's not an unknown provision of any 
+
+ kind.  And, indeed, it seems to me that the provision 
+
+ very much cuts against your argument, because EPA, in 
+
+ some ways, can't even figure out the costs until it 
+
+ makes those categorization decisions.  But the aggregate 
+
+ costs, not just within each category, but the aggregate 
+
+ costs obviously depend on how EPA categorizes and 
+
+ subcategorizes. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ So you would have the EPA make the cost 
+
+ calculation before it really can, given the structure of 
+
+ the statute. 
+
+ MR. BROWNELL: 
+
+Your ­­ Your Honor, the cost 
+
+ does factor into a variety of determinations that are 
+
+ made as part of the regulatory process.  When EPA issued 
+
+ its Notice of Regulatory Finding in December of 2010, it 
+
+ said this is nonfinal.  EPA confirmed again ­­ and this 
+
+ is at page 555a of the UAR Petitioner's Appendix ­­ that 
+
+ the ­­ there is no final (n)(1)(A) determination or 
+
+ listing, and we are going to take comment on that as 
+
+ part of the rulemaking to examine Section 7412(d) 
+
+ emission standards. 
+
+ So as part of that, the agency addresses 
+
+ issues related to level of control, subcategorization, 
+
+ and at the end of the rulemaking comes out with a 
+
+ regulation that has certain characteristics and 
+
+ consequences.  And here this regulation ­­ what 
+
+ (n)(1)(A) says is, in light of the study, address 
+
+ whether such regulation under the section is appropriate 
+
+ and necessary for power plants. 
+
+ Now, it may be necessary to regulate 
+
+ something like mercury if there's a public health risk, 
+
+ and that's the only hazardous air pollutant for which 
+
+ EPA has calculated a quantifiable public health risk, 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ but that may not be the appropriate regulatory regime 
+
+ if, as EPA has explained here, their view of the statute 
+
+ is not to focus on whether such regulation is 
+
+ appropriate, but whether listing of power plants under 
+
+ subsection C is appropriate just like every other 
+
+ source category. 
+
+ JUSTICE SCALIA: 
+
+Can ­­ can I say ­­ can I 
+
+ ask whether that listing is ­­ and ­­ and the minimum 
+
+ standards that that imposes are subject to the 
+
+ categorization device that Justice Breyer was asking 
+
+ about?  Could ­­ could the agency say, well, you know, 
+
+ we're going to divide these into categories, and since 
+
+ it's too expensive for certain ­­ 80 percent of power 
+
+ plants that ­­ that don't have waterfalls nearby, we're 
+
+ going to exempt them from these minimum standards? 
+
+ Can ­­ can it do that? 
+
+ MR. BROWNELL: 
+
+No, Your Honor, not at the 
+
+ listing stage.  But once the source category is listed 
+
+ at the standard­setting stage, they could consider 
+
+ subcategorization ­­
+
+ JUSTICE SCALIA: 
+
+Reduce it below ­­
+
+ MR. LINDSTROM: 
+
+­­ in order to ­­
+
+ JUSTICE SCALIA: 
+
+­­ below the ­­ the 
+
+ minimums? 
+
+ MR. BROWNELL: 
+
+Not below the minimums.  Your 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ Honor is perfectly right ­­
+
+ JUSTICE KAGAN : 
+
+No.  But the minimums 
+
+ depend ­­
+
+ JUSTICE SCALIA: 
+
+That's ­­ that's what I 
+
+ thought. 
+
+ JUSTICE KAGAN : 
+
+The minimums depend on 
+
+ the categories and the subcategories.  You can 
+
+ categorize in such a way that the minimums will be up 
+
+ here, or you can categorize in such a way the minimums 
+
+ will be down there. 
+
+ MR. BROWNELL: 
+
+And during the rulemaking, 
+
+ Your Honor, arguments made about subcategorization, and 
+
+ EPA ultimately subcategorized the ­­ the power industry 
+
+ with respect to one limited set of sources, lignite 
+
+ sources with respect to the mercury standard.  But, 
+
+ otherwise, EPA's position is once listed, it triggers an 
+
+ obligation to issue emission standards under the – 
+
+ JUSTICE SOTOMAYOR: So your answer ­­
+
+ JUSTICE KAGAN : 
+
+It triggers an 
+
+ obligation as to some standard, but, again, the minimum 
+
+ standard can vary dramatically depending upon how the 
+
+ categories and subcategories are set up.  And because 
+
+ the minimum standard can vary dramatic, so, too, will 
+
+ costs vary dramatically.  So you're having the EPA 
+
+ consider costs before the EPA can know what the costs 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+33
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ are. 
+
+ MR. BROWNELL: 
+
+Your ­­ Your Honor, if I can 
+
+ respond to ­­ to that before the other question at the 
+
+ other end of the bench. 
+
+ EPA does know what the costs are through the 
+
+ rulemaking process in which it undertakes notice and 
+
+ comment with respect to both the (n)(1)(a) determination 
+
+ and the emission standard.  Section 7607(d)(1)(c) of the 
+
+ Clean Air Act lists subsection N as one of the 
+
+ provisions that requires notice and comment rulemaking 
+
+ under the special Clean Air Act procedures.  And this is 
+
+ why the agency explained that there's no final (n)(1)(a) 
+
+ until the end of the process, until notice and comment 
+
+ and we've taken and determined what the costs are. 
+
+ JUSTICE SOTOMAYOR: 
+
+So 
+
+ interestingly ­­ and ­­ and this is then confirming what 
+
+ Justice Breyer said ­­ the point that you had an 
+
+ opportunity and apparently took advantage of it to tell 
+
+ the EPA that it should subcategorize this source, and it 
+
+ decided to subcategorize just one piece of it. 
+
+ So what you're really saying to us is it's 
+
+ not the listing.  It's the way they've set up their 
+
+ emissions standards that I disagree with because they 
+
+ could have decided that there were subcategories that 
+
+ didn't require a standard at all.  I'm presuming that 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ they could have said anybody by the water doesn't have 
+
+ to do more because they're already 12 ­­ they're part of 
+
+ the 12 percent.  We're going to do cost by everybody 
+
+ else that's not by the water. 
+
+ MR. BROWNELL: 
+
+Conceptually, Your Honor, I 
+
+ imagine they could have subcategorized away the entire 
+
+ industry, but that's not what they did in this 
+
+ rulemaking.  And with respect to certain of the 
+
+ regulations ­­
+
+ JUSTICE SOTOMAYOR: 
+
+No, they didn't do it. 
+
+ But ­­ but you're asking us ­­ you're ­­ this is 
+
+ almost a ­­ this is a challenge to a regulation that's 
+
+ only piecemeal because you're ­­ you're arguing that 
+
+ they should have considered costs, but they obviously 
+
+ did before they issued the standards.  You can't look at 
+
+ the standards and the emission in a  case, and ­­ and 
+
+ the listing in a case like this in isolation. 
+
+ MR. BROWNELL: 
+
+Justice Sotomayor, if I could 
+
+ try the answer to the question once again. 
+
+ The subsection N(1)(a) question is whether 
+
+ after considering the results of the study ­­ and I note 
+
+ that the study also looks at alternative control 
+
+ strategies for any emissions that may warrant 
+
+ regulation ­­ the agency determines such regulation is 
+
+ appropriate and necessary.  So the focus of the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ determination is not on ­­ on listing and whatever may 
+
+ flow from that, but the regulation that the agency 
+
+ decides to apply to address the remaining public health 
+
+ hazard that is identified from this source category. 
+
+ JUSTICE ALITO: 
+
+Mr. Brownell, when ­­ did 
+
+ EPA say we are not going to take costs into account at 
+
+ the listing stage because we will take costs into 
+
+ account through this sub­categorization possibility 
+
+ that's being discussed? 
+
+ MR. BROWNELL: 
+
+No, they did not, Your Honor. 
+
+ As I recall the record of the proceeding, this 
+
+ discussion of sub­categorization has come up in the 
+
+ briefing afterwards. 
+
+ JUSTICE BREYER: 
+
+Why ­­ why didn't they 
+
+ write ­­ you see what's ­­ try ­­ these questions are 
+
+ difficult because they're so hypothetical.  It isn't 
+
+ true that 50 percent of the industry will use up 
+
+ 50 ­­ all the domestic product, et cetera.  But they 
+
+ wrote this thing in a way that sounds as if even if that 
+
+ had been true, they wouldn't have taken it into account. 
+
+ So ­­ so what they say is the EPA does not believe it is 
+
+ appropriate to consider costs when determining whether 
+
+ EGU is ­­ okay.  You see the problem?  So for me ­­ but 
+
+ the SG is telling us, don't worry.  Maybe they should 
+
+ have written, knowing what we know and what is 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ undisputed so far, we don't think that the cost problem 
+
+ is big enough for us to warrant a cost­benefit analysis 
+
+ or other consideration.  Okay?  Then they've taken it 
+
+ into account.  So there's no problem if it's within, 
+
+ it's reasonable. 
+
+ Now, they didn't write that. 
+
+So that's why 
+
+ I'm looking to see is the ­­ it's really the SG, but I 
+
+ mean, is ­­ is there really a different way that they 
+
+ could eliminate this horrible scenario if it existed, 
+
+ which it didn't.  You understand what I'm driving at? 
+
+ I'm trying to get your best answer on that. 
+
+ MR. BROWNELL: 
+
+And ­­ and I want to 
+
+ emphasize that this is not an argument about whether or 
+
+ not to regulate mercury where there's been an identified 
+
+ public health risk.  It's whether the regulatory regime 
+
+ that has been defined here under Section 7412, which the 
+
+ government says is the listing that applies to all other 
+
+ source categories, and the (d)(3) minimum controls 
+
+ technology standards that apply to all other source 
+
+ categories is the right way to do it.  Regardless of how 
+
+ you subcategorize, it's going to have tremendous impacts 
+
+ as a result of acid gas regulation and for a pollutant 
+
+ that presents no public health risk.  There are other 
+
+ ways ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+I ­­ I suppose we 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ can't ­­ we can't uphold an agency rule on a ground that 
+
+ they didn't adopt below, right? 
+
+ MR. BROWNELL: 
+
+That's correct. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Under Chenery? 
+
+ MR. BROWNELL: 
+
+That's correct. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+So is your 
+
+ understanding correct that this is not an argument ­­ a 
+
+ basis for decision that they adopted below? 
+
+ MR. BROWNELL: 
+
+That's correct, Your Honor. 
+
+ My understanding of the basis for the decision below is 
+
+ that costs are irrelevant in our determination under 
+
+ (n)(1)(a) whether or not ­­ whether to regulate the 
+
+ source category under the typical Subsection 7412 regime 
+
+ that applies to other source categories. 
+
+ JUSTICE KAGAN: 
+
+But that's exactly right, 
+
+ Mr. Brownell.  I mean, the ­­ the agency, at that point 
+
+ in time, was only answering the very first question, the 
+
+ very threshold issue.  And at that point, the agency 
+
+ said costs were irrelevant.  But costs become relevant 
+
+ later in the analysis and in a variety of ways:  Through 
+
+ the 12 and a half percent, through the 12 percent, 
+
+ through the categorization and sub­categorization, 
+
+ through the determination whether to raise standards 
+
+ even higher.  So costs costs costs later, but as to this 
+
+ particular thing, the agency said, yes, here we don't 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+38
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ consider costs.  We could, but we don't want to because 
+
+ there's all this potential for costs to come in 
+
+ afterwards. 
+
+ MR. BROWNELL: 
+
+And, Your Honor, it's costs 
+
+ costs costs under the statutory criteria that Congress 
+
+ provided for setting (d)(3) control technology standards 
+
+ and then having defined those standards at the end of 
+
+ the process, the agency finalizes its (n)(1)(a) 
+
+ determination in light of the costs and impacts and 
+
+ other factors that are mentioned in the ­­
+
+ JUSTICE KENNEDY: 
+
+Do you think ­­ do you 
+
+ think that whenever the term "appropriate" is used in a 
+
+ regulatory context in the Clean Air Act, that it demands 
+
+ a cost­benefit analysis? 
+
+ MR. BROWNELL: 
+
+Your Honor, when you say in 
+
+ any context, that's so broad I don't think that I can 
+
+ say that it would require cost­benefit in any context. 
+
+ But in a specific context here where the focus is on 
+
+ whether such regulation is appropriate and necessary, 
+
+ that regulation has certain characteristics and 
+
+ consequences that we have talked about this morning, 
+
+ including the fact that it imposes on a pollutant that 
+
+ presents no public health risk, $5 billion a year. 
+
+ JUSTICE GINSBURG: 
+
+But, Mr. Brownell, before 
+
+ you finish, because your time is out, can you clarify 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ for me why this is ­­ is at this stage something that we 
+
+ should be concerned about because there is this 
+
+ regulatory impact assessment and that ­­ that has said 
+
+ that the benefits vastly exceed the costs, and 
+
+ that's ­­ that's an impact analysis and has gone through 
+
+ the OR process and OR concluded that EPA appropriately 
+
+ calculated the costs. 
+
+ MR. BROWNELL: 
+
+Yes, Your Honor, Mr. Chief 
+
+ Justice.  The co­benefits ­­ all of those benefits are 
+
+ co­benefits.  Only 4 to 6 million dollars are associated 
+
+ with hazardous air pollutants.  Those co­benefits that 
+
+ are in the regulatory impact analysis were not 
+
+ considered as part of the regulatory determination for 
+
+ good reason, because they're important questions 
+
+ regarding their legal importance and relevance under the 
+
+ proper standard.  And what I mean, Your Honor, is that 
+
+ PM 2.5 is the pollutant, fine particles that is 
+
+ associated with these co­benefits.  That is extensively 
+
+ regulated under the National Ambient Air Quality 
+
+ Standard program.  In fact, those are quality standards 
+
+ were only recently revised to be tightened, and in the 
+
+ context of that proceeding, the agency found that the 
+
+ low levels of exposure for these co­benefits did not 
+
+ produce effects or risks that were of regulatory 
+
+ significance because they're too uncertain.  So there 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ are serious questions about legal relevance and 
+
+ importance. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ MR. BROWNELL: 
+
+Thank you, Mr. Chief Justice. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+General Verrilli. 
+
+ ORAL ARGUMENT OF DONALD B. VERRILLI, JR. 
+
+ ON BEHALF OF FEDERAL RESPONDENTS 
+
+ GENERAL VERRILLI: 
+
+Mr. Chief Justice, and 
+
+ may it please the Court: 
+
+ EPA's interpretation of Section 
+
+ 7412(n)(1)(A) should be affirmed for three basic 
+
+ reasons.  First, it is the most natural and certainly a 
+
+ permissible reading of the statutory text which directs 
+
+ EPA to focus on health concerns and doesn't mention 
+
+ costs. 
+
+ Second, it harmonizes the provision with 
+
+ Section 7412's structure and design, because it applies 
+
+ the same regulatory logic to power plants that Congress 
+
+ directed EPA to apply to regulate hazardous air 
+
+ pollution from every other type of source, and that is 
+
+ decide whether to list for regulation based on health 
+
+ and environmental hazards alone, and consider costs in 
+
+ setting the emission standards. 
+
+ And third, as a matter of common sense and 
+
+ sound government practice, it was certainly appropriate 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+41
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ for EPA to list power plants for regulation based solely 
+
+ on health and environmental hazards, because that 
+
+ reflects the approach Congress chose not only in 7412, 
+
+ in this regulatory program, but in all of the major 
+
+ regulatory programs under the Clean Air Act. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Could I go to 
+
+ your ­­ you're now three out ­­ your first ­­ first 
+
+ point.  You concede, don't you, that EPA could have 
+
+ interpreted the statutory language to allow them to 
+
+ consider costs? 
+
+ GENERAL VERRILLI: 
+
+I think EPA read it as ­­
+
+ read the best interpretation of the statute was it 
+
+ didn't provide for the consideration of costs at the 
+
+ listing stage ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+But under Chevron, 
+
+ if you adopted a regulation that said appropriate and 
+
+ necessary allows us to consider cost, you think that 
+
+ would be appropriate? 
+
+ GENERAL VERRILLI: 
+
+I think the phrase 
+
+ appropriate and necessary doesn't, by its terms, 
+
+ preclude the EPA from considering cost.  But under 
+
+ Chevron, what the EPA has got to do is explain the 
+
+ justification for its reading of the statute, and that's 
+
+ what it did. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Right.  But since 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+42
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ you're dealing with the term, I think this says as 
+
+ capacious as appropriate, and since you could have 
+
+ issued a regulation allowing the consideration of costs 
+
+ as appropriate, you're saying that the agency 
+
+ deliberately tied its hands and said we're not going to 
+
+ consider something.  We're going to issue a rule saying 
+
+ we can't consider something that we could consider 
+
+ otherwise. 
+
+ GENERAL VERRILLI: 
+
+No, I think the best way 
+
+ to think about this, Mr. Chief Justice, is what the 
+
+ agency did was decide that it was appropriate to 
+
+ approach the question of whether to regulate power 
+
+ plants in the same manner that Congress found it was not 
+
+ only appropriate, but mandated to address the question. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+They could have ­­
+
+ I'm not ­­ I understand your argument that they could 
+
+ have done that, but I think it's unusual for an agency 
+
+ to say, when they want to do something, that that's the 
+
+ only thing we could do.  Agencies usually like to 
+
+ maintain for themselves as much discretion as they can. 
+
+ And it strikes me as unusual, maybe the agency could go 
+
+ ahead and consider ­­ and not consider costs, but to say 
+
+ that we're prohibited from considering costs under the 
+
+ phrase appropriate, it strikes me as very unusual. 
+
+ GENERAL VERRILLI: 
+
+Well, it said ­­ I don't 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+43
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ think so, Mr. Chief Justice.  It said ­­ it didn't say, 
+
+ we're prohibited from considering costs.  It said, we 
+
+ are not going to consider costs at the listing stage in 
+
+ making the decision about whether power plants should be 
+
+ listed for regulation under Section 7412. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+I thought ­­ I 
+
+ thought the rule was that the phrase appropriate and 
+
+ necessary did not allow them to consider costs. 
+
+ GENERAL VERRILLI: 
+
+And appropriate and 
+
+ necessary goes to the question of whether power plants 
+
+ should be listed for regulation under Section 7412, 
+
+ which would then kick in the regulatory mechanism by 
+
+ which standards were set and costs are considered at the 
+
+ standard­setting ­­
+
+ JUSTICE KENNEDY: 
+
+I have the same question 
+
+ as the Chief Justice.  Let me ask one more time.  Could 
+
+ this agency reasonably have considered costs at stage 
+
+ one? 
+
+ GENERAL VERRILLI: 
+
+I don't think the 
+
+ statutory text unambiguously forbids them from 
+
+ considering costs.  But they determined that the best 
+
+ reading of the statutory text is that power plants, 
+
+ because after the study was conducted that Congress 
+
+ required, EPA determined that power plants are no 
+
+ differently situated than any other source of hazardous 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+44
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ air pollutants regulated under Section 7412. 
+
+ And if I may Mr. Chief Justice? 
+
+ CHIEF JUSTICE ROBERTS: Sure. 
+
+ GENERAL VERRILLI: For every other source of 
+
+ hazardous air pollutants, what Congress mandated as 
+
+ appropriate was that you do not consider costs when you 
+
+ decide whether to regulate.  You only consider health 
+
+ and environmental effects, and then you do consider 
+
+ costs under Section 7412(d) when you set the emissions 
+
+ standards. 
+
+ JUSTICE ALITO: 
+
+How is that ­­ how is that 
+
+ consistent with this statutory scheme?  If your argument 
+
+ is that EPA's only reason for doing this is that it 
+
+ wants to treat power plants the same as other sources, 
+
+ we know that that's what Congress didn't want or it 
+
+ would have ­­ it would not have enacted the separate 
+
+ provision for power plants. 
+
+ GENERAL VERRILLI: 
+
+I agree, Justice Alito, 
+
+ that Congress proposed different treatment for power 
+
+ plants, but that doesn't answer the question.  That just 
+
+ asks the question.  The question is what different 
+
+ treatment did Congress prescribe.  Now, what Petitioners 
+
+ are arguing is that what Congress prescribed and mandated 
+
+ was a cost­benefit analysis that does not apply to any 
+
+ other source of hazardous pollutants. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+45
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ But that is not what the text of the statute 
+
+ says, and it's not what the history reflects.  What the 
+
+ text of the statute says in (n)(1)(A) is that even 
+
+ though for every other source, regulation would proceed 
+
+ immediately; for power plants, there was uncertainty 
+
+ about whether power plants emitted hazardous pollutants 
+
+ at a level that would cause a problem, whether the acid 
+
+ rain regulations would solve the problem, and whether 
+
+ there were alternative control strategies available. 
+
+ And so ­­ if I may. 
+
+I'm sorry. 
+
+ EPA ­­ what Congress told EPA to do was to 
+
+ study those three things.  Those go to health 
+
+ considerations.  And then once EPA was ­­ made a 
+
+ judgment about that, it was to decide whether to list 
+
+ power plants for regulation as ­­ whether it was 
+
+ appropriate and necessary to list them for regulation. 
+
+ JUSTICE ALITO: 
+
+This is what I don't 
+
+ understand about your position.  Congress's decision to 
+
+ treat power plants differently, it seems to me, reflects 
+
+ the fact that Congress wanted at least to hold open the 
+
+ possibility that power plants would not be listed even 
+
+ if their emissions exceeded the levels that would result 
+
+ in listing for other sources.  I don't see another 
+
+ reason why they would treat them differently. 
+
+ GENERAL VERRILLI: 
+
+Well, I think ­­
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+46
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE ALITO: 
+
+If I can just continue. 
+
+ GENERAL VERRILLI: 
+
+I'm sorry. 
+
+ JUSTICE ALITO: 
+
+Perhaps you may disagree 
+
+ with that, but it seems to me that ­­ that that's a 
+
+ necessary inference from this statutory scheme. 
+
+ If that is the case, what factor might 
+
+ Congress have thought would justify allowing power 
+
+ plants to emit more than would be permitted if they were 
+
+ other sources? 
+
+ Now, Petitioners have an explanation which 
+
+ is costs, and they say that power plants have to bear a 
+
+ lot of costs that other sources don't have to bear, in 
+
+ particular the Title IV program.  Their emissions might 
+
+ exceed the otherwise permissible limit because they have 
+
+ participated in the cap and trade program, so they have 
+
+ contributed to the reduction in emissions in that way, 
+
+ in a way that wouldn't be reflected in their ­­ in their 
+
+ own emissions. 
+
+ So what ­­ that is an explanation. 
+
+Cost is 
+
+ what's missing.  I don't know what your explanation is. 
+
+ GENERAL VERRILLI: 
+
+So I know Your Honor 
+
+ asked me to accept the premise, but I can't accept the 
+
+ premise because both the text of (n)(1)(A) and the 
+
+ legislative history tell you what considerations 
+
+ Congress left open, and they were all related to the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+47
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ possibility of health hazards.  No one ­­ the argument 
+
+ that Your Honor just posed is not in the legislative 
+
+ history, and it's not in the text.  And if Congress 
+
+ really thought that, then what they would have said to 
+
+ EPA is, take the ­­ push the pause button, take the 
+
+ three years and study ­­ don't subject them to the same 
+
+ schedule as everybody else ­­ and study the cost 
+
+ problem.  They would have expressly told EPA to study 
+
+ costs.  And they did not do that. 
+
+ JUSTICE ALITO: 
+
+If all they were concerned 
+
+ about was health, why wouldn't they impose on power 
+
+ plants the same standard that's imposed on area sources? 
+
+ Just ask EPA to determine whether there is ­­ I forget 
+
+ the exact term ­­ but is there an effect on public 
+
+ health, a significant effect on public health, whatever. 
+
+ If so, list. 
+
+ GENERAL VERRILLI: 
+
+I think they came very 
+
+ close to that, because what they said ­­ first of all, 
+
+ they ­­ they told EPA to make its judgment after 
+
+ considering the results of the  study, and they told EPA 
+
+ to study things that went to health hazards.  And so that 
+
+ comes very close, it seems to me, and the reason, I 
+
+ think, it used the appropriate and necessary language, 
+
+ rather than the language Your Honor suggests, is because 
+
+ I think Congress, when it was legislating here in 1990, 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+48
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ understood that there might well be uncertainty at the 
+
+ end of this ­­ of the analysis that Congress directed 
+
+ the EPA to undertake.  There might be uncertainty about 
+
+ the projected effects of the acid rain regulations, 
+
+ because I do ­­ I do think it's important to clear up ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I don't ­­ I think 
+
+ that's what the legislative history said. 
+
+ GENERAL VERRILLI: 
+
+Right.  And I do want to 
+
+ clear up a misconception about that, I think, which is 
+
+ that ­­ that the way these acid rain regulations 
+
+ unfolded, they were put in place in 1990 at the same 
+
+ time as 7412, but they were to unfold over a 10­year 
+
+ period; 5 years until the first stage, and then 5 more 
+
+ years until second stage.  So EPA was going to have to 
+
+ make a long­term projection here about which there could 
+
+ be some uncertainty. 
+
+ And so I think what Congress was saying to 
+
+ EPA was you may need to exercise your judgment here, and 
+
+ in fact, EPA did exercise its judgment because it 
+
+ concluded ­­
+
+ JUSTICE BREYER: 
+
+There are two parts to this 
+
+ argument.  One is what were they thinking of the word 
+
+ appropriate if it wasn't costs?  All right, I see your 
+
+ answer to that.  I'll think about that. 
+
+ But the second, which I think your argument 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+49
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ very much depends on, in my mind anyway, is, well, don't 
+
+ worry, because there is a way to take into account 
+
+ costs.  So, if, in fact ­­ I mean, you know, it's a lot 
+
+ of money, $9 billion, and if you divide it by the 
+
+ population, you have $30 a person for a family of four 
+
+ of $120.  That's a lot of money for people, for some 
+
+ people.  And to say, gee, you couldn't take it into 
+
+ account ever, suppose it would have been 500?  You know, 
+
+ it begins to look a little irrational to say, I'm not 
+
+ taking it into account at all.  But you say, never fear, 
+
+ because they will take it into account when they set 
+
+ standards.  And at that point I read the thing about the 
+
+ 12 percent.  I've got the word "similar source," which 
+
+ then can refer me back to the categorization of two 
+
+ things earlier, as they say maybe, and then I have, 
+
+ aside from that, hey, here's what you do.  When you're 
+
+ regulating you look at the top 12 generators and that's 
+
+ the minimum standard.  So they might want to say, hey, 
+
+ that's not right.  I mean, it's right, it says it.  But 
+
+ if you go to the bottom 50 generators, you're going to 
+
+ see it's not going to cost $120 per family, it's going 
+
+ to cost $1,000 a family.  And we have the EPA saying, we 
+
+ won't even look at that. 
+
+ At that point I begin to say, oh, my 
+
+ goodness.  Why?  Why won't you even look at it?  You 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+50
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ could say it isn't true, but why wouldn't you even look 
+
+ at it. 
+
+ And ­­ and now the answers seems to me to be 
+
+ in that word "similar source," and the classes and the 
+
+ subclasses.  Because were there such an argument, maybe 
+
+ the EPA could say, don't worry.  If there is such an 
+
+ argument, which there isn't, we have the power here 
+
+ under the statute to take it into account. 
+
+ Now, you know where that argument came from? 
+
+ From discussion and thought in my chambers.  Now, maybe 
+
+ it came out of the briefs, too.  But is what I say 
+
+ right?  Can the EPA take that into account, or do they 
+
+ have to just blindly say, if it's the top 12, that's for 
+
+ everybody no matter what the cost?  In which case they 
+
+ can't take it into account ever except for the word 
+
+ "appropriate."  Now, that's the argument I'm putting ­­
+
+ you got it in my argument because that's important. 
+
+ GENERAL VERRILLI: 
+
+I ­­ I've got it.  I'm 
+
+ going to make three points in response to it. 
+
+ JUSTICE BREYER: 
+
+Yes. 
+
+ GENERAL VERRILLI: 
+
+The first one goes to the 
+
+ empirical situation in this case, but then I'm going to 
+
+ get to the theoretical question you asked. 
+
+ JUSTICE BREYER: 
+
+Yes. 
+
+ GENERAL VERRILLI: 
+
+The first is this:  Nine 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+51
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ billion is a big number.  This is an industry with $360 
+
+ billion a year in annual revenues, so you're talking 
+
+ about two to two­and­a half annual revenues ­­ of annual 
+
+ revenues.  And what Congress and what EPA concluded when 
+
+ it ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Revenues doesn't talk 
+
+ about profit, though. 
+
+ GENERAL VERRILLI: 
+
+Right.  But it's ­­ well, 
+
+ this is a cost, and the cost is about two and­a­half 
+
+ percent of revenues.  And then what EPA concluded was 
+
+ that this ­­ that about 2 percent of electrical 
+
+ generating capacity could go offline as a result of it 
+
+ being uneconomic.  So it's not a 50 percent or a 78, 88 
+
+ percent. 
+
+ JUSTICE BREYER: 
+
+Right .  And as soon as 
+
+ you've said that, you've taken costs into account, which 
+
+ is what they say they wouldn't do. 
+
+ GENERAL VERRILLI: 
+
+And then ­­ but then ­­
+
+ now, let me talk about the way EPA under this regime 
+
+ does take costs into account.  The first point I would 
+
+ make is that the situation that Your Honor described in 
+
+ the hypothetical is a quite unusual one.  In the normal 
+
+ case, the 12 percent rule, it's a technology­forcing 
+
+ rule, the kind that Your Honor discussed in ­­ in your 
+
+ concurring opinions in Whitman and in Entergy.  It's 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+52
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ that kind of a rule.  And for ­­ and in the normal case, 
+
+ it's not going to have that effect.  It means that 
+
+ this ­­ this percentage of the industry has been able to 
+
+ meet this without an operator in an economic matter and 
+
+ Congress is trying to force the rest of the industry to 
+
+ catch up.  And as we know from multiple experiences, as 
+
+ Your Honor identified with respect to catalytic 
+
+ converters and motor vehicles and with respect to acid 
+
+ rain, it turned out that the cost was vastly lower on 
+
+ industry than EPA anticipated it would be; that there's 
+
+ a very great tendency to overestimate costs in that 
+
+ situation. 
+
+ But then the third point is Your Honor's 
+
+ point about subcategories.  And Section 7412(c)(1), 
+
+ which is the provision that governs the listing of 
+
+ categories, it mentions the availability of 
+
+ subcategories and, in fact, the last sentence of it says 
+
+ nothing in this ­­
+
+ JUSTICE KENNEDY: 
+
+Do you have that page? 
+
+ GENERAL VERRILLI: 
+
+I'm sorry, I'm sorry, 
+
+ Justice Kennedy.  It's 35A of the appendix to our brief. 
+
+ JUSTICE KENNEDY: 
+
+Thank you. 
+
+ GENERAL VERRILLI: 
+
+And this is (c)(1)and 
+
+ it's the last sentence.  And it ­­ and it talks about 
+
+ the EPA's authority and says, "Nothing in the preceding 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+53
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ sentence limits the administrator's authority to 
+
+ establish subcategories under this section as 
+
+ appropriate."  And in fact, that is what ­­
+
+ JUSTICE SCALIA: 
+
+Can ­­ can those 
+
+ subcategories apply to the minimum standards? 
+
+ GENERAL VERRILLI: 
+
+Yes.  That's how it would 
+
+ work, because you ­­ you identified the category and 
+
+ then you generate the standard based on who's in the 
+
+ category. 
+
+ JUSTICE SCALIA: 
+
+No, but I thought the 
+
+ standards are automatic.  There's certain minimums. 
+
+ Once they find on the basis of ­­ of the study that 
+
+ these things should be listed, I thought there ­­ there 
+
+ is an automatic requirement imposed on ­­ on ­­ which is 
+
+ the reason they're complaining. 
+
+ GENERAL VERRILLI: 
+
+Well, the ­­ the 
+
+ requirement ­­ it depends on how you categorize.  And so 
+
+ if ­­ if there were a situation – let me just switch ­­
+
+ if there were a situation in which one segment of the 
+
+ industry was so vastly different from another segment of 
+
+ the industry in terms of its economics, in terms of its 
+
+ technology, then EPA would have the authority to break 
+
+ those into two separate subcategories and then you don't 
+
+ calculate the best performing 12 percent, which is what 
+
+ the standard is, until you know if it's the best 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+54
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ performing 12 percent of the people you've put in the 
+
+ category. 
+
+ JUSTICE BREYER: 
+
+The language that does 
+
+ that ­­ the language that does that is the first 
+
+ sentence of three, which says, "The maximum degree that 
+
+ is deemed achievable, not less stringent than the 
+
+ emission control," that is achieved in practice by the 
+
+ best­controlled similar source as determined by the 
+
+ administrator."  That's what allows him to break it into 
+
+ categories and apply the minimums to the ­­ to similar 
+
+ source. 
+
+ GENERAL VERRILLI: 
+
+Right.  And ­­
+
+ JUSTICE BREYER: 
+
+Am I right or not? 
+
+ GENERAL VERRILLI: 
+
+That's correct.  And EPA 
+
+ did that in this case.  It broke out power plants that 
+
+ generate power burning natural gas, and it said that's a 
+
+ separate subcategory. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Where in the 
+
+ record ­­ where can you point me into the record where 
+
+ this argument was made or considered by the agency?  As 
+
+ opposed to Justice Breyer's chambers.  Because it's a 
+
+ very important principle of administrative law that we 
+
+ will only uphold a rule based on the arguments that were 
+
+ considered and addressed by the agency.  So ­­ and I ­­
+
+ I ­­ as I said, it's not something I recall from the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+55
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ briefs. 
+
+ GENERAL VERRILLI: 
+
+It's, of course, true, 
+
+ Mr. Chief Justice.  But ­­ and you're ­­ you're exactly 
+
+ right in stating that principle.  But our argument in 
+
+ this case is that this question here is ­­ under ­­
+
+ under (n)(1)(a), (n)(1)(a) says, "EPA shall regulate 
+
+ under this section if it determines that such regulation 
+
+ is appropriate and necessary," and therefore, that when 
+
+ EPA makes a judgment to regulate under this section, 
+
+ because it is appropriate and necessary, EPA is ­­ is 
+
+ triggering all of the requirements ­­
+
+ JUSTICE SCALIA: 
+
+Well, you're just saying ­­
+
+ you're just saying that the argument is right, not that 
+
+ the ­­ not that the agency made it, right? 
+
+ GENERAL VERRILLI: 
+
+Well, it's ­­ I guess 
+
+ what I would say about it, Your Honor, is ­­
+
+ JUSTICE SCALIA: 
+
+It's not enough that the 
+
+ argument be right.  The ­­ the agency must have rested 
+
+ its decision on the point. 
+
+ GENERAL VERRILLI: 
+
+The ­­ I think that the 
+
+ agency in the order on being challenged here did use the 
+
+ approach.  But beyond that, whether or not ­­ it would 
+
+ be one thing if this were a case in which you had a 
+
+ situation in which EPA ­­ or EPA faced a situation in 
+
+ which 50 percent or 75 percent were going to face vastly 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+56
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ uneconomic consequences.  But this case didn't present 
+
+ that situation.  EPA made a judgment about ­­
+
+ JUSTICE SOTOMAYOR: 
+
+General, can I simplify 
+
+ your answer for you? 
+
+ (Laughter.) 
+
+ GENERAL VERRILLI: 
+
+Yes.  I'd be delighted if 
+
+ you did that, Justice Sotomayor. 
+
+ JUSTICE SOTOMAYOR: 
+
+All right.  Basically, 
+
+ you have consistently in your brief, and so has the 
+
+ other Respondents, basically said at the listing stage 
+
+ we don't consider costs, we consider it later.  And 
+
+ everybody gave a few examples.  Whether this example was 
+
+ given or not is irrelevant.  The issue here was, do you 
+
+ have to do it at listing?  It's only some of my 
+
+ colleagues here who are concerned that when you issue 
+
+ standards, you never consider cost. 
+
+ GENERAL VERRILLI: 
+
+And that's exactly right. 
+
+ The question here is whether EPA's got to conduct a 
+
+ cost­benefit analysis when it does the listing, and the 
+
+ logic of the statute of 7412 doesn't ­­ it doesn't 
+
+ operate ­­
+
+ JUSTICE KENNEDY: 
+
+But at that point the game 
+
+ is over. 
+
+ GENERAL VERRILLI: 
+
+No, I don't think it is, 
+
+ Justice Kennedy, for ­­ for several reasons.  First, 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+57
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ the ­­ the standard under Section 7412(d) for setting 
+
+ emissions ­­ emissions standards once you've decided to 
+
+ list, that is Your Honor's question to ­­ to my friend 
+
+ General Lindstrom pointed out, that does take costs into 
+
+ account in the sense that a segment of the industry can 
+
+ operate economically.  Secondly ­­
+
+ JUSTICE SCALIA: 
+
+Excuse me.  I don't ­­ I 
+
+ didn't understand that.  I thought that there were 
+
+ automatic requirements imposed once ­­ once the ­­ the 
+
+ plants are listed. 
+
+ GENERAL VERRILLI: 
+
+Once EPA lists ­­
+
+ JUSTICE SCALIA: 
+
+Yes. 
+
+ GENERAL VERRILLI: 
+
+­­ and defines the 
+
+ category for listing, then the automatic requirement 
+
+ that is applied is that everyone in the category has to 
+
+ match the performance of the best 12 percent. 
+
+ JUSTICE SCALIA: 
+
+Where did this categories 
+
+ comes from?  I ­­ I really don't like the fact that 
+
+ your ­­ your friend on the other side was ­­ was not 
+
+ permitted to mount an argument in opposition to this 
+
+ categorization theory that Justice Breyer's chambers 
+
+ devised.  Usually ­­ usually we have arguments on both 
+
+ sides.  This is an argument I never heard of and I'm not 
+
+ sure it's right.  But ­­ but I certainly didn't ­­
+
+ didn't know the agency to say, oh, we're just listing, 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+58
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ but we're ­­ you know, we're going to categorize the 
+
+ listing.  They didn't say that. 
+
+ GENERAL VERRILLI: 
+
+I understand your point 
+
+ about the focus or non­focus on subcategories.  But the 
+
+ point that we're just listing, we say that over and over 
+
+ again in our brief.  And in fact, the Petitioners 
+
+ concede, and this is at page 5 and 6 of the UARG reply 
+
+ brief, that if this is just about listing, then, of 
+
+ course, costs are irrelevant.  But it is just about 
+
+ listing.  That is the way the statute works. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+You had responded to 
+
+ the fairly dramatic disparity your friends on the other 
+
+ say, the 6 million benefits, 9.6 million cost.  You 
+
+ respond with a different calculation that looks to ­­ I 
+
+ call them collateral ­­
+
+ GENERAL VERRILLI: 
+
+Co­benefits. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+­­ the ancillary ­­
+
+ co­benefits.  And then the ­­ the argument is raised 
+
+ that that's ­­ that's not quite proper because you're 
+
+ using your ­­ your ­­ the HAP regulation to get at the 
+
+ criteria pollutants that you otherwise would have to go 
+
+ through a much more difficult process to regulate. 
+
+ In other words, you can't regulate the 
+
+ criteria pollutants through the HAP program, so you get, 
+
+ okay, here we've got this tiny bit of mercury, and so 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+59
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ we're going to regulate, and that's how we're going to 
+
+ get additional regulation of the criteria pollutants. 
+
+ And so it's sort of an end run around the restrictions 
+
+ that would otherwise make ­­ give you less control over 
+
+ the regulation. 
+
+ What ­­ what's your response to that? 
+
+ GENERAL VERRILLI: 
+
+Let me address that. 
+
+ It's ­­ there's several points, and I actually need to 
+
+ make all of them, I think, to ­­ to make this clear. 
+
+ The first point is that that's not an 
+
+ argument that any party has raised.  One amicus brief 
+
+ raised it, one ­­ and it was averted to a bit more oral 
+
+ argument ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, my 
+
+ chambers found it, but ­­
+
+ (Laughter.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Yes. 
+
+ GENERAL VERRILLI: 
+
+And ­­ and here's the 
+
+ problem with the argument:  The problem with the 
+
+ argument is that ­­ it ­­ it has two problems.  One is 
+
+ that once EPA concludes that a source emits a hazardous 
+
+ pollutant, and here EPA has concluded that these sources 
+
+ emit mercury at levels that are unsafe.  I don't think 
+
+ Petitioners dispute that.  And by the unambiguous terms 
+
+ of Section 7412(d), EPA is under an obligation to 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+60
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ regulate all hazardous pollutants that the source emits, 
+
+ and ­­ and that's ­­ the D.C. Circuit in a case called 
+
+ National Lime 15 years ago ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, no, no, no.  I 
+
+ understand ­­
+
+ GENERAL VERRILLI: 
+
+­­ interpreted it that 
+
+ way ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+­­ I understand how 
+
+ the end run works. 
+
+ GENERAL VERRILLI: 
+
+Well, it's not ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+I'm ­­ I'm just 
+
+ questioning ­­
+
+ GENERAL VERRILLI: 
+
+It's not a ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+No, I'm just 
+
+ questioning the legitimacy of it ­­
+
+ GENERAL VERRILLI: 
+
+Yes. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+­­ because what they 
+
+ would say, okay, you found, you know, a ­­ a HAP that ­­
+
+ that you want to list, but you ought to consider only 
+
+ the benefits of regulating that.  You shouldn't consider 
+
+ the ­­ the bootstrapped ­­
+
+ GENERAL VERRILLI: 
+
+Well, I guess the ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+­­ benefits ­­ that 
+
+ should be addressed through the other ­­
+
+ GENERAL VERRILLI: 
+
+I guess the next point I 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+61
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ would make, Mr. Chief Justice, is that it's not an end 
+
+ run, and it's not a bootstrap.  This is a well ­­
+
+ regulating the surrogates, regulating the surrogates, is 
+
+ a well­recognized methodology that goes back decades, 
+
+ that EPA has used for decades, that the D.C. Circuit has 
+
+ upheld for decades, that that is a perfectly appropriate 
+
+ way to ­­ to deal with getting at metals and ­­ and 
+
+ other pollutants that would be hard to get at directly. 
+
+ And, in fact, the very argument that Your Honor is 
+
+ positing here as a ­­ as an end run is one that was made 
+
+ in this same National Lime case to the D.C. Circuit 
+
+ 15 years ago and the D.C. Circuit rejected. 
+
+ So what EPA is doing here ­­ basically what 
+
+ the D.C. Circuit said, that Section 7412(d) required 
+
+ them to do with respect to regulating every hazardous 
+
+ pollutant that the ­­ that the sources emit, and what 
+
+ the EPA has said, and what the D.C. Circuit has said for 
+
+ decades, EPA ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, right.  But, I 
+
+ mean, the ­­
+
+ GENERAL VERRILLI: 
+
+­­ is permitted to do, 
+
+ and that it isn't an end run at all.  It's just a normal 
+
+ way in which you regulate ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, but the issue 
+
+ that I think raises the red flag, at least, is that 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+62
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ there's such a tiny proportion of benefit from the HAP 
+
+ program and such a disproportionate amount of benefit 
+
+ that would normally be addressed under the criteria ­­
+
+ GENERAL VERRILLI: 
+
+So ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+­­ program.  So ­­
+
+ so it's not just that, yes, where you're regulating one, 
+
+ if ­­ it's a good thing if it also has benefits with 
+
+ respect to other pollutants.  But if your basis for 
+
+ regulating what ­­ what is the benefit from the 
+
+ co­pollutants that you get? 
+
+ GENERAL VERRILLI: 
+
+The ­­ oh, it's many, 
+
+ many billions of dollars. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Do you remember how 
+
+ much it is?  It's sort of 30 ­­
+
+ GENERAL VERRILLI: 
+
+30 to $90 billion. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+30 to 90 billion. 
+
+ The benefit from the mercury is, what, 4 million? 
+
+ GENERAL VERRILLI: 
+
+Well ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+So you say, we get 
+
+ to regulate this.  We get to regulate it because there's 
+
+ a $4 million impact on mercury.  But when we do that, we 
+
+ get to regulate 35 billion ­­ in a way that gives us 
+
+ $35 billion in cost on the other side. 
+
+ GENERAL VERRILLI: 
+
+So ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+So I understand the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+63
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ idea that you can have ­­ you know, it's a good thing if 
+
+ your regulation also benefits in other ways.  But when 
+
+ it's such a disproportion, you begin to wonder whether 
+
+ it's an illegitimate way of avoiding the different ­­
+
+ quite different limitations on EPA that apply in the 
+
+ criteria program. 
+
+ GENERAL VERRILLI: 
+
+So I don't ­­ I ­­ I 
+
+ really don't think that.  I understand that Petitioners 
+
+ have put the case that way, Mr. Chief Justice.  I don't 
+
+ think that's a fair way to put it. 
+
+ What EPA did with respect to mercury was 
+
+ quantify one of the public health benefits.  It did not 
+
+ quantify many of the other public health benefits.  If 
+
+ you'll look in the Joint Appendix ­­ and I think this is 
+
+ about page 910 to about page 940, there's page after 
+
+ page of charts in which EPA has listed the other 
+
+ benefits that come from regulating mercury and the 
+
+ hazardous substances that it didn't try to quantify. 
+
+ Part of the reason it didn't try to quantify 
+
+ is because quantifying those kinds of benefits can be 
+
+ very difficult and challenging.  And, frankly, that is 
+
+ one of the key reasons that Congress adopted not only in 
+
+ 7412, but under the NAAQS Program and the Motor Vehicle 
+
+ Program and the New Source Performance Standard Program, 
+
+ the approach it did of not taking costs into 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+64
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ consideration at the listing stage, but only at the 
+
+ regulatory stage ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Could you tell me 
+
+ about ­­
+
+ GENERAL VERRILLI: 
+
+­­ because ­­
+
+ JUSTICE SOTOMAYOR: 
+
+­­ the natural gas?  You 
+
+ were cut off earlier. 
+
+ GENERAL VERRILLI: 
+
+Sure.  EPA reached the 
+
+ conclusion that they ought to have ­­ that natural gas 
+
+ power plants ought to be a separate category and ­­ and 
+
+ because they didn't generate public health problems at 
+
+ the level that would make them comparable to the ­­
+
+ the ­­ the coal and ­­
+
+ JUSTICE SOTOMAYOR: 
+
+So they were ­­
+
+ JUSTICE ALITO: 
+
+Now, on this issue of ­­
+
+ JUSTICE SOTOMAYOR: 
+
+­­ part of the listing, 
+
+ but not ­­
+
+ JUSTICE ALITO: 
+
+I'll wait. 
+
+ GENERAL VERRILLI: 
+
+Correct. 
+
+ JUSTICE SOTOMAYOR: 
+
+They were part of the 
+
+ listing, but they were not regulated, because you just 
+
+ sort of turn it off. 
+
+ GENERAL VERRILLI: 
+
+Yes, Your Honor. 
+
+ JUSTICE ALITO: 
+
+Can I ask you another 
+
+ question about these subcategories? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+65
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ Your ­­ your argument is that under the last 
+
+ sentence of 7412(c)(1), the EPA can create subcategories 
+
+ based, in whole or in part, on costs; is that right? 
+
+ GENERAL VERRILLI: 
+
+I ­­ I think ­­ I think 
+
+ it's more subtle than that.  I think that if ­­ I 
+
+ think ­­ and it's not just that provision.  It's ­­
+
+ there are numerous provisions within 7412 that allow for 
+
+ subcategorization.  But I think that if there is such a 
+
+ vast difference in the tech ­­ in the ­­ in the 
+
+ technologies that the ­­ that the group of entities is 
+
+ using, that there would be that vast a difference in 
+
+ cost, that there might well be a basis to treat them as 
+
+ a different subcategory. 
+
+ JUSTICE SCALIA: 
+
+Well, why didn't the EPA 
+
+ say that?  I thought the EPA said, we are not going to 
+
+ take into account costs with regard to the listing. 
+
+ Now, they could have said, we're going to take into 
+
+ account costs as to whether some categories should be 
+
+ listed and other categories shouldn't be listed.  That's 
+
+ not what they said.  They said, we will not take into 
+
+ account costs with regard to listing.  We list all ­­
+
+ GENERAL VERRILLI: 
+
+Here ­­ here's what ­­
+
+ JUSTICE SCALIA: 
+
+­­ of ­­ of these ­­
+
+ GENERAL VERRILLI: 
+
+­­ here's what they 
+
+ said ­­
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+66
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE SCALIA: 
+
+­­ utilities. 
+
+ GENERAL VERRILLI: 
+
+­­ Justice Scalia, and 
+
+ I ­­ and here's why they said it, and I think this is 
+
+ critical. 
+
+ What they said was that we think it is 
+
+ appropriate, with respect to power plants, not to 
+
+ consider costs at listing and to consider costs ­­
+
+ JUSTICE SCALIA: 
+
+Right. 
+
+ GENERAL VERRILLI: 
+
+­­ at emission standard 
+
+ setting.  And the reason we think it is appropriate is 
+
+ because that is the standard, that is the regulatory 
+
+ logic that Congress deemed not only appropriate, but 
+
+ mandatory for every other source category.  And so one 
+
+ would have to conclude, then, that what Congress said 
+
+ was mandatory, and therefore necessarily appropriate for 
+
+ every other category, was inappropriate, and even 
+
+ additionally goes so far as to say ­­
+
+ JUSTICE SCALIA: 
+
+That ­­ that ­­ that's how 
+
+ I understood their argument ­­
+
+ JUSTICE KAGAN: 
+
+But ­­
+
+ JUSTICE SCALIA: 
+
+­­ entirely.  And I did not 
+
+ understand it to say, we ­­ you know, we ­­ we can ­­ we 
+
+ can exempt some people from these minimum standards 
+
+ because we categorize them differently.  It ­­ it 
+
+ definitely was not allowing ­­
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+67
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ GENERAL VERRILLI: 
+
+That ­­ that is their 
+
+ main argument, but I do think the point ­­ what the 
+
+ point of ­­ the point of the logic of EPA's position 
+
+ here is that you make the listing decision, and then you 
+
+ regulate, as (n)(1)(A) says, under Section 7412, and 
+
+ these are provisions in Section 7412 that give EPA the 
+
+ authority to ­­
+
+ JUSTICE KAGAN: 
+
+And, General, as ­­
+
+ JUSTICE ALITO: 
+
+Are their regulations 
+
+ that ­­
+
+ JUSTICE KAGAN: 
+
+­­ as I understood it ­­
+
+ please. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Alito. 
+
+ JUSTICE ALITO: 
+
+Are there regulations that 
+
+ set out the criteria for creating these subcategories? 
+
+ GENERAL VERRILLI: 
+
+I'm ­­ I'm not aware that 
+
+ there are.  I'm not ­­ I just don't know the answer to 
+
+ that, Your Honor. 
+
+ JUSTICE ALITO: 
+
+So, well, without them, we 
+
+ really don't know to what extent, if any, costs are 
+
+ taken into account in creating subcategories, do we? 
+
+ GENERAL VERRILLI: 
+
+Well, I ­­ I think 
+
+ that ­­ I ­­ no, I do think that if ­­ it's ­­ it's 
+
+ going to be based on differences in technology and 
+
+ operation, I think, from which you might be able to 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+68
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ infer costs. 
+
+ But that's hypothetical in this case because 
+
+ this is not a case in which EPA needed to confront that 
+
+ question, except with respect to natural­gas­fired power 
+
+ plants, which they did find to be so different that 
+
+ they ­­ they warranted different treatment, because it 
+
+ didn't have the kind of problem that Justice Breyer's 
+
+ hypothetical raised.  You ­­ you didn't have that kind 
+
+ of problem.  You didn't need to face this issue in these 
+
+ cases, so the EPA didn't. 
+
+ And if I could just make this point, because 
+
+ I think it's quite ­­ I think it's quite critical. 
+
+ Given that 7412's regulatory logic provides for listing 
+
+ based on health, emissions standard­setting based on ­­
+
+ on costs, including consideration of costs, and based on 
+
+ the ­­ and ­­ and given that that's exactly the same 
+
+ logic under the NAAQS Program, it's exactly the same 
+
+ logic under the Motor Vehicle Program, it's exactly the 
+
+ same logic under the New Source Performance Standards 
+
+ Program, that if Congress intended to mandate that EPA 
+
+ cut so deeply against the grain and make such a 
+
+ radically different approach with respect to this one 
+
+ category of sources, you would expect to see very clear 
+
+ legislative language to that effect.  You would expect 
+
+ to see a ­­ a direction to EPA in 7412 to study costs 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+69
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ before making this judgment. 
+
+ JUSTICE SCALIA: 
+
+General Verrilli, let me ­­
+
+ let me ask a question about costs.  There ­­ there are 
+
+ economic costs.  There are other costs.  Is it ­­ is it 
+
+ the Agency's position that no cost can be taken into 
+
+ account?  For example, it ­­ it may find that ­­ that a 
+
+ particular material has an effect on health, but it may 
+
+ find that eliminating it will have other effects that 
+
+ are even more deleterious to health.  Could that cost be 
+
+ taken into account? 
+
+ GENERAL VERRILLI: 
+
+If I may answer, 
+
+ Mr. Chief Justice.  I think that cost would be taken 
+
+ into account in the OIRA regulatory impact analysis. 
+
+ JUSTICE SCALIA: 
+
+But not for the listing. 
+
+ GENERAL VERRILLI: 
+
+But ­­ but not for the 
+
+ listing. 
+
+ JUSTICE SCALIA: 
+
+Not for the listing. 
+
+ That's right. 
+
+ GENERAL VERRILLI: 
+
+Thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, General. 
+
+ Mr. Smith. 
+
+ ORAL ARGUMENT OF PAUL M. SMITH 
+
+ ON BEHALF OF INDUSTRY RESPONDENTS 
+
+ MR. SMITH: 
+
+Mr. Chief Justice, and may it 
+
+ please the Court: 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+70
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ We agree with the government that the EPA 
+
+ was not required to engage in a cost­benefit analysis 
+
+ before making the initial listing decision to regulate 
+
+ hazardous pollutants emitted by power plants from 
+
+ power ­­ applying the appropriate and necessary 
+
+ standard.  And I ­­ I certainly want to acknowledge at 
+
+ the beginning, clearly, Congress did think that power 
+
+ plants needed to be treated differently, but what did 
+
+ they give them?  They gave them a 3­year pause in which 
+
+ the EPA was instructed to take account of the health 
+
+ effects of the particular pollutants emitted by power 
+
+ plants, and it did this under an appropriate and 
+
+ necessary standard. 
+
+ And if I could address the issue of what 
+
+ those two words mean in the reading of the EPA, I would 
+
+ refer the Court to pages 226 and 227 of the National 
+
+ Mining Association cert­petition appendix.  I don't think 
+
+ it's necessary to read from it, but what the EPA said 
+
+ consistently throughout this record is we looked at two 
+
+ things.  There was a claim made in the legislative 
+
+ history that these chemicals are simply not harmful 
+
+ enough to require any further regulation, that their 
+
+ effects are negligible, and they looked at that issue 
+
+ under the appropriateness rubric.  And they said these 
+
+ are harmful chemicals, particularly mercury. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+71
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ In addition, under the appropriateness 
+
+ rubric, they looked at the question of whether or not 
+
+ there were technologies available to regulate them.  The 
+
+ necessary rubric was used to look at the post­Clean Air 
+
+ Act post­acid rain health effects that would persist. 
+
+ So they said, A, these are harmful chemicals ­­ harmful 
+
+ pollutants; and B, under necessary, they will continue 
+
+ to be harmful after the Acid Rain Program has kicked in. 
+
+ And that's how the Court ­­ the EPA saw the two 
+
+ different words, and it's a perfectly logical way for 
+
+ them to proceed. 
+
+ JUSTICE SCALIA: 
+
+Who ­­ who would have 
+
+ guessed?  I mean, that seems such an artificial division 
+
+ of ­­ of necessary and appropriate.  Why ­­ describe it 
+
+ again.  I really didn't ­­ didn't quite understand it. 
+
+ Necessary means what? 
+
+ MR. SMITH: 
+
+The claim ­­ everybody concedes 
+
+ that necessary means that there will still be health 
+
+ problems after the Acid Rain Program kicks in. 
+
+ JUSTICE SCALIA: 
+
+All right.  And appropriate 
+
+ means? 
+
+ MR. SMITH: 
+
+The appropriate was intended to 
+
+ meet the claim made by the ­­ the industry that these 
+
+ chemicals already are sufficiently harm­free that we 
+
+ don't need to regulate here regardless of the effects. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+72
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE SCALIA: 
+
+Why isn't that part of the 
+
+ first one? 
+
+I mean ­­
+
+MR. SMITH: 
+
+Well, it could have been done 
+
+ that way. 
+
+They read them separately ­­
+
+JUSTICE SCALIA: 
+
+I see. 
+
+MR. SMITH: 
+
+­­ Your Honor. 
+
+JUSTICE SCALIA: 
+
+Okay. 
+
+MR. SMITH: 
+
+That's the way the government 
+
+ read them. 
+
+JUSTICE SCALIA: 
+
+It's a silly way to read 
+
+ them, I think. 
+
+ MR. SMITH: 
+
+Perhaps so, Your Honor.  But the 
+
+ key thing is, the issues that they were directed to 
+
+ study, the issues that were then supposed to control the 
+
+ listing decision were the health effects of the 
+
+ pollutants that come out of these power plants.  And 
+
+ they then deferred the issue of considering a cost to 
+
+ the second stage just as occurs with every single other 
+
+ source of the same 189 hazardous pollutants that they 
+
+ were dealing with. 
+
+ And if I could pause here and just clarify 
+
+ one thing about what happened at that listing stage. 
+
+ Natural gas­fired plants were not turned into a 
+
+ category.  They looked at the health effects of natural 
+
+ gas­fired plants and said we are exempting them entirely 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+73
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ from regulation under this section, under the 
+
+ appropriate and necessary standard because they simply 
+
+ don't emit these chemicals in more than trace amounts, 
+
+ and there's simply nothing for us to regulate.  So 
+
+ natural gas plants get taken out at the listing stage. 
+
+ We then have coal­fired and oil­fired plants 
+
+ as to which they begin to apply the subsection (d) 
+
+ standards, standards which were designed by Congress to 
+
+ limit the emission regulation to reasonable amounts, 
+
+ designed because the floors are, in fact, limited to 
+
+ what has already been achieved by comparable plants in 
+
+ the same category. 
+
+ Now, there was some question raised about 
+
+ whether or not this categorization was something that 
+
+ EPA recognized it could use to effect the emissions 
+
+ standards and make them reasonable.  In fact, as 
+
+ Mr. Brownell acknowledged, they did use ­­ create a 
+
+ category ­­ a separate category of coal­burning plants 
+
+ that burned Lignite, because it turns out that none of 
+
+ the Lignite plants could meet the ­­ the standards that 
+
+ would otherwise have ­­ have applied with respect to 
+
+ mercury if they were in the category with the other 
+
+ coal­fired plants. 
+
+ They then through this whole process looked 
+
+ at the issue of categorization.  They started out with 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+74
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ two coal­fired categories.  They ended up with ­­ and as 
+
+ far as that, with one oil­fired category.  In the final 
+
+ rule, there are four separate categories of oil­fired 
+
+ plants, depending on what they burn and how they 
+
+ operate.  So this whole process of separating out these 
+
+ categories to produce emissions standards that make 
+
+ sense and are practicable was built into that process 
+
+ under subsection (d) ­­
+
+ JUSTICE KAGAN: 
+
+Mr. Smith, could ­­ could 
+
+ you just clarify for me that the ­­ the categorization 
+
+ happens after the listing; is that correct? 
+
+ MR. SMITH: 
+
+Yes, Your Honor.  What they 
+
+ listed was all coal­fired plants and all oil­fired 
+
+ plants, but no natural gas plants.  They then go to the 
+
+ question of what emissions standards should occur.  And 
+
+ with respect to other sources, that's sometimes years 
+
+ after the listing decision is made.  But they then have 
+
+ a process of saying, what are our categories going to 
+
+ be?  We have to put out ­­ we have to get information at 
+
+ that point.  What of the top 12 percent of the category 
+
+ would, in fact, are there emissions?  You have to ­­
+
+ they have to report in.  They make a calculation about 
+
+ that. 
+
+ JUSTICE SCALIA: 
+
+Aren't ­­ aren't these just 
+
+ requirements above the minimums that automatically 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+75
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ apply? 
+
+ MR. SMITH: 
+
+No, Your Honor.  The ­­ the 
+
+ minimums are established by what the top 12 percent in 
+
+ the category that the EPA has ­­
+
+ JUSTICE SCALIA: 
+
+Yes.  But I'm ­­ I'm saying 
+
+ the categorization that allows you to ­­ you know, to 
+
+ reduce some people and ­­ and not to reduce others, that 
+
+ applies to requirements above the minimums.  No? 
+
+ MR. SMITH: 
+
+Your Honor, the ­­ the minimums 
+
+ are the things that are set by mathematical calculation 
+
+ from the categories.  Everything else above the minimums 
+
+ is done taking cost into account under (d)(2) expressly. 
+
+ JUSTICE SCALIA: 
+
+Yes. 
+
+ MR. SMITH: 
+
+So the only thing that is done 
+
+ using not express consideration of cost, but 
+
+ consideration of cost indirectly basing the regulations 
+
+ on what the top 12 percent are doing is the minimums. 
+
+ And the minimums are then altered, depending on what 
+
+ categories you establish.  That is the way that the 
+
+ regulation has worked for all of the sources that they 
+
+ regulated.  That is the ­­ the practical mechanism ­­
+
+ JUSTICE KAGAN: 
+
+So just to clarify that just 
+
+ for ­­ for my own purpose, Mr. Smith.  It's just you 
+
+ categorize one way, the minimums are down here.  You 
+
+ categorize another way, the minimums are up there. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+76
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. SMITH: 
+
+That's correct, Your Honor. 
+
+ JUSTICE KAGAN: 
+
+It can make a huge 
+
+ difference in terms of what the minimums are. 
+
+ MR. SMITH: 
+
+Right.  And there's a notice and 
+
+ comment process.  They put out proposed categories. 
+
+ They tell them what we ­­ empirically what we found 
+
+ about what the top 10 ­­ 12 percent are doing.  They 
+
+ then get comments in and they ­­ as they happened 
+
+ here ­­ they make different categories in the final rule 
+
+ adjusting. 
+
+ JUSTICE ALITO: 
+
+How can we ­­ how can we 
+
+ tell the degree to which costs are taken into account, 
+
+ if they are at all, without knowing what the criteria 
+
+ are for creating these subcategories? 
+
+ MR. SMITH: 
+
+Well, Your Honor, it's in the 
+
+ statute that they create the categories in applying this 
+
+ 12 percent.  I don't ­­
+
+ JUSTICE ALITO: 
+
+No, no.  The 12 percent ­­ I 
+
+ thought the 12 percent came into play after you've 
+
+ created the category ­­ the subcategory. 
+
+ MR. SMITH: 
+
+Right, as part of the process. 
+
+ It's part of the process. 
+
+ JUSTICE ALITO: 
+
+But how do I know how they 
+
+ create the subcategories? 
+
+ MR. SMITH: 
+
+Well, it's ­­ you can see it in 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+77
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ the notice of proposed rulemaking.  They say here are 
+
+ our proposed categories:  Two coal categories, one oil 
+
+ category.  Then they get comment about how ­­ we are 
+
+ not ­­ what happens, then, is the people that comment 
+
+ say we're so different from that category.  We have 
+
+ these special problems.  We need our own separate 
+
+ category. 
+
+ JUSTICE KAGAN: 
+
+And it's a rulemaking after 
+
+ the rulemaking that applies to the listing; is that 
+
+ right? 
+
+ MR. SMITH: 
+
+It's totally after that, Your 
+
+ Honor.  It's a second phase.  It ­­ it happened here 
+
+ that they announced it all at the same time, but only 
+
+ because there had been an 11­year delay. 
+
+ JUSTICE BREYER: 
+
+You ­­ you confirm it was 
+
+ not made up in my chambers. 
+
+ (Laughter.) 
+
+ JUSTICE BREYER: 
+
+The fact ­­ the fact is ­­
+
+ MR. SMITH: 
+
+Although they did a wonderful 
+
+ job figuring it out again, Your Honor. 
+
+ (Laughter.) 
+
+ JUSTICE BREYER: 
+
+You're right.  The ­­ the 
+
+ brief said Congress ­­ the SG's brief ­­ unambiguously 
+
+ required EPA to consider costs at the second stage of 
+
+ the regulatory process.  That's what it said.  A few 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+78
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ pages later, they have the statute.  So not 
+
+ surprisingly, I read the statute.  And ­­ and reading 
+
+ the statute leads me to think it works along the lines 
+
+ you just said. 
+
+ MR. SMITH: 
+
+That's correct your honor. 
+
+ JUSTICE BREYER: 
+
+But if you did have the 
+
+ most expensive set of generators in the world, you would 
+
+ ask EPA to create a separate category for them in which 
+
+ case the top 12 percent would no longer be in your 
+
+ category and you wouldn't have to do it. 
+
+ MR. SMITH: 
+
+And that's what happened with ­­
+
+ JUSTICE BREYER: 
+
+Now, what I'm asking is if 
+
+ that you think it's the system, that's what I read in 
+
+ the statute.  The SG thinks that's the system, but is 
+
+ there a treatise?  Is there a ­­ an explanation that EPA 
+
+ has put out so that it is clear that it was not made up, 
+
+ that it's clear that this is the system that they 
+
+ follow?  Would you refer me to a source? 
+
+ MR. SMITH: 
+
+Your Honor, the only source that 
+
+ I can refer you to ­­ and perhaps the government can 
+
+ supply something after ­­ is ­­ is the notice of 
+
+ proposed rulemaking in the final rule in which all of 
+
+ this categorization process is laid out in ­­ in 
+
+ exquisite detail.  And ­­ and you can see the comments 
+
+ that come in and say the categories don't work, we need 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+79
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ different categories, and they then produce different 
+
+ categories. 
+
+ JUSTICE SOTOMAYOR: 
+
+I think that Justice 
+
+ Alito ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Is there something 
+
+ in the ­­ excuse me.  Is there something in the 
+
+ administrative record where EPA adopts that?  When 
+
+ somebody says you're not considering cost.  It's a bad 
+
+ thing.  We're going to go to the Supreme Court if you 
+
+ don't consider cost, and EPA says, oh, no we're going to 
+
+ consider cost.  We're going to consider cost when we 
+
+ categorize the power plants.  Is there a reference to 
+
+ the administrative record where there's something like 
+
+ that? 
+
+ MR. SMITH: 
+
+Well, they certainly said, Your 
+
+ Honor, in the notice of proposed rulemaking, that we 
+
+ interpret the listing decision as being something that 
+
+ is based solely on health and not on cost. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+The listing decision 
+
+ is not based on cost. 
+
+ MR. SMITH: 
+
+Right. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+I want to know if 
+
+ there's anything there that says, but don't worry 
+
+ because we're going to consider cost through the 
+
+ categorization process. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+80
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. SMITH: 
+
+I don't know whether they said 
+
+ that explicitly.  That was so implicit in the whole 
+
+ system.  This is a system that's been in operation for 
+
+ other sources for ­­ since 1990. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, implicit 
+
+ usually doesn't work when you're talking about an 
+
+ administrative record. 
+
+ MR. SMITH: 
+
+Your Honor, they gave everybody 
+
+ the opportunity to attack the categories that they, in 
+
+ fact, proposed, based on the argument that they were 
+
+ impractical for them. 
+
+ JUSTICE KENNEDY: 
+
+But I thought your 
+
+ position was that you didn't need to consider costs at 
+
+ the first step, and that that would include your initial 
+
+ category. 
+
+ MR. SMITH: 
+
+No, Your Honor, the categories 
+
+ are at the second step.  The categories have ­­ the only 
+
+ thing that they did at the first step is say ­­
+
+ JUSTICE KENNEDY: 
+
+But you didn't take that 
+
+ second step. 
+
+ MR. SMITH: 
+
+They did, Your Honor.  They 
+
+ categorized oil­fired plants into four categories.  They 
+
+ categorized coal­fired plants into various categories. 
+
+ And that was all done through a notice and comment 
+
+ process which led, then, to different emission 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+81
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ standards. 
+
+ JUSTICE KENNEDY: 
+
+And are you saying that 
+
+ was done based on cost? 
+
+ MR. SMITH: 
+
+Yes, Your Honor, it was done ­­
+
+ what ­­ what was feasible for these different 
+
+ technologies. 
+
+ JUSTICE SCALIA: 
+
+I see.  How much money did 
+
+ that save?  I mean, do we know how much of the $9.6 
+
+ billion cost would be reduced by this categorization? 
+
+ MR. SMITH: 
+
+Well, Your Honor ­­
+
+ JUSTICE SCALIA: 
+
+I mean, that's the problem 
+
+ here, isn't it? 
+
+ MR. SMITH: 
+
+I don't have that calculus, but 
+
+ I would point out that it's important to recognize that 
+
+ something like 90 percent of that 9.6 billion ­­ 90 
+
+ percent of the capital cost, which is most of that 9.6 
+
+ billion, has now already been spent.  And the industry 
+
+ has not experienced the kinds of upheavals that are 
+
+ being described.  The rule takes effect in the middle of 
+
+ April, and so the idea that the result here was somehow 
+
+ ludicrous or outlandishly expensive is belied by the 
+
+ fact that the industry is bringing itself into full 
+
+ compliance. 
+
+ JUSTICE SCALIA: 
+
+Instead of going to jail? 
+
+ Is that it? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+82
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. SMITH: 
+
+Complying with Federal law ­­
+
+ JUSTICE SCALIA: 
+
+I mean, it might still be 
+
+ ludicrous, but it had to be done. 
+
+ MR. SMITH: 
+
+Well, the other thing I would 
+
+ say is the idea that the $4.6 million benefit is the 
+
+ proper comparator is wrong on so many different levels. 
+
+ First of all, that was a single ­­ one single health 
+
+ benefit related to mercury.  They didn't think ­­
+
+ JUSTICE KENNEDY: 
+
+Is the $9 billion a year 
+
+ recurring annually, or are you saying that most of this 
+
+ is capital investment one time? 
+
+ MR. SMITH: 
+
+Most of it is amortization of 
+
+ the capital expenditures that have already been made. 
+
+ That's in all the briefs from the Petitioners.  There 
+
+ will be something like 40 percent will be operating 
+
+ costs and 60 percent is amortized capital costs, Your 
+
+ Honor. 
+
+ The industry has been able to do this, and 
+
+ the situation now is we're ready to finally have 
+
+ national standards, which means it's not ­­ the States 
+
+ that have been regulating in this area very strenuously 
+
+ won't continue to have mercury flowing across state 
+
+ lines as they have.  And we have this national, highly 
+
+ competitive electricity market, where some companies 
+
+ have marginal costs that reflect that they're in 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+83
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ compliance, and some don't.  And that is a problem that 
+
+ really needs to be solved. 
+
+ JUSTICE SOTOMAYOR: 
+
+Mr. Smith, I just want 
+
+ you to finish your thought.  The four million ­­ the 
+
+ four billion that they are referring to is only mercury. 
+
+ The agency did not quantify all of the other costs for 
+
+ the other HAPs, correct? 
+
+ MR. SMITH: 
+
+Actually, it didn't quantity 
+
+ many, if not most, of the costs for mercury, because 
+
+ mercury causes developmental delays, attention deficit 
+
+ disorder ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Well, let's put that 
+
+ aside. 
+
+ MR. SMITH: 
+
+­­ all these other things that 
+
+ are not quantified in the rule.  It causes 
+
+ cardiovascular problems that are not ­­ a lot of things 
+
+ mercury does, it's an extremely poisonous neurotoxin. 
+
+ The other thing about the 30 billion to 90 
+
+ billion, that is particulate reduction, and some of the 
+
+ particulate that is reduced is, in fact, HAPs.  It is 
+
+ nonmercury metals that go out in the form of particles. 
+
+ It is mercury that sometimes goes out in the form of 
+
+ particles.  It is the acid gases, which when they get 
+
+ out into the atmosphere turn into particles because they 
+
+ become aerosolized, they go into your lungs as tiny 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+84
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ droplets. 
+
+ So all of those are, in fact, being taken 
+
+ care of in the controls of particulate.  It is true that 
+
+ in controlling those HAPs, you use the same technology 
+
+ and you end up controlling a lot of other kinds of 
+
+ particulate, primarily sulfur dioxide, which causes 
+
+ premature deaths.  And so when they did the calculation, 
+
+ they said we put these particulate controls in to 
+
+ control HAPs.  It happens to also save a lot of lives, 
+
+ because of sulfur dioxide that's not otherwise being 
+
+ controlled.  And so we'll tell you all the lives we're 
+
+ saving, not just some of those lives. 
+
+ JUSTICE ALITO: 
+
+Was this the basis for the 
+
+ EPA's decision?  I thought the EPA ­­ I thought the 
+
+ EPA's position was, it doesn't matter how much the 
+
+ benefit ­­ how much the costs exceed the benefits, we 
+
+ just will not take costs into account at the listing 
+
+ stage. 
+
+ MR. SMITH: 
+
+That is correct, Your Honor. 
+
+ They did not consider the cost­benefit analysis at the 
+
+ listing stage.  That's based on their reasonable ­­
+
+ quite reasonable, I think, interpretation of the 
+
+ statute.  The statute, which with respect to every other 
+
+ source, it's conceded you don't do the cost­benefit 
+
+ analysis upfront.  This statute came out of a period of 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+85
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ regulatory paralysis of 20 years, where the EPA just 
+
+ wasn't regulating effectively. 
+
+ And Congress came in and said we're going to 
+
+ force regulation of these chemicals that are being 
+
+ spewed into the environment and causing all these health 
+
+ effects.  It gave one benefit to the power plant 
+
+ industry and said you have three years.  You can prove 
+
+ that there wasn't ­­ there aren't really health effects 
+
+ that are serious.  But it didn't give them the benefit 
+
+ of having a cost­benefit analysis done upfront, or 
+
+ create all the discretion in the world on the part of 
+
+ EPA simply to say, we don't think you should regulate 
+
+ this particular category. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, 
+
+ Mr. Smith. 
+
+ Mr. Lindstrom, you have four minutes 
+
+ remaining. 
+
+ REBUTTAL ARGUMENT OF AARON D. LINDSTROM 
+
+ ON BEHALF OF STATE PETITIONERS 
+
+ MR. LINDSTROM: 
+
+Thank you, Mr. Chief 
+
+ Justice. 
+
+ Any subcategorization that was going to 
+
+ happen has already occurred, because we're talking about 
+
+ the rule that's been promulgated, and despite any 
+
+ subcategorization that happened, there's still $9.6 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+86
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ billion in costs that are being imposed on an annual 
+
+ basis ­­
+
+ JUSTICE SOTOMAYOR: 
+
+You're asking us ­­ it 
+
+ wasn't the question presented.  Is the question 
+
+ presented that ­­ not that you have to take that into 
+
+ account at listing, but that somehow that ratio makes 
+
+ any emissions standards wrong ­­
+
+ MR. LINDSTROM: 
+
+The question is whether ­­
+
+ JUSTICE SOTOMAYOR: 
+
+­­ even if, for some 
+
+ people, it's really not back­breaking to do it? 
+
+ MR. LINDSTROM: 
+
+The question is whether 
+
+ costs have to be considered under (n)(1) when you're 
+
+ regulating electric utilities.  And there's one thing 
+
+ I'd like to ­­
+
+ JUSTICE SOTOMAYOR: 
+
+They do say it does when 
+
+ you’re regulating at the emission standard. 
+
+ MR. LINDSTROM: 
+
+They say that it's being 
+
+ done ­­ I guess if you think about this, what happens 
+
+ under 7412(c) is you've got a listing decision, first 
+
+ stage.  Then you've got a floor standard.  And then 
+
+ you've got an above­the­floor standard. 
+
+ JUSTICE SOTOMAYOR: 
+
+That's not what ­­
+
+ MR. LINDSTROM: 
+
+In their approach ­­
+
+ JUSTICE SOTOMAYOR: 
+
+You're taking out the 
+
+ categorization.  They don't establish the floor until 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+87
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ they categorize, correct? 
+
+ MR. LINDSTROM: 
+
+So categorization could 
+
+ happen here, but my point is, what happens under (n)(1) 
+
+ is these first two steps are merged.  You're making the 
+
+ necessary and appropriate determination, when you're 
+
+ looking not to list, but whether such regulation is 
+
+ appropriate and necessary.  That's the language in the 
+
+ statute.  It says, is such regulation appropriate and 
+
+ necessary. 
+
+ So it's not just whether it's going to be 
+
+ listed.  It's looking at what's actually going to 
+
+ happen, so that's why it's ­­ that's why they did both 
+
+ at the same time.  Why they made the appropriate and 
+
+ necessary finding at the same time they published the 
+
+ emissions standards.  They were looking at the costs 
+
+ ahead because they didn't know what the costs were going 
+
+ to be to figure out if such regulation ­­
+
+ JUSTICE SCALIA: 
+
+Are you saying that they 
+
+ purported to make the categorization decision without 
+
+ taking into account costs? 
+
+ MR. LINDSTROM: 
+
+Yes, any categorization 
+
+ they've done has already been done, and they didn't 
+
+ consider costs. 
+
+ JUSTICE SCALIA: 
+
+And didn't consider cost. 
+
+ MR. LINDSTROM: 
+
+That's correct.  And again, 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+88
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ I'd like to return to one of the big picture principles, 
+
+ which is, this is an administrative law case, so it does 
+
+ ­­ this turns or falls on what the agency actually did 
+
+ below.  So they've already actually made determinations. 
+
+ They've said costs are not relevant.  They've ignored an 
+
+ important part of the regulatory problem, and adopted ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I'm sorry.  They 
+
+ proposed categories, and everybody had the opportunity 
+
+ to say it's the wrong category, correct? 
+
+ MR. LINDSTROM: 
+
+Yes, Your Honor. 
+
+ JUSTICE SOTOMAYOR: 
+
+And argue why it's the 
+
+ wrong category. 
+
+ MR. LINDSTROM: 
+
+And the categories have been 
+
+ adopted 
+
+ JUSTICE SOTOMAYOR: 
+
+And some people 
+
+ submitted complaints about costs relative to their 
+
+ technology and their kinds of plants, correct? 
+
+ MR. LINDSTROM: 
+
+Yes, Your Honor. 
+
+ JUSTICE SOTOMAYOR: 
+
+So, it's not true that 
+
+ ­­ they proposed them, but everybody gets a chance to 
+
+ tell them, these are ­­ this technology is different 
+
+ from the others, or this kind of plant is different from 
+
+ the others, and it imposes a cost much greater than you 
+
+ are anticipating. 
+
+ MR. LINDSTROM: 
+
+I'm saying we're already 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+89
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ past that phase.  They've already ­­ any categorization 
+
+ they were going to do has already been done. 
+
+ JUSTICE SOTOMAYOR: 
+
+No, what you're saying, 
+
+ it's already past.  It's past because that's been ­­ the 
+
+ final rule has been issued. 
+
+ MR. LINDSTROM: 
+
+Correct. 
+
+ JUSTICE SOTOMAYOR: 
+
+I'm talking during the 
+
+ rulemaking process.  The rulemaking process does permit 
+
+ the agency to consider the cost of technology in setting 
+
+ up categorizations. 
+
+ MR. LINDSTROM: 
+
+They've adopted the exact 
+
+ opposite position, which is that costs do not matter. 
+
+ JUSTICE BREYER: 
+
+Well, I thought we just 
+
+ heard ­­ I thought we just heard that say the Lignite 
+
+ people, I can't remember if that's the right name, but 
+
+ they said, look, we have special ways of producing 
+
+ this ­­ our stuff, and they are much more expensive, so 
+
+ please don't put us in the same category as you put the 
+
+ other people in.  Okay?  For the purposes of figuring 
+
+ the best 12 percent, and the agency said, right, okay, 
+
+ separate.  Now, did that happen? 
+
+ MR. LINDSTROM: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+All right.  Then how would 
+
+ you do that without considering cost?  Because their 
+
+ basis was the Lignite people were saying our costs are 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+90
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+
+3
+
+4
+
+5
+
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ more expensive? 
+
+
+ MR. LINDSTROM: 
+
+We don't know how they ­­ I 
+
+ don't know how they did it, but they've said throughout 
+
+ that we're not considering costs. 
+
+
+ Thank you, Your Honor. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ The case is submitted. 
+
+ (Whereupon, at 11:46 a.m., the case in the 
+
+ above­entitled matter was submitted.) 
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+91 
+
+Alderson Reporting Company 
+
+Official 
+Official
+
+60:2 
+
+agree 14:5 45:18 
+
+additionally 67:17 
+address 31:19 36:3  agrees 17:4 
+
+71:1 
+
+A 
+
+aaron 2:8 3:3,16 
+
+4:8 86:18 
+
+ability 23:13,16 
+able 22:14 23:25 
+24:2 53:3 68:25 
+83:18 
+
+aboveentitled 2:4 
+
+91:9 
+
+abovethefloor 
+
+87:21 
+
+absolutely 7:1 
+
+10:17 27:12,17 
+accept 47:22,22 
+account 17:14 
+
+43:14 60:7 71:14 
+
+addressed 29:25 
+
+55:24 61:24 63:3 
+
+addresses 31:14 
+addressing 20:23 
+adjectives 9:16 
+adjusting 77:10 
+administrative 
+
+14:13 55:22 80:7 
+80:13 81:7 89:2 
+
+administrator 
+
+14:21 15:1,21,22 
+23:5 55:9 
+
+54:1 
+
+administrators 
+
+22:18 23:1,13,16 
+24:15 25:7,20 
+36:6,8,20 37:4 
+50:2,8,10,11 51:8  adopt 38:2 
+51:12,15 52:16,20  adopted 38:8 42:16 
+58:5 66:16,18,21 
+68:21 70:6,10,13 
+71:10 76:12 77:12  adopts 80:7 
+85:17 87:6 88:20 
+
+64:22 89:6,14 
+90:11 
+
+advantage 34:18 
+aerosolized 84:25 
+affirmed 41:11 
+agencies 13:5 43:19 
+
+achievable 55:6 
+achieved 14:12 
+
+55:7 74:11 
+
+announced 78:13 
+annual 29:10 52:2 
+
+52:3,3 87:1 
+
+annually 29:17 
+
+83:10 
+
+answer 14:3 21:14 
+21:16 23:1 24:4 
+24:16,17 26:2 
+33:18 35:19 37:11 
+45:20 49:24 57:4 
+68:17 70:11 
+
+ahead 43:22 88:16 
+air 1:11 6:11 28:12 
+28:14,16,22 29:4 
+29:9 30:11 31:24 
+34:9,11 39:13 
+40:11,19 41:19 
+42:5 45:1,5 72:4 
+
+al 1:3,7,16,24 
+alito 17:8 19:20 
+
+53:10 
+
+answering 38:17 
+answers 51:3 
+anticipated 14:22 
+
+anticipating 89:24 
+
+20:4 36:5 45:11 
+45:18 46:17 47:1 
+47:3 48:10 65:15 
+65:18,24 68:9,13 
+68:14,19 77:11,18  anybody 35:1 
+77:23 80:4 85:13 
+anyway 50:1 
+apparently 34:18 
+appeal 26:15 
+appearances 2:7 
+appendix 5:25 6:5 
+31:9 53:21 64:14 
+71:17 
+
+55:9 76:6 
+
+67:25 
+
+66:7 
+
+allows 13:13 42:17 
+
+allowing 43:3 47:7 
+
+allow 42:9 44:8 
+
+altered 76:18 
+alternative 35:22 
+
+applied 58:15 
+
+74:21 
+
+Page 92 
+
+12:15 14:16 15:3 
+15:22 16:22 17:3 
+18:24 20:2 27:6 
+30:7,9 31:20 32:1 
+32:4,5 35:25 
+36:22 39:12,19 
+41:25 42:16,18,20 
+43:2,4,11,14,24 
+44:7,9 45:6 46:16 
+48:23 49:23 51:16 
+54:3 56:8,10 62:6 
+67:6,10,12,15 
+71:5,12 72:14,20 
+72:22 74:2 88:5,7 
+88:8,13 
+
+appropriately 40:6 
+appropriateness 
+
+71:24 72:1 
+april 82:20 
+arbitrary 14:8 
+area 17:16 19:2 
+
+21:3,6 48:12 
+83:21 
+
+arent 27:10 75:24 
+
+75:24 86:8 
+
+argue 25:3 89:11 
+
+45:23 
+
+argument 2:5 3:2,5 
+
+3:9,12,15 4:3,8 
+7:21 24:15,19,24 
+25:1,4,14 28:5,11 
+30:20 37:13 38:7 
+41:6 43:16 45:12 
+48:1 49:22,25 
+51:5,7,9,16,17 
+55:20 56:4,13,18 
+58:20,23 59:18 
+60:11,13,19,20 
+62:9 66:1 67:19 
+68:2 70:22 81:10 
+86:18 
+
+arguments 33:12 
+
+55:23 58:22 
+arisen 12:23 
+artificial 72:13 
+
+46:9 
+
+applies 20:18 37:17  arguing 35:13 
+
+38:14 41:17 76:8 
+78:9 
+
+apply 19:1 24:12 
+
+27:16,20 36:3 
+37:19 41:19 45:24 
+54:5 55:10 64:5 
+74:7 76:1 
+
+11:3,4 
+
+ambient 40:19 
+ambiguous 10:24 
+
+amendments 28:17 
+amicus 60:11 
+amortization 83:12 
+
+18:15 19:7,21 
+20:14,22,25 28:19 
+29:15,17 30:2,3 
+37:22 46:7 49:4 
+49:10 53:8 72:8 
+72:19 84:23 
+
+acid 8:10 18:3,6,11  agency 1:7,16,24 
+4:5 10:24 12:11 
+12:13,24,25 13:13 
+13:25 14:2,7,8,9 
+19:9 25:4,5,6,10 
+25:19 26:5,15,23 
+27:15,18 29:18,20  amortized 83:16 
+31:14 32:11 34:12  amount 26:19 63:2  applying 71:5 
+35:24 36:2 38:1 
+38:16,18,25 39:8 
+40:22 43:4,11,17 
+43:21 44:17 55:20 
+55:24 56:14,18,21 
+58:25 84:6 89:3 
+90:9,20 
+
+acidification 29:25 
+acknowledge 71:6 
+acknowledged 
+
+28:13,14,16 30:11 
+34:9,11 39:13 
+42:5 72:5 
+
+amounts 74:3,9 
+analogous 13:15 
+analysis 17:1 19:2 
+25:21,24 26:1,4,7 
+37:2 38:20 39:14 
+40:5,12 45:24 
+49:2 57:19 70:13 
+71:2 85:20,25 
+86:10 
+
+act 6:11 14:13 
+
+77:16 
+
+74:17 
+
+approach 18:12 
+
+23:25 42:3 43:12 
+56:22 64:25 69:22 
+87:23 
+
+appropriate 4:16 
+4:20 5:1,4,6,11 
+6:10,23,25 7:3,8 
+7:14 8:14,14,19 
+9:11,16 10:25 
+11:5,9 12:10,12 
+
+action 14:9 26:16 
+actual 5:23 
+addition 72:1 
+additional 6:18 
+
+agencys 70:5 
+aggregate 30:22,23 
+aggressively 30:10 
+ago 61:3 62:12 
+
+ancillary 59:17 
+andahalf 52:9 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Official 
+
+aside 50:16 84:13 
+asked 26:1,3 29:13 
+30:7 47:22 51:23 
+asking 20:1 32:10 
+
+66:3 68:24 69:14  blindly 51:13 
+69:14,15 80:18,20  bootstrap 62:2 
+81:10 82:3 85:21  bootstrapped 
+
+basic 41:11 
+
+61:21 
+
+35:11 79:12 87:3  basically 57:8,10 
+
+button 48:5 
+
+C 
+
+c 2:1,10,13,15 3:1 
+
+4:1 19:4 20:18 
+32:5 34:8 53:14 
+53:23 61:2 62:5 
+62:11,12,14,17 
+66:2 87:19 
+
+62:13 
+
+bottom 50:20 
+break 54:22 55:9 
+breaks 26:18 
+
+63:8 66:12 85:13 
+87:2 90:25 
+
+basing 76:16 
+basis 38:8,10 54:12  breyer 22:16 23:17 
+23:20 24:3,19,22 
+calculate 54:24 
+25:2,8,16 26:20 
+32:10 34:17 36:14  calculated 31:25 
+49:21 51:20,24 
+52:15 55:3,13 
+78:15,18,22 79:6 
+79:12 90:13,23 
+
+calculation 12:16 
+31:2 59:14 75:22 
+76:10 85:7 
+
+bear 47:11,12 
+beginning 71:7 
+begins 50:9 
+behalf 2:9,10,13,15 
+3:4,7,11,14,17 4:9 
+28:6 41:7 70:23 
+86:19 
+
+breyers 30:14 
+
+55:21 58:21 69:7 
+
+40:7 
+
+calculus 82:13 
+calibrate 27:15 
+call 59:15 
+called 61:2 
+cant 16:21 19:18 
+
+Page 93 
+
+32:12 33:7,22 
+37:18,20 38:14 
+53:16 55:10 58:17 
+66:18,19 75:1,3,6 
+75:18 76:11,19 
+77:5,9,16 78:2,2 
+79:25 80:1,2 81:9 
+81:16,17,22,23 
+89:8,13 
+
+categorization 
+
+30:22 32:10 38:22 
+50:14 58:21 74:14 
+74:25 75:10 76:6 
+79:23 80:25 82:9 
+87:25 88:2,19,21 
+90:1 
+
+categorizations 
+
+90:10 
+
+categorize 33:8,9 
+
+behave 11:8 
+belied 82:21 
+automatic 54:11,14  belief 19:21 
+
+54:1,22 68:7 
+
+asks 45:21 
+assessment 40:3 
+associated 29:17 
+
+40:10,18 
+
+association 1:20 
+
+71:17 
+
+assume 5:17 15:8 
+assuming 23:15 
+atmosphere 84:24 
+attached 9:15 
+attack 81:9 
+attention 84:10 
+authority 53:25 
+
+58:9,14 
+
+automatically 
+
+75:25 
+
+availability 5:9 
+
+6:16,18 7:18,20 
+8:2 53:16 
+
+available 8:3 28:20 
+
+46:9 72:3 
+
+averted 60:12 
+avoiding 64:4 
+aware 68:16 
+
+B 
+
+b 2:12 3:10 17:7 
+
+41:6 72:7 
+
+back 6:15 9:13,17 
+30:14 50:14 62:4 
+
+backbreaking 
+
+87:10 
+
+background 30:5 
+backwards 21:5 
+bad 80:8 
+base 22:4 
+based 12:14 17:15 
+
+brief 5:20,21 6:1 
+12:3 53:21 57:9 
+59:6,8 60:11 
+78:23,23 
+
+believe 24:25 36:21 
+bench 34:4 
+benefit 14:11 25:21  briefs 51:11 56:1 
+
+briefing 36:13 
+
+63:1,2,9,17 83:5,8 
+85:16 86:6,9 
+benefits 40:4,9 
+
+59:13 61:20,23 
+63:7 64:2,12,13 
+64:17,20 85:16 
+
+best 21:9 28:20 
+
+83:14 
+
+bring 19:23 
+bringing 82:22 
+broad 12:24 26:21 
+
+39:16 
+
+broader 28:14 
+broke 55:15 
+
+37:11 42:12 43:9  brownell 2:10 3:6 
+28:4,5,8,23 29:2 
+44:21 54:24,25 
+58:16 90:20 
+30:13 31:4 32:17 
+32:25 33:11 34:2 
+35:5,18 36:5,10 
+37:12 38:3,5,9,16 
+39:4,15,24 40:8 
+41:4 74:17 
+
+bestcontrolled 55:8 
+beyond 17:5 56:22 
+big 13:23 37:2 52:1 
+
+billion 29:8,10,17 
+
+89:1 
+
+30:2,4 39:23 50:4  brutally 25:20 
+52:1,2 63:15,16 
+building 21:25 
+63:22,23 82:9,15 
+built 21:18,19,21 
+82:17 83:9 84:5 
+84:18,19 87:1 
+
+75:7 
+
+24:18 30:21 35:15 
+38:1,1 43:7 47:22 
+51:15 59:23 90:15  categorized 81:22 
+
+54:17 59:1 67:24 
+76:24,25 80:12 
+88:1 
+
+cap 47:15 
+capacious 6:25 7:5 
+
+7:11 43:2 
+
+capacity 52:12 
+capital 82:16 83:11 
+
+83:13,16 
+
+capricious 14:8 
+cardiovascular 
+
+84:16 
+
+care 22:17 85:3 
+case 4:4 12:18 
+
+13:15 24:23 35:16 
+35:17 47:6 51:14 
+51:22 52:23 53:1 
+55:15 56:5,23 
+57:1 61:2 62:11 
+64:9 69:2,3 79:9 
+89:2 91:7,8 
+
+cases 4:6 26:22 
+
+69:10 
+
+catalytic 53:7 
+catch 10:4 53:6 
+
+81:23 
+
+categorizes 30:24 
+category 18:9 
+
+26:22 28:16 30:23 
+32:6,18 36:4 
+38:13 54:7,9 55:2 
+58:14,15 65:10 
+67:13,16 69:23 
+73:24 74:12,18,18 
+74:22 75:2,20 
+76:4 77:20 78:3,5 
+78:7 79:8,10 
+81:15 86:13 89:9 
+89:12 90:18 
+
+cause 46:7 
+causes 84:10,15 
+
+85:6 
+
+causing 86:5 
+certain 21:20 30:16 
+30:17 31:17 32:13 
+35:8 39:20 54:11 
+
+certainly 21:25 
+
+41:12,25 58:24 
+
+burn 75:4 
+burned 74:19 
+17:17 21:1 41:21  bit 9:17 23:4 59:25  burning 55:16 
+42:1 54:8 55:23 
+
+billions 63:12 
+
+60:12 
+
+business 22:23 23:9  categories 30:15,16 
+
+Alderson Reporting Company
+ 
+
+71:6 80:15 
+
+certpetition 71:17 
+cetera 36:18 
+challenge 35:12 
+challenged 56:21 
+challenging 64:21 
+chambers 51:10 
+
+clarify 39:25 73:21 
+
+75:10 76:22 
+
+class 23:10 24:10 
+
+24:13 
+
+classes 23:5 51:4 
+classic 14:8 
+clause 9:20 10:9 
+
+competitive 83:24 
+complaining 54:15 
+complaints 89:16 
+complete 10:5 
+compliance 29:5,7 
+
+82:23 84:1 
+
+complying 83:1 
+
+55:21 58:21 60:15  clean 6:11 28:12,14  concede 42:8 59:7 
+78:16 
+
+Official 
+
+Page 94 
+
+29:22 
+
+consider 4:16 12:17 
+
+control 7:15 8:10 
+15:10 21:20,22 
+28:22,22 31:15 
+35:22 39:6 46:9 
+55:7 60:4 73:14 
+85:9 
+
+12:20,21 15:15 
+16:20,21,22 26:3 
+26:9 32:19 33:25 
+36:22 39:1 41:22 
+42:10,17 43:6,7,7  controlled 8:16 
+43:22,22 44:3,8 
+45:6,7,8 57:11,11  controlling 85:4,5 
+57:16 61:19,20 
+67:7,7 78:24 
+80:10,11,11,24 
+81:13 85:20 88:23  converters 53:8 
+88:24 90:9 
+
+controls 5:9,13 
+6:16,18 8:2,3 
+37:18 85:3,8 
+
+85:11 
+
+40:11,18,23 59:16  concurring 52:25 
+59:18 
+
+64:17 73:16 79:25  confront 69:3 
+
+comparator 83:6 
+
+conservatively 
+
+Alderson Reporting Company
+ 
+
+chance 89:20 
+characteristics 
+
+31:17 39:20 
+
+characterization 
+
+28:16 30:11 34:9 
+34:11 39:13 42:5 
+
+clear 18:2 49:5,9 
+
+60:9 69:23 79:16 
+79:17 
+
+25:22 
+
+clearly 13:20 71:7 
+charts 64:16 
+close 48:18,22 
+chemicals 71:21,25  closely 13:15 
+
+72:6,24 74:3 86:4  coal 65:13 78:2 
+
+chenery 38:4 
+chevron 12:5 13:4 
+
+42:15,22 
+
+chief 4:3,10 28:2,8 
+37:25 38:4,6 40:8 
+41:3,4,5,8 42:6,15 
+42:25 43:10,15 
+44:1,6,16 45:2,3 
+55:18 56:3 59:11 
+59:17 60:14,17 
+61:4,8,11,14,17 
+61:23 62:1,19,24 
+63:5,13,16,19,25 
+64:9 68:13 70:12 
+70:20,24 80:5,19 
+80:22 81:5 86:14 
+86:20 91:6 
+
+chose 17:11 20:16 
+
+42:3 
+
+circuit 61:2 62:5,11 
+
+62:12,14,17 
+
+circumstance 7:11 
+
+14:1 
+
+circumstances 7:9 
+12:25 14:1 19:11 
+19:14,15,17 
+citation 5:16 
+claim 71:20 72:17 
+
+72:23 
+
+coalburning 74:18 
+coalfired 74:6,23 
+
+75:1,13 81:23 
+
+cobenefits 40:9,10 
+
+code 9:19 
+collateral 59:15 
+colleagues 28:11 
+
+57:15 
+
+come 36:12 39:2 
+
+comes 31:16 48:22 
+
+58:18 
+
+command 14:9 
+commanded 14:20 
+commandeering 
+
+10:12 
+
+comment 31:11 
+
+34:7,10,13 77:5 
+78:3,4 81:24 
+comments 77:8 
+
+79:24 
+
+common 41:24 
+commonly 12:12 
+companies 83:24 
+comparable 65:12 
+
+74:11 
+
+conceded 85:24 
+concedes 72:17 
+conceptually 35:5 
+concern 29:19 
+concerned 40:2 
+
+48:10 57:15 
+
+concerns 41:14 
+conclude 67:14 
+concluded 29:18 
+40:6 49:20 52:4 
+52:10 60:22 
+
+concludes 60:21 
+conclusion 65:9 
+
+condition 5:13 
+conduct 57:18 
+conducted 44:23 
+confirm 78:15 
+confirmed 31:8 
+confirming 34:16 
+
+consideration 
+
+13:21 21:11 22:8 
+22:13 37:3 42:13 
+43:3 65:1 69:15 
+76:15,16 
+
+considerations 
+
+13:11,17 15:14 
+46:13 47:24 
+
+considered 35:14 
+40:13 44:13,17 
+55:20,24 87:12 
+considering 4:13 
+
+15:3,23,24 16:13 
+35:21 42:21 43:23 
+44:2,21 48:20 
+73:17 80:8 90:24 
+91:4 
+
+57:9 71:19 
+
+consistent 45:12 
+
+congress 8:7 12:24 
+13:19,20,21 14:6 
+14:20 15:8 17:11 
+17:19 18:15 29:24  consistently 29:20 
+30:6 39:5 41:18 
+42:3 43:13 44:23 
+45:5,15,19,22,23 
+46:11,20 47:7,25 
+48:3,25 49:2,17 
+52:4 53:5 64:22 
+67:12,14 69:20 
+71:7 74:8 78:23 
+86:3 
+
+consolidated 4:5 
+constitution 9:20 
+construction 12:7 
+context 7:9 11:3,5 
+14:2 28:14 39:13 
+39:16,17,18 40:22 
+
+contextual 11:1 
+continue 47:1 72:7 
+
+congresss 46:18 
+consequences 
+
+31:18 39:21 57:1 
+
+83:22 
+
+continuing 18:17 
+contrary 4:14 
+contributed 47:16 
+
+copollutants 63:10 
+correct 16:18,24 
+
+27:12 38:3,5,7,9 
+55:14 65:19 75:11 
+77:1 79:5 84:7 
+85:19 88:1,25 
+89:9,17 90:6 
+
+cost 12:15,16 13:11 
+13:16 14:7,7 15:7 
+15:9,11 21:1,11 
+21:20 22:8,15,18 
+23:13 25:21 26:1 
+30:2,4 31:1,4 35:3 
+37:1 42:17,21 
+47:19 48:7 50:21 
+50:22 51:14 52:9 
+52:9 53:9 57:16 
+59:13 63:23 66:12 
+70:5,9,12 73:17 
+76:12,15,16 80:8 
+80:10,11,11,18,20 
+80:24 82:3,9,16 
+88:24 89:23 90:9 
+90:24 
+
+costbenefit 25:24 
+
+26:1,4 37:2 39:14 
+39:17 45:24 57:19 
+71:2 85:20,24 
+86:10 
+
+costeffective 18:13 
+
+23:25 
+
+costs 4:13 7:10 
+
+11:15,17,18 12:17 
+
+Official 
+
+Page 95 
+
+depend 30:24 33:3  difference 21:24 
+
+D 
+
+39:7 
+
+11:1 
+
+30:20 
+
+defines 58:13 
+definitely 67:25 
+definition 10:25 
+
+20:16,17 39:5 
+59:21,24 60:2 
+63:3 64:6 68:15 
+77:13 
+
+degree 55:5 77:12 
+delay 20:7 78:14 
+delays 84:10 
+deleterious 70:9 
+deliberately 43:5 
+delighted 57:6 
+demands 39:13 
+d 2:1,8,10,13,15 3:3  department 2:13 
+
+12:20,21 13:22 
+14:3 17:14 18:11 
+21:4,5 22:12 
+23:21 25:7,20 
+26:3,6,8 29:5,7,10  critical 67:4 69:12 
+29:16 30:17,21,23  crudely 25:20 
+30:24 33:24,25,25  current 22:25 
+cut 65:7 69:21 
+34:5,14 35:14 
+36:6,7,22 38:11 
+cuts 7:6,11 28:24 
+38:19,19,24,24,24 
+39:1,2,4,5,5,9 
+40:4,7 41:15,22 
+42:10,13 43:3,22 
+43:23 44:2,3,8,13 
+44:17,21 45:6,9 
+47:11,12 48:9 
+49:23 50:3 52:16 
+52:20 53:11 57:11 
+58:4 59:9 64:25 
+66:3,16,18,21 
+67:7,7 68:20 69:1  dealing 43:1 73:20  describe 72:14 
+described 52:21 
+69:15,15,25 70:3 
+70:4,4 77:12 
+78:24 81:13 83:16  december 31:7 
+83:16,25 84:6,9 
+85:16,17 87:1,12 
+88:15,16,20,23 
+89:5,16 90:12,25 
+91:4 
+
+43:11 45:7 46:14  despite 86:24 
+detail 79:24 
+determination 7:21 
+
+3:16 4:1,8 31:12 
+34:8 37:18 39:6 
+45:9 58:1 60:25 
+61:2 62:5,11,12 
+62:14,14,17 74:7 
+75:8 76:12 86:18  depends 50:1 54:17 
+
+depended 20:12 
+depending 33:21 
+
+deaths 85:7 
+decades 62:4,5,6,18 
+
+design 41:17 
+designed 74:8,10 
+
+decide 4:12 41:21 
+
+deposition 28:19 
+
+decided 17:19 
+
+34:20,24 58:2 
+
+75:4 76:18 
+
+deal 62:7 
+
+82:19 
+
+33:6 
+
+decides 36:3 
+decision 12:21 
+
+31:10 34:7 36:1 
+38:11,23 39:9 
+40:13 88:5 
+
+determinations 
+
+17:14 19:17 27:4 
+38:8,10 44:4 
+46:18 56:19 68:4 
+71:3 73:15 75:17  determine 6:11 
+80:17,19 85:14 
+87:19 88:19 
+
+31:5 89:4 
+
+48:13 
+
+couch 10:13 
+couldnt 50:7 
+counsel 41:3 91:6 
+course 56:2 59:9 
+court 1:1 2:5 4:11 
+10:9 26:23 28:9 
+28:17 41:9 70:25 
+71:16 72:9 80:9 
+
+24:10 66:2 74:17 
+77:16,24 79:8 
+86:11 
+
+created 77:20 
+creating 68:15,21 
+
+77:14 
+
+criteria 19:3,4 
+
+52:24 
+
+51:10 
+
+discussion 36:12 
+
+devised 58:22 
+didnt 7:18,18 8:9 
+15:9,11,13 17:3 
+18:15 20:10 34:25  disorder 84:11 
+35:10 36:14 37:6  disparity 59:12 
+37:10 38:2 42:13  disproportion 64:3 
+44:1 45:15 57:1 
+58:8,24,25 59:2 
+64:18,19 65:11 
+dispute 60:24 
+66:14 69:7,8,9,10  disregard 14:7 
+72:15,15 81:13,19  distinct 4:15 
+83:8 84:8 86:9 
+88:16,22,24 
+
+disproportionate 
+
+63:2 
+
+distinction 25:12 
+distinguish 23:5 
+divide 32:12 50:4 
+division 72:13 
+doctrine 13:4 
+doesnt 10:17 11:17 
+11:18 12:6 15:6,6 
+15:18 16:8,11,15 
+16:18,20 20:15 
+22:12,14 24:12 
+35:1 41:14 42:20 
+45:20 52:6 57:20 
+57:20 81:6 85:15 
+
+10:19 17:22,23 
+18:1,3,9 19:3,10 
+20:16 23:10 37:8 
+45:19,21 54:20 
+59:14 64:4,5 
+66:13 69:5,6,22 
+72:10 77:9 78:5 
+80:1,1 81:25 82:5  doing 6:18 9:24 
+83:6 89:21,22 
+
+66:9,11 77:3 
+
+differences 68:24 
+different 8:13 
+
+differently 17:11 
+
+17:20 20:20 30:7 
+44:25 46:19,24 
+67:24 71:8 
+
+difficult 36:16 
+59:22 64:21 
+
+diminishing 21:3 
+dioxide 85:6,10 
+directed 14:24 15:5 
+41:19 49:2 73:13 
+
+direction 69:25 
+directly 23:22 62:8 
+directs 4:16 12:17 
+
+41:13 
+
+disagree 34:23 47:3 
+discovered 25:8 
+discretion 12:10,24 
+
+13:14 19:9,12 
+27:19 43:20 86:11 
+
+discussed 36:9 
+
+11:13 12:4 18:5 
+26:6 45:13 62:13 
+76:17 77:7 
+
+dollars 40:10 63:12 
+domestic 36:18 
+donald 2:12 3:10 
+
+41:6 
+
+dont 11:4,22 12:22 
+12:23 13:24 20:4 
+23:11,20 24:25 
+25:13 26:8 32:14 
+36:24 37:1 38:25 
+39:1,16 42:8 
+43:25 44:19 46:17 
+46:23 47:12,20 
+48:6 49:6 50:1 
+51:6 54:23 57:11 
+57:24 58:7,18 
+60:23 64:7,8,9 
+68:17,20 71:17 
+72:25 74:3 77:17 
+
+decisionmaking 
+
+courts 9:21 
+create 17:22 18:1,2  decisions 12:19 
+
+13:7 26:5 
+
+30:22 
+
+determined 5:12 
+9:1 18:13 29:22 
+34:14 44:21,24 
+55:8 
+
+determines 35:24 
+
+determining 7:9 
+
+56:7 
+
+deemed 55:6 67:12 
+deeply 69:21 
+deference 12:6 
+deferred 73:17 
+deficit 84:10 
+defined 9:23 37:16  device 32:10 
+
+9:3,6 36:22 
+
+84:10 
+
+developmental 
+
+Alderson Reporting Company
+ 
+
+79:25 80:10,23 
+81:1 82:13 84:1 
+85:24 86:12 87:25 
+90:18 91:2,3 
+dramatic 30:17 
+
+33:23 59:12 
+
+embodies 12:15 
+emission 7:4 27:6 
+31:13 33:17 34:8 
+35:16 41:23 55:7 
+67:9 74:9 81:25 
+87:16 
+
+dramatically 33:21  emissions 6:23 
+
+33:24 
+
+driving 37:10 
+droplets 85:1 
+
+E 
+
+e 3:1 4:1,1 6:22 
+earlier 12:3 23:4 
+
+50:15 65:7 
+
+14:23 17:15 18:25 
+19:23 20:23 21:9 
+26:19 34:23 35:23 
+45:9 46:22 47:13 
+47:16,18 58:2,2 
+69:14 74:15 75:6 
+75:15,21 87:7 
+88:15 
+
+emit 47:8 60:23 
+
+easily 24:7 
+easy 22:21 
+economic 53:4 70:4  emits 60:21 61:1 
+economically 58:6 
+emitted 6:12 46:6 
+economicallybased 
+
+62:16 74:3 
+
+71:4,11 
+
+18:12 
+
+economics 54:21 
+effect 17:17 22:12 
+
+48:14,15 53:2 
+69:24 70:7 74:15 
+82:19 
+
+effective 21:20 
+
+22:15 
+
+effectively 86:2 
+effectiveness 21:1 
+effects 9:5,8 40:24 
+
+45:8 49:4 70:8 
+71:11,23 72:5,25 
+73:15,24 86:6,8 
+
+egu 36:23 
+egus 6:10,12 
+either 24:25 
+electric 4:13 14:23 
+18:4,8,17 20:19 
+20:23,24 29:1 
+87:13 
+
+electrical 52:11 
+electricity 22:20,23 
+
+83:24 
+
+eliminate 37:9 
+eliminating 70:8 
+
+emphasize 37:13 
+empirical 51:22 
+empirically 77:6 
+enable 30:16 
+enact 19:25 
+enacted 45:16 
+encompassed 7:7 
+ended 75:1 
+engage 13:6 71:2 
+engaged 19:17 
+entergy 52:25 
+entire 19:13 24:8 
+
+26:7 35:6 
+
+entirely 21:1 67:21 
+
+73:25 
+
+entities 15:1 66:10 
+entitled 14:7 
+environment 6:13 
+
+86:5 
+
+environmental 1:6 
+1:15,23 4:5 16:10 
+17:6 41:22 42:2 
+45:8 
+
+epa 4:16,18,24,25 
+12:17,20 15:14 
+16:7 17:4 22:25 
+
+Official 
+
+Page 96 
+
+12:4 38:15 56:3 
+57:17 69:16,17,18  extensively 40:18 
+
+extend 12:6 
+
+85:16 
+
+exceed 40:4 47:14 
+
+13:12 21:18 23:24 
+57:12 70:6 
+
+examine 31:12 
+examined 8:1,21 
+example 5:19 8:5 
+
+23:9 24:9 29:3,7 
+30:16,20,24 31:1 
+31:6,8,25 32:2 
+33:13,24,25 34:5 
+34:19 36:6,21 
+40:6 41:14,19 
+42:1,8,11,21,22 
+44:24 46:11,11,13  examples 57:12 
+48:5,8,13,19,20 
+49:3,14,18,19 
+50:22 51:6,12 
+52:4,10,19 53:10 
+54:22 55:14 56:6 
+56:9,10,24,24 
+57:2 58:11 60:21 
+60:22,25 62:5,13 
+62:17,18 64:5,11 
+64:16 65:8 66:2 
+66:14,15 68:6 
+69:3,10,20,25 
+71:1,10,15,18 
+72:9 74:15 76:4 
+78:24 79:8,15 
+80:7,10 85:14 
+86:1,12 
+
+exceeded 46:22 
+exceeds 14:11 
+excuse 58:7 80:6 
+exempt 32:15 67:23 
+exempting 73:25 
+exercise 49:18,19 
+existed 9:4,7 37:9 
+existence 4:19,21 
+
+expenditures 83:13 
+expense 14:10 
+expensive 14:10 
+
+exists 5:11 6:22 8:4 
+expect 21:12,15 
+
+69:23,24 
+
+5:7,13 
+
+extent 68:20 
+extremely 84:17 
+
+F 
+
+f 2:10 3:6 28:5 
+face 18:2 56:25 
+
+69:9 
+
+faced 56:24 
+fact 7:6,11,13 9:9 
+9:25 17:18 19:2 
+22:12,13 24:2 
+25:17,17 39:22 
+40:20 46:20 49:19 
+50:3 53:17 54:3 
+58:18 59:6 62:9 
+74:10,16 75:21 
+78:18,18 81:10 
+82:22 84:20 85:2 
+
+factor 31:5 47:6 
+factors 39:10 
+fair 64:10 
+fairly 59:12 
+falls 89:3 
+
+epas 4:12 11:24 
+
+27:21 33:16 41:10 
+45:13 53:25 57:18 
+68:3 85:14,15 
+especially 21:6 
+esq 2:8,10,12,15 
+3:3,6,10,13,16 
+
+essential 13:5 
+establish 54:2 
+76:19 87:25 
+
+21:23 24:11 32:13  familiar 25:18 
+79:7 82:21 90:17 
+91:1 
+
+family 50:5,21,22 
+far 12:6 13:15 37:1 
+
+67:17 75:2 
+
+experienced 82:18 
+experiences 53:6 
+expert 12:11,13 
+expertise 12:14 
+explain 20:15 42:22  feature 17:9,10 
+explained 32:2 
+
+farm 13:4 19:16 
+fear 50:10 
+feasible 82:5 
+
+34:12 
+
+explaining 22:11 
+
+established 76:3 
+estimated 29:3,7 
+et 1:3,7,16,24 36:18  explanation 20:5 
+evaluation 15:25 
+everybody 35:3 
+
+23:23 
+
+47:10,19,20 79:15 
+
+48:7 51:14 57:12 
+72:17 81:8 89:8 
+89:20 
+
+exact 4:20 27:4 
+
+48:14 90:11 
+
+explicitly 81:2 
+exposure 40:23 
+exposures 29:21 
+express 76:15 
+expressly 48:8 
+
+76:12 
+
+exactly 9:10 10:14 
+
+exquisite 79:24 
+
+federal 2:14 3:11 
+10:21 41:7 83:1 
+figure 17:2 30:21 
+
+88:17 
+
+figuring 78:20 
+
+90:19 
+
+final 5:24 6:8 9:6 
+
+26:15 31:10 34:12 
+75:2 77:9 79:22 
+90:5 
+
+finalizes 39:8 
+finally 83:19 
+find 5:10,25 6:9,10 
+
+Alderson Reporting Company
+ 
+
+7:14 11:23 54:12 
+69:5 70:6,8 
+
+finding 27:6 31:7 
+
+88:14 
+
+finds 12:13 15:2,22 
+fine 23:9 24:3 25:2 
+
+40:17 
+
+G 
+
+g 4:1 
+game 57:22 
+gas 29:18 30:2 
+
+37:22 55:16 65:6 
+65:9 74:5 75:14 
+gases 29:15 30:3 
+
+finish 39:25 84:4 
+first 6:8 10:8 11:13  gasfired 73:23,25 
+
+84:23 
+
+gee 50:7 
+
+11:18 16:2,7 
+21:25 23:22 28:11  gen 2:12 3:10 
+30:14,14 38:17 
+41:12 42:7,7 
+48:18 49:13 51:21 
+51:25 52:20 55:4 
+57:25 60:10 73:2 
+81:14,18 83:7 
+87:19 88:4 
+
+Official 
+
+69:16 
+
+gives 63:22 
+go 11:8 20:8 22:22 
+
+hadnt 17:13 
+half 38:21 52:3 
+hand 5:3 
+
+23:9 24:9,23 42:6  hands 43:5 
+43:21 46:12 50:20  hap 6:12 59:20,24 
+52:12 59:21 75:14 
+80:9 84:21,25 
+goes 19:2 44:10 
+
+happen 86:23 88:3 
+
+88:12 90:21 
+
+61:18 63:1 
+
+51:21 62:4 67:17  happened 18:18 
+84:22 
+
+73:22 77:8 78:12 
+79:11 86:25 
+
+going 6:21 7:10 8:9 
+
+haps 8:10,15,15 
+84:7,20 85:4,9 
+
+8:18 11:7,8,9 13:1  happens 26:5,14 
+75:11 78:4 85:9 
+15:10 20:12 21:4 
+25:7,7,9 31:11 
+87:18 88:3 
+32:12,15 35:3 
+36:6 37:21 43:5,6 
+44:3 49:14 50:20  hard 62:8 
+50:21,21 51:19,22  harm 8:19 18:17 
+harmfree 72:24 
+53:2 56:25 59:1 
+60:1,1 66:15,17 
+harmful 71:21,25 
+68:24 75:18 80:9 
+80:10,11,24 82:24  harmonizes 41:16 
+86:3,22 88:10,11 
+harms 4:19,21 5:1 
+88:16 90:2 
+
+72:6,6,8 
+
+5:3,5,6 16:10 17:6 
+
+general 2:8,12 4:23 
+
+9:14 13:9 26:12 
+41:5,8 42:11,19 
+43:9,25 44:9,19 
+45:4,18 46:25 
+47:2,21 48:17 
+49:8 51:18,21,25 
+52:8,18 53:20,23 
+54:6,16 55:12,14 
+56:2,15,20 57:3,6 
+57:17,24 58:4,11 
+58:13 59:3,16 
+60:7,18 61:6,10 
+61:13,16,22,25 
+62:21 63:4,11,15 
+63:18,24 64:7 
+65:5,8,19,23 66:4  government 6:21 
+6:24 7:3,6 10:21 
+66:22,24 67:2,9 
+21:10 22:4 26:18 
+68:1,8,16,22 70:2 
+37:17 41:25 71:1 
+70:11,15,19,20 
+73:8 79:20 
+generally 26:15 
+generate 54:8 
+55:16 65:11 
+
+goodness 50:25 
+
+64:1 
+
+good 6:6 40:14 63:7  havent 9:22 
+
+hazard 5:11,12 
+
+6:12 8:4,23 9:2,4 
+9:7,8 15:12 36:4 
+hazardous 31:24 
+
+40:11 41:19 44:25 
+45:5,25 46:6 
+60:21 61:1 62:15 
+64:18 71:4 73:19 
+hazards 8:21 14:21 
+14:25 15:6,7 16:1 
+16:6 41:22 42:2 
+48:1,21 
+
+health 4:19,21,25 
+
+Page 97 
+
+45:7 46:12 48:1 
+48:11,15,15,21 
+64:12,13 65:11 
+69:14 70:7,9 
+71:10 72:5,18 
+73:15,24 80:18 
+83:7 86:5,8 
+
+hear 4:3 
+heard 25:14 58:23 
+
+90:14,14 
+
+heres 50:16 60:18 
+
+66:22,24 67:3 
+
+hey 50:16,18 
+higher 38:24 
+highlights 18:10 
+
+27:2 
+
+highly 83:23 
+history 46:2 47:24 
+48:3 49:7 71:21 
+
+hold 46:20 
+honor 5:22 15:13 
+16:14,17 20:6,16 
+22:10 29:2 30:5 
+31:4 32:17 33:1 
+33:12 34:2 35:5 
+36:10 38:9 39:4 
+39:15 40:8,16 
+47:21 48:2,24 
+52:21,24 53:7 
+56:16 62:9 65:23 
+68:18 73:6,12 
+75:12 76:2,9 77:1 
+77:15 78:12,20 
+79:5,19 80:16 
+81:8,16,21 82:4 
+82:10 83:17 85:19 
+89:10,18 91:5 
+
+honors 53:13 58:3 
+
+fit 12:14 
+fitting 12:11 
+flag 62:25 
+floor 87:20,25 
+floors 74:10 
+flow 36:2 
+flowing 83:22 
+focus 32:3 35:25 
+
+39:18 41:14 59:4 
+
+follow 79:18 
+forbids 44:20 
+force 53:5 86:4 
+forget 48:13 
+form 84:21,22 
+found 4:18,19 
+
+40:22 43:13 60:15 
+61:18 77:6 
+
+four 50:5 75:3 
+81:22 84:4,5 
+86:16 
+
+frankly 64:21 
+friend 58:3,19 
+friends 59:12 
+full 82:22 
+further 27:19 30:8 
+
+71:22 
+
+future 24:18,23 
+
+governs 53:15 
+grain 69:21 
+great 53:11 
+greater 89:23 
+gross 24:8 
+ground 38:1 
+group 1:12 11:7 
+
+24:10 66:10 
+
+guess 7:24 23:1 
+
+24:9 56:15 61:22 
+61:25 87:18 
+guessed 72:13 
+
+H 
+
+generating 52:12 
+generators 22:20 
+23:7 24:6 50:17 
+50:20 79:7 
+
+getting 13:9 62:7 
+ginsburg 12:9 13:9 
+
+39:24 
+
+give 5:16 8:4 19:8 
+
+60:4 68:6 71:9 
+86:9 
+
+given 12:24 13:11 
+31:2 57:13 69:13 
+
+Alderson Reporting Company
+ 
+
+5:3,11,12 6:13 8:3  horrible 37:9 
+8:21,23 9:2,4,7,8 
+house 21:24 
+huge 77:2 
+14:22,25 15:6,7 
+15:12 16:1,6 
+hypothetical 36:16 
+17:17 29:19,19 
+31:23,25 36:3 
+37:15,23 39:23 
+41:14,21 42:2 
+
+id 57:6 87:14 89:1 
+
+52:22 69:2,8 
+
+I 
+
+idea 10:3 25:25 
+
+64:1 82:20 83:5 
+
+identified 36:4 
+
+include 21:20 81:14 
+includes 11:15 
+17:24 19:12 
+
+37:14 53:7 54:7 
+
+including 39:22 
+
+ignore 13:1,5 19:18 
+ignored 89:5 
+ill 25:2,2 49:24 
+
+65:18 
+
+illegitimate 64:4 
+im 4:23 6:2 8:6 
+11:16 14:5,19 
+16:3 22:11 34:25 
+37:7,10,11 43:16 
+46:10 47:2 50:9 
+51:16,18,22 53:20 
+53:20 58:23 61:11 
+61:11,14 68:16,16 
+68:17 76:5,5 
+79:12 89:7,25 
+90:7 
+
+imaginary 24:5 
+imagine 22:23 35:6 
+imagined 24:5 
+immediately 46:5 
+impact 18:4 40:3,5 
+40:12 63:21 70:13 
+impacts 37:21 39:9 
+implicit 22:8 81:2,5 
+implicitly 21:11 
+importance 40:15 
+
+41:2 
+
+69:15 
+
+independent 12:8 
+indicate 12:13 
+indirectly 76:16 
+indispensable 
+
+10:18 
+
+industries 18:21 
+
+29:3,4 
+
+industry 2:11,16 
+
+3:7,14 20:13 28:6 
+28:25 30:10,18 
+33:13 35:7 36:17 
+52:1 53:3,5,10 
+54:20,21 58:5 
+70:23 72:23 82:17 
+82:22 83:18 86:7 
+
+infer 17:18 69:1 
+inference 47:5 
+information 75:19 
+initial 71:3 81:14 
+insisted 9:22 
+instructed 71:10 
+instruction 12:20 
+insufficient 22:9,11 
+intend 11:18 
+intended 69:20 
+
+72:22 
+
+important 13:1 
+
+19:18 29:12 40:14 
+49:5 51:17 55:22 
+82:14 89:6 
+
+impose 22:14 29:5 
+29:7 30:8 48:11 
+
+imposed 48:12 
+
+54:14 58:9 87:1 
+
+interested 25:25 
+interestingly 34:16 
+interpret 17:10 
+
+80:17 
+
+interpretation 4:22 
+11:24 41:10 42:12 
+85:22 
+
+interpreted 42:9 
+
+imposes 29:10 32:9 
+
+61:6 
+
+39:22 89:23 
+
+imposing 21:22 
+impossible 22:22 
+impractical 81:11 
+inappropriate 
+
+67:16 
+
+investment 83:11 
+irrational 11:19,25 
+
+50:9 
+
+irrelevant 7:21,23 
+
+7:24 21:5 26:9 
+38:11,19 57:13 
+
+Official 
+
+59:9 
+
+isnt 6:18 18:9 22:16 
+26:25 27:7 36:16 
+51:1,7 62:22 73:1 
+82:12 
+
+isolation 35:17 
+issuance 26:17 
+issue 11:14 12:23 
+
+14:20 18:17 25:19 
+29:11 33:17 38:18 
+43:6 57:13,15 
+62:24 65:15 69:9 
+71:14,23 73:17 
+74:25 
+
+issued 25:10 26:16 
+31:6 35:15 43:3 
+90:5 
+
+issues 31:15 73:13 
+
+73:14 
+
+iv 28:19 29:24 
+
+47:13 
+
+ive 24:5 50:13 
+
+51:18 
+
+J 
+jail 82:24 
+job 78:20 
+john 9:24 
+joint 64:14 
+jr 2:12 3:10 41:6 
+judge 13:3 
+judgment 46:14 
+48:19 49:18,19 
+56:9 57:2 70:1 
+
+jump 13:23 
+justice 2:13 4:3,10 
+
+4:23 5:8,15,21 6:2 
+6:6,21 7:2,16,17 
+8:6,23 9:13 10:14 
+10:22 11:12,22 
+12:9 13:8,8,24 
+14:5,15,19 15:16 
+15:20 16:3,11,12 
+16:15,19 17:8,25 
+18:14 19:5,20 
+20:4,10 21:8,13 
+
+Page 98 
+
+K 
+
+85:5 89:17 
+
+88:24 89:7,11,15 
+89:19 90:3,7,13 
+90:23 91:6 
+
+justification 42:23 
+justify 16:10 47:7 
+
+7:17 9:13 13:8,24 
+17:25 18:14 19:5 
+20:10 26:12 28:23 
+30:13 33:2,6,19 
+38:15 67:20 68:8 
+68:11 75:9 76:22 
+77:2 78:8 
+
+22:1,3,7,16 23:17 
+23:20 24:3,19,22 
+25:2,3,6,8,13,16 
+26:11,12,13,20 
+27:9,14,18,23 
+28:2,8,23 30:13 
+30:14 32:7,10,21 
+32:23 33:2,4,6,18  kagan 4:23 5:8 
+33:19 34:15,17 
+35:10,18 36:5,14 
+37:25 38:4,6,15 
+39:11,24 40:9 
+41:3,4,5,8 42:6,15 
+42:25 43:10,15 
+44:1,6,15,16 45:2 
+kavanaugh 13:3 
+45:3,11,18 46:17 
+47:1,3 48:10 49:6  kennedy 6:21 7:2 
+21:8,13 22:3,7 
+49:21 51:20,24 
+39:11 44:15 53:19 
+52:6,15 53:19,21 
+53:21,22 57:22,25 
+53:22 54:4,10 
+81:12,19 82:2 
+55:3,13,18,21 
+83:9 
+56:3,12,17 57:3,7 
+57:8,22,25 58:7 
+58:12,17,21 59:11 
+59:17 60:14,17 
+61:4,8,11,14,17 
+61:23 62:1,19,24 
+63:5,13,16,19,25 
+64:9 65:3,6,14,15 
+65:16,18,20,24 
+66:14,23 67:1,2,8  kinds 64:20 82:18 
+67:18,20,21 68:8 
+68:9,11,13,14,19 
+69:7 70:2,12,14 
+70:17,20,24 72:12 
+72:20 73:1,5,7,10 
+75:9,24 76:5,13 
+76:22 77:2,11,18 
+77:23 78:8,15,18 
+78:22 79:6,12 
+80:3,3,5,19,22 
+81:5,12,19 82:2,7 
+82:11,24 83:2,9 
+84:3,12 85:13 
+86:14,21 87:3,9 
+87:15,22,24 88:18 
+
+know 8:9 10:4 
+11:10 13:9,17 
+19:6 20:11 23:3 
+25:17,18 32:11 
+33:25 34:5 36:25 
+45:15 47:20,21 
+50:3,8 51:9 53:6 
+54:25 58:25 59:1 
+61:18 64:1 67:22 
+68:17,20 76:6 
+77:23 80:22 81:1 
+82:8 88:16 91:2,3 
+
+30:19 52:24 53:1 
+69:7,8 89:22 
+
+key 12:1 64:22 
+
+73:13 
+
+kick 44:12 
+kicked 72:8 
+kicks 72:19 
+kind 9:18,19,22 
+
+knowing 36:25 
+
+77:13 
+
+Alderson Reporting Company
+ 
+
+7:5,22 8:17 9:1,14 
+10:7 11:4,21,25 
+12:22 13:9,24 
+14:14,17 15:13,18 
+16:2,7,14,17,24 
+17:21 18:10,22 
+19:12 20:3,6,15 
+21:12,15 22:6,10 
+23:15,19,21 24:17 
+24:21,25 25:5,11 
+25:15 26:2 27:2 
+27:12,17,21,24 
+28:3 32:22 58:4 
+86:16,18,20 87:8 
+87:11,17,23 88:2 
+88:21,25 89:10,13 
+89:18,25 90:6,11 
+90:22 91:2 
+
+lines 79:3 83:23 
+list 41:21 42:1 
+
+46:14,16 48:16 
+58:3 61:19 66:21 
+88:6 
+
+listed 19:4,24 27:10 
+27:15 32:18 33:16 
+44:5,11 46:21 
+54:13 58:10 64:16 
+66:19,19 75:13 
+88:11 
+
+listing 8:8,12 17:13 
+
+knows 13:21 
+
+L 
+laid 79:23 
+language 5:17,25 
+9:18,19,22 12:2 
+19:14 28:13 42:9 
+48:23,24 55:3,4 
+69:24 88:7 
+lansing 2:8 
+laughter 57:5 60:16 
+
+78:17,21 
+
+law 10:24 55:22 
+
+83:1 89:2 
+leads 79:3 
+led 81:25 
+left 6:16 18:16 21:7 
+
+47:25 
+
+legal 10:25 40:15 
+
+41:1 
+
+legally 24:14 
+legislating 48:25 
+legislative 47:24 
+48:2 49:7 69:24 
+71:20 
+
+legislature 10:12 
+legitimacy 61:15 
+level 19:23 29:23 
+
+31:15 46:7 65:12 
+levels 40:23 46:22 
+
+60:23 83:6 
+library 11:10 
+lift 27:19 
+light 31:19 39:9 
+lignite 33:14 74:19 
+
+74:20 90:14,25 
+lime 61:3 62:11 
+limit 15:14 47:14 
+
+74:9 
+
+limitations 64:5 
+limited 16:8 33:14 
+
+74:10 
+
+limits 54:1 
+lindstrom 2:8 3:3 
+3:16 4:7,8,10 5:8 
+5:19,22 6:4,7 7:1 
+
+Official 
+
+Page 99 
+
+50:9 
+
+lives 85:9,11,12 
+logic 41:18 57:20 
+
+70:1 71:3 88:4 
+mandate 69:20 
+mandated 22:3,4 
+
+39:10 
+
+mentions 53:16 
+mercury 11:15 
+
+mandatory 67:13 
+
+43:14 45:5,23 
+
+67:12 68:3 69:13 
+69:17,18,19 
+logical 72:10 
+logically 7:24 
+longer 79:9 
+longterm 49:15 
+look 5:19 7:18,25  marginal 21:4 
+
+march 2:2 
+
+43:13 
+
+67:15 
+
+manner 11:9 18:13 
+
+83:25 
+
+10:9 11:2,12 
+12:25 13:25 15:14  market 83:24 
+16:25 17:5,5 
+marshall 9:24 
+18:19 19:6,7,16 
+21:2 23:7 35:15  match 58:16 
+50:9,17,23,25 
+51:1 64:14 72:4 
+90:16 
+
+materials 14:4 
+looked 8:18 9:4,5  mathematical 
+
+10:16 
+
+70:7 
+
+15:9 29:14 31:23 
+33:15 37:14 59:25 
+60:23 63:17,21 
+64:11,17 71:25 
+74:22 83:8,22 
+84:5,9,10,17,22 
+
+merged 88:4 
+metals 29:14 62:7 
+
+84:21 
+
+methodology 62:4 
+mich 2:9 
+michigan 1:3 4:4 
+
+million 29:5 30:1 
+40:10 59:13,13 
+63:17,21 83:5 
+84:4 
+
+material 14:1 19:15  middle 82:19 
+
+76:10 
+
+matter 2:4 41:24 
+
+mind 50:1 
+
+11:19 13:3,10 
+26:23 71:19,23 
+72:2 73:24 74:24 
+looking 5:20 11:16 
+
+looks 7:8 21:16 
+
+51:14 53:4 85:15  minimum 27:10,16 
+32:8,15 33:20,23 
+90:12 91:9 
+37:18 50:18 54:5 
+67:23 
+
+19:13,14 21:21 
+maximum 55:5 
+37:7 88:6,11,15  mcculloch 9:25 
+mean 5:16 6:24 
+9:18 10:17,23 
+19:13 21:13 22:14 
+23:10 37:8 38:16 
+40:16 50:3,19 
+62:20 71:15 72:13 
+73:2 82:8,11 83:2  mining 1:20 71:17 
+
+32:24,25 33:2,6,8 
+33:9 54:11 55:10 
+75:25 76:3,8,9,11 
+76:17,18,24,25 
+77:3 
+
+50:3,6 84:16 85:5 
+85:9 
+
+minimums 27:20 
+
+35:22 59:14 
+
+lord 6:6 
+lot 21:23 47:12 
+
+83:3 
+
+lungs 84:25 
+
+minute 9:14 
+
+low 8:24 40:23 
+lower 23:25 53:9 
+ludicrous 82:21 
+
+meaning 11:6 
+meanings 9:15,23  minutes 86:16 
+means 6:15 7:14 
+
+26:14,21 27:3,8 
+31:11 32:4,8,18 
+34:22 35:17 36:1 
+36:7 37:17 42:14 
+44:3 46:23 53:15 
+9:16,17 10:2,18  missing 47:20 
+57:10,14,19 58:14 
+10:23 11:10 53:2  misspoke 6:8 
+58:25 59:2,5,8,10 
+65:1,16,21 66:16 
+72:16,18,21 83:20  mitigate 30:16 
+66:21 67:7 68:4  m 2:6,15 3:13 4:2  measures 21:20,22  modeling 29:20 
+69:13 70:14,16,17 
+magnitude 29:22 
+71:3 73:15,22 
+main 68:2 
+74:5 75:11,17 
+maintain 43:20 
+78:9 80:17,19 
+85:17,21 87:6,19  major 19:1 42:4 
+majority 29:16 
+
+mechanism 44:12  money 50:4,6 82:7 
+morning 4:4 39:21 
+
+lists 34:9 58:11 
+little 9:17 21:1 23:4  making 19:18 44:4  mentioned 17:6,7  multiple 12:17,17 
+
+meet 24:2,6,8 53:4  motivated 8:8 
+
+meets 26:24,25 
+mention 41:14 
+
+motor 53:8 64:23 
+
+mount 58:20 
+
+72:23 74:20 
+
+70:22 91:8 
+
+76:21 
+
+69:18 
+
+misconception 49:9 
+
+M 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+27:9,15 32:18 
+33:16 35:19 46:13 
+54:12 58:2,9,9,11 
+60:21 
+
+once 9:7 18:18 27:9  part 11:13,13 13:2 
+13:6 14:4 19:18 
+31:6,12,14 35:2 
+40:13 64:19 65:16 
+65:20 66:3 73:1 
+77:21,22 86:11 
+89:6 
+
+Page 100 
+
+54:24 55:1 
+
+period 49:13 85:25 
+permissible 41:13 
+
+47:14 
+
+permit 90:8 
+permitted 47:8 
+
+58:20 62:21 
+
+n 3:1,1 4:1 17:7 
+
+N 
+
+53:6 
+
+needed 69:3 71:8 
+needs 84:2 
+negligible 71:23 
+neurotoxin 84:17 
+19:3 28:13 31:10  never 25:13 50:10 
+31:19 34:7,9,12 
+35:20 38:12 39:8  new 64:24 69:19 
+41:11 46:3 47:23  nine 51:25 
+56:6,6 68:5 87:12  nonfinal 31:8 
+88:3 
+nonfocus 59:4 
+nonmercury 29:14 
+
+57:16 58:23 
+
+naaqs 64:23 69:17 
+name 90:15 
+national 1:20 24:8 
+40:19 61:3 62:11 
+71:16 83:20,23 
+
+natural 18:19 
+
+84:21 
+
+normal 52:22 53:1 
+
+62:22 
+
+normally 63:3 
+note 35:21 
+
+onerous 30:17 
+ones 22:15 
+ongoing 8:19 
+open 46:20 47:25 
+operate 22:4 57:21 
+
+58:6 75:5 
+
+operating 83:15 
+operation 68:25 
+
+81:3 
+
+operator 53:4 
+opinion 5:16 
+
+84:21,23,24 
+
+particular 9:15 
+
+participated 47:15  persist 72:5 
+person 50:5 
+particles 40:17 
+petition 5:24 6:5 
+petitioner 1:13,21 
+18:12 38:25 47:13  petitioners 1:4 2:9 
+2:11 3:4,7,17 4:9 
+70:7 71:11 86:13 
+28:6 31:9 45:22 
+particularly 17:6 
+47:10 59:6 60:24 
+64:8 83:14 86:19 
+
+71:25 
+
+particulate 84:19 
+84:20 85:3,6,8 
+
+phase 78:12 90:1 
+phrase 5:4,5,5,6 
+6:14 10:1,2,6 
+18:24 42:19 43:24 
+44:7 
+
+pick 10:23 
+picture 89:1 
+piece 34:20 
+piecemeal 35:13 
+
+70:22 
+
+pause 48:5 71:9 
+
+73:21 
+
+people 11:7 50:6,7 
+55:1 67:23 76:7 
+78:4 87:10 89:15  place 8:10 9:5 
+21:25 49:11 
+90:15,19,25 
+percent 21:9 22:20  places 13:21 
+
+28:12 86:6 89:22 
+
+plant 21:21,22 
+
+22:22 23:3,7,12 
+23:23 24:2,5,7,12 
+32:13 35:3 36:17  plants 17:11,19 
+38:21,21 50:13 
+52:10,11,13,14,23 
+54:24 55:1 56:25 
+56:25 58:16 75:20 
+76:3,17 77:7,17 
+77:18,19 79:9 
+82:15,16 83:15,16 
+90:20 
+
+19:23 21:10,17,17 
+28:15,21 29:1,6 
+30:6 31:21 32:4 
+32:14 41:18 42:1 
+43:13 44:4,10,22 
+44:24 45:14,17,20 
+46:5,6,15,19,21 
+47:8,11 48:12 
+55:15 58:10 65:10 
+67:6 69:5 71:4,8 
+71:12 73:16,23,25 
+74:5,6,11,18,20 
+74:23 75:4,13,14 
+75:14 80:12 81:22 
+81:23 89:17 
+
+perfectly 33:1 62:6 
+
+72:10 
+
+perform 14:21 
+performance 58:16 
+
+64:24 69:19 
+
+performing 21:10 
+
+41:12 55:16 65:6  notice 31:7 34:6,10  opinions 52:25 
+65:9 73:23,24 
+74:5 75:14 
+
+34:13 77:4 78:1 
+79:21 80:16 81:24 
+
+81:9 89:8 
+
+opportunity 34:18  parts 49:21 
+party 60:11 
+paul 2:15 3:13 
+
+opposed 19:3 20:8 
+
+naturalgasfired 
+
+69:4 
+
+nature 5:4,6 28:12 
+near 22:21 24:1 
+nearby 32:14 
+necessarily 10:11 
+
+notion 13:22 
+number 52:1 
+numerous 66:7 
+
+O 
+
+o 3:1 4:1 
+
+11:18 12:15 22:12  obligation 33:17,20 
+67:15 
+
+60:25 
+
+necessary 4:17,18 
+
+obvious 25:4 
+
+35:14 
+
+occur 14:22 75:15 
+occurred 86:23 
+occurs 73:18 
+offline 52:12 
+oh 50:24 58:25 
+63:11 80:10 
+
+4:25 5:5,12 8:7,11  obviously 30:24 
+8:12,14,15,17,19 
+8:25 9:10,17,20 
+10:1,8,11,12,16 
+10:17,20 15:3,23 
+17:3 18:24 19:25 
+20:1 27:5 31:21 
+31:22 35:25 39:19 
+42:17,20 44:8,10 
+46:16 47:5 48:23 
+56:8,10 71:5,13 
+71:18 72:4,7,14 
+72:16,18 74:2 
+88:5,7,9,14 
+
+oil 78:2 
+oilfired 74:6 75:2,3 
+
+oira 70:13 
+okay 22:21 23:10 
+36:23 37:3 59:25 
+61:18 73:7 90:19 
+90:20 
+
+75:13 81:22 
+
+need 18:23 26:8 
+
+49:18 60:8 69:9 
+72:25 78:6 79:25 
+81:13 
+
+old 21:17 23:8 
+older 21:22 
+
+20:17 55:21 
+opposite 90:12 
+opposition 58:20 
+oral 2:4 3:2,5,9,12 
+
+4:8 28:5 41:6 
+60:12 70:22 
+
+order 29:21 32:22 
+
+56:21 
+
+ordinary 12:7 20:9 
+
+20:18 26:4 
+
+ought 61:19 65:9 
+
+65:10 
+
+outlandishly 82:21 
+outrageously 14:10 
+overestimate 53:11 
+overlap 14:18 
+
+P 
+
+12:3 31:9 53:19 
+59:7 64:15,15,15 
+64:16 
+
+pages 71:16 79:1 
+paragraph 25:24 
+paralysis 86:1 
+
+p 4:1 
+page 3:2 6:3,7,8,10  percentage 53:3 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+39:2 
+
+power 17:11,19 
+
+82:11 84:1 89:6 
+
+problems 23:14 
+
+89:20 
+
+protection 1:6,15 
+
+plausible 11:19,23 
+play 10:20 77:19 
+please 4:11 28:9 
+
+41:9 68:12 70:25 
+90:18 
+
+plenty 26:22 
+pm 40:17 
+point 18:14 19:9,22 
+
+60:20 65:11 72:19 
+78:6 84:16 
+
+1:23 4:5 
+prove 86:7 
+provide 42:13 
+provided 39:6 
+proceed 46:4 72:11  provides 69:13 
+provision 11:14 
+proceeding 36:11 
+
+19:23 28:12,15,21 
+29:1,6 30:6 31:21 
+32:4,13 33:13 
+procedure 14:13 
+41:18 42:1 43:12  procedures 34:11 
+44:4,10,22,24 
+45:14,17,19 46:5 
+46:6,15,19,21 
+47:7,11 48:11 
+51:7 55:15,16 
+65:10 67:6 69:4 
+71:4,5,7,11 73:16 
+80:12 86:6 
+
+40:22 
+
+29:21 
+
+66:7 68:6 
+
+20:21 24:3,4,21 
+process 31:6 34:6 
+25:23 34:17 38:16 
+34:13 39:8 40:6 
+38:18 42:8 50:12 
+59:22 74:24 75:5  provisions 34:10 
+50:24 52:20 53:13 
+75:7,18 77:5,21 
+53:14 55:19 56:19 
+77:22 78:25 79:23  public 4:19,21,25 
+57:22 59:3,5 
+80:25 81:25 90:8 
+5:2 6:12 9:3,7,8 
+60:10 61:25 68:2  powerplantrelated 
+14:11,22,25 15:5 
+90:8 
+68:3,3 69:11 
+15:7,12 16:1,6 
+75:20 82:14 88:3  practicable 75:7 
+29:19,19 31:23,25  r 4:1 
+practical 76:21 
+36:3 37:15,23 
+practice 41:25 55:7  producing 90:16 
+39:23 48:14,15 
+preceding 53:25 
+preclude 42:21 
+64:12,13 65:11 
+precluded 13:12,17  program 18:4,6,11  published 88:14 
+purported 88:19 
+predicate 6:22 
+purpose 76:23 
+37:22 39:22 40:17  premature 85:7 
+purposes 90:19 
+60:22 62:16 
+push 48:5 
+put 8:10 18:8 49:11 
+
+product 24:8 36:18 
+profit 52:7 
+
+produce 40:24 75:6 
+
+pointed 12:2 58:4 
+pointedly 17:19 
+points 5:23 28:10 
+
+poisonous 84:17 
+pollutant 31:24 
+
+premise 14:6 47:22 
+
+51:19 60:8 
+
+47:23 
+
+80:1 
+
+Page 101 
+
+43:12,14 44:10,15 
+45:20,21,21 51:23 
+56:5 57:18 58:3 
+65:25 69:4 70:3 
+72:2 74:13 75:15 
+87:4,4,8,11 
+
+questioning 61:12 
+
+61:15 
+
+quite 4:24 10:18 
+
+52:22 59:19 64:5 
+69:12,12 72:15 
+85:22 
+
+R 
+
+radically 69:22 
+rain 8:10 18:3,6,11 
+
+18:15 19:7,21 
+20:14,22,25 46:8 
+49:4,10 53:9 72:5 
+72:8,19 
+
+raise 38:23 
+raised 59:18 60:11 
+60:12 69:8 74:13 
+
+20:1 23:12 25:8 
+30:18,19 41:16 
+45:17 53:15 66:6  quiet 11:11 
+
+questions 29:13 
+
+36:15 40:14 41:1 
+
+18:15 19:7,22 
+20:14,22,24,25 
+28:19 29:1,4,24 
+30:2 40:20 42:4 
+47:13,15 59:24 
+63:2,5 64:6,23,24 
+64:24 69:17,18,20 
+72:8,19 
+
+programs 28:18,21 
+
+28:22 29:6 42:5 
+prohibited 43:23 
+
+55:1 64:9,10 
+75:19 77:5 79:16 
+84:12 85:8 90:18 
+90:18 
+
+putting 51:16 
+
+raises 62:25 
+range 21:17 
+ratio 87:6 
+reached 65:8 
+read 42:11,12 
+
+pollutants 40:11 
+45:1,5,25 46:6 
+59:21,24 60:2 
+61:1 62:8 63:8 
+71:4,11 72:7 
+73:16,19 
+
+pollution 28:20 
+
+29:25 41:20 
+
+prerequisite 16:5 
+prescribe 45:22 
+prescribed 45:23 
+present 57:1 
+presented 87:4,5 
+presents 29:18 
+37:23 39:23 
+
+presuming 34:25 
+pretty 13:23 18:1 
+
+population 50:5 
+posed 48:2 
+poses 6:12 
+positing 62:10 
+primarily 85:6 
+position 21:14 26:7  principle 55:22 
+
+24:7 
+
+56:4 
+
+44:2 
+
+50:12 71:18 73:4 
+73:9,10 79:2,13 
+projected 30:3 49:4  quality 28:22 40:19  reading 11:20,23 
+12:5 25:23 41:13 
+projection 49:15 
+42:23 44:22 71:15 
+promulgated 27:6 
+79:2 
+
+40:20 
+
+Q 
+
+86:24 
+
+quantifiable 31:25 
+quantified 84:15 
+quantify 64:12,13 
+
+proper 9:20 10:9 
+10:11,16,19,21 
+40:16 59:19 83:6  quantifying 64:20 
+
+64:18,19 84:6 
+
+ready 83:19 
+real 18:4 
+really 23:6,8,11 
+
+31:2 34:21 37:7,8 
+48:4 58:18 64:8 
+68:20 72:15 84:2 
+86:8 87:10 
+
+reason 4:20 18:1,8 
+
+quantity 84:8 
+quest 9:15 
+question 14:2 24:14 
+
+30:14,15 34:3 
+35:19,20 38:17 
+
+27:21 33:16 46:18 
+68:3 70:5 81:13 
+85:15 90:12 
+
+possibility 36:8 
+
+46:21 48:1 
+postacid 72:5 
+postclean 72:4 
+potential 29:25 
+
+principles 89:1 
+printz 10:10 
+problem 13:2,3,6 
+18:7 19:7,13,19 
+36:23 37:1,4 46:7  proposed 45:19 
+46:8 48:8 60:19 
+60:19 69:7,9 
+
+proportion 63:1 
+propose 30:9 
+
+77:5 78:1,2 79:22 
+80:16 81:10 89:8 
+
+Alderson Reporting Company
+ 
+
+19:20 23:21 24:6 
+24:11 40:14 45:13 
+46:24 48:22 54:15 
+64:19 67:10 
+
+reasonable 37:5 
+
+74:9,16 85:21,22 
+reasonably 14:22 
+
+44:17 
+
+reasoned 13:6 
+
+19:17 26:5 
+
+reasons 41:12 
+57:25 64:22 
+
+rebuttal 3:15 28:1 
+
+86:18 
+
+recall 36:11 55:25 
+recognize 82:14 
+recognized 10:10 
+
+74:15 
+
+record 25:18,23 
+36:11 55:19,19 
+71:19 80:7,13 
+81:7 
+
+recurring 83:10 
+red 62:25 
+redress 5:2 
+reduce 8:10 32:21 
+
+76:7,7 
+
+reduced 82:9 84:20 
+reduction 47:16 
+
+84:19 
+
+reductions 30:1,3 
+redundancy 10:4 
+refer 50:14 71:16 
+
+79:18,20 
+
+reference 80:12 
+referring 5:18 84:5 
+refers 21:8 
+reflect 83:25 
+reflected 47:17 
+reflects 42:3 46:2 
+
+46:19 
+
+regard 66:16,21 
+regarding 28:11 
+
+40:15 
+
+regardless 8:2 
+37:20 72:25 
+
+Official 
+
+regime 17:22 18:1 
+18:3 32:1 37:15 
+38:13 52:19 
+
+41:18 42:4,5 
+44:12 65:2 67:11 
+69:13 70:13 78:25 
+86:1 89:6 
+
+62:15 63:8 64:11 
+67:6 69:4,22 
+74:21 75:16 85:23 
+respond 34:3 59:14 
+responded 20:13 
+
+registration 16:5 
+regulate 4:13,17,17  reiterating 20:17 
+
+83:8 
+
+59:11 
+
+rejected 62:12 
+
+relevance 40:15 
+
+4:18,20 6:10,14 
+6:15,23 7:4,10,14  related 31:15 47:25  respondents 2:11 
+8:4 9:9,10,10,12 
+14:3 15:1,21 17:3  relative 89:16 
+18:13,20 20:2 
+27:24 31:22 37:14 
+38:12 41:19 43:12  relevant 7:10 14:4 
+19:16 21:6 23:22 
+45:7 56:6,9 59:22 
+59:23 60:1 61:1 
+38:19 89:5 
+62:23 63:20,20,22  relied 5:9 
+68:5 71:3 72:3,25  rely 16:9 
+74:4 86:12 
+
+2:14,16 3:8,11,14 
+28:7 41:7 57:10 
+70:23 
+
+response 51:19 
+
+41:1 
+
+relying 24:1 
+remain 8:21 
+
+regulated 18:21 
+
+28:16 30:10 40:19  remaining 21:2 
+45:1 65:21 76:21 
+
+Page 102 
+
+41:5 42:6,15,25 
+43:15 44:6 45:3 
+55:18 59:11,17 
+60:14,17 61:4,8 
+61:11,14,17,23 
+62:19,24 63:5,13 
+63:16,19,25 68:13 
+70:20 80:5,19,22 
+81:5 86:14 91:6 
+
+role 10:19 
+room 22:19 
+roughly 25:20 
+rubric 71:24 72:2,4 
+rule 5:24 6:8 9:6 
+12:7 23:3 25:10 
+38:1 43:6 44:7 
+52:23,24 53:1 
+55:23 75:3 77:9 
+79:22 82:19 84:15 
+86:24 90:5 
+
+rulemaking 31:12 
+31:16 33:11 34:6 
+34:10 35:8 78:1,8 
+78:9 79:22 80:16 
+90:8,8 
+
+run 60:3 61:9 62:2 
+
+62:10,22 
+
+S 
+
+s 3:1 4:1 9:18 
+safe 29:22 
+safely 11:16 
+salient 17:9,10 
+save 82:8 85:9 
+saving 85:12 
+saw 72:9 
+saying 7:17,19,22 
+10:19 11:1 12:15 
+24:22 26:23 34:21 
+43:4,6 49:17 
+50:22 56:12,13 
+75:18 76:5 82:2 
+83:10 88:18 89:25 
+90:3,25 
+
+says 6:9 10:1 11:14 
+14:6,25 15:15,16 
+
+60:6 
+
+responses 10:8 
+rest 18:19 53:5 
+rested 56:18 
+restrictions 60:3 
+result 14:23 19:24 
+30:3 37:22 46:22 
+52:12 82:20 
+
+results 15:3,23,24 
+
+16:13,20 17:5 
+35:21 48:20 
+retrofit 28:20 
+return 20:21 89:1 
+revenues 52:2,3,4,6 
+
+52:10 
+
+revised 40:21 
+right 10:5 13:12 
+
+17:15 21:15 27:16 
+27:20 33:1 37:20 
+38:2,15 42:25 
+49:8,23 50:19,19 
+51:12 52:8,15 
+55:12,13 56:4,13 
+56:14,18 57:8,17 
+58:24 62:19 66:3 
+67:8 70:18 72:20 
+77:4,21 78:10,22 
+80:21 90:15,20,23 
+risk 29:19 31:23,25 
+
+37:15,23 39:23 
+
+riskbased 19:1 
+risks 40:24 
+road 19:10 
+roberts 4:3 28:2 
+
+37:25 38:4,6 41:3 
+
+regulating 50:17 
+61:20 62:3,3,15 
+63:6,9 64:17 
+83:21 86:2 87:13 
+87:16 
+
+regulation 6:22 
+8:11 15:2,22 
+28:12 29:9,13,14 
+29:15,18 30:8,9 
+31:17,18,20 32:3 
+35:12,24,24 36:2 
+37:22 39:19,20 
+41:21 42:1,16 
+43:3 44:5,11 46:4 
+46:15,16 56:7 
+59:20 60:2,5 64:2 
+71:22 74:1,9 
+76:20 86:4 88:6,8 
+88:17 
+
+regulations 8:22 
+
+36:3 86:17 
+remains 19:8 
+remedy 5:2 
+remember 63:13 
+
+90:15 
+
+renovating 21:24 
+repeatedly 10:24 
+reply 5:20,21 6:1 
+
+12:3 59:7 
+
+report 75:22 
+require 13:19,21 
+
+24:7 34:25 39:17 
+71:22 
+
+required 12:20 
+13:18,20 30:1 
+44:24 62:14 71:2 
+78:24 
+
+requirement 13:23 
+
+54:14,17 58:14 
+
+requirements 
+
+20:13 56:11 58:9 
+75:25 76:8 
+
+35:9 46:8 49:4,10 
+68:9,14 76:16 
+regulatory 1:11 
+
+requires 15:25 
+19:14 34:10 
+20:13 27:4 31:6,7  reserve 28:1 
+32:1 37:15 39:13 
+40:3,12,13,24 
+
+respect 33:14,15 
+
+34:7 35:8 53:7,8 
+
+Alderson Reporting Company
+ 
+
+15:20,21 22:19 
+23:4 31:19 37:17 
+43:1 46:2,3 50:19 
+53:17,25 55:5 
+56:6 68:5 80:8,10 
+80:23 88:8 
+
+scalia 5:15,21 6:6 
+
+10:14 14:5,15 
+16:12,15,19 25:3 
+25:6,13 27:9,14 
+27:18,23 32:7,21 
+32:23 33:4 54:4 
+54:10 56:12,17 
+58:7,12,17 66:14 
+66:23 67:1,2,8,18 
+67:21 70:2,14,17 
+72:12,20 73:1,5,7 
+73:10 75:24 76:5 
+76:13 82:7,11,24 
+83:2 88:18,24 
+
+scenario 37:9 
+schedule 48:7 
+scheme 45:12 47:5 
+second 17:2 24:10 
+
+sense 21:2 26:6 
+
+41:24 58:5 75:7 
+sentence 53:17,24 
+
+54:1 55:5 66:2 
+
+separate 9:23 19:21 
+20:1 24:10,11,13 
+27:3 45:16 54:23 
+55:17 65:10 74:18 
+75:3 78:6 79:8 
+90:21 
+
+separated 10:15 
+separately 73:4 
+separating 75:5 
+serious 23:13 41:1 
+
+86:9 
+
+set 19:10 33:14,22 
+34:22 44:13 45:9 
+50:11 68:15 76:10 
+79:7 
+
+sets 4:15 
+setting 39:6 41:23 
+58:1 67:10 90:9 
+
+severe 9:2 
+severity 9:2,3,5 
+
+28:13 41:16 49:14  sg 36:24 37:7 79:14 
+49:25 73:18 78:12  sgs 78:23 
+78:24 81:17,20 
+
+secondly 58:6 
+section 4:14 6:11 
+14:3 15:2 30:10 
+31:12,20 34:8 
+37:16 41:10,17 
+44:5,11 45:1,9 
+53:14 54:2 56:7,9 
+58:1 60:25 62:14 
+68:5,6 74:1 
+
+see 11:13 18:5,6,6 
+
+20:4,12 22:17 
+36:15,23 37:7 
+46:23 49:23 50:21 
+69:23,25 73:5 
+77:25 79:24 82:7 
+segment 54:19,20 
+
+58:5 
+
+segments 30:17 
+selfdefined 11:2 
+
+shouldnt 10:3 
+61:20 66:19 
+showed 29:20 
+shows 23:24 27:7 
+
+29:2 30:5 
+
+side 22:19 24:25 
+
+25:19 58:19 63:23 
+
+sides 58:23 
+signal 12:10 
+significance 40:25 
+significant 18:11 
+
+28:25 48:15 
+
+silence 13:10,11,13 
+
+13:18,22 
+silent 13:25 
+silly 73:10 
+similar 18:20 50:13 
+
+51:4 55:8,10 
+similarly 10:3 
+simplify 57:3 
+
+Official 
+
+simply 14:20 18:25 
+27:7 71:21 74:2,4 
+86:12 
+
+single 6:12 29:9 
+
+73:18 83:7,7 
+situated 44:25 
+situation 23:6 24:5 
+24:9 51:22 52:21 
+53:12 54:18,19 
+56:24,24 57:2 
+83:19 
+
+sizes 23:6 
+smith 2:15 3:13 
+
+Page 103 
+
+87:22,24 89:7,11 
+89:15,19 90:3,7 
+
+26:24 27:7,10,15 
+27:16,19 29:11 
+31:13 32:9,15 
+33:17 34:23 35:15 
+35:16 37:19 38:23 
+39:6,7 40:20 
+41:23 44:13 45:10 
+50:12 54:5,11 
+57:16 58:2 67:23 
+69:19 74:8,8,16 
+74:20 75:6,15 
+82:1 83:20 87:7 
+88:15 
+
+sound 41:25 
+sounds 36:19 
+source 17:16 20:19 
+26:19,24,25 28:16 
+32:6,18 34:19 
+36:4 37:18,19 
+38:13,14 41:20 
+44:25 45:4,25 
+46:4 50:13 51:4 
+55:8,11 60:21 
+61:1 64:24 67:13 
+69:19 73:19 79:18  standardsetting 
+79:19 85:24 
+
+sources 8:8 17:12 
+
+32:19 44:14 69:14 
+
+70:21,22,24 72:17 
+72:22 73:3,6,8,12 
+75:9,12 76:2,9,14 
+started 74:25 
+76:23 77:1,4,15 
+starts 9:25 
+19:1,2,25 23:6 
+77:21,25 78:11,19 
+state 2:9 3:4,17 4:9 
+26:18 33:14,15 
+79:5,11,19 80:15 
+10:12 13:4 14:18 
+45:14 46:23 47:9 
+80:21 81:1,8,16 
+47:12 48:12 60:22 
+19:15 83:22 86:19 
+62:16 69:23 75:16  states 1:1 2:5 10:10 
+81:21 82:4,10,13 
+83:1,4,12 84:3,8 
+76:20 81:4 
+23:8 28:25 83:20 
+84:14 85:19 86:15  speaks 5:17 
+
+solely 16:8 42:1 
+
+special 34:11 78:6 
+
+80:18 
+
+solicitor 2:8,12 
+solve 18:7 46:8 
+solved 84:2 
+somebody 80:8 
+someplace 11:8 
+soon 27:24 52:15 
+sorry 6:2 8:6 14:19 
+46:10 47:2 53:20 
+53:20 89:7 
+
+sort 60:3 63:14 
+
+65:22 
+
+90:16 
+
+specific 30:8 39:18 
+specifically 20:24 
+spent 82:17 
+spewed 86:5 
+stage 32:18,19 36:7 
+
+40:1 42:14 44:3 
+44:17 49:13,14 
+57:10 65:1,2 
+73:18,22 74:5 
+78:24 85:18,21 
+87:20 
+
+stating 56:4 
+statute 11:13 12:5 
+12:16 18:20 21:8 
+23:4 26:10 31:3 
+32:2 42:12,23 
+46:1,3 51:8 57:20 
+59:10 77:16 79:1 
+79:2,3,14 85:23 
+85:23,25 88:8 
+
+statutes 17:9 
+statutory 12:1,7 
+
+30:12 39:5 41:13 
+42:9 44:20,22 
+45:12 47:5 
+
+sotomayor 6:2 7:16  standard 26:25 
+
+steamgenerating 
+
+8:6,23 10:22 
+11:12,22 14:19 
+15:16,20 16:3,11 
+22:1 26:11,13 
+33:18 34:15 35:10 
+35:18 49:6 52:6 
+57:3,7,8 65:3,6,14 
+65:16,20 80:3 
+84:3,12 87:3,9,15 
+
+27:8 33:15,20,21 
+33:23 34:8,25 
+40:16,20 48:12 
+50:18 54:8,25 
+58:1 64:24 67:9 
+67:11 71:6,13 
+74:2 87:16,20,21 
+
+14:23 
+
+step 9:13,17 13:4 
+
+16:4,5 17:2 81:14 
+81:17,18,20 
+
+steps 88:4 
+stop 17:4 
+strategies 35:23 
+
+standards 8:24 
+
+46:9 
+
+21:9 26:14,16,17 
+
+strenuously 83:21 
+
+Alderson Reporting Company
+ 
+
+sufficiently 8:11,16 
+
+72:24 
+
+strikes 43:21,24 
+stringent 55:6 
+structure 4:14 31:2  suggest 16:22 
+suggests 48:24 
+sulfur 85:6,10 
+superfluity 10:4 
+
+studied 16:9 
+study 8:1,20,20 
+
+41:17 
+
+supply 79:21 
+
+11:15,16 14:19,20  supplement 28:11 
+14:21,24 15:4,5 
+15:10,15,15,17,19  support 2:11 3:8 
+15:23,24,25 16:9 
+16:13,20,24 17:4 
+17:5 31:19 35:21 
+35:22 44:23 46:12  supposed 13:5 
+48:6,7,8,20,21 
+54:12 69:25 73:14 
+
+15:14 16:25 17:1 
+73:14 
+
+suppose 22:20 24:8 
+
+37:25 50:8 
+
+28:7 
+
+80:9 
+
+sure 4:23 6:4 14:5 
+
+supreme 1:1 2:5 
+
+studying 16:6 
+stuff 16:23 90:17 
+subcategories 33:7 
+15:10 16:3,19 
+33:22 34:24 53:14 
+45:3 58:24 65:8 
+53:17 54:2,5,23 
+59:4 65:25 66:2 
+surplusage 12:2 
+68:15,21 77:14,24  surprisingly 79:2 
+surrogates 62:3,3 
+
+subcategorization 
+
+31:15 32:20 33:12  switch 54:18 
+36:8,12 38:22 
+66:8 86:22,25 
+subcategorize 
+
+system 20:9 79:13 
+79:14,17 81:3,3 
+
+34:19,20 37:21 
+subcategorized 
+
+33:13 35:6 
+
+subcategorizes 
+
+30:25 
+
+subcategory 55:17 
+
+66:13 77:20 
+
+subclasses 51:5 
+subject 13:18 27:10 
+
+28:25 32:9 48:6 
+submitted 89:16 
+
+91:7,9 
+
+subsection 28:13 
+32:5 34:9 35:20 
+38:13 74:7 75:8 
+substances 64:18 
+subtle 66:5 
+sufficient 5:13 
+
+19:22 
+
+T 
+
+t 3:1,1 
+take 11:7 18:19 
+
+19:6,7 22:12,17 
+23:1,13,16 24:15 
+25:7,20 30:13 
+31:11 36:6,7 48:5 
+48:5 50:2,7,11 
+51:8,12,15 52:20 
+58:4 66:16,17,20 
+71:10 81:19 85:17 
+87:5 
+
+taken 17:14 22:17 
+34:14 36:20 37:3 
+52:16 68:21 70:5 
+70:10,12 74:5 
+77:12 85:2 
+takes 82:19 
+talk 15:6,6 52:6,19 
+
+Official 
+
+talked 28:18 39:21 
+talking 26:20 52:2 
+81:6 86:23 90:7 
+
+talks 53:24 
+targeted 28:21 
+targeting 20:24 
+tech 66:9 
+technologies 5:2,7 
+
+7:19,20 66:10 
+72:3 82:6 
+
+technology 8:9,16 
+21:19 23:8 28:20 
+37:19 39:6 54:22 
+68:24 85:4 89:17 
+89:21 90:9 
+
+technologyforcing 
+
+52:23 
+
+tell 15:11 17:21 
+
+34:18 47:24 65:3 
+77:6,12 85:11 
+89:21 
+
+telling 36:24 
+tells 13:25 15:10 
+tendency 53:11 
+tenton 18:25 
+term 6:25 7:5,7 
+
+10:24 39:12 43:1 
+48:14 
+
+terms 4:15 42:20 
+54:21,21 60:24 
+77:3 
+
+test 19:16 
+text 4:14,15 6:7 
+41:13 44:20,22 
+46:1,3 47:23 48:3 
+
+thank 28:2 41:3,4 
+53:22 70:19,20 
+86:14,20 91:5,6 
+thats 4:24 5:14,24 
+6:24,24 7:7 10:18 
+11:2 13:2,12 
+14:12,12,14,17 
+16:5,14,17,25 
+18:7 19:4 20:7,24 
+21:5 22:1,3,9,10 
+23:10 24:11,16 
+
+25:9 26:9 27:12 
+27:21,23 30:18 
+31:24 33:4,4 35:4 
+35:7,12 36:9 37:6 
+38:3,5,9,15 39:16 
+40:5,5 42:23 
+43:18 45:15 47:4 
+48:12 49:7 50:6 
+50:17,19 51:13,16 
+51:17 54:6 55:9 
+55:14,16 57:17 
+59:19,19 60:1,10 
+61:2 64:10 66:19 
+67:18 69:2,16 
+70:18 72:9 73:8 
+75:16 77:1 78:25 
+79:5,11,13,14 
+81:3 82:11 83:14 
+85:10,21 86:24 
+87:22 88:7,12,12 
+88:25 90:4,15 
+
+theirs 27:23 
+theoretical 51:23 
+theory 22:25 58:21 
+theres 6:16 7:4 
+
+10:7 13:18 14:18 
+16:24 22:8,19 
+29:13,14,15 31:23 
+34:12 37:4,14 
+39:2 53:10 54:11 
+60:8 63:1,20 
+64:15 74:4 77:4 
+80:13,23 86:25 
+87:13 
+
+theyll 22:22 23:9 
+theyre 7:13 12:1,5 
+15:12 16:25 17:1 
+17:22,22 20:19 
+24:1,13 27:3,9,15 
+35:2,2 36:16 
+40:14,25 54:15 
+83:25 
+
+theyve 5:11 7:13 
+
+25:23 34:22 37:3 
+88:22 89:4,5,5 
+90:1,11 91:3 
+
+Page 104 
+
+thing 15:25 20:18 
+
+36:19 38:25 43:19 
+50:12 56:23 63:7 
+64:1 73:13,22 
+76:14 80:9 81:18 
+83:4 84:18 87:13 
+
+things 7:7 16:8 
+
+22:14 26:14 46:12 
+48:21 50:15 54:13 
+71:20 76:10 84:14 
+84:16 
+
+think 5:23 10:7 
+
+11:4 12:12,22,23 
+13:8,25 14:8,12 
+14:14,17 16:8 
+17:21 23:19 24:17 
+25:13 26:2,21 
+28:24 29:12 37:1 
+39:11,12,16 42:11 
+42:17,19 43:1,9 
+43:10,17 44:1,19 
+46:25 48:17,23,25 
+49:5,6,9,17,24,25 
+56:20 57:24 60:9 
+60:23 62:25 64:8 
+64:10,14 66:4,4,5 
+66:6,8 67:3,5,10 
+68:2,22,23,25 
+69:12,12 70:12 
+71:7,17 73:11 
+79:3,13 80:3 83:8 
+85:22 86:12 87:18 
+
+thinking 15:8 
+
+49:22 
+
+thinks 79:14 
+third 28:14 41:24 
+
+53:13 
+
+thought 7:16,20,23 
+7:23,24 8:7 10:23 
+18:3,16 19:6 
+20:11,11 26:3,17 
+33:5 44:6,7 47:7 
+48:4 51:10 54:10 
+54:13 58:8 66:15 
+77:19 81:12 84:4 
+85:14,14 90:13,14 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 105 
+
+56:2 85:3 89:19 
+
+try 35:19 36:15 
+
+64:18,19 
+
+undertake 49:3 
+undertakes 34:6 
+undisputed 37:1 
+
+trying 10:13 17:22  uneconomic 52:13 
+
+53:9 54:20 56:25 
+
+49:23 86:2,8 87:4 
+
+vehicle 64:23 69:18  water 35:1,4 
+vehicles 53:8 
+verrilli 2:12 3:10 
+
+waterfall 24:1 
+waterfalls 22:21 
+
+17:23,25 18:2 
+20:8,19 37:11 
+53:5 
+
+turn 6:4 65:22 
+
+84:24 
+
+turned 8:20 53:9 
+
+73:23 
+
+57:1 
+
+unfold 49:12 
+unfolded 49:11 
+united 1:1 2:5 
+
+10:10 23:8 28:25 
+
+units 14:24 
+unknown 30:18 
+unsafe 60:23 
+unusual 43:17,21 
+
+49:21 50:14 52:3 
+43:24 52:22 
+52:9 54:23 60:20  upfront 85:25 
+71:15,19 72:9 
+75:1 78:2 88:4 
+
+86:10 
+
+twoanda 52:3 
+type 24:11 26:19,24  uphold 11:23 38:1 
+
+upheavals 82:18 
+upheld 62:6 
+
+27:5 28:1 38:17 
+turns 74:19 89:3 
+39:25 44:16 49:12  two 4:15 10:7,15 
+78:13 83:11 88:13 
+88:14 
+
+32:14 
+
+way 11:6 12:23 
+
+41:5,6,8 42:11,19 
+43:9,25 44:9,19 
+45:4,18 46:25 
+47:2,21 48:17 
+49:8 51:18,21,25 
+52:8,18 53:20,23 
+54:6,16 55:12,14 
+56:2,15,20 57:6 
+57:17,24 58:11,13 
+59:3,16 60:7,18 
+61:6,10,13,16,22 
+61:25 62:21 63:4 
+63:11,15,18,24 
+64:7 65:5,8,19,23 
+66:4,22,24 67:2,9  ways 30:21 37:24 
+68:1,16,22 70:2 
+38:20 64:2 90:16 
+70:11,15,19 
+
+13:2 17:12 18:20 
+18:21,23 21:16,19 
+26:4,25 28:24 
+30:15 33:8,9 
+34:22 36:19 37:8 
+37:20 43:9 47:16 
+47:17 49:10 50:2 
+52:19 59:10 61:7 
+62:7,23 63:22 
+64:4,9,10 72:10 
+73:4,8,10 76:19 
+76:24,25 
+
+three 28:10 29:11 
+41:11 42:7 46:12 
+48:6 51:19 55:5 
+86:7 
+
+threeyear 20:7 
+threshold 18:25 
+
+38:18 
+tied 43:5 
+ties 19:15 
+tightened 40:21 
+time 6:9 19:22 27:5 
+
+times 12:17 
+tiny 59:25 63:1 
+
+84:25 
+
+title 28:19 29:24 
+
+47:13 
+
+told 11:9 12:24 
+
+46:11 48:8,19,20 
+
+tons 30:1,4 
+top 6:9 50:17 51:13 
+
+75:20 76:3,17 
+77:7 79:9 
+
+totally 78:11 
+toxics 29:4,9 
+trace 74:3 
+trade 47:15 
+transport 28:20 
+treat 17:11,19 
+
+treated 17:12 30:6 
+
+71:8 
+
+treating 12:1,4 
+
+27:3 
+
+treatise 79:15 
+treatment 19:21 
+45:19,22 69:6 
+
+tremendous 37:21 
+triggering 56:11 
+triggers 33:16,19 
+true 22:1 23:11 
+36:17,20 51:1 
+
+20:19 45:14 46:19  uncertain 40:25 
+uncertainty 46:5 
+46:24 66:12 
+
+49:1,3,16 
+
+utility 1:11 8:1,20 
+8:20 14:23 16:9 
+21:4 
+
+26:24 30:8 41:20 
+
+types 23:5 
+typical 27:7 38:13 
+
+U 
+
+u 9:18 
+uar 31:9 
+uarg 59:7 
+ultimately 33:13 
+unambiguous 
+
+60:24 
+
+unambiguously 
+
+44:20 78:23 
+
+55:23 
+
+ur 5:24 6:1,5 
+use 11:5,17 18:23 
+20:16 25:7 36:17 
+56:21 74:15,17 
+85:4 
+
+useful 10:18,20 
+uses 12:16 
+usually 43:19 58:22 
+
+58:22 81:6 
+
+versus 27:3 
+view 4:12 32:2 
+violate 12:6 
+violation 14:12 
+visibility 28:19 
+volume 5:24 6:1,5 
+
+W 
+
+utilities 4:13 18:5,8  wait 18:5 20:12 
+
+18:18 20:20,23,24 
+22:14 67:1 87:13  want 11:8 13:14 
+
+25:16 65:18 
+
+wednesday 2:2 
+wellrecognized 
+
+62:4 
+
+went 5:4,5,6 9:3 
+
+48:21 
+
+weve 13:10,10,11 
+13:13 26:22,23 
+34:14 59:25 
+
+whats 12:11 21:2,6 
+36:15 47:20 60:6 
+88:11 
+
+whitman 13:12,16 
+
+52:25 
+
+whos 54:8 
+
+23:1 24:4,16 
+25:17,17,17,21 
+37:12 39:1 43:18  william 2:10 3:6 
+45:15 49:8 50:18 
+61:19 71:6 80:22  wonder 64:3 
+84:3 
+
+wonderful 78:19 
+
+28:5 
+
+wanted 13:19 18:22  wont 50:23,25 
+
+46:20 
+
+83:22 
+
+word 9:25 11:2,5 
+11:17 12:1,5,9,9 
+12:12 14:15 16:21 
+49:22 50:13 51:4 
+51:15 
+
+words 9:24 10:15 
+
+understand 9:21 
+10:2 26:11,13 
+29:12 37:10 43:16  v 1:5,14,22 4:4 
+46:18 58:8 59:3 
+61:5,8 63:25 64:8  vague 26:6 
+67:22 72:15 
+
+10:10 
+
+V 
+
+variety 28:21 31:5  wants 45:14 
+
+understanding 
+
+38:20 
+
+4:24 8:13 38:7,10  various 81:23 
+
+understands 11:6 
+understood 49:1 
+
+67:19 68:11 
+
+vary 33:21,23,24 
+vast 66:9,11 
+vastly 14:11 40:4 
+
+warrant 35:23 37:2 
+warranted 69:6 
+washington 2:1,10 
+
+2:13,15 
+
+wasnt 8:11,12 
+
+Alderson Reporting Company
+ 
+
+Page 106 
+
+44:5,11 45:1,9 
+49:12 53:14 57:20 
+58:1 60:25 62:14 
+64:23 66:2,7 68:5 
+68:6 69:25 87:19 
+7412s 41:17 69:13 
+75 22:22 23:7 56:25 
+7607 34:8 
+78 52:13 
+
+8 
+
+80 24:7 32:13 
+840 29:5 
+86 3:17 
+88 52:13 
+
+9 
+
+9 29:10 30:1 50:4 
+59:13 82:8,15,16 
+83:9 86:25 
+
+90 63:15,16 82:15 
+
+82:15 84:18 
+
+910 64:15 
+940 64:15 
+
+58:2 77:19 87:19 
+87:20,21 
+
+Z 
+
+0 
+
+000 30:4 50:22 
+
+Official 
+
+2010 29:3 31:7 
+2011 29:7 
+2015 2:2 
+206 6:9 
+206a 6:8 
+226 71:16 
+227 71:16 
+25 2:2 22:20 
+
+3 
+
+3 11:15 37:18 39:6 
+30 50:5 63:14,15,16 
+
+1 
+
+1 5:24 6:5 13:4 17:7  28 3:8 
+19:3 28:13 30:2,2 
+31:10,19 34:7,8 
+34:12 35:20 38:12 
+39:8 41:11 46:3 
+47:23 50:22 53:14 
+53:23 56:6,6 66:2 
+68:5 87:12 88:3 
+
+84:18 
+
+35 63:22,23 
+35a 53:21 
+360 52:1 
+3year 71:9 
+
+10 2:6 4:2 29:8 77:7 
+10year 49:12 
+11 91:8 
+112 6:11 
+11year 78:14 
+12 21:9 23:3,12,23 
+
+24:2,12 35:2,3 
+38:21,21 50:13,17  41 3:11 
+51:13 52:23 54:24  46 91:8 
+55:1 58:16 75:20 
+76:3,17 77:7,17 
+77:18,19 79:9 
+90:20 
+
+4 
+
+4 3:4 11:14 12:3 
+
+29:8 30:2 40:10 
+63:17,21 83:5 
+
+40 30:4 83:15 
+
+5 
+
+5 29:17 30:4 39:23 
+
+40:17 49:13,13 
+59:7 
+
+50 30:4 36:17,18 
+
+50:20 52:13 56:25 
+
+500 50:8 
+555a 31:9 
+
+6 
+
+6 29:10 40:10 59:7 
+59:13,13 82:8,15 
+82:16 83:5 86:25 
+
+60 83:16 
+
+7 
+
+70 3:14 
+7412 4:14 19:4 
+
+20:18 31:12 37:16 
+38:13 41:11 42:3 
+
+12:8 23:23 59:23 
+71:15 72:10 
+
+work 6:19 12:4 
+
+30:15 54:7 79:25 
+81:6 
+
+worked 76:20 
+works 18:6 27:1 
+59:10 61:9 79:3 
+
+world 15:8 79:7 
+
+86:11 
+
+worry 36:24 50:2 
+
+51:6 80:23 
+
+wouldnt 36:20 
+
+47:17 48:11 51:1 
+52:17 79:10 
+
+write 36:15 37:6 
+written 36:25 
+wrong 83:6 87:7 
+
+89:9,12 
+
+wrote 36:19 
+
+X 
+
+x 1:2,25 9:16 
+
+Y 
+
+y 9:17 
+year 30:1,4 39:23 
+
+52:2 83:9 
+
+years 11:14 19:10 
+
+48:6 49:13,14 
+61:3 62:12 75:16 
+86:1,7 
+
+youll 64:14 
+youre 5:20 7:10,19 
+
+120 50:6,21 
+14 2:6 4:2 
+1446 1:4 4:4 
+1447 1:13 
+1449 1:21 
+15 61:3 62:12 
+
+10:13 11:1,6 
+19:17 20:23 21:6 
+21:21 24:22 25:18  189 73:19 
+33:24 34:21 35:11  196 6:7 
+35:11,13,13 42:7 
+43:1,4 50:16,20 
+52:2 56:3,3,12,13 
+59:19 63:6 78:22 
+80:8 81:6 87:3,12 
+87:24 88:4,5 90:3 
+
+2 
+
+1960 21:21 
+1990 28:17,17 
+
+48:25 49:11 81:4 
+
+2 13:4 40:17 52:11 
+
+76:12 
+
+20 24:5 86:1 
+2005 21:18 
+
+youve 6:17 21:2 
+52:16,16 55:1 
+
+Alderson Reporting Company
+ 
+
+

@@ -1,0 +1,7128 @@
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+v. 
+
+v. 
+
+ Petitioners 
+          
+                        
+           
+               
+
+1
+2  - - - - - - - - - - - - - - - - - -x 
+3  CITY OF ARLINGTON, TEXAS, ET AL.,  : 
+4
+:  No. 11-1545 
+: 
+5
+6  FEDERAL COMMUNICATIONS 
+: 
+7  COMMISSION, ET AL. 
+: 
+8  - - - - - - - - - - - - - - - - - -x 
+9  and 
+- - - - - - - - - - - - - - - - - -x 
+10
+11 
+CABLE, TELECOMMUNICATIONS, AND 
+: 
+   
+12  TECHNOLOGY COMMITTEE OF THE 
+: 
+      
+13  NEW ORLEANS CITY COUNCIL, 
+:  No. 11-1547 
+        
+ Petitioner 
+14
+: 
+           
+: 
+                        
+15
+16  FEDERAL COMMUNICATIONS 
+: 
+           
+17  COMMISSION, ET AL. 
+: 
+               
+18  - - - - - - - - - - - - - - - - - x 
+19
+20
+21 
+22
+23  argument before the Supreme Court of the United States 
+24  at 10:03 a.m. 
+APPEARANCES: 
+25
+
+ Washington, D.C. 
+Wednesday, January 16, 2013 
+
+ 
+
+ The above-entitled matter came on for oral 
+
+1
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ of Petitioners. 
+
+ Department of Justice, Washington, D.C.; on behalf 
+of Respondents. 
+
+1  THOMAS C. GOLDSTEIN, ESQ., Washington, D.C.; on behalf 
+2
+3  DONALD B. VERRILLI, JR., ESQ., Solicitor General, 
+4
+5
+6 
+7 
+8 
+9 
+10
+11 
+12 
+13 
+14 
+15
+16 
+17 
+18 
+19 
+20
+21 
+22 
+23 
+24 
+25
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ C O N T E N T S 
+
+                                
+
+PAGE 
+
+                   
+
+4 
+
+                   
+
+30 
+
+                   
+
+59 
+
+On behalf of the Petitioners 
+
+ On behalf of the Respondents 
+
+ On behalf of the Petitioners 
+
+ORAL ARGUMENT OF 
+
+1
+2  ORAL ARGUMENT OF 
+3  THOMAS C. GOLDSTEIN, ESQ. 
+4
+5
+6  DONALD B. VERRILLI, JR., ESQ. 
+7
+8  REBUTTAL ARGUMENT OF 
+9  THOMAS C. GOLDSTEIN, ESQ. 
+10
+11 
+12 
+13 
+14 
+15
+16 
+17 
+18 
+19 
+20
+21 
+22 
+23 
+24 
+25
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (10:03 a.m.) 
+
+very much.  May it please the Court: 
+
+ Mr. Goldstein? 
+
+ ORAL ARGUMENT OF THOMAS C. GOLDSTEIN 
+
+ This case can get complicated, quickly, 
+
+ ON BEHALF OF THE PETITIONERS 
+MR. GOLDSTEIN:  Mr. Chief Justice, thank you 
+
+1
+2
+ CHIEF JUSTICE ROBERTS:  We'll hear argument 
+3
+4  first this morning in Case 11-1545, City of Arlington, 
+Texas v. The Federal Communications Commission and the 
+5
+6  consolidated case. 
+7
+8
+9
+10
+11 
+12
+13  because the word "jurisdiction" means a lot of different 
+14  things to a lot of different people, in a lot of 
+different contexts, and the parties have advanced both 
+15
+16  broad and narrow theories for resolving the case.  So 
+17  the thing I can do, most helpfully, at the beginning, I 
+18  think, is to frame where I believe the real dispute in 
+19  the case lies. 
+20
+21 
+22 
+23 
+24 
+25
+
+The FCC claims the authority to interpret 
+Section 332(c)(7) of the Communications Act with the 
+force of law.  And my argument today is limited to the 
+question -- that threshold jurisdictional question, 
+which we call interpretive jurisdiction, Iowa Utilities 
+called it underlying jurisdiction, law professors like 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ And the Fifth Circuit said that, on that 
+
+ JUSTICE GINSBURG:  Mr. Goldstein, this case 
+
+adopted by the Commission, and the Commission's 
+rule-making power, as you know, is very broad. 
+
+ They have power to make the rules needed to 
+
+it gets to decide whether it has the authority to 
+
+1  to call it Chevron Step Zero, but that's what I'm 
+2  focused on. 
+3
+4  question, the FCC gets Chevron deference.  And that is 
+5
+6  interpret the --
+7
+8  has been presented in a very complicated way, but it 
+9  seems to me that what we're dealing with is a rule 
+10
+11 
+12
+13  carry out the provisions of the Act.  And 332 is --
+14  counts as a provision of the Act.  So why isn't it just 
+a proper implementation of that rule-making authority? 
+15
+16
+ MR. GOLDSTEIN:  Well, Justice Ginsburg, the 
+17  question on which you granted certiorari was how to 
+18  decide that question, not what is the answer to that 
+19  question. 
+20
+21 
+22 
+23 
+24
+25
+
+What the Fifth Circuit did, acknowledging a 
+circuit conflict, was decided that the FCC's assertion 
+that you are right is, itself, entitled to Chevron 
+deference. 
+
+ JUSTICE BREYER:  All right.  Suppose you win 
+
+on that, okay? 
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+discretionary power, but all the arguments that we hear 
+
+ MR. GOLDSTEIN:  Yes. 
+
+1
+2
+ JUSTICE BREYER:  Or I -- I grant you, I 
+
+3  don't see any reason for that.  The question is just 
+
+4  whether Congress intended them to have a degree of 
+
+5
+6  still count against you.  So -- so if you want to go 
+7  into the Chevron Step Zero or Step Minus Alpha 13.6, I 
+8  mean, fine. 
+9
+10
+11 
+12 
+13 
+14 
+15
+16 
+17 
+18 
+19
+20
+21  have wanted the FCC to figure this one out. 
+ MR. GOLDSTEIN:  Okay.  I --
+22
+ JUSTICE BREYER:  That -- that -- at some 
+23
+24  point -- you don't have to go into it at all, if you 
+25
+
+ (Laughter.) 
+JUSTICE BREYER:  But, I mean, at some point, 
+I will hope you -- I hope you will go into what I'd call 
+the question of we have a statute, just as 
+Justice Ginsburg said, it's an expert statute.  It is a 
+statute in an agency that has all kinds of discretionary 
+authority.  It includes an important substantive 
+question about what the relation is with the cable 
+television in this area -- post -- not cable, but -- you 
+know, the broadcast posts. 
+
+don't want to, but I just want to put that on the table. 
+
+ And so all these factors here, which 
+
+suggest, of course, Congress, which is not expert, would 
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+about. 
+
+ I am very conscious of the fact, let me say, 
+
+ (Laughter.) 
+ MR. GOLDSTEIN:  Justice Breyer, I do want to 
+
+ JUSTICE BREYER:  You don't have to talk 
+about it now, but you can talk about it whenever you 
+
+1
+2
+3  talk about it.  I do hope --
+4
+5
+6  want. 
+ (Laughter.) 
+7
+ MR. GOLDSTEIN:  I appreciate it.  But I'd 
+8
+9  like to talk about the things you want to hear me talk 
+10
+11
+12  that the Court limited this grant of certiorari to the 
+13  first question presented, which was the abstract Chevron 
+14  question, and so I just don't want to jump the gun --
+15
+16 
+17 
+18 
+19 
+20
+21 
+22 
+23
+24  and Justice Breyer have both asked me to turn to that 
+question, so I'm going to do it.  The only point I'm 
+25
+
+JUSTICE GINSBURG:  But if the abstract 
+question really isn't presented -- I mean, just to 
+follow on what I asked you first, here is a phrase, "a 
+reasonable time."  And the Commission interprets that 
+phrase in a reasonable way. 
+
+Why is this case any more complicated than 
+
+that?  Why doesn't the FCC have the authority to 
+interpret that term, within a reasonable time? 
+
+ MR. GOLDSTEIN:  Justice Ginsburg, you -- you 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+granted certiorari. 
+
+ JUSTICE SCALIA:  Well, don't, because I 
+
+is jurisdiction means a lot of things, but what you mean 
+by it is real jurisdiction, right? 
+
+ MR. GOLDSTEIN:  I mean -- what I mean by 
+
+ (Laughter.) 
+ MR. GOLDSTEIN:  Okay. 
+JUSTICE SCALIA:  Look, what you've told us 
+
+1  making is that all of these questions assume that we are 
+2  right on the question presented, which I think we 
+3  obviously are.  So I'm happy to move on, but I just did 
+4  not want to hurry past the legal question on which you 
+5
+6
+7  don't -- I don't think it's so clear. 
+8
+9
+10
+11 
+12 
+13
+14  it --
+15
+16 
+17 
+18 
+19 
+20
+21
+22  jurisdictional question? 
+23
+24  be --
+25
+
+jurisdiction.  That doesn't clarify things very much for 
+me.  What if -- what if the statute in this case said, 
+the FCC shall have no jurisdiction to establish time 
+limits within which the States must act? 
+
+JUSTICE SCALIA:  Chevron Step Zero 
+
+MR. GOLDSTEIN:  Yes. 
+ JUSTICE SCALIA:  Okay?  Would that be a 
+
+ MR. GOLDSTEIN:  That would.  That would 
+
+JUSTICE SCALIA:  Okay.  What if the statute 
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. GOLDSTEIN:  That is a different kind of 
+
+jurisdictional question.  It is a jurisdictional 
+
+
+ Justice Scalia, so maybe I can help you, 
+
+
+whether it's just malleable and every court's going to 
+get drawn into it, which I suspect you may be concerned 
+about.  Okay? 
+
+1  just said, the FCC shall not establish time limits 
+2  within which the States must act.  Is that 
+3  jurisdictional? 
+4
+5
+6  question. 
+
+7
+8  just on the question of what I'm talking about and 
+
+9  whether I can draw -- whether I can draw my line or 
+
+10
+11 
+12 
+13
+ The kind of jurisdiction I'm talking about 
+14  is what you called, in your Iowa Utilities opinion for 
+the Court, "underlying jurisdiction."  And, in Iowa 
+15
+16  Utilities, in the discussion of the FCC's underlying 
+17  jurisdiction, you undertook the judicial task of looking 
+18  at the words of the statute and figuring out that 
+19  Congress did intend, along the lines of the theory that 
+Justice Ginsburg just articulated, that the FCC did have 
+20
+21  the power to implement those provisions of the '96 Act. 
+22
+23  honest, every one of your Chevron opinions deals with 
+24  this question:  Just did the agency have the power to 
+interpret this statutory provision with the force of 
+25
+
+ And in -- as we have rehearsed, to be 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE SCALIA:  I -- I don't think so.  In 
+
+opinions -- and, certainly, I have said in a 
+
+Now, if you -- if you talk -- if you want to 
+
+limit your proposal --
+
+1  law?  You and the -- all of your colleagues on the Court 
+2  have always decided that question de novo. 
+3
+4  fact, I think we have said in -- in a number of 
+5
+6  concurrence -- that the jurisdictional question, like 
+7  any other question -- an alleged jurisdictional 
+8  question, like any other one, is to be decided with 
+9  deference to the agency. 
+10
+11 
+12
+13
+14  question --
+15
+16
+17  jurisdiction to administer the Federal 
+18  Communications Act, I agree with you.  I will decide 
+19  that without listening to the FCC.  But that's -- that's 
+a good deal short of whether, given that it does have 
+20
+21  jurisdiction to administer the Federal Communications 
+22  Act, its implementation of this particular provision 
+23  goes beyond what its authority is. 
+24
+25
+
+ MR. GOLDSTEIN:  I do. 
+ JUSTICE SCALIA:  -- to the -- to the entry 
+
+MR. GOLDSTEIN:  I do. 
+ JUSTICE SCALIA:  -- of whether the FCC has 
+
+ That seems, to me, a question of -- you can 
+
+call everything that's ultra vires in excess of the 
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+more narrow question, does the FCC administer this 
+statutory provision? 
+
+1  agency's jurisdiction, you can.  But that's not --
+2  that's not what we mean by the entry jurisdictional 
+3  question, does the agency have authority to administer 
+4  this Act. 
+MR. GOLDSTEIN:  Okay.  Justice Scalia, the 
+5
+6  place where -- I do limit myself to the entry point and 
+7  the place where you and I are going to disagree is 
+8  whether the entry point is just the generic question, 
+9  does the FCC administer the whole Act or the somewhat 
+10
+11 
+12
+ JUSTICE KENNEDY:  Are there some statutes 
+13  where parts of the statute are subject to the agency's 
+14  Chevron rule-making authority and its zero plus one 
+15
+16  mentioned the case by Justice Scalia -- and I'm not sure 
+17  that that involved that because it does seem to me, just 
+18  reading through, that "reasonable time," that sounds 
+19  like something that -- where we can have a specific 
+20
+21
+22  agency or the authority of the agency does not extend to 
+23  rules seems a little odd at first.  I recognize the 
+24  federalism problems and so forth. 
+25
+
+jurisdiction and other parts are not?  You just 
+
+elaboration of what it means. 
+
+ And to say that the jurisdiction of the 
+
+MR. GOLDSTEIN:  Yes.  Okay.  The answer to 
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+as we say Section 332(c)(7) does.  We will have to go 
+through that and debate that.  But the Communications 
+Act is plainly -- and there are other provisions as 
+well.  But the best example is the Louisiana PSC case. 
+
+ And so --
+CHIEF JUSTICE ROBERTS:  So your 
+
+ And there was a provision in that statute 
+
+1  your question is yes, and the best example is this 
+
+2  statute.  It is uncontested and incontestable that 
+
+3  the -- the FCC does not administer all of the 
+
+4  Communications Act.  This Court so held, squarely, in 
+
+the Louisiana Public Service Commission case, in which, 
+5
+6  there, Congress added to the Communications Act Sections 
+7  251 and 252. 
+8
+9  that said -- that limited the scope of the FCC's power, 
+10
+11 
+12 
+13 
+14
+15
+16 
+17 
+18 
+19 
+20
+21 
+ MR. GOLDSTEIN:  That is correct.  I would 
+22
+23  only cabinet it in the following way:  And there's --
+24  the question on which you granted certiorari is does the 
+FCC get Chevron deference in its assertion that it gets 
+25
+
+understanding of jurisdiction and what you're arguing 
+for today is nothing more or less than this is a 
+provision as to which Congress did not give the agency 
+law-making authority.  You do not defer to the agency 
+with respect to this provision because it's outside its 
+jurisdiction in the sense that it gets deference. 
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ CHIEF JUSTICE ROBERTS:  Right.  Now, the 
+
+
+jurisdiction and it's kind of dressed up --
+
+phrased, is this 7(a), which speaks about nothing will 
+limit the authority of the States. 
+
+1  to interpret 332(c)(7) with the force of law.  I 
+
+2  think --
+
+3
+4  reason -- the reason we are hearing all about 
+
+5
+6
+ MR. GOLDSTEIN:  Yes. 
+7
+ CHIEF JUSTICE ROBERTS:  -- is simply because 
+8  the means by which Congress made clear it was not giving 
+9  the FCC authority to get deference, however that is 
+10
+11 
+12
+ MR. GOLDSTEIN:  It's that --
+13
+ CHIEF JUSTICE ROBERTS:  If it weren't for 
+14  that, if it were some other type of provision, that --
+15
+16  the FCC doesn't get deference to it. 
+17
+18  jurisdictional question.  We rely on two provisions of 
+19  332(c)(7) to establish the proposition that Congress did 
+not intend the general rule-making authority in Section 
+20
+21  201(b) of the Communications Act to extend to 332(c)(7). 
+22  And those are --
+23
+24  different from our holding in any case that the agency 
+25
+
+we wouldn't call it jurisdiction, but we would just say, 
+
+ MR. GOLDSTEIN:  It would be a very easy 
+
+ JUSTICE SCALIA:  That's -- that's no 
+
+has no authority to issue this rule.  It has rule-making 
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. GOLDSTEIN:  Justice Scalia --
+JUSTICE SCALIA:  It's -- it's always a 
+
+respect, respectfully, and that is we believe that every 
+one of this Court's Chevron precedents has started --
+sometimes, only in a sentence, because, often, it's very 
+simple -- often, it's uncontestable -- that it's a 
+provision of the Communications Act that does fall 
+within, for example, the FCC's 201(b) authority. 
+
+1  authority, but this rule goes too far, which is to say 
+2  Congress did not give the agency authority to go this 
+3  far. 
+4
+5
+6  question of how much authority Congress gave the agency. 
+7
+ MR. GOLDSTEIN:  We disagree.  And I 
+8  understand that you have a vision of how Chevron 
+9  deference operates.  We disagree with it in this 
+10
+11 
+12 
+13 
+14 
+15
+16
+17  approached that question as judges.  First, we decide 
+18  does the FCC have the power to implement this statute? 
+ JUSTICE KAGAN:  Well, Mr. Goldstein, at one 
+19
+level, you are right.  It's just a level that doesn't 
+20
+21  help you very much.  I mean, it's -- it's true that, 
+22  always, there is an initial question of whether an 
+23  agency is entitled to Chevron deference.  But, usually, 
+24  the way we answer that question is just this:  We say is 
+25
+
+ But it is always as -- you have always 
+
+this the agency's organic statute?  Yes. 
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ Does that organic statute provide the agency 
+
+1
+2  with lawmaking power?  Yes.  Has the agency acted in 
+3  accordance with that lawmaking-- under that lawmaking 
+4  power?  Yes.  Well, then, the agency gets deference.  We 
+go on to the next thing, which is Step One and Step Two. 
+5
+6
+ So -- you know, we don't -- what we don't do 
+7  is this sort of provision by provision, subsection by 
+8  subsection, did Congress have a special intent as to 
+9  this subject matter or that subject matter or the other 
+subject matter?  We've just had some very simple rules 
+10
+11 
+about what gets you into the box where an agency is 
+12 
+entitled to deference. 
+13
+ MR. GOLDSTEIN:  Justice Kagan, I disagree. 
+14  I honestly disagree.  I'm going to give you three cases 
+15
+16  articulation of your -- that approach is not correct. 
+17  And I encourage you to ask the Solicitor General what 
+18  his best case is.  It may be he thinks American 
+19  Hospital, which I'll talk about. 
+20
+21
+22  provision by provision, the Court looked de novo at the 
+23  question of whether Sections 251 and 252 of the 
+24  Communications Act were subject to the general 
+25
+
+Here are my three cases: 
+ Louisiana Public Service Commission, 
+
+that I think show that I am right and that your 
+
+rule-making power.  It said no. 
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ Adams Fruit, another case where the 
+
+
+authority with the respect to these interpretive rulings? 
+
+question?  Did it say anything like that? 
+
+ And the last one is Meade, where the Customs 
+
+ And so it has always done some --
+ JUSTICE SCALIA:  Did -- did it say, in all 
+
+1
+2  Secretary of Labor had general rule-making authority 
+
+3  over the agricultural worker protection statute.  And 
+
+4  the Court looked specifically at the private right of 
+
+action and said, your authority doesn't extend here. 
+5
+6
+7  Service has the general authority to administer that 
+8  statute.  And, instead, the Court looked at the specific 
+9  provision involved, and it said, do you have lawmaking 
+10
+11
+12
+13  of those cases, we give no deference to the agency's 
+14  contrary determination because this is a jurisdictional 
+15
+16
+17
+18
+19  you this:  I am not overclaiming the cases.  I am 
+describing what happened in them, particularly on the 
+20
+21  axis of whether the Court went provision by provision. 
+ JUSTICE SCALIA:  Very -- very often, I could 
+22
+23  decide a case -- you know, the lower courts are running 
+24  away from the question of deference vel non because 
+25
+
+ MR. GOLDSTEIN:  It did not.  I have not --
+ JUSTICE SCALIA:  I didn't think so. 
+ MR. GOLDSTEIN:  Justice Scalia, I will tell 
+
+things have been so confused by Meade.  So they simply 
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+of those cases. 
+
+you why --
+
+ MR. GOLDSTEIN:  Justice Scalia, let me tell 
+
+ JUSTICE SCALIA:  Whether it was or not, it 
+
+ MR. GOLDSTEIN:  Justice Scalia, here's why I 
+
+disagree:  I picked three cases for a very specific 
+
+1  decide the question assuming no deference to the agency. 
+2  That doesn't prove that, in that particular case, the 
+3  agency wouldn't have been entitled to deference. 
+4
+5
+6
+7  would have come out this way.  So those three cases 
+8  don't -- don't prove what you say they prove. 
+9
+10
+11  reason, in that each of those three cases rejected the 
+12  assertion of jurisdiction.  And so that, if Chevron were 
+13  applying, the Court would have had to find that the 
+14  statute was unambiguous.  And it didn't do that in any 
+15
+16
+ JUSTICE KENNEDY:  And could you add that, in 
+17  those three cases -- or at least Meade, some respect was 
+18  given to the agency's due? 
+19
+20
+21 
+22
+23
+24  sorry.  Did --
+25
+
+ MR. GOLDSTEIN:  Absolutely, Justice --
+ JUSTICE KAGAN:  But take Meade, Mr. -- I'm 
+
+ MR. GOLDSTEIN:  Yes, absolutely. 
+JUSTICE KENNEDY:  It was just not the sort 
+
+of deference that's so wooden under Chevron. 
+
+MR. GOLDSTEIN:  I did.  I agreed with 
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ (Laughter.) 
+ JUSTICE KAGAN:  And Meade presented --
+whatever you think of Meade, it's a very different 
+
+1  Justice Kennedy vociferously.  That was -- that was the 
+2  end of my answer. 
+3
+4
+5
+6  question from this because what the majority in Meade 
+7  said was that the agency wasn't entitled to deference 
+8  because it was acting by way of these opinion letters 
+9  that weren't -- that didn't have the force of law.  So 
+that's the threshold question, is does the agency have 
+10
+11  power to make rules with the force of law, and is the 
+12  agency exercising that power? 
+13
+14  set by this Court.  It's a very different kind of 
+15
+16  subsection, did -- did Congress think that the agency 
+17  had authority over this particular subject matter or 
+18  not. 
+19
+three answers.  They will be brief.  Louisiana Public 
+20
+21  Service Commission and Adams Fruit are as I described 
+22  them.  The reason that Meade is helpful to me is on a 
+23  different axis than you've described.  And that is that 
+24  the agency there had a general -- generally applicable 
+25
+
+authority in which it could have urged that its 
+
+ That is a threshold question that has been 
+
+question from provision by provision, subsection by 
+
+ MR. GOLDSTEIN:  Okay.  I have two -- I have 
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ But the third thing that I want to say 
+
+is let me just take --
+
+ JUSTICE SCALIA:  Before you get to that, I'm 
+
+you will give whatever the other kind of deference. 
+
+ MR. GOLDSTEIN:  Skidmore. 
+ JUSTICE SCALIA:  Why would you give Skidmore 
+
+1  authority to issue those rule-makings, that it was 
+2  entitled to deference on its view of its power to issue 
+3  rulings with the force of law. 
+4
+5
+6
+7  really surprised at your response to Justice Kennedy, 
+8  that you agree that, even where the agency has no 
+9  jurisdiction, although you won't give Chevron deference, 
+10
+11
+12
+13  deference, if some non-jurisdictional agency comes in 
+14  and says, hey, by the way, court -- you know, I think 
+this is the right answer?  Oh, we will listen to that 
+15
+16  respectfully.  We won't necessarily give you Chevron --
+17  why would you give it any deference at all, if there is 
+18  no jurisdiction? 
+19
+20
+21  have been a very -- a very powerful critic of it, 
+22  obviously, in your opinions -- that it is the -- you 
+23  give the agency the respect of the persuasiveness of its 
+24  opinion.  And I took -- or I -- the part of the comment 
+that I was agreeing with Justice Kennedy was -- is, as 
+25
+
+ MR. GOLDSTEIN:  Because, Justice Scalia, 
+
+Skidmore deference is, as you know, of course -- and you 
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+assumes the premise. 
+
+ JUSTICE KENNEDY:  And you might also have 
+
+ MR. GOLDSTEIN:  Yes. 
+ JUSTICE KENNEDY:  The question is, is there 
+
+ MR. GOLDSTEIN:  And that -- that --
+JUSTICE KENNEDY:  If you say, when there is 
+no jurisdiction, why do you give deference, that -- that 
+assumes the very step -- the very question we are trying 
+to resolve. 
+
+1  Justice Ginsburg has suggested, the FCC understands the 
+2  Communications Act. 
+3
+4  said, it seems to me, that that assumes the issue --
+5
+6
+7
+8  jurisdiction or not? 
+9
+10
+11 
+12 
+13 
+14
+15
+16  opinions that make sense, right? 
+17
+18  quoting the Court. 
+19
+20
+21
+22  Justice Scalia.  I think that there -- there is a 
+23  common-sense element to this, and that is that the FCC, 
+24  we recognize that it has its expertise.  The question is 
+25
+
+ JUSTICE SCALIA:  And that's all you think 
+
+that Skidmore deference means?  You will listen to 
+
+do we have to -- when the statute is ambiguous, as it 
+
+ MR. GOLDSTEIN:  We -- the Court has -- I am 
+
+ JUSTICE SCALIA:  But just to agency 
+
+opinions, it makes sense, not to --
+
+ MR. GOLDSTEIN:  It more than makes sense, 
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+following that, it seems to me you -- you are basing 
+
+ I do want to --
+ JUSTICE GINSBURG:  Mr. Goldstein, in 
+
+1  will often be, do we have to accept, as a matter of law, 
+2  their view that they do have jurisdiction? 
+3
+4
+5
+6  your argument on what is said in 7(a).  And that 
+7  preserves the authority of the local governments.  But 
+8  the provision that we are talking about is (b), and (b) 
+9  says limitations, authority that the local governments 
+do not have, and among those limitations is that they 
+10
+11  have to act within a reasonable time. 
+12
+ MR. GOLDSTEIN:  Yes.  Okay. 
+13
+ JUSTICE GINSBURG:  I just don't understand 
+14  how the FCC's general rule-making authority is removed 
+as to a provision that limits what the State and local 
+15
+16  governments can do. 
+17
+18  Justice Breyer have encouraged me to get to the merits 
+19  question, so let me turn the corner, if I might, to how 
+we think a court would look at this question de novo. 
+20
+21
+ We have two points.  One is the statutory 
+22  provision, and this is going to be at pages 1 and 2 of 
+23  the cert petition, if you have that copy in front of 
+24  you. 
+25
+
+ MR. GOLDSTEIN:  All right.  You and 
+
+The statute -- and so, Justice Ginsburg, I 
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+subject matter." 
+
+ Then, in Subsection (b)(5) --
+
+1  am going to answer your question, but I want to make a 
+2  couple of quick points about our offensive argument 
+3  about why it is Congress didn't intend the FCC to 
+4  implement the statute with the force of law. 
+It begins with preservation of local zoning 
+5
+6  authority.  Subsection (a) says, "Except as provided in 
+7  this paragraph, nothing in this Act" -- which includes 
+8  Section 201(b) -- "shall limit or affect the authority 
+9  of a State or local government with respect to this 
+10
+11
+12  Justice Ginsburg, you said the essence of the statute is 
+13  (b).  In subsection (b)(5), Congress located the 
+14  enforcement power of this statute in the courts. 
+"Any" -- and this is it at the bottom of 2, "Any person 
+15
+16  adversely affected by any final action or failure to act 
+17  by a State or local government or any instrumentality 
+18  thereof" --
+19
+20
+21  time." 
+ MR. GOLDSTEIN:  I -- I could read the whole 
+22
+23  thing, Justice Ginsburg.  My point is going to be that 
+24  that "reasonable period of time" phrase is enforced 
+25
+
+skipping over (2), which is the phrase "reasonable 
+
+ JUSTICE GINSBURG:  But you are -- you are 
+
+through the courts.  Now, Congress --
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE GINSBURG:  Just -- just on a 
+
+
+ MR. GOLDSTEIN:  I -- I will, now, turn to 
+
+that question.  It makes enormous sense, and it was 
+
+make to read this to say that each time there is a 
+
+ MR. GOLDSTEIN:  Yes. 
+
+ JUSTICE GINSBURG:  -- what sense does it 
+
+
+1
+2  practical level --
+
+3
+4
+5
+6  dispute that comes to the Court, the Court will decide 
+7  in that particular case, with no guide at all, what the 
+8  reasonable time is? 
+9
+10
+11  explained by the conferees in the conference report at 
+12  page 209 of the petition appendix.  And what happened 
+13  here is that -- that the House version of the bill 
+14  instructed the FCC to conduct a rule-making and the 
+rule-making would set standards for establishing a 
+15
+16  reasonable period of time. 
+17
+18  provision and said, no, we are going to have a provision 
+19  that, instead, says that nothing else in the Act will 
+apply to this question; that you will go to the courts, 
+20
+21  rather than to have a rule-making, the rule-making must 
+22  be canceled, and then explained its intent.  And so if I 
+23  could just read that to you, very quickly --
+24
+25
+
+ JUSTICE SCALIA:  Suppose I didn't know that, 
+
+and I'm just looking at the text, okay? 
+
+ The Senate came along, which had no such 
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. GOLDSTEIN:  Yes. 
+ JUSTICE SCALIA:  There are innumerable 
+
+1
+2
+3  statutes which, after giving of the agency rule-making 
+4  authority, provide judicial -- you know, review under 
+this statute shall be held in such-and-such a court. 
+
+5
+6
+ There is no conflict whatever between a 
+
+7  statement that any person affected can sue in Federal 
+
+8  court and the possession by an agency of rule-making 
+
+9  authority.  The -- the two simply don't conflict. 
+
+10
+11 
+12 
+13 
+14 
+15
+16 
+17 
+18 
+19
+20
+21  different visions of what reasonable period of time is. 
+22  And that is a general -- this is -- the first one is 
+23  what the FCC you would expect to implement, and that is 
+24  a reasonable period of time is a general national 
+25
+
+point is that it is a point in our favor, particularly 
+when you compare -- (b)(5) has two parts, in addition to 
+the statutory history, which was -- told the FCC to 
+cancel the rule-making on this point.  Subsection (b)(5) 
+says, you go -- on the reasonable period of time 
+provision, you go to the courts; and, on questions 
+related to radio frequency emissions, which is also 
+covered by (c)(7)(A), you go to the FCC. 
+
+ And what the conferees explained, quite 
+clearly, Justice Ginsburg, is that you can have two 
+
+MR. GOLDSTEIN:  Justice Scalia, I -- my 
+
+standard, a kind of baseline. 
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ What they said is a presumption of 90 or 
+
+ And that -- the latter is what Congress 
+
+of time as within the locality, and that is, is the 
+
+intended.  And it makes every sense in the world, in the 
+
+1
+2  150 days.  And that's what we think, generally, the FCC 
+3  will decide how long it takes to act on a wireless 
+4  application.  Or you could think about reasonable period 
+5
+6  locality following its ordinary standards for resolving 
+7  siting applications and not discriminating against 
+8  wireless applications. 
+9
+10
+11  context of this statute, that Congress wanted that 
+12  because, first, it has always been the case that State 
+13  and local -- that wireless siting and all siting 
+14  decisions are decided by localities, not by the Federal 
+15
+16
+17  you know when it's 30 days after a failure to act? 
+ MR. GOLDSTEIN:  That, Justice Ginsburg --
+18
+19  just to put this in context, the government says that 
+20
+21  wouldn't know when to go to court.  They cite no case in 
+22  which that was ever an issue, neither the wireless 
+23  companies, nor them.  And --
+24
+25
+
+the FCC was concerned that the wireless companies 
+
+ JUSTICE KENNEDY:  Well, I wouldn't know when 
+
+to go to court. 
+
+government --
+
+ JUSTICE GINSBURG:  How do you know -- how do 
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. GOLDSTEIN:  Because it's a continuing 
+
+ JUSTICE KENNEDY:  Let me -- let me ask you 
+
+which is very difficult to understand. 
+
+ MR. GOLDSTEIN:  Yes. 
+ JUSTICE KENNEDY:  Does that bear on the 
+
+1
+2  violation. 
+3
+4  this:  Suppose there is a provision of this statute 
+5
+6
+7
+8  Chevron Step Zero analysis on the question of what you 
+9  call jurisdiction? 
+MR. GOLDSTEIN:  It does, Justice Kennedy. 
+10
+11
+ JUSTICE KENNEDY:  All right.  It seems, to 
+12  me, that Justice Ginsburg identifies a real point.  I 
+13  was looking at this statute, and I say -- you know, how 
+14  do I know when this agency has failed to act?  I 
+15
+16
+17  Kennedy.  First is I will tell you that Congress 
+18  consciously used phrases, "reasonable period of time" 
+19  and "substantial evidence contained in a written 
+record" -- those are the subdivisions of subparagraph 
+20
+21  (b), which Justice Ginsburg was pointing to, because 
+22  those are judicially administered standards. 
+23
+24  the conference report.  "The phrase 'substantial 
+25
+
+evidence contained in a written record' is the 
+
+don't -- that's a very obscure data point. 
+
+ MR. GOLDSTEIN:  Okay.  Two things, Justice 
+
+ And I will just read you one sentence from 
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ And, Justice Kennedy, on your 
+
+
+ JUSTICE GINSBURG:  Where does that say 
+
+anything about what you just read about what is a 
+
+
+ MR. GOLDSTEIN:  Yes. 
+
+ JUSTICE KENNEDY:  Was that at 209? 
+
+ MR. GOLDSTEIN:  That was at 210, 
+
+
+1  actions," the agency here being the locality. 
+
+2
+3  question and --
+
+4
+5
+6  reasonable time? 
+
+7
+8
+9
+10
+11
+ There is a similar passage relating to 
+12  "reasonable period of time."  It's quite clear.  I 
+13  believe -- the conference report is four or five pages 
+14  long. 
+15
+16 
+17 
+18 
+19
+20
+21 
+22
+23
+24  briefs in this case, and I don't have any idea what to 
+25
+
+again, I think you will see that Congress was adopting 
+local standards, local -- a local approach to deciding 
+this question, against a broader framework. 
+
+ Can I just answer Justice Kennedy's --
+JUSTICE SOTOMAYOR:  Mr. Goldstein, could you 
+
+go back to the question presented? 
+ MR. GOLDSTEIN:  Sure. 
+ JUSTICE SOTOMAYOR:  I have read a lot of 
+
+Justice Kennedy. 
+
+When you have the opportunity to read it 
+
+tell a lower court. 
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. GOLDSTEIN:  Yes. 
+ JUSTICE SOTOMAYOR:  How to articulate the 
+
+ MR. GOLDSTEIN:  Yes. 
+JUSTICE SOTOMAYOR:  Given that you started 
+
+novo whether the agency was given the power to interpret 
+a particular provision with the force of law.  That's 
+the entry point question -- the threshold question.  All 
+of this works --
+
+1
+2
+3  tests or how to apply it. 
+4
+5
+6  with saying, it's almost impossible to talk about what's 
+7  jurisdictional and what's an application of 
+8  jurisdiction.  So articulate the test, and tell me what 
+9  I tell the lower courts. 
+10
+11 
+12 
+13 
+14 
+15
+16 
+17 
+18
+19
+20
+21
+22  than in the academic literature, what the difference 
+23  between Step Zero and Step One is.  And so there is an 
+24  ambiguity, and, now, the agency is given deference. 
+So where in this conversation is there --
+25
+
+MR. GOLDSTEIN:  The lower courts decide de 
+
+JUSTICE SOTOMAYOR:  So that's what the court 
+
+here did.  It looked at the Communications Act.  It 
+said, it has the power --
+
+ MR. GOLDSTEIN:  It did not --
+ JUSTICE SOTOMAYOR:  -- to pass regulations 
+with respect to this Act.  There is no clear exception. 
+ I -- I still haven't quite understood, other 
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. GOLDSTEIN:  Here's where it went 
+
+then it said it was compelled to accept the FCC's 
+
+ Before I sit down, Justice Kennedy and 
+
+Justice Ginsburg have raised the point that the 
+
+1
+2  wrong -- here's where it went wrong:  It looked at the 
+3  statute.  It found the relationship between 332(c)(7) 
+4  and 201(b) ambiguous.  And, when it found ambiguity, 
+5
+6  reading.  It did not resolve that ambiguity itself, as 
+7  it would in any other case involving statutory 
+8  construction. 
+9
+10
+11  government did, that when does someone know when to go 
+12  to court?  AND the only part of my answer 
+13  I got in was that there are no cases identifying that as 
+14  a problem, and the reason is that it's a continuing 
+15
+16
+17  aware, was ever thrown out of court for coming in too 
+18  late, for a failure to act, because every day the State 
+19  and locality didn't act is regarded as an alleged 
+20
+21  go to court.  There are no cases that support their 
+22  concern. 
+23
+24
+25
+
+ If I could reserve the remainder of my time? 
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+General Verrilli? 
+
+violation, and it doesn't take away from jurisdiction to 
+
+violation. 
+
+ No communications provider, so far as we are 
+
+29
+ 
+
+Alderson Reporting Company 
+
+Let me start with a central point that I 
+
+Official 
+
+ ORAL ARGUMENT OF DONALD B. VERRILLI, JR., 
+
+ ON BEHALF OF THE RESPONDENTS 
+
+ GENERAL VERRILLI:  Mr. Chief Justice, and 
+
+ Chevron does apply to a court's review of an 
+
+after a court concludes that Congress has delegated to 
+the agency, generally, the authority to make rules 
+carrying the force of law and that the rule in question 
+was promulgated in exercise of that authority. 
+
+1
+2
+3
+4  may it please the Court: 
+5
+6  think cuts through most of the arguments that Petitioner 
+7  has made this morning. 
+8
+9  agency's determination of ITS jurisdiction, but only 
+10
+11 
+12 
+13 
+14
+15
+16
+17  that the language this Court used, taken from Meade, 
+18  last term in Astrue, in the unanimous opinion for the 
+19  Court in Mayo the term before, was is the authority --
+20
+21  make rules with the force of law. 
+ CHIEF JUSTICE ROBERTS:  Well, that's right, 
+22
+23  but your argument it seems, to me, can't be -- let's say 
+24  you have a general statute, and you've got a provision 
+25
+
+is -- is the agency vested with authority, generally, to 
+
+at the beginning that says this is -- authority to 
+
+provision? 
+
+ JUSTICE KENNEDY:  As -- as to that specific 
+
+ GENERAL VERRILLI:  No, in general.  I think 
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ GENERAL VERRILLI:  I would not, 
+
+not say that the first general one controls the specific 
+
+ CHIEF JUSTICE ROBERTS:  No.  You would say 
+you don't get deference on 123.  And, as I understand 
+
+1  interpret this is delegated to the agency. 
+2
+ And you go along, but then, all of a sudden, 
+3  in -- you know, Section 123, it says it doesn't get any 
+4  deference interpreting this provision.  Now, you would 
+5
+6  withdrawal of deference, would you? 
+7
+8  Mr. Chief Justice. 
+9
+10
+11  the case -- and that's why I persist in thinking there's 
+12  no great disagreement here, your friend on the other 
+13  side is saying that, particularly given 7(a) and some 
+14  other things, you should read 7(b)(2) as if Congress had 
+15
+16
+17  7(a) says nothing shall limit what the State can do, 
+18  other than what's here in the statute.  And, if you let 
+19  the FCC -- if you give them deference, you're letting 
+20
+21
+ So why -- and then you dispute, it seems to 
+22  me, just whether that you should call that jurisdiction 
+23  or not because people think of jurisdiction as meaning, 
+24  oh, you don't get through the door.  But, if what they 
+mean by jurisdiction is simply that the agency gets no 
+25
+
+said, Agency, you don't get any deference here. 
+
+ You can read it that way, they say, because 
+
+something else limit what the State can do. 
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ GENERAL VERRILLI:  Well, I'm not sure I 
+
+point here is that to the extent -- once you've 
+
+1  deference on this point, then it seems to me everybody's 
+2  saying the same thing. 
+3
+4  agree with that, Mr. Chief Justice, because I think the 
+5
+6  satisfied that general threshold that I identified, then 
+7  to the extent there is ambiguity -- if the statute is 
+8  clear -- and in Your Honor's hypothetical I'd submit the 
+9  statute is clear at that point, that the agency -- that 
+the agency's authority has been carved out with respect 
+10
+11 
+to that particular provision. 
+12
+ If it's clear, you don't get to the question 
+13  of whether there's any deference due.  The issue arises 
+14  when there's ambiguity.  And our position is --
+15
+16 
+17 
+18
+19
+20
+21  no deference, then it doesn't matter whether there's 
+22  ambiguity on the subsidiary one, right? 
+23
+24
+25
+
+ GENERAL VERRILLI:  That -- that's correct. 
+ CHIEF JUSTICE ROBERTS:  Okay. 
+GENERAL VERRILLI:  But if there is ambiguity 
+
+ GENERAL VERRILLI:  Either one because --
+ CHIEF JUSTICE ROBERTS:  Well, but, if 
+
+CHIEF JUSTICE ROBERTS:  Ambiguity in the 
+
+provision that says, Agency, you get no deference?  Or 
+ambiguity in the substantive provision at issue? 
+
+there's no ambiguity on the provision that says you get 
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+you call it substance. 
+
+ And one reason for that, Mr. Chief Justice, 
+
+1  on the first, our position is that Chevron applies and 
+2  that the agency gets deference, so long as it's a 
+3  permissible construction of the statute.  And that's 
+4  true whether you call it jurisdiction and -- or whether 
+5
+6
+7  is that I don't think there is -- I do think this is 
+8  really a Pandora's Box situation.  I do not think there 
+9  is a clear, neat dividing line between what my friend, 
+Mr. Goldstein, describes as a jurisdictional issue, an 
+10
+11 
+issue of interpretive authority, and a question of 
+12 
+substance. 
+13
+14  in this case.  Mr. Goldstein has tried to define 
+jurisdiction in a particular way; the IMLA has defined 
+15
+16  it in a very different way.  They say any question that 
+17  goes to the who, what, when, or where of an agency's 
+18  assertion of authority is a jurisdictional question, as 
+19  to which agencies get no Chevron deference in the course 
+20
+21
+22  that position is exactly the same reason that Mr. 
+23  Goldstein gives for stating his position, which is that 
+24  you're talking about an agency action in excess of the 
+25
+
+scope of its delegated authority, and, once you say 
+
+ And I think you can see that in the briefing 
+
+of ambiguity. 
+
+ And the reason that IMLA gives for stating 
+
+33
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ And I would respectfully submit, once you 
+
+
+American Hospital Association is certainly 
+
+1  that, there's no Chevron deference. 
+
+2
+3  have got a situation in which it is clear that the 
+
+4  agency has general authority to implement and the 
+
+argument is whether its authority to implement has, with 
+5
+6  respect to a particular provision, has been carved out, 
+7  at that point, Chevron deference is appropriate, and 
+8  that is the practice of this Court in repeated numbers 
+9  of cases. 
+10
+11 
+12 
+13 
+14 
+15
+16 
+17 
+ And the Court rejected that argument, saying 
+18
+19  that -- that, in that case, whatever ambiguity there was 
+20
+21  favor of the agency. 
+22
+23  And I would submit Iowa Utilities Board is a case --
+24
+ JUSTICE SOTOMAYOR:  All right.  General, 
+25
+
+one such case where the -- the NLRB had general 
+rule-making authority.  There was a statutory provision 
+that said bargaining units needed to be determined by 
+the NLRB in each case.  And the argument was made that 
+that ought to be understood as a carveout from the 
+NLRB's general authority requiring case-by-case 
+decisionmaking with respect to bargaining units. 
+
+let's go back to the question presented and break down 
+
+in the statute ought to be resolved under Chevron in 
+
+ Schor -- CFTC v. Schor is a comparable case. 
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+novo review? 
+
+ GENERAL VERRILLI:  Our position -- let me 
+
+ Is it your position that what the Court asks 
+
+ JUSTICE SOTOMAYOR:  All right.  But tell me 
+what -- what gets deference when and what's subject to 
+
+1  your argument. 
+2
+3  first is whether Congress has spoken clearly on the 
+4  agency having authority or not?  Is that subject to de 
+5
+6
+7  walk through the steps of our position and how we answer 
+8  the question presented. 
+9
+10
+11  de novo review. 
+12
+ GENERAL VERRILLI:  Here's our answer to the 
+13  question presented, Justice Sotomayor:  That there is de 
+14  novo review of the question of whether Congress has 
+delegated authority to the agency, generally, to act 
+15
+16  with the force of law and whether the interpretation 
+17  claiming deference is an exercise of that delegated 
+18  authority. 
+19
+20
+21  course, de novo review using the normal tools of 
+22  statutory construction to answer the question whether 
+23  Congress has spoken clearly on the issue of whether the 
+24  agency has authority.  If the answer is that Congress 
+25
+
+ Once that is satisfied under de novo review, 
+
+Chevron kicks in.  Now, Step One of Chevron is, of 
+
+has, then that disposes of the case. 
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ If Congress hasn't, then one moves to Step 
+
+ That's the way we think the issue in this 
+
+1
+2  Two of Chevron and asks whether the agency's 
+3  interpretation of the provision at issue, whether you 
+4  call it substantive or whether you call it jurisdiction, 
+is a permissible construction.  Is it within the bounds 
+5
+6  of what the language can reasonably accommodate it? 
+7  And, if it is, the agency is upheld. 
+8
+9  case should be analyzed.  That's the way we think every 
+issue should be analyzed under Chevron.  We think that's 
+10
+11 
+what this case is -- this Court's cases say.  We think 
+this is what the Court uniformly and routinely does in 
+12 
+13 
+analyzing these questions.  I think --
+14
+15
+16
+17  Commission, a little bit of confusion, I think, about 
+18  that case.  That case was decided in 1986.  Congress 
+19  added the sections Mr. Goldstein referred to, 251 and 
+252 of -- of the Communications Act, in 1996.  And what 
+20
+21  Louisiana Public Service Commission did was define the 
+22  outer limits of the Commission's authority. 
+23
+24  Act shall give or -- shall be construed to give the 
+commission authority or jurisdiction over intrastate 
+25
+
+ GENERAL VERRILLI:  Louisiana Public Service 
+
+ It said nothing shall be -- nothing in this 
+
+ JUSTICE SOTOMAYOR:  So deal with the three 
+
+cases he mentioned. 
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ That seems, to me, had you had run that 
+
+Adams Fruit, the - the Court held 
+
+It then did go on to say, with respect to 
+Chevron Step Two, that, even if we were going to think 
+about granting the agency deference here, they wouldn't 
+get it. 
+
+1  communications, so it was an express carveout. 
+2
+3  through the Chevron analysis, it'd be a pretty 
+4  straightforward Chevron Step One case. 
+5
+6  specifically in Adams Fruit that the plain meaning of 
+7  the statutory provision at issue foreclosed the agency's 
+8  interpretation.  And that's at 494 U.S., at page 646. 
+9  So that was a Chevron Step One case. 
+10
+11 
+12 
+13 
+14
+15
+16  position and not Mr. Goldstein's.  What the Court said 
+17  in Adams Fruit was that the Department of Labor did have 
+18  the authority to implement the substantive provisions of 
+19  the Agricultural Workers Protection Act, including the 
+substantive provisions governing motor vehicle safety. 
+20
+21
+ What it didn't have was the authority to 
+22  restrict judicial remedies available for the private 
+23  cause of action created under the statute. 
+24
+25
+
+ Well, if you map that onto here, what the 
+FCC has done here with respect to the reasonable time 
+
+ But I think the reasons -- if you map the 
+
+reasoning of Adams Fruit onto this case, it supports our 
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+JUSTICE BREYER:  Well, what worries me about 
+
+substantive provisions. 
+
+ And so it's -- it totally maps onto -- to 
+
+1  provision in 332(c)(7)(B) of the statute was to provide 
+2  a rule of decision for the substantive provision of the 
+3  Act, leaving to the courts the decision of what remedy, 
+4  if any, there would be for a violation of those 
+5
+6
+7  the FCC's interpretation of the right way to think about 
+8  statutory authority in this case.  And if I -- I'm 
+9  sorry, Justice Breyer. 
+10
+11 
+12 
+13 
+14 
+15
+16 
+17 
+ So, as you know, I've written somewhat a 
+18
+19  different approach.  And it says, let's not do this. 
+20
+21  look, what we're interested in is just one question, 
+22  whether Congress wanted a court to give, in this kind of 
+23  situation, deference to the agency.  And the answer will 
+24  be, it depends.  Chevron is a good rule of thumb, but it 
+25
+
+it is you -- you and I both have, in our offices, 
+thousands of words which are in the U.S. Code, and there 
+are hundreds of thousands -- or millions of employees, 
+in millions of different kinds of agencies, and, if we 
+turn Chevron into the tax code, it's going to be a 
+nightmare -- in my opinion, not necessarily in that of 
+my colleagues. 
+
+But just so, who would win here?  Suppose you just said, 
+
+isn't a straightjacket. 
+
+38
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+And then, here, it uses the word "reasonable." 
+
+ So where you have a Federal agency with 
+
+with the States when they are citing stuff." 
+
+ So what you'd look at here is it's the FCC 
+1
+2  that is in charge of national communications, of which 
+3  this is part.  There is a specific provision, as your 
+4  colleague points out, that says, "but don't interfere 
+5
+6
+ But then there is a limitation to that 
+7  specific provision, which consists of six or seven 
+8  parts, all of which maintain a lot of authority in the 
+9  FCC or rules about what they are not supposed to do. 
+10
+11
+12  expertise that's in charge of this kind of area and they 
+13  have rule-making authority, and you have a statute like 
+14  this, which is a little bit ambiguous, but not too, in 
+15
+16  interpretation, you'd add up those factors and make a 
+17  decision. 
+18
+19
+simple -- I mean, that's Louis Jaffe.  That -- that's 
+20
+21  the founders of administrative law.  That's everybody 
+22  until we get into a straightjacket.  And it isn't --
+23  even Chevron doesn't go against us, if you don't think 
+24  of it as a straightjacket. 
+25
+
+ GENERAL VERRILLI:  So --
+ JUSTICE BREYER:  I mean, that's such a 
+
+respect to the point about whether they do 
+
+GENERAL VERRILLI:  Two points.  First, 
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ Second, I understand that that's Your 
+
+JUSTICE BREYER:  I didn't make it up.  It 
+
+ JUSTICE SCALIA:  That -- that's no better. 
+
+Louis Jaffe isn't even a member of the Court. 
+
+ (Laughter.) 
+ GENERAL VERRILLI:  But -- but I think the 
+
+1  applying that approach, I think it's pretty clear that 
+2  one would uphold the FCC's judgment here. 
+3
+4  Honor's approach.  I don't --
+5
+6  was Louis Jaffe. 
+7
+ GENERAL VERRILLI:  I understand that Your 
+8  Honor is the most recent proponent of this approach. 
+9
+10
+11
+12
+13  Court is in a different place.  And I think the Court is 
+14  in a different place for a good reason because I think 
+it's our interpretation of Chevron that avoids turning 
+15
+16  it into the complexity of the Internal Revenue Code 
+17  because I think, if you think about what my friends on 
+18  the other side are proposing here, what they're 
+19  suggesting is that, once you've cleared that initial 
+20
+21  implement the statute with the force of law and that 
+22  this is an exercise of that general authority and, 
+23  therefore, not --
+24
+25
+
+ JUSTICE BREYER:  I mean, I think you can 
+show, which I will spare you at the moment, all the 
+
+hurdle of deciding the agency has general authority to 
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+when they like a result, they say they have deference, 
+
+ GENERAL VERRILLI:  I guess I would beg to 
+
+development of administrative law. 
+
+ JUSTICE SCALIA:  Justice Breyer would 
+
+1  cases like Meade are consistent with what I said.  And 
+2  cases that are not consistent are consistent with what 
+3  Judge Friendly said years ago, where he said there is no 
+4  coherence to the Supreme Court's cases in this area; 
+5
+6  and, when they don't like it, they say they don't. 
+7
+8  differ about that.  I think our -- our view is that 
+9  Chevron does provide a stable framework for the 
+10
+11
+12  replace that with a rule, where they like the agency to 
+13  have authority, it has it, and, where they don't like it 
+14  to have authority, it doesn't.  I'm not sure that's any 
+15
+16
+17
+18  Chevron --
+19
+20
+21
+22
+23  issue -- with respect to the issue that's in front of 
+24  the Court now, I think the -- I think the -- what my 
+25
+
+sorry I brought this up. 
+ (Laughter.) 
+ GENERAL VERRILLI:  With respect to the 
+
+ GENERAL VERRILLI:  I guess -- I guess --
+ JUSTICE SCALIA:  -- a description of the 
+
+friends on the other side are asking is, actually, for 
+
+41
+ 
+
+Alderson Reporting Company 
+
+better than --
+
+ JUSTICE BREYER:  You don't have to -- I'm 
+
+Official 
+
+in the exercise of that, what my friend on the other 
+
+
+ CHIEF JUSTICE ROBERTS:  Right.  Well --
+
+GENERAL VERRILLI:  -- gives authority to act 
+
+1  an additional layer of complexity in the analysis, even 
+2  after the general authority is established to -- to make 
+3  rules with the force of law and even after it's 
+4  established that the rule at issue is -- has been done 
+5
+6  side suggests is there is another layer of de novo 
+
+7  review there to answer the question of whether this 
+
+8  particular provision --
+
+9
+10
+11 
+12
+ CHIEF JUSTICE ROBERTS:  Your friend on the 
+13  other side has another set of arguments about why you 
+14  should treat this particular provision differently, and 
+15
+16  thereof, of State and local government agencies. 
+17
+18  analysis. 
+19
+20
+21 
+22 
+23 
+24 
+25
+
+know, obviously, the dividing line between State 
+authority and Federal authority is a more significant 
+one than some of the other questions as to which 
+agencies get deference, which is whether rates are 
+reasonable or not reasonable.  And this provision is 
+
+with the force of law. 
+
+that is because it concerns the authority, or lack 
+
+ Now, does that play any role at all in your 
+
+ GENERAL VERRILLI:  Yes. 
+CHIEF JUSTICE ROBERTS:  We are not -- you 
+
+42
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+specifics in this case. 
+
+when there should be State.  Is that, at all, a 
+
+ GENERAL VERRILLI:  It is definitely a 
+
+1  written in terms of a preservation of State authority. 
+2
+ And your view would give the Federal agency 
+3  deference under Chevron -- very considerable deference 
+4  in defining when there should be Federal authority and 
+5
+6  pertinent consideration? 
+7
+8  pertinent consideration, Mr. Chief Justice.  And let me 
+9  talk about that in general and then move to the 
+10
+11
+ In general, it's a pertinent consideration 
+12  that is accommodated within the Chevron framework.  At 
+13  Chevron Step One, the Court applies the normal tools of 
+14  statutory construction.  The normal tools of statutory 
+15
+16  include the presumption against preemption.  And this 
+17  Court -- I -- one point --
+18
+19  I interrupt you, but the normal rules of statutory 
+20
+21
+ GENERAL VERRILLI:  Well, when the question 
+22  is whether Congress -- and let me try to view this with 
+23  a specific case, the Solid Waste of Cook County case. 
+24  That's a case in which the Court declined -- it didn't 
+25
+
+construction include a clear statement rule, they 
+
+say that that issue there was exempt from Chevron 
+
+ CHIEF JUSTICE ROBERTS:  Normal -- I'm sorry 
+
+construction include a clear statement rule? 
+
+43
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ CHIEF JUSTICE ROBERTS:  Who has to -- who 
+
+in its --
+
+ GENERAL VERRILLI:  Congress has to be clear 
+
+ CHIEF JUSTICE ROBERTS:  That it intended to 
+
+was going to apply a clear statement rule in that 
+
+1  analysis.  It applied the Chevron framework. 
+2
+ And it said it's Step One of Chevron because 
+3  the Migratory Bird Rule pushed to the very outer limits 
+4  of Congress's commerce clause authority, that the Court 
+5
+6  situation before assuming that --
+7
+8  has to be clear on their statement?  Which way? 
+9
+10
+11
+12  intrude upon State authority? 
+13
+14  that authority to that extent -- exactly. 
+15
+16 
+17 
+18 
+19
+20
+21  Justice Kennedy, and that's where the protection comes 
+22  in.  And with respect to this particular --
+ JUSTICE SCALIA:  I don't understand the 
+23
+24  question, to tell you the truth.  This matter is not 
+left with the States.  It's going to be decided by a 
+25
+
+have no historic responsibility or tradition, quite 
+unlike Article III courts, of safeguarding the Federal 
+balance. 
+
+ GENERAL VERRILLI:  But -- but Chevron Step 
+
+One is, of course, applied by the courts, 
+
+ GENERAL VERRILLI:  That it intended to give 
+
+JUSTICE KENNEDY:  But the -- the agencies 
+
+44
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+I mean, this -- you know, it's an 
+
+going to be the Federal government, isn't it? 
+
+1  Federal instrumentality, right?  Either by the agency, 
+2  which says, 30 days is the rule, or by Federal courts, 
+3  which perhaps could issue opinions that say, 30 days is 
+4  the rule. 
+5
+6  interesting separation of powers question within the 
+7  Federal government, but I don't see how it's a question 
+8  of whether it's the States or the Federal government 
+9  that's -- that's going to call the tune here.  It's 
+10
+11
+12  to be my specific point in response to your question, 
+13  Mr. Chief Justice. 
+14
+15
+16  difference between the Federal judiciary defining the 
+17  limits between the State and Federal power and having an 
+18  agency of unelected bureaucrats responsible to the 
+19  executive saying when the State controls and when the 
+20
+21  propositions. 
+ GENERAL VERRILLI:  Yes, but there is a third 
+22
+23  variable here, and that's what's key, which is, in this 
+24  situation -- in 332(c)(7)(B), the limitations provision, 
+25
+
+Congress has spoken, unambiguously, and said that the 
+
+Federal controls, those are vastly different 
+
+ GENERAL VERRILLI:  That is the -- was going 
+
+ CHIEF JUSTICE ROBERTS:  No, it wasn't going 
+
+to be that.  That -- the idea that there is no 
+
+45
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+unelected bureaucrats might decide to impose, and will 
+give them -- and the courts must give them vast 
+deference in enforcing those limits. 
+
+ CHIEF JUSTICE ROBERTS:  Yes. 
+ GENERAL VERRILLI:  And no one has suggested 
+that that was at the outer limit of Congress's Commerce 
+
+1  following limitations on local zoning authority must be 
+2  respected. 
+3
+4
+5
+6  Clause authority or anywhere close to it.  And --
+7
+ CHIEF JUSTICE ROBERTS:  But they have also 
+8  said -- they have also said, in (7)(a), that those are 
+9  the only limits, not add on to this any limits that 
+10
+11 
+12 
+13
+14  bureaucrats. 
+15
+16
+17  think -- I do think that what Justice Scalia said is 
+18  correct, that the question here is not whether the 
+19  States will decide.  The question, at the end of the 
+20
+21  usual authority to interpret reasonable --
+22
+23  that the --
+24
+25
+
+ GENERAL VERRILLI:  -- whether Federal courts 
+
+will make those decisions on a case-by-case basis upon 
+
+ JUSTICE KENNEDY:  Unelected Federal 
+
+(Laughter.) 
+ GENERAL VERRILLI:  But I -- but I do 
+
+day, is whether the agency will be able to exercise its 
+
+ JUSTICE SCALIA:  Don't -- don't you think 
+
+46
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE SCALIA:  Don't you -- don't you 
+
+CHIEF JUSTICE ROBERTS:  I'm sorry.  Is it 
+
+AT&T v. --
+
+1  de novo review. 
+2
+3  think that the issue of whether unelected Federal 
+4  bureaucrats should decide it or unelected Federal judges 
+should decide it is an issue of separation of powers, 
+5
+6  rather than an issue of -- of Federal/State relations? 
+7
+ GENERAL VERRILLI:  I do think -- in that --
+8  in that respect, I think this case is really just like 
+9  Iowa Utilities Board, in that the argument there --
+10
+11 
+12
+13
+14
+argument there was that you ought not interpret the 
+15
+16  FCC to have authority to implement particular rules 
+17  because Congress gave to State public utility 
+18  commissions the responsibility to carry out and execute 
+19  the rules and then, to Federal courts, the power to 
+20
+21
+22  States ought to lead you to conclude not to apply 
+23  Chevron deference to the agency --
+24
+25
+
+ GENERAL VERRILLI:  Yes. 
+ CHIEF JUSTICE ROBERTS:  Okay. 
+ GENERAL VERRILLI:  In that -- in that -- the 
+
+ JUSTICE BREYER:  Okay.  Now --
+CHIEF JUSTICE ROBERTS:  But, in rejecting 
+
+review them and cut the FCC out. 
+
+ And the argument there was that respect for 
+
+47
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ In Section 2 and looking at pages 384 and 
+
+ It was entirely de novo, unlike in Section 
+
+3, when it was finally decided, okay, we've got the 
+
+1  that argument in Section 2 of the opinion, the author of 
+2  that opinion in nowhere, in no place, applied Chevron 
+3  deference in answering that question. 
+4
+5
+6  answer here, and, now, we will defer to the agency on 
+7  the substance of the determination. 
+ GENERAL VERRILLI:  I -- I understand that 
+8
+9  the Petitioners made that argument, Mr. Chief Justice. 
+I read the opinion differently, and, if I could, I'll 
+10
+11 
+explain why. 
+12
+13  385 of the opinion, after the Court had established that 
+14  there was general authority, under Section 201(b), to 
+implement the provisions of the Act, which I do think 
+15
+16  the Court established de novo, and we would agree that 
+17  that's appropriate, the Court then moved on to consider 
+18  these specific jurisdictional questions. 
+19
+20
+21  commissions and then considered the -- the argument that 
+22  one ought to infer from that, that the FCC's cut out of 
+23  the process. 
+24
+25
+
+"We think this attributes to that task a greater degree 
+
+of the statute which gave authority to the State 
+
+ And -- and the Court looked at the provision 
+
+ And the -- the opinion of the Court says, 
+
+48
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+is --
+
+ GENERAL VERRILLI:  It does not, Mr. Chief 
+
+ CHIEF JUSTICE ROBERTS:  -- one, two, three, 
+
+analysis of the Chevron case? 
+
+ It seems to me what the Court was saying 
+
+ CHIEF JUSTICE ROBERTS:  Does it cite --
+ GENERAL VERRILLI:  It does not. 
+ CHIEF JUSTICE ROBERTS:  -- in Part 2, which 
+
+1  of autonomy than the phrase 'establish any rates' 
+2  necessarily implies." 
+3
+4  there -- and then, on the next page, says something very 
+similar about the next argument that the -- that the 
+5
+6  challengers were making in that case.  And I think --
+7
+8
+9
+10
+11
+12  Justice, but --
+13
+14  four, five, six, seven, eight, nine, 10 pages of 
+15
+16
+17
+18  applying Chevron deference? 
+19
+20
+21  we weren't accurate in our discussion of the -- the 
+22  concluding paragraph of this phrase.  But I would like 
+23  to turn the Court's attention to that because I think we 
+24  were.  This is at page 397 of the opinion. 
+CHIEF JUSTICE ROBERTS:  Okay. 
+25
+
+ GENERAL VERRILLI:  It does not. 
+ CHIEF JUSTICE ROBERTS:  Does it say they are 
+
+ GENERAL VERRILLI:  It does not.  But the 
+
+conclusion -- I think my -- my friend has suggested that 
+
+49
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ GENERAL VERRILLI:  There is a sentence that 
+
+ Now, the jurisdictional dispute was the 
+
+contains, which, in the present case, invalidate only 
+Rule 319." 
+
+1
+2  starts, "The 1996 Act can be read to grant most 
+3  promiscuous rights to the FCC vis-a-vis the State 
+4  commissions and to competing carriers vis-a-vis the 
+incumbents, and the Commission has chosen, in some 
+5
+6  instances, to read it that way, but Congress is well 
+7  aware that the ambiguities it chooses to produce in the 
+8  statute will be resolved by the implementing agency.  We 
+9  can only enforce the clear limits that the 1996 Act 
+10
+11 
+12
+13  dispute between the FCC -- the FCC vis-a-vis the State 
+14  commissions over who had the authority to implement the 
+15
+16
+17  that Chevron is not cited in that Section 2 of the 
+18  opinion, the tenor of that discussion does seem to me to 
+19  say that the Court was looking, once it had established 
+general authority, for clear evidence that Congress had 
+20
+21  intended to carve out, from that general authority, the 
+22  particular provisions at issue and because the -- the 
+23  provisions to which the challengers pointed did not 
+24  necessarily imply an intent on the part of Congress to 
+25
+
+carve it out, that the Court wasn't going to find a 
+
+rules. 
+
+ So, while I -- I agree, Mr. Chief Justice, 
+
+50
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+think. 
+
+ JUSTICE BREYER:  I -- I dissented in that, I 
+
+ GENERAL VERRILLI:  Yes, you had a different 
+
+ JUSTICE BREYER:  Right.  And so I agree with 
+
+ So I do think that, really, the analysis in 
+
+But I didn't think -- and this is what I 
+
+wonder -- is -- you say unelected Federal bureaucrats. 
+Administrative law is about Federal administration. 
+That is Federal administrative law. 
+
+1  carveout. 
+2
+3  Iowa Utilities Board is quite consistent with that --
+4
+5
+6
+7  view. 
+8
+9  you, this flows a fortiori from the majority. 
+10
+11 
+12 
+13 
+14
+talking about them adding something.  I didn't think 
+15
+16  that's what was at issue.  I thought that there is a 
+17  word in the statute, "reasonable," and what the 
+18  administrators did at the FCC was to interpret that 
+19  word.  Am I right or wrong? 
+20
+21 
+22 
+23
+24  added? 
+25
+
+ And I've heard, here, people say we're 
+
+GENERAL VERRILLI:  That -- that's certainly 
+
+how we understand the situation, Justice Breyer, that 
+the agency does what agencies do. 
+
+ JUSTICE BREYER:  What was added?  What was 
+
+GENERAL VERRILLI:  It interpreted the 
+
+51
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+GENERAL VERRILLI:  Well, our view, Justice 
+
+ JUSTICE GINSBURG:  Can you -- can you tell 
+me, what is -- what is the ambiguity?  Because I looked 
+
+1  meaning of the language "reasonable time," to give it 
+2  more precise content, to allow -- to deal with the 
+3  failure to act situation --
+4
+5
+6  at (b).  (B) is limitations.  Limitations is on the 
+7  State, and then it uses the phrase of what the State 
+8  cannot do.  The State has to conform to a reasonable 
+9  time.  What is ambiguous about this? 
+10
+11 
+12 
+13 
+14 
+15
+16
+17  "reasonable" was what people were talking about as being 
+18  ambiguous, although I think -- I don't think "ambiguous" 
+19  is the proper word.  "Reasonable" is vague.  You don't 
+20
+21
+ GENERAL VERRILLI:  I took that -- I think 
+22  that's it's -- it's, certainly, susceptible to further 
+23  elaboration in that sense.  But I took Justice Ginsburg 
+24  to be asking me about the ambiguity with respect to the 
+25
+
+Ginsburg, is that there isn't any ambiguity, that 
+the -- that the rule ought to be upheld, no matter what 
+standard of review applies, in fairness to my friends on 
+the other side.  But I do think this points up the 
+problems going down the road they are suggesting is --
+
+ JUSTICE SCALIA:  Well, I -- I thought 
+
+know exactly what it means, right? 
+
+authority of the (7)(A) --
+
+52
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE BREYER:  Reasonable -- reasonable is 
+
+ GENERAL VERRILLI:  Right.  And, in fairness 
+
+to my friends and as the Chief Justice has just 
+
+ But I do think this points up the difficulty 
+is that, if you -- if you look at the provision that the 
+
+1
+2  uncertain who.  Who has -- it doesn't tell us who had 
+3  the authority. 
+4
+5
+6  indicated, it's an inference from (7)(A), and I suppose 
+7  an inference from (7)(B)(v), and that -- and that the 
+8  courts are in the process. 
+9
+10
+11  FCC's actually implementing here, it's not a 
+12  jurisdictional provision; it's a normal substantive 
+13  standard.  The FCC is giving it more precise content. 
+14  That's what an agency's job is.  It's doing its job 
+15
+16
+17  (7)(B)? 
+18
+19  exactly. 
+20
+21 
+22
+23  clear that the FCC has authority, given (7)(A), because 
+24  of the "except as provided in this paragraph" argument. 
+25
+
+It's, I think, our friends on the other side who say 
+
+CHIEF JUSTICE ROBERTS:  Okay.  What is there 
+
+about (7)(A) that you think is ambiguous? 
+
+ GENERAL VERRILLI:  We think it's -- it's 
+
+here. 
+
+CHIEF JUSTICE ROBERTS:  You're talking about 
+
+GENERAL VERRILLI:  Yes, (7)(B)(ii), right, 
+
+53
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+analysis. 
+
+ And I think you're adding needless 
+
+1  that it's (7)(A) that creates uncertainty about whether 
+2  the FCC has the authority to implement the reasonable 
+3  time provision in (7)(B)(ii) -- and I think that points 
+4  up the problem of adding this additional step to the 
+5
+6
+ Once the Court has satisfied itself that the 
+7  agency has general rule-making authority, it's not going 
+8  to be hard to cobble together inferences to make 
+9  arguments on de novo review that the -- that the agency 
+lacked the authority to implement a particular provision 
+10
+11 
+with the force of law. 
+12
+13  complexity, and I do think -- the reason I suggested, 
+14  earlier, that I think this is a Pandora's Box is because 
+15
+16  principled line that can be drawn between what my friend 
+17  describes as interpretive authority questions and the 
+18  kind of who, what, when, where substantive questions --
+19  substantive jurisdictional questions that Respondent 
+20
+21
+22  that the agency has acted in excess of its statutory 
+23  authority.  And, if that's sufficient to justify de novo 
+24  review in the first instance, it's sufficient to justify 
+25
+
+I do not think there's, at the end of the day, a 
+
+de novo review in the second instance. 
+
+IMLA is focused on. 
+
+ In each of those situations, the argument is 
+
+54
+ 
+
+Alderson Reporting Company 
+
+ CHIEF JUSTICE ROBERTS:  Well, but, I mean, 
+
+of the administrative process because that 
+interpretation is locked in. 
+
+1
+2  that you have really unravelled Chevron.  The -- the 
+3  good work that that -- that that doctrine does to 
+4  stabilize the development of administrative law is gone. 
+5
+6  that -- that de novo review is required, and, in every 
+7  case in which a court agrees that de novo review is 
+8  required, once the court has interpreted the statute as 
+9  a matter of de novo review, then you have ossification 
+10
+11 
+12
+13  your argument there is basically saying, when the 
+14  statute says something is reasonable, it means that the 
+Commission doesn't have -- it's a jurisdictional 
+15
+16  question whether it's reasonable or unreasonable. 
+17
+18  quite a bit different.  It talks about the authority of 
+19  a State.  And, usually, when we are talking about the 
+authority of which entity can -- can govern, we view 
+20
+21  that as jurisdictional. 
+22
+23  are -- that are difficult.  But -- but your argument is, 
+24  basically, reasonable or unreasonable is the same as 
+25
+
+ There may well be cases at the margin that 
+
+ But it seems to me that this provision is 
+
+Official 
+
+ And, if that's the case, then I would submit 
+
+There will be an argument in every case 
+
+State or Federal. 
+
+55
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ CHIEF JUSTICE ROBERTS:  No, no.  I'm not 
+
+ GENERAL VERRILLI:  Well, I do -- I do think 
+
+that's true, and I think that the arguments that are 
+
+talking about the federalism values.  I'm talking about 
+
+ GENERAL VERRILLI:  No, I don't think it is, 
+1
+2  Mr. Chief Justice.  I think the -- the federalism values 
+3  are important, but I do think, as the -- as the --
+4
+5
+6  your argument that, oh, once you say you can draw a 
+7  jurisdictional line here, people will argue you can draw 
+8  it everywhere. 
+9
+10
+11  being made by my friends on the other side demonstrate 
+12  that.  But I guess what I would say, in this situation, 
+13  in particular, is that -- that we're really not -- the 
+14  fact that it does involve the Federal and State 
+authorities doesn't change the analysis because, 
+15
+16  applying Chevron in the normal way, one would not 
+17  conclude that Congress has spoken clearly and -- and 
+18  restricted the agency's authority. 
+19
+apply a clear statement rule here because Congress, 
+20
+21  clearly, had the authority to impose the limitations 
+22  that it imposed in Subsection (B).  And those are direct 
+23  limitations on the State authority, and Congress made 
+24  that judgment. 
+25
+
+ And there is no means -- there's no basis to 
+
+It isn't the agency wading on -- in on its 
+
+56
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ These are judgments that Congress made, and 
+
+1  own to decide that State or local authorities should be 
+2  subject to limitations. 
+3
+4  the agency is implementing them in very much the same 
+way that the Court found it was appropriate for the 
+5
+6  agency to implement the preemptive scope of the word 
+7  "interest" in the National Bank Act in the Smiley case. 
+ JUSTICE SCALIA:  Mr. Verrilli, why isn't it 
+8
+9  an easy answer to the whole case to read (7)(A), except 
+as provided in this paragraph, nothing in this chapter 
+10
+11 
+shall limit or affect the authority of State or local 
+government?  Okay?  "Except as provided in this 
+12 
+13 
+paragraph." 
+14
+15
+16  local government shall act on any request for 
+17  authorization within a reasonable period of time." 
+ GENERAL VERRILLI:  That's why -- that's 
+18
+19  why -- that's our --
+20
+21 
+22
+23  right.  That limits it.  And -- and the question then 
+24  is, of course, whether that's enforced in court --
+25
+
+enforced in court or before the agency; right? 
+
+ And then later, in the paragraph, in the 
+
+subsection entitled, "limitations," it says, "A State or 
+
+JUSTICE SCALIA:  That's -- that's a 
+
+limitation. 
+
+ CHIEF JUSTICE ROBERTS:  Yes, that's exactly 
+
+57
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+CHIEF JUSTICE ROBERTS:  Well, whether the --
+
+ GENERAL VERRILLI:  I agree with 
+
+Justice Scalia because -- because I do think that, no 
+
+ GENERAL VERRILLI:  No.  I think the question 
+1
+2  is whether the agency has the authority to flesh out the 
+3  substantive standard that the court will subsequently 
+4  apply --
+5
+6  whether the standard is defined in -- by -- through 
+7  direct judicial review or by the agency, with deference 
+8  to the agency. 
+9
+10
+11  matter what view of the matter the Court takes, the 
+12  FCC's rule ought to be upheld.  But I do think that 
+13  the -- the position my friends on the other side are 
+14  advocating threaten to unravel the -- the Chevron 
+15
+16
+ And I would urge the Court not to do it. 
+17
+ JUSTICE SOTOMAYOR:  General, if the -- if 
+18  the agency had said reasonable is 30 days, period, and 
+19  not done what it did, which was create a rebuttable 
+20
+21  have had to uphold that?  And, if not --
+22
+ GENERAL VERRILLI:  I think --
+ JUSTICE SOTOMAYOR:  How would we have struck 
+23
+24  it down?  What step --
+25
+
+presumption, would that have been appropriate?  Would we 
+
+framework and destabilize administrative law. 
+
+GENERAL VERRILLI:  You -- you would analyze 
+
+58
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+record looked like.  But, certainly, a court would 
+
+ If the Court has nothing further? 
+ Thank you. 
+ CHIEF JUSTICE ROBERTS:  Thank you, General. 
+Mr. Goldstein, you have 4 minutes remaining. 
+
+1  that under Step Two of Chevron, Justice Sotomayor.  You 
+2  decide whether that's a permissible construction of the 
+3  statute, whether it's reasonable or whether it's 
+4  arbitrary and capricious, that would depend on what the 
+5
+6  exercise review over that matter. 
+7
+8
+9
+10
+11
+12
+13
+14  It's unravelled. 
+15
+16 
+17 
+18
+19
+20
+21  looked at the entry point question de novo, and on 
+22  the -- the idea that we're making this more complicated 
+23  makes no sense to me because what the government 
+24  wants -- and you see this in the Fifth Circuit's 
+25
+
+regret that I have contributed to such a horror.  This 
+is silliness. 
+
+ (Laughter.) 
+ MR. GOLDSTEIN:  The Court has -- we have 
+
+cited to you 17 cases of yours in which you have always 
+
+ REBUTTAL ARGUMENT OF THOMAS C. GOLDSTEIN 
+
+ ON BEHALF OF THE PETITIONERS 
+
+ JUSTICE KENNEDY:  Chevron is at an end. 
+
+MR. GOLDSTEIN:  I -- I've heard, and I 
+
+decision -- is a surround of Chevron on whether they 
+
+59
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the inquiry. 
+
+ But the question that General Verrilli 
+
+ JUSTICE KAGAN:  Well, Mr. Goldstein, I 
+
+1  have authority. 
+2
+ Go through that entire process, and then go 
+3  through it again, assuming that you do believe they have 
+4  that authority.  There's not a step that we're adding to 
+5
+6
+7  think, with respect, it's not silliness.  You have been 
+8  running as fast as you can away from the arguments that 
+9  IMLA has presented, that, in every case, it's a who, 
+what, where -- you know, or how question and that we 
+10
+11 
+have to answer that. 
+12
+13  raises, I think, is a fair question, is how your 
+14  argument, which says that we have to consider in each 
+case as to each statutory provision whether an agency 
+15
+16  has interpretive authority is any different from IMLA's 
+17  argument that we have to consider with -- in respect to 
+18  every case whether we're dealing with a when, what, who, 
+19  where question, or a how question.  It's the same 
+20
+21
+ MR. GOLDSTEIN:  No, it is not.  This Court 
+22  has said, time and again, including in Meade, that the 
+23  precondition to the application of Meade is a 
+24  determination that Congress delegated authority to the 
+agency to interpret the statute with the force of law. 
+25
+
+argument; isn't it? 
+
+60
+ 
+
+Alderson Reporting Company 
+
+case --
+
+
+ JUSTICE KAGAN:  Of course, there's a 
+
+
+ MR. GOLDSTEIN:  We are at loggerheads, 
+
+1
+2  case, and that is a distinct inquiry.  Once you decide 
+3  that they have that delegated authority over that 
+4  provision, then, as -- as this Court has done in every 
+5
+6
+7  threshold question, but the threshold question has 
+
+8  always been is the agency interpreting its organic 
+
+9  statute and is -- does that statute give the agency 
+
+rule-making authority and is that what the agency is 
+10
+11 
+exercising? 
+12
+13  Justice Kagan.  I believe that Louisiana Public Service 
+14  Commission and Adams Fruit are just simply contrary to 
+that.  It also doesn't make any sense to believe that 
+15
+16  Congress gave the agency this 201(b) authority and then 
+17  implicitly gave the agency the authority to decide how 
+18  far 201(b) extends.  This is just a question-begging 
+19  exercise. 
+20
+21 
+22 
+23 
+24 
+25
+
+ask, does that general authority apply to this 
+particular provision in the Act?  And they say, well, 
+our general authority gives us the power to answer even 
+that question, and that is not correct. 
+
+They say we have this general authority.  I 
+
+Official 
+
+ And that has to be asked in every single 
+
+JUSTICE KAGAN:  Well, I guess I'm still 
+
+61
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ And that is a different -- I'll give you an 
+
+agency the power to interpret this statutory provision 
+
+1  waiting for -- for the -- the way in which your inquiry 
+2  is different from IMLA's inquiry. 
+ MR. GOLDSTEIN:  It is because I am only 
+3
+4  asking the threshold question, did Congress give the 
+5
+6  with a question of law? 
+7
+8  illustration, and that is there is an extended 
+9  discussion of this question in the FCC's order.  It had 
+no difficulty identifying that as a separate inquiry.  I 
+10
+11 
+did want to just turn to the merits -- let me just say 
+that the Solicitor General's argument about whether the 
+12 
+13 
+201(b) authority extends to 332(c)(7) is a great 
+illustration of our argument on the question presented 
+14 
+because that's a lawyer's argument. 
+15
+16
+17  about there was a technical question of communications 
+18  law and how wireless siting facilities operate.  That's 
+19  the kind of question that Congress gives to agencies. 
+20
+21  statute read this far? 
+22
+23  question, which is not included in the question 
+24  presented, which you didn't grant certiorari on, that 
+is, the application of de novo review to this statute, 
+25
+
+ There was not a word that my friend said 
+
+It is not the threshold lawyer's issue, does this 
+
+ I would only encourage you, on the merits 
+
+62
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ There was a version of the statute that gave 
+
+the FCC the very authority that it is claiming here. 
+
+to decide what is a reasonable period of time. 
+
+1  to pay more attention than, I think, this argument has 
+2  given it because it wasn't the core issue briefed in the 
+3  case, obviously, to what Congress did in this statute. 
+4
+5
+6  That was the House version of the bill that was rejected 
+7  in Congress, in conference, Congress adopted this 
+8  version, ordered the FCC to cancel the rule-making and 
+9  reserve this power to the courts, the -- the authority 
+10
+11
+12
+13
+14
+15
+16 
+17 
+18 
+19 
+20
+21 
+22 
+23 
+24 
+25
+
+above-entitled matter was submitted.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Thank you. 
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+ The case is submitted. 
+ (Whereupon, at 11:03 a.m., the case in the 
+
+63
+ 
+
+Alderson Reporting Company 
+
+Official
+Official 
+
+64 
+
+36:10 
+
+analyze 58:25 
+analyzed 36:9 
+
+44:1 49:15 
+51:2 54:5 
+56:15 
+
+41:12 43:2 
+45:1,18 46:20 
+47:23 48:6 
+50:8 51:22 
+54:7,9,22 
+56:25 57:4,6 
+57:25 58:2,7,8  analyzing 36:13 
+58:18 60:15,25  answer 5:18 
+11:25 14:24 
+61:8,9,10,16 
+18:2 19:15 
+61:17 62:5 
+22:1 27:19 
+29:12 35:7,12 
+35:22,24 38:23 
+42:7 48:6 57:9 
+60:11 61:23 
+
+14:25 16:13 
+17:18 30:9 
+32:10 33:17 
+36:2 37:7 
+53:14 56:18 
+
+answering 48:3 
+ago 41:3 
+answers 18:20 
+agree 10:18 19:8  APPEARAN... 
+
+agency's 11:1,13 
+
+area 6:17 39:12 
+
+41:4 
+
+argue 56:7 
+arguing 12:16 
+argument 1:23 
+3:2,5,8 4:3,8 
+4:22 21:6 22:2 
+30:1,23 34:5 
+34:14,18 35:1 
+47:9,15,21 
+48:1,9,21 49:5 
+53:24 54:21 
+55:5,13,23 
+56:6 59:11 
+60:14,17,20 
+62:12,14,15 
+63:1 
+
+arguments 6:5 
+
+32:4 48:16 
+50:16 51:8 
+58:9 
+
+agreed 17:25 
+agreeing 19:25 
+
+1:25 
+
+appendix 23:12 
+applicable 18:24 
+application 25:4  arises 32:13 
+
+30:6 42:13 
+54:9 56:10 
+60:8 
+
+A 
+able 46:20 
+above-entitled 
+
+additional 42:1 
+
+54:4 
+
+administer 
+
+1:22 63:15 
+
+10:17,21 11:3 
+11:9,10 12:3 
+16:7 
+
+36:6 
+
+51:18 
+
+51:12 
+
+26:22 
+
+43:12 
+
+administrators 
+
+accommodated 
+
+absolutely 17:19 
+17:22 
+abstract 7:13,15  administered 
+academic 28:22 
+accept 21:1 29:5  administration 
+accommodate 
+administrative 
+39:21 41:10 
+51:12,13 55:4 
+55:10 58:15 
+
+accurate 49:21 
+acknowledging 
+5:20 
+act 4:21 5:13,14  adopted 5:10 
+8:19 9:2,21 
+adopting 27:16 
+10:18,22 11:4 
+11:9 12:4,6,12  advanced 4:15 
+adversely 22:16 
+13:21 14:14 
+advocating 
+15:24 20:2 
+21:11 22:7,16 
+23:19 25:3,17 
+26:14 28:16,20  agencies 33:19 
+38:14 42:16,24 
+29:18,19 35:15 
+44:15 51:22 
+36:20,24 37:19 
+62:19 
+38:3 42:10 
+48:15 50:2,9 
+52:3 57:7,16 
+61:22 
+
+agency 6:14 
+
+58:14 
+
+63:7 
+
+acted 15:2 54:22 
+acting 18:8 
+action 16:5 
+
+22:16 33:24 
+37:23 
+
+actions 27:1 
+Adams 16:1 
+
+18:21 37:5,6 
+37:15,17 61:14 
+add 17:16 39:16 
+
+46:9 
+
+added 12:6 
+
+36:19 51:23,24 
+
+adding 51:15 
+54:4,12 60:4 
+addition 24:12 
+
+affect 22:8 57:11  agrees 55:7 
+agricultural 
+16:3 37:19 
+AL 1:3,7,17 
+alleged 10:7 
+
+29:19 
+
+28:7 60:23 
+62:25 
+
+applications 
+
+25:7,8 
+
+applied 44:1,20 
+
+48:2 
+
+applies 33:1 
+43:13 52:13 
+
+apply 23:20 28:3 
+
+50:7 
+
+ambiguities 
+
+30:8 44:5 
+47:22 56:20 
+58:4 61:21 
+
+29:4,6 32:7,14  applying 17:13 
+32:15,17,20,22 
+32:25 33:20 
+34:19 52:5,11 
+52:24 
+
+9:24 10:9 11:3  allow 52:2 
+11:22,22 12:18  Alpha 6:7 
+12:19 13:24 
+14:2,6,23 15:1 
+15:2,4,11 17:1  ambiguity 28:24 
+17:3 18:7,10 
+18:12,16,24 
+19:8,13,23 
+20:19 24:3,8 
+26:14 27:1 
+28:11,24 30:11  ambiguous 
+30:20 31:1,15 
+20:25 29:4 
+39:14 52:9,18 
+31:25 32:9,16 
+33:2,24 34:4 
+52:18 53:21 
+34:21 35:4,15  American 15:18  appropriate 
+35:24 36:7 
+34:7 48:17 
+37:12 38:23 
+57:5 58:20 
+39:11 40:20 
+
+analysis 26:8 
+37:3 42:1,18 
+
+27:17 38:19 
+40:1,4,8 
+
+40:1 49:18 
+56:16 
+
+appreciate 7:8 
+approach 15:16 
+
+arbitrary 59:4 
+
+approached 
+
+34:10 
+
+14:17 
+
+Arlington 1:3 
+
+4:4 
+
+Article 44:17 
+articulate 28:2,8 
+articulated 9:20 
+articulation 
+
+asked 7:17,24 
+
+15:16 
+
+61:1 
+
+asking 41:25 
+52:24 62:4 
+
+asks 35:2 36:2 
+assertion 5:21 
+12:25 17:12 
+33:18 
+
+Association 
+
+34:10 
+
+assume 8:1 
+assumes 20:4,5 
+
+20:12 
+
+assuming 17:1 
+
+44:6 60:3 
+
+Astrue 30:18 
+attention 49:23 
+
+63:1 
+
+Alderson Reporting Company
+Alderson Reporting Company 
+
+attributes 48:25  axis 16:21 18:23  box 15:11 33:8 
+AT&T 47:11 
+author 48:1 
+authorities 
+56:15 57:1 
+
+63:14 
+B
+
+a.m 1:24 4:2 
+
+54:14 
+
+authority 4:20 
+5:5,15 6:15 
+7:21 10:23 
+11:3,14,22 
+12:19 13:9,11 
+13:20,25 14:1 
+14:2,6,15 16:2 
+16:5,7,10 
+18:17,25 19:1 
+21:7,9,14 22:6 
+22:8 24:4,9 
+30:11,13,19,20 
+30:25 32:10 
+33:11,18,25 
+34:4,5,12,16 
+35:4,15,18,24 
+36:22,25 37:18 
+37:21 38:8 
+39:8,13 40:20 
+40:22 41:13,14 
+42:2,10,15,22 
+42:22 43:1,4 
+44:4,12,14 
+46:1,6,21 
+47:16 48:14,20 
+50:14,20,21 
+52:25 53:3,23 
+54:2,7,10,17 
+54:23 55:18,20 
+56:18,21,23 
+57:11 58:2 
+60:1,4,16,24 
+61:3,10,16,17 
+61:20,21,23 
+62:13 63:5,9 
+authorization 
+
+57:17 
+
+autonomy 49:1 
+available 37:22 
+avoids 40:15 
+aware 29:17 
+
+50:7 
+
+b 2:3 3:6 21:8,8 
+
+22:11,13,13
+24:12,14 26:21 
+30:1 52:6,6
+53:7,17,18
+54:3 56:22
+back 27:21
+
+34:25
+
+balance 44:18
+Bank 57:7
+bargaining
+34:13,17
+
+baseline 24:25
+basically 55:13
+
+55:24
+
+basing 21:5
+basis 46:25
+
+56:19
+
+bear 26:7
+beg 41:7 
+beginning 4:17 
+
+30:25 
+
+begins 22:5 
+behalf 2:1,4 3:4 
+3:7,10 4:9 30:2 
+59:12 
+
+believe 4:18 
+14:10 27:13 
+60:3 61:13,15 
+
+best 12:1,13 
+
+15:18 
+
+better 40:9 
+
+41:15 
+
+beyond 10:23 
+bill 23:13 63:6 
+Bird 44:3 
+bit 36:17 39:14 
+
+55:18 
+
+Board 34:23 
+47:9 51:3 
+
+bottom 22:15 
+bounds 36:5 
+
+Official 
+
+65 
+
+break 34:25 
+Breyer 5:24 6:2 
+6:10,23 7:2,4 
+7:24 21:18 
+38:9,10 39:19 
+40:5,24 41:11 
+41:19 47:24 
+51:4,8,21,23 
+53:1 
+
+brief 18:20 
+briefed 63:2 
+briefing 33:13 
+briefs 27:24 
+broad 4:16 5:11 
+broadcast 6:18 
+broader 27:18 
+brought 41:20 
+bureaucrats 
+
+37:1 51:1 
+
+case 4:4,6,12,16 
+4:19 5:7 7:20 
+8:17 11:16 
+12:5,13 13:24 
+15:18 16:1,23 
+17:2 23:7 
+25:12,21 27:24 
+29:7 31:11 
+33:14 34:11,14 
+34:19,22,23 
+35:25 36:9,11 
+36:18,18 37:4 
+37:9,15 38:8 
+43:10,23,23,24 
+47:8 49:6,15 
+50:10 55:1,5,7 
+57:7,9 60:9,15 
+60:18 61:2,5 
+63:3,13,14 
+
+45:18 46:10,14  cases 15:14,20 
+16:13,19 17:7 
+47:4 51:11 
+17:10,11,15,17 
+29:13,21 34:9 
+36:11,15 41:1 
+41:2,4 55:22 
+59:20 
+
+4:8 24:18
+59:11
+
+c 2:1 3:1,3,9 4:1 
+
+C
+
+11:14 12:25 
+14:8,11,23 
+17:12,21 19:9 
+19:16 26:8 
+30:8 33:1,19
+34:1,7,20
+35:20,20 36:2 
+36:10 37:3,4,9
+37:11 38:15,24
+39:23 40:15 
+41:9,18 43:3 
+43:12,13,25
+44:1,2,19
+47:23 48:2 
+49:15,18 50:17 
+55:2 56:16 
+58:14 59:1,13
+59:25 
+
+12:15 13:3,7
+13:13 29:24 
+30:3,22 31:8,9 
+32:4,15,19,24
+33:6 42:9,12
+42:20 43:8,18
+44:7,11 45:13 
+45:14 46:3,7
+47:10,13,25
+48:9 49:7,9,11
+49:13,17,25
+50:16 53:5,16
+53:20 55:12 
+56:2,4 57:22 
+58:5 59:9 
+63:12 
+
+Chief 4:3,10
+
+cabinet 12:23
+cable 1:11 6:16 
+
+6:17
+
+call 4:24 5:1 
+6:11 10:25
+13:15 26:9
+31:22 33:4,5
+36:4,4 45:9 
+
+called 4:25 9:14 
+cancel 24:14
+
+63:8
+
+canceled 23:22
+capricious 59:4
+carriers 50:4
+carry 5:13 47:18 
+carrying 30:12
+carve 50:21,25
+carved 32:10
+
+34:6
+
+carveout 34:15
+
+case-by-case 
+34:16 46:25 
+
+cause 37:23 
+central 30:5 
+cert 21:23 
+certainly 10:5 
+34:10 51:20 
+52:22 59:5 
+
+certiorari 5:17 
+7:12 8:5 12:24 
+62:24 
+
+chooses 50:7 
+chosen 50:5 
+circuit 5:3,20,21
+CFTC 34:22 
+Circuit's 59:24 
+challengers 49:6  cite 25:21 49:7 
+
+50:23 
+
+cited 50:17 
+
+59:20 
+
+citing 39:5 
+
+change 56:15 
+chapter 57:10 
+charge 39:2,12  City 1:3,13 4:4 
+Chevron 5:1,4 
+claiming 35:17 
+5:22 6:7 7:13 
+8:15 9:23 
+
+claims 4:20 
+
+63:5 
+
+Alderson Reporting Company 
+
+Official 
+
+66 
+
+12:6,11 13:21 
+14:14 15:24 
+20:2 28:16 
+29:16 36:20 
+37:1 39:2 
+62:17 
+
+companies 
+25:20,23 
+
+comparable 
+
+34:22 
+
+compare 24:12 
+compelled 29:5 
+competing 50:4 
+complexity 
+40:16 42:1 
+54:13 
+
+complicated 
+
+4:12 5:8 7:20 
+59:22 
+
+concern 29:22 
+concerned 9:11 
+
+25:20 
+
+concerns 42:15 
+conclude 47:22 
+
+56:17 
+
+concludes 30:10 
+concluding 
+
+49:22 
+
+conclusion 
+
+49:20 
+
+concurrence 
+
+10:6 
+
+conduct 23:14 
+conferees 23:11 
+
+24:19 
+
+conference 
+
+23:11 26:24 
+27:13 63:7 
+conflict 5:21 
+
+24:6,9 
+
+22:3,13,25 
+25:9,11 26:17 
+27:16 30:10 
+31:14 35:3,14 
+35:23,24 36:1 
+36:18 38:22 
+43:22 44:9 
+45:25 47:17 
+50:6,20,24 
+56:17,20,23 
+57:3 60:24 
+61:16 62:4,19 
+63:3,7,7 
+
+46:5 
+
+conscious 7:11 
+consciously 
+
+26:18 
+
+60:14,17 
+
+considerable 
+
+43:3 
+
+consideration 
+
+43:6,8,11 
+considered 
+
+48:21 
+
+consistent 41:1 
+
+41:2,2 51:3 
+consists 39:7 
+consolidated 4:6 
+construction 
+
+29:8 33:3 
+35:22 36:5 
+43:14,15,20 
+59:2 
+
+construed 36:24 
+contained 26:19 
+
+26:25 
+
+contains 50:10 
+content 52:2 
+
+clarify 8:16 
+clause 44:4 46:6 
+clear 8:7 13:8 
+27:12 28:20 
+32:8,9,12 33:9 
+34:3 40:1 
+43:15,20 44:5 
+44:8,9 50:9,20 
+53:23 56:20 
+cleared 40:19 
+clearly 24:20 
+
+35:3,23 56:17
+ 
+56:21 
+
+close 46:6 
+cobble 54:8 
+code 38:12,15 
+
+40:16 
+
+coherence 41:4 
+colleague 39:4 
+colleagues 10:1 
+
+38:17 
+
+come 17:7 
+comes 19:13 
+23:6 44:21 
+coming 29:17 
+comment 19:24 
+commerce 44:4 
+
+46:5 
+
+commission 1:7 
+1:17 4:5 5:10 
+7:18 12:5 
+15:21 18:21 
+36:17,21,25
+ 
+50:5 55:15 
+61:14 
+
+commissions 
+47:18 48:21 
+50:4,14 
+
+Commission's 
+
+5:10 36:22 
+
+COMMITTEE 
+
+common-sense 
+
+1:12 
+
+20:23 
+
+53:13 
+
+conform 52:8 
+confused 16:25 
+confusion 36:17 
+Congress 6:4,20  continuing 26:1 
+
+context 25:11,19 
+contexts 4:15 
+
+communicatio... 
+
+1:6,16 4:5,21 
+10:18,21 12:4
+ 
+
+9:19 12:6,18 
+13:8,19 14:2,6 
+15:8 18:16 
+
+contrary 16:14 
+
+29:14 
+
+61:14 
+
+Alderson Reporting Company 
+
+Congress's 44:4  COUNCIL 1:13  covered 24:18 
+
+consider 48:17  County 43:23 
+
+contributed 
+
+59:16 
+
+controls 31:5 
+
+45:19,20 
+
+conversation 
+
+28:25 
+
+Cook 43:23 
+copy 21:23 
+core 63:2 
+corner 21:19 
+correct 12:22 
+15:16 32:23 
+46:18 61:24 
+
+counsel 29:24 
+
+63:12 
+
+count 6:6 
+counts 5:14 
+
+couple 22:2 
+course 6:20 
+
+19:20 33:19 
+35:21 44:20 
+57:24 61:6 
+court 1:1,23 
+
+4:11 7:12 9:15 
+10:1 12:4 
+15:22 16:4,8 
+16:21 17:13 
+18:14 19:14 
+20:17,18 21:20 
+23:6,6 24:5,8
+ 
+25:21,25 27:25 
+28:15 29:12,17 
+29:21 30:4,10 
+30:17,19 34:8 
+34:18 35:2 
+36:12 37:5,16 
+38:22 40:10,13 
+40:13 41:24 
+43:13,17,24 
+44:4 48:13,16 
+48:17,19,24 
+49:3 50:19,25 
+54:6 55:7,8 
+57:5,24,25
+ 
+58:3,11,16 
+
+59:5,7,19 
+60:21 61:4 
+courts 16:23 
+
+22:14,25 23:20 
+24:16 28:9,10 
+38:3 44:17,20 
+45:2 46:11,24 
+47:19 53:8 
+63:9 
+
+court's 9:10 
+14:11 30:8
+ 
+36:11 41:4 
+49:23 
+
+create 58:19 
+created 37:23 
+creates 54:1 
+critic 19:21 
+Customs 16:6 
+cut 47:20 48:22 
+cuts 30:6 
+D
+
+D 4:1
+data 26:15 
+day 29:18 46:20 
+
+54:15 
+
+days 25:2,17
+
+45:2,3 58:18 
+de 10:2 15:22 
+21:20 28:10 
+35:4,11,13,19 
+35:21 42:6
+47:1 48:4,16
+54:9,23,25 
+55:6,7,9 59:21 
+62:25 
+
+deal 10:20 36:14 
+
+52:2 
+
+dealing 5:9 
+
+60:18 
+
+deals 9:23 
+debate 12:11 
+decide 5:5,18 
+10:18 14:17
+16:23 17:1
+23:6 25:3
+
+Official 
+
+67 
+
+28:10 46:10,19 
+47:4,5 57:1
+ 
+59:2 61:2,17 
+63:10 
+
+decided 5:21 
+10:2,8 25:14 
+36:18 44:25 
+48:5 
+
+deciding 27:17 
+
+40:20 
+
+decision 38:2,3 
+39:17 59:25 
+
+35:15,17 60:24  disagreement 
+61:3 
+
+31:12 
+
+demonstrate 
+
+discretionary 
+
+56:11 
+
+37:17 
+
+6:5,14 
+
+25:7 
+
+Department 2:4  discriminating 
+
+depend 59:4 
+depends 38:24 
+described 18:21 
+
+18:23 
+
+discussion 9:16 
+
+49:21 50:18 
+62:9 
+
+disposes 35:25 
+
+describes 33:10  dispute 4:18 
+23:6 31:21 
+50:12,13 
+
+54:17 
+
+decisionmaking  describing 
+
+decisions 25:14 
+
+description 
+
+34:17 
+
+46:25 
+
+16:20 
+
+41:17 
+
+declined 43:24 
+defer 12:19 48:6 
+deference 5:4,23  determination 
+
+destabilize 
+
+58:15 
+
+34:13 
+
+development 
+41:10 55:4 
+
+16:14 30:9 
+48:7 60:24 
+determined 
+
+10:9 12:21,25 
+13:9,16 14:9
+ 
+14:23 15:4,12 
+16:13,24 17:1
+ 
+17:3,21 18:7 
+19:2,9,10,13
+ 
+19:17,20 20:11  differ 41:8 
+20:15 28:24 
+31:4,6,10,15 
+31:19 32:1,13 
+32:16,21 33:2 
+33:19 34:1,7 
+35:10,17 37:12 
+38:23 41:5 
+42:24 43:3,3 
+46:12 47:23 
+48:3 49:18 
+58:7 
+
+different 4:13 
+4:14,15 9:4 
+13:24 18:5,14 
+18:23 24:21 
+33:16 38:14,19 
+40:13,14 45:20 
+51:6 55:18 
+60:16 62:2,7 
+
+differently 
+
+45:16 
+
+define 33:14 
+
+36:21 
+
+defined 33:15 
+
+defining 43:4 
+
+58:6 
+
+45:16 
+
+definitely 43:7 
+degree 6:4 48:25 
+delegated 30:10 
+
+31:1 33:25 
+
+42:14 48:10 
+difficult 26:5 
+
+difficulty 53:9 
+
+55:23 
+
+62:10 
+
+58:7 
+
+direct 56:22 
+
+disagree 11:7 
+14:7,9 15:13 
+15:14 17:10 
+
+dissented 51:4 
+distinct 61:2 
+dividing 33:9 
+
+42:21 
+
+doctrine 55:3 
+doing 53:14 
+DONALD 2:3 
+
+3:6 30:1 
+door 31:24 
+draw 9:9,9 56:6 
+
+56:7 
+
+drawn 9:11 
+
+54:16 
+
+due 17:18 32:13 
+D.C 1:19 2:1,4 
+
+E 
+E 3:1 4:1,1 
+earlier 54:14 
+easy 13:17 57:9 
+eight 49:14 
+Either 32:18 
+
+45:1 
+
+elaboration 
+
+11:20 52:23 
+element 20:23 
+emissions 24:17 
+employees 38:13 
+encourage 15:17 
+
+encouraged 
+
+62:22 
+
+21:18 
+
+enforce 50:9 
+
+difference 28:22  dressed 13:5 
+
+enforced 22:24 
+
+57:24,25 
+
+enforcement 
+
+59:6 61:19
+ 
+
+exercising 18:12 
+
+61:11 
+
+22:14 
+
+39:12 
+
+expect 24:23 
+enforcing 46:12 
+expert 6:13,20 
+enormous 23:10  expertise 20:24 
+entire 60:2 
+entirely 48:4 
+entitled 5:22 
+14:23 15:12 
+17:3 18:7 19:2 
+57:15 
+
+explain 48:11 
+explained 23:11 
+
+23:22 24:19 
+express 37:1 
+extend 11:22 
+13:21 16:5 
+
+entity 55:20 
+entry 10:13 11:2  extended 62:8 
+extends 61:18 
+
+11:6,8 28:13 
+59:21 
+
+ESQ 2:1,3 3:3,6 
+
+extent 32:5,7 
+
+3:9 
+
+essence 22:12 
+establish 8:18
+ 
+
+9:1 13:19 49:1 
+established 42:2
+ 
+42:4 48:13,16 
+50:19
+ 
+
+establishing 
+
+23:15 
+
+ET 1:3,7,17 
+everybody 
+
+39:21 
+
+everybody's
+
+32:1 
+
+evidence 26:19 
+26:25 50:20 
+exactly 33:22 
+44:14 52:20 
+53:19 57:22 
+
+example 12:1,13 
+
+14:15 
+
+exception 28:20 
+excess 10:25 
+33:24 54:22 
+execute 47:18 
+executive 45:19 
+exempt 43:25 
+exercise 30:13 
+35:17 40:22 
+42:5 46:20 
+
+62:13 
+
+44:14 
+F
+
+facilities 62:18 
+fact 7:11 10:4 
+
+factors 6:19 
+
+56:14 
+
+39:16 
+
+failed 26:14 
+failure 22:16
+25:17 29:18
+52:3 
+
+fair 60:13 
+fairness 52:13 
+
+53:4
+
+fall 14:14 
+far 14:1,3 29:16 
+
+61:18 62:21 
+
+fast 60:8
+favor 24:11 
+
+34:21
+
+FCC 4:20 5:4 
+
+6:21 7:21 8:18 
+9:1,20 10:16 
+10:19 11:9,10
+12:3,25 13:9 
+13:16 14:18
+20:1,23 22:3 
+23:14 24:13,18
+24:23 25:2,20
+
+Alderson Reporting Company 
+
+following 12:23 
+21:5 25:6 46:1 
+force 4:22 9:25 
+13:1 18:9,11 
+19:3 22:4 
+28:12 30:12,21 
+35:16 40:21 
+42:3,11 54:11 
+60:25 
+
+foreclosed 37:7 
+forth 11:24 
+fortiori 51:9 
+found 29:3,4 
+
+57:5 
+
+founders 39:21 
+four 27:13 49:14 
+frame 4:18 
+framework 
+27:18 41:9 
+43:12 44:1 
+58:15 
+
+frequency 24:17 
+friend 31:12 
+
+33:9 42:5,12 
+49:20 54:16 
+62:16 
+
+31:19 37:25 
+39:1,9 47:16 
+47:20 50:3,13 
+50:13 51:18 
+53:13,23 54:2 
+63:5,8 
+
+FCC's 5:21 9:16 
+
+12:9 14:15 
+21:14 29:5 
+38:7 40:2 
+48:22 53:11 
+58:12 62:9 
+
+Federal 1:6,16 
+4:5 10:17,21 
+24:7 25:14 
+39:11 42:22 
+43:2,4 44:17 
+45:1,2,7,8,10 
+45:16,17,20 
+46:13,24 47:3
+ 
+47:4,19 51:11 
+51:12,13 55:25
+ 
+56:14 
+
+federalism 
+
+11:24 56:2,5 
+Federal/State 
+
+47:6 
+
+Fifth 5:3,20 
+
+59:24 
+
+Official 
+
+68 
+
+31:7 32:3,6,18 
+32:23,25 34:4 
+34:11,16,24 
+35:6,12 36:16 
+39:18,25 40:7 
+40:12,20,22 
+41:7,16,22 
+42:2,10,19 
+43:7,9,11,21 
+44:9,13,19 
+45:11,22 46:4 
+46:16,24 47:7 
+47:12,14 48:8 
+48:14 49:8,11 
+49:16,19 50:1 
+50:20,21 51:6 
+51:20,25 52:10 
+52:21 53:4,18 
+53:22 54:7 
+56:1,9 57:18 
+58:1,9,17,22 
+58:25 59:9 
+60:12 61:20,21 
+61:23 
+
+giving 13:8 24:3  good 10:20 
+
+62:7 
+
+given 10:20 
+
+17:18 28:5,11 
+28:24 31:13 
+53:23 63:2 
+
+gives 33:21,23 
+42:10 61:23 
+62:19 
+
+53:13 
+
+go 6:6,11,24 
+12:10 14:2 
+15:5 23:20 
+24:15,16,18 
+25:21,25 27:21 
+29:11,21 31:2 
+34:25 37:10 
+39:23 60:2,2 
+goes 10:23 14:1 
+
+33:17 
+
+going 7:25 9:10 
+
+11:7 15:14 
+21:22 22:1,23 
+23:18 37:11 
+38:15 44:5,25 
+45:9,10,11,14 
+50:25 52:15 
+54:7 
+
+Goldstein 2:1 
+
+28:1,4,10,18 
+29:1 33:10,14 
+33:23 36:19 
+59:10,11,15,19 
+60:6,21 61:12 
+62:3 
+
+Goldstein's 
+
+37:16 
+
+38:24 40:14 
+55:3 
+
+govern 55:20 
+governing 37:20 
+government 
+
+22:9,17 25:15 
+25:19 29:11 
+42:16 45:7,8 
+45:10 57:12,16 
+59:23
+ 
+
+governments 
+
+21:7,9,16
+ 
+
+grant 6:2 7:12 
+
+50:2 62:24 
+
+granted 5:17 8:5 
+
+12:24 
+
+granting 37:12 
+great 31:12 
+
+62:13 
+
+greater 48:25 
+guess 41:7,16,16 
+
+56:12 61:25 
+
+generally 18:24 
+25:2 30:11,20 
+35:15 
+
+Friendly 41:3 
+friends 40:17 
+41:25 52:13 
+53:5,25 56:11  Ginsburg 5:7,16 
+58:13 
+
+General's 62:12 
+generic 11:8 
+
+figure 6:21 
+figuring 9:18 
+final 22:16 
+finally 48:5 
+find 17:13 50:25  Fruit 16:1 18:21 
+fine 6:8 
+first 4:4 7:13,17 
+
+37:5,6,15,17 
+61:14 
+
+front 21:23 
+
+41:23 
+
+11:23 14:17 
+24:22 25:12 
+26:17 31:5 
+33:1 35:3 
+39:25 54:24 
+
+five 27:13 49:14 
+flesh 58:2 
+flows 51:9 
+focused 5:2 
+
+54:20 
+
+follow 7:17 
+
+further 52:22 
+
+59:7 
+
+G 
+
+G 4:1 
+general 2:3 
+
+13:20 15:17,24 
+16:2,7 18:24 
+21:14 24:22,24 
+29:25 30:3,16 
+30:16,24 31:5 
+
+6:13 7:15,23 
+9:20 20:1 21:4 
+21:13,25 22:12 
+22:19,23 23:1 
+23:4 24:20 
+25:16,18 26:12 
+26:21 27:4 
+29:10 52:4,11 
+52:23 
+
+give 12:18 14:2 
+15:14 16:13 
+19:9,10,12,16 
+19:17,23 20:11 
+31:19 36:24,24 
+38:22 43:2 
+44:13 46:11,11 
+52:1 61:9 62:4 
+
+happened 16:20
+
+23:12 
+
+gun 7:14 
+H
+
+3:3,9 4:7,8,10 
+5:7,16 6:1,22 
+7:2,8,23 8:9,13  guide 23:7 
+8:20,23 9:4 
+10:12,15 11:5 
+11:25 12:22 
+13:6,12,17 
+14:4,7,19 
+15:13 16:16,18 
+17:4,9,19,22 
+17:25 18:19 
+19:11,19 20:6 
+20:9,17,21 
+21:4,12,17 
+22:22 23:3,9 
+24:1,10 25:18 
+26:1,6,10,16 
+27:7,9,20,22 
+
+59:15
+
+37:5
+
+hearing 13:4 
+held 12:4 24:5 
+
+help 9:7 14:21 
+helpful 18:22
+
+happy 8:3 
+hard 54:8 
+hear 4:3 6:5 7:9 
+heard 51:14 
+
+Alderson Reporting Company 
+
+Official 
+
+69 
+
+40:10 
+
+interesting 45:6  Jaffe 39:20 40:6 
+interfere 39:4 
+Internal 40:16 
+interpret 4:20 
+5:6 7:22 9:25 
+13:1 28:11 
+31:1 46:21 
+47:15 51:18 
+60:25 62:5 
+
+January 1:20 
+job 53:14,14 
+JR 2:3 3:6 30:1 
+Judge 41:3 
+judges 14:17 
+
+judgment 40:2 
+
+47:4 
+
+interpretation 
+
+56:24 
+
+helpfully 4:17 
+hey 19:14 
+historic 44:16 
+history 24:13 
+holding 13:24 
+honest 9:23 
+honestly 15:14 
+Honor 40:8 
+Honor's 32:8 
+
+40:4 
+
+hope 6:11,11 7:3 
+horror 59:16 
+Hospital 15:19 
+
+34:10 
+
+House 23:13 
+
+63:6 
+
+hundreds 38:13 
+hurdle 40:20 
+hurry 8:4 
+hypothetical 
+
+32:8 
+
+I 
+
+idea 27:24 45:15 
+
+59:22 
+
+identified 32:6 
+identifies 26:12 
+identifying 
+
+29:13 62:10 
+ii 53:18 54:3 
+III 44:17 
+illustration 62:8 
+
+62:14 
+
+IMLA 33:15,21 
+
+54:20 60:9 
+
+IMLA's 60:16 
+
+62:2 
+
+implement 9:21 
+
+14:18 22:4 
+24:23 34:4,5 
+37:18 40:21 
+47:16 48:15 
+50:14 54:2,10 
+57:6 
+
+implementation 
+
+5:15 10:22 
+
+implementing 
+
+50:8 53:11 
+57:4 
+
+implicitly 61:17 
+implies 49:2 
+imply 50:24 
+important 6:15 
+
+impose 46:10 
+
+56:3 
+
+56:21 
+
+imposed 56:22 
+impossible 28:6 
+include 43:15,16 
+
+43:20 
+
+included 62:23 
+includes 6:15 
+
+including 37:19 
+
+22:7 
+
+60:22 
+
+12:2 
+
+50:5 
+
+incontestable 
+
+incumbents 
+
+indicated 53:6 
+infer 48:22 
+inference 53:6,7 
+inferences 54:8 
+initial 14:22 
+
+40:19 
+
+innumerable 
+
+24:2 
+
+inquiry 60:5 
+
+61:2 62:1,2,10 
+instance 54:24 
+
+54:25 
+
+instances 50:6 
+instructed 23:14 
+instrumentality 
+
+22:17 45:1 
+intend 9:19 
+13:20 22:3 
+intended 6:4 
+
+25:10 44:11,13 
+50:21 
+
+intent 15:8 
+
+23:22 50:24 
+interest 57:7 
+interested 38:21 
+
+it'd 37:3 
+J 
+
+Alderson Reporting Company 
+
+12:15 13:3,7 
+13:13,23 14:4 
+14:5,19 15:13 
+16:12,17,18,22 
+17:4,6,9,16,20 
+17:22,23 18:1 
+18:4 19:6,7,12 
+19:19,25 20:1 
+20:3,7,10,14 
+20:19,22 21:4 
+21:13,18,25 
+22:12,19,23 
+23:1,4,24 24:2 
+24:10,20 25:16 
+25:18,24 26:3 
+26:7,10,11,12 
+26:16,21 27:2 
+27:4,8,10,19 
+27:20,23 28:2 
+28:5,15,19 
+29:9,10,24 
+30:3,14,22 
+31:8,9 32:4,15 
+32:19,24 33:6 
+34:24 35:9,13 
+36:14 38:9,10 
+39:19 40:5,9 
+40:24 41:11,11 
+41:17,19 42:9 
+42:12,20 43:8 
+43:18 44:7,11 
+44:15,21,23
+45:13,14 46:3 
+46:7,13,17,22
+47:2,10,13,24
+47:25 48:9 
+49:7,9,12,13
+49:17,25 50:16 
+51:4,8,21,23
+52:4,10,16,23
+53:1,5,16,20
+55:12 56:2,4 
+57:8,20,22
+58:5,10,17,23
+59:1,9,13 60:6 
+61:6,13,25 
+63:12 
+
+35:16 36:3 
+37:8 38:7 
+39:16 40:15 
+55:11 
+
+interpreted 
+51:25 55:8 
+interpreting 
+31:4 61:8 
+interpretive 
+4:24 16:10 
+33:11 54:17 
+60:16 
+
+interprets 7:18 
+interrupt 43:19 
+intrastate 36:25 
+intrude 44:12 
+invalidate 50:10 
+involve 56:14 
+involved 11:17 
+
+16:9 
+
+involving 29:7 
+Iowa 4:24 9:14 
+
+9:15 34:23 
+47:9 51:3 
+
+issue 13:25 19:1 
+
+19:2 20:4 
+25:22 32:13,17 
+33:10,11 35:23 
+36:3,8,10 37:7 
+41:23,23 42:4 
+43:25 45:3 
+47:3,5,6 50:22 
+51:16 62:20 
+63:2 
+
+judgments 57:3 
+judicial 9:17 
+24:4 37:22 
+58:7 
+
+judicially 26:22 
+judiciary 45:16 
+jump 7:14 
+jurisdiction 
+4:13,24,25 
+8:11,12,16,18 
+9:13,15,17 
+10:17,21 11:1 
+11:15,21 12:16 
+12:21 13:5,15 
+17:12 19:9,18 
+20:8,11 21:2 
+26:9 28:8 
+29:20 30:9 
+31:22,23,25 
+33:4,15 36:4 
+36:25 
+
+jurisdictional 
+
+4:23 8:22 9:3,5 
+9:5 10:6,7 11:2 
+13:18 16:14 
+28:7 33:10,18 
+48:18 50:12 
+53:12 54:19 
+55:15,21 56:7 
+Justice 2:4 4:3 
+4:10 5:7,16,24 
+6:2,10,13,23 
+7:2,4,15,23,24 
+8:6,10,15,21 
+8:25 9:7,20 
+10:3,13,16 
+11:5,12,16 
+
+Official 
+
+line 9:9 33:9 
+42:21 54:16 
+56:7 
+
+lines 9:19 
+listen 19:15 
+
+M 
+
+maintain 39:8
+majority 18:6
+
+51:9
+
+making 8:1 49:6 
+
+59:22 
+
+maps 38:6
+margin 55:22
+
+20:15 
+listening 10:19  malleable 9:10
+literature 28:22  map 37:14,24
+little 11:23 
+36:17 39:14 
+local 21:7,9,15  matter 1:22 15:9 
+22:5,9,17 
+15:9,10 18:17 
+25:13 27:17,17 
+21:1 22:10
+27:17 42:16 
+32:21 44:24
+46:1 57:1,11 
+52:12 55:9
+57:16 
+58:11,11 59:6 
+63:15
+
+localities 25:14 
+locality 25:5,6  Mayo 30:19
+27:1 29:19 
+located 22:13 
+locked 55:11 
+loggerheads 
+
+Meade 16:6,25
+17:17,23 18:4 
+18:5,6,22
+30:17 41:1
+61:12 
+60:22,23
+long 25:3 27:14  mean 6:8,10
+33:2 
+7:16 8:11,13
+look 8:10 21:20 
+8:13 11:2
+14:21 31:25
+39:19,20 40:24 
+45:5 55:12
+
+38:21 39:1 
+53:10 
+
+46:15 59:18 
+
+law 4:22,25 10:1 
+
+13:1 18:9,11 
+19:3 21:1 22:4 
+28:12 30:12,21 
+35:16 39:21 
+40:21 41:10 
+42:3,11 51:12 
+51:13 54:11 
+55:4 58:15 
+60:25 62:6,18 
+lawmaking 15:2 
+
+15:3,3 16:9 
+
+lawyer's 62:15 
+
+law-making 
+
+62:20 
+
+12:19 
+
+layer 42:1,6 
+lead 47:22 
+leaving 38:3 
+left 44:25 
+legal 8:4 
+letters 18:8 
+letting 31:19 
+let's 30:23 34:25 
+
+level 14:20,20 
+
+38:19 
+
+23:2 
+
+lies 4:19 
+limit 10:11 11:6 
+
+13:11 22:8 
+31:17,20 46:5 
+57:11 
+
+looked 15:22 
+16:4,8 28:16 
+29:2 48:19 
+52:5 59:5,21 
+
+meaning 31:23
+
+37:6 52:1
+
+means 4:13 8:11 
+
+57:21 
+
+limitation 39:6 
+
+limitations 21:9 
+
+looking 9:17 
+23:25 26:13 
+48:12 50:19 
+lot 4:13,14,14 
+8:11 27:23 
+39:8 
+
+11:20 13:8
+20:15 52:20
+55:14 56:19 
+member 40:10
+21:10 45:24 
+mentioned
+46:1 52:6,6 
+11:16 36:15
+56:21,23 57:2  Louis 39:20 40:6  merits 21:18
+57:15 
+limited 4:22 
+7:12 12:9 
+
+40:10 
+Louisiana 12:5  Migratory 44:3
+12:13 15:21 
+millions 38:13
+18:20 36:16,21 
+61:13 
+
+62:11,22
+
+38:14 
+
+Minus 6:7
+lower 16:23 
+minutes 59:10
+27:25 28:9,10  moment 40:25
+morning 4:4 
+
+limits 8:19 9:1 
+21:15 36:22 
+44:3 45:17 
+46:9,9,12 50:9 
+57:23 
+
+70 
+
+30:7
+
+motor 37:20
+move 8:3 43:9 
+moved 48:17
+moves 36:1
+
+N
+
+N 3:1,1 4:1 
+narrow 4:16
+
+11:10
+
+national 24:24
+
+39:2 57:7
+
+neat 33:9
+necessarily
+
+19:16 38:16
+49:2 50:24
+needed 5:12
+
+34:13
+
+needless 54:12
+neither 25:22
+NEW 1:13
+nightmare
+
+38:16
+
+nine 49:14
+NLRB 34:11,14
+NLRB's 34:16
+non 16:24
+non-jurisdicti... 
+
+19:13
+
+normal 35:21
+
+43:13,14,18,19
+53:12 56:16
+
+novo 10:2 15:22 
+
+21:20 28:11
+35:5,11,14,19
+35:21 42:6
+47:1 48:4,16
+54:9,23,25
+55:6,7,9 59:21 
+62:25
+
+number 10:4
+numbers 34:8
+
+O
+O 3:1 4:1 
+obscure 26:15
+obviously 8:3
+
+justify 54:23,24 
+
+K 
+
+Kagan 14:19 
+15:13 17:23 
+18:4 60:6 61:6 
+61:13,25 
+
+Kennedy 11:12 
+17:16,20 18:1 
+19:7,25 20:3,7 
+20:10 25:24 
+26:3,7,10,11 
+26:17 27:2,8 
+27:10 29:9 
+30:14 44:15,21 
+46:13 59:13 
+
+Kennedy's 
+
+27:19 
+
+key 45:23 
+kicks 35:20 
+kind 9:4,13 13:5 
+
+18:14 19:10 
+24:25 38:22 
+39:12 54:18 
+62:19 
+
+kinds 6:14 38:14 
+know 5:11 6:18 
+
+15:6 16:23 
+19:14,20 23:24 
+24:4 25:16,17 
+25:21,24 26:13 
+26:14 29:11 
+31:3 38:18 
+42:21 45:5 
+52:20 60:10 
+
+L 
+
+Labor 16:2 
+
+37:17 
+
+lack 42:15 
+lacked 54:10 
+language 30:17 
+
+36:6 52:1 
+late 29:18 
+Laughter 6:9 
+
+7:1,7 8:8 18:3 
+40:11 41:21 
+
+Alderson Reporting Company 
+
+Official 
+
+71 
+
+outside 12:20 
+overclaiming 
+
+persist 31:11 
+person 22:15 
+
+19:22 42:21 
+63:3 
+
+odd 11:23 
+offensive 22:2 
+offices 38:11 
+oh 19:15 31:24 
+
+56:6 
+
+okay 5:25 6:22 
+8:9,21,25 9:12 
+11:5,25 18:19 
+21:12 23:25 
+26:16 32:24 
+47:13,24 48:5 
+49:25 53:20 
+57:12 
+
+once 32:5 33:25 
+
+34:2 35:19 
+40:19 50:19 
+54:6 55:8 56:6 
+61:2 
+
+operate 62:18 
+operates 14:9 
+opinion 9:14 
+18:8 19:24 
+30:18 38:16 
+48:1,2,10,13 
+48:24 49:24 
+50:18 
+
+opinions 9:23 
+10:5 19:22 
+20:16,20 45:3 
+
+opportunity 
+
+27:15 
+
+oral 1:22 3:2,5 
+
+4:8 30:1 
+order 62:9 
+ordered 63:8 
+ordinary 25:6 
+organic 14:25 
+
+15:1 61:8 
+
+ORLEANS 1:13 
+ossification 55:9 
+ought 34:15,20 
+47:15,22 48:22 
+52:12 58:12 
+
+outer 36:22 44:3 
+
+46:5 
+
+16:19 
+P
+
+P 4:1
+page 3:2 23:12 
+37:8 49:4,24
+
+pages 21:22
+
+27:13 48:12
+49:14
+
+Pandora's 33:8
+
+54:14
+
+paragraph 22:7
+
+49:22 53:24
+57:10,13,14
+
+part 19:24 29:12 
+
+39:3 49:9
+50:24
+
+particular 10:22
+
+17:2 18:17
+23:7 28:12
+32:11 33:15
+34:6 42:8,14
+44:22 47:16
+50:22 54:10
+56:13 61:22
+particularly
+16:20 24:11
+31:13
+
+parties 4:15
+parts 11:13,15
+
+24:12 39:8
+
+pass 28:19
+passage 27:11
+pay 63:1
+people 4:14
+
+31:23 51:14
+52:17 56:7
+period 22:24
+
+23:16 24:15,21
+24:24 25:4
+26:18 27:12
+57:17 58:18
+63:10
+
+permissible 33:3
+
+36:5 59:2
+
+Alderson Reporting Company 
+
+persuasiveness 
+
+pertinent 43:6,8 
+
+24:7 
+
+19:23 
+
+43:11 
+
+23:12 
+
+30:6 
+
+petition 21:23 
+
+Petitioner 1:14 
+
+Petitioners 1:4 
+2:2 3:4,10 4:9 
+48:9 59:12 
+
+post 6:17 
+posts 6:18 
+power 5:11,12 
+6:5 9:21,24 
+12:9 14:18 
+15:2,4,25 
+18:11,12 19:2 
+22:14 28:11,17 
+45:17 47:19 
+61:23 62:5 
+63:9 
+
+powerful 19:21 
+powers 45:6 
+
+47:5 
+
+phrase 7:17,19 
+
+practical 23:2 
+22:20,24 26:24  practice 34:8 
+49:1,22 52:7 
+phrased 13:10 
+phrases 26:18 
+picked 17:10 
+place 11:6,7 
+
+precondition 
+
+precise 52:2 
+
+precedents 
+
+53:13 
+
+14:11 
+
+40:13,14 48:2 
+
+60:23 
+
+preemption 
+
+plain 37:6 
+plainly 12:12 
+play 42:17 
+please 4:11 30:4  premise 20:5 
+present 50:10 
+plus 11:14 
+presented 5:8 
+point 6:10,24 
+7:13,16 8:2 
+7:25 11:6,8 
+22:23 24:11,11 
+18:4 27:21 
+34:25 35:8,13 
+24:14 26:12,15 
+28:13 29:10 
+60:9 62:14,24 
+30:5 32:1,5,9 
+34:7 39:15 
+43:17 45:12 
+59:21 
+
+preservation 
+
+22:5 43:1 
+
+pointed 50:23 
+pointing 26:21 
+points 21:21 
+
+22:2 39:4,25 
+52:14 53:9 
+54:3 
+
+position 32:14 
+
+preserves 21:7 
+presumption 
+25:1 43:16 
+58:20 
+
+pretty 37:3 40:1 
+principled 54:16 
+private 16:4 
+
+37:22 
+
+problem 29:14 
+
+33:1,22,23 
+35:2,6,7 37:16  problems 11:24 
+58:13 
+
+52:15 
+
+54:4 
+
+possession 24:8 
+
+process 48:23 
+
+53:8 55:10 
+60:2 
+
+produce 50:7 
+professors 4:25 
+promiscuous
+
+50:3 
+
+promulgated
+
+proper 5:15 
+
+30:13 
+
+52:19 
+
+proponent 40:8 
+proposal 10:11 
+proposing 40:18 
+proposition
+
+propositions
+
+13:19 
+
+45:21 
+
+protection 16:3 
+
+37:19 44:21 
+prove 17:2,8,8
+provide 15:1 
+
+24:4 38:1 41:9 
+
+provided 22:6 
+
+9:25 10:22 
+11:11 12:8,18
+12:20 13:14 
+14:14 15:7,7
+15:22,22 16:9 
+16:21,21 18:15 
+18:15 21:8,15 
+21:22 23:18,18 
+24:16 26:4 
+28:12 30:15,24
+31:4 32:11,16
+32:17,20 34:6 
+34:12 36:3 
+37:7 38:1,2
+39:3,7 42:8,14 
+42:25 45:24 
+48:19 53:10,12
+54:3,10 55:17 
+60:15 61:4,22
+62:5 
+
+provisions 5:13 
+
+43:16 
+
+53:24 57:10,12
+preemptive 57:6  provider 29:16 
+provision 5:14 
+
+Official 
+
+72 
+
+9:21 12:12 
+13:18 37:18,20 
+38:5 48:15 
+50:22,23 
+PSC 12:13 
+public 12:5 
+
+42:23 48:18 
+54:17,18,19 
+
+question-begg... 
+
+61:18 
+
+quick 22:2 
+quickly 4:12 
+
+15:21 18:20 
+36:16,21 47:17  quite 24:19 
+61:13 
+
+23:23 
+
+pushed 44:3 
+put 6:25 25:19 
+
+Q 
+
+27:12 28:21 
+44:16 51:3 
+55:18 
+
+quoting 20:18 
+
+53:1 54:2 
+55:14,16,24 
+57:17 58:18 
+59:3 63:10 
+
+29:6 
+
+50:8 
+
+resolved 34:20 
+
+resolving 4:16 
+
+25:6 
+
+58:19 
+
+reasonably 36:6 
+reasoning 37:15  respect 12:20 
+reasons 37:14 
+14:10 16:10 
+rebuttable 
+17:17 19:23 
+22:9 28:20 
+32:10 34:6,17 
+37:10,25 39:15 
+41:22,23 44:22 
+47:8,21 52:24 
+60:7,17 
+
+record 26:20,25 
+
+recognize 11:23 
+
+REBUTTAL 
+
+3:8 59:11 
+
+20:24 
+
+rehearsed 9:22  Respondents 
+rejected 17:11 
+2:5 3:7 30:2 
+response 19:7 
+
+34:18 63:6 
+
+question 4:23,23 
+
+R
+
+29:6 
+
+59:5 
+
+28:19 
+
+26:12 
+
+real 4:18 8:12 
+
+reading 11:18 
+
+read 22:22 23:5 
+
+R 4:1 
+radio 24:17 
+raised 29:10 
+raises 60:13 
+
+23:23 26:23 
+27:5,15,23 
+31:14,16 48:10 
+50:2,6 57:9 
+62:21 
+
+rejecting 47:25 
+related 24:17 
+relating 27:11 
+relation 6:16 
+relations 47:6 
+relationship 
+
+5:4,17,18,19 
+6:3,12,16 7:13 
+referred 36:19 
+7:14,16,25 8:2 
+regarded 29:19 
+8:4,22 9:5,6,8 
+regret 59:16 
+9:24 10:2,6,7,8  rates 42:24 49:1  regulations 
+10:14,24 11:3 
+11:8,10 12:1 
+12:24 13:18 
+14:6,17,22,24 
+15:23 16:15,24 
+17:1 18:6,10 
+18:13,15 20:7 
+20:12,24 21:19 
+21:20 22:1 
+23:10,20 26:8 
+27:3,18,21 
+28:13,13 30:12 
+32:12 33:11,16 
+33:18 34:25 
+35:8,13,14,22 
+38:21 42:7 
+43:21 44:24 
+45:6,7,12 
+46:18,19 48:3 
+55:16 57:23 
+58:1 59:21 
+60:10,12,13,19 
+60:19 61:7,7 
+61:24 62:4,6,9 
+62:14,17,19,23 
+62:23 
+
+remaining 59:10 
+remedies 37:22 
+remedy 38:3 
+removed 21:14 
+reasonable 7:18 
+repeated 34:8 
+7:19,22 11:18 
+replace 41:12 
+21:11 22:20,24  report 23:11 
+23:8,16 24:15 
+26:24 27:13 
+24:21,24 25:4 
+request 57:16 
+26:18 27:6,12 
+required 55:6,8 
+37:25 39:10 
+requiring 34:16 
+42:25,25 46:21  reserve 29:23 
+51:17 52:1,8 
+52:17,19 53:1 
+
+really 7:16 19:7 
+33:8 47:8 51:2 
+55:2 56:13 
+
+13:4 17:11 
+18:22 29:14 
+33:6,21,22 
+40:14 54:13 
+
+rely 13:18 
+remainder 
+
+reason 6:3 13:4 
+
+resolve 20:13 
+
+29:23 
+
+63:9 
+
+29:3 
+
+questions 8:1 
+24:16 36:13 
+
+respected 46:2 
+respectfully 
+14:10 19:16 
+34:2 
+
+Respondent 
+
+54:19 
+
+45:12 
+
+responsibility 
+44:16 47:18 
+
+responsible 
+
+45:18 
+
+restrict 37:22 
+restricted 56:18 
+result 41:5 
+Revenue 40:16 
+review 24:4 30:8 
+35:5,11,14,19 
+35:21 42:7 
+47:1,20 52:13 
+54:9,24,25 
+55:6,7,9 58:7 
+59:6 62:25 
+
+right 5:22,24 8:2 
+
+8:12 13:3 
+14:20 15:15 
+16:4 19:15 
+20:16 21:17 
+26:11 30:22 
+32:22 34:24 
+35:9 38:7 42:9 
+
+45:1 51:8,19 
+52:20 53:4,18 
+57:23,25 
+rights 50:3 
+road 52:15 
+ROBERTS 4:3 
+12:15 13:3,7 
+13:13 29:24 
+30:22 31:9 
+32:15,19,24 
+42:9,12,20 
+43:18 44:7,11
+45:14 46:3,7
+47:10,13,25
+49:7,9,13,17
+49:25 53:16,20
+55:12 56:4 
+57:22 58:5 
+59:9 63:12 
+
+role 42:17 
+routinely 36:12 
+rule 5:9 13:25 
+14:1 30:12 
+38:2,24 41:12 
+42:4 43:15,20
+44:3,5 45:2,4 
+50:11 52:12 
+56:20 58:12 
+
+rules 5:12 11:23 
+
+15:10 18:11 
+30:11,21 39:9 
+42:3 43:19 
+47:16,19 50:15 
+
+rule-making
+
+5:11,15 11:14 
+13:20,25 15:25 
+16:2 21:14 
+23:14,15,21,21
+24:3,8,14
+34:12 39:13 
+54:7 61:10 
+63:8 
+
+rule-makings
+
+19:1 
+
+rulings 16:10 
+
+19:3 
+
+run 37:2 
+
+Alderson Reporting Company 
+
+Official 
+
+73 
+
+running 16:23 
+
+60:8 
+
+S 
+S 3:1 4:1 
+safeguarding 
+
+44:17 
+
+safety 37:20 
+satisfied 32:6 
+35:19 54:6 
+saying 28:6 
+31:13 32:2 
+34:18 45:19 
+49:3 55:13 
+
+says 19:14 21:9 
+
+22:6 23:19 
+24:15 25:19 
+30:25 31:3,17 
+32:16,20 38:19 
+39:4 45:2 
+48:24 49:4 
+55:14 57:15 
+60:14 
+
+50:17 
+
+sections 12:6 
+15:23 36:19 
+see 6:3 27:16 
+33:13 45:7 
+59:24 
+
+Senate 23:17 
+sense 12:21 
+
+20:16,20,21 
+23:4,10 25:10 
+52:23 59:23 
+61:15 
+
+sentence 14:12 
+
+26:23 50:1 
+
+separate 62:10 
+separation 45:6 
+
+47:5 
+
+34:3 38:23 
+44:6 45:24 
+51:21 52:3 
+56:12 
+
+situations 54:21 
+six 39:7 49:14 
+Skidmore 19:11 
+19:12,20 20:15 
+
+skipping 22:20 
+Smiley 57:7 
+Solicitor 2:3 
+15:17 62:12 
+
+Solid 43:23 
+somewhat 11:9 
+
+38:18 
+
+Service 12:5 
+15:21 16:7 
+18:21 36:16,21  Sotomayor 
+61:13 
+
+set 18:14 23:15 
+
+42:13 
+
+Scalia 8:6,10,15 
+
+40:25 
+
+seven 39:7 49:14 
+short 10:20 
+show 15:15 
+
+side 31:13 40:18 
+41:25 42:6,13 
+52:14 53:25 
+56:11 58:13 
+
+8:21,25 9:7 
+10:3,13,16 
+11:5,16 13:23 
+14:4,5 16:12 
+16:17,18,22 
+17:4,6,9 19:6 
+19:12,19 20:14 
+20:19,22 23:24  significant 
+24:2,10 40:9 
+41:11,17 44:23  silliness 59:17 
+46:17,22 47:2 
+52:16 57:8,20 
+58:10 
+
+similar 27:11 
+
+42:22 
+
+60:7 
+
+49:5 
+
+Schor 34:22,22 
+scope 12:9 33:25 
+
+57:6 
+
+second 40:3 
+
+54:25 
+
+Secretary 16:2 
+Section 4:21 
+12:10 13:20 
+22:8 31:3 48:1 
+48:4,12,14 
+
+simple 14:13 
+15:10 39:20 
+
+simply 13:7 
+16:25 24:9 
+31:25 61:14 
+
+single 61:1 
+sit 29:9 
+siting 25:7,13,13 
+
+62:18 
+
+situation 33:8 
+
+27:17 
+
+start 30:5 
+started 14:11 
+
+28:5 
+
+starts 50:2 
+State 21:15 22:9 
+
+11:11 21:21 
+24:13 29:7 
+34:12 35:22 
+37:7 38:8 
+43:14,14,19
+54:22 60:15 
+62:5 
+
+22:17 25:12 
+29:18 31:17,20  step 5:1 6:7,7 
+8:15 15:5,5
+42:16,21 43:1 
+20:12 26:8 
+43:5 44:12 
+45:17,19 47:17 
+28:23,23 35:20 
+36:1 37:4,9,11
+48:20 50:3,13 
+43:13 44:2,19
+52:7,7,8 55:19 
+54:4 58:24 
+55:25 56:14,23 
+57:1,11,15 
+59:1 60:4 
+steps 35:7 
+straightforward
+
+sorry 17:24 38:9  statement 24:7 
+43:15,20 44:5 
+44:8 56:20 
+States 1:1,23 
+
+41:20 43:18 
+47:10 
+
+sort 15:7 17:20 
+
+8:19 9:2 13:11 
+39:5 44:25 
+45:8 46:19 
+47:22 
+
+sounds 11:18 
+spare 40:25 
+speaks 13:10 
+special 15:8 
+specific 11:19 
+16:8 17:10 
+30:14 31:5 
+39:3,7 43:23 
+45:12 48:18 
+
+27:20,23 28:2 
+28:5,15,19 
+34:24 35:9,13 
+36:14 58:17,23  stating 33:21,23 
+statute 6:12,13 
+59:1 
+6:14 8:17,25 
+9:18 11:13 
+12:2,8 14:18 
+14:25 15:1 
+16:3,8 17:14 
+20:25 21:25 
+22:4,12,14 
+24:5 25:11 
+26:4,13 29:3 
+30:24 31:18 
+32:7,9 33:3 
+34:20 37:23 
+38:1 39:13 
+40:21 48:20 
+50:8 51:17 
+55:8,14 59:3 
+60:25 61:9,9 
+62:21,25 63:3 
+63:4 
+
+specifics 43:10 
+spoken 35:3,23 
+45:25 56:17 
+squarely 12:4 
+stabilize 55:4 
+stable 41:9 
+standard 24:25 
+
+specifically 16:4 
+
+37:6 
+
+52:13 53:13 
+58:3,6 
+
+standards 23:15 
+
+25:6 26:22 
+
+statutes 11:12 
+
+24:3 
+
+statutory 9:25 
+
+37:4 
+
+straightjacket
+
+38:25 39:22,24
+
+struck 58:23 
+stuff 39:5 
+subdivisions 
+
+26:20 
+
+subject 11:13 
+15:9,9,10,24
+18:17 22:10 
+35:4,10 57:2 
+
+submit 32:8 
+
+34:2,23 55:1 
+
+submitted 63:13 
+
+subparagraph
+
+63:15 
+
+26:20 
+
+subsection 15:7 
+15:8 18:15,16
+22:6,11,13
+24:14 56:22 
+57:15 
+
+subsequently
+
+58:3 
+
+subsidiary
+
+32:22 
+
+substance 33:5 
+
+33:12 48:7 
+substantial 
+26:19,24 
+
+Alderson Reporting Company 
+
+Official 
+
+74 
+
+told 8:10 24:13 
+tools 35:21 
+43:13,14 
+totally 38:6 
+tradition 44:16 
+treat 42:14 
+tried 33:14 
+true 14:21 33:4 
+
+56:10 
+
+understanding 
+
+12:16 
+
+understands 
+
+20:1 
+
+understood 
+
+28:21 34:15 
+
+undertook 9:17 
+unelected 45:18 
+46:10,13 47:3 
+47:4 51:11 
+
+truth 44:24 
+uniformly 36:12 
+try 43:22 
+United 1:1,23 
+trying 20:12 
+tune 45:9 
+units 34:13,17 
+turn 7:24 21:19  unravel 58:14 
+
+23:9 38:15 
+49:23 62:11 
+turning 40:15 
+two 13:18 15:5 
+18:19 21:21 
+24:9,12,20 
+26:16 36:2 
+37:11 39:25 
+49:13 59:1 
+
+U
+
+ultra 10:25
+unambiguous
+
+unambiguously
+
+17:14
+
+45:25
+
+unanimous
+
+30:18
+
+uncertain 53:2
+uncertainty
+
+uncontestable 
+
+54:1 
+
+14:13 
+
+unravelled 55:2 
+
+59:14 
+
+unreasonable 
+
+55:16,24 
+upheld 36:7 
+52:12 58:12 
+uphold 40:2 
+
+58:21 
+
+urge 58:16 
+urged 18:25 
+uses 39:10 52:7 
+usual 46:21 
+usually 14:23 
+
+55:19 
+
+Utilities 4:24 
+
+9:14,16 34:23 
+47:9 51:3 
+utility 47:17 
+U.S 37:8 38:12 
+
+V
+
+v 1:5,15 4:5 
+34:22 47:11
+53:7
+
+uncontested 
+
+vague 52:19
+values 56:2,5
+underlying 4:25  variable 45:23
+
+12:2 
+
+9:15,16 
+
+vast 46:11
+
+understand 14:8  vastly 45:20
+vehicle 37:20
+vel 16:24
+Verrilli 2:3 3:6 
+29:25 30:1,3
+
+21:13 26:5 
+31:10 40:3,7 
+44:23 48:8 
+51:21 
+
+substantive 6:15 
+
+32:17 36:4 
+37:18,20 38:2 
+38:5 53:12 
+54:18,19 58:3 
+such-and-such 
+
+24:5 
+
+sudden 31:2 
+sue 24:7 
+sufficient 54:23 
+
+54:24 
+
+suggest 6:20 
+suggested 20:1 
+
+46:4 49:20 
+54:13 
+
+suggesting 
+
+40:19 52:15 
+suggests 42:6 
+support 29:21 
+supports 37:15 
+suppose 5:24 
+23:24 26:4 
+38:20 53:6 
+
+supposed 39:9 
+Supreme 1:1,23 
+
+41:4 
+
+sure 11:16 27:22 
+
+32:3 41:14 
+
+surprised 19:7 
+surround 59:25 
+susceptible 
+
+52:22 
+
+suspect 9:11 
+
+T 
+
+T 3:1,1 
+table 6:25 
+take 17:23 19:5 
+
+29:20 
+
+taken 30:17 
+takes 25:3 58:11 
+talk 7:3,4,5,9,9 
+10:10 15:19 
+28:6 43:9 
+
+talking 9:8,13 
+
+21:8 33:24 
+51:15 52:17 
+
+53:16 55:19 
+56:5,5 
+
+talks 55:18 
+task 9:17 48:25 
+tax 38:15 
+technical 62:17 
+TECHNOLO... 
+
+TELECOMM... 
+
+1:12 
+
+1:11 
+
+television 6:17 
+tell 16:18 17:4 
+26:17 27:25 
+28:8,9 35:9 
+44:24 52:4 
+53:2 
+
+tenor 50:18 
+term 7:22 30:18 
+
+30:19 
+
+terms 43:1 
+test 28:8 
+tests 28:3 
+Texas 1:3 4:5 
+text 23:25 
+thank 4:10 
+
+29:24 59:8,9 
+63:11,12 
+
+theories 4:16 
+theory 9:19 
+thereof 22:18 
+
+42:16 
+
+thing 4:17 15:5 
+
+19:4 22:23 
+32:2 
+
+things 4:14 7:9 
+8:11,16 16:25 
+26:16 31:14 
+
+think 4:18 8:2,7 
+
+10:3,4 13:2 
+15:15 16:17 
+18:5,16 19:14 
+20:14,22 21:20 
+25:2,4 27:16 
+30:6,16 31:23 
+32:4 33:7,7,8 
+33:13 36:8,9 
+36:10,11,13,17 
+
+37:11,14 38:7 
+39:23 40:1,12 
+40:13,14,17,17 
+40:24 41:8,24 
+41:24 46:17,17 
+46:22 47:3,7,8 
+48:15,25 49:6 
+49:20,23 51:2 
+51:5,10,15 
+52:14,18,18,21 
+53:9,21,22,25 
+54:3,12,13,14 
+54:15 56:1,2,3 
+56:9,10 58:1 
+58:10,12,22 
+60:7,13 63:1 
+thinking 31:11 
+thinks 15:18 
+third 19:4 45:22 
+THOMAS 2:1 
+
+3:3,9 4:8 59:11 
+
+thought 51:16 
+
+52:16 
+
+38:13 
+
+threaten 58:14 
+three 15:14,20 
+17:7,10,11,17 
+18:20 36:14 
+49:13 
+
+threshold 4:23 
+
+18:10,13 28:13 
+32:6 61:7,7 
+62:4,20
+
+thrown 29:17 
+thumb 38:24 
+time 7:18,22
+
+8:18 9:1 11:18 
+21:11 22:21,24
+23:5,8,16
+24:15,21,24
+25:5 26:18 
+27:6,12 29:23 
+37:25 52:1,9
+54:3 57:17 
+60:22 63:10 
+
+today 4:22 12:17 
+
+Alderson Reporting Company 
+
+thousands 38:12 
+
+type 13:14 
+
+75 
+
+30:16 31:7 
+32:3,18,23,25 
+35:6,12 36:16 
+39:18,25 40:7 
+40:12 41:7,16 
+41:22 42:10,19 
+43:7,21 44:9 
+44:13,19 45:11 
+45:22 46:4,16 
+46:24 47:7,12 
+47:14 48:8 
+49:8,11,16,19 
+50:1 51:6,20 
+51:25 52:10,21 
+53:4,18,22 
+56:1,9 57:8,18 
+58:1,9,22,25 
+60:12 
+
+version 23:13 
+
+63:4,6,8 
+
+vested 30:20 
+view 19:2 21:2 
+41:8 43:2,22 
+51:7 52:10 
+55:20 58:11 
+violation 26:2 
+29:15,20 38:4 
+
+vires 10:25 
+vision 14:8 
+visions 24:21 
+vis-a-vis 50:3,4 
+
+50:13 
+
+vociferously 
+
+18:1 
+
+W 
+
+wading 56:25 
+waiting 62:1 
+walk 35:7 
+want 6:6,25,25 
+7:2,6,9,14 8:4 
+10:10 19:4 
+21:3 22:1 
+62:11 
+
+wanted 6:21 
+25:11 38:22 
+wants 59:24 
+
+Washington 
+1:19 2:1,4 
+wasn't 18:7 
+
+45:14 50:25 
+63:2 
+
+Waste 43:23 
+way 5:8 7:19 
+12:23 14:24 
+17:7 18:8 
+19:14 31:16 
+33:15,16 36:8 
+36:9 38:7 44:8 
+50:6 56:16 
+57:5 62:1 
+Wednesday 
+
+went 16:21 29:1 
+
+1:20 
+
+29:2 
+
+weren't 13:13 
+18:9 49:21 
+
+We'll 4:3 
+we're 5:9 38:21 
+
+51:14 56:13 
+59:22 60:4,18 
+we've 15:10 48:5 
+win 5:24 38:20 
+wireless 25:3,8 
+25:13,20,22 
+62:18 
+
+withdrawal 31:6 
+wonder 51:11 
+wooden 17:21 
+word 4:13 39:10 
+51:17,19 52:19 
+57:6 62:16 
+words 9:18 
+
+38:12 
+
+work 55:3 
+worker 16:3 
+Workers 37:19 
+works 28:14 
+world 25:10 
+worries 38:10 
+wouldn't 13:15 
+17:3 25:21,24 
+37:12 
+
+written 26:19,25 
+
+Official 
+
+38:18 43:1 
+wrong 29:2,2 
+
+51:19 
+
+X 
+
+x 1:2,8,10,18 
+
+Y 
+years 41:3 
+Z 
+
+zero 5:1 6:7 8:15 
+
+11:14 26:8 
+28:23 
+
+zoning 22:5 46:1 
+
+1 
+
+1 21:22 
+10 49:14 
+10:03 1:24 4:2 
+11-1545 1:4 4:4 
+11-1547 1:13 
+11:03 63:14 
+123 31:3,10 
+13.6 6:7 
+150 25:2 
+16 1:20 
+17 59:20 
+1986 36:18 
+1996 36:20 50:2 
+
+50:9 
+
+2 
+
+2 21:22 22:15,20 
+
+48:1,12 49:9 
+50:17 
+
+201(b) 13:21 
+14:15 22:8 
+29:4 48:14 
+61:16,18 62:13 
+
+2013 1:20 
+209 23:12 27:8 
+210 27:9 
+251 12:7 15:23 
+
+252 12:7 15:23 
+
+36:19 
+
+36:20 
+
+3 
+
+3 48:5 
+30 3:7 25:17 
+
+45:2,3 58:18 
+
+319 50:11 
+332 5:13 
+332(c)(7) 4:21 
+12:10 13:1,19 
+13:21 29:3 
+62:13 
+
+332(c)(7)(B) 
+38:1 45:24 
+
+384 48:12 
+385 48:13 
+397 49:24 
+4 
+
+4 3:4 59:10 
+494 37:8 
+5 
+
+5 22:11,13 24:12 
+
+24:14 
+59 3:10 
+
+6 
+646 37:8 
+7 
+
+7 24:18 46:8 
+
+52:25 53:6,7 
+53:17,18,21,23 
+54:1,3 57:9 
+
+7(a) 13:10 21:6 
+
+31:13,17 
+
+7(b)(2) 31:14 
+
+9 
+
+90 25:1 
+96 9:21 
+
+Alderson Reporting Company 
+
+

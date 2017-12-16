@@ -1,0 +1,8448 @@
+Official 
+
+1
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+MICHAEL SHANE CHRISTOPHER, ET AL.,: 
+
+v. 
+
+:  No. 11-204 
+Petitioners 
+         
+: 
+                       
+: 
+SMITHKLINE BEECHAM CORPORATION, 
+ 
+DBA GLAXOSMITHKLINE. 
+: 
+            
+- - - - - - - - - - - - - - - - - x 
+
+Washington, D.C. 
+Monday, April 16, 2012 
+
+ 
+
+The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+at 10:03 a.m. 
+APPEARANCES: 
+THOMAS C. GOLDSTEIN, ESQ., Washington, D.C.; on behalf 
+
+of Petitioners. 
+
+MALCOLM L. STEWART, ESQ., Deputy Solicitor General, 
+
+Department of Justice, Washington, D.C.; on behalf of 
+the United States, as amicus curiae, supporting 
+Petitioners. 
+
+PAUL D. CLEMENT, ESQ., Washington, D.C.; on behalf of 
+
+Respondent. 
+
+ 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+C O N T E N T S 
+
+2
+
+ORAL ARGUMENT OF 
+THOMAS C. GOLDSTEIN, ESQ. 
+
+                                
+
+PAGE 
+
+On behalf of the Petitioners 
+
+                   
+
+3 
+
+ORAL ARGUMENT OF 
+MALCOLM L. STEWART, ESQ. 
+
+On behalf of the United States, 
+as amicus curiae, supporting the Petitioners 
+
+   
+
+16 
+
+ORAL ARGUMENT OF 
+PAUL D. CLEMENT, ESQ. 
+
+On behalf of the Respondent 
+
+                    
+
+30 
+
+REBUTTAL ARGUMENT OF 
+THOMAS C. GOLDSTEIN, ESQ. 
+
+On behalf of the Petitioners 
+
+                   
+
+62 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+P R O C E E D I N G S 
+
+3
+
+(10:03 a.m.) 
+CHIEF JUSTICE ROBERTS:  We'll hear argument 
+this morning in Case 11-204, Christopher v. SmithKline 
+Beecham. 
+
+Mr. Goldstein. 
+
+ORAL ARGUMENT OF THOMAS C. GOLDSTEIN 
+
+ON BEHALF OF THE PETITIONERS 
+
+MR. GOLDSTEIN:  Mr. Chief Justice, may it 
+
+please the Court: 
+
+In the Fair Labor Standards Act, Congress 
+
+directed the Secretary of Labor to quote/unquote "define 
+and delimit" the statute's outside salesman exemption. 
+By regulation, the Secretary provided that an outside 
+salesman is one who makes sales rather than promoting 
+sales by others.  In further guidance, the Secretary 
+elaborated that nonexempt promotion includes either, 
+one, a conversation where there can be no commitment or, 
+two, one where there will be no exchange with the 
+employer. 
+
+Now, everyone agrees that a pharmaceutical 
+
+detailer engages in promotion.  They tout drugs to 
+doctors.  Everyone agrees that there can't be a 
+commitment to issue a prescription.  Everyone agrees 
+that a prescription is not an exchange with a 
+
+Alderson Reporting Company 
+
+Official 
+
+4 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+pharmaceutical company.  But nonetheless, the Respondent 
+argues that pharmaceutical detailers sell drugs directly 
+to doctors as a matter of law.  They say that follows 
+from the fact that the Secretary's regulation 
+incorporates the definition of "sale" in the FLSA, which 
+is in the blue brief in the appendix at page 1. 
+
+That definition, which is section 203(k), 
+
+provides -- it's the second provision on the page --
+"'sale' or 'sell' includes any sale, exchange, contract 
+to sell, consignment for sale, shipment for sale, or 
+other disposition."  And what you will not find in that 
+language is anything that contradicts the two points the 
+Secretary has made, which is that there has to be a 
+commitment or that, at the very least, there has to be 
+an exchange with the employer. 
+
+JUSTICE ALITO:  Well, is that consistent 
+
+with the Government's argument?  They argue, quote, "an 
+employee does not make a 'sale' for purposes of the 
+'outside salesman' exemption unless he actually 
+transfers title to the property at issue."  The statute 
+refers to a consignment for sale.  When that occurs, 
+does -- does the consignor actually transfer title to 
+the property at issue? 
+
+MR. GOLDSTEIN:  It is an arrangement for 
+
+transfer of title, and that's why it's critical that it 
+
+Alderson Reporting Company 
+
+Official 
+
+5 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+says a consignment for sale, the sale being the transfer 
+of title.  But in all events, this case is not a fight 
+about transferring title or some lesser form of 
+exchange, because there's no exchange between the doctor 
+and the --
+
+JUSTICE ALITO:  I understand that, but I 
+
+would appreciate an answer --
+
+MR. GOLDSTEIN:  Yes. 
+JUSTICE ALITO:  -- to my question. 
+MR. GOLDSTEIN:  Yes. 
+JUSTICE ALITO:  Is the Government's position 
+
+consistent with the reference to consignment for sale? 
+When a consignment for sale occurs, is there a transfer 
+of title? 
+
+MR. GOLDSTEIN:  There is an agreement for a 
+
+transfer of title, and I believe there --
+
+JUSTICE ALITO:  Is there a -- a transfer of 
+
+title? 
+
+MR. GOLDSTEIN:  I apologize.  There is not a 
+
+transfer of title, but there is an agreement for a 
+transfer of title.  They -- just to be clear, the 
+Government says the definition of "sale" includes a 
+transfer of title.  And so, all I'm pointing out, if I 
+could just go back to the definition -- I apologize for 
+not answering --
+
+Alderson Reporting Company 
+
+Official 
+
+6
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+JUSTICE ALITO:  No, no, I understand.  I 
+understand your position to be different from theirs. 
+But I --
+
+MR. GOLDSTEIN:  Oh, no --
+JUSTICE ALITO:  Perhaps I should ask them 
+
+about -- about their position. 
+
+MR. GOLDSTEIN:  Sure.  Well, I apologize if 
+
+I've created some --
+
+JUSTICE SCALIA:  Excuse me.  I -- I don't 
+agree that there's an agreement for transfer of title. 
+Where there's a consignment, you give the property to 
+somebody, and he says I will sell it to somebody if 
+somebody will buy it. 
+
+MR. GOLDSTEIN:  Yes. 
+JUSTICE SCALIA:  There is no agreement to 
+
+transfer title. 
+
+MR. GOLDSTEIN:  There is --
+JUSTICE SCALIA:  It's purely a future 
+contingency.  If someone will buy it, I will sell 
+them -- sell it to that person on your account. 
+
+MR. GOLDSTEIN:  Yes.  I believe -- I will 
+
+allow you -- I apologize saying "I will allow you." 
+The --
+
+(Laughter.) 
+MR. GOLDSTEIN:  It would be -- you can do, I 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+know, whatever you want. 
+
+7 
+
+The Government can explain it --
+JUSTICE ALITO:  No, not really, but 
+
+anyway, go ahead. 
+
+MR. GOLDSTEIN:  Yes.  All right.  It is --
+
+the statute refers to a consignment for sale.  I believe 
+they're defining a sale in that phrase.  But in all 
+events, the debate over whether it includes or is 
+limited to a transfer of title is not at issue in this 
+case, because what the -- because all the statute 
+requires is that there, at the very least, be some 
+exchange of some part.  There's going to be an -- a 
+binding agreement, a commitment, and that commitment 
+will involve an exchange with the employer.  What 
+happens in pharmaceutical detailing is that there can't 
+be any commitment to issue a prescription at all --
+
+JUSTICE GINSBURG:  Because -- because the 
+
+limitation on sale is they can't sell -- by Federal law, 
+they can't sell.  And you -- you are debating about 
+exchange, sale.  What strikes one about this case is 
+that these are workers -- they work autonomously.  They 
+don't clock in and out.  They work outside the 
+workplace.  After they're trained, they have minimal 
+supervision. 
+
+Is there any other category of exempt 
+
+Alderson Reporting Company 
+
+Official 
+
+8 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+workers that have that kind of autonomy and yet come 
+under the wage and hours law? 
+
+MR. GOLDSTEIN:  I'm sorry.  So, your premise 
+
+is that they are exempt to begin with?  There -- I can 
+tell you that there are a large number of employees who 
+do work outside the workplace and are substantially more 
+autonomous than are pharmaceutical detailers, who have 
+to operate from very strict scripts.  There are -- it's 
+literally --
+
+JUSTICE GINSBURG:  For example, what are 
+
+the -- that's what I wanted to know.  What are the 
+categories of people that seem to be autonomous, not the 
+type that clocks in and out? 
+
+MR. GOLDSTEIN:  Sure.  Well, you can have 
+
+emergency service workers that are working outside. 
+There are lots of people -- so, for example, you may 
+well --
+
+JUSTICE SCALIA:  I don't -- I don't 
+
+understand what that is. 
+
+MR. GOLDSTEIN:  I apologize. 
+JUSTICE SCALIA:  What's an emergency service 
+
+worker? 
+
+MR. GOLDSTEIN:  A police officer or a 
+fireman, an ambulance driver.  They are constantly 
+outside the office.  You can also have lots of different 
+
+Alderson Reporting Company 
+
+Official 
+
+9 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+kinds of promotion --
+
+JUSTICE SCALIA:  Excuse me.  They're not on 
+duty all the time.  Aren't -- don't they have hours of 
+duty?  My goodness.  Some of them make enormous overtime 
+wages because they've put in hours beyond their regular 
+hours of duty --
+
+MR. GOLDSTEIN:  Well, that -- my --
+JUSTICE SCALIA:  These people have no hours 
+
+of duty. 
+
+MR. GOLDSTEIN:  That is not quite right, 
+
+Justice Scalia.  They are expected -- the joint appendix 
+explains -- to be in the doctors' offices between 8:30 
+and 5:00 p.m.  They work additional time.  The fact 
+that --
+
+CHIEF JUSTICE ROBERTS:  Well, doesn't that 
+
+just -- I mean, that's when the doctors are there. 
+
+MR. GOLDSTEIN:  That's -- but that is when 
+
+they are supposed to be in the doctors' offices.  That's 
+dictated by the company. 
+
+JUSTICE GINSBURG:  What about -- what about 
+the extras?  I mean, we're told that part of this job is 
+to have a good relationship with the doctors.  It 
+includes dinners.  It may be conventions. 
+Entertainment, maybe golf.  If -- if you're right, would 
+the time on the golf course get time and a half? 
+
+Alderson Reporting Company 
+
+Official 
+
+10
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+MR. GOLDSTEIN:  Well, a couple things about 
+
+that, Justice Ginsburg. 
+(Laughter.) 
+MR. GOLDSTEIN:  There actually are very 
+
+strict restrictions.  That kind of activity is under the 
+PhRMA Code, which is trying to interpret Federal law, is 
+actually very heavily restricted.  But whatever it is 
+that the employee is doing to further the employment 
+relationship is going to be hours on duty.  It is really 
+important I think that while it is true that a 
+pharmaceutical detailer has many of the characteristics 
+of an outside salesman, the one they don't have is 
+selling. 
+
+And that is the line that Congress drew. 
+
+It --
+
+JUSTICE GINSBURG:  You were -- you were 
+
+giving examples, and we just stopped at --
+
+MR. GOLDSTEIN:  Sure. 
+JUSTICE GINSBURG:  -- emergency service 
+
+worker.  But you said there are many examples --
+
+MR. GOLDSTEIN:  Sure. 
+JUSTICE GINSBURG:  -- of people who are 
+
+highly autonomous and still come under the hours 
+regulation. 
+
+MR. GOLDSTEIN:  Sure.  Another example would 
+
+Alderson Reporting Company 
+
+Official 
+
+11 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+be insurance adjusters.  There are people who are 
+outside cleaning people that are not -- that don't have 
+any --
+
+JUSTICE KENNEDY:  And these are all -- these 
+
+are all within the Fair Labor Standards Act? 
+
+MR. GOLDSTEIN:  Yes.  Yes, Justice Kennedy, 
+
+they absolutely are. 
+
+JUSTICE KENNEDY:  Are there any occupations 
+
+or pursuits that are not covered by the Fair Labor 
+Standards Act because -- on the rationale that they are 
+out, that they are unsupervised, and so forth.  In other 
+words, if you were arguing the case of the Respondent, 
+would you -- would you have any close analogies to areas 
+that are not -- that are exempt; in other words, they 
+wouldn't be salesmen, but there'd be some other 
+classifications to fit them in? 
+
+MR. GOLDSTEIN:  I would, but they would all 
+be one of two things.  They would either fall within the 
+administrative exemption, which is, Justice Ginsburg, 
+what is -- Congress was talking about when it talked about 
+people who have a lot of autonomy, and which is not true 
+of detailers -- or some other exemption.  So, to give an 
+example, certain outside buyers are exempt under the 
+Fair Labor Standards Act.  A good -- that's a good 
+example, because if you're an outside buyer of poultry, 
+
+Alderson Reporting Company 
+
+Official 
+
+12 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+then you are exempt, but if you are an outside buyer of 
+meat, you aren't. 
+
+It is one of a lot of different places --
+
+there are 50-some exemptions from the Fair Labor 
+Standards Act.  And Congress drew incredibly fine lines. 
+
+JUSTICE SCALIA:  Congress can draw -- draw 
+
+even silly lines. 
+
+MR. GOLDSTEIN:  Yes. 
+JUSTICE SCALIA:  If Congress draws it, it's 
+
+a line.  But the line you're suggesting here -- both 
+your brief and the Government's, as I recall, say, my 
+goodness, if we find for the Respondent here, there'll 
+be so much uncertainty in the future.  I'm not sure 
+there isn't a lot of uncertainty if we -- if we find in 
+your direction. 
+
+Now, let me give you an example.  One of my 
+
+law clerks -- my law clerks supplement my sparse life 
+experience. 
+
+(Laughter.) 
+JUSTICE SCALIA:  One of my law clerks is 
+
+familiar with the -- the framing business.  Okay?  Now, 
+salesmen of frames do not sell the frames at the time 
+that they visit the -- the framing company or the 
+framing store.  They get a commitment that in the 
+future, that person will order from the framing company. 
+
+Alderson Reporting Company 
+
+Official 
+
+13 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Now, is that a sale? 
+
+MR. GOLDSTEIN:  That is a sale, but the 
+
+difference here is that there's neither a commitment --
+remember, the commitment is illegal as a matter of law. 
+
+JUSTICE SCALIA:  Well, but there is a 
+
+commitment.  There is a commitment to -- what they're 
+trying to get is a commitment to consider this drug if 
+it's appropriate for prescription to patients in the 
+future.  That's a commitment. 
+
+MR. GOLDSTEIN:  Justice Scalia, if that is 
+the commitment, then all of promotion I think is going 
+to be a sale, because every promoter who walks up to you 
+on the street saying will you try my product, will you 
+go into the store, is trying to get you to say I'll go 
+in.  And that is much more of a direct commitment than 
+you saying I'll consider it in an appropriate 
+circumstance. 
+
+The commitment by a doctor is precatory at 
+most.  They do not make any commitment in any instance 
+that can be binding in any way that they will prescribe 
+a drug for anyone. 
+
+And remember, there is the second -- the 
+
+second distinction.  So, that's one.  But the second is 
+that -- remember, there is a purchase in your 
+hypothetical of framing, a purchase from the framing 
+
+Alderson Reporting Company 
+
+Official 
+
+14 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+store.  But the second part of the Secretary's guidance 
+is that when the doctor decides to issue a prescription, 
+they're not exchanging anything with the drug company. 
+There -- nothing is acquired from the drug company. 
+That is a very significant difference. 
+
+JUSTICE SCALIA:  It's a peculiar line of 
+
+commerce.  And -- and you're saying that what 
+constitutes a sale -- a salesman cannot take account of 
+the fact that this is a weird line of commerce, where 
+you're selling to people who cannot make a commitment. 
+MR. GOLDSTEIN:  Well, there are two things. 
+
+The first is the commitment, and they are not selling 
+anything to the doctor.  Remember, just to frame this 
+industry, the pharmaceutical company sells its products; 
+it sells them to pharmaceutical wholesalers, which sell 
+them to pharmacies -- pardon me -- which sell them to 
+customers, which have a relationship with a doctor, who 
+may or may not have met with a detailer. 
+
+There is a sale here in this industry, but 
+it is to a pharmaceutical detailer, and that is a very 
+significant difference.  The critical point as well for 
+purposes of --
+
+JUSTICE KAGAN:  May I ask you --
+JUSTICE KAGAN:  Mr. Goldstein, doesn't --
+JUSTICE GINSBURG:  May I ask you to follow 
+
+Alderson Reporting Company 
+
+Official 
+
+15 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+up on other -- other categories of employee?  You gave 
+me cleaning workers, emergency service workers.  Are any 
+of those categories people who get paid commissions? 
+
+MR. GOLDSTEIN:  Those are not, but the 
+
+example that I gave to Justice Kennedy would be, which 
+is that there are outside buyers who do receive 
+commissions.  And remember, of course, that there are 
+outside salesmen who do not receive commissions but are 
+nonetheless exempt.  Congress didn't write an exemption 
+about commissions; it wrote them about whether it's an 
+outside person who engages in sales. 
+
+And the other point I was trying to make is 
+
+that -- and Justice Scalia echoed it to some extent --
+and that is that the FLSA draws very fine lines.  If you 
+work for a movie theater you are exempt, but not a 
+playhouse.  If you work for a small newspaper but not a 
+small magazine, you're exempt.  If you care for the 
+elderly but not the young, you're exempt. 
+
+And what Congress said is that there has to 
+be -- you are an outside salesman and that -- it is true 
+that this is a peculiar industry, but the peculiarity of 
+it is that you don't make sales. 
+
+If I could reserve the remainder of my time. 
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+Mr. Stewart. 
+
+Alderson Reporting Company 
+
+Official 
+
+16
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+ORAL ARGUMENT OF MALCOLM L. STEWART 
+
+ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, 
+
+SUPPORTING THE PETITIONERS 
+
+MR. STEWART:  Mr. Chief Justice, and may it 
+
+please the Court: 
+
+It's common ground in this case that in 
+
+order to be an outside salesman, an employee must make 
+sales.  And in theory there are two different ways in 
+which Respondent could have attempted to establish that 
+the PSRs in this case fit that criteria. 
+
+JUSTICE SOTOMAYOR:  Could you answer 
+
+Justice Alito's question?  Your brief to the Second 
+Circuit and the Ninth Circuit suggested that a sale is 
+a -- is a transaction, a transfer of some sort, or at 
+least a promise to purchase.  But your brief here calls 
+it a much more rigid test, that there has to be a 
+transfer of title.  And he pointed to the language of 
+3(x) -- 3(k), that says "consignment for sale," which 
+doesn't have a transfer of the title.  So, what is the 
+Government's position? 
+
+MR. STEWART:  Well, the DOL regulations have 
+
+since 19 -- I believe it's since 1949, have said that 
+"make a sale" within the meaning of 203(k), the term 
+"making a sale" within the meaning of 3(k) includes a 
+transfer of title.  And in theory, the verb "includes" 
+
+Alderson Reporting Company 
+
+Official 
+
+17 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+could leave open the possibility that other things could 
+be included as well.  We've never encountered a 
+situation in which DOL has found a sale of goods without 
+a transfer of title.  But in direct answer to your 
+question, Justice Alito, about --
+
+JUSTICE SCALIA:  Well, excuse me. 
+
+Consignment salesmen are -- are not exempt? 
+
+MR. STEWART:  It would be -- with specific 
+
+respect to consignments for sale, it would have been 
+more precise to say that there has to be a transfer of 
+possession in contemplation of a transfer of title. 
+JUSTICE ALITO:  And what about salesmen 
+
+who -- whose objective is to obtain a rental?  The lower 
+courts have said that they qualify.  Does the Government 
+disagree with that? 
+
+MR. STEWART:  DOL believes that they 
+
+qualify, but not as sales of goods.  And if the -- the 
+Court could look at the appendix to the blue brief on 
+page 4.  This is the pertinent regulation that refers to 
+making sales or obtaining orders. 
+
+And it says:  "Section 541.500 requires that 
+
+the employee be engaged in making sales within the 
+meaning of section 3(k) of the Act or obtaining orders 
+or contracts for services or for the use of facilities." 
+And DOL's view is that a rental agreement would be a 
+
+Alderson Reporting Company 
+
+Official 
+
+18 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+contract for services or for the use of facilities. 
+
+And the way --
+JUSTICE SCALIA:  Excuse me.  How can they 
+put in number (2)?  I -- I thought that 3(k) is 3(k). 
+Can -- can they supplement 3(k)? 
+
+MR. STEWART:  They have supplemented 3(k), 
+
+and they did that --
+
+JUSTICE SCALIA:  What's the authority to do 
+
+that? 
+
+MR. STEWART:  The -- this is discussed in 
+
+the Stein Report, which was issued in 1940, and what had 
+happened was that the question had arisen -- and the 
+Stein report lays this out in a fair amount of detail. 
+The question had arisen whether individuals who 
+negotiate for contracts to buy time on the radio or sell 
+time -- sell advertising space in newspapers or sell --
+negotiate contracts for carriage of freight by rail or 
+truck -- the question arose whether they were outside 
+salesmen within the meaning of the statute. 
+
+And the Stein Report explained that the Wage 
+and Hour Division had taken the position that they were 
+not because it interpreted "sales" -- it appears to have 
+interpreted "sales" to refer only to sales of goods, and 
+people who were engaged in those sorts of businesses 
+were not selling goods.  But the Stein Report said: 
+
+Alderson Reporting Company 
+
+Official 
+
+19 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+However, these people are commonly regarded as salesmen; 
+the contracts they negotiate are treated as sales. 
+
+JUSTICE SCALIA:  Well, that's wonderful. 
+
+Then if you can go beyond 3(k), I guess really the 
+question before us is whether it's arbitrary or 
+capricious for the agency not to extend their -- their 
+power to supplement 3(k) to this situation, which these 
+people look like salesmen to me. 
+
+And so, if they can do number (2) there, I 
+don't know why -- why the agency couldn't say, oh, and 
+by the way, detailers are also included. 
+
+MR. STEWART:  Well --
+JUSTICE SCALIA:  And the issue would be 
+whether it's unreasonable for them not to say that. 
+MR. STEWART:  The agency has taken the 
+position that, even though it has construed 3(k) to 
+refer only to sales of goods, that sales of services or 
+contracts for the use of facilities can be covered. 
+However, there's a big difference between the 
+interaction between a detailer and a physician and the 
+interaction between the -- the person who sells time on 
+the radio.  The person --
+
+JUSTICE SCALIA:  Sure there is; sure there 
+is.  But once you -- once you concede that it doesn't 
+have to be within 3(k) and that it's within the power of 
+
+Alderson Reporting Company 
+
+Official 
+
+20 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+the agency to grant the exemption anyway, then we really 
+have a different -- a different argument before us here. 
+
+MR. STEWART:  Well, the -- the theory on 
+
+which the Stein Report proceeded was that, even though 
+sales of time on the radio were not sales of goods, they 
+were still customarily regarded as sales, and they had 
+the essential attributes of sales; namely, an exchange 
+of something valuable that the seller possessed in 
+return for consideration from the buyer.  And you don't 
+have any of that when the detailer deals with the --
+with the --
+
+JUSTICE KAGAN:  Mr. Stewart, there's this 
+
+other regulation which is I guess in the coverage 
+section, 779.241, which says that if an employee 
+performs any work that in a practical sense is an 
+essential part of consummating the sale of the goods, 
+he'll be considered to be selling the goods. 
+
+So, I guess this question is a two-part 
+
+question.  Do you agree that that regulation does cover 
+the -- these detailers?  And the second part is, if you 
+do, you know, how does it work that we should understand 
+"sale" one way for purposes of coverage and another way 
+for purposes of exemption? 
+
+MR. STEWART:  Well, the first thing I would 
+
+say is that we wouldn't agree that this would cover 
+
+Alderson Reporting Company 
+
+Official 
+
+21 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+detailers.  That is, if the relevant sales are, as we 
+believe, GSK's sales to -- the transfer of drugs to 
+wholesalers and pharmacies in return for consideration, 
+the detailers don't play an essential role in the 
+consummation of those sales.  They don't participate in 
+those sales.  It's true that their mission is to engage 
+in activities which set in motion a chain of events that 
+will make those sales more likely to occur, but we 
+wouldn't regard them as --
+
+JUSTICE KAGAN:  But that seems a little bit 
+blind to the way the industry actually works.  The way 
+this industry actually works is the real work is done by 
+the detailer getting the doctor to say, yes, I'm going 
+to start prescribing this where it's medically 
+appropriate.  The actual sales from the company to the 
+pharmacy just follows from however successful the 
+detailer is. 
+
+MR. STEWART:  But I think much the same 
+thing could have been said about all the promotional 
+workers that DOL has done with -- has dealt with in the 
+past.  That is, the premise, the justification for a 
+company to hire a promotional worker, is that the 
+promotional activities will increase the overall sales 
+of the company, will either directly or indirectly set 
+in motion a chain of events that leads people to buy the 
+
+Alderson Reporting Company 
+
+Official 
+
+22 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+product.  But DOL has historically regarded those 
+activities as distinct from selling the product. 
+
+JUSTICE ALITO:  Well, do those employees 
+
+work on commissions? 
+
+MR. STEWART:  Some employees may work on 
+
+commission.  Some --
+
+JUSTICE ALITO:  Promotional workers do work 
+
+on commissions? 
+
+MR. STEWART:  It's -- I don't think there is 
+
+necessarily a uniform rule one way or the other.  The 
+Stein Report did say in 1940 that, although it was 
+characteristic for outside salesmen to receive 
+commissions, that was not the test, that that was a 
+quirk of compensation.  The other thing I would say --
+JUSTICE SCALIA:  Did we have detailers in 
+
+1940?  Gee, that's a long time ago.  Did we have 
+detailers in 1940?  That's almost a century ago. 
+
+MR. STEWART:  There were detailers in that 
+
+era, and --
+
+JUSTICE BREYER:  That's my point, actually. 
+
+That's where I'm sort of bothered, just exactly what 
+Justice Scalia said, that if you look through what I've 
+seen so far by the materials, they're pretty evenly 
+balanced, and there are tens of thousands of people who 
+work in this industry, and there's a history of 75 years 
+
+Alderson Reporting Company 
+
+Official 
+
+23 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+of nobody said anything. 
+
+So you would think -- and it isn't the only 
+
+problem that has just been recognized in other 
+industries, too.  If the agency is going to reverse, not 
+reverse, but suddenly do something it hasn't done for 
+75 years, the right way to do it is to have notice and 
+comment, hearings, allow people to present their point 
+of view, and then make some rules or determine what 
+should happen.  Perhaps they'd say for the future let's 
+do this, but not let's give people a windfall for the 
+past.  Perhaps they'd say some and not others.  Okay? 
+
+That's my instinctive reaction, not 
+
+necessarily legal, but informed by administrative law. 
+But why shouldn't I try to get there? 
+
+MR. STEWART:  I guess I'd say two things, 
+
+one general and one specific to detailers.  The general 
+thing is that DOL has consistently drawn a distinction 
+between promotional work --
+
+JUSTICE BREYER:  No, I've read those. 
+MR. STEWART:  Okay. 
+JUSTICE BREYER:  I've read those, and I find 
+
+them beautifully ambiguous. 
+
+(Laughter.) 
+JUSTICE BREYER:  I'll go back and read them 
+again, and if they're absolutely clear, you win, fine, 
+
+Alderson Reporting Company 
+
+Official 
+
+24 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+that's the end of it. 
+
+JUSTICE KENNEDY:  And it's gone on for 
+
+70 years, and you're -- and instead of doing a 
+regulation, amended regulation, as Justice Breyer 
+indicates, you're filing amicus briefs quietly in 
+different -- different courts.  It seems to me that's 
+not nearly as fair or straightforward or as candid as --
+as an agency ought to be. 
+
+MR. STEWART:  Well, with respect to where 
+the industry expectation arose, we have only one data 
+point or at least only one data point that has been 
+identified in the briefs.  That is the National 
+Federation of Independent Small Business Legal Center 
+has filed an amicus brief on Respondent's side, and then 
+they -- they identify one DOL opinion letter, of which 
+we were previously unaware, that dates from 1945.  And 
+in the opinion letter, the employer of the detailer 
+asked for an opinion to the effect that its detailers 
+were covered by the administrative exemption.  That 
+employer didn't request a ruling that these were outside 
+salesmen.  And DOL --
+
+JUSTICE BREYER:  You're right about that, 
+and so, they're at fault, too.  But on the other hand, 
+their employees might have been satisfied, and this is 
+done to protect the employees. 
+
+Alderson Reporting Company 
+
+Official 
+
+25
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+So, I'm asking, not saying, but what is the 
+process here?  How do you know -- at what level was this 
+agency decision made to suddenly go ahead with this? 
+Who made it?  What was the input?  How do you know 
+they're on your side?  You do know; you're right.  But I 
+mean, what's the process internally? 
+
+MR. STEWART:  Internally, the -- the 
+
+Solicitor's Office at the Department of Labor would 
+consult with the Wage and Hour Division.  The 
+Solicitor's name went on the briefs both that were filed 
+in the Ninth Circuit and the brief -- I mean, the Ninth 
+Circuit and also the Novartis brief in the Second 
+Circuit.  And the Solicitor's name is on the 
+Government's brief in this Court.  The Solicitor is the 
+third-highest-ranking individual within the Department 
+of Labor. 
+
+CHIEF JUSTICE ROBERTS:  Do you -- I'm sorry 
+
+to interrupt your answer, but does your office review 
+the amicus filings in the courts of appeals by the 
+agencies? 
+
+MR. STEWART:  There was SG authorization for 
+
+the amicus brief to be filed. 
+
+CHIEF JUSTICE ROBERTS:  Is that the normal 
+
+procedure? 
+
+MR. STEWART:  Yes. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+26
+
+JUSTICE SCALIA:  But this is part of a 
+
+regular program that the agency has now instituted, to 
+run around the country and file amicus briefs; is that 
+it? 
+
+MR. STEWART:  To clarify -- well, to clarify 
+
+the agency's view of what the proper understanding of 
+the law is.  And in terms of --
+
+JUSTICE SCALIA:  Yes, right, to get --
+
+instead of doing rulemaking, instead of doing 
+adjudication, we're going to file amicus briefs, and the 
+court will accept our view in that amicus brief and, 
+hey, presto, we have -- we have made law. 
+
+MR. STEWART:  Well, maybe yes, maybe no --
+JUSTICE SCALIA:  That's extraordinary. 
+MR. STEWART:  Well, in comparison to the 
+alternative step of filing enforcement actions, it's 
+both --
+
+JUSTICE BREYER:  Well, the alternative step 
+..-- well, did the Secretary of Labor herself or himself, 
+
+depending on when it was, consider this matter? 
+
+MR. STEWART:  I don't know whether the 
+
+Secretary --
+
+So --
+
+JUSTICE BREYER:  No, we don't.  All right. 
+
+MR. STEWART:  But --
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+27
+
+JUSTICE BREYER:  So, the alternative is not 
+
+enforcement actions, necessarily.  The alternative is 
+for the agency to focus on the question and decide what 
+it actually wants to do. 
+
+MR. STEWART:  And the agency has regarded 
+the application of its promotion sales regulations to 
+the facts of this case as clear.  That is, if you asked 
+GSK's highest level management why does it make sense to 
+employ detailers, they wouldn't say because they get 
+these commitments from physicians which are of value to 
+the company.  The commitments or the quasi-commitments 
+from physicians in and of themselves are of no value. 
+JUSTICE SCALIA:  There are 90,000 of these 
+people, and you have not -- the agency has not brought 
+any action for these -- lo, these many years.  Ninety 
+thousand of them.  And all of a sudden, you say -- you 
+come in and say, oh, you have been in violation of the 
+law in the past, and you're going to have to pay a lot 
+of money for all these people that you didn't give 
+overtime to in the past. 
+
+I just think that's extraordinary. 
+MR. STEWART:  Well, to the extent that there 
+
+was an industry expectation that was based on anything 
+DOL had said, it was based on, as far as we know, based 
+on the 1945 opinion letter, which said not --
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+28
+CHIEF JUSTICE ROBERTS:  Well, but you -- you 
+
+didn't even know about that. 
+
+MR. STEWART:  Right. 
+(Laughter.) 
+CHIEF JUSTICE ROBERTS:  And yet, you expect 
+the industry to know all about it; and yet, it escaped 
+your attention. 
+
+MR. STEWART:  Again, our argument is not 
+
+that they should have known from the -- about the 
+opinion letter.  Our argument is that the proper 
+application of the promotion sales regulation to the 
+facts of this case is pretty clear, and that if GSK's 
+top-level management was asked to defend the use of 
+detailers, they would say these people are important 
+because if they persuade physicians to write more 
+prescriptions and those are filled with GSK products, 
+then pharmacies will reorder the drug and our 
+wholesalers will reorder it from us. 
+
+JUSTICE SOTOMAYOR:  Counsel, can I --
+JUSTICE SCALIA:  So, you have been guilty of 
+
+malfeasance for 70 years, right?  These 90,000 people 
+out there who have been in violation of the law and the 
+agency has done not a blessed thing? 
+
+MR. STEWART:  To return to the 1945 opinion 
+letter, the opinion letter was based on the premise that 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+29
+
+the employees exercised discretion and independent 
+judgment in the performance of their duties.  That's 
+what the -- what DOL said in concluding --
+
+JUSTICE SOTOMAYOR:  Counsel, I thought that 
+
+this whole system was set up on giving industries the 
+opportunity to ask the government for an opinion letter, 
+correct? 
+
+MR. STEWART:  Right. 
+JUSTICE SOTOMAYOR:  I saw in the briefing 
+hundreds of opinion letters by hundreds of different 
+industries.  Outside of this 1945 letter, did anybody 
+else, any other pharmaceutical company, ever set out for 
+the government or seek an opinion letter that you're 
+aware of? 
+
+MR. STEWART:  I'm aware of only one 
+
+instance.  I think this is not a matter of public 
+record, but there was one request in, I believe, 
+December of 2007 for an opinion to the effect that the 
+detailers were covered by the outside salesman 
+exemption.  DOL never responded one way or the other. 
+
+JUSTICE SCALIA:  You don't suggest -- you're 
+not arguing for a rule that if -- if an individual does 
+not seek an opinion letter, he's guilty?  Is that --
+
+MR. STEWART:  No, I'm not arguing for that 
+
+rule.  The --
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+30
+
+JUSTICE GINSBURG:  Mr. Malcolm -- Mr. 
+
+Stewart, is it -- is it true that that option is no 
+longer available, that the Department of Labor no longer 
+gives opinion letters? 
+
+MR. STEWART:  It does -- it has phased out 
+
+the opinion letter program and gives other forms of 
+administrative guidance.  That is, DOL's rationale was 
+that the opinion letter program had not been cost 
+effective because often the bottom line -- may I --
+often the bottom-line answer to the question would turn 
+on factual nuances of a particular employer and wouldn't 
+provide much guidance to others.  And so, it's tried to 
+provide forms of guidance that are -- speak to the 
+industry or a class of employees as a whole. 
+
+CHIEF JUSTICE ROBERTS:  Thank you, Mr. 
+
+Stewart. 
+
+Mr. Clement. 
+ORAL ARGUMENT OF PAUL D. CLEMENT 
+
+ON BEHALF OF THE RESPONDENT 
+
+MR. CLEMENT:  Mr. Chief Justice, and may it 
+
+please the Court: 
+
+Petitioners are two pharmaceutical sales 
+
+representatives.  They were hired for a sales job.  They 
+were given sales training.  They attend sales 
+conferences.  They are assigned a sales territory, and 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+31
+
+they are evaluated and compensated as sales people. 
+
+CHIEF JUSTICE ROBERTS:  And they don't make 
+
+sales. 
+
+JUSTICE BREYER:  That's --
+MR. CLEMENT:  With respect --
+CHIEF JUSTICE ROBERTS:  Your long list sort 
+
+of stopped one step short.  They don't make sales. 
+
+MR. CLEMENT:  With respect, 
+
+Mr. Chief Justice, we disagree.  We think they do make 
+sales in the way that is relevant in this industry, and 
+we do think they make sales in some sense, which is the 
+practical construction that the agency has always put on 
+the sales requirement in the --
+
+JUSTICE SOTOMAYOR:  Can you give me what 
+
+your regulation is going to be? 
+
+MR. CLEMENT:  What's that? 
+JUSTICE SOTOMAYOR:  And would it exempt 
+
+everybody from coverage?  Meaning, you seem to be saying 
+if in some sense they make sales, it seems that every 
+promotional person will be a salesman, that all 
+industries have to do is put one or two forms of sales 
+activities involved in the work of their worker, and 
+they're exempt.  Give me your definition?  As long as 
+it's in some sense, that covers everybody's exempt? 
+
+MR. CLEMENT:  Yes, but, Justice Sotomayor, 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+32
+
+if I could, there's two important qualifications that 
+avoid the slippery slope concerns you're talking about. 
+One is it's, I think, common ground among everybody that 
+you -- to qualify for any exemption or certainly all of 
+these relevant exemptions here, it has to be your 
+primary duty.  So, you can't just slip in a little sales 
+activity for something and get that person qualified. 
+The other thing, and I think this is very --
+
+JUSTICE SOTOMAYOR:  Well, it seems like the 
+sale here is not the primary duty.  The sale here is to 
+schmooze the doctor and give him information.  That's 
+what you said in one of your briefs -- your company said 
+in one of its briefs in -- in a products liability 
+litigation. 
+
+MR. CLEMENT:  With respect, Your Honor, the 
+
+commitment is very important in this industry.  It is 
+the objective of the sales call.  It's to get a 
+commitment to prescribe when medically necessary. 
+
+Now, it is true that there is prologue to 
+that, and there is efforts to promote before you get 
+that particular sale.  But the regulations address that 
+particularly, and they say, as long as you --
+
+JUSTICE SOTOMAYOR:  Primary duty is one of 
+
+the limiting, and what was the second limiting 
+principle? 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+33
+
+MR. CLEMENT:  The second limiting principle 
+is actually what I'm talking about now, which is if you 
+look at 503, which are the regulations that draw the 
+distinction between promotion and between being outside 
+sales, they do not say that promotion is nonexempt 
+activity.  What they say is it depends who does the 
+promotion.  And as long as the outside salesperson does 
+the promotion in conjunction with his or her own sales 
+or solicitations, then that is exempt activity.  And 
+what they're trying to --
+
+JUSTICE GINSBURG:  But it also says -- it 
+also says promotional work incidental to sales made by 
+someone else. 
+
+MR. CLEMENT:  Is not covered. 
+JUSTICE GINSBURG:  -- is nonexempt. 
+MR. CLEMENT:  You're right, but --
+JUSTICE GINSBURG:  And these sales -- I 
+mean, eventually there is a sale to a hospital, to a 
+pharmacy, and that sale is not made by the detailer. 
+
+MR. CLEMENT:  But, Justice Ginsburg, I think 
+
+it's important to recognize that the reason that 503 
+draws a distinction between promotional activity in 
+conjunction with the salesperson's own sales or 
+promotional activity with respect to somebody else's 
+sales is they're concerned about the consideration where 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+34
+
+somebody else is going to follow up with the same 
+customer to close the deal. 
+
+And if you look at the regulatory 
+
+commentary, that's what they're concerned -- they don't 
+want to sort of have double counting, where somebody 
+promotes with a sales target and then somebody else 
+follows up to close the sale.  And --
+
+JUSTICE KAGAN:  Well, that might be one 
+
+thing that they are concerned about, but it may not be 
+the only thing.  I mean, if you look at these 
+regulations, it seems as though what they're trying to 
+do is draw a distinction between people who actually 
+consummate transactions, transactional people, and 
+people who are pitchmen.  And -- and what the Department 
+of Labor here is saying is detailers are people who make 
+pitches; they're not people who consummate the 
+transactions. 
+
+MR. CLEMENT:  Well, Justice Kagan, I really 
+think if you look at the regulations as a whole and the 
+commentary in the Stein Report and the Weiss Report, 
+they're not worried about sorting out the pitchmen 
+because they understand that that classic outside 
+salesperson is a pitchman who then tries to get a 
+commitment to buy or some other commitment from the 
+sales target. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+35
+
+So, what they're trying to do is really 
+
+distinguishing not between pitchmen and sales people, 
+but between what they refer to as missionary men or 
+people who pave the way for somebody else to make the 
+sale.  And I really think that's the focus of the 503 
+regulation. 
+
+And so, the Government's argument really 
+boils down to the notion that there's nobody in this 
+industry that makes enough of a commitment with the 
+doctor for anybody to be involved in anything but 
+promotion with the doctor.  And that seems --
+
+JUSTICE KAGAN:  But why isn't that possible? 
+
+I mean, your brief seemed to suggest that in every 
+industry there needs to be some group of people who 
+would be classified as outside salesmen.  And that's not 
+necessarily the case.  There may be some industries, and 
+here it's a result of regulation, or it may be because 
+of other business practices, where there just isn't 
+anybody who's an outside salesman. 
+
+MR. CLEMENT:  Justice Kagan, it's 
+
+theoretically possible, but it would be odd, especially 
+in an industry that employs 90,000 people, in order to 
+get a commitment to prescribe from the doctor.  And I 
+think if you look across --
+
+JUSTICE KENNEDY:  What is -- what is this 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+36
+
+commitment?  Is the commitment in writing? 
+
+MR. CLEMENT:  The commitment is generally 
+
+not in writing, Justice Kennedy. 
+
+JUSTICE KENNEDY:  Would it be lawful to make 
+
+it -- put it in writing? 
+
+MR. CLEMENT:  I don't know that anything 
+
+would turn on whether it was in writing or not because 
+what --
+
+JUSTICE KENNEDY:  Would it be lawful to put 
+
+it in writing? 
+
+MR. CLEMENT:  I -- I think the answer is 
+
+yes.  It's important for the commitment not to be 
+binding because of the nature of the doctor's role. 
+Nobody wants to go into a doctor's office, let alone 
+these sales people, and say, look, whoever is the next 
+person who walks in the door, prescribe them the 
+product. 
+
+JUSTICE KENNEDY:  That sounds to me it's not 
+
+a commitment, unless the doctor says:  Well, I'll look 
+at this, this is interesting; I'll go home and read your 
+material, I'll think about it. 
+
+Is that -- is that a --
+MR. CLEMENT:  That's not the kind of 
+commitment they're looking for, Justice Kennedy. 
+They're looking for a commitment that -- sometimes it's 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+37
+
+the next patient that presents the condition for which 
+the medicine is medically appropriate, that they will 
+prescribe.  And if you think just practically --
+
+JUSTICE GINSBURG:  But it's got to be non-
+
+binding. 
+
+MR. CLEMENT:  It has to be non-binding.  I 
+
+agree.  But I don't think that the Government --
+
+JUSTICE KENNEDY:  And that's why -- and 
+
+that's why it's not in writing. 
+
+MR. CLEMENT:  Well, but you can have a 
+non-binding commitment in writing.  You can have a 
+binding commitment that's oral, as long as it's -- you 
+know, I don't want to get into the statute of frauds 
+here.  But it seems to me that the binding nature is not 
+dispositive either.  You can have a situation -- look, 
+if I agree as -- that I'm going to buy something, I can 
+often return it.  Sometimes there is a cooling-off 
+period, things like that. 
+
+JUSTICE KENNEDY:  Well, let me ask you this, 
+
+and I'm not well versed in all -- in all of the 
+specifics, but my understanding is that the Federal 
+Government has expressed new concerns, has new 
+regulations, new rules about these outside sales. 
+
+Does that mean that the nature of the work 
+
+has changed in the last 5 or 10 years, so that the 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+38
+
+70 years we are talking about is not relevant?  Would 
+you comment on that? 
+
+MR. CLEMENT:  I'd love to, Justice Kennedy. 
+
+I think, to the contrary, I think that -- I mean, the 
+Government actually ironically says that the 2004 
+rulemaking, which was the last time there was any 
+rulemaking, didn't change anything substantively.  We 
+think that's wrong.  We actually think there was an 
+important substantive change to the 503(c) regulations 
+and others which addressed the following problem, which 
+is not that the basic role of the outside salesperson 
+has changed, but the technology has changed in such a 
+way that it would be silly to draw a distinction between 
+whether the salesperson actually takes the order and 
+writes it down or gets a form in triplicate, or rather 
+gets a commitment to buy from the sales target who then 
+actually enters the order on a computer on their own. 
+And that I think is the specific situation 
+that the agency was confronted with.  And in 2004 they 
+said:  We don't want things to turn on who enters the 
+order, whether it's the customer on their own computer 
+or the outside salesperson. 
+
+JUSTICE KAGAN:  But, Mr. Clement, I thought 
+that in 2004 there were two proposals, really, and one 
+was the proposal that was changed, and the other was the 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+39
+
+proposal to get rid of this promotional stuff and to 
+allow people who promoted products to qualify as outside 
+salesmen, and the agency specifically rejected that 
+suggestion. 
+
+MR. CLEMENT:  Absolutely, Justice Kagan, but 
+
+there has always been an effort to try to get all 
+promotional people treated as being exempt.  But that's 
+different from what's being asked for here, which is the 
+last person who makes a visit to the person who places 
+the relevant order in the industry and gets the 
+commitment from that person.  That, in contrast to 
+general promotion, often directed at the world at large, 
+has always been the hallmark of a sale in the 
+Department's own flexible approach.  And I think that's 
+really important because if --
+
+JUSTICE GINSBURG:  But that seems to be 
+inconsistent with this -- this opinion letter.  The 
+request is put in by the pharmaceutical company, and 
+they want an exemption under administrative employee. 
+In the Department of Labor's response allowing that 
+exemption, it says that these detailers, and they use 
+the word "detailers," medical detailers, are engaged in 
+a form of promotional or missionary work. 
+
+MR. CLEMENT:  Well, Justice Ginsburg, I -- I 
+
+want to say two things about that.  One is to say, 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+40
+
+obviously, that may depend a little bit on how the 
+particular role was described.  If you're reading from 
+the 1945 opinion letter, I mean, that may be somewhat 
+different.  But I do think that what's important here is 
+that promotional activity itself is not problematic. 
+Promotional activity is exempt as long as it's in 
+conjunction with the person's own sales or 
+solicitations, is the word of the regulation.  So, I 
+don't think that's dispositive. 
+
+JUSTICE GINSBURG:  This goes -- the letter 
+
+goes on to say that these detailers are engaged in a 
+form of promotion not having for its object the making 
+of specific transactions. 
+
+MR. CLEMENT:  Well, and again, Justice 
+
+Ginsburg, we would take issue with that and say, no, 
+there is an interest in getting a specific commitment. 
+It is commitment to prescribe.  It may be somewhat -- it 
+is non-binding, and it may be somewhat forward-looking, 
+but I don't think that distinguishes this industry from 
+many industries.  It's not --
+
+JUSTICE GINSBURG:  But as far as your 
+
+70 years, it's suspect for two reasons.  One is we're 
+told that in the early years, at least, before there 
+were regulations restricting the sale of prescription 
+drugs, that these detailers did two things.  They did 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+41
+
+have their informational function, but they also did 
+direct sales to pharmaceutical companies, to hospitals. 
+So, for at least 20 years of those 70 years, these 
+people were engaged in what the department would call 
+sales.  So, that's suspect. 
+
+And then when we have the commitment, the 
+opinion letter that says we have a category for these 
+people; they are engaged in instruction, in information; 
+they are not engaged in sales; but because they're so 
+independent, we rank them as administrative -- in the 
+particular case we rank them as administrative people. 
+
+So -- so, it's not so that there was a 
+
+sudden about-face as you suggest.  We have a 
+categorization as -- as administrative employees, but 
+not sales employees, and we have a history of these 
+detailers at one time actually selling. 
+
+MR. CLEMENT:  Well, Justice Ginsburg, let me 
+
+say -- I mean, certainly as the regulatory environment 
+has changed, the nature of how the sales are transacted 
+in this industry have changed, but I think the focus is 
+very much on the doctors appropriately because they're 
+the ones that place the order.  But I also want to be 
+responsive to the administrative exemption. 
+
+JUSTICE SCALIA:  You wouldn't -- you 
+
+wouldn't mind being exempt as administrative, would you? 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+42
+
+MR. CLEMENT:  I wouldn't, Justice Scalia --
+JUSTICE SCALIA:  Yes. 
+MR. CLEMENT:  -- but I do want to --
+JUSTICE SCALIA:  But they've changed their 
+
+-- their view. 
+
+MR. CLEMENT:  They've changed their view on 
+
+that, too.  And I certainly don't want this Court to 
+think that the industry somehow has the administrative 
+exemption as an ace up their sleeve or in their back 
+pocket.  And it's really the same exact issue, because, 
+once again, the agency has changed their view.  And once 
+again, their view is not based on anything that has to 
+do with label --
+
+JUSTICE GINSBURG:  Did you claim -- did you 
+
+claim exemption as administrative employee? 
+
+MR. CLEMENT:  We did, Your Honor, in the 
+
+district court.  It's not before this Court because we 
+got summary judgment in our favor on the outside sales 
+exemption. 
+
+But I really would think it would be a -- a 
+
+mistake for this Court to say --
+
+JUSTICE GINSBURG:  So, that would -- then 
+
+that would be still open if you lose on the outside 
+sales? 
+
+MR. CLEMENT:  It would, Justice Ginsburg. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+43
+
+But you're just deferring the same inquiry, because the 
+Government's position once again is after 70 years of 
+having the industry proceed on the assumption that these 
+individuals were exempt, they now have changed their 
+mind.  And, again, their view has everything to do with 
+FDA regulation --
+
+JUSTICE KAGAN:  Well, Mr. Clement --
+MR. CLEMENT:  -- and nothing to do --
+JUSTICE KAGAN:  I'm sorry. 
+MR. CLEMENT:  -- and nothing to do with 
+
+labor policy, because what they say is that now because 
+of the government's own off-label prosecutions, these 
+outside salespeople have to stick to a script and -- in 
+order to avoid off-label liability.  And because they 
+have to stick to the script, they are told they don't 
+exercise sufficient discretion to come within the 
+administrative exemption. 
+
+And the problem here is the Labor 
+
+Department, instead of looking at this and making a 
+rational judgment about labor policy and whether these 
+individuals who make $93,000 on -- for the median should 
+rationally be the kind of workers that are protected by 
+the Fair Labor Standards Act, instead they're looking at 
+things that have everything to do with FDA regulation 
+and nothing to do with labor policy. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+44
+
+JUSTICE KAGAN:  You've suggested --
+JUSTICE BREYER:  The --
+JUSTICE KAGAN:  I'm sorry. 
+JUSTICE BREYER:  Are they paid commissions? 
+If they're -- if the salesman or the promotion agent, as 
+the case may be, is successful in his territory in 
+getting doctors to prescribe the drug, does he receive 
+extra pay? 
+
+MR. CLEMENT:  He receives incentive 
+
+compensation. 
+
+JUSTICE BREYER:  What does that mean?  Does 
+he -- I mean, an outside salesman -- in one document, it 
+says is a person who often obtains a commission on his 
+sales. 
+
+MR. CLEMENT:  Right. 
+JUSTICE BREYER:  And now what I'm trying to 
+
+figure out -- I might not have the right words to ask 
+the question -- are these people, people who in some 
+sense or other receive commissions on their sales? 
+
+MR. CLEMENT:  And the answer is -- for the 
+Petitioners on this record, the answer is yes.  They're 
+not the commissions that are a one-to-one 
+correspondence, but what they do is they receive 
+substantial incentive compensation, about 25 percent of 
+the total, and it's based on the sales of the product in 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+45
+
+their sales territory.  So, if the --
+
+JUSTICE SOTOMAYOR:  How's that different 
+
+from a bonus that an employee gets?  How is it any 
+different than what most companies do in -- in giving a 
+bonus at the end of the year? 
+
+MR. CLEMENT:  Certainly, based on the facts 
+
+in this record, it -- at the time of this case, it's 
+much more tied to the performance of the product in the 
+sales territory.  And I don't think that's -- you know, 
+it's not based on the company's overall performance --
+
+JUSTICE SOTOMAYOR:  Mr. Clement, you give me 
+
+one definition of "outside salesmen," the one that you 
+prefer for us to apply here.  The Department of Labor 
+gives another, and the one they're giving according to 
+them is a bright-line rule.  It's easy to apply.  You 
+have to do some sort of transfer of title.  That's as --
+their rule. 
+
+Tell me what the -- your argument is that --
+why your rule has to win.  Meaning, aren't we supposed 
+to give deference to the expertise of the agency, 
+especially when Congress lets them define --
+
+MR. CLEMENT:  Justice Sotomayor --
+JUSTICE SOTOMAYOR:  -- the scope of the --
+MR. CLEMENT:  -- two responses to that.  One 
+
+is you can't defer to the Labor Department's preferred 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+46
+
+construction, because it's flatly inconsistent with the 
+statute.  This idea that you have to have a transfer of 
+title cannot be squared with 3(k); it cannot be squared, 
+at least as I understand it, with some of the -- the own 
+advice they've given, which is all you need is a 
+commitment to buy.  That's what they've told people 
+since 1949. 
+
+There's an example in that Weiss Report from 
+1949 involving a jobber where you have a situation where 
+somebody's treated as an outside salesperson even though 
+they never have title over the product.  So, they get 
+the commitment to buy from the sales target, and then a 
+jobber who works for a different employer is the one 
+that transfers title.  That's at page 11 of the NFIB 
+brief, if you want to look at it.  So --
+
+JUSTICE KAGAN:  Mr. Clement, I guess I'm not 
+
+sure I understand what you just said. 
+
+If -- forget the transfer of title business, 
+but if it's just -- we're requiring a transaction here. 
+And we're drawing a line between people who do 
+transactions and people who just advertise or make 
+pitches or whatever you want to do it.  That's perfectly 
+consistent with the statute, isn't it?  I mean, you can 
+argue about is it the only possible reading; you can 
+even argue about whether it's the best possible reading. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+47
+
+But it's surely a -- a possible reading. 
+
+MR. CLEMENT:  It is a possible reading, 
+Justice Kagan.  But it's not the one that the Labor 
+Department has advanced in their amicus brief.  So, you 
+can't defer to that.  I mean, you can decide that it's 
+the best reading of the statute if you want, but --
+
+JUSTICE KAGAN:  Well, I suppose that that's 
+a question for them.  I read their amicus briefs to sort 
+of suggest two things.  Sometimes they just talk about 
+transactions, and sometimes they talk about transfer of 
+title. 
+
+MR. CLEMENT:  Well, and with respect, 
+
+Justice Kagan, that's one of the many problems with 
+deferring to amicus briefs.  Because when an agency 
+gives guidance in an interpretative rule or something, 
+there's one place, and they provide "the" answer.  Now, 
+I don't know if the Government wants you to defer to the 
+-- defer to the argument on page 12 or the argument on 
+page 20 or the argument on page 24. 
+
+JUSTICE KAGAN:  Well, I think that they 
+
+would say that it doesn't make any difference, because 
+they've never really seen a person who makes 
+transactions without transferring title.  So, I think 
+that --
+
+MR. CLEMENT:  Well, with respect, they 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+48
+
+have --
+
+JUSTICE KAGAN:  -- they would think the --
+
+the difference is --
+
+MR. CLEMENT:  No, with respect, they have 
+
+seen that person. 
+
+JUSTICE SCALIA:  Consignment, for one, which 
+
+is legitimate business. 
+
+MR. CLEMENT:  Well, consignment is in the 
+statute, but this jobber example is right out of the 
+Weiss Report in 1949, and the outside salesperson in 
+that case never had title.  The title comes from the 
+jobber who works for somebody else.  So, the salesperson 
+in that instance never had title, not even in the chain 
+of distribution.  Yet, they say that is a clear case 
+where the person is an outside salesperson and exempt. 
+
+JUSTICE GINSBURG:  Did -- did the 
+
+pharmaceutical companies request -- ever in this period, 
+request a ruling, a rulemaking on the status of these 
+PSRs? 
+
+MR. CLEMENT:  Well, I understand from the 
+
+Government that there was a request in 2007 and that the 
+Labor --
+
+JUSTICE GINSBURG:  That was an opinion 
+letter, they said.  I thought they said that was an 
+opinion letter. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+49
+
+MR. CLEMENT:  It was a request for an 
+
+opinion letter.  I'm sorry. 
+
+JUSTICE GINSBURG:  Yes.  I asked if there 
+was a request from the pharmaceutical companies for a 
+rulemaking on the proper classification in this case. 
+
+MR. CLEMENT:  No, there wasn't, Justice 
+
+Ginsburg, but I think that actually cuts in our favor, 
+because in 2004, a lot of companies were coming in with 
+things where they thought it was unclear, where they 
+thought there was some doubt, and asking for 
+clarification.  This was so well understood that the 
+outside sales exemption, or perhaps the administrative 
+exemption, covered the outside sales force of this 
+industry --
+
+JUSTICE KENNEDY:  What's the case that I 
+
+cite if this opinion is written the way you -- you 
+propose, and the -- this Court says, well, this has been 
+70 years, or maybe in 10 years if you take the new 
+regulations as setting a new regime, and the Department 
+has never made an objection.  And, therefore, it follows 
+that the Department's interpretation is implausible or 
+improper, and then I cite some case from our Court. 
+
+What -- how do I write this? 
+MR. CLEMENT:  I would -- I would ask you not 
+
+to be bound by having to cite a case.  I would ask you 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+50
+
+to just use the following reasoning, though, which I 
+think is 100 percent -- and there's plenty of cases you 
+could cite as perhaps Cf. cites. 
+
+JUSTICE KENNEDY:  Well, I'd like one. 
+(Laughter.) 
+MR. CLEMENT:  Sure.  Well, here's -- let's 
+start -- let's start with Fox and just the basic notion 
+that in administrative law, if you're going to change 
+your position, you have to acknowledge that you're 
+making a change.  I think at a minimum here, if they're 
+going to impose this kind of massive retroactive 
+liability on this industry --
+
+JUSTICE KAGAN:  But, Mr. Clement, this isn't 
+a change.  You've referred to it as a change in a lot of 
+ways -- in a lot of times, but what we have here is an 
+agency that, for some number of years, thought that this 
+was not the most urgent problem on their plate.  Indeed, 
+one would think this is a pretty peculiar Department of 
+Labor if they thought that this was the most urgent 
+problem on their plate.  So, they didn't enforce it. 
+
+But now the question has come up.  And so, 
+they say we'll look to our regulations.  This falls on 
+one side of the regulation.  Now, you've been given a 
+gift for all these years is one way of looking at it, 
+because -- because you were not their most urgent 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+51
+
+problem; and so, they didn't enforce their own 
+regulations against you. 
+
+MR. CLEMENT:  Justice Kagan, here's the 
+
+thing.  We can quibble about whether or not there is a 
+change in their position or whether they just didn't 
+have a position before, but I think the important thing 
+is they've imposed, by taking this position in an amicus 
+brief and asking for deference to it, massive liability 
+on this industry.  The PhRMA brief estimates it's 
+billions of dollars. 
+Now, I --
+JUSTICE GINSBURG:  Why must you -- why must 
+you look to an amicus brief?  Why not just look to the 
+regulation that defines -- the regulations that define 
+"sale" and that define "promotion"?  The 541.503 says 
+promotion work incidental to a sale made by somebody 
+else is not exempt. 
+
+Why do we get into the amicus brief when we 
+have in these 541 regulations a definition of sales on 
+the one hand, promotion on the other, and then this 
+statement that promotion work incidental to sale made by 
+somebody else is not exempt? 
+
+Why doesn't -- why isn't that the answer to 
+
+this case? 
+
+MR. CLEMENT:  Here's the answer as to why 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+52
+
+that's not the answer, and then let me circle back and 
+say why, if you're going to err on one side or the 
+other, you shouldn't err on the side of imposing massive 
+retroactive liability.  The reason that that's not a 
+simple matter of deferring to that is because that same 
+regulation earlier says that promotional work is exempt 
+if it's in conjunction with the individual's own sales 
+or solicitations. 
+
+Now, I happen to think it's pretty clear 
+
+that these -- by getting this commitment, which is the 
+functional equivalent of a commitment to buy, which is 
+what the regulations and the regulatory interpretations 
+have always said is a sale in some sense, I think these 
+are sales.  Certainly --
+
+JUSTICE GINSBURG:  Does the -- does the 
+
+pharmaceutical company have a sales force?  I mean, who 
+sells to the wholesalers, the pharmacies, and the 
+hospitals? 
+
+MR. CLEMENT:  It's not this kind of outside 
+
+sales force.  It's a much less sales-oriented 
+transaction.  The PhRMA amicus brief, for example, gives 
+the example of a company that has 2,000 outside sales 
+reps and 10 people that handle the movement of transfer 
+of product to the wholesalers and the distributors. 
+
+If you look at district court's opinion at 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+53
+
+the page 42a of the petition appendix, the district 
+court addresses this issue and I think gets it exactly 
+right, which is the reason there isn't a sales effort 
+focused on the wholesalers and distributors is because 
+their job is to have on stock the kind of medicines that 
+physicians are prescribing. 
+
+JUSTICE GINSBURG:  But there are -- there 
+are people who sell to them.  There may be only a few, 
+but --
+
+MR. CLEMENT:  There's a handful of people, 
+Justice Ginsburg, but that's -- I mean, there's nothing 
+anomalous about that.  Most industries have some sales 
+force that operates on the wholesale --
+
+JUSTICE GINSBURG:  Is there -- are they 
+
+exempt, too? 
+
+MR. CLEMENT:  What's that? 
+JUSTICE GINSBURG:  The -- the actual sellers 
+from the -- the people on the staff of a pharmaceutical 
+company who sell to the wholesalers, pharmacies, and 
+hospitals, are they exempt? 
+
+MR. CLEMENT:  I don't believe so, Your 
+
+Honor, at least not under the outside sales exemption, 
+in part because they're not outside, in part because 
+they're not really engaged in a sales effort.  It does 
+them no good -- if they can convince some wholesaler or 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+54
+
+distributor that the GSK product is far superior to a 
+competitor's product and it doesn't make any difference 
+at all because as a result of that -- I mean, they need 
+to have product that actual doctors are writing 
+prescriptions for.  That's what drives sales in this 
+industry. 
+
+There's nothing anomalous about that.  If 
+you think about any industry, sales activity is always 
+directed at the people who place orders.  In this 
+industry, because of the learned intermediary doctrine, 
+the person who places the order is the doctor, not the 
+ultimate end user. 
+
+CHIEF JUSTICE ROBERTS:  Is there -- let's 
+
+say the doctor hears the spiel and the doctor says, 
+okay, yours is the first thing I'll think of, you know, 
+when I have a patient with this and this.  I mean, is 
+that a sale? 
+
+MR. CLEMENT:  We think it is, Your Honor, 
+but if you have any doubt about that, certainly at the 
+point that the doctor then, when he sees the next 
+patient, writes the prescription, at that point I think 
+there's a sale, because, again, what the regulations and 
+regulatory history looks for is a -- is a commitment to 
+buy.  That's the relevant commitment to buy.  That's the 
+order in this industry --
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+55
+
+CHIEF JUSTICE ROBERTS:  So, what if the 
+
+doctor, as I suspect a lot of doctors do, they listen to 
+this guy, and they say, okay, I'll think of -- you know, 
+when it comes up, I'll think of your product; and the 
+next guy comes in from the other company, and he says, 
+okay, when it comes up I'll think of your product -- are 
+those two sales or no sale? 
+
+MR. CLEMENT:  I think they're probably two 
+
+sales, Your Honor.  But, you know, it's the same 
+thing -- imagine somebody who's, you know, just sitting 
+in their house, and they get an encyclopedia 
+salesperson.  And they say, you know, I'll -- maybe I'll 
+buy that.  That looks good, I'll buy it.  And they say, 
+but you know, maybe the State law has a law that says 
+you've got to wait 24 hours before you put the order in, 
+in the computer. 
+
+CHIEF JUSTICE ROBERTS:  But that's a firmer 
+commitment when they say I'll buy it.  The physician is 
+just saying I'll think of your product when it -- when 
+the need comes up. 
+
+MR. CLEMENT:  But -- well, if -- I mean, 
+what I was suggesting is maybe you're talking about a 
+State that has a 24-hour waiting rule or something like 
+that.  So, it's a commitment that, sure, I'm going to 
+enter the order in 24 hours.  Well, maybe another 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+56
+
+encyclopedia salesmen comes in, in 12 hours, and he 
+gives another commitment.  One of the two people he's 
+going to put the order in, and one of the two people 
+will certainly have finally had a sale.  I think, 
+again --
+
+JUSTICE KAGAN:  But don't you think that the 
+way this works -- I mean, the way we should all hope it 
+works is that the detailer comes in, the detailer 
+provides information, the doctor says that's very 
+interesting, I want to think about it, I'm going to 
+think about it.  Then the doctor reads some medical 
+journals; then maybe the doctor goes to a convention and 
+talks to other doctors about the product. 
+
+I mean, that's what you would hope that a 
+doctor would do before a doctor decided I'm going to 
+start prescribing this medicine.  And the detail work is 
+a part of that, but so are many other things before the 
+doctor actually decides to do something. 
+
+MR. CLEMENT:  Sure, Justice Kagan.  But you 
+
+don't want to look at this like it's an isolated, 
+one-time, you know, sort of interaction.  I mean, one of 
+the things that -- that happens in this industry, like 
+other sales industry, is there are multiple trips.  The 
+detailer goes there maybe the first time and lays the 
+ground work.  Then maybe the doctor reads some other 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+57
+
+information.  Then maybe on the final visit, after all 
+that information is there, finally the detailer gets the 
+commitment to prescribe to appropriate patients. 
+
+I think one way to think about the absurdity 
+of making the difference turn on the prescription is to 
+compare this salesperson to another salesperson of 
+medical devices who goes in, but these are medical 
+supplies that the doctor uses in the doctor's office. 
+Now, they're both hired for their sales experience. 
+They both get sales training.  They both have a sales 
+territory.  They're sitting in the same doctor's waiting 
+room, waiting for the same doctor; they have samples in 
+their bags, and they both get a commitment from the 
+doctor. 
+
+Now, what sense does it make as a matter of 
+
+the FLSA and its labor policies to say one of those 
+people is exempt and the other one is not exempt, 
+because for perfectly sensible reasons, we say that one 
+of those products is a prescription where the doctor 
+writes the order and then with that order, the end user, 
+the ultimate end user, can make the purchase at the 
+pharmacy, whereas the other one --
+
+JUSTICE SCALIA:  Mr. Clement, I wanted to 
+ask you about section 501 of the regulations, which --
+which is on page 4 of the appendix in the blue brief, 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+58
+
+and was mentioned in the -- in the Government's 
+presentation.  It says -- requires that the employee be 
+engaged in (i) making sales within the meaning of 3(k); 
+or (ii) obtaining orders or contracts for services or 
+for the use of facilities. 
+
+What authorization is there for the agency 
+
+to invent number (ii)? 
+
+MR. CLEMENT:  Well, Justice Scalia, you 
+
+heard the Government's explanation; and, as you suggest, 
+if the Government's explanation is right, then this 
+shouldn't be a matter of just trying to limit things to 
+3 -- to the 3(k) definition.  I think, even though -- at 
+the 3(k) definition, though, if you look at that 
+definition, it has every hallmark of being broad and 
+functional and flexible. 
+
+I would want to make one very important 
+
+point, though, about the ultimate question here, because 
+ultimately the decision whether to go one way or another 
+on this issue has remarkable significance for 
+retroactive imposition of liability. 
+
+We all know that retroactive rulemaking is 
+disfavored.  Well, think about the consequences here. 
+You have massive liability, between 4 and 6 years of 
+effective time and a half, because of the way that the 
+statute works.  It has time and a half plus liquidated 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+59
+damages.  You are talking about people who are very well 
+paid, close to six figures.  So, unlike the classic 
+worker who you might think is covered by the FLSA, who 
+is a relatively low hourly worker, the amounts of 
+damages here are quite significant. 
+
+Of course, the effort to try to reconstruct 
+
+these people's hours, given that they were told they 
+were exempt and they were outside the office, trying to 
+reconstruct how many overtime hours they actually worked 
+is going to be a crapshoot at best.  So, if you think 
+about all of that, and then you think about, as 
+Justice Breyer indicated, the other option, which is 
+to --
+
+JUSTICE BREYER:  Let's pursue this for a 
+
+second. 
+
+MR. CLEMENT:  Sure. 
+JUSTICE BREYER:  Because I'd like to go back 
+
+to Justice Kennedy's question, and this is only me 
+speaking.  I don't know how anybody else feels.  If this 
+had come up in 1941, you wouldn't have had a chance.  I 
+would have said look at the statute; it says the 
+Secretary defines it.  You'd say, well, can you define 
+it in a brief?  Yes, you have to be careful of briefs, 
+but, yes.  And that's the end of the case.  It's not a 
+question for judges; it's a question for administrators. 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+60
+
+All right.  But now it's difficult for me 
+
+because of the passage of 75 years.  And we can blame it 
+in part on the industry or in part on the Secretary. 
+There is blame to go around.  So, the question is, what 
+do I do as a judge? 
+
+And partly my instinct is get somebody to 
+decide this other than a lawyer in the Department of 
+Labor, because this is a hard question.  And that's 
+where we come to Justice Kennedy's question, which is he 
+says all right, fine, let's write that, and -- and what 
+case do we cite? 
+
+And I don't agree with you, overturn Auer. 
+I think amicus briefs are often helpful, but use them 
+with care.  And then I have the statute here, which 
+talks about the Secretary doing the definition of 
+"outside salesman," and I have lots of rules and 
+regulations and reports, which are fairly ambiguous in 
+my opinion.  So, you tell me what to say. 
+
+MR. CLEMENT:  I -- may I answer? 
+CHIEF JUSTICE ROBERTS:  Certainly. 
+MR. CLEMENT:  I would start by citing -- I 
+
+know it's not always in fashion to cite lower court 
+opinions, but I'd start by citing Judge Posner's opinion 
+in Yi, because the Seventh Circuit -- they're a very 
+distinguished panel, Judge Posner, Judge Wood, and one 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+61
+
+other judge.  The three of them considered this 
+question -- Judge Sykes.  I'm sorry; it slipped my mind. 
+A very distinguished judge. 
+
+(Laughter.) 
+MR. CLEMENT:  The -- it's -- the point being 
+
+that he said along these lines that the 70 years of 
+history makes a significant difference.  And here's the 
+thing.  Just like you expect an agency to confront a 
+change in position, you'd at least expect an agency to 
+confront the retroactive consequences and in that sense 
+address them and make sense of it. 
+
+And I would just simply say this, which is 
+if you had a rulemaking, you could bring in all of the 
+affected parties, including the current sales 
+representatives, who are not the ones bringing these 
+lawsuits, whose jobs are going to be changed, and you 
+could make a comprehensive view, as opposed to just 
+getting one side of an ongoing litigation and then 
+making a decision about an amicus brief. 
+
+Thank you. 
+CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+JUSTICE BREYER:  Thank you.  I'll look at 
+
+it. 
+
+minutes. 
+
+CHIEF JUSTICE BREYER:  Mr. Goldstein, 3 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+62
+
+REBUTTAL ARGUMENT OF THOMAS C. GOLDSTEIN 
+
+ON BEHALF OF THE PETITIONERS 
+
+MR. GOLDSTEIN:  Thank you, 
+
+Mr. Chief Justice. 
+
+Three quick points.  First, if you read the 
+
+transcript, you will see that my friend says that the 
+nature of this job has changed.  And that is an 
+essential part of understanding this case.  And there is 
+an entire amicus brief in addition to our submission on 
+behalf of pharmaceutical representatives, which explains 
+how very much the requirements of pharmaceutical 
+detailers and the restrictions on them have changed 
+dramatically over the last couple of decades in 
+particular.  And that's why the continued references to 
+70 years are wrong. 
+
+The other important point about the FLSA in 
+particular is that there is a statute on this issue, and 
+it says that an employer can request guidance from the 
+agency; and if it doesn't do that, it is not -- it has 
+no defense.  Its job is to ask for guidance.  And there 
+are 50 different exemptions from the FLSA that cover 
+hundreds of different categories of employees.  And if 
+the rule you are going to announce -- because Mr. 
+Clement's view is you shouldn't be bound by any 
+precedent.  If the rule you are going to now announce is 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+63
+
+that there has to be rulemaking with respect to all of 
+those, it's going to be an administrative nightmare. 
+
+Two quick further points.  The Department of 
+
+Labor's position is that there has to be an actual 
+commitment, not a precatory commitment.  And Mr. Clement 
+says, well, that's contrary to the definition of "sale" 
+in 3(k).  Please read the definition again, and if you 
+find something in there, something that is not a 
+commitment -- it can be an exchange; it can be a 
+commitment that is even a consignment; it can be a 
+traditional sale.  Every one of those things is 
+commitment.  It is impossible to find in the definition 
+of "commitment" a rule that says -- excuse me, in the 
+definition of "sale" --
+
+JUSTICE ALITO:  Where do they say that 
+that's -- that that's their test?  Where does the 
+Department of Labor say that's their test, that it has 
+to be a commitment?  I thought what they said in their 
+brief was there has to be a transfer of title. 
+
+MR. GOLDSTEIN:  There are two different 
+
+parts to it.  One is that they -- as explained by Mr. 
+Stewart, their view of transfer of title, but the Weiss 
+Report says repeatedly that there has to be a commitment 
+to buy.  That is --
+
+JUSTICE SCALIA:  Well, which is it?  I mean, 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+you say, yes, yes, it's both. 
+
+64
+
+MR. GOLDSTEIN:  You have to agree --
+JUSTICE SCALIA:  Pick one. 
+MR. GOLDSTEIN:  You have to --
+JUSTICE SCALIA:  Is it the transfer of title 
+
+or a commitment? 
+
+MR. GOLDSTEIN:  It is the agreement to 
+
+transfer title.  There are two parts to it. 
+
+JUSTICE SCALIA:  Ah.  Okay. 
+MR. GOLDSTEIN:  But there has to be the 
+
+agreement, a firm agreement.  It's repeated in the 2004 
+preamble to the regulations as well. 
+
+Now, the last critical point I want to make 
+is that Mr. Clement says there are commissions on sales 
+in the sales territory.  And what he is not talking 
+about is any commitment by a physician.  When you go 
+look at the transcript and he talks about sales in the 
+sales territory, he is talking about the sales by the 
+pharmacy.  That's where the sale occurs in this 
+industry.  It's to the wholesaler and to the pharmacy 
+and to the customer. 
+
+He is not talking about a sale in the sense 
+
+of getting a commitment to have --
+
+JUSTICE KENNEDY:  But the district court 
+here made a finding -- this is at 42a of the appendix 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+65
+
+for the Petitioners:  "Sales volume is directly and 
+exclusively driven by the number of prescriptions 
+written by physicians, and plaintiffs' job was to 
+encourage such prescriptions." 
+
+MR. GOLDSTEIN:  That -- Mr. Justice Kennedy, 
+
+I don't believe that you can fairly describe that as a 
+finding of fact.  That is the judge -- his view of the 
+summary judgment record.  It is --
+
+JUSTICE SCALIA:  It's a finding of logic, 
+
+for Pete's sake.  These are prescriptions.  You can only 
+get a prescription from a doctor.  Obviously, the number 
+of prescriptions, drugs sold, depends upon the number of 
+prescriptions given by doctors. 
+
+MR. GOLDSTEIN:  Two -- two things about 
+
+that.  First is that a detailer doesn't get a commitment 
+to a prescription.  And then in addition, it's clear 
+that there are numerous influences on what a doctor 
+does.  There's all the advertising --
+
+JUSTICE SCALIA:  That's a different point. 
+MR. GOLDSTEIN:  It is an important point. 
+
+It is a different point, but it is --
+
+JUSTICE SCALIA:  It's not the point you were 
+
+making. 
+
+MR. GOLDSTEIN:  Justice Scalia, the point 
+that I will make at bottom is that you have to have a 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9   
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official 
+
+66
+
+firm commitment.  That's what the Department says.  And 
+there is nothing in the definition in 3(k) that 
+contradicts that. 
+
+CHIEF JUSTICE ROBERTS:  Thank you, counsel, 
+
+counsel. 
+
+The case is submitted. 
+(Whereupon, at 11:06 a.m., the case in the 
+
+above-entitled matter was submitted.) 
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+Alderson Reporting Company 
+
+A 
+
+about-face 
+
+41:13 
+
+above-entitled 
+
+1:12 66:8 
+
+absolutely 11:7 
+
+23:25 39:5 
+
+absurdity 57:4 
+accept 26:11 
+account 6:20 
+
+14:8 
+
+ace 42:9 
+acknowledge 
+
+50:9 
+
+acquired 14:4 
+Act 3:11 11:5,10 
+
+11:24 12:5 
+17:23 43:23 
+action 27:15 
+actions 26:16 
+
+27:2 
+
+activities 21:7 
+
+21:23 22:2 
+31:22 
+
+activity 10:5 
+
+32:7 33:6,9,22 
+33:24 40:5,6 
+54:8 
+
+actual 21:15 
+53:17 54:4 
+63:4 
+
+addition 62:9 
+
+65:16 
+
+additional 9:13 
+address 32:21 
+
+61:11 
+
+addressed 38:10 
+addresses 53:2 
+adjudication 
+
+26:10 
+
+adjusters 11:1 
+administrative 
+11:19 23:13 
+24:19 30:7 
+39:19 41:10,11 
+41:14,23,25 
+42:8,15 43:17 
+
+agency's 26:6 
+agent 44:5 
+ago 22:16,17 
+agree 6:10 20:19 
+20:25 37:7,16 
+60:12 64:2 
+
+agreement 5:15 
+5:20 6:10,15 
+7:13 17:25 
+64:7,11,11 
+
+agrees 3:21,23 
+
+3:24 
+
+Ah 64:9 
+ahead 7:4 25:3 
+AL 1:3 
+Alito 4:16 5:6,9 
+5:11,17 6:1,5 
+7:3 17:5,12 
+22:3,7 63:15 
+Alito's 16:12 
+allow 6:22,22 
+
+23:7 39:2 
+
+allowing 39:20 
+alternative 
+
+26:16,18 27:1 
+27:2 
+
+ambiguous 
+
+Official
+Official 
+
+49:12 50:8 
+63:2 
+
+administrators 
+
+59:25 
+
+advanced 47:4 
+advertise 46:21 
+advertising 
+
+18:16 65:18 
+
+advice 46:5 
+agencies 25:20 
+agency 19:6,10 
+
+23:22 60:17 
+
+appropriately 
+
+ambulance 8:24 
+amended 24:4 
+amicus 1:20 2:8  arbitrary 19:5
+
+April 1:10
+
+41:21
+
+areas 11:13
+argue 4:17
+46:24,25
+argues 4:2
+
+16:2 24:5,14 
+25:19,22 26:3 
+26:10,11 47:4 
+47:8,14 51:7 
+51:13,18 52:21  arguing 11:12
+60:13 61:19 
+62:9 
+
+29:22,24
+
+amount 18:13 
+19:15 20:1 
+23:4 24:8 25:3  amounts 59:4 
+26:2 27:3,5,14  analogies 11:13 
+announce 62:23 
+28:23 31:12 
+38:19 39:3 
+42:11 45:20 
+47:14 50:16 
+58:6 61:8,9 
+62:19 
+
+62:25 
+
+argument 1:13
+2:2,5,9,12 3:3
+3:7 4:17 16:1
+20:2 28:8,10
+30:18 35:7
+45:18 47:18,18
+47:19 62:1
+
+arisen 18:12,14
+arose 18:18
+
+24:10
+
+anomalous 
+53:12 54:7 
+answer 5:7 
+16:11 17:4 
+25:18 30:10 
+36:11 44:20,21 
+47:16 51:23,25  asked 24:18
+27:7 28:13
+52:1 60:19 
+39:8 49:3
+asking 25:1
+49:10 51:8
+
+answering 5:25 
+anybody 29:11 
+
+35:10,19 59:19 
+
+4:24
+
+arrangement
+
+anyway 7:4 20:1  assigned 30:25
+apologize 5:19 
+5:24 6:7,22 
+8:20 
+
+assumption 43:3
+attempted 16:9
+attend 30:24
+attention 28:7
+attributes 20:7
+Auer 60:12
+authority 18:8
+authorization
+
+25:21 58:6
+
+autonomous 8:7
+
+8:12 10:23
+
+appeals 25:19 
+APPEARAN... 
+
+1:15 
+
+appears 18:22 
+appendix 4:6 
+9:11 17:18 
+53:1 57:25 
+64:25 
+
+application 27:6  autonomously
+
+28:11 
+
+7:21
+
+autonomy 8:1
+
+apply 45:13,15 
+appreciate 5:7 
+approach 39:14  available 30:3
+appropriate 
+
+11:21
+
+13:8,16 21:15 
+37:2 57:3 
+
+avoid 32:2 43:14
+aware 29:14,15
+a.m 1:14 3:2
+
+Alderson Reporting Company
+Alderson Reporting Company 
+
+67 
+
+66:7
+
+B
+
+back 5:24 23:24
+
+42:9 52:1
+59:17
+
+bags 57:13
+balanced 22:24
+based 27:23,24
+27:24 28:25
+42:12 44:25
+45:6,10
+
+basic 38:11 50:7
+beautifully
+
+23:22
+
+Beecham 1:6 3:5
+behalf 1:16,19
+1:22 2:4,7,11
+2:14 3:8 16:2
+30:19 62:2,10
+
+believe 5:16
+
+6:21 7:6 16:22
+21:2 29:17
+53:21 65:6
+
+believes 17:16
+best 46:25 47:6
+
+59:10
+
+beyond 9:5 19:4
+big 19:19
+billions 51:10
+binding 7:13
+13:20 36:13
+37:5,12,14
+bit 21:10 40:1
+blame 60:2,4
+blessed 28:23
+blind 21:11
+blue 4:6 17:18
+
+57:25
+
+boils 35:8
+bonus 45:3,5
+bothered 22:21
+bottom 30:9
+
+bottom-line
+
+65:25
+
+30:10
+
+bound 49:25
+
+Official 
+
+68 
+
+62:24 
+
+C 1:16 2:1,3,13 
+
+3:1,7 62:1 
+
+Breyer 22:20 
+call 32:17 41:4 
+23:19,21,24 
+calls 16:15 
+24:4,22 26:18 
+candid 24:7 
+26:23 27:1 
+capricious 19:6 
+31:4 44:2,4,11 
+44:16 59:12,14  care 15:17 60:14 
+59:17 61:22,24  careful 59:23 
+carriage 18:17 
+
+brief 4:6 12:11 
+
+characteristics 
+
+22:12 
+
+10:11 
+
+Chief 3:3,9 9:15 
+
+15:24 16:4 
+25:17,23 28:1 
+28:5 30:15,20 
+31:2,6,9 54:13 
+55:1,17 60:20 
+61:21,24 62:4 
+66:4 
+
+Christopher 1:3 
+
+16:12,15 17:18  case 3:4 5:2 7:10 
+24:14 25:11,12 
+25:14,22 26:11 
+35:13 46:15 
+47:4 51:8,9,13 
+51:18 52:21 
+57:25 59:23 
+61:19 62:9 
+63:19 
+
+7:20 11:12 
+16:6,10 27:7 
+28:12 35:16 
+41:11 44:6 
+45:7 48:11,14  Circuit 16:13,13 
+49:5,15,22,25 
+51:24 59:24 
+60:11 62:8 
+66:6,7 
+
+25:11,12,13 
+60:24 
+
+circumstance 
+
+circle 52:1 
+
+13:17 
+
+3:4 
+
+36:2,6,11,23 
+37:6,10 38:3 
+38:23 39:5,24 
+40:14 41:17 
+42:1,3,6,16,25 
+43:7,8,10 44:9 
+44:15,20 45:6 
+45:11,22,24 
+46:16 47:2,12 
+47:25 48:4,8 
+48:20 49:1,6 
+49:24 50:6,13 
+51:3,25 52:19 
+53:10,16,21 
+54:18 55:8,21 
+56:19 57:23 
+58:8 59:16 
+60:19,21 61:5 
+63:5 64:14 
+
+briefing 29:9 
+briefs 24:5,12 
+25:10 26:3,10 
+32:12,13 47:8 
+47:14 59:23 
+60:13 
+
+bright-line 
+
+45:15 
+
+bring 61:13 
+bringing 61:15 
+broad 58:14 
+brought 27:14 
+business 12:21 
+24:13 35:18 
+46:18 48:7 
+
+businesses 18:24 
+buy 6:13,19 
+
+cases 50:2 
+categories 8:12 
+15:1,3 62:22 
+categorization 
+
+category 7:25 
+
+41:14 
+
+41:7 
+
+Center 24:13 
+century 22:17 
+certain 11:23 
+certainly 32:4 
+
+41:18 42:7 
+45:6 52:14 
+54:19 56:4 
+60:20 
+Cf 50:3 
+chain 21:7,25 
+
+48:13 
+
+18:15 21:25 
+34:24 37:16 
+chance 59:20 
+38:16 46:6,12 
+52:11 54:24,24  change 38:7,9 
+50:8,10,14,14 
+55:13,13,18 
+63:24 
+51:5 61:9 
+
+buyer 11:25 
+12:1 20:9 
+
+buyers 11:23 
+
+15:6 
+
+C 
+
+changed 37:25 
+38:12,12,25 
+41:19,20 42:4 
+42:6,11 43:4 
+61:16 62:7,12 
+characteristic 
+
+cite 49:16,22,25  Clement's 62:24 
+clerks 12:17,17 
+
+50:3 60:11,22 
+
+cites 50:3 
+citing 60:21,23 
+claim 42:14,15 
+clarification 
+
+49:11 
+
+clarify 26:5,5 
+class 30:14 
+classic 34:22 
+
+classification 
+
+59:2 
+
+49:5 
+
+classifications 
+
+11:16 
+
+classified 35:15 
+cleaning 11:2 
+
+15:2 
+
+12:20 
+
+clock 7:22 
+clocks 8:13 
+close 11:13 34:2 
+
+34:7 59:2 
+Code 10:6 
+come 8:1 10:23 
+27:17 43:16 
+50:21 59:20 
+60:9 
+
+comes 48:11 
+55:4,5,6,20 
+56:1,8 
+
+coming 49:8 
+comment 23:7 
+
+38:2 
+
+clear 5:21 23:25  commentary 
+
+27:7 28:12 
+48:14 52:9 
+65:16 
+
+Clement 1:22 
+
+2:10 30:17,18 
+30:20 31:5,8 
+31:16,25 32:15 
+33:1,14,16,20 
+34:18 35:20 
+
+34:4,20 
+
+commerce 14:7 
+
+14:9 
+
+commission 
+22:6 44:13 
+commissions 
+15:3,7,8,10 
+22:4,8,13 44:4 
+44:19,22 64:14 
+
+Alderson Reporting Company 
+
+commitment 
+3:18,24 4:14 
+7:13,13,16 
+12:24 13:3,4,6 
+13:6,7,9,11,15 
+13:18,19 14:10 
+14:12 32:16,18 
+34:24,24 35:9 
+35:23 36:1,1,2 
+36:12,19,24,25 
+37:11,12 38:16 
+39:11 40:16,17 
+41:6 46:6,12 
+52:10,11 54:23 
+54:24 55:18,24 
+56:2 57:3,13 
+63:5,5,9,10,12 
+63:13,18,23 
+64:6,16,23 
+65:15 66:1 
+
+commitments 
+
+27:10,11 
+
+common 16:6 
+
+32:3 
+
+commonly 19:1 
+companies 41:2 
+
+45:4 48:17 
+49:4,8 
+
+company 4:1 
+
+9:19 12:23,25 
+14:3,4,14 
+21:15,22,24 
+27:11 29:12 
+32:12 39:18 
+52:16,22 53:19 
+55:5 
+
+company's 
+
+45:10 
+
+compare 57:6 
+comparison 
+
+compensated 
+
+26:15 
+
+31:1 
+
+compensation 
+
+22:14 44:10,24 
+
+competitor's
+
+54:2 
+
+Official 
+
+69 
+
+comprehensive 
+
+31:12 46:1 
+
+59:6 
+
+61:17 
+
+computer 38:17 
+
+38:21 55:16 
+concede 19:24 
+concerned 33:25  consummating 
+
+34:13,16 
+
+construed 19:16  court 1:1,13 
+consult 25:9 
+3:10 16:5 
+consummate 
+17:18 25:14 
+26:11 30:21 
+42:7,17,17,21 
+49:17,22 53:2 
+60:22 64:24 
+courts 17:14 
+24:6 25:19 
+court's 52:25 
+cover 20:19,25 
+
+consummation 
+
+20:16 
+
+17:11 
+
+21:5 
+
+62:21 
+
+18:1 
+
+20:22 31:18 
+covered 11:9 
+19:18 24:19 
+29:19 33:14 
+49:13 59:3 
+contradicts 4:12  covers 31:24 
+
+contracts 17:24 
+18:15,17 19:2 
+19:18 58:4 
+
+concerns 32:2 
+
+34:4,9 
+
+37:22 
+
+concluding 29:3  contemplation 
+condition 37:1 
+conferences 
+
+contingency 
+
+30:25 
+
+6:19 
+
+confront 61:8,10  continued 62:14  coverage 20:13 
+confronted 
+
+contract 4:9 
+
+decades 62:13 
+describe 65:6 
+December 29:18  described 40:2 
+decide 27:3 47:5  detail 18:13 
+
+60:7 
+
+56:16 
+
+detailer 3:22 
+
+decided 56:15 
+decides 14:2 
+
+56:18 
+
+10:11 14:18,20 
+19:20 20:10 
+21:13,17 24:17 
+33:19 56:8,8 
+56:24 57:2 
+65:15 
+
+decision 25:3 
+58:18 61:19 
+defend 28:13 
+defense 62:20 
+defer 45:25 47:5  detailers 4:2 8:7 
+
+47:17,18 
+
+deference 45:20 
+
+51:8 
+
+deferring 43:1 
+
+47:14 52:5 
+define 3:12 
+
+45:21 51:14,15 
+59:22 
+
+38:19 
+
+Congress 3:11 
+10:14 11:20 
+12:5,6,9 15:9 
+15:19 45:21 
+conjunction 
+
+33:8,23 40:7 
+52:7 
+
+consequences 
+58:22 61:10 
+
+26:20 
+
+consideration 
+
+20:9 21:3 
+33:25 
+
+considered 
+20:17 61:1 
+consignment 
+
+consider 13:7,16 
+
+56:12 
+
+contrary 38:4 
+
+66:3 
+
+63:6 
+
+contrast 39:11 
+convention 
+
+conventions 
+
+conversation 
+
+9:23 
+
+3:18 
+
+59:22 
+
+crapshoot 59:10  defines 51:14 
+created 6:8 
+criteria 16:10 
+critical 4:25 
+14:21 64:13 
+curiae 1:20 2:8 
+
+defining 7:7 
+definition 4:5,7 
+5:22,24 31:23 
+45:12 51:19 
+58:12,13,14 
+60:15 63:6,7 
+63:12,14 66:2 
+
+current 61:14 
+customarily 
+
+16:2 
+
+20:6 
+
+convince 53:25 
+cooling-off 
+
+37:17 
+
+customer 34:2 
+38:21 64:21 
+
+customers 14:17 
+
+11:22 19:11 
+20:20 21:1,4 
+22:15,17,18 
+23:16 24:18 
+27:9 28:14 
+29:19 34:15 
+39:21,22,22 
+40:11,25 41:16 
+62:12 
+
+detailing 7:15 
+determine 23:8 
+devices 57:7 
+dictated 9:19 
+difference 13:3 
+14:5,21 19:19 
+47:21 48:3 
+54:2 57:5 61:7 
+
+different 6:2 
+
+8:25 12:3 16:8 
+20:2,2 24:6,6 
+29:10 39:8 
+40:4 45:2,4 
+46:13 62:21,22
+63:20 65:19,21
+
+difficult 60:1 
+dinners 9:23 
+direct 13:15 
+17:4 41:2 
+
+directed 3:12 
+39:12 54:9 
+
+direction 12:15 
+directly 4:2 
+21:24 65:1 
+
+disagree 17:15 
+
+31:9 
+
+delimit 3:13 
+department 
+
+1:19 25:8,15 
+30:3 34:14 
+39:20 41:4 
+43:19 45:13 
+47:4 49:19 
+50:18 60:7 
+63:3,17 66:1 
+Department's 
+39:14 45:25 
+49:21 
+
+depend 40:1 
+depending 
+
+depends 33:6 
+
+26:20 
+
+65:12 
+
+Deputy 1:18 
+
+4:10,21 5:1,12  CORPORATI...  cuts 49:7 
+5:13 6:11 7:6 
+D
+16:18 17:7 
+48:6,8 63:10 
+consignments 
+
+correct 29:7 
+correspondence 
+
+30:18
+
+1:6 
+
+D 1:22 2:10 3:1 
+
+17:9 
+
+consignor 4:22 
+consistent 4:16 
+
+5:12 46:23 
+consistently 
+
+23:17 
+
+constantly 8:24 
+constitutes 14:8 
+construction 
+
+44:23 
+cost 30:8 
+counsel 15:24 
+28:19 29:4 
+61:21 66:4,5 
+counting 34:5 
+country 26:3 
+couple 10:1 
+
+62:13 
+
+course 9:25 15:7 
+
+damages 59:1,5
+data 24:10,11
+dates 24:16
+DBA 1:7
+deal 34:2
+deals 20:10
+dealt 21:20
+debate 7:8
+debating 7:19
+
+Alderson Reporting Company 
+
+Official 
+
+70 
+
+document 44:12  effect 24:18 
+doing 10:8 24:3 
+26:9,9 60:15 
+
+effective 30:9 
+
+29:18 
+
+DOL 16:21 17:3 
+
+58:24 
+
+effort 39:6 53:3 
+
+17:16 21:20 
+22:1 23:17 
+53:24 59:6 
+24:15,21 27:24  efforts 32:20 
+29:3,20 
+
+either 3:17 
+
+discretion 29:1 
+
+43:16 
+
+discussed 18:10 
+disfavored 
+
+58:22 
+
+disposition 4:11 
+dispositive 
+37:15 40:9 
+distinct 22:2 
+distinction 
+
+13:23 23:17 
+33:4,22 34:12 
+38:13 
+
+distinguished 
+60:25 61:3 
+distinguishes 
+
+distinguishing 
+
+40:19 
+
+35:2 
+
+distribution 
+
+48:14 
+
+Division 18:21 
+
+25:9 
+
+doctor 5:4 13:18 
+
+14:2,13,17 
+21:13 32:11 
+35:10,11,23 
+36:19 54:11,14 
+54:14,20 55:2 
+56:9,11,12,15 
+56:15,18,25 
+57:8,12,14,19 
+65:11,17 
+
+doctors 3:23 4:3 
+9:12,16,18,22 
+41:21 44:7 
+54:4 55:2 
+56:13 65:13 
+doctor's 36:13 
+36:14 57:8,11 
+doctrine 54:10 
+
+dollars 51:10 
+DOL's 17:25 
+
+30:7 
+
+door 36:16 
+double 34:5 
+doubt 49:10 
+
+dramatically 
+
+54:19 
+
+62:13 
+
+draw 12:6,6 
+33:3 34:12 
+38:13 
+
+drawing 46:20 
+
+drew 10:14 12:5 
+driven 65:2 
+driver 8:24 
+drives 54:5 
+drug 13:7,21 
+14:3,4 28:17 
+44:7 
+
+drugs 3:22 4:2 
+
+21:2 40:25 
+65:12 
+
+duties 29:2 
+duty 9:3,4,6,9 
+10:9 32:6,10 
+32:23 
+
+D.C 1:9,16,19 
+
+1:22 
+
+E
+
+E 2:1 3:1,1 
+earlier 52:6
+early 40:23
+easy 45:15
+echoed 15:13
+
+distributor 54:1  drawn 23:17 
+distributors 
+draws 12:9 
+52:24 53:4 
+district 42:17 
+52:25 53:1 
+64:24 
+
+15:14 33:22 
+
+53:24 58:3 
+engages 3:22 
+
+15:11 
+
+enormous 9:4 
+enter 55:25 
+enters 38:17,20 
+Entertainment 
+
+9:24 
+
+entire 62:9 
+environment 
+
+41:18 
+
+equivalent 
+
+52:11 
+
+era 22:19 
+err 52:2,3 
+escaped 28:6 
+especially 35:21 
+
+45:21 
+
+11:18 21:24 
+37:15 
+
+elaborated 3:17 
+elderly 15:18 
+else's 33:24 
+emergency 8:15 
+
+8:21 10:19 
+15:2 
+
+employ 27:9 
+employee 4:18 
+
+10:8 15:1 16:7  ESQ 1:16,18,22 
+17:22 20:14 
+39:19 42:15 
+45:3 58:2 
+
+essential 20:7,16 
+
+2:3,6,10,13 
+
+21:4 62:8 
+
+employees 8:5 
+22:3,5 24:24 
+24:25 29:1 
+30:14 41:14,15  evaluated 31:1 
+62:22 
+
+establish 16:9 
+estimates 51:9 
+ET 1:3 
+
+evenly 22:23 
+events 5:2 7:8 
+
+employer 3:20 
+
+21:7,25 
+
+4:15 7:14 
+24:17,20 30:11  eventually 33:18 
+46:13 62:18 
+employment 
+
+everybody 
+31:18 32:3 
+everybody's 
+
+10:8 
+
+20:7 63:9 
+
+exchanging 14:3 
+exclusively 65:2 
+excuse 6:9 9:2 
+
+17:6 18:3 
+63:13 
+
+exempt 7:25 8:4 
+11:14,23 12:1 
+15:9,15,17,18 
+17:7 31:17,23 
+31:24 33:9 
+39:7 40:6 
+41:25 43:4 
+48:15 51:17,22 
+52:6 53:15,20 
+57:17,17 59:8 
+exemption 3:13 
+4:19 11:19,22 
+15:9 20:1,23 
+24:19 29:20 
+32:4 39:19,21 
+41:23 42:9,15 
+42:19 43:17 
+49:12,13 53:22 
+exemptions 12:4 
+
+32:5 62:21 
+
+exercise 43:16 
+exercised 29:1 
+expect 28:5 61:8 
+
+61:9 
+
+expectation 
+
+24:10 27:23 
+expected 9:11 
+experience 
+12:18 57:9 
+
+expertise 45:20 
+explain 7:2 
+
+employs 35:22 
+encountered 
+
+17:2 
+
+encourage 65:4 
+encyclopedia 
+55:11 56:1 
+enforce 50:20 
+
+51:1 
+
+enforcement 
+26:16 27:2 
+engage 21:6 
+engaged 17:22 
+18:24 39:22 
+40:11 41:4,8,9 
+
+31:24 
+
+exact 42:10 
+exactly 22:21 
+
+53:2 
+
+example 8:10,16  explained 18:20 
+
+10:25 11:23,25 
+12:16 15:5 
+46:8 48:9 
+52:21,22 
+
+examples 10:17 
+
+63:21 
+
+explains 9:12 
+
+62:10 
+
+explanation
+
+58:9,10
+
+10:20 
+
+exchange 3:19 
+
+expressed 37:22 
+extend 19:6 
+3:25 4:9,15 5:4  extent 15:13 
+5:4 7:12,14,20 
+
+27:22 
+
+Alderson Reporting Company 
+
+Official 
+
+71 
+
+go 5:24 7:4 
+
+government's 
+
+13:14,14 19:4 
+23:24 25:3 
+36:14,20 58:18 
+59:17 60:4 
+64:16 
+
+goes 40:10,11 
+
+56:12,24 57:7 
+going 7:12 10:9 
+
+4:17 5:11 
+12:11 16:20 
+25:14 35:7 
+43:2,12 58:1,9 
+58:10 
+
+grant 20:1 
+ground 16:6 
+32:3 56:25 
+group 35:14 
+GSK 28:16 54:1 
+GSK's 21:2 27:8 
+
+guess 19:4 20:13 
+
+28:12 
+
+13:11 21:13 
+23:4 26:10 
+27:18 31:15 
+34:1 37:16 
+50:8,11 52:2 
+55:24 56:3,10 
+56:15 59:10 
+61:16 62:23,25  guidance 3:16 
+14:1 30:7,12
+63:2 
+30:13 47:15 
+62:18,20
+
+20:18 23:15 
+46:16 
+
+Goldstein 1:16 
+2:3,13 3:6,7,9 
+4:24 5:8,10,15  guilty 28:20 
+5:19 6:4,7,14 
+6:17,21,25 7:5  guy 55:3,5
+8:3,14,20,23 
+H
+9:7,10,17 10:1 
+10:4,18,21,25
+11:6,17 12:8 
+13:2,10 14:11 
+14:24 15:4 
+61:24 62:1,3
+63:20 64:2,4,7
+64:10 65:5,14
+65:20,24
+golf 9:24,25
+good 9:22 11:24 
+
+handful 53:10
+handle 52:23
+happen 23:9
+
+hand 24:23
+
+29:23 
+
+58:14
+
+51:20
+
+58:25
+
+52:9
+
+half 9:25 58:24 
+
+hallmark 39:13
+
+11:24 53:25 
+55:13 
+
+goodness 9:4 
+
+12:12 
+
+goods 17:3,17
+
+18:23,25 19:17 
+20:5,16,17
+government
+
+5:22 7:2 17:14 
+29:6,13 37:7 
+37:22 38:5 
+47:17 48:21 
+
+happened 18:12
+happens 7:15
+
+56:22
+
+hard 60:8
+hear 3:3
+heard 58:9
+hearings 23:7
+hears 54:14
+heavily 10:7
+helpful 60:13
+hey 26:12
+he'll 20:17
+
+extra 44:8 
+extraordinary 
+26:14 27:21 
+
+extras 9:21 
+
+F 
+
+facilities 17:24 
+
+18:1 19:18 
+58:5 
+
+fact 4:4 9:13 
+14:9 65:7 
+
+facts 27:7 28:12 
+
+45:6 
+
+factual 30:11 
+fair 3:11 11:5,9 
+
+11:24 12:4 
+18:13 24:7 
+43:23 
+
+fairly 60:17 65:6 
+fall 11:18 
+falls 50:22 
+familiar 12:21 
+far 22:23 27:24 
+
+40:21 54:1 
+fashion 60:22 
+fault 24:23 
+favor 42:18 49:7 
+FDA 43:6,24 
+Federal 7:18 
+10:6 37:21 
+Federation 
+
+24:13 
+
+feels 59:19 
+fight 5:2 
+figure 44:17 
+figures 59:2 
+file 26:3,10 
+filed 24:14 25:10 
+
+25:22 
+
+filing 24:5 26:16 
+filings 25:19 
+filled 28:16 
+final 57:1 
+finally 56:4 57:2 
+find 4:11 12:12 
+12:14 23:21 
+63:8,12 
+
+finding 64:25 
+
+65:7,9 
+
+fine 12:5 15:14 
+23:25 60:10 
+fireman 8:24 
+firm 64:11 66:1 
+firmer 55:17 
+first 14:12 20:24 
+
+54:15 56:24 
+62:5 65:15 
+
+fit 11:16 16:10 
+flatly 46:1 
+flexible 39:14 
+
+58:15 
+
+FLSA 4:5 15:14 
+
+57:16 59:3 
+62:16,21 
+
+focus 27:3 35:5 
+
+41:20 
+
+focused 53:4 
+follow 14:25 
+
+following 38:10 
+
+34:1 
+
+50:1 
+
+follows 4:3 
+21:16 34:7 
+49:20 
+
+force 49:13 
+
+52:16,20 53:13 
+
+forget 46:18 
+form 5:3 38:15 
+39:23 40:12 
+forms 30:6,13 
+
+31:21 
+
+forth 11:11 
+forward-looki... 
+
+40:18 
+
+found 17:3 
+Fox 50:7 
+frame 14:13 
+frames 12:22,22 
+framing 12:21 
+12:23,24,25 
+13:25,25 
+
+frauds 37:13 
+freight 18:17 
+friend 62:6 
+
+function 41:1 
+functional 52:11 
+
+58:15 
+
+further 3:16 
+10:8 63:3 
+future 6:18 
+
+12:13,25 13:9 
+23:9 
+
+G
+
+G 3:1
+Gee 22:16
+general 1:18
+
+23:16,16 39:12 
+
+generally 36:2
+getting 21:13
+40:16 44:7
+52:10 61:18
+64:23
+
+gift 50:24
+Ginsburg 7:17
+
+8:10 9:20 10:2 
+10:16,19,22
+11:19 14:25
+30:1 33:11,15
+33:17,20 37:4 
+39:16,24 40:10 
+40:15,21 41:17 
+42:14,22,25 
+48:16,23 49:3 
+49:7 51:12 
+52:15 53:7,11 
+53:14,17 
+
+give 6:11 11:22 
+12:16 23:10 
+27:19 31:14,23 
+32:11 45:11,20 
+given 30:24 46:5 
+
+50:23 59:7 
+65:13 
+
+gives 30:4,6 
+
+45:14 47:15 
+52:21 56:2 
+giving 10:17 
+
+29:5 45:4,14 
+GLAXOSMI... 
+
+1:7 
+
+Alderson Reporting Company 
+
+Official 
+
+72 
+
+14:2 19:13 
+40:15 42:10 
+53:2 58:19 
+62:17 
+
+issued 18:11 
+
+highest 27:8 
+highly 10:23 
+hire 21:22 
+hired 30:23 57:9 
+historically 22:1 
+history 22:25 
+41:15 54:23 
+61:7 
+
+home 36:20 
+Honor 32:15 
+42:16 53:22 
+54:18 55:9 
+hope 56:7,14 
+hospital 33:18 
+hospitals 41:2 
+52:18 53:20 
+
+Hour 18:21 25:9 
+hourly 59:4 
+hours 8:2 9:3,5 
+9:6,8 10:9,23 
+55:15,25 56:1 
+59:7,9 
+
+house 55:11 
+How's 45:2 
+hundreds 29:10 
+
+29:10 62:22 
+hypothetical 
+
+13:25 
+I 
+idea 46:2 
+identified 24:12 
+identify 24:15 
+ii 58:4,7 
+illegal 13:4 
+imagine 55:10 
+implausible 
+
+49:21 
+
+important 10:10 
+28:14 32:1,16 
+33:21 36:12 
+38:9 39:15 
+40:4 51:6 
+58:16 62:16 
+65:20 
+
+impose 50:11 
+imposed 51:7 
+
+imposing 52:3 
+imposition 
+
+58:20 
+
+impossible 
+
+63:12 
+
+improper 49:22 
+incentive 44:9 
+
+44:24 
+
+incidental 33:12 
+
+51:16,21 
+
+included 17:2 
+
+19:11 
+
+includes 3:17 
+4:9 5:22 7:8 
+9:23 16:24,25 
+including 61:14 
+inconsistent 
+39:17 46:1 
+
+incorporates 4:5 
+increase 21:23 
+incredibly 12:5 
+independent 
+24:13 29:1 
+41:10 
+
+indicated 59:12 
+indicates 24:5 
+indirectly 21:24 
+individual 25:15 
+
+29:22 
+
+individuals 
+
+18:14 43:4,21 
+
+individual's 
+
+52:7 
+
+industries 23:4 
+29:5,11 31:21 
+35:16 40:20 
+53:12 
+
+industry 14:14 
+14:19 15:21 
+21:11,12 22:25 
+24:10 27:23 
+28:6 30:14 
+31:10 32:16 
+35:9,14,22 
+39:10 40:19 
+41:20 42:8 
+43:3 49:14 
+
+50:12 51:9 
+54:6,8,10,25 
+56:22,23 60:3 
+64:20 
+
+influences 65:17 
+information 
+32:11 41:8 
+56:9 57:1,2 
+informational 
+
+41:1 
+
+informed 23:13 
+input 25:4 
+inquiry 43:1 
+instance 13:19 
+29:16 48:13 
+instinct 60:6 
+instinctive 23:12 
+instituted 26:2 
+instruction 41:8 
+insurance 11:1 
+interaction 
+
+19:20,21 56:21 
+
+interest 40:16 
+interesting 
+
+36:20 56:10 
+intermediary 
+
+54:10 
+
+internally 25:6,7 
+interpret 10:6 
+interpretation 
+
+interpretations 
+
+49:21 
+
+52:12 
+
+interpretative 
+
+47:15 
+
+interpreted
+18:22,23
+
+interrupt 25:18 
+invent 58:7 
+involve 7:14 
+involved 31:22 
+
+35:10 
+
+involving 46:9 
+ironically 38:5 
+isolated 56:20 
+issue 3:24 4:20 
+
+4:23 7:9,16 
+
+Alderson Reporting Company 
+
+31:4,6,9,14,17 
+31:25 32:9,23 
+33:11,15,17,20 
+34:8,18 35:12 
+35:20,25 36:3 
+36:4,9,18,24
+37:4,8,19 38:3 
+38:23 39:5,16
+39:24 40:10,14
+40:21 41:17,24
+42:1,2,4,14,22
+42:25 43:7,9
+44:1,2,3,4,11
+44:16 45:2,11
+45:22,23 46:16 
+47:3,7,13,20
+48:2,6,16,23
+49:3,6,15 50:4 
+50:13 51:3,12
+52:15 53:7,11
+53:14,17 54:13 
+55:1,17 56:6 
+56:19 57:23 
+58:8 59:12,14
+59:17,18 60:9 
+60:20 61:21,22
+61:24 62:4 
+63:15,25 64:3 
+64:5,9,24 65:5 
+65:9,19,22,24
+66:4 
+
+J
+
+job 9:21 30:23 
+53:5 62:7,20
+65:3
+
+jobber 46:9,13
+
+48:9,12
+jobs 61:16
+joint 9:11
+journals 56:12
+judge 60:5,23,25
+60:25 61:1,2,3
+65:7
+
+judges 59:25
+judgment 29:2
+42:18 43:20
+65:8
+
+justification
+
+Justice 1:19 3:3 
+3:9 4:16 5:6,9 
+5:11,17 6:1,5,9 
+6:15,18 7:3,17 
+8:10,18,21 9:2 
+9:8,11,15,20
+10:2,16,19,22
+11:4,6,8,19
+12:6,9,20 13:5 
+13:10 14:6,23
+14:24,25 15:5 
+15:13,24 16:4 
+16:11,12 17:5 
+17:6,12 18:3,8  Kagan 14:23,24
+19:3,13,23 
+20:12 21:10 
+22:3,7,15,20 
+22:22 23:19,21 
+23:24 24:2,4 
+24:22 25:17,23 
+26:1,8,14,18 
+26:23 27:1,13 
+28:1,5,19,20 
+29:4,9,21 30:1 
+30:15,20 31:2 
+
+20:12 21:10
+34:8,18 35:12 
+35:20 38:23
+39:5 43:7,9
+44:1,3 46:16 
+47:3,7,13,20
+48:2 50:13
+51:3 56:6,19
+
+Kennedy 11:4,6
+11:8 15:5 24:2 
+35:25 36:3,4,9
+
+21:21 
+K
+
+Official 
+
+73 
+
+little 21:10 32:6 
+
+61:18 
+
+40:1 
+
+massive 50:11 
+
+51:8 52:3 
+58:23 
+
+money 27:19 
+morning 3:4 
+motion 21:7,25 
+
+lo 27:15 
+logic 65:9 
+long 22:16 31:6  matter 1:12 4:3  movie 15:15 
+
+material 36:21  movement 
+materials 22:23 
+
+52:23 
+
+36:18,24 37:8 
+37:19 38:3 
+49:15 50:4 
+64:24 65:5 
+Kennedy's 
+59:18 60:9 
+kind 8:1 10:5 
+36:23 43:22 
+50:11 52:19 
+53:5 
+
+kinds 9:1 
+know 7:1 8:11 
+19:10 20:21 
+25:2,4,5 26:21 
+27:24 28:2,6 
+36:6 37:13 
+45:9 47:17 
+54:15 55:3,9 
+55:10,12,14
+ 
+56:21 58:21 
+59:19 60:22 
+
+known 28:9 
+
+L 
+
+L 1:18 2:6 16:1 
+label 42:13 
+labor 3:11,12 
+
+11:5,9,24 12:4 
+25:8,16 26:19
+ 
+30:3 34:15 
+43:11,18,20,23
+ 
+43:25 45:13,25 
+47:3 48:22 
+50:19 57:16 
+60:8 63:17 
+
+Labor's 39:20 
+
+language 4:12 
+
+63:4 
+
+16:17 
+
+large 8:5 39:12 
+Laughter 6:24 
+
+10:3 12:19 
+23:23 28:4 
+50:5 61:4 
+
+law 4:3 7:18 8:2 
+10:6 12:17,17 
+12:20 13:4 
+
+23:13 26:7,12 
+27:18 28:22 
+50:8 55:14,14 
+
+lawful 36:4,9 
+lawsuits 61:16 
+lawyer 60:7 
+lays 18:13 56:24 
+leads 21:25 
+learned 54:10 
+leave 17:1 
+legal 23:13 
+
+24:13 
+
+legitimate 48:7 
+lesser 5:3 
+letter 24:15,17 
+
+27:25 28:10,25 
+28:25 29:6,11 
+29:13,23 30:6 
+30:8 39:17 
+40:3,10 41:7 
+48:24,25 49:2 
+
+letters 29:10 
+
+30:4 
+
+let's 23:9,10 
+
+50:6,7 54:13 
+59:14 60:10 
+level 25:2 27:8 
+liability 32:13 
+43:14 50:12 
+51:8 52:4 
+58:20,23 
+life 12:17 
+limit 58:11 
+limitation 7:18 
+limited 7:9 
+limiting 32:24 
+
+32:24 33:1 
+
+line 10:14 12:10 
+
+12:10 14:6,9 
+30:9 46:20 
+lines 12:5,7 
+15:14 61:6 
+
+liquidated 58:25 
+list 31:6 
+listen 55:2 
+literally 8:9 
+litigation 32:14 
+
+Alderson Reporting Company 
+
+31:23 32:22 
+33:7 37:12 
+40:6 
+
+13:4 26:20 
+29:16 52:5 
+57:15 58:11 
+66:8 
+
+longer 30:3,3 
+look 17:18 19:8  mean 9:16,21 
+
+22:22 33:3 
+34:3,10,19 
+35:24 36:15,19 
+37:15 46:15 
+50:22 51:13,13 
+52:25 56:20 
+58:13 59:21 
+61:22 64:17 
+
+25:6,11 33:18 
+34:10 35:13 
+37:24 38:4 
+40:3 41:18 
+44:11,12 46:23 
+47:5 52:16 
+53:11 54:3,16
+ 
+55:21 56:7,14 
+56:21 63:25 
+43:19,23 50:24  meaning 16:23 
+16:24 17:23 
+18:19 31:18 
+45:19 58:3 
+
+55:13 
+
+lose 42:23 
+lot 11:21 12:3,14  meat 12:2 
+
+looking 36:24,25 
+
+looks 54:23 
+
+median 43:21 
+27:18 49:8 
+50:14,15 55:2  medical 39:22 
+56:11 57:7,7
+
+
+lots 8:16,25 
+
+60:16 
+love 38:3 
+low 59:4 
+lower 17:13 
+
+60:22 
+M
+
+magazine 15:17 
+making 16:24 
+
+17:20,22 40:12 
+43:19 50:10 
+57:5 58:3 
+61:19 65:23 
+Malcolm 1:18 
+2:6 16:1 30:1 
+
+malfeasance 
+
+28:21 
+
+management 
+27:8 28:13 
+
+medically 21:14 
+
+32:18 37:2
+ 
+
+medicine 37:2 
+
+56:16 
+
+medicines 53:5 
+men 35:3 
+mentioned 58:1 
+met 14:18 
+MICHAEL 1:3 
+mind 41:25 43:5 
+
+61:2 
+
+minimal 7:23 
+minimum 50:10 
+minutes 61:25 
+mission 21:6 
+missionary 35:3 
+
+39:23 
+
+mistake 42:21 
+Monday 1:10 
+
+multiple 56:23 
+
+N
+
+N 2:1,1 3:1 
+name 25:10,13 
+National 24:12
+nature 36:13 
+
+37:14,24 41:19 
+62:7 
+
+nearly 24:7 
+necessarily
+
+22:10 23:13
+27:2 35:16 
+
+necessary 32:18 
+need 46:5 54:3 
+
+55:20
+
+needs 35:14 
+negotiate 18:15
+
+18:17 19:2 
+neither 13:3
+never 17:2 29:20 
+
+46:11 47:22
+48:11,13 49:20 
+new 37:22,22,23
+
+49:18,19
+newspaper
+
+15:16
+
+newspapers
+
+18:16 
+
+NFIB 46:14
+nightmare 63:2 
+Ninety 27:15
+Ninth 16:13 
+
+25:11,11
+
+non 37:4
+nonexempt 3:17
+
+33:5,15
+
+non-binding
+
+37:6,11 40:18 
+
+normal 25:23
+notice 23:6
+
+Official 
+
+74 
+
+notion 35:8 50:7  operate 8:8 
+Novartis 25:12 
+nuances 30:11 
+number 8:5 18:4 
+
+operates 53:13 
+opinion 24:15 
+
+19:9 50:16 
+58:7 65:2,11 
+65:12 
+
+numerous 65:17 
+
+O 
+O 2:1 3:1 
+object 40:12 
+objection 49:20 
+objective 17:13 
+
+32:17 
+
+obtain 17:13 
+obtaining 17:20 
+
+17:23 58:4 
+obtains 44:13 
+obviously 40:1 
+
+65:11 
+
+occupations 
+
+11:8 
+
+occur 21:8 
+occurs 4:21 5:13 
+
+64:19 
+
+odd 35:21 
+office 8:25 25:8 
+
+25:18 36:14 
+57:8 59:8 
+officer 8:23 
+offices 9:12,18 
+off-label 43:12 
+
+oh 6:4 19:10 
+
+43:14 
+
+27:17 
+
+okay 12:21 
+
+23:11,20 54:15 
+55:3,6 64:9 
+once 19:24,24 
+42:11,11 43:2 
+ones 41:22 61:15 
+one-time 56:21 
+one-to-one 
+
+44:22 
+
+ongoing 61:18 
+open 17:1 42:23 
+
+24:17,18 27:25 
+28:10,24,25 
+29:6,10,13,18 
+29:23 30:4,6,8 
+39:17 40:3 
+41:7 48:23,25 
+49:2,16 52:25 
+60:18,23 
+
+opinions 60:23 
+opportunity 
+
+29:6 
+
+opposed 61:17 
+option 30:2 
+
+59:12 
+
+oral 1:12 2:2,5,9 
+3:7 16:1 30:18 
+37:12 
+
+order 12:25 16:7 
+35:22 38:14,17 
+38:21 39:10 
+41:22 43:14 
+54:11,25 55:15 
+55:25 56:3 
+57:20,20 
+
+orders 17:20,23 
+
+54:9 58:4 
+ought 24:8 
+outside 3:13,14 
+4:19 7:22 8:6 
+8:15,25 10:12 
+11:2,23,25 
+12:1 15:6,8,11 
+15:20 16:7 
+18:18 22:12 
+24:20 29:11,19 
+33:4,7 34:22 
+35:15,19 37:23 
+38:11,22 39:2 
+42:18,23 43:13 
+44:12 45:12 
+46:10 48:10,15 
+49:12,13 52:19 
+52:22 53:22,23 
+59:8 60:16 
+
+overall 21:23 
+
+45:10 
+
+overtime 9:4 
+27:20 59:9 
+
+overturn 60:12 
+
+P
+
+P 3:1
+page 2:2 4:6,8 
+17:19 46:14
+47:18,19,19
+53:1 57:25
+
+paid 15:3 44:4 
+
+59:2
+
+panel 60:25
+pardon 14:16
+part 7:12 9:21 
+14:1 20:16,20
+26:1 53:23,23
+56:17 60:3,3
+62:8
+
+participate 21:5
+particular 30:11
+
+32:21 40:2
+41:11 62:14,17
+
+particularly
+
+32:22
+
+parties 61:14
+partly 60:6
+parts 63:21 64:8 
+passage 60:2
+patient 37:1
+
+54:16,21
+
+patients 13:8
+
+PAUL 1:22 2:10 
+
+57:3
+
+30:18
+
+pave 35:4
+pay 27:18 44:8 
+peculiar 14:6
+15:21 50:18
+
+peculiarity
+
+15:21
+
+people 8:12,16
+
+9:8 10:22 11:1 
+11:2,21 14:10 
+15:3 18:24
+
+19:1,8 21:25 
+22:24 23:7,10 
+27:14,19 28:14 
+28:21 31:1 
+34:12,13,14,15 
+34:16 35:2,4 
+35:14,22 36:15 
+39:2,7 41:4,8 
+41:11 44:18,18 
+46:6,20,21 
+52:23 53:8,10 
+53:18 54:9 
+56:2,3 57:17 
+59:1 
+
+people's 59:7 
+percent 44:24 
+
+perfectly 46:22 
+
+50:2 
+
+57:18 
+
+performance 
+29:2 45:8,10 
+performs 20:15 
+period 37:18 
+
+48:17 
+
+person 6:20 
+
+12:25 15:11 
+19:21,22 31:20 
+32:7 36:16 
+39:9,9,11 
+44:13 47:22 
+48:5,15 54:11 
+
+48:17 49:4 
+52:16 53:18 
+62:10,11 
+pharmacies 
+14:16 21:3 
+28:17 52:17 
+53:19 
+
+33:19 57:22 
+64:19,20
+
+phased 30:5 
+phrase 7:7 
+PhRMA 10:6 
+51:9 52:21 
+
+pharmacy 21:16 
+
+physician 19:20 
+
+55:18 64:16 
+
+physicians
+
+27:10,12 28:15 
+53:6 65:3 
+
+Pick 64:3 
+pitches 34:16 
+
+46:22 
+
+pitchman 34:23 
+pitchmen 34:14 
+
+34:21 35:2 
+place 41:22 
+47:16 54:9 
+
+places 12:3 39:9 
+
+54:11 
+
+plaintiffs 65:3 
+plate 50:17,20
+play 21:4 
+person's 40:7 
+persuade 28:15 
+playhouse 15:16 
+pertinent 17:19  please 3:10 16:5 
+Pete's 65:10 
+petition 53:1 
+Petitioners 1:4 
+1:17,21 2:4,8 
+2:14 3:8 16:3 
+30:22 44:21 
+62:2 65:1 
+
+30:21 63:7 
+plenty 50:2 
+plus 58:25 
+pocket 42:10 
+point 14:21 
+
+pharmaceutical 
+3:21 4:1,2 7:15 
+8:7 10:11 
+14:14,15,20 
+29:12 30:22 
+39:18 41:2 
+
+15:12 22:20 
+23:7 24:11,11 
+54:20,21 58:17 
+61:5 62:16 
+64:13 65:19,20
+65:21,22,24
+pointed 16:17 
+pointing 5:23 
+
+Alderson Reporting Company 
+
+Official 
+
+75 
+
+primary 32:6,10  proper 26:6 
+28:10 49:5 
+
+32:23 
+
+practically 37:3  problematic 
+practices 35:18 
+preamble 64:12  problems 47:13  protect 24:25 
+precatory 13:18  procedure 25:24  protected 43:22 
+
+43:12 
+
+40:5 
+
+points 4:12 62:5 
+
+63:3 
+
+police 8:23 
+policies 57:16 
+policy 43:11,20 
+
+43:25 
+
+57:5,19 65:11 
+65:16 
+
+prescriptions 
+28:16 54:5 
+65:2,4,10,12 
+65:13 
+
+58:2 
+
+position 5:11 6:2  present 23:7 
+presentation 
+
+6:6 16:20 
+18:21 19:16 
+43:2 50:9 51:5  presents 37:1 
+presto 26:12 
+51:6,7 61:9 
+pretty 22:23 
+63:4 
+28:12 50:18 
+52:9 
+
+Posner 60:25 
+Posner's 60:23 
+possessed 20:8 
+possession 17:11 
+possibility 17:1 
+possible 35:12 
+
+previously 
+
+24:16 
+
+35:21 46:24,25  principle 32:25 
+47:1,2 
+
+33:1 
+
+poultry 11:25 
+power 19:7,25 
+practical 20:15 
+
+31:12 
+
+probably 55:8 
+problem 23:3 
+38:10 43:18 
+50:17,20 51:1 
+
+63:5 
+
+proceed 43:3 
+
+precedent 62:25  proceeded 20:4 
+process 25:2,6 
+precise 17:10 
+product 13:13 
+prefer 45:13 
+preferred 45:25 
+22:1,2 36:17 
+premise 8:3 
+44:25 45:8 
+46:11 52:24 
+54:1,2,4 55:4,6 
+55:19 56:13 
+
+prescribe 13:20 
+
+21:21 28:25 
+
+32:18 35:23 
+36:16 37:3 
+40:17 44:7 
+57:3 
+
+prescribing 
+21:14 53:6 
+56:16 
+
+prescription 
+3:24,25 7:16 
+13:8 14:2 
+40:24 54:21 
+
+products 14:14 
+
+28:16 32:13 
+39:2 57:19 
+
+program 26:2 
+
+30:6,8 
+
+prologue 32:19 
+promise 16:15 
+promote 32:20 
+promoted 39:2 
+promoter 13:12 
+
+36:9 39:18 
+55:15 56:3 
+
+promotes 34:6 
+promoting 3:15 
+promotion 3:17  p.m 9:13 
+Q
+
+3:22 9:1 13:11 
+27:6 28:11 
+33:4,5,7,8 
+35:11 39:12 
+40:12 44:5 
+51:15,16,20,21 
+
+promotional 
+21:19,22,23 
+22:7 23:18 
+31:20 33:12,22 
+33:24 39:1,7 
+39:23 40:5,6 
+52:6 
+
+property 4:20 
+
+4:23 6:11 
+
+proposal 38:25 
+
+39:1 
+
+proposals 38:24 
+propose 49:17 
+prosecutions 
+
+provide 30:12 
+30:13 47:16 
+provided 3:14 
+provides 4:8 
+
+56:9 
+
+provision 4:8 
+PSRs 16:10 
+
+48:19 
+
+public 29:16 
+purchase 13:24 
+
+13:25 16:15 
+57:21 
+
+purely 6:18 
+purposes 4:18 
+
+14:22 20:22,23 
+
+pursue 59:14 
+pursuits 11:9 
+put 9:5 18:4 
+
+31:12,21 36:5 
+
+qualifications
+
+32:1
+
+qualified 32:7
+qualify 17:14,17
+
+32:4 39:2
+
+quasi-commit... 
+
+27:11
+
+question 5:9
+16:12 17:5
+18:12,14,18
+19:5 20:18,19
+27:3 30:10
+44:18 47:8
+50:21 58:17
+59:18,25,25
+60:4,8,9 61:2 
+
+quibble 51:4
+quick 62:5 63:3 
+quietly 24:5
+quirk 22:14
+quite 9:10 59:5 
+quote 4:17
+quote/unquote
+
+3:12
+
+R
+
+R 3:1
+radio 18:15
+19:22 20:5
+
+rail 18:17
+rank 41:10,11
+rational 43:20
+rationale 11:10
+
+30:7
+
+rationally 43:22
+reaction 23:12
+read 23:19,21
+23:24 36:20
+47:8 62:5 63:7 
+
+reading 40:2
+
+46:24,25 47:1 
+47:2,6
+
+reads 56:11,25 
+real 21:12 
+really 7:3 10:9 
+
+19:4 20:1 
+34:18 35:1,5,7
+38:24 39:15 
+42:10,20 47:22 
+53:24 
+
+reason 33:21 
+
+52:4 53:3 
+
+reasoning 50:1 
+reasons 40:22 
+
+57:18 
+
+REBUTTAL 
+
+2:12 62:1 
+recall 12:11 
+receive 15:6,8
+22:12 44:7,19
+44:23 
+
+receives 44:9 
+recognize 33:21 
+recognized 23:3 
+reconstruct 59:6 
+
+59:9 
+
+record 29:17 
+44:21 45:7 
+65:8 
+
+refer 18:23 
+19:17 35:3 
+reference 5:12
+references 62:14
+referred 50:14
+refers 4:21 7:6 
+
+17:19
+
+regard 21:9
+regarded 19:1
+
+20:6 22:1 27:5 
+
+regime 49:19
+regular 9:5 26:2 
+regulation 3:14
+
+4:4 10:24
+17:19 20:13,19
+24:4,4 28:11 
+31:15 35:6,17
+40:8 43:6,24
+50:23 51:14
+52:6 
+
+Alderson Reporting Company 
+
+Official 
+
+76 
+
+regulations 
+16:21 27:6 
+32:21 33:3 
+34:11,19 37:23 
+38:9 40:24 
+49:19 50:22 
+51:2,14,19 
+52:12 54:22 
+57:24 60:17 
+64:12 
+
+regulatory 34:3 
+
+41:18 52:12 
+54:23 
+
+rejected 39:3 
+relationship 
+9:22 10:9 
+14:17 
+
+relatively 59:4 
+relevant 21:1 
+31:10 32:5 
+38:1 39:10 
+54:24 
+
+remainder 
+
+remarkable 
+
+15:23 
+
+58:19 
+
+48:17,18,21 
+49:1,4 62:18 
+requirement 
+
+requirements 
+
+31:13 
+
+62:11 
+
+requires 7:11 
+17:21 58:2 
+
+requiring 46:19 
+reserve 15:23 
+respect 17:9 
+24:9 31:5,8 
+32:15 33:24 
+47:12,25 48:4 
+63:1 
+
+responded 
+
+29:20 
+
+Respondent 
+
+1:23 2:11 4:1 
+11:12 12:12 
+16:9 30:19 
+Respondent's 
+
+24:14 
+
+response 39:20 
+responses 45:24 
+responsive 
+
+remember 13:4 
+
+41:23 
+
+13:22,24 14:13  restricted 10:7 
+15:7 
+
+restricting 
+
+rental 17:13,25 
+reorder 28:17 
+
+28:18 
+
+repeated 64:11 
+repeatedly 
+
+restrictions 10:5 
+
+40:24 
+
+62:12 
+
+54:3 
+
+result 35:17 
+
+63:23 
+
+retroactive 
+report 18:11,13 
+50:11 52:4 
+58:20,21 61:10 
+18:20,25 20:4 
+22:11 34:20,20  return 20:9 21:3 
+46:8 48:10 
+63:23 
+
+reports 60:17 
+representatives 
+
+30:23 61:15 
+62:10 
+
+reps 52:23 
+request 24:20 
+29:17 39:18 
+
+28:24 37:17 
+reverse 23:4,5 
+review 25:18 
+rid 39:1 
+right 7:5 9:10,24 
+
+23:6 24:22 
+25:5 26:8,23 
+28:3,21 29:8 
+33:16 44:15,17 
+
+48:9 53:3 
+58:10 60:1,10 
+
+rigid 16:16 
+ROBERTS 3:3 
+
+9:15 15:24 
+25:17,23 28:1 
+28:5 30:15 
+31:2,6 54:13 
+55:1,17 60:20 
+61:21 66:4 
+
+role 21:4 36:13 
+
+38:11 40:2 
+room 57:12 
+rule 22:10 29:22 
+29:25 45:15,17 
+45:19 47:15 
+55:23 62:23,25 
+63:13 
+
+rulemaking 
+26:9 38:6,7 
+48:18 49:5 
+58:21 61:13 
+63:1 
+
+rules 23:8 37:23 
+
+60:16 
+
+ruling 24:20 
+
+48:18 
+run 26:3 
+S
+S 2:1 3:1 
+sake 65:10
+sale 4:5,9,9,10
+
+4:10,18,21 5:1 
+5:1,12,13,22
+7:6,7,18,20
+13:1,2,12 14:8 
+14:19 16:13,18
+16:23,24 17:3 
+17:9 20:16,22
+32:10,10,21
+33:18,19 34:7 
+35:5 39:13
+40:24 51:15,16
+51:21 52:13
+54:17,22 55:7 
+56:4 63:6,11
+
+63:14 64:19,22 
+
+sales 3:15,16 
+
+43:13 
+
+52:20 
+
+33:23 
+
+sales-oriented 
+
+samples 57:12 
+satisfied 24:24 
+saw 29:9 
+saying 6:22 
+
+salesperson 33:7 
+34:23 38:11,14 
+15:11,22 16:8 
+38:22 46:10 
+17:17,20,22 
+48:10,12,15 
+18:22,23,23 
+19:2,17,17 
+55:12 57:6,6 
+20:5,5,6,7 21:1  salesperson's 
+21:2,5,6,8,15 
+21:23 27:6 
+28:11 30:22,23 
+30:24,24,25 
+31:1,3,7,10,11 
+31:13,19,21 
+32:6,17 33:5,8 
+33:12,17,23,25 
+34:6,25 35:2 
+36:15 37:23 
+38:16 40:7 
+41:2,5,9,15,19 
+42:18,24 44:14 
+44:19,25 45:1 
+45:9 46:12 
+49:12,13 51:19 
+52:7,14,16,20 
+52:22 53:3,12 
+53:22,24 54:5 
+54:8 55:7,9 
+56:23 57:9,10 
+57:10 58:3 
+61:14 64:14,15 
+64:17,18,18 
+65:1 
+
+16:18 17:21 
+20:14 33:11,12 
+36:19 38:5 
+39:21 41:7 
+44:13 49:17 
+51:15 52:6 
+54:14 55:5,14 
+56:9 58:2 
+59:21 60:10 
+62:6,18 63:6 
+63:13,23 64:14 
+66:1 
+
+13:13,16 14:7 
+25:1 31:18 
+34:15 55:19 
+
+says 5:1,22 6:12 
+
+salesman 3:13 
+
+3:15 4:19 
+10:12 14:8 
+15:20 16:7 
+29:19 31:20 
+35:19 44:5,12 
+60:16 
+
+salesmen 11:15 
+
+12:22 15:8 
+17:7,12 18:19 
+19:1,8 22:12 
+24:21 35:15 
+39:3 45:12 
+56:1 
+
+salespeople 
+
+Scalia 6:9,15,18
+8:18,21 9:2,8 
+9:11 12:6,9,20
+13:5,10 14:6 
+15:13 17:6 
+18:3,8 19:3,13 
+19:23 22:15,22
+26:1,8,14
+27:13 28:20 
+29:21 41:24 
+42:1,2,4 48:6 
+57:23 58:8 
+63:25 64:3,5,9
+65:9,19,22,24
+schmooze 32:11 
+scope 45:23 
+script 43:13,15 
+
+Alderson Reporting Company 
+
+scripts 8:8 
+setting 49:19 
+second 4:8 13:22  Seventh 60:24 
+
+13:23,23 14:1 
+16:12 20:20 
+25:12 32:24 
+33:1 59:15 
+
+Secretary 3:12 
+3:14,16 4:13 
+26:19,22 59:22 
+60:3,15 
+
+Secretary's 4:4 
+
+14:1 
+
+section 4:7 
+
+SG 25:21 
+SHANE 1:3 
+shipment 4:10 
+short 31:7 
+side 24:14 25:5 
+50:23 52:2,3 
+61:18 
+
+significance 
+
+58:19 
+
+significant 14:5 
+
+14:21 59:5 
+61:7 
+
+17:21,23 20:14 
+silly 12:7 38:13 
+57:24 
+simple 52:5 
+see 62:6 
+seek 29:13,23 
+simply 61:12 
+seen 22:23 47:22  sitting 55:10 
+
+48:5 
+
+sees 54:20 
+sell 4:2,9,10 6:12 
+
+57:11 
+
+situation 17:3 
+19:7 37:15 
+38:18 46:9 
+
+6:19,20 7:18
+ 
+7:19 12:22 
+14:15,16 18:15  sleeve 42:9 
+18:16,16 53:8
+ 
+53:19 
+
+six 59:2 
+
+seller 20:8 
+sellers 53:17 
+selling 10:13 
+
+14:10,12 18:25
+ 
+20:17 22:2 
+41:16 
+
+sells 14:14,15 
+19:21 52:17 
+
+sense 20:15 27:8 
+
+slip 32:6 
+slipped 61:2 
+slippery 32:2 
+slope 32:2 
+small 15:16,17 
+
+SmithKline 1:6 
+
+24:13 
+
+3:4 
+
+sold 65:12 
+solicitations 
+
+33:9 40:8 52:8 
+
+Solicitor 1:18 
+
+31:11,19,24
+ 
+44:19 52:13 
+57:15 61:10,11  Solicitor's 25:8 
+64:22 
+
+25:10,13 
+
+25:14 
+
+sensible 57:18 
+service 8:15,21 
+
+10:19 15:2 
+
+services 17:24 
+
+18:1 19:17 
+58:4 
+
+somebody 6:12 
+6:12,13 33:24 
+34:1,5,6 35:4 
+48:12 51:16,22 
+55:10 60:6 
+somebody's 
+
+set 21:7,24 29:5 
+
+46:10 
+
+29:12 
+
+somewhat 40:3 
+
+Official 
+
+77 
+
+40:17,18 
+
+sorry 8:3 25:17 
+43:9 44:3 49:2 
+61:2 
+
+sort 16:14 22:21 
+
+Stein 18:11,13 
+18:20,25 20:4 
+22:11 34:20 
+step 26:16,18 
+
+31:7 
+
+sufficient 43:16 
+suggest 29:21 
+35:13 41:13 
+47:9 58:9 
+
+suggested 16:13 
+
+Stewart 1:18 2:6 
+
+44:1 
+
+31:6 34:5 
+45:16 47:8 
+56:21 
+
+sorting 34:21 
+sorts 18:24 
+Sotomayor 
+
+16:11 28:19 
+29:4,9 31:14 
+31:17,25 32:9 
+32:23 45:2,11 
+45:22,23 
+
+sounds 36:18 
+space 18:16 
+sparse 12:17 
+speak 30:13 
+speaking 59:19 
+specific 17:8 
+23:16 38:18 
+40:13,16 
+
+specifically 39:3 
+specifics 37:21 
+spiel 54:14 
+squared 46:3,3 
+staff 53:18 
+Standards 3:11 
+
+11:5,10,24 
+12:5 43:23 
+
+start 21:14 50:7 
+
+50:7 56:16 
+60:21,23 
+
+State 55:14,23 
+statement 51:21 
+States 1:1,13,20 
+
+2:7 16:2 
+
+status 48:18 
+statute 4:20 7:6 
+
+7:10 18:19 
+37:13 46:2,23 
+47:6 48:9 
+58:25 59:21 
+60:14 62:17 
+statute's 3:13 
+
+15:25 16:1,4 
+16:21 17:8,16 
+18:6,10 19:12 
+19:15 20:3,12 
+20:24 21:18 
+22:5,9,18 
+23:15,20 24:9 
+25:7,21,25 
+26:5,13,15,21 
+26:25 27:5,22 
+28:3,8,24 29:8 
+29:15,24 30:2 
+30:5,16 63:22 
+stick 43:13,15 
+stock 53:5 
+stopped 10:17 
+
+31:7 
+
+store 12:24 
+13:14 14:1 
+
+suggesting 
+
+12:10 55:22 
+
+suggestion 39:4 
+summary 42:18 
+
+65:8 
+
+superior 54:1 
+supervision 7:24 
+supplement 
+12:17 18:5 
+19:7 
+
+supplemented 
+
+18:6 
+
+supplies 57:8 
+supporting 1:20 
+
+2:8 16:3
+ 
+
+suppose 47:7 
+supposed 9:18 
+
+45:19
+ 
+
+Supreme 1:1,13 
+
+24:7 
+
+straightforward  sure 6:7 8:14 
+10:18,21,25 
+12:13 19:23,23 
+46:17 50:6
+ 
+55:24 56:19 
+59:16 
+
+street 13:13 
+strict 8:8 10:5 
+strikes 7:20 
+stuff 39:1 
+submission 62:9 
+submitted 66:6 
+
+surely 47:1 
+suspect 40:22 
+
+66:8 
+
+substantial 
+
+44:24 
+
+substantially 
+
+8:6 
+
+substantive 38:9 
+substantively 
+
+successful 21:16 
+
+38:7 
+
+44:6 
+
+41:13 
+
+25:3 
+
+sudden 27:16 
+
+suddenly 23:5 
+
+41:5 55:2 
+Sykes 61:2
+ 
+system 29:5 
+
+T
+T 2:1,1 
+take 14:8 40:15 
+
+49:18 
+
+taken 18:21
+
+19:15 
+
+takes 38:14 
+talk 47:9,10 
+talked 11:20 
+talking 11:20
+
+Alderson Reporting Company 
+
+third-highest-... 
+
+34:13 
+
+32:2 33:2 38:1 
+55:22 59:1 
+64:15,18,22
+ 
+
+talks 56:13 
+
+60:15 64:17 
+target 34:6,25 
+38:16 46:12 
+
+technology 
+
+tell 8:5 45:18 
+
+38:12 
+
+60:18 
+
+tens 22:24 
+term 16:23 
+terms 26:7 
+territory 30:25 
+
+44:6 45:1,9 
+57:11 64:15,18 
+test 16:16 22:13 
+
+63:16,17
+ 
+
+Thank 15:24 
+
+30:15 61:20,21 
+61:22 62:3 
+66:4 
+
+theater 15:15 
+theirs 6:2 
+theoretically 
+
+theory 16:8,25 
+
+35:21 
+
+20:3 
+
+they'd 23:9,11 
+thing 20:24 
+
+21:19 22:14 
+23:17 28:23 
+32:8 34:9,10 
+51:4,6 54:15 
+55:10 61:8 
+things 10:1 
+
+11:18 14:11 
+17:1 23:15 
+37:18 38:20 
+39:25 40:25 
+43:24 47:9 
+49:9 56:17,22 
+58:11 63:11 
+65:14 
+
+think 10:10 
+
+13:11 21:18 
+
+22:9 23:2 
+27:21 29:16 
+31:9,11 32:3,8 
+33:20 34:19 
+35:5,24 36:11 
+36:21 37:3,7 
+38:4,4,8,8,18 
+39:14 40:4,9 
+40:19 41:20 
+42:8,20 45:9 
+47:20,23 48:2 
+49:7 50:2,10 
+50:18 51:6 
+52:9,13 53:2 
+54:8,15,18,21 
+55:3,4,6,8,19 
+56:4,6,10,11 
+57:4,4 58:12 
+58:22 59:3,10 
+59:11 60:13 
+
+25:15 
+
+THOMAS 1:16 
+2:3,13 3:7 62:1 
+
+thought 18:4 
+29:4 38:23 
+48:24 49:9,10 
+50:16,19 63:18 
+thousand 27:16 
+thousands 22:24 
+three 61:1 62:5 
+tied 45:8 
+time 9:3,13,25 
+
+9:25 12:22 
+15:23 18:15,16 
+19:21 20:5 
+22:16 38:6 
+41:16 45:7 
+56:24 58:24,25 
+
+times 50:15 
+title 4:20,22,25 
+5:2,3,14,16,18 
+5:20,21,23 
+6:10,16 7:9 
+16:17,19,25 
+17:4,11 45:16 
+46:3,11,14,18 
+
+Official 
+
+78 
+
+47:11,23 48:11 
+48:11,13 63:19 
+63:22 64:5,8 
+told 9:21 40:23 
+
+43:15 46:6 
+59:7 
+
+top-level 28:13 
+total 44:25 
+tout 3:22 
+traditional 
+
+63:11 
+
+trained 7:23 
+training 30:24 
+
+57:10 
+
+transacted 
+
+41:19 
+
+transaction 
+
+16:14 46:19 
+52:21 
+
+transactional 
+
+transactions 
+
+34:13,17 40:13 
+46:21 47:10,23 
+transcript 62:6 
+
+64:17 
+
+transfer 4:22,25 
+
+5:1,13,16,17 
+5:20,21,23 
+6:10,16 7:9 
+16:14,17,19,25 
+17:4,10,11 
+21:2 45:16 
+46:2,18 47:10 
+52:23 63:19,22 
+64:5,8 
+
+transferring 5:3 
+
+transfers 4:20 
+
+47:23 
+
+46:14 
+
+treated 19:2 
+39:7 46:10 
+tried 30:12 
+tries 34:23 
+triplicate 38:15 
+trips 56:23 
+truck 18:18 
+
+true 10:10 11:21  unsupervised 
+
+15:20 21:6 
+30:2 32:19 
+
+try 13:13 23:14 
+
+39:6 59:6 
+
+trying 10:6 13:7 
+
+13:14 15:12 
+33:10 34:11 
+35:1 44:16 
+58:11 59:8 
+
+urgent 50:17,19 
+
+11:11
+ 
+
+50:25 
+
+use 17:24 18:1 
+19:18 28:13 
+39:21 50:1 
+58:5 60:13 
+
+user 54:12 57:20 
+
+57:21 
+
+turn 30:10 36:7  uses 57:8 
+V
+v 1:5 3:4 
+valuable 20:8 
+value 27:10,12
+verb 16:25 
+versed 37:20 
+view 17:25 23:8 
+26:6,11 42:5,6 
+42:11,12 43:5 
+61:17 62:24
+63:22 65:7 
+
+38:20 57:5 
+two 3:19 4:12 
+11:18 14:11 
+16:8 23:15 
+30:22 31:21 
+32:1 38:24 
+39:25 40:22,25
+ 
+45:24 47:9 
+55:7,8 56:2,3 
+63:3,20 64:8 
+65:14,14 
+
+two-part 20:18 
+type 8:13 
+U 
+
+ultimate 54:12 
+57:21 58:17 
+
+ultimately 58:18
+unaware 24:16
+uncertainty
+12:13,14
+
+unclear 49:9 
+understand 5:6 
+
+6:1,2 8:19 
+20:21 34:22
+46:4,17 48:20 
+understanding
+
+26:6 37:21
+62:8
+
+understood
+
+49:11
+
+uniform 22:10 
+United 1:1,13,20 
+
+2:7 16:2
+
+unreasonable
+
+19:14
+
+violation 27:17 
+
+visit 12:23 39:9 
+
+28:22
+
+57:1
+
+volume 65:1
+
+W
+
+wage 8:2 18:20 
+
+25:9
+
+wages 9:5
+wait 55:15
+waiting 55:23
+
+57:11,12
+walks 13:12
+
+36:16
+
+want 7:1 34:5 
+37:13 38:20
+39:19,25 41:22 
+42:3,7 46:15 
+46:22 47:6
+56:10,20 58:16 
+64:13
+
+wanted 8:11
+
+57:23
+
+Alderson Reporting Company 
+
+wants 27:4 
+
+36:14 47:17 
+
+Washington 1:9 
+
+1:16,19,22 
+wasn't 49:6 
+way 13:20 18:2 
+19:11 20:22,22 
+21:11,11 22:10 
+23:6 29:20 
+31:10 35:4 
+38:13 49:16 
+50:24 56:7,7 
+57:4 58:18,24 
+ways 16:8 50:15 
+weird 14:9 
+Weiss 34:20 
+46:8 48:10 
+63:22 
+
+went 25:10 
+we'll 3:3 50:22 
+we're 9:21 26:10 
+40:22 46:19,20 
+
+We've 17:2 
+wholesale 53:13 
+wholesaler 
+
+53:25 64:20 
+wholesalers 
+14:15 21:3 
+28:18 52:17,24 
+53:4,19 
+
+win 23:25 45:19 
+windfall 23:10 
+wonderful 19:3 
+Wood 60:25 
+word 39:22 40:8 
+words 11:12,14 
+
+44:17 
+
+work 7:21,22 
+
+8:6 9:13 15:15 
+15:16 20:15,21 
+21:12 22:4,5,7 
+22:25 23:18 
+31:22 33:12 
+37:24 39:23 
+51:16,21 52:6 
+56:16,25 
+
+worked 59:9 
+
+worker 8:22 
+10:20 21:22 
+31:22 59:3,4 
+workers 7:21 
+8:1,15 15:2,2 
+21:20 22:7 
+43:22 
+
+working 8:15 
+workplace 7:23 
+
+8:6 
+
+works 21:11,12 
+
+46:13 48:12 
+56:7,8 58:25 
+
+world 39:12 
+worried 34:21 
+wouldn't 11:15 
+
+20:25 21:9 
+27:9 30:11 
+41:24,25 42:1 
+59:20 
+
+write 15:9 28:15 
+
+49:23 60:10 
+writes 38:15 
+54:21 57:20 
+
+writing 36:1,3,5 
+
+36:7,10 37:9 
+37:11 54:4 
+written 49:16 
+
+65:3 
+
+wrong 38:8 
+
+62:15 
+
+wrote 15:10 
+
+X 
+
+x 1:2,8 
+
+Y 
+year 45:5 
+years 22:25 23:6 
+
+24:3 27:15 
+28:21 37:25 
+38:1 40:22,23 
+41:3,3 43:2 
+49:18,18 50:16 
+50:24 58:23 
+60:2 61:6 
+62:15 
+
+Official 
+
+Yi 60:24 
+young 15:18 
+
+$ 
+
+$93,000 43:21 
+
+19:25 46:3 
+58:3,12,13 
+63:7 66:2 
+3(x) 16:18 
+30 2:11 
+
+79 
+
+4 
+
+4 17:19 57:25 
+
+58:23 
+
+42a 53:1 64:25 
+
+5 
+
+5 37:25 
+5:00 9:13 
+50 62:21 
+50-some 12:4 
+501 57:24 
+503 33:3,21 35:5 
+503(c) 38:9 
+541 51:19 
+541.500 17:21 
+541.503 51:15 
+
+6 
+
+6 58:23 
+62 2:14 
+
+7 
+
+70 24:3 28:21 
+38:1 40:22 
+41:3 43:2 
+49:18 61:6 
+62:15 
+
+75 22:25 23:6 
+
+60:2 
+
+779.241 20:14 
+
+8 
+8:30 9:12 
+9 
+
+90,000 27:13 
+28:21 35:22 
+
+1 
+
+1 4:6 
+10 37:25 49:18 
+
+52:23 
+
+10:03 1:14 3:2 
+100 50:2 
+11 46:14 
+11-204 1:4 3:4 
+11:06 66:7 
+12 47:18 56:1 
+16 1:10 2:8 
+19 16:22 
+1940 18:11 
+
+22:11,16,17 
+
+1941 59:20 
+1945 24:16 
+
+27:25 28:24 
+29:11 40:3 
+
+1949 16:22 46:7 
+
+46:9 48:10 
+
+2 
+
+2 18:4 19:9 
+2,000 52:22 
+20 41:3 47:19 
+2004 38:5,19,24 
+
+49:8 64:11 
+2007 29:18 
+
+48:21 
+
+2012 1:10 
+203(k) 4:7 16:23 
+24 47:19 55:15 
+
+55:25 
+
+24-hour 55:23 
+25 44:24 
+3 
+
+3 2:4 58:12 
+
+61:24 
+
+3(k) 16:18,24 
+
+17:23 18:4,4,5 
+18:6 19:4,7,16 
+
+Alderson Reporting Company 
+
+
