@@ -1,0 +1,9461 @@
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+NAUTILUS, INC., 
+
+                 
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 13­369 
+
+ v. 
+
+                       
+
+: 
+
+BIOSIG INSTRUMENTS, INC. 
+
+        
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Monday, April 28, 2014 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:07 a.m. 
+
+APPEARANCES: 
+
+JOHN D. VANDENBERG, ESQ., Portland, Ore.; on behalf of 
+
+ Petitioner. 
+
+MARK D. HARRIS, ESQ., New York, N.Y.; on behalf of 
+
+ Respondent. 
+
+CURTIS E. GANNON, ESQ., Assistant to the Solicitor 
+
+ General, Department of Justice, Washington, D.C.; for 
+
+ United States, as amicus curiae, supporting 
+
+ Respondent. 
+
+ 
+
+ 
+
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19 
+
+20
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+1
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+JOHN D. VANDENBERG, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+3 
+
+ORAL ARGUMENT OF 
+
+MARK D. HARRIS, ESQ. 
+
+ On behalf of the Respondents 
+
+                   
+
+23 
+
+ORAL ARGUMENT OF 
+
+CURTIS E. GANNON, ESQ. 
+
+ For United States, as amicus curiae, supporting 
+
+ Respondent 
+
+                                      
+
+43 
+
+REBUTTAL ARGUMENT OF 
+
+JOHN D. VANDENBERG, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+53 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (10:07 a.m.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We'll hear argument 
+
+first this morning in Case 13­369, Nautilus v. Biosig 
+
+Instruments. 
+
+ Mr. Vandenberg. 
+
+ ORAL ARGUMENT OF JOHN D. VANDENBERG 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. VANDENBERG: 
+
+Mr. Chief Justice, and may 
+
+it please the Court. 
+
+ The Patent Act requires particular and 
+
+distinct claims, but the claim in this case is not 
+
+particular and distinct.  It is ambiguous because it has 
+
+two reasonable readings with very different claim 
+
+scopes, even after all of the interpretive tools are 
+
+applied. 
+
+ Such ambiguous claims defeat the public 
+
+notice function which is at the heart of Section 112, 
+
+and they increase litigation.  They cause more claim 
+
+construction disputes, and they cause more reversals of 
+
+district court claim construction rulings. 
+
+ Taken all together, ambiguous claims and the 
+
+Federal circuit's test allowing ambiguous claims defeats 
+
+the very purpose of Section 112 and the patent system, 
+
+namely, to encourage and promote innovation by others 
+
+3
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+after the first patent issues. 
+
+ JUSTICE GINSBURG: 
+
+Why is this claim 
+
+ambiguous?  It's evident that these electrodes have to 
+
+be close enough so that the user's hand contacts both 
+
+electrodes, but separate enough to heap ­­ keep 
+
+electrodes distinct.  Why isn't that sufficiently 
+
+definite? 
+
+ MR. VANDENBERG: 
+
+Your Honor, if ­­ if that 
+
+were the only reasonable construction, then that may 
+
+suffice.  However, here, the other reasonable 
+
+construction is that the spaced relationship is a 
+
+special spacing that causes the electrodes to achieve 
+
+the desired result.  And that was the construction that 
+
+the majority found at the Federal circuit, namely, that 
+
+spaced relationship is not what it sounds like, namely, 
+
+any spacing, but rather is a special spacing that is 
+
+derived by trial­and­error testing to get the spacing 
+
+just right so that the electrodes detect ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I don't think the 
+
+majority or the ­­ or the concurrence or the other side 
+
+disagreed with that.  The only question was whether it 
+
+was part of the specifications or not.  I thought that 
+
+was the only difference between them.  They both agreed 
+
+ultimately that the electrodes had to cancel out ­­ was 
+
+it the EMGs? 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. VANDENBERG: 
+
+Correct. 
+
+ JUSTICE SOTOMAYOR: 
+
+So they both agreed that 
+
+that was part of the scope.  The only issue was, was it 
+
+part of the specifications or part of the claims,no?  But 
+
+both of them make up the scope of the patent. 
+
+ MR. VANDENBERG: 
+
+Your Honor, we would submit 
+
+that the disagreements between the judges and, in fact, 
+
+between Biosig itself went to the scope of the claim, 
+
+namely, does the scope of the claim cover all ways of 
+
+achieving the desired result no matter how the 
+
+electrodes are spaced.  That's one possible reading. 
+
+ The other possible reading is that the 
+
+claims cover only a special spacing of the electrodes to 
+
+achieve the desired result.  And why that matters is if 
+
+you think of the inventor in 1994 who invents a new 
+
+material for electrodes, and this new material achieves 
+
+the desired result of detecting equal muscle signals on 
+
+the left and right side, regardless of the spacing of 
+
+the electrode.  So it doesn't matter where you put the 
+
+electrodes, as long as you can touch them, this new 
+
+material achieved the ­­ the desired goal. 
+
+ That inventor would not know in 1994 if they 
+
+infringed or not, because if the claims had the 
+
+interpretation that the majority eventually gave them, 
+
+namely, that the spaced relationship has this functional 
+
+1
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+limitation and it must be the result of this 
+
+trial­and­error balancing, there'd be no infringement. 
+
+But if spaced relationship meant any spacing, then there 
+
+would be infringement.  So that is the exact type of 
+
+zone of uncertainty that United Carbon warned against 
+
+and which deters the innovation. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+But it can't mean 
+
+any spacing, because anyone skilled in the art would 
+
+know the hand has to cover it.  So you're basically 
+
+talking about a fairly narrow range between one side of 
+
+the hand and the other and not too close together  but 
+
+they don't ­­ don't work.  And that seems to me that 
+
+someone skilled in the art can just try a couple of 
+
+things and see where ­­ where the trial and error. 
+
+Trial and error makes ­­ could mean a very difficult 
+
+thing, like Edison discovering what works in a light 
+
+bulb.  But here you've got a very limited range and 
+
+someone skilled in the art will just, well, let's try 
+
+it, you know, close to the middle, let's try it to so 
+
+far apart.  But it's not any spaced relationship. 
+
+ MR. VANDENBERG: 
+
+And that's correct, Your 
+
+Honor, and I do ­­ when I refer to any spacing, it's 
+
+really a shorthand for any spacing that is narrow enough 
+
+so that the hand can actually touch both electrodes but 
+
+not touching.  So I agree that under each interpretation 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+it makes sense that the electrodes have to be touchable 
+
+by a single hand, and they can't be touching each other 
+
+or there'd simply be a single electrode. 
+
+ JUSTICE SOTOMAYOR: 
+
+What would be the 
+
+purpose of the invention if it were only covering 
+
+spacing without the function of canceling the EMG?  I 
+
+can't understand, if I read this patent, what it would 
+
+do unless you add its function. 
+
+ MR. VANDENBERG: 
+
+Well, Your Honor, the 
+
+purpose of the patent is it would cover possibly, again, 
+
+all techniques for achieving the desired function.  So 
+
+again, going back to the invention of the new material, 
+
+if the inventor comes up with a specific way of 
+
+achieving the result, and here they came up with trial 
+
+and error spacing, they didn't describe that in the 
+
+patent.  That didn't ­­ that wasn't described by the 
+
+inventor until 15 years later.  But nevertheless, let's 
+
+say they had this specific way of achieving it.  They 
+
+very well could have drafted the claim intentionally the 
+
+way they did to have a broader coverage so that they 
+
+cover all possible ways of achieving that desired 
+
+result.  Patent attorneys are trained to try to draft 
+
+the claims, you know, some claims as broadly as 
+
+possible.  So that reading by the concurrence was a very 
+
+plausible reading of this claim.  Reading the claim, it 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+has any spaced relationship as long as, as the Chief 
+
+Justice indicated, I can touch them and they're not 
+
+touching each other.  But that's it.  There's no other 
+
+restriction on what "spaced relationship" means.  That's 
+
+a very reasonable interpretation and that was the 
+
+interpretation that Biosig asserted at the Markman claim 
+
+construction in this case. 
+
+ JUSTICE SCALIA: 
+
+But you ­­ you acknowledge 
+
+that it ­­ it would be a valid patent if all you said is 
+
+you have to space these things and you figure out what 
+
+the spacing is going to be.  You ­­ you can ­­ you can 
+
+get a patent for ­­ tell somebody trial and error. 
+
+Let's take Edison's light bulb.  I mean, could he say, 
+
+you know, get some material that ­­ that will ­­ will 
+
+illumine when ­­ when electricity is passed through it 
+
+and you figure out by trial and error what this material 
+
+might be.  Might be tungsten, who knows, you know. 
+
+Maybe it's chewing gum.  Would that be a valid patent? 
+
+ MR. VANDENBERG: 
+
+It would not, Your Honor. 
+
+That ­­
+
+ JUSTICE SCALIA: 
+
+So I don't ­­ I don't 
+
+really understand this trial and error spacing stuff. 
+
+What ­­ what is the limit on trial and error?  Can you 
+
+get patented anything when you say, you know, this is 
+
+the basic principle, you figure out what ­­ you know, 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+what makes it work. 
+
+ MR. VANDENBERG: 
+
+Well, Your Honor, 
+
+there's ­­ there's two levels of indefiniteness here. 
+
+First, it's unclear which construction was intended.  So 
+
+basically, there are two reasonable ­­
+
+ JUSTICE SCALIA: 
+
+No.  I understand that. 
+
+ MR. VANDENBERG: 
+
+But the second ­­
+
+ JUSTICE SCALIA: 
+
+I'm asking why the second 
+
+construction is ­­ is a plausible patentable invention. 
+
+ MR. VANDENBERG: 
+
+Your Honor, it's not 
+
+patentable.  In fact, it would be indefinite.  However, 
+
+the person of skill in the art reading the claim is not 
+
+expected to do a full­blown invalidity analysis. 
+
+They're simply trying to figure out, where can I 
+
+innovate.  I see this patent.  It issues in '94.  The ­­
+
+the alternative ­­
+
+ JUSTICE SCALIA: 
+
+All the person skilled in 
+
+the art will know is that he has to figure out what the 
+
+spacing is, right? 
+
+ MR. VANDENBERG: 
+
+No, Your Honor. 
+
+ JUSTICE SCALIA: 
+
+But ­­ but still the ­­ the 
+
+inventor doesn't tell you what the spacing has to be. 
+
+ MR. VANDENBERG: 
+
+Well, that is the second 
+
+problem.  We agree.  The second problem with these 
+
+claims is they're purely functional.  They simply have a 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23
+
+24 
+
+25 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+clause that says whereby good things happen, namely, 
+
+that equal muscle signals are detected.  The claims 
+
+don't tell you how.  They leave that up in the air. 
+
+Maybe it has something to do with the spacing 
+
+electrodes, but maybe not. 
+
+ And the further problem is that the 
+
+specification here did not describe any technique for 
+
+achieving the desired result.  If one reads the 
+
+specification, you read it and it says various things 
+
+and it says, whereby the muscle signals are detected as 
+
+being equal on both hands, on both electrodes.  Well, in 
+
+reality, the ­­ the electrical signals on my left and 
+
+right palms are unequal.  Somehow, however, the 
+
+electrodes detect them as if they're being equal.  The 
+
+patent doesn't say how.  It doesn't say why.  It doesn't 
+
+say what causes it.  So this is the purely functional 
+
+type of claim that United Carbon and General Electric ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Do you ­­ do you 
+
+have any disagreement with a standard that's articulated 
+
+by the Solicitor General?  He says that, you know, a 
+
+patent satisfies the requirement if, in light of the 
+
+specification and the prosecution history, a person 
+
+skilled in the art would reasonably understand the scope 
+
+of the claim. 
+
+ MR. VANDENBERG: 
+
+Your Honor, we may or may 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+not, depending on how the Solicitor General would apply 
+
+that standard to a claim that has two reasonable 
+
+interpretations after the person of skill in the art 
+
+reads the claim in light of the specification and 
+
+applies all the interpretive tools. 
+
+ JUSTICE GINSBURG: 
+
+The Court has to come up 
+
+with a formula.  You were saying the Federal Circuit's 
+
+formula is no good.  The Solicitor General has, as the 
+
+Chief Justice just said, has suggested an appropriate 
+
+formula.  And you say, well, it depends on the 
+
+application.  As a formula, do you agree? 
+
+ MR. VANDENBERG: 
+
+Your Honor, we ­­ we think 
+
+it's ­­ it would certainly be an improvement over the 
+
+Federal Circuit's amenable to construction and insolubly 
+
+ambiguous test.  The Solicitor General refers to 
+
+reasonably understand.  The parties have agreed on the 
+
+phrasing of "reasonable certainty."  We think 
+
+"reasonable certainty" comes out of this Court's cases, 
+
+and therefore, we prefer that.  To the extent, 
+
+obviously, "reasonably understand" means the same as 
+
+"reasonable certainty," then ­­ then we accept that. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, that's what 
+
+I'm having trouble dealing with.  I would suspect your friends 
+
+on the other side will say yes, right, that they accept 
+
+that, too.  And you say, but it can't be insolubly 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ambiguous or not amenable to construction.  And they 
+
+say, well, that's not really what the Federal Circuit 
+
+said. 
+
+ So until we get to the application, I don't 
+
+see much disagreement among any of you about the 
+
+standard or what's wrong with the Federal Circuit's 
+
+articulation.  And the questions kind of suggest we move 
+
+very quickly into the particular invention and the 
+
+application.  And I'm just ­­ I'm curious what you want 
+
+us to do if it seems like in every case, we have to get 
+
+right into the application rather than the legal 
+
+standards. 
+
+ MR. VANDENBERG: 
+
+Well, I think the ­­ the 
+
+key dispute here is what happens if, after all the 
+
+interpretive tools are applied, there's a genuine 
+
+ambiguity, meaning there really are two reasonable 
+
+interpretations of the claim.  Genuine ambiguity, person 
+
+of skill in the art applying all the interpretive tools, 
+
+trying to understand the claiming.  What happens then? 
+
+ Our position is that if such a claim, which 
+
+essentially points in two different directions, is 
+
+indefinite, the problem with the Federal Circuit's test 
+
+is the Federal Circuit would not find that indefinite. 
+
+Instead, the Federal Circuit would pick one because it's 
+
+amenable to construction.  They would pick one.  They 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+would then ask is the construction they picked itself 
+
+sufficiently clear for a person of skill in the art. 
+
+ JUSTICE ALITO: 
+
+What if a ­­ what if a 
+
+person who's a skilled artisan says that the claim could 
+
+mean A and it could mean B, they're both reasonable 
+
+constructions, but this person is reasonably certain it 
+
+means A, but not B?  What would happen then? 
+
+ MR. VANDENBERG: 
+
+Well, I think the ­­ the 
+
+proper analysis would be to look at the alternative 
+
+construction and ask:  Was that a reasonable 
+
+interpretation?  Was the second interpretation a 
+
+reasonable interpretation of the claim?  And courts 
+
+every day make judgments like that, whether 
+
+interpretations, for instance, of statutes.  A second 
+
+interpretation of a statute is reasonable. 
+
+ JUSTICE SCALIA: 
+
+Well, the only ­­ the only 
+
+analog that comes to my mind immediately is our review 
+
+of agency action.  Is ­­ is that the standard that you 
+
+want us to use?  If ­­ if, you know, it's within the 
+
+scope of the ambiguity, oh, we don't think that's the 
+
+right answer.  But it's close enough for government 
+
+work.  Is that ­­ is that what you want us to apply to 
+
+patents? 
+
+ MR. VANDENBERG: 
+
+No, Your Honor, because the 
+
+starting point here is the text of the statute.  The 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+text of the statute could hardly be more emphatic. 
+
+Section 112 requires that the invention be described in 
+
+full, clear, concise, and exact terms and then be 
+
+claimed particularly and distinctly.  Given that text of 
+
+the statute, given the statutory purpose of protecting 
+
+the next innovator from uncertainty, we think that that 
+
+statutory language needs to be enforced, you know, 
+
+forcefully. 
+
+ JUSTICE SCALIA: 
+
+Can it be reasonable but 
+
+wrong. 
+
+ MR. VANDENBERG: 
+
+No, Your Honor.  If a claim 
+
+­­
+
+ JUSTICE SCALIA: 
+
+I see.  Whatever 
+
+interpretation is wrong is ipso facto unreasonable? 
+
+ MR. VANDENBERG: 
+
+If ­­ if I understand 
+
+correctly, a claim has only one proper construction.  If 
+
+a claim is subject ­­
+
+ JUSTICE SCALIA: 
+
+Okay.  So whatever is wrong 
+
+is ­­ is, by your definition ­­ you know, we ­­ we 
+
+construe statutes all the time, and we certainly don't 
+
+think that the result we come to is the only reasonable 
+
+result.  We think it's the best result, but not the only 
+
+reasonable one.  But you're saying in this field there's 
+
+a right result and everything else is unreasonable. 
+
+ MR. VANDENBERG: 
+
+What ­­ what we're ­­ we 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+would analogize it most closely to ­­ to the Chevron 
+
+ambiguity analysis. 
+
+ JUSTICE SCALIA: 
+
+Yes, that's what I proposed 
+
+first.  But I thought ­­ I thought you didn't like that. 
+
+ MR. VANDENBERG: 
+
+Well, if I misunderstood 
+
+the question I apologize.  But my understanding is in 
+
+order to determine whether or not there is ambiguity in 
+
+the statute, that the Court first looks to the statutory 
+
+language and then applies interpretive tools.  The same 
+
+is true here.  And then the Court ­­ if the Court finds 
+
+there are more than one reasonable readings, then the 
+
+Court will designate the ­­ the statute as ambiguous and 
+
+then move on for the remainder of the Chevron analysis. 
+
+ Under this statute, however, if the Court 
+
+determines the claim is ambiguous, the proper result is 
+
+invalidity. 
+
+ JUSTICE GINSBURG: 
+
+Well, what is ­­ what is 
+
+the ambiguity?  Is it ­­ I thought from your brief that 
+
+it was the term "space relationship."  Is that the ­­
+
+what ­­ what is the ambiguity? 
+
+ MR. VANDENBERG: 
+
+Yes, Your Honor.  It is the 
+
+term "space relationship" in the context of the claim. 
+
+And again, the ambiguity is that this claim either 
+
+covers all possible spacing of the electrodes within the 
+
+boundaries that we've discussed or it only covers 
+
+1 
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+special spacings of the electrodes that are a result of 
+
+trial and error in order to achieve the desired result. 
+
+Those are hugely different claim scopes and that ­­ that 
+
+uncertainty between those two is what would chill 
+
+innovation. 
+
+ JUSTICE SOTOMAYOR: 
+
+Did you ­­ did you 
+
+proffer any evidence below showing that a person with 
+
+ordinary skill in the art did not understand what this 
+
+claim meant?  Your brief seems to rely only on the 
+
+dispute between the majority and the concurrence.  But 
+
+was there ­­ did you proffer any evidence below? 
+
+ MR. VANDENBERG: 
+
+Your Honor, we did not 
+
+proffer our own experts.  The ­­ the evidence below 
+
+included that Biosig's own expert asserted that each of 
+
+the competing constructions was reasonable, in essence. 
+
+More specifically, he said that ­­ this was Dr. 
+
+Gannoulas said at Joint Appendix 274 ­­ that "The person 
+
+of skill in the art could readily discern the trial 
+
+court's construction of spaced relationship."  The trial 
+
+court's construction was any spacing. 
+
+ Then the expert went on and said, "The 
+
+person of skill in the art could easily discern the 
+
+claim scope because the EMG signals have to be 
+
+substantially removed."  That was the competing 
+
+functional construction of spaced relationship.  So 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+their own expert supported both of these competing 
+
+constructions and the reason they were comfortable doing 
+
+that is because ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Now, I have a really big 
+
+problem, which is we as Justices disagree on the meaning 
+
+of things all the time, and one side will say, this is 
+
+perfectly clear from the text of the statute, from 
+
+its ­­ from its history, from its context.  And we do 
+
+all the statutory tools, and  there’ll be one or more 
+
+of us who will come out and say, no, we think it's a 
+
+different interpretation.  Would we have any valid 
+
+patents in the world if that's the standard that we ­­
+
+that we adopt?  That if any judge on a panel thinks that 
+
+there's another interpretation, that that's sufficient 
+
+to invalidate a patent as indefinite? 
+
+ MR. VANDENBERG: 
+
+Your Honor, we are not 
+
+taking the position that because the judges below 
+
+disagreed on the construction, that that is dispositive 
+
+or proves ambiguity in the claim.  We ­­ we did say the 
+
+fact that Biosig itself took both competing 
+
+constructions as the need arose ­­
+
+ JUSTICE SOTOMAYOR: 
+
+But the majority ­­ but 
+
+the majority here said that it was clear from the 
+
+prosecution history, the specifications, and the 
+
+description that this was definite.  I don't know on 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+what basis I would have to overturn their review of that 
+
+issue. 
+
+ MR. VANDENBERG: 
+
+Well, that ­­ that Biosig 
+
+has taken both claim constructions.  We've not seen them 
+
+assert that either claim construction was unreasonable. 
+
+The majority did not find the concurrence's construction 
+
+unreasonable.  Nor did it find the trial court's 
+
+construction unreasonable.  Their experts took both 
+
+positions.  So we have a claim that on its face ­­ I 
+
+mean, the starting point is looking at the patent, of 
+
+course, not what judges or experts or parties said 
+
+later.  The patent on its face is grammatically 
+
+ambiguous.  There is a whereby clause dangling in the 
+
+middle of the claim that says whereby something good 
+
+happens. 
+
+ JUSTICE SCALIA: 
+
+Yes.  We understand all 
+
+that.  I ­­ I'm still having trouble understanding what 
+
+your standard is.  You ­­ you agree that your standard 
+
+is not, there is a right answer and everything that is 
+
+not the right answer is unreasonable.  That's not your 
+
+position. 
+
+ MR. VANDENBERG: 
+
+That's right, Your Honor. 
+
+ JUSTICE SCALIA: 
+
+Right? 
+
+ MR. VANDENBERG: 
+
+Right. 
+
+ JUSTICE SCALIA: 
+
+Okay.  Then you invoke 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24
+
+25
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Chevron.  Do you mean that anything that would pass 
+
+Chevron's step one is okay? 
+
+ MR. VANDENBERG: 
+
+Your Honor ­­
+
+ JUSTICE SCALIA: 
+
+That is, if it would pass 
+
+Chevron's step one it's ambiguous. 
+
+ MR. VANDENBERG: 
+
+Well, if ­­ let me be clear 
+
+about "pass."  If it's ambiguous under Chevron step one, 
+
+then that is a close parallel to being ambiguous 
+
+under ­­ under Section 112, paragraph 2.  But again, our 
+
+starting point, of course, is not Chevron.  It's the 
+
+statutory text, which ­­ and the standard we submit is 
+
+to assert ­­ I'm sorry, to enforce the statutory text by 
+
+its plain terms. 
+
+ JUSTICE KENNEDY: 
+
+Would this ­­ would this 
+
+help?  Do you agree that the standard at the PTO, and 
+
+let's say that it's whether or not ­­ the claim is 
+
+definite if a person skilled in the art would be 
+
+reasonably certain of its scope.  Is the standard used 
+
+by the PTO the same standard that the CA Fed ought to 
+
+use? 
+
+ MR. VANDENBERG: 
+
+Yes, it is, Your Honor. 
+
+ JUSTICE KENNEDY: 
+
+All right.  How does ­­
+
+that's a sensible answer, I think.  Now, how does the 
+
+presumption of validity bear on ­­ on the application of 
+
+the ­­ of that same standard in the court of appeals? 
+
+1 
+
+2 
+
+3
+
+4
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. VANDENBERG: 
+
+The presumption of validity 
+
+certain applies to this defense.  It requires the 
+
+challenger to raise the defense, to preserve the 
+
+defense, you know, plead it as affirmative defense, to make the 
+
+initial argument as to why the claim is ­­
+
+ JUSTICE KENNEDY: 
+
+Doesn't that imply some 
+
+deference on findings of fact? 
+
+ MR. VANDENBERG: 
+
+Your Honor, it would be 
+
+rare for there to be, in an indefiniteness case, to be 
+
+any underlying finding of fact.  The ­­ the issue of 
+
+indefiniteness is really subsidiary. 
+
+ JUSTICE KENNEDY: 
+
+Does it imply ­­ what sort 
+
+of deference does it accord to the PTO? 
+
+ MR. VANDENBERG: 
+
+If indeed ­­
+
+ JUSTICE KENNEDY: 
+
+That is, the presumption 
+
+of validity, does that accord some deference to the PTO? 
+
+And how would that apply or not apply here? 
+
+ MR. VANDENBERG: 
+
+It would apply ­­ it does 
+
+not apply in this case.  There are no fact findings out 
+
+of the Patent Office regarding indefiniteness.  But if 
+
+there was ­­ the same indefiniteness issue came up and 
+
+the Patent Office found, for instance, that a term of 
+
+art, so let's say nanotechnology, biotechnology term of art 
+
+had a particular meaning, then that fact­finding may be 
+
+entitled to deference by the trial court. 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14
+
+15
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+ However, indefiniteness itself is a legal 
+
+determination.  The Federal Circuit said that.  They 
+
+review this.  They know ­­
+
+ JUSTICE KENNEDY: 
+
+So there's no deference to 
+
+the PTO as to that legal interpretation. 
+
+ MR. VANDENBERG: 
+
+No, Your Honor, no more 
+
+than there'd be deference to the Patent Office claim 
+
+construction or any other legal decision. 
+
+ JUSTICE KAGAN: 
+
+The ­­ the quotation that 
+
+the Chief Justice read to you from the Solicitor 
+
+General's brief referred to the use of prosecution 
+
+history.  Do you agree with the Solicitor General about 
+
+that use, about the permissibility of that use? 
+
+ MR. VANDENBERG: 
+
+Yes, Your Honor, so long as 
+
+the prosecution history that's being used to clarify 
+
+existed at the date the patent issued. If the person of 
+
+skill in the art again is supposed to be motivated to 
+
+innovate around the patent the day it issues.  Here 
+
+there is a re­examination prosecution history. 
+
+Sometimes there is later prosecution history in a 
+
+related patent.  That type of prosecution history 
+
+shouldn't be used to sort of ex post facto cure an 
+
+initial indefiniteness. 
+
+ But putting aside that rare instance, yes, 
+
+the prosecution history and the specification are part 
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+of the interpretive tools that are available and would 
+
+be used. 
+
+ I think it's important to remember here that 
+
+there is no legitimate need or excuse for ambiguity in 
+
+patent claims.  Once the applicant has satisfied 
+
+paragraph one and its strict requirements for describing 
+
+the invention, it is easy to claim the invention 
+
+particularly and distinctly.  The only reason that there 
+
+are so many ambiguous claims out there today is that 
+
+patent attorneys are trained to deliberately include 
+
+ambiguous claims.  Ambiguous claims make the patent 
+
+monopoly more valuable.  Every patent attorney knows 
+
+that. 
+
+ JUSTICE GINSBURG: 
+
+The government tells us 
+
+there are some 22,000 patent grants since 1976 that use 
+
+the term "spaced relationship."  I suppose many of those 
+
+would fail your test? 
+
+ MR. VANDENBERG: 
+
+Not likely, Your Honor.  It 
+
+would be highly unlikely in more than 99 percent of 
+
+those cases that there'd be any uncertainty of what 
+
+"spaced relationship" meant.  The problem here is not 
+
+those words.  It's the grammatical ambiguity in the 
+
+claim.  It's the fact that the specification did not 
+
+describe, even arguably, the invention.  That wasn't 
+
+described, the trial and error spacing, until 15 years 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+later, and that the patent specification has no concrete 
+
+examples of embodiments inside the claim or outside the 
+
+claim. 
+
+ So we ask that the Court reaffirm its 
+
+precedents in United Carbon, General Electric and Eibel 
+
+Process.  Eibel Process upheld a claim that had vague 
+
+sounding language.  The language was "high elevation," 
+
+"substantial elevation," but it was upheld because that 
+
+patent specification concretely described the invention, 
+
+its theory of operation, concrete examples that came 
+
+inside the claim scope, concrete examples that fell 
+
+outside.  And that's why that patent satisfied the 
+
+particular and distinct claiming requirement and this 
+
+one does not. 
+
+ I'll reserve the balance of my time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Harris. 
+
+ ORAL ARGUMENT OF MARK D. HARRIS 
+
+ ON BEHALF OF THE RESPONDENT 
+
+ MR. HARRIS: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ The decision of the Federal Circuit should 
+
+be affirmed for two reasons:  First, that court 
+
+correctly held that the test for definiteness is whether 
+
+a claim puts a skilled artisan on reasonable notice of 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the boundaries of the invention, and secondly, whatever 
+
+­­
+
+ JUSTICE SCALIA: 
+
+If that's ­­ if that's what 
+
+it held we wouldn't have taken this case.  I thought we 
+
+took it because it had some really extravagant language. 
+
+ MR. HARRIS: 
+
+The court, the court below used 
+
+the word ­­
+
+ JUSTICE SCALIA: 
+
+I mean, it's one thing to 
+
+run away from that language, as your brief does.  It's 
+
+another thing to deny that it exists. 
+
+ MR. HARRIS: 
+
+Justice Scalia, we are not 
+
+denying that those words exist, "insolubly ambiguous," 
+
+but what I think this court below, the Federal Circuit, 
+
+in this case explained, and it's explained consistently, 
+
+is that that ­­ those two words are not the test all by 
+
+themselves.  In this very case ­­
+
+ JUSTICE KENNEDY: 
+
+You would agree, I take 
+
+it, that if, was it, "insolubly ambiguous" were the 
+
+standard that the court used, that we should reverse? 
+
+ MR. HARRIS: 
+
+If there were no other context 
+
+and only those words alone would be used, it seems that 
+
+some district courts might misinterpret those words, as 
+
+the Solicitor General has mentioned, but ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+So it was fair, as I 
+
+suggested earlier, nobody agrees with that formulation; 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+right? 
+
+ MR. HARRIS: 
+
+Yes, I guess so, Your Honor. 
+
+But I want to ­­ I just want to clarify what that point 
+
+is.  What the Federal Circuit said below, the full 
+
+statement of its test that it was applying in this case, 
+
+was:  If reasonable efforts at claim construction result 
+
+in a definition that does not provide sufficient 
+
+particularity and clarity to inform skilled artisans of 
+
+the bounds of the claim, the claim is insolubly 
+
+ambiguous and invalid for indefiniteness.  There is no 
+
+suggestion that the court ­­
+
+ JUSTICE SOTOMAYOR: 
+
+There is a subtle ­­ no, 
+
+there is, if you read that language carefully.  It seems 
+
+to be saying that what has to be reasonably definite is 
+
+the court's construction, and it takes the emphasis away 
+
+from whether a skilled ­­ someone skilled in the art 
+
+would be definite.  There is a big difference between 
+
+can I read this and give it a construction and whether 
+
+or not a construction is definite enough so someone 
+
+skilled in the art could understand it. 
+
+ MR. HARRIS: 
+
+We would completely agree that 
+
+the test needs to include what the skilled artisan would 
+
+have understood at the time. 
+
+ JUSTICE SOTOMAYOR: 
+
+That's my problem with 
+
+the Federal Circuit's articulation and as you read its 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23
+
+24
+
+decisions.  Its focus is not always on that question. 
+
+Its focus seems to be on the reasonableness of its 
+
+construction, as opposed to the reasonableness of a 
+
+skilled artisan's or whether skilled, someone skilled in 
+
+the art could reasonably construe the scope of this 
+
+patent. 
+
+ MR. HARRIS: 
+
+But I think it's quite clear 
+
+from the way the Federal Circuit actually applied the 
+
+standard in this case that the Federal Circuit was 
+
+looking to what the evidence was as to what skilled 
+
+artisans would do with this claim language.  If anything 
+
+it's Nautilus that's arguing that it doesn't seem to 
+
+matter what a skilled artisan thought at the time. 
+
+ JUSTICE SOTOMAYOR: 
+
+So what do you see as 
+
+the difference?  He says that the concurrence's 
+
+definition is different from the majority's.  The 
+
+government ­­ explain ­­ I read your brief.  I know what 
+
+you think the difference is, but ­­
+
+ MR. HARRIS: 
+
+Well, between the majority and 
+
+the concurrence below, first, we don't think ­­
+
+ JUSTICE SOTOMAYOR: 
+
+He says there is a 
+
+difference in scope, so address that. 
+
+ MR. HARRIS: 
+
+Yes. 
+
+ JUSTICE SOTOMAYOR: 
+
+Why don't you see that 
+
+25 
+
+as being a difference of importance? 
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ MR. HARRIS: 
+
+It would be a difference if 
+
+there were a difference in scope, but there isn't one. 
+
+I think it's very important to look at what the majority 
+
+and the concurrence actually did.  The majority was 
+
+addressing definiteness.  The majority did that in two 
+
+steps.  The majority said we are going to apply the 
+
+principles of claim construction.  The first thing it 
+
+did was it looked to the claim language, the written 
+
+specification, the diagrams, all the traditional tools 
+
+of patent interpretation.  It said there is definiteness 
+
+here because there are bounds to the spaced 
+
+relationship.  It isn't just anything, it has to be 
+
+greater than zero, it has to be less than the width of a 
+
+hand.  It's implicit in the ­­ actually explicit in the 
+
+statements of the patent. 
+
+ Then it said that the functional limitation, 
+
+which is the whereby clause in the patent, sheds 
+
+additional light.  That's where the concurrence got off 
+
+the train and the concurrence said:  I don't think we 
+
+need to reach that issue.  Nautilus has turned that 
+
+approach on its head.  Nautilus says that the fact that 
+
+the concurrence didn't think it was necessary to reach 
+
+the functional limitation, in fact said that it's not 
+
+before us for procedural reasons, Nautilus reads that as 
+
+if the concurrence was somehow disavowing or disclaiming 
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the majority's approach.  It never said that.  It was a 
+
+procedural argument that it had.  Then, in fact, there 
+
+is no disagreement between the majority and the 
+
+concurrence. 
+
+ JUSTICE SCALIA: 
+
+Would this patent be valid 
+
+if the concurrence's approach prevailed?  It wouldn't 
+
+work, would it?  It would not work.  The mere fact that 
+
+you spaced it somewhere where the hands can touch it 
+
+would not necessarily produce the result, would it? 
+
+ MR. HARRIS: 
+
+If the patent said nothing 
+
+other than there is a space between ­­
+
+ JUSTICE SCALIA: 
+
+That's all the claim said. 
+
+ MR. HARRIS: 
+
+Well, no, no, Justice Scalia. 
+
+The whereby clause explicitly said ­­ it described the 
+
+structure.  This case is quite different from General 
+
+Electric, where there was no structure being given.  It 
+
+said that there is going ­­ there are going to be EMG 
+
+signals that are going to be detected by the electrodes. 
+
+ JUSTICE SCALIA: 
+
+Right. 
+
+ MR. HARRIS: 
+
+Then those signals, which will 
+
+be detected as equal, are going to be fed into a 
+
+differential amplifier and thereby subtracted or 
+
+canceled out. 
+
+ JUSTICE SCALIA: 
+
+Whereby.  Whereby.  I would 
+
+read that as saying so long as you put the spacing at 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+some point where the hands can touch it and they are not 
+
+touching, that will produce the result that the signals 
+
+will be equalized.  That's how I would read the claim. 
+
+ MR. HARRIS: 
+
+Well, in fact, if the 
+
+electrodes are configured in such a way that they 
+
+detected the signals as equal ­­
+
+ JUSTICE SCALIA: 
+
+No, no. 
+
+ MR. HARRIS: 
+
+­­ it would produce that. 
+
+ JUSTICE SCALIA: 
+
+No.  Yes, I understand 
+
+that, but that's not what it says.  It doesn't say space 
+
+the electrodes in such a manner that the signals coming 
+
+from each side will be equal and you'll have to do this 
+
+by trial and error.  That's not what it says.  It just 
+
+says, you know, keep the electrodes apart.  They have to 
+
+be apart so that the hands don't touch, and on the other 
+
+hand they can't be outside the scope of what the hands 
+
+grip.  That's all it says.  Whereby, if you do that, the 
+
+signals will be equalized.  That's ­­ that's how I would 
+
+read it.  It wouldn't work that way, would it? 
+
+ MR. HARRIS: 
+
+It wouldn't work if it gave no 
+
+specifics.  But this is where the fact that it all 
+
+depends on what the skilled artisan would do is 
+
+critical.  Because there was uncontested evidence that a 
+
+skilled artisan in 1992 was able to read this patent and 
+
+understand how to put together this invention in such a 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+29
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+way that it worked.  In fact, Dr. Galiana's research 
+
+assistant did it, in 2 hours was able to build this 
+
+invention based on the diagrams. 
+
+ JUSTICE BREYER: 
+
+I'm a little confused here. 
+
+Imagine there are two kinds of electrodes, a blue one 
+
+and a green one, and you have to have a blue one and 
+
+green one on left hand and a blue one and green one on 
+
+right hand.  And now, you cannot let them touch.  The 
+
+blue can't touch the green.  I got that.  And suppose on 
+
+your left hand you put the blue one here and the green 
+
+one there.  And in the right hand, you put the blue in 
+
+here and the green in here.  See, they're not touching, 
+
+but they're different distances from each other in the 
+
+two hands.  Does it work or not? 
+
+ MR. HARRIS: 
+
+If the distances on the two 
+
+sides ­­
+
+ JUSTICE BREYER: 
+
+Look, look.  This is like 
+
+that one hand. 
+
+ MR. HARRIS: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+And this one's like the 
+
+other hand.  Okay?  So does it work or not? 
+
+ MR. HARRIS: 
+
+I don't ­­ I don't know 
+
+whether ­­
+
+ JUSTICE SCALIA: 
+
+Let the record show that 
+
+the Justice is holding his fingers in the air. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19
+
+20
+
+21 
+
+22
+
+23 
+
+24
+
+25 
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ (Laughter.) 
+
+ JUSTICE BREYER: 
+
+All right.  Look, on the 
+
+green one is two inches ­­ the space between the green 
+
+one and the right one is like a half inch for the left 
+
+hand, and it's like one inch for the right hand.  Okay? 
+
+Does it work? 
+
+ MR. HARRIS: 
+
+If I could answer that 
+
+question, Justice Breyer, in a ­­ in a more roundabout 
+
+way.  What the ­­
+
+ JUSTICE BREYER: 
+
+It was asked in a pretty 
+
+roundabout way. 
+
+ (Laughter.) 
+
+ MR. HARRIS: 
+
+What the uncontested evidence 
+
+showed was that a skilled artisan at the time knew how 
+
+to space electrodes. 
+
+ JUSTICE BREYER: 
+
+Then did he know that they 
+
+had to be ­­ like if you put it two inches across here, 
+
+so there are two inches between them, and over here it's 
+
+like a half inch between them, did he know it did work 
+
+or did he know it didn't work? 
+
+ MR. HARRIS: 
+
+He would know by ­­
+
+ JUSTICE BREYER: 
+
+He knew if it worked, but I 
+
+want to know if it does work. 
+
+ MR. HARRIS: 
+
+It probably would not work in 
+
+that situation. 
+
+1
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22
+
+23 
+
+24
+
+25 
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ JUSTICE BREYER: 
+
+Okay.  Now, as soon as you 
+
+say that, that's his point.  His point is that when I 
+
+read it ­­ I guess that's the point that's being made. 
+
+When I read it, it just seems to me that the green one 
+
+can't touch the blue one, and the whole thing has to fit 
+
+within your hand, so each of them catches a finger.  And 
+
+he's saying that isn't good enough.  That doesn't work. 
+
+They have to be the same distance.  And what that 
+
+distance is, this document doesn't tell us.  And it 
+
+doesn't even tell us they have to be the same distance. 
+
+So therefore, since it doesn't tell us that, it's 
+
+ambiguous.  Is that the correct argument?  All right. 
+
+We think it's the correct argument.  So now, what's your 
+
+answer? 
+
+ MR. HARRIS: 
+
+This Court has never found a 
+
+problem with the need for some amount of experimentation 
+
+in order to get the parameters exactly right. 
+
+ JUSTICE BREYER: 
+
+It doesn't even say that. 
+
+It doesn't even say that.  It doesn't say go experiment 
+
+whether somebody with great big fingers on one hand and 
+
+tiny little fingers on the other hand ­­
+
+ MR. HARRIS: 
+
+In ­­ in Eibel Process, this 
+
+Court faced ­­ as Mr. Vandenberg mentioned ­­ faced a 
+
+case in which a method of manufacturing paper, all it 
+
+said was that the angle of the supply of the pulp had to 
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+be high.  Didn't say anything more than that. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Is it part of an 
+
+answer to Justice Breyer's question that the diagram 
+
+shows them equally spaced or is that not relevant? 
+
+ MR. HARRIS: 
+
+I don't think the equal spacing 
+
+is the only issue, Mr. Chief Justice.  The issue is how 
+
+do you find what that spacing is.  And the answer, the 
+
+uncontested answer, is that skilled artisans were able 
+
+to do that very quickly.  It's not trial and error as if 
+
+it's throwing darts and just seeing what might work. 
+
+It's just like tuning a radio.  Just happen to move 
+
+things around in order you get that ­­
+
+ JUSTICE KAGAN: 
+
+Why doesn't that ­­
+
+ JUSTICE SCALIA: 
+
+You know, I can understand 
+
+that if the claim said that.  If the claim said, you 
+
+know, fiddle with it until it works.  But it doesn't say 
+
+that.  It just says, you know, spacing, and I would 
+
+think so long as there's space, they don't touch, and 
+
+they're no more than the widths of the hands, it'll 
+
+work.  It doesn't say that.  I don't think the "whereby" 
+
+is ­­ is an invitation to experiment. 
+
+ But the other case you were talking about, 
+
+tell us more about it.  It just said a high angle. 
+
+ MR. HARRIS: 
+
+It's at a high angle.  Minerals 
+
+Separation maybe is even a stronger case.  In Minerals 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24
+
+25 
+
+33
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25
+
+Official 
+
+Separation, it was a method for extracting ore from ­­
+
+metal ­­ metallic ore from ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Why are you ­­ why are 
+
+you running from ­­ the working here is that it cancels 
+
+out a signal, correct? 
+
+ MR. HARRIS: 
+
+Yes. 
+
+ JUSTICE SOTOMAYOR: 
+
+And so what the majority 
+
+said is that that function is part of the understanding 
+
+of the spacing.  Isn't that what the majority said? 
+
+ MR. HARRIS: 
+
+It said that an additional 
+
+constraint on the spacing is the fact that it has ­­
+
+that it will work in a certain way. 
+
+ JUSTICE SOTOMAYOR: 
+
+So I don't know whether 
+
+it has to be equal spacing or one could be one inch and 
+
+the other half an inch apart.  The bottom line is that 
+
+to work, it has to cancel out, that that's part of the 
+
+scope. 
+
+ MR. HARRIS: 
+
+Yes.  Yes. 
+
+ JUSTICE SOTOMAYOR: 
+
+Now, the concurrence 
+
+said, no, you don't have ­­ you can't ­­ I'm not looking 
+
+at the specification. 
+
+ MR. HARRIS: 
+
+Yes. 
+
+ JUSTICE SOTOMAYOR: 
+
+I think it's definite 
+
+without it. 
+
+ MR. HARRIS: 
+
+Yes. 
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+ JUSTICE SOTOMAYOR: 
+
+All right.  I don't see 
+
+how it could be.  That's what I think Justice Scalia is 
+
+saying and Justice Breyer is saying, that if we don't 
+
+understand what the purpose is, how can that spacing be 
+
+definite enough to make this thing work. 
+
+ So tell us why you think that the 
+
+concurrence's interpretation is wrong.  What's he 
+
+missing? 
+
+ MR. HARRIS: 
+
+The word ­­ when ­­ when it 
+
+says "whereby," the whereby means the elements that came 
+
+before are going to produce that result. 
+
+ JUSTICE SOTOMAYOR: 
+
+Mm­hmm. 
+
+ MR. HARRIS: 
+
+There's never been a problem 
+
+with the fact that a ­­ some amount of 
+
+experimentation ­­ I hate to even call it that because 
+
+it's really just tuning dials on a radio ­­ may be 
+
+needed in order to get the exact number, the exact 
+
+setting. 
+
+ JUSTICE SOTOMAYOR: 
+
+Result that the 
+
+specification ­­
+
+ MR. HARRIS: 
+
+But what the whereby clause 
+
+says, it ­­ it conveys a structure.  It says they have 
+
+to be detected, the signals, in such a way that they're 
+
+equal.  That normally wouldn't be the case.  In all the 
+
+devices that existed up to that time, they wouldn't be 
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+equal.  Signals would come in from the right and the 
+
+left hand that during exercise would be unequal, because 
+
+when a person is running or moving, the right hand and 
+
+left hand have different amounts of contact with the 
+
+electrodes. 
+
+ The whole novelty of this was the fact that 
+
+you didn't have to cancel EMG signals, what we call 
+
+downstream, meaning by just filtering them out.  They 
+
+could be detected in such a way that they would be equal 
+
+and then be cancelled. 
+
+ JUSTICE KAGAN: 
+
+Why didn't the patent 
+
+provide more specificity as to the exact spacing? 
+
+ MR. HARRIS: 
+
+Because like Eibel Process and 
+
+like Mineral Separation, it wasn't possible.  It 
+
+depended on too many variables.  It depended ­­ the 
+
+actual spacing in every single instance would depend on 
+
+four variables.  This was made clear in the expert 
+
+declarations.  The size of the electrode, the shape of 
+
+the electrode, the spacing between the electrodes, and 
+
+the materials, those four things.  Just like in Eibel 
+
+Process, what the Court said was, you may not know in 
+
+advance what it is.  But a skilled artisan will know. 
+
+ JUSTICE GINSBURG: 
+
+What about the apparatus 
+
+on which the electrodes are mounted?  Isn't that another 
+
+variable way you can't say half an inch, because it 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+depends, as you said, on size, shape, and materials of 
+
+the electrodes.  But doesn't it also depend on the 
+
+apparatus? 
+
+ MR. HARRIS: 
+
+Yes.  Yes, it does.  It does. 
+
+The critical point is that there's no question that a 
+
+skilled artisan knew how to do this.  They've introduced 
+
+no evidence that a skilled artisan didn't know this.  In 
+
+fact, their entire argument is based on attorneys coming 
+
+up with arguments later. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+What ­­ what about 
+
+the case that he postulated, an abstract one, where you 
+
+have two perfectly reasonable constructions.  What ­­
+
+what happens then? 
+
+ MR. HARRIS: 
+
+If there are two constructions, 
+
+each of which has survived the Markman claim 
+
+construction process, and each one of them does the 
+
+things that Markman says the correct construction needs 
+
+to do, which is that it fully comports with the 
+
+instrument as a whole and it preserves the patent's 
+
+internal coherence, then yes, we would agree in that 
+
+case it's indefinite.  But what they've put forward ­­
+
+ JUSTICE KAGAN: 
+
+Doesn't Markman exist for a 
+
+different purpose?  I thought that Markman existed in 
+
+order to explain things to a lay juror or a lay judge. 
+
+Why should the Markman test be used in this context, 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+where we're trying to figure out a different question 
+
+entirely? 
+
+ MR. HARRIS: 
+
+Well, I ­­ I'm not sure I agree 
+
+with the premise, Your Honor.  The Markman explained 
+
+that the nature of the test may need to be ­­ or the 
+
+nature of the process may need to be necessarily 
+
+sophisticated.  It's a hard thing to construe ­­ to 
+
+construe claims, and we ­­ it depends critically on the 
+
+abilities of the skilled artisan to do that. 
+
+ Just to return to that ­­ to that ­­ to the 
+
+point again, because I think it's such an important 
+
+point.  All they're relying on here are attorney 
+
+arguments.  In fact, this morning, just now, 
+
+Mr. Vandenberg mentioned that the ambiguity isn't even 
+
+in the words "space relationship."  This is the first 
+
+time I ever heard that.  It's actually somehow in the 
+
+whereby clause.  That argument was never made at any 
+
+time below or up until now. 
+
+ And the reason that's critical ­­ I'm not 
+
+arguing waiver ­­ but the reason that's critical is the 
+
+rule that Nautilus is suggesting here will encourage 
+
+attorneys years after infringement has occurred to just 
+
+come up with some way to argue that there is something 
+
+that's unclear in the patent. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Could I ­­ could I 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+38
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+just go back to my ­­ you know, the two reasonable.  Is 
+
+there a range?  The Chevron ­­ the Chevron analogy again 
+
+comes to mind.  Let's say one is more reasonable than 
+
+the other, but they're both reasonable.  What type of 
+
+range do you have before you say that the patent is 
+
+invalid? 
+
+ MR. HARRIS: 
+
+I think I agree with the 
+
+comments that were ­­ the questions that were asked 
+
+before, that it's very common in matters of statutory 
+
+interpretation to have different answers, some of which 
+
+are reasonable but are incorrect.  We hold ­­ we believe 
+
+that the test requires that the ­­ if there's ­­ there 
+
+has to be more than one correct construction before it's 
+
+going to be indefinite.  If it only depends on the fact 
+
+that there are reasonable interpretations that are made 
+
+in good faith that lawyers are arguing or that jurists 
+
+have come to, that's not going to be enough.  Any more 
+
+than it is ­­
+
+ JUSTICE SCALIA: 
+
+There's never more than one 
+
+correct construction.  Even ­­ even when there is there 
+
+isn't.  I mean, we always have to come up with an 
+
+answer.  And the patent office has to come up with an 
+
+answer.  It means this or it doesn't mean this.  Have 
+
+you ever heard of a court that says, well, you know, it 
+
+could mean either one of these? 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ MR. HARRIS: 
+
+No.  In fact, I think ­­
+
+Justice ­­
+
+ JUSTICE SCALIA: 
+
+It's a tie. 
+
+ (Laughter.) 
+
+ MR. HARRIS: 
+
+I ­­ I think that's the point. 
+
+The point is that one of the constructions is going to 
+
+be better.  All they have suggested here is that both 
+
+constructions, somebody in good faith made. 
+
+ JUSTICE SCALIA: 
+
+So then you win all the 
+
+time. 
+
+ MR. HARRIS: 
+
+No. 
+
+ JUSTICE SCALIA: 
+
+There is no such thing as 
+
+ambiguity, because there is always a right answer. 
+
+ MR. HARRIS: 
+
+As this Court has said in the 
+
+rule of lenity context, there can be situations where a 
+
+statute isn't clear. A judge at the end ­­
+
+ JUSTICE ALITO: 
+
+It sounds like you really 
+
+are advocating the "insolubly ambiguous" standard, 
+
+that's what you're saying.  Unless you have to throw up 
+
+your hands at the end and you say, we can't figure out 
+
+which one this means, there is no correct 
+
+interpretation, unless that's the case, then the patent 
+
+is valid. 
+
+ MR. HARRIS: 
+
+The premise of Markman is that 
+
+in most, if not all, cases or many, many, many cases 
+
+1
+
+2 
+
+3
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11
+
+12
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+where there is going to be real substantial disagreement 
+
+between two parties, good faith disagreement where each 
+
+side is supported by its reading of the materials, 
+
+nevertheless, the court can come to an answer and should 
+
+come to an answer. 
+
+ I just want to mention quickly, this Court 
+
+has had several cases where words appeared to be 
+
+ambiguous on its face and yet the Court didn't have the 
+
+trouble of applying them and interpreting them in the 
+
+patent context. 
+
+ Markman was a case about the word 
+
+"inventory."  "Inventory" on its surface could mean 
+
+either accounts receivable or the actual stuff.  In the 
+
+Yeomans case, the word was "manufacture."  Does 
+
+"manufacture" mean the result or does it mean the 
+
+process? 
+
+ JUSTICE ALITO: 
+
+Well, was the Federal 
+
+Circuit wrong when it said the test should be insolubly 
+
+ambiguous?  Was that wrong or not? 
+
+ MR. HARRIS: 
+
+If "insolubly" means applying 
+
+the standard tools of claim construction, then it's 
+
+correct to say that that is what's required.  But that 
+
+term, I think by some district courts, I'll acknowledge, 
+
+may be misinterpreted to mean as long as we can come up 
+
+with anything, and it makes it sound as if it's not 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+41
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+necessary to actually tie it back to the language of the 
+
+patent. 
+
+ If the court is doing it the correct way 
+
+that Markman prescribes, looking at all the patent 
+
+materials and the prosecution history, if it can come to 
+
+an answer, then we would agree that answer ­­ that the 
+
+patent is definite. 
+
+ JUSTICE SOTOMAYOR: 
+
+Do you agree with your 
+
+adversary that the prosecution history is that at the 
+
+time the patent was issued and not on re­examination or 
+
+anything else subsequent? 
+
+ MR. HARRIS: 
+
+I think in this case it comes 
+
+out the same. 
+
+ JUSTICE SOTOMAYOR: 
+
+No, no.  I didn't ask 
+
+that question. 
+
+ MR. HARRIS: 
+
+No, I think that the 
+
+prosecution history later also can count. 
+
+ JUSTICE SOTOMAYOR: 
+
+Explain that.  Because 
+
+he says, and it seems logical, that you're going to 
+
+stifle inventiveness if people can't, once the patent is 
+
+issued, know how to get around it. 
+
+ MR. HARRIS: 
+
+Well, let me clarify what I 
+
+mean by that.  If evidence is introduced at a later 
+
+stage during ­­ in, say, in re­examination, some of that 
+
+evidence may be, it may be ­­ a court may be able to 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14
+
+15 
+
+16
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+42
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+consider that at a later time as being relevant. 
+
+ If I can finish the question. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+You mean the answer? 
+
+ MR. HARRIS: 
+
+Yes, the answer. 
+
+ If the court ­­ in other words, if evidence, 
+
+as here, was introduced at re­examination about what 
+
+skilled artisans knew at the time, the mere fact that it 
+
+was introduced at a later stage is not a problem. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ MR. HARRIS: 
+
+Thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Mr. Gannon. 
+
+ ORAL ARGUMENT OF CURTIS E. GANNON 
+
+ ON BEHALF OF THE UNITED STATES, 
+
+ AS AMICUS CURIAE, SUPPORTING RESPONDENTS 
+
+ MR. GANNON: 
+
+Mr. Chief Justice and may it 
+
+please the Court: 
+
+ If I'll start with a question that the 
+
+Chief Justice asked.  You’ve already recited the standard 
+
+that we support here, which is that a patent claims is 
+
+sufficiently definite under paragraph 2,if a person of 
+
+ordinary skill in the art would reasonably understand 
+
+the scope of the claim.  And I understand Petitioner's 
+
+submission to be a dispute about what happens if there 
+
+are two potentially reasonable constructions at the end 
+
+of the Markman claim process. 
+
+1 
+
+2
+
+3
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+43
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ And we think that if there are two 
+
+constructions that are of nearly equal persuasiveness, 
+
+then that would be ambiguous.  But if one construction 
+
+is appreciably better, then that is good enough without 
+
+having to take the second step of saying that the second 
+
+best construction that's not as good and appreciably not 
+
+as good IS ­­ is also unreasonable.  We think that 
+
+that's not the way this Court or judges ­­
+
+ JUSTICE BREYER: 
+
+What worries me about that, 
+
+which is certainly attractive, what you just say, is 
+
+that lawyers will come up with all kinds of experts, you 
+
+know.  And quite often, if this situation ever arises, 
+
+and I don't know if it really ever does, it could 
+
+reflect a difference of opinion among scientists.  I 
+
+mean, you could have those who followed the phlogiston 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+ theory of fire.  You could have those who 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+follow the oxygen theory of fire.  All we have to do is 
+
+update that, and you could find different experts who 
+
+would have different opinions while all agreeing that it 
+
+is absolutely clear. 
+
+ I doubt that the Patent Office will very 
+
+often find that problem arising.  And if it does, why 
+
+not just say, forget about it?  As long as you can say 
+
+reasonable experts can clearly ­­ you know, what you 
+
+just said ­­ that's the end of it.  And we'll tell you 
+
+44
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+what to do later, when we really find the problem or you 
+
+tell us what to do.  I mean, I'm having a problem about 
+
+it, and I'm explaining what my problem was. 
+
+ MR. GANNON: 
+
+Well, I think that the question 
+
+is what does it mean when the Court has demanded 
+
+reasonable clarity or reasonable certainty, and that's 
+
+the standard that we read in this Court's cases on 
+
+definiteness. 
+
+ JUSTICE BREYER: 
+
+Can't we just stop there? 
+
+I mean, do we really have to go into this theoretical 
+
+dispute between the two scientists, who have opposite 
+
+theories of ­­
+
+ MR. GANNON: 
+
+Well, I don't think it's a 
+
+dispute between two scientists with opposite theories. 
+
+The question of what a person of ordinary skill in the 
+
+art would think, I think that a person of ordinary skill 
+
+in the art is a hypothetical legal construct, like the 
+
+reasonable person from tort law. 
+
+ JUSTICE SCALIA: 
+
+When do we ever decide a 
+
+case in which we would not say that our result is 
+
+appreciably better than the result we reject? 
+
+ MR. GANNON: 
+
+Well, I think that there are 
+
+times when the Court would recognize that it's an 
+
+authentically closer question. 
+
+ JUSTICE SCALIA: 
+
+Well, it's still close, but 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+45
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+not appreciably better.  If it's not appreciably better, 
+
+we would have to say it's a draw. 
+
+ MR. GANNON: 
+
+I don't think that the Court 
+
+has a unified field theory of ­­
+
+ JUSTICE SCALIA: 
+
+Well, I think the test 
+
+you're giving us is not much of a test, it really isn't. 
+
+It seems to me it says so long as there is a right 
+
+answer, everything else is wrong. 
+
+ MR. GANNON: 
+
+No, I think it says that as 
+
+long as the right answer is appreciably better than the 
+
+second best answer, that you do not have to take the 
+
+second step of having to declare ­­
+
+ JUSTICE SCALIA: 
+
+How big is appreciable? 
+
+ MR. GANNON: 
+
+I don't ­­
+
+ JUSTICE SCALIA: 
+
+You don't know. 
+
+ MR. GANNON: 
+
+I think it's difficult to put a 
+
+mathematical precise ­­ a mathematically precise number 
+
+on it. 
+
+ JUSTICE ALITO: 
+
+That's the whole problem 
+
+with what you're ­­ with what you're saying.  I have no 
+
+idea what "appreciable" means.  Let's say we have a 0 to 1 ­­
+
+ MR. GANNON: 
+
+Something more like 60/40 than 
+
+52/48.  And I think in general the Court recognizes the 
+
+difficulty of that type of mathematical precision in 
+
+applying tests like what it means to be clear and 
+
+1 
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14
+
+15
+
+16
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+46
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+convincing. 
+
+ JUSTICE ALITO: 
+
+Usually when we ask whether 
+
+something is reasonable, we have in mind this reasonable 
+
+person and the set of circumstances in which the 
+
+reasonable person is going to act.  So in torts, the 
+
+reasonable person is going to engage in an activity that 
+
+has some benefits but also has some risks; what would 
+
+that person do in that situation. 
+
+ Now, here you're saying what would the 
+
+reasonable skilled artisan do in what situation?  What 
+
+is this person doing, setting out to build the device? 
+
+What ­­
+
+ MR. GANNON: 
+
+They are trying to understand 
+
+the scope of the claim.  And so, and I ­­ I do think 
+
+it's important here to recognize that there are two 
+
+different questions that are getting conflated in some 
+
+of the discussion.  I think that with respect to 
+
+definiteness under paragraph 2, as the court of appeals 
+
+majority recognized, that this is ­­ in this case the 
+
+question is whether the claim clearly states that it 
+
+requires the electrodes to be arranged in such a fashion 
+
+that they will have the effect of detecting 
+
+substantially equal EMG signals at the electrodes.  It's 
+
+not with downstream circuitry, which is what Petitioner 
+
+suggested in the opening brief.  In Petitioner's reply 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+47
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+brief they've suggested they could use some sort of 
+
+protective sleeve on the electrodes, but that wouldn't 
+
+be consistent with the parts of the limitations that say 
+
+that there needs to be physical and electrical contact 
+
+with the electrodes. 
+
+ And the majority recognize that there are 
+
+multiple variables that come into play here, the 
+
+spacing, the materials, the separation, as my, my 
+
+co­counsel was just explaining, and ­­ but the 
+
+disagreement between the majority and the concurring 
+
+opinion here is just in whether the functional 
+
+limitation inheres in the phrase "spaced relationship" 
+
+taken in isolation or whether it can be read from the 
+
+rest of the claim as a whole. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+But you say 
+
+something like "appreciably better," that's a term that 
+
+may acquire meaning over time.  Just like 
+
+reasonableness, we get a good sense of what it means. 
+
+Is it your sense that the Federal Circuit has been 
+
+applying its test in this case?  I mean, not in this 
+
+case but in a series of cases that is ­­ it is close to 
+
+appreciably better or is it something quite different? 
+
+ MR. GANNON: 
+
+Well, we do acknowledge that 
+
+the phrases that the Federal Circuit has used about 
+
+"insolubly ambiguous" and "amenable to construction" are 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+48
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+subject to be ­­ to be overread and ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Yeah, nobody 
+
+likes those phrases ­­
+
+ JUSTICE SCALIA: 
+
+­­ subject to being read, 
+
+not overread. 
+
+ MR. GANNON: 
+
+Well, I think that they ­­ that 
+
+they could cause mischief if applied in isolation.  And 
+
+we haven't taken a position on every case that the court 
+
+of appeals has applied these standards in, and I don't 
+
+think that the court of appeals was intending a marked 
+
+departure from this Court's overarching ­­
+
+ JUSTICE KENNEDY: 
+
+Are there cases where 
+
+there are two reasonable constructions, but both would 
+
+be patentable? 
+
+ MR. GANNON: 
+
+Well, I think ­­
+
+ JUSTICE KENNEDY: 
+
+Would that satisfy the 
+
+specificity requirement of the statute? 
+
+ MR. GANNON: 
+
+I think that we are arguing now 
+
+about when the second best construction ceases to be a 
+
+reasonable one, I think.  And I think that if the Court 
+
+wants to think of just whether there is a good enough 
+
+construction such that there is reasonable clarity as 
+
+required under United Carbon and in the Minerals 
+
+Separation case where the Court said that the certainty 
+
+that's required is not greater than is reasonable. 
+
+1 
+
+2
+
+3 
+
+4
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+49
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24
+
+25 
+
+ JUSTICE KAGAN: 
+
+What do you think of this 
+
+Chevron analogy, Mr. Gannon?  Because sometimes we do 
+
+say something close to it's a tie.  We say there are a 
+
+couple of reasonable constructions or a number of 
+
+reasonable constructions.  We could pick one, we think 
+
+it might be better, but it's all close enough that we 
+
+don't think we ought to pick one.  So similarly, it's 
+
+all close enough that the definiteness requirement has 
+
+not been met.  Is that a good analogy? 
+
+ MR. GANNON: 
+
+I ­­ I think that that would 
+
+probably ­­ we think that the sorts of constructions 
+
+that would be reasonable under Chevron that the agency 
+
+could take as a second best construction probably aren't 
+
+sufficient to be the definite construction here.  And so 
+
+I ­­ I don't think it's a close analogy because we don't 
+
+think that anyone is seeking that type of deference to 
+
+another decisionmaker as ­­
+
+ JUSTICE KAGAN: 
+
+No.  I'm not sure I quite 
+
+got that.  It's just that anything that would flunk 
+
+Chevron step one and would go on to Chevron step two, 
+
+you would say that that kind of ambiguity, the kind of 
+
+ambiguity ­­
+
+ MR. GANNON: 
+
+No.  I ­­
+
+ JUSTICE KAGAN: 
+
+­­ that would get you to 
+
+Chevron step two ­­
+
+50
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+ MR. GANNON: 
+
+I don't think so. 
+
+ JUSTICE KAGAN: 
+
+­­ is also the kind of 
+
+ambiguity that would fail to satisfy the definiteness ­­
+
+ MR. GANNON: 
+
+No.  And I'm sorry if I wasn't 
+
+clear about this before.  I was trying to say that in a 
+
+60/40 situation that I said would be adequate here, such 
+
+that the second construction did not prevent there from 
+
+being sufficient clarity, I think that we would think 
+
+that an agency would be entitled to choose the 40 
+
+percent option.  But we don't think that that would be 
+
+­­ that that would prevent the 60 percent option from 
+
+being good enough in the context required here. 
+
+ JUSTICE SOTOMAYOR: 
+
+The Federal Circuit 
+
+seems to say that if there's two reasonable 
+
+constructions and one would make the patent valid, I 
+
+think this goes to Justice Kennedy's question, that 
+
+they're obligated to pick the one that makes the patent 
+
+valid. 
+
+ MR. GANNON: 
+
+The case, I think ­­ I believe 
+
+the case that's being talked about there is cited in the 
+
+Exxon opinion. 
+
+ JUSTICE SOTOMAYOR: 
+
+Uh­huh. 
+
+ MR. GANNON: 
+
+And that talks about when there 
+
+are two equally­plausible constructions.  I think that 
+
+that probably is the ­­ the knife edge of insolubly 
+
+51
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ambiguous.  And there, the Federal Circuit suggested 
+
+that ­­ that, as Justice Scalia was ­­ was saying 
+
+before, that ­­ that because there would be a decision 
+
+rule, that you would pick the construction that would 
+
+save the patent, that that would be okay. 
+
+ JUSTICE SOTOMAYOR: 
+
+Is that right? 
+
+ MR. GANNON: 
+
+I don't think that that allows 
+
+for sufficient clarity.  We believe that if there are 
+
+two constructions ­­
+
+ JUSTICE SOTOMAYOR: 
+
+So they're wrong in that 
+
+as well. 
+
+ MR. GANNON: 
+
+In that particular statement 
+
+of ­­ of the rule, yes.  We do think, however, that 
+
+there is a distinction between the ­­ that the 
+
+presumption of patent validity does play a role here. 
+
+It doesn't change the standard, but it ­­ it does ­­ it 
+
+does play a role in indicating that, as the PTO has 
+
+recognized, that courts will do more to save a patent 
+
+than the PTO does when it's examining one.  And I 
+
+would ­­ I would say that we also disagree with the 
+
+notion ­­
+
+ JUSTICE KENNEDY: 
+
+How can that be if it's 
+
+the same test? 
+
+ MR. GANNON: 
+
+Well, it's ­­ the overarching 
+
+question is, is the same of whether a person skilled in 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24
+
+25 
+
+52
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the art would reasonably understand the scope of the 
+
+claim, but ­­
+
+ JUSTICE KENNEDY: 
+
+And that's the same test 
+
+at both levels. 
+
+ MR. GANNON: 
+
+It's ­­ it's not the same test 
+
+that the PTO applies in examination proceedings because 
+
+it uses a slightly different threshold of ambiguity. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Are you finished 
+
+with your answer? 
+
+ MR. GANNON: 
+
+I could give an explanation of 
+
+why. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Can you do it in a 
+
+sentence? 
+
+ MR. GANNON: 
+
+I could say that it involves 
+
+the different circumstances there that include the 
+
+different record, the different burden of proof, the 
+
+lack of adversarial presentation there, and mostly 
+
+critically, the fact that it's easier to amend the 
+
+claims before the patent has been issued. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Four minutes, Mr. Vandenberg. 
+
+ REBUTTAL ARGUMENT BY JOHN D. VANDENBERG 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. VANDENBERG: 
+
+Thank you.  I think the ­­
+
+1 
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7 
+
+8
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25 
+
+the essential points here are, first, the emphatic 
+
+53
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+language that Congress chose, and then thinking about 
+
+ambiguous claims.  There is no legitimate need for 
+
+ambiguous claims.  There is a strong economic incentive 
+
+for patent attorneys to draft ambiguous claims, not to 
+
+put all their eggs in that basket.  They want some clear 
+
+claims in case some copyist comes along, but they want 
+
+ambiguous claims so they can ­­ their client can treat 
+
+it as a nose of wax later, as happened here.  That is 
+
+well established in the patent bar, that there is this 
+
+strong economic incentive.  But patent attorneys have 
+
+ample tools to avoid ambiguous claims if this Court 
+
+tells them that it will no longer be permitted.  That ­­
+
+that is the key here, is that there's a strong economic 
+
+incentive.  The patent attorney and the inventor are in 
+
+the best position to avoid the ambiguity that Congress 
+
+prohibits and therefore, the problem is, the Federal 
+
+Circuit has blessed ambiguity with its test.  And in 
+
+order to stop all of the problems that the amici have 
+
+pointed out that are caused by ambiguous claims, we 
+
+submit this Court needs to be clear and go back to 
+
+United Carbon and General Electric and to the statutory 
+
+text and be clear that ambiguity is simply not 
+
+permitted. 
+
+ In terms of how the Federal Circuit ruled 
+
+here, and we point to the majority's opinion at petition 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+54
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+appendix 15(a), the court, the majority, definitely 
+
+applied the insolubly ambiguous test.  They said, 
+
+"Because the term was amenable to construction, 
+
+indefiniteness here would require a showing that a 
+
+person of ordinary skill would find spaced relationship 
+
+to be insolubly ambiguous."  And therefore, if the Court 
+
+rejects that test, we submit, at the very least, the 
+
+Court cannot affirm the judgment below on that basis. 
+
+ But more importantly ­­
+
+ JUSTICE GINSBURG: 
+
+But the Federal Circuit 
+
+said something ­­ I'm looking at the petition appendix 
+
+at 20(a) ­­ that sounded very close to what the 
+
+government standard is.  It said, "Sufficiently" ­­
+
+"that the claim provides parameters sufficient for a 
+
+skilled artisan to understand the bounds of spaced 
+
+relationship."  That sounds very close to what the 
+
+government says and it isn't ­­ they don't say anything 
+
+about insoluble in ­­ in that statement. 
+
+ MR. VANDENBERG: 
+
+It is true that here in 
+
+some of their cases, the court will ­­ the Federal 
+
+Circuit will use language like that saying that one 
+
+could have understood.  However, it's clear they were 
+
+not applying the type of test that United Carbon and 
+
+General Electric required.  They did not even consider 
+
+whether the person of skill in the art may have read the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+55
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+Official 
+
+claim the different way. 
+
+ And in terms of the two different claim 
+
+scopes, we would simply invite the Court's attention 
+
+back to our reply brief at page 20, which explained the 
+
+different claim scopes.  We think the government 
+
+misunderstood the point, and therefore, in the reply, we 
+
+amplified it some more. 
+
+ But as ­­ as I said, the Court at the very 
+
+least should not affirm.  But we think it's important 
+
+here for the Court to create another concrete guide 
+
+post.  In KSR and Bilski, this Court provided a huge 
+
+service to the patent bar in applying the correct law to 
+
+an actual patent claim, creating concrete guide posts 
+
+for Section 101 and 103.  Well, the patent bar and the 
+
+trial courts need another concrete guide post if 
+
+applying the correct law of Section 112, paragraph 2 to 
+
+this particular claim. 
+
+ If there are no further questions, thank 
+
+you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ The case is submitted. 
+
+ (Whereupon at 11:07 a.m., the case in the 
+
+above­entitled matter was submitted.) 
+
+ 
+
+ 
+
+56 
+
+Alderson Reporting Company 
+
+Official 
+Official
+
+agreed 4:23 5:2 
+
+15:2,13 
+
+11:16 
+
+agreeing 44:19 
+agrees 24:25 
+air 10:3 30:25 
+alito 13:3 40:17 
+
+41:17 46:19 47:2 
+
+allowing 3:23 
+allows 52:7 
+alternative 9:16 
+
+13:9 
+
+angle 32:25 33:23 
+
+33:24 
+
+answer 13:21 18:19 
+18:20 19:23 31:7 
+32:14 33:3,7,8 
+39:22,23 40:13 
+41:4,5 42:6,6 43:3 
+43:4 46:8,10,11 
+53:9 
+
+answers 39:10 
+
+Page 57 
+
+arguably 22:24 
+argue 38:23 
+arguing 26:12 
+
+attractive 44:10 
+authentically 45:24 
+available 22:1 
+38:20 39:16 49:18  avoid 54:11,15 
+
+argument 1:12 2:2 
+
+2:5,8,12 3:3,7 
+20:5 23:18 28:2 
+32:12,13 37:8 
+38:17 43:12 53:22 
+
+arguments 37:9 
+
+38:13 
+
+37:3 
+
+34:15 
+
+47:18 49:9,10 
+
+appeals 19:25 
+
+apologize 15:6 
+apparatus 36:23 
+
+ambiguous 3:13,17  appearances 1:14 
+
+13:20 15:2,7,18 
+15:20,23 17:19 
+22:4,22 38:14 
+40:13 50:21,22 
+51:3 53:7 54:15 
+54:17,22 
+
+ambiguity 12:16,17  apart 6:20 29:14,15  arises 44:12 
+arising 44:22 
+arose 17:21 
+arranged 47:21 
+art 6:8,13,18 9:12 
+9:18 10:23 11:3 
+12:18 13:2 16:8 
+16:18,22 19:17 
+20:23,23 21:17 
+25:16,20 26:5 
+43:21 45:16,17 
+53:1 55:25 
+
+3:22,23 4:3 11:15  appeared 41:7 
+12:1 15:12,15 
+appendix 16:17 
+18:13 19:5,7,8 
+22:9,11,11 24:12 
+24:18 25:10 32:12  application 11:11 
+40:18 41:8,19 
+12:4,9,11 19:24 
+44:3 48:25 52:1 
+54:2,3,4,7,11,19 
+55:2,6 
+
+applied 3:16 12:15 
+26:8 49:7,9 55:2 
+applies 11:5 15:9 
+
+articulated 10:19 
+articulation 12:7 
+
+25:25 
+
+applicant 22:5 
+
+artisan 13:4 23:25 
+
+55:1,11 
+
+B 
+
+b 13:5,7 
+back 7:12 39:1 42:1 
+
+54:20 56:4 
+
+balance 23:15 
+balancing 6:2 
+bar 54:9 56:12,14 
+based 30:3 37:8 
+basic 8:25 
+basically 6:9 9:5 
+basis 18:1 55:8 
+basket 54:5 
+bear 19:24 
+behalf 1:15,17 2:4 
+2:7,14 3:8 23:19 
+43:13 53:23 
+
+believe 39:11 51:19 
+
+52:8 
+
+benefits 47:7 
+best 14:22 44:6 
+
+46:11 49:19 50:13 
+54:15 
+
+A 
+
+abilities 38:9 
+able 29:24 30:2 
+
+33:8 42:25 
+
+aboveentitled 1:11 
+
+56:23 
+
+absolutely 44:20 
+abstract 37:11 
+accept 11:21,24 
+accord 20:13,16 
+accounts 41:13 
+achieve 4:12 5:14 
+
+16:2 
+
+achieved 5:21 
+achieves 5:16 
+achieving 5:10 7:11 
+
+7:14,18,21 10:8 
+acknowledge 8:8 
+
+41:23 48:23 
+acquire 48:17 
+act 3:11 47:5 
+action 13:18 
+activity 47:6 
+actual 36:16 41:13 
+
+56:13 
+add 7:8 
+additional 27:18 
+
+34:10 
+
+43:14 
+
+20:2 53:6 
+
+amount 32:16 
+
+amenable 11:14 
+12:1,25 48:25 
+55:3 
+
+apply 11:1 13:22 
+20:17,17,18,19 
+27:6 
+
+amend 53:18 
+amici 54:18 
+amicus 1:21 2:10 
+
+address 26:22 
+addressing 27:5 
+adequate 51:6 
+adopt 17:13 
+advance 36:22 
+adversarial 53:17 
+adversary 42:9 
+advocating 40:18 
+affirm 55:8 56:9 
+affirmative 20:4 
+affirmed 23:23 
+agency 13:18 50:12  amplified 56:7 
+amplifier 28:22 
+analog 13:17 
+11:11 18:18 19:15  analogize 15:1 
+21:12 24:17 25:21  analogy 39:2 50:2,9  appropriate 11:9 
+37:20 38:3 39:7 
+42:6,8 
+
+45:21 46:1,1,10 
+48:16,22 
+
+amounts 36:4 
+ample 54:11 
+
+april 1:9 
+arent 50:13 
+
+analysis 9:13 13:9 
+
+approach 27:21 
+
+agree 6:25 9:24 
+
+28:1,6 
+
+35:14 
+
+50:15 
+
+51:9 
+
+25:22 26:13 29:22  better 40:7 44:4 
+45:21 46:1,1,10 
+29:24 31:14 36:22 
+48:16,22 50:6 
+37:6,7 38:9 47:10 
+big 17:4 25:17 
+55:15 
+32:20 46:13 
+
+artisans 25:8 26:4 
+26:11 33:8 43:7 
+
+applying 12:18 
+25:5 41:9,20 
+46:25 48:20 55:23  asked 31:10 39:8 
+56:12,16 
+
+aside 21:24 
+
+43:18 
+
+appreciable 46:13 
+
+asking 9:8 
+assert 18:5 19:12 
+appreciably 44:4,6  asserted 8:6 16:14 
+
+46:21 
+
+bilski 56:11 
+biosig 1:6 3:4 5:8 
+8:6 17:20 18:3 
+
+biosigs 16:14 
+biotechnology 
+
+20:23 
+
+blessed 54:17 
+
+assistant 1:19 30:2  blue 30:5,6,7,9,10 
+attention 56:3 
+attorney 22:12 
+38:12 54:14 
+attorneys 7:22 
+
+30:11 32:5 
+bottom 34:15 
+boundaries 15:25 
+
+24:1 
+
+22:10 37:8 38:22  bounds 25:9 27:11 
+54:4,10 
+
+55:15 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Official 
+
+come 11:6 14:21 
+
+comes 7:13 11:18 
+13:17 39:3 42:12 
+54:6 
+
+17:10 36:1 38:23 
+39:17,21,22 41:4 
+41:5,24 42:5 
+44:11 48:7 
+
+10:17,24 11:2,4 
+12:17,20 13:4,12 
+14:11,16,17 15:15 
+15:22,23 16:3,9 
+16:23 17:19 18:4 
+18:5,9,14 19:16 
+20:5 21:7 22:7,23 
+23:2,3,6,11,25 
+25:6,9,9 26:11 
+comfortable 17:2 
+27:7,8 28:12 29:3  coming 29:11 37:8 
+33:15,15 37:15 
+41:21 43:22,25 
+47:14,20 48:14 
+53:2 55:14 56:1,2 
+56:5,13,17 
+claimed 14:4 
+claiming 12:19 
+
+comments 39:8 
+common 39:9 
+competing 16:15 
+
+16:24 17:1,20 
+
+23:13 
+
+claims 3:12,17,22 
+
+56:10,13,15 
+
+concretely 23:9 
+
+3:23 5:4,13,23 
+7:23,23 9:25 10:2  concurrence 4:20 
+22:5,9,11,11 38:8 
+7:24 16:10 26:20 
+27:4,18,19,22,25 
+43:19 53:19 54:2 
+54:3,4,6,7,11,19 
+28:4 34:19 
+clarify 21:15 25:3 
+
+completely 25:21 
+comports 37:18 
+concise 14:3 
+concrete 23:1,10,11  convincing 47:1 
+
+Page 58 
+
+48:25 49:19,22 
+50:13,14 51:7 
+52:4 55:3 
+
+constructions 13:6 
+
+16:15 17:2,21 
+18:4 37:12,14 
+40:6,8 43:24 44:2 
+49:13 50:4,5,11 
+51:15,24 52:9 
+construe 14:20 
+
+26:5 38:7,8 
+
+contact 36:4 48:4 
+contacts 4:4 
+context 15:22 17:8 
+24:20 37:25 40:15 
+41:10 51:12 
+conveys 35:22 
+
+copyist 54:6 
+correct 5:1 6:21 
+32:12,13 34:5 
+37:17 39:13,20 
+40:21 41:22 42:3 
+56:12,16 
+
+correctly 14:16 
+
+23:24 
+
+counsel 23:16 43:9 
+
+53:20 56:20 
+
+count 42:17 
+couple 6:13 50:4 
+course 18:11 19:10 
+
+3:21 11:6 15:8,10 
+15:10,12,14 19:25 
+20:25 23:4,21,23 
+24:6,6,13,19 
+25:11 32:15,23 
+36:21 39:24 40:14 
+41:4,6,8 42:3,25 
+43:5,16 44:8 45:5 
+45:23 46:3,23 
+47:18 49:8,10,20 
+49:24 54:11,20 
+55:1,6,8,20 56:8 
+56:10,11 
+
+courts 11:18 13:12 
+
+55:20 
+
+breyer 30:4,17,20 
+31:2,8,10,16,22 
+32:1,18 35:3 44:9  cause 3:19,20 49:7 
+45:9 
+
+catches 32:6 
+
+caused 54:19 
+causes 4:12 10:16 
+ceases 49:19 
+certain 13:6 19:18 
+
+20:2 34:12 
+
+certainly 11:13 
+
+14:20 44:10 
+
+certainty 11:17,18 
+11:21 45:6 49:24 
+
+challenger 20:3 
+change 52:16 
+chevron 15:1,13 
+
+19:1,7,10 39:2,2 
+50:2,12,20,20,25 
+
+chevrons 19:2,5 
+chewing 8:18 
+chief 3:3,9 6:7 8:1 
+
+10:18 11:9,22 
+21:10 23:16,20 
+24:24 33:2,6 
+37:10 38:25 43:3 
+43:9,11,15,18 
+48:15 49:2 53:8 
+53:12,20 56:20 
+
+chill 16:4 
+choose 51:9 
+chose 54:1 
+circuit 4:14 12:2,23 
+12:24 21:2 23:22 
+24:13 25:4 26:8,9 
+41:18 48:19,24 
+51:13 52:1 54:17 
+54:24 55:10,21 
+
+circuitry 47:24 
+circuits 3:23 11:7 
+
+11:14 12:6,22 
+25:25 
+
+breyers 33:3 
+brief 15:18 16:9 
+
+21:11 24:9 26:17 
+47:25 48:1 56:4 
+
+broader 7:20 
+broadly 7:23 
+build 30:2 47:11 
+bulb 6:17 8:13 
+burden 53:16 
+
+C 
+
+c 1:8,20 2:1 3:1 
+ca 19:19 
+call 35:15 36:7 
+cancel 4:24 34:16 
+
+36:7 
+
+canceled 28:23 
+canceling 7:6 
+cancelled 36:10 
+cancels 34:4 
+cant 6:7 7:2,7 11:25 
+
+29:16 30:9 32:5 
+34:20 36:25 40:20 
+42:20 45:9 
+
+carbon 6:5 10:17 
+
+23:5 49:23 54:21 
+55:23 
+
+carefully 25:13 
+case 3:4,12 8:7 
+12:10 20:9,19 
+24:4,14,16 25:5 
+26:9 28:15 32:24 
+33:22,25 35:24 
+37:11,21 40:22 
+41:11,14 42:12 
+45:20 47:19 48:20 
+48:21 49:8,24 
+51:19,20 54:6 
+56:21,22 
+
+cases 11:18 22:20 
+
+40:25,25 41:7 
+45:7 48:21 49:12 
+
+42:22 
+
+clarity 25:8 45:6 
+49:22 51:8 52:8 
+clause 10:1 18:13 
+
+concurrences 18:6 
+26:15 28:6 35:7 
+concurring 48:10 
+configured 29:5 
+conflated 47:16 
+
+27:17 28:14 35:21  confused 30:4 
+38:17 
+
+clear 13:2 14:3 
+
+congress 54:1,15 
+consider 43:1 55:24  court 1:1,12 3:10 
+
+17:7,23 19:6 26:7  consistent 48:3 
+36:17 40:16 44:20  consistently 24:14 
+46:25 51:5 54:5 
+54:20,22 55:22 
+
+constraint 34:11 
+construct 45:17 
+
+clearly 44:24 47:20  construction 3:20 
+client 54:7 
+close 4:4 6:11,19 
+
+circumstances 47:4 
+
+13:21 19:8 45:25 
+48:21 50:3,6,8,15 
+55:12,16 
+cited 51:20 
+closely 15:1 
+claim 3:12,14,19,21  closer 45:24 
+
+53:15 
+
+4:2 5:8,9 7:19,25 
+7:25 8:6 9:12 
+
+cocounsel 48:9 
+coherence 37:20 
+
+3:21 4:9,11,13 8:7 
+9:4,9 11:14 12:1 
+12:25 13:1,10 
+14:16 16:19,20,25 
+17:18 18:5,6,8 
+21:8 25:6,15,18 
+25:19 26:3 27:7 
+37:16,17 39:13,20 
+41:21 44:3,6 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+19:17 25:14,17,19  dials 35:16 
+34:23 35:5 42:7 
+43:20 50:14 
+definitely 55:1 
+definiteness 23:24 
+
+didnt 7:15,16 15:4 
+27:22 31:20 33:1 
+36:7,11 37:7 41:8 
+42:14 
+
+27:5,10 45:8 
+47:18 50:8 51:3 
+definition 14:19 
+
+25:7 26:16 
+
+deliberately 22:10 
+demanded 45:5 
+deny 24:10 
+denying 24:12 
+department 1:20 
+departure 49:11 
+depend 36:16 37:2 
+depended 36:15,15 
+depending 11:1 
+depends 11:10 
+
+29:22 37:1 38:8 
+39:14 
+
+derived 4:17 
+describe 7:15 10:7 
+
+22:24 
+
+difference 4:23 
+
+25:17 26:15,18,22 
+26:25 27:1,2 
+44:14 
+
+different 3:14 
+
+47:11 
+
+12:21 16:3 17:11  dont 4:19 6:12,12 
+26:16 28:15 30:13 
+36:4 37:23 38:1 
+39:10 44:18,19 
+47:16 48:22 53:7 
+53:15,16,16 56:1 
+56:2,5 
+
+8:21,21 10:3 12:4 
+13:20 14:20 17:25 
+26:20,24 27:19 
+29:15 30:22,22 
+33:5,18,20 34:13 
+34:20 35:1,3 
+44:13 45:13 46:3 
+46:14,15 49:9 
+50:7,15,15 51:1 
+51:10 52:7 55:17 
+
+differential 28:22 
+difficult 6:15 46:16 
+difficulty 46:24 
+directions 12:21 
+disagree 17:5 52:20  doubt 44:21 
+disagreed 4:21 
+
+downstream 36:8 
+
+17:18 
+
+47:24 
+
+16:19,20 18:7 
+24:22 25:15 41:23 
+45:7 49:11 52:18 
+56:3,15 
+
+cover 5:9,13 6:9 
+
+7:10,21 
+
+coverage 7:20 
+covering 7:5 
+covers 15:24,25 
+create 56:10 
+creating 56:13 
+critical 29:23 37:5 
+
+38:19,20 
+
+critically 38:8 
+
+53:18 
+
+cure 21:22 
+curiae 1:21 2:10 
+
+43:14 
+
+curious 12:9 
+curtis 1:19 2:9 
+
+43:12 
+
+D 
+
+d 1:8,15,17,20 2:3,6 
+
+2:13 3:1,7 23:18 
+53:22 
+
+Page 59 
+
+document 32:9 
+doesnt 5:19 9:22 
+
+10:15,15,15 20:6 
+26:12 29:10 32:7 
+32:9,10,11,18,19 
+32:19 33:13,16,20 
+37:2,22 39:23 
+52:16 
+
+either 15:23 18:5 
+
+39:25 41:13 
+
+electric 10:17 23:5 
+28:16 54:21 55:24 
+
+electrical 10:12 
+
+48:4 
+
+electricity 8:15 
+electrode 5:19 7:3 
+
+doing 17:2 42:3 
+
+36:18,19 
+
+electrodes 4:3,5,6 
+4:12,18,24 5:11 
+5:13,16,20 6:24 
+7:1 10:5,11,14 
+15:24 16:1 28:18 
+29:5,11,14 30:5 
+31:15 36:5,19,24 
+37:2 47:21,23 
+48:2,5 
+
+elements 35:10 
+elevation 23:7,8 
+embodiments 23:2 
+emg 7:6 16:23 
+
+28:17 36:7 47:23 
+
+emgs 4:25 
+emphasis 25:15 
+emphatic 14:1 
+
+53:25 
+
+encourage 3:25 
+
+38:21 
+
+enforce 19:12 
+enforced 14:7 
+engage 47:6 
+entire 37:8 
+entirely 38:2 
+entitled 20:25 51:9 
+equal 5:17 10:2,11 
+10:14 28:21 29:6 
+29:12 33:5 34:14 
+35:24 36:1,9 44:2 
+47:23 
+
+equalized 29:3,18 
+equally 33:4 
+equallyplausible 
+
+51:24 
+
+error 6:14,15 7:15 
+
+8:12,16,22,23 
+
+described 7:16 14:2  disagreement 
+
+22:25 23:9 28:14 
+
+10:19 12:5 28:3 
+41:1,2 48:10 
+
+dr 16:16 30:1 
+draft 7:22 54:4 
+drafted 7:19 
+draw 46:2 
+
+dangling 18:13 
+describing 22:6 
+darts 33:10 
+description 17:25 
+date 21:16 
+designate 15:12 
+day 13:13 21:18 
+desired 4:13 5:10 
+dealing 11:23 
+5:14,17,21 7:11 
+decide 45:19 
+7:21 10:8 16:2 
+decision 21:8 23:22  detect 4:18 10:14 
+detected 10:2,10 
+28:18,21 29:6 
+35:23 36:9 
+
+decisionmaker 
+
+50:17 
+
+52:3 
+
+E 
+
+disagreements 5:7 
+disavowing 27:25 
+discern 16:18,22 
+disclaiming 27:25 
+discovering 6:16 
+discussed 15:25 
+discussion 47:17 
+dispositive 17:18 
+dispute 12:14 16:10  easy 22:7 
+
+earlier 24:25 
+easier 53:18 
+easily 16:22 
+
+43:12 
+
+e 1:19 2:1,9 3:1,1 
+
+decisions 26:1 
+declarations 36:18 
+declare 46:12 
+defeat 3:17 
+defeats 3:23 
+defense 20:2,3,4,4 
+deference 20:7,13 
+20:16,25 21:4,7 
+50:16 
+
+definite 4:7 17:25 
+
+detecting 5:17 
+
+43:23 45:11,14 
+
+47:22 
+
+disputes 3:20 
+
+economic 54:3,10 
+
+54:13 
+
+edge 51:25 
+determination 21:2  distance 32:8,9,10 
+edison 6:16 
+determine 15:7 
+distances 30:13,15 
+distinct 3:12,13 4:6  edisons 8:13 
+determines 15:15 
+effect 47:22 
+deters 6:6 
+efforts 25:6 
+device 47:11 
+devices 35:25 
+diagram 33:3 
+diagrams 27:9 30:3 
+
+distinction 52:14 
+distinctly 14:4 22:8  eggs 54:5 
+district 3:21 24:22 
+
+36:13,20 
+
+23:13 
+
+41:23 
+
+eibel 23:5,6 32:22 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+finger 32:6 
+fingers 30:25 32:20  general 1:20 10:17 
+
+gannoulas 16:17 
+
+Page 60 
+
+half 31:4,19 34:15 
+
+36:25 
+
+hand 4:4 6:9,11,24 
+
+7:2 27:14 29:16 
+30:7,8,10,11,18 
+30:21 31:5,5 32:6 
+32:20,21 36:2,3,4 
+
+hands 10:11 28:8 
+29:1,15,16 30:14 
+33:19 40:20 
+
+10:20 11:1,8,15 
+21:12 23:5 24:23 
+28:15 46:23 54:21 
+55:24 
+
+generals 21:11 
+genuine 12:15,17 
+getting 47:16 
+ginsburg 4:2 11:6 
+
+15:17 22:14 36:23  happen 10:1 13:7 
+55:10 
+
+33:11 
+
+give 25:18 53:10 
+given 14:4,5 28:16 
+giving 46:6 
+go 32:19 39:1 45:10  hard 38:7 
+
+happened 54:8 
+happens 12:14,19 
+
+18:15 37:13 43:23 
+
+50:20 54:20 
+
+goal 5:21 
+goes 51:16 
+going 7:12 8:11 
+
+27:6 28:17,17,18 
+28:21 35:11 39:14 
+39:17 40:6 41:1 
+42:19 47:5,6 
+good 10:1 11:8 
+
+18:14 32:7 39:16 
+40:8 41:2 44:4,6,7 
+48:18 49:21 50:9 
+51:12 
+
+government 13:21 
+22:14 26:17 55:13 
+55:17 56:5 
+
+harris 1:17 2:6 
+
+23:17,18,20 24:6 
+24:11,20 25:2,21 
+26:7,19,23 27:1 
+28:10,13,20 29:4 
+29:8,20 30:15,19 
+30:22 31:7,13,21 
+31:24 32:15,22 
+33:5,24 34:6,10 
+34:18,22,25 35:9 
+35:13,21 36:13 
+37:4,14 38:3 39:7 
+40:1,5,11,14,24 
+41:20 42:12,16,22 
+43:4,10 
+hate 35:15 
+
+18:12 
+
+grammatical 22:22  havent 49:8 
+head 27:21 
+grammatically 
+heap 4:5 
+hear 3:3 
+heard 38:16 39:24 
+
+grants 22:15 
+great 32:20 
+greater 27:13 49:25  heart 3:18 
+green 30:6,7,7,9,10  held 23:24 24:4 
+
+30:12 31:3,3 32:4  help 19:15 
+
+16:2 22:25 29:13 
+33:9 
+
+esq 1:15,17,19 2:3 
+
+2:6,9,13 
+
+essence 16:15 
+essential 53:25 
+essentially 12:21 
+established 54:9 
+eventually 5:24 
+evidence 16:7,11 
+
+16:13 26:10 29:23 
+31:13 37:7 42:23 
+42:25 43:5 
+evident 4:3 
+ex 21:22 
+exact 6:4 14:3 
+
+35:17,17 36:12 
+
+exactly 32:17 
+examination 53:6 
+examining 52:19 
+examples 23:2,10 
+
+23:11 
+
+excuse 22:4 
+exercise 36:2 
+exist 24:12 37:22 
+existed 21:16 35:25 
+
+37:23 
+
+exists 24:10 
+expected 9:13 
+experiment 32:19 
+
+33:21 
+
+experimentation 
+
+32:16 35:15 
+
+extent 11:19 
+extracting 34:1 
+extravagant 24:5 
+exxon 51:21 
+
+F 
+
+face 18:9,12 41:8 
+faced 32:23,23 
+fact 5:7 9:11 17:20 
+20:7,10,19 22:23 
+27:21,23 28:2,7 
+29:4,21 30:1 
+34:11 35:14 36:6 
+37:8 38:13 39:14 
+40:1 43:7 53:18 
+factfinding 20:24 
+facto 14:14 21:22 
+fail 22:17 51:3 
+fair 24:24 
+fairly 6:10 
+faith 39:16 40:8 
+
+41:2 
+
+far 6:20 
+fashion 47:21 
+fed 19:19 28:21 
+federal 3:23 4:14 
+
+11:7,14 12:2,6,22 
+12:23,24 21:2 
+23:22 24:13 25:4 
+25:25 26:8,9 
+41:17 48:19,24 
+51:13 52:1 54:16 
+54:24 55:10,20 
+
+17:1 36:17 
+
+expert 16:14,21 
+
+fell 23:11 
+fiddle 33:16 
+field 14:23 46:4 
+18:11 44:11,18,24  figure 8:10,16,25 
+
+experts 16:13 18:8 
+
+explain 26:17 37:24 
+
+42:18 
+
+explained 24:14,14 
+
+38:4 56:4 
+
+explaining 45:3 
+
+48:9 
+
+explanation 53:10 
+explicit 27:14 
+explicitly 28:14 
+
+9:14,18 38:1 
+40:20 
+
+filtering 36:8 
+find 12:23 18:6,7 
+
+33:7 44:18,22 
+45:1 55:5 
+
+finding 20:10 
+findings 20:7,19 
+finds 15:10 
+
+32:21 
+
+finish 43:2 
+finished 53:8 
+fire 44:16,17 
+first 3:4 4:1 9:4 
+15:4,8 23:23 
+26:20 27:7 38:15 
+53:25 
+fit 32:5 
+flunk 50:19 
+focus 26:1,2 
+follow 44:17 
+followed 44:15 
+forcefully 14:8 
+forget 44:23 
+formula 11:7,8,10 
+
+11:11 
+
+formulation 24:25 
+forward 37:21 
+found 4:14 20:22 
+
+32:15 
+
+four 36:17,20 53:21 
+friends 11:23 
+full 14:3 25:4 
+fullblown 9:13 
+fully 37:18 
+function 3:18 7:6,8 
+
+7:11 34:8 
+
+functional 5:25 
+
+9:25 10:16 16:25 
+27:16,23 48:11 
+
+further 10:6 56:18 
+
+G 
+
+g 3:1 
+galianas 30:1 
+gannon 1:19 2:9 
+
+grip 29:17 
+
+43:11,12,15 45:4 
+45:13,22 46:3,9 
+46:14,16,22 47:13  guess 25:2 32:3 
+48:23 49:6,15,18 
+50:2,10,23 51:1,4  gum 8:18 
+51:19,23 52:7,12 
+52:24 53:5,10,14 
+
+H 
+
+guide 56:10,13,15 
+
+hes 32:7 
+high 23:7 33:1,23 
+
+33:24 
+
+highly 22:19 
+history 10:22 17:8 
+
+17:24 21:12,15,19 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+interpreting 41:9 
+interpretive 3:15 
+
+judges 5:7 17:17 
+
+18:11 44:8 
+
+judgment 55:8 
+judgments 13:13 
+jurists 39:16 
+juror 37:24 
+justice 1:20 3:3,9 
+
+Page 61 
+
+50:18,24 51:2 
+keep 4:5 29:14 
+kennedy 19:14,22 
+20:6,12,15 21:4 
+24:17 49:12,16 
+52:22 53:3 
+
+kind 12:7 50:21,21 
+
+51:2 
+
+43:7 
+
+kinds 30:5 44:11 
+knew 31:14,22 37:6 
+
+know 5:22 6:9,19 
+7:23 8:14,17,24 
+8:25 9:18 10:20 
+13:19 14:7,19 
+17:25 20:4 21:3 
+26:17 29:14 30:22 
+31:16,19,20,21,23 
+33:14,16,17 34:13 
+36:21,22 37:7 
+39:1,24 42:21 
+44:12,13,24 46:15 
+
+kennedys 51:16 
+4:2,19 5:2 6:7 7:4  key 12:14 54:13 
+8:2,8,21 9:6,8,17 
+9:21 10:18 11:6,9 
+11:22 13:3,16 
+14:9,13,18 15:3 
+15:17 16:6 17:4 
+17:22 18:16,23,25  knife 51:25 
+19:4,14,22 20:6 
+20:12,15 21:4,9 
+21:10 22:14 23:16 
+23:20 24:3,8,11 
+24:17,24 25:12,24 
+26:14,21,24 28:5 
+28:12,13,19,24 
+29:7,9 30:4,17,20 
+30:24,25 31:2,8 
+31:10,16,22 32:1 
+32:18 33:2,3,6,13 
+33:14 34:3,7,13 
+34:19,23 35:1,2,3  ksr 56:11 
+35:12,19 36:11,23 
+37:10,22 38:25 
+39:19 40:2,3,9,12 
+40:17 41:17 42:8 
+42:14,18 43:3,9 
+43:11,15,18 44:9 
+45:9,19,25 46:5 
+46:13,15,19 47:2 
+48:15 49:2,4,12 
+49:16 50:1,18,24 
+51:2,13,16,22 
+52:2,6,10,22 53:3 
+53:8,12,20 55:10 
+56:20 
+
+L 
+lack 53:17 
+language 14:7 15:9 
+
+23:7,7 24:5,9 
+25:13 26:11 27:8 
+42:1 54:1 55:21 
+laughter 31:1,12 
+
+knows 8:17 22:12 
+
+40:4 
+
+law 45:18 56:12,16 
+lawyers 39:16 
+
+44:11 
+
+lay 37:24,24 
+leave 10:3 
+left 5:18 10:12 30:7 
+30:10 31:4 36:2,4 
+legal 12:11 21:1,5,8 
+
+justices 17:5 
+
+K 
+
+kagan 21:9 33:13 
+36:11 37:22 50:1 
+
+45:17 
+
+legitimate 22:4 
+
+21:20,21,25 42:5 
+42:9,17 
+
+hold 39:11 
+holding 30:25 
+honor 4:8 5:6 6:22 
+7:9 8:19 9:2,10,20 
+10:25 11:12 13:24 
+14:11 15:21 16:12 
+17:16 18:22 19:3 
+19:21 20:8 21:6 
+21:14 22:18 25:2 
+38:4 
+
+hours 30:2 
+huge 56:11 
+hugely 16:3 
+hypothetical 45:17 
+
+I 
+idea 46:21 
+ill 23:15 41:23 
+
+43:17 
+
+illumine 8:15 
+im 9:8 11:23 12:9,9 
+18:17 19:12 30:4 
+34:20 38:3,19 
+45:2,3 50:18 51:4 
+55:11 
+
+imagine 30:5 
+immediately 13:17 
+implicit 27:14 
+imply 20:6,12 
+importance 26:25 
+important 22:3 
+
+27:3 38:11 47:15 
+56:9 
+
+importantly 55:9 
+improvement 
+
+11:13 
+
+incentive 54:3,10 
+
+54:14 
+
+inch 31:4,5,19 
+
+34:14,15 36:25 
+inches 31:3,17,18 
+include 22:10 25:22 
+
+53:15 
+
+included 16:14 
+
+incorrect 39:11 
+increase 3:19 
+indefinite 9:11 
+
+12:22,23 17:15 
+37:21 39:14 
+
+indefiniteness 9:3 
+
+20:9,11,20,21 
+21:1,23 25:10 
+55:4 
+
+indicated 8:2 
+indicating 52:17 
+inform 25:8 
+infringed 5:23 
+infringement 6:2,4 
+
+38:22 
+
+inheres 48:12 
+initial 20:5 21:23 
+innovate 9:15 
+
+21:18 
+
+innovation 3:25 6:6 
+
+16:5 
+
+innovator 14:6 
+inside 23:2,11 
+insoluble 55:18 
+insolubly 11:14,25 
+
+24:12,18 25:9 
+40:18 41:18,20 
+48:25 51:25 55:2 
+55:6 
+
+instance 13:14 
+
+20:22 21:24 36:16 
+
+instrument 37:19 
+instruments 1:6 3:5 
+intended 9:4 
+intending 49:10 
+intentionally 7:19 
+internal 37:20 
+interpretation 5:24 
+
+6:25 8:5,6 13:11 
+13:11,12,15 14:14 
+17:11,14 21:5 
+27:10 35:7 39:10 
+40:22 
+
+interpretations 
+
+11:3 12:17 13:14 
+39:15 
+
+11:5 12:15,18 
+15:9 22:1 
+
+introduced 37:6 
+
+42:23 43:6,8 
+
+invalid 25:10 39:6 
+invalidate 17:15 
+invalidity 9:13 
+
+15:16 
+
+invention 7:5,12 
+
+9:9 12:8 14:2 
+22:7,7,24 23:9 
+24:1 29:25 30:3 
+
+inventiveness 
+
+42:20 
+
+inventor 5:15,22 
+
+7:13,17 9:22 
+54:14 
+
+inventory 41:12,12 
+invents 5:15 
+invitation 33:21 
+invite 56:3 
+invoke 18:25 
+involves 53:14 
+ipso 14:14 
+isnt 4:6 27:2,12 
+
+32:7 34:9 36:24 
+38:14 39:21 40:16 
+46:6 55:17 
+
+isolation 48:13 49:7 
+issue 5:3 18:2 20:10 
+20:21 27:20 33:6 
+33:6 
+
+issued 21:16 42:10 
+
+42:21 53:19 
+issues 4:1 9:15 
+
+21:18 
+
+itll 33:19 
+
+J 
+
+john 1:15 2:3,13 
+
+3:7 53:22 
+joint 16:17 
+judge 17:13 37:24 
+
+40:16 
+
+Alderson Reporting Company
+ 
+
+misunderstood 
+
+15:5 56:6 
+
+10:21 11:4 27:18 
+
+7:12 8:14,16 
+
+likes 49:3 
+limit 8:23 
+limitation 6:1 
+
+materials 36:20 
+37:1 41:3 42:5 
+48:8 
+
+46:17,24 
+
+mathematical 
+
+mmhmm 35:12 
+monday 1:9 
+monopoly 22:12 
+morning 3:4 38:13 
+motivated 21:17 
+mounted 36:24 
+matter 1:11 5:10,19  move 12:7 15:13 
+
+27:16,23 48:12 
+limitations 48:3 
+limited 6:17 
+line 34:15 
+litigation 3:19 
+little 30:4 32:21 
+logical 42:19 
+matters 5:14 39:9  moving 36:3 
+long 5:20 8:1 21:14  mean 6:7,15 8:13  multiple 48:7 
+
+mathematically 
+
+26:13 56:23 
+
+33:11 
+
+46:17 
+
+28:25 33:18 41:24 
+44:23 46:7,10 
+
+longer 54:12 
+look 13:9 27:3 
+30:17,17 31:2 
+
+looked 27:8 
+looking 18:10 
+
+26:10 34:20 42:4 
+55:11 
+
+looks 15:8 
+
+M 
+
+m 1:13 3:2 56:22 
+majority 4:14,20 
+
+13:5,5 18:10 19:1  muscle 5:17 10:2 
+24:8 39:21,23,25 
+41:12,15,15,24 
+42:23 43:3 44:15 
+45:2,5,10 48:20 
+
+10:10 
+
+n 1:17 2:1,1 3:1 
+nanotechnology 
+
+N 
+
+meaning 12:16 
+
+17:5 20:24 36:8 
+48:17 
+
+means 8:4 11:20 
+
+20:23 
+
+narrow 6:10,23 
+nature 38:5,6 
+
+13:7 35:10 39:23  nautilus 1:3 3:4 
+40:21 41:20 46:21 
+46:25 48:18 
+
+26:12 27:20,21,24 
+38:21 
+
+meant 6:3 16:9 
+
+22:21 
+
+5:24 16:10 17:22  mention 41:6 
+17:23 18:6 26:19  mentioned 24:23 
+27:3,4,5,6 28:3 
+32:23 38:14 
+34:7,9 47:19 48:6  mere 28:7 43:7 
+48:10 55:1 
+
+nearly 44:2 
+necessarily 28:9 
+
+38:6 
+
+necessary 27:22 
+
+42:1 
+
+need 17:21 22:4 
+
+majoritys 26:16 
+
+28:1 54:25 
+
+met 50:9 
+metal 34:2 
+metallic 34:2 
+method 32:24 34:1  needs 14:7 25:22 
+
+27:20 32:16 38:5 
+38:6 54:2 56:15 
+
+needed 35:17 
+
+37:17 48:4 54:20 
+
+manner 29:11 
+manufacture 41:14  middle 6:19 18:14 
+
+notice 3:18 23:25 
+notion 52:21 
+novelty 36:6 
+number 35:17 
+
+46:17 50:4 
+
+O 
+
+o 2:1 3:1 
+obligated 51:17 
+obviously 11:20 
+occurred 38:22 
+office 20:20,22 21:7 
+
+39:22 44:21 
+
+oh 13:20 
+okay 14:18 18:25 
+19:2 30:21 31:5 
+32:1 52:5 
+
+once 22:5 42:20 
+ones 30:20 
+opening 47:25 
+operation 23:10 
+opinion 44:14 
+
+48:11 51:21 54:25 
+
+opinions 44:19 
+opposed 26:3 
+opposite 45:11,14 
+option 51:10,11 
+oral 1:11 2:2,5,8 
+3:7 23:18 43:12 
+
+order 15:7 16:2 
+
+32:17 33:12 35:17 
+37:24 54:18 
+ordinary 16:8 
+
+43:21 45:15,16 
+55:5 
+
+ore 1:15 34:1,2 
+ought 19:19 50:7 
+outside 23:2,12 
+
+Official 
+
+54:2 
+
+lenity 40:15 
+levels 9:3 53:4 
+light 6:16 8:13 
+
+37:15,17,22,23,25  misinterpret 24:22  nose 54:8 
+38:4 40:24 41:11  misinterpreted 
+42:4 43:25 
+
+41:24 
+
+material 5:16,16,21  missing 35:8 
+
+41:15 
+
+manufacturing 
+
+32:24 
+
+mark 1:17 2:6 
+
+23:18 
+
+marked 49:10 
+markman 8:6 
+
+mind 13:17 39:3 
+
+47:3 
+
+mineral 36:14 
+minerals 33:24,25 
+
+49:23 
+
+minutes 53:21 
+mischief 49:7 
+
+never 28:1 32:15 
+
+29:16 
+
+35:13 38:17 39:19  overarching 49:11 
+
+nevertheless 7:17 
+
+52:24 
+
+41:4 
+
+new 1:17 5:15,16 
+
+5:20 7:12 
+
+normally 35:24 
+
+overread 49:1,5 
+overturn 18:1 
+oxygen 44:17 
+
+Alderson Reporting Company
+ 
+
+Page 62 
+
+P 
+
+p 3:1 
+page 2:2 56:4 
+palms 10:13 
+panel 17:13 
+paper 32:24 
+paragraph 19:9 
+
+22:6 43:20 47:18 
+56:16 
+
+parallel 19:8 
+parameters 32:17 
+
+55:14 
+
+part 4:22 5:3,4,4 
+21:25 33:2 34:8 
+34:16 
+
+particular 3:11,13 
+12:8 20:24 23:13 
+52:12 56:17 
+
+particularity 25:8 
+particularly 14:4 
+
+22:8 
+
+parties 11:16 18:11 
+
+41:2 
+
+parts 48:3 
+pass 19:1,4,7 
+passed 8:15 
+patent 3:11,24 4:1 
+5:5 7:7,10,16,22 
+8:9,12,18 9:15 
+10:15,21 17:15 
+18:10,12 20:20,22 
+21:7,16,18,21 
+22:5,10,11,12,15 
+23:1,9,12 26:6 
+27:10,15,17 28:5 
+28:10 29:24 36:11 
+38:24 39:5,22 
+40:22 41:10 42:2 
+42:4,7,10,20 
+43:19 44:21 51:15 
+51:17 52:5,15,18 
+53:19 54:4,9,10 
+54:14 56:12,13,14 
+
+patentable 9:9,11 
+
+49:14 
+
+patented 8:24 
+
+Official 
+
+patents 13:23 17:12  pointed 54:19 
+
+43:25 
+
+37:19 
+
+people 42:20 
+percent 22:19 
+
+51:10,11 
+
+perfectly 17:7 
+
+37:12 
+
+permissibility 
+
+21:13 
+
+permitted 54:12,23 
+person 9:12,17 
+
+points 12:21 53:25  produce 28:9 29:2 
+portland 1:15 
+position 12:20 
+
+proffer 16:7,11,13 
+
+29:8 35:11 
+
+17:17 18:21 49:8  prohibits 54:16 
+54:15 
+
+positions 18:9 
+possible 5:11,12 
+7:21,24 15:24 
+36:14 
+
+possibly 7:10 
+
+promote 3:25 
+proof 53:16 
+proper 13:9 14:16 
+
+15:15 
+
+proposed 15:3 
+prosecution 10:22 
+
+posts 56:13 
+
+10:22 11:3 12:17  post 21:22 56:11,15 
+13:2,4,6 16:7,17 
+16:22 19:17 21:16  postulated 37:11 
+protecting 14:5 
+36:3 43:20 45:15  potentially 43:24 
+protective 48:2 
+45:16,18 47:4,5,6  precedents 23:5 
+proves 17:19 
+precise 46:17,17 
+47:8,11 52:25 
+provide 25:7 36:12 
+55:5,25 
+precision 46:24 
+prefer 11:19 
+provided 56:11 
+premise 38:4 40:24  provides 55:14 
+pto 19:15,19 20:13 
+prescribes 42:4 
+20:16 21:5 52:17 
+presentation 53:17 
+52:19 53:6 
+preserve 20:3 
+preserves 37:19 
+public 3:17 
+presumption 19:24  pulp 32:25 
+
+petitioner 1:4,16 
+2:4,14 3:8 47:24 
+53:23 
+
+persuasiveness 
+
+petition 54:25 
+
+55:11 
+
+44:2 
+
+petitioners 43:22 
+
+20:1,15 52:15 
+
+47:25 
+
+pretty 31:10 
+prevailed 28:6 
+prevent 51:7,11 
+
+phlogiston 44:15 
+phrase 48:12 
+phrases 48:24 49:3  principle 8:25 
+principles 27:7 
+phrasing 11:17 
+probably 31:24 
+physical 48:4 
+pick 12:24,25 50:5 
+50:11,13 51:25 
+problem 9:24,24 
+50:7 51:17 52:4 
+10:6 12:22 17:5 
+22:21 25:24 32:16 
+35:13 43:8 44:22 
+45:1,2,3 46:19 
+54:16 
+
+picked 13:1 
+plain 19:13 
+plausible 7:25 9:9 
+play 48:7 52:15,17 
+plead 20:4 
+please 3:10 23:21 
+
+problems 54:18 
+procedural 27:24 
+
+28:2 
+
+proceedings 53:6 
+process 23:6,6 
+
+43:16 
+
+point 13:25 18:10 
+19:10 25:3 29:1 
+32:2,2,3 37:5 
+38:11,12 40:5,6 
+54:25 56:6 
+
+purely 9:25 10:16 
+purpose 3:24 7:5 
+7:10 14:5 35:4 
+37:23 
+
+put 5:19 28:25 
+
+29:25 30:10,11 
+31:17 37:21 46:16 
+54:5 
+
+puts 23:25 
+putting 21:24 
+
+Q 
+
+question 4:21 15:6 
+
+26:1 31:8 33:3 
+37:5 38:1 42:15 
+43:2,17 45:4,15 
+45:24 47:20 51:16 
+52:25 
+
+questions 12:7 39:8 
+
+32:22 36:13,21 
+37:16 38:6 41:16  quickly 12:8 33:9 
+
+47:16 56:18 
+
+Alderson Reporting Company
+ 
+
+17:24 21:11,15,19  rare 20:9 21:24 
+reach 27:20,22 
+21:20,21,25 42:5 
+read 7:7 10:9 21:10  recognize 45:23 
+42:9,17 
+
+rebuttal 2:12 53:22 
+receivable 41:13 
+recited 43:18 
+
+Page 63 
+
+41:6 
+
+quite 26:7 28:15 
+
+49:22,25 50:4,5 
+50:12 51:14 
+
+44:12 48:22 50:18  reasonableness 
+
+quotation 21:9 
+
+R 
+
+r 3:1 
+radio 33:11 35:16 
+raise 20:3 
+range 6:10,17 39:2 
+
+39:5 
+
+26:2,3 48:18 
+
+reasonably 10:23 
+
+11:16,20 13:6 
+19:18 25:14 26:5 
+43:21 53:1 
+
+reasons 23:23 
+
+27:24 
+
+25:13,18,25 26:17 
+28:25 29:3,19,24 
+32:3,4 45:7 48:13 
+49:4 55:25 
+readily 16:18 
+reading 5:11,12 
+
+7:24,25,25 9:12 
+41:3 
+
+readings 3:14 
+
+15:11 
+
+reads 10:8 11:4 
+
+27:24 
+
+reaffirm 23:4 
+real 41:1 
+reality 10:12 
+really 6:23 8:22 
+
+12:2,16 17:4 
+20:11 24:5 35:16 
+40:17 44:13 45:1 
+45:10 46:6 
+
+reason 17:2 22:8 
+
+38:19,20 
+
+47:15 48:6 
+
+recognized 47:19 
+
+52:18 
+
+recognizes 46:23 
+record 30:24 53:16 
+reexamination 
+
+21:19 42:10,24 
+43:6 
+
+refer 6:22 
+referred 21:11 
+refers 11:15 
+reflect 44:14 
+regarding 20:20 
+regardless 5:18 
+reject 45:21 
+rejects 55:7 
+related 21:21 
+relationship 4:11 
+4:15 5:25 6:3,20 
+8:1,4 15:19,22 
+16:19,25 22:16,21 
+27:12 38:15 48:12 
+55:5,16 
+
+relevant 33:4 43:1 
+
+reasonable 3:14 4:9 
+4:10 8:5 9:5 11:2 
+11:17,18,21 12:16  rely 16:9 
+13:5,10,12,15 
+relying 38:12 
+14:9,21,23 15:11 
+remainder 15:13 
+16:15 23:25 25:6 
+remember 22:3 
+37:12 39:1,3,4,11  removed 16:24 
+39:15 43:24 44:24  reply 47:25 56:4,6 
+45:6,6,18 47:3,3,5  require 55:4 
+47:6,10 49:13,20 
+
+required 41:22 
+
+Official 
+
+56:3,5 
+
+second 9:7,8,23,24 
+13:11,14 44:5,5 
+46:11,12 49:19 
+50:13 51:7 
+
+secondly 24:1 
+section 3:18,24 
+
+14:2 19:9 56:14 
+56:16 
+
+see 6:14 9:15 12:5 
+14:13 26:14,24 
+30:12 35:1 
+seeing 33:10 
+seeking 50:16 
+seen 18:4 
+sense 7:1 48:18,19 
+sensible 19:23 
+sentence 53:13 
+separate 4:5 
+separation 33:25 
+34:1 36:14 48:8 
+49:24 
+
+set 47:4 
+setting 35:18 47:11 
+shape 36:18 37:1 
+sheds 27:17 
+shorthand 6:23 
+shouldnt 21:22 
+show 30:24 
+showed 31:14 
+showing 16:7 55:4 
+shows 33:4 
+side 4:20 5:18 6:10 
+11:24 17:6 29:12 
+41:3 
+
+sides 30:16 
+signal 34:5 
+signals 5:17 10:2 
+10:10,12 16:23 
+28:18,20 29:2,6 
+29:11,18 35:23 
+36:1,7 47:23 
+similarly 50:7 
+simply 7:3 9:14,25 
+
+54:22 56:3 
+
+single 7:2,3 36:16 
+situation 31:25 
+44:12 47:8,10 
+51:6 
+
+situations 40:15 
+size 36:18 37:1 
+skill 9:12 11:3 
+
+12:18 13:2 16:8 
+16:18,22 21:17 
+43:21 45:15,16 
+55:5,25 
+
+skilled 6:8,13,18 
+9:17 10:23 13:4 
+19:17 23:25 25:8 
+25:16,16,20,22 
+26:4,4,4,10,13 
+29:22,24 31:14 
+33:8 36:22 37:6,7 
+38:9 43:7 47:10 
+52:25 55:15 
+
+Page 64 
+
+space 8:10 15:19,22 
+28:11 29:10 31:3 
+31:15 33:18 38:15 
+
+spaced 4:11,15 
+
+5:11,25 6:3,20 8:1 
+8:4 16:19,25 
+22:16,21 27:11 
+28:8 33:4 48:12 
+55:5,15 
+
+spacing 4:12,16,16 
+4:17 5:13,18 6:3,8 
+6:22,23 7:6,15 
+8:11,22 9:19,22 
+10:4 15:24 16:20 
+22:25 28:25 33:5 
+33:7,17 34:9,11 
+34:14 35:4 36:12 
+36:16,19 48:8 
+
+spacings 16:1 
+special 4:12,16 
+
+5:13 16:1 
+
+specific 7:13,18 
+specifically 16:16 
+
+sleeve 48:2 
+slightly 53:7 
+solicitor 1:19 10:20  specification 10:7,9 
+10:22 11:4 21:25 
+22:23 23:1,9 27:9 
+34:21 35:20 
+
+11:1,8,15 21:10 
+21:12 24:23 
+
+somebody 8:12 
+
+32:20 40:8 
+
+soon 32:1 
+sophisticated 38:7 
+sorry 19:12 51:4 
+sort 20:12 21:22 
+
+48:1 
+
+sorts 50:11 
+sotomayor 4:19 5:2 
+
+7:4 16:6 17:4,22 
+25:12,24 26:14,21 
+26:24 34:3,7,13 
+34:19,23 35:1,12 
+35:19 42:8,14,18 
+51:13,22 52:6,10 
+
+sound 41:25 
+sounded 55:12 
+sounding 23:7 
+sounds 4:15 40:17 
+
+55:16 
+
+specifications 4:22 
+
+5:4 17:24 
+
+specificity 36:12 
+
+49:17 
+
+specifics 29:21 
+stage 42:24 43:8 
+standard 10:19 
+
+11:2 12:6 13:18 
+17:12 18:18,18 
+19:11,15,18,19,25 
+24:19 26:9 40:18 
+41:21 43:18 45:7 
+52:16 55:13 
+
+standards 12:12 
+
+49:9 
+
+start 43:17 
+starting 13:25 
+18:10 19:10 
+statement 25:5 
+
+13:4 18:14 26:15 
+26:21 27:21 29:10 
+29:13,14,17 33:17  series 48:21 
+35:10,22,22 37:17  service 56:12 
+39:24 42:19 46:7 
+46:9 55:17 
+
+49:23,25 51:12 
+55:24 
+
+requirement 10:21 
+23:13 49:17 50:8 
+requirements 22:6 
+requires 3:11 14:2 
+20:2 39:12 47:21 
+
+31:11 
+
+rule 38:21 40:15 
+
+52:4,13 
+
+ruled 54:24 
+rulings 3:21 
+run 24:9 
+running 34:4 36:3 
+
+research 30:1 
+reserve 23:15 
+respect 47:17 
+respondent 1:18,22  satisfied 22:5 23:12 
+
+s 2:1 3:1 
+
+S 
+
+2:11 23:19 
+
+respondents 2:7 
+
+43:14 
+
+rest 48:14 
+restriction 8:4 
+result 4:13 5:10,14 
+5:17 6:1 7:14,22 
+10:8 14:21,22,22 
+14:24 15:15 16:1 
+16:2 25:6 28:9 
+29:2 35:11,19 
+41:15 45:20,21 
+
+return 38:10 
+reversals 3:20 
+reverse 24:19 
+review 13:17 18:1 
+
+21:3 
+
+right 4:18 5:18 
+
+9:19 10:13 11:24 
+12:11 13:21 14:24 
+18:19,20,22,23,24 
+19:22 25:1 28:19 
+30:8,11 31:2,4,5 
+32:12,17 35:1 
+36:1,3 40:13 46:7 
+46:10 52:6 
+
+risks 47:7 
+roberts 3:3 6:7 
+
+satisfies 10:21 
+satisfy 49:16 51:3 
+save 52:5,18 
+saying 11:7 14:23 
+25:14 28:25 32:7 
+35:3,3 40:19 44:5 
+46:20 47:9 52:2 
+55:21 
+
+says 10:1,9,10,20 
+
+scalia 8:8,21 9:6,8 
+
+9:17,21 13:16 
+14:9,13,18 15:3 
+18:16,23,25 19:4 
+24:3,8,11 28:5,12 
+28:13,19,24 29:7 
+29:9 30:24 33:14 
+35:2 39:19 40:3,9 
+40:12 45:19,25 
+46:5,13,15 49:4 
+52:2 
+
+scientists 44:14 
+
+45:11,14 
+
+10:18 11:22 23:16  scope 5:3,5,8,9 
+24:24 33:2 37:10 
+38:25 43:3,9,11 
+48:15 49:2 53:8 
+53:12,20 56:20 
+
+10:23 13:20 16:23 
+19:18 23:11 26:5 
+26:22 27:2 29:16 
+34:17 43:22 47:14 
+53:1 
+
+scopes 3:15 16:3 
+
+role 52:15,17 
+roundabout 31:8 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+55:23 
+
+testing 4:17 
+tests 46:25 
+text 13:25 14:1,4 
+17:7 19:11,12 
+54:22 
+
+thank 23:16 43:9 
+43:10 53:20,24 
+56:18,20 
+
+Page 65 
+
+30:9 32:5 33:18 
+
+touchable 7:1 
+touching 6:25 7:2 
+
+train 27:19 
+trained 7:22 22:10 
+treat 54:7 
+trial 6:14,15 7:14 
+
+36:20 37:17,24 
+think 4:19 5:15 
+11:12,17 12:13 
+13:8,20 14:6,21 
+8:3 29:2 30:12 
+14:22 17:10 19:23  traditional 27:9 
+22:3 24:13 26:7 
+26:18,20 27:3,19 
+27:22 32:13 33:5 
+33:18,20 34:23 
+35:2,6 38:11 39:7 
+40:1,5 41:23 
+42:12,16 44:1,7 
+45:4,13,16,16,22 
+46:3,5,9,16,23 
+47:14,17 49:6,10 
+49:15,18,20,20,21  trouble 11:23 18:17 
+50:1,5,7,10,11,15 
+50:16 51:1,8,8,10 
+51:16,19,24 52:7 
+52:13 53:24 56:5 
+56:9 
+
+true 15:10 55:19 
+try 6:13,18,19 7:22 
+trying 9:14 12:19 
+38:1 47:13 51:5 
+
+8:12,16,22,23 
+16:2,18,19 18:7 
+20:25 22:25 29:13 
+33:9 56:15 
+
+trialanderror 4:17 
+
+6:2 
+
+41:9 
+
+thought 4:22 15:4,4  turned 27:20 
+
+52:12 55:18 
+
+statements 27:15 
+states 1:1,12,21 
+
+2:10 43:13 47:20 
+
+statute 13:15,25 
+
+14:1,5 15:8,12,14 
+17:7 40:16 49:17 
+
+statutes 13:14 
+
+14:20 
+
+statutory 14:5,7 
+15:8 17:9 19:11 
+19:12 39:9 54:21 
+step 19:2,5,7 44:5 
+
+48:1 52:1 
+
+suggesting 38:21 
+suggestion 25:11 
+supply 32:25 
+support 43:19 
+supported 17:1 
+
+41:3 
+
+supporting 1:21 
+
+2:10 43:14 
+
+suppose 22:16 30:9 
+supposed 21:17 
+supreme 1:1,12 
+sure 38:3 50:18 
+
+46:12 50:20,20,25  surface 41:12 
+
+survived 37:15 
+suspect 11:23 
+system 3:24 
+
+T 
+
+t 2:1,1 
+take 8:13 24:17 
+
+44:5 46:11 50:13 
+
+taken 3:22 18:4 
+
+24:4 48:13 49:8 
+
+takes 25:15 
+talked 51:20 
+talking 6:10 33:22 
+talks 51:23 
+technique 10:7 
+techniques 7:11 
+tell 8:12 9:22 10:3 
+32:9,10,11 33:23 
+35:6 44:25 45:2 
+tells 22:14 54:12 
+term 15:19,22 
+
+20:22,23 22:16 
+41:23 48:16 55:3 
+
+terms 14:3 19:13 
+
+54:24 56:2 
+
+test 3:23 11:15 
+
+steps 27:6 
+stifle 42:20 
+stop 45:9 54:18 
+strict 22:6 
+strong 54:3,10,13 
+stronger 33:25 
+structure 28:15,16 
+
+35:22 
+
+stuff 8:22 41:13 
+subject 14:17 49:1 
+
+49:4 
+
+submission 43:23 
+submit 5:6 19:11 
+
+54:20 55:7 
+
+submitted 56:21,23 
+subsequent 42:11 
+subsidiary 20:11 
+substantial 23:8 
+
+41:1 
+
+substantially 16:24 
+
+47:23 
+
+subtle 25:12 
+subtracted 28:22 
+suffice 4:10 
+sufficient 17:14 
+
+25:7 50:14 51:8 
+52:8 55:14 
+
+sufficiently 4:6 
+
+13:2 43:20 55:13 
+
+suggest 12:7 
+suggested 11:9 
+
+24:25 40:7 47:25 
+
+thats 5:11 6:21 8:3 
+8:4 10:19 11:22 
+12:2 13:20 15:3 
+17:12,14 18:20,22 
+19:23 21:15 23:12 
+24:3,3 25:24 
+26:12 27:18 28:12 
+29:3,10,13,17,18 
+29:18 32:2,3,3 
+34:16 35:2 38:19 
+38:20,24 39:17 
+40:5,19,22 44:6,8 
+44:25 45:6 46:19 
+thinking 54:1 
+48:16 49:25 51:20  thinks 17:13 
+53:3 
+
+theoretical 45:10 
+theories 45:12,14 
+theory 23:10 44:16 
+
+44:17 46:4 
+
+thered 6:2 7:3 21:7 
+
+22:20 
+
+theres 8:3 9:3,3 
+
+12:15 14:23 17:14 
+21:4 33:18 35:13 
+37:5 39:12,19 
+51:14 54:13 
+
+15:18 24:4 26:13 
+37:23 
+
+threshold 53:7 
+throw 40:19 
+throwing 33:10 
+tie 40:3 42:1 50:3 
+time 14:20 17:6 
+
+23:15 25:23 26:13 
+31:14 35:25 38:16 
+38:18 40:10 42:10 
+43:1,7 48:17 
+
+theyre 8:2 9:14,25 
+times 45:23 
+10:14 13:5 30:12 
+tiny 32:21 
+30:13 33:19 35:23  today 22:9 
+38:12 39:4 51:17 
+52:10 
+
+tools 3:15 11:5 
+12:15,18 15:9 
+17:9 22:1 27:9 
+41:21 54:11 
+
+tungsten 8:17 
+tuning 33:11 35:16 
+
+two 3:14 9:3,5 11:2 
+
+12:16,21 16:4 
+23:23 24:15 27:5 
+30:5,14,15 31:3 
+31:17,18 37:12,14 
+39:1 41:2 43:24 
+44:1 45:11,14 
+47:15 49:13 50:20 
+50:25 51:14,24 
+52:9 56:2 
+
+type 6:4 10:17 
+
+21:21 39:4 46:24 
+50:16 55:23 
+
+U 
+
+uhhuh 51:22 
+ultimately 4:24 
+uncertainty 6:5 
+
+12:22 22:17 23:24  theyve 37:6,21 48:1 
+24:15 25:5,22 
+thing 6:16 24:8,10 
+37:25 38:5 39:12 
+41:18 46:5,6 
+48:20 52:23 53:3 
+53:5 54:17 55:2,7 
+
+27:7 32:5 35:5 
+38:7 40:12 
+
+things 6:14 8:10 
+
+10:1,9 17:6 33:12 
+
+14:6 16:4 22:20 
+tort 45:18 
+unclear 9:4 38:24 
+torts 47:5 
+touch 5:20 6:24 8:2  uncontested 29:23 
+
+28:8 29:1,15 30:8 
+
+31:13 33:8 
+
+Alderson Reporting Company
+ 
+
+underlying 20:10 
+understand 7:7 
+8:22 9:6 10:23 
+11:16,20 12:19 
+14:15 16:8 18:16 
+25:20 29:9,25 
+33:14 35:4 43:21 
+43:22 47:13 53:1 
+55:15 
+
+understanding 
+
+15:6 18:17 34:8 
+understood 25:23 
+
+55:22 
+
+19:9 56:16 
+worked 30:1 31:22  13369 1:4 3:4 
+working 34:4 
+
+31:6,19,20,23,24 
+32:7 33:10,20 
+34:12,16 35:5 
+
+14:11,15,25 15:5 
+15:21 16:12 17:16 
+18:3,22,24 19:3,6 
+19:21 20:1,8,14 
+20:18 21:6,14 
+22:18 32:23 38:14  works 6:16 33:16 
+53:21,22,24 55:19  world 17:12 
+worries 44:9 
+
+variable 36:25 
+variables 36:15,17  wouldnt 24:4 28:6 
+29:19,20 35:24,25 
+48:2 
+
+various 10:9 
+
+48:7 
+
+written 27:8 
+wrong 12:6 14:10 
+
+14:14,18 35:7 
+41:18,19 46:8 
+52:10 
+
+x 1:2,7 
+
+X 
+
+Y 
+
+y 1:17 
+yeah 49:2 
+years 7:17 22:25 
+
+38:22 
+
+yeomans 41:14 
+york 1:17 
+youll 29:12 
+youre 6:9 14:23 
+
+40:19 42:19 46:6 
+46:20,20 47:9 
+
+youve 6:17 
+
+Z 
+zero 27:13 
+zone 6:5 
+
+W 
+
+want 12:9 13:19,22 
+25:3,3 31:23 41:6 
+54:5,6 
+
+unequal 10:13 36:2  waiver 38:20 
+unified 46:4 
+united 1:1,12,21 
+2:10 6:5 10:17 
+23:5 43:13 49:23  wants 49:21 
+warned 6:5 
+54:21 55:23 
+washington 1:8,20 
+unreasonable 
+14:14,24 18:5,7,8  wasnt 7:16 22:24 
+18:20 44:7 
+update 44:18 
+upheld 23:6,8 
+use 13:19 19:20 
+
+wax 54:8 
+way 7:13,18,20 
+
+36:14 51:4 
+
+21:11,13,13 22:15 
+48:1 55:21 
+
+users 4:4 
+uses 53:7 
+usually 47:2 
+
+V 
+
+26:8 29:5,19 30:1 
+31:9,11 34:12 
+35:23 36:9,25 
+38:23 42:3 44:8 
+56:1 
+
+ways 5:9 7:21 
+went 5:8 16:21 
+weve 15:25 18:4 
+whats 12:6 32:13 
+
+v 1:5 3:4 
+vague 23:6 
+valid 8:9,18 17:11  whos 13:4 
+
+35:7 41:22 
+
+28:5 40:23 51:15  width 27:13 
+51:18 
+widths 33:19 
+win 40:9 
+word 24:7 35:9 
+
+validity 19:24 20:1 
+
+20:16 52:15 
+valuable 22:12 
+vandenberg 1:15 
+
+41:11,14 
+
+15 7:17 22:25 55:1 
+1976 22:15 
+1992 29:24 
+1994 5:15,22 
+
+2 
+
+2 19:9 30:2 43:20 
+
+47:18 56:16 
+20 55:12 56:4 
+2014 1:9 
+22 22:15 
+23 2:7 
+274 16:17 
+28 1:9 
+
+3 2:4 
+
+3 
+
+4 
+
+40 46:22 51:6,9 
+43 2:11 
+48 46:23 
+
+52 46:23 
+53 2:14 
+
+5 
+
+6 
+
+60 46:22 51:6,11 
+
+7 
+
+8 
+
+9 
+
+Official 
+
+Page 66 
+
+11 56:22 
+112 3:18,24 14:2 
+
+0 
+
+0 46:21 
+000 22:15 
+07 1:13 3:2 56:22 
+
+94 9:15 
+99 22:19 
+
+words 22:22 24:12 
+24:15,21,22 38:15 
+41:7 43:5 
+
+2:3,13 3:6,7,9 4:8 
+5:1,6 6:21 7:9 
+1 46:21 
+8:19 9:2,7,10,20  work 6:12 9:1 
+10 1:13 3:2 
+13:22 28:7,7 
+9:23 10:25 11:12 
+101 56:14 
+29:19,20 30:14,21  103 56:14 
+12:13 13:8,24 
+
+1 
+
+Alderson Reporting Company
+ 
+
+

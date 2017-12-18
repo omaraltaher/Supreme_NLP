@@ -1,0 +1,31075 @@
+Official 
+
+1 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+       
+
+IN  THE  SUPREME  COURT  OF  THE  UNITED  STATES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+                                 
+
+SPOKEO,  INC., 
+
+ 
+
+                     
+
+: 
+
+            
+
+Petitioner 
+
+               
+
+:  No.  13­1339 
+
+ 
+
+       
+
+v. 
+
+                         
+
+THOMAS  ROBINS. 
+
+ 
+
+                    
+
+: 
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+                                 
+
+                       
+
+Washington,  D.C. 
+
+ 
+
+                       
+
+Monday,  November  2,  2015 
+
+ 
+
+ 
+
+ 
+
+              
+
+The  above­entitled  matter  came  on  for  oral 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argument  before  the  Supreme  Court  of  the  United  States 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+at  11:06  a.m. 
+
+ 
+
+ 
+
+APPEARANCES: 
+
+ANDREW  J.  PINCUS,  ESQ.,  Washington,  D.C.;  on  behalf  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Petitioner. 
+
+WILLIAM  S.  CONSOVOY,  ESQ.,  Arlington,  Va.;  on  behalf  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Respondent. 
+
+MALCOLM  L.  STEWART,  ESQ.,  Deputy  Solicitor  General, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department  of  Justice,  Washington,  D.C.;  on  behalf  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+United  States,  as  amicus  curiae,  supporting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Respondent. 
+
+Alderson Reporting Company 
+
+Official 
+
+                                   
+
+C O N T E N T S 
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+                                  
+
+2 
+
+PAGE 
+
+ANDREW  J.  PINCUS,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  the  Petitioner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+WILLIAM  S.  CONSOVOY,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  the  Respondent 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+3 
+
+29 
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+MALCOLM  L.  STEWART,  ESQ., 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  United  States,  as  amicus  curiae, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+supporting  Respondent 
+
+ 
+
+                            
+
+50 
+
+REBUTTAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+ANDREW  J.  PINCUS,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  the  Petitioner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+61 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+3 
+
+                                      
+
+P  R  O  C  E  E  D  I  N  G  S 
+
+                                           
+
+(11:06  a.m.) 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  We'll  hear  argument 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+next  today  in  Case  13­1339,  Spokeo  v.  Robins. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Mr.  Pincus. 
+
+ 
+
+          
+
+ORAL  ARGUMENT  OF  MR.  ANDREW  J.  PINCUS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ON  BEHALF  OF  THE  PETITIONER 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Thank  you,  Mr.  Chief  Justice, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  may  it  please  the  Court: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+This  Court  has  said  that  the  irreducible 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+constitutional  minimum  for  standing  is  injury  in  fact; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  plaintiff  suffered  actual  or  imminent,  tangible 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+harm. 
+
+            
+
+In  Lujan,  the  Court  said  that  Congress  may 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+elevate  to  the  status  of  legally­cognizable  injuries, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concrete,  de  facto  injuries  that  were  previously 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inadequate  in  law. 
+
+ 
+
+ 
+
+            
+
+Here,  the  Ninth  Circuit  held  that  there's  no 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+need  for  any  de  facto  injury.  A  statutory  violation 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  in  some  general  sense  relates  to  the  plaintiff  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+all  that's  necessary,  even  though  it  has  no  tangible  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+JUSTICE  KAGAN:  Why  is  it  you  think  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  PINCUS:  ­­ consequences  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  Let's  say  I  agree  with  you 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  there  needs  to  be  a  concrete  injury;  that  Congress 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+4 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+needs  to  have  recognized  something  that  looks  like  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concrete  injury.  But  why  isn't  that  exactly  what 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  did  here?  So  let  me  just  frame  it  in  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hypothetical. 
+
+            
+
+Suppose  that  there's  just  a  statute  ­­ it's 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  little  bit  of  a  simpler  statute,  and  you  can  argue 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  me  or  tell  me  why  it  might  or  might  not  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+different,  but  I  just  want  to  understand  your  position. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Suppose  that  there  is  a  statute  that  just 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+says  that  one  of  these  credit  reporting  agencies  shall 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  disseminate  inaccurate  information  about  people,  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+shall  ­­ shall  not  do  it  willfully  or  negligently  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  have  you,  but  shall  not  disseminate  inaccurate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  about  people.  And  then  there's  a  cause  of 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+action  that  says  if  they  disseminate  inaccurate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  in  a  credit  report  about  you,  you  can  sue. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All  right? 
+
+ 
+
+            
+
+Is  that  enough  of  a  concrete  injury  for  you? 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  No,  it's  not,  for  ­­ for  three 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasons,  Your  Honor. 
+
+ 
+
+ 
+
+            
+
+And  let  me  preface  my  response  by  saying 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  of  course,  that  isn't  the  case  with  respect  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+three  of  the  claims  in  this  case,  which  don't  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anything  to  do  with  inaccuracy. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Okay.  But  let  me  focus  on 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+5 
+
+what  seems  to  be  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+claim. 
+
+            
+
+MR.  PINCUS:  I'm  happy  to  focus  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  ­­ the  gravamen  of  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  why  isn't  the  dissemination  of  false 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  about  you  in  a  credit  report,  why  isn't 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  ­­ why  isn't  it  ­­ it  perfectly  sufficient  if 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  says  that's  a  concrete  injury? 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  I  ­­ I  guess  as  a 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+threshold  matter,  I  think  what  the  Court  has  said  in 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+other  contexts  is  that  Congress  should  clearly  say  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  is  going  beyond  the  tangible  injuries  that  this  Court 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  defined.  The  Court  has  had  a  clear  statement  rule. 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  so  another  difference  between  your 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hypothetical  ­­ I'm  not  sure  whether  your  hypothetical 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+casts  Congress  clearly  saying,  and  by  the  way,  we  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+creating  a  cause  of  action  for  people  who  otherwise 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+couldn't  get  into  court. 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  I'm  sorry. 
+
+  
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Let  me  start  ­­ well,  maybe  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can  answer  your  question  this  way. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  You  said  that  there  were 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasons  why  that  was  not  a  concrete  injury  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Yes. 
+
+  
+
+ 
+
+            
+
+JUSTICE  KAGAN:  ­­ the  dissemination  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+6 
+
+false  information  about  a  particular  person. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+Why?  Because  to  me,  I'll  just  say,  seems 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+like  a  concrete  injury  to  me. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  Well,  first  ­­ first  of  all  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  You  know?  If  ­­ I  mean,  if 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+somebody  did  it  to  me  I'd  feel  harmed. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  I  think  that  if  you  went  out  on  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+street  and  you  did  a  survey,  most  people  would  feel 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+harmed.  Most  people  would  feel  as  though  they  had  some 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+interest  that  had  been  invaded.  And  Congress  recognized 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  thought  it  was  a  significant  problem,  passed  a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statute  to  deal  with  that  problem. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  First  of  all,  the  ­­ the  common 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+law  tradition,  which  the  Court  has  looked  to,  did  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+say  that  the  dissemination  of  any  false  statement  was  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury. 
+
+            
+
+            
+
+To  prove  defamation  ­­
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  That's  quite  right.  It's 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+not  ­­ it's  not  completely  in  the  common  law  tradition. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+But  we've  said  many  times  that  Congress  gets  to  look 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+beyond  the  common  law  tradition  and  gets  to  identify 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+real  world  problems  out  there  in  the  world,  harming 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  in  real­world  ways.  And  that,  it  seems,  is  what 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  did  here. 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  let  me  answer  your 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+7 
+
+question  in  two  ways.  I  ­­ I  want  to  explain  why  ­­ why 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  isn't,  and  then  I  also  want  to  explain  why  it's  not 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  Congress  did  here. 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  why  it  isn't:  There  are  places  that  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court  has  looked  for  guides.  One  is  the  common  law, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+other  ­­ other  kinds  of  torts,  for  example. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+In  ­­ in  the  restatement  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  Can  ­­ can  you  explain, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+then,  the  common  law  versus  the  legislature?  So  if  we 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  some  historic  practice  where  damages  are  awarded  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+someone  who  has  no  out­of­pocket  loss,  if  the  common  law 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+says  so  it's  okay  but  if  Congress  says  so  it's  not? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+That's  very  strange. 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  I  don't  think  so,  Your  Honor. 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  think  ­­ well,  this  question  takes  me  a  little  afield 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  ­­ from  Justice  Kagan's  question.  But  I  think  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+common  law  had  some  very  specific  areas  where  it  defined 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actual  harm;  for  example,  any  intrusion  on  a  property 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+right  is  actual  harm,  but  there  has  to  be  a  property 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+right  for  that  to  be  so. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  I  think  Congress  could  create  a  property 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+right.  And  if  it  did  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  I'm  sorry.  You're 
+
+  
+
+  
+
+ 
+
+ 
+
+saying  ­­ contrary  to  one  citation,  you're  actually  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ashby  v.  White  ­­ that  it  isn't  a  right  that  Congress 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+8 
+
+has  given  you? 
+
+ 
+
+ 
+
+              
+
+I  ­­
+
+            
+
+            
+
+MR.  PINCUS:  Your  Honor,  I  think  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  I  mean,  most  of  the 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+common  law  rights,  like  property  rights,  are  ­­ are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+given  to  you  by  statute.  They're  not  given  to  you  by 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  common  law.  Most  people  are  coming  in  to  sue  on  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+basis  of  a  statute. 
+
+   
+
+ 
+
+            
+
+MR.  PINCUS:  And  ­­ and  the  question  is  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  are  several  ways  that  they  can  establish  standing. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+One  is  to  have  the  tangible  harm,  to  meet  the  general 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tangible  harm  test  that  this  Court  applies,  generally, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  standing  context.  And  that  can  be  economic 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury,  it  can  be  other  kinds  of  injury.  And  the  Court 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  applied  that  in  a  ­­ in  a  wide  variety  of  contexts. 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  Court  has  also  ­­ it  is  also  clear  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  property  rights  context,  when  Congress  just 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doesn't  create  ­­ or  the  common  law  doesn't  just  create 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  right  to  sue  but  confers  a  property  right,  the  right 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  exclude,  generally,  as  the  Court  has  put  it,  that  any 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intrusion  on  that  property  right,  on  that  right  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+exclude,  is  tangible  harm. 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+And  the  Court  has  made  clear  in  the  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  So  if  I  have  a  dozen  or 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+more  cases  that  didn't  involve  property  rights,  where  we 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+9 
+
+didn't  require  economic  harm,  those  would  mean  nothing 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  you? 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  Your  Honor,  I  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  Those  legal  rights,  we 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  decided  through  the  centuries,  all  those  cases 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wrong? 
+
+            
+
+MR.  PINCUS:  Well,  I  don't  think  ­­ there 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+certainly  aren't  any  cases  that  my  friends  cite  that  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  meet  that  test.  It's  not  just  economic  harm.  It 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can  be  psychic  harm.  There  are  other  ­­ it  can  be 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+discrimination. 
+
+            
+
+JUSTICE  BREYER:  Well,  what's  the  answer, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+then,  to  Justice  Kagan's  question? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  Okay.  I  ­­
+
+    
+
+  
+
+ 
+
+JUSTICE  BREYER:  You  said  it  could  be 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+psychic  harm,  there  could  be  economic  harm,  there  could 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be  all  different  kinds  of  harm.  And  that  being  so,  why 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+isn't  what  she  said  right,  that  one  kind  of  harm  could 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be  the  harm  suffered  when  somebody  tells  a  lie  about 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you,  or  gives  false  information? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+What's  different? 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  It  could  be. 
+
+  
+
+ 
+
+ 
+
+ 
+
+If  I  can  just  finish  my  answer  to  ­­ to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Sotomayor,  because  I  just  want  to  make  clear, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  I  think  the  College  Savings  case  is  a  perfect 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+10 
+
+analogy  here,  that  every  cause  of  action  does  not  confer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  property  right.  The  Court  there  made  that  clear,  and 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  why  the  property  right  rationale  doesn't  apply 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+here. 
+
+            
+
+Now,  turning  back  to  Justice  Kagan's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+question,  I  think  there  are  other  areas,  other  than 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+defamation  where  there's  some  guidance  about  what 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+constitutes  tangible  harm. 
+
+ 
+
+ 
+
+            
+
+For  example,  in  the  False  Light  cases,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+restatement  has  a  comment  that  I  think  ­­ this  is  a 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Restatement  (Second)  of  Torts  652E,  comment  (c)  that's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+very  on  point. 
+
+ 
+
+ 
+
+            
+
+It  says,  "Complete  and  perfect  accuracy  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+published  reports  concerning  any  individual  is  seldom 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+attainable  by  any  reasonable  effort.  And  minor  errors, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+such  as  a  wrong  address  or  a  mistake  in  the  date  of 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+employment,  or  similar  unimportant  details,  would 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not"  ­­
+
+ 
+
+            
+
+JUSTICE  KAGAN:  These  are  not  ­­ these  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+these  are  not  unimportant  details.  This  is  a  ­­ they 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+basically  got  everything  wrong  about  him.  You  know, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  got  his  marital  status  wrong,  they  got  his  income 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wrong,  they  got  his  education  wrong.  They  basically 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+portrayed  a  different  person  than  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  Your  Honor,  your 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+11 
+
+hypothetical,  though,  is  any  false  statement.  And  I'm 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+trying  to  respond  why  a  ruling  by  ­­ a  rule  by  Congress 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  any  false  statement  wouldn't  qualify. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+us  ­­
+
+ 
+
+            
+
+So  there  is  some  legal  precedents  that  tells 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  Here's  the  thing, 
+
+  
+
+ 
+
+ 
+
+ 
+
+Mr.  Pincus.  It  seems  to  me  that  the  ­­ the  one  thing 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  we  have  to  say  Congress  is  better  at  than  we  are  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+identifying  concrete  harms.  I  mean,  it's  perfectly 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+fine,  and  I  agree  with  very  large  portions  of  your  brief 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+when  you  say  they  have  to  have  identified  a  concrete 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+harm.  It's  like,  fine,  yes,  they  do. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  now  the  question  is,  did  they  identify 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+one?  And  it  seems  pretty  clear  what  they  wanted  to  do 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+here;  that  this  statute  is  entirely  about  preventing  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dissemination  of  inaccurate  information  in  credit 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reports  which  they  seem  to  think  is  both  something  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+harms  the  individual  personally  and  also  harms  larger 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+systemic  issues.  And  then  they  gave  the  cause  of  action 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  the  people  it  harmed  personally. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  I  guess  ­­ I  mean,  don't  we  owe  them  a 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+little  bit  of  respect  that  they've  actually  identified  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+real­world  harm  that  it  ­­ that's  out  there? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  I  think  there's  a 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+threshold  assumption  in  your  question  that  Congress 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+12 
+
+actually  identified  that  as  a  real­world  harm.  And  I 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  there  are  two  problems  with  that. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+First  of  all,  the  structure  of  the  statute 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+indicates  that  that's  not  so.  The  willfulness  cause  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+action  that  provides  for  statutory  damages  applies  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+every  violation  of  the  statute  that's  willful,  including 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  that  don't  involve  false  statements. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  by  enacting  ­­ if  the  argument  is  by 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+enacting  the  willfulness  cause  of  action,  Congress  said 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inaccuracy  is  so  clearly  harmful  that  it  should  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actionable  in  any  case,  it  couldn't  ­­ it's  just  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+possible  to  look  at  the  ­­ the  way  the  statute  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+constructed  and  say  that  that  was  so. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  Well,  how  much  more  do  you 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  the  plaintiff  in  this  case  would  have  to  allege  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prove  in  order  to  show  injury  in  fact? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  I  think  if  the  plaintiff  could 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+show  that  ­­ that  there  was  some  ­­ some  consequence  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+him,  some  ­­ from  the  false  information:  Something 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+happened  to  his  credit.  Something  happened  to  an 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+employment  ­­
+
+ 
+
+            
+
+JUSTICE  KAGAN:  But  that's  a  really  hard 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+thing  to  do,  Mr.  Pincus. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  Well,  there's  actually  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  People  get  these  reports, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+13 
+
+and  you  don't  know  what  they're  doing  with  these 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reports.  They  might  have  not  given  you  a  job  for  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reason,  or  they  might  have  not  given  you  a  job  for  some 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+other  reason.  They  might  have  not  given  you  credit  for 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  reason,  or  they  might  have  not  given  you  credit  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  other  reason. 
+
+ 
+
+ 
+
+              
+
+ 
+
+I  mean,  it's  actually  the  quintessential 
+
+ 
+
+ 
+
+ 
+
+kind  of  injury  that  you  will  never  be  able  to  detect  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+surely  not  to  prove. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  Your  Honor,  I'm  not  sure 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  so.  I  mean,  I  think  defamation  claims  are 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+exactly  the  same  situation.  People  don't  know 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+necessarily.  If  ­­ if  the  ­­ if  the  statement  is  not 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+defamation  per  se,  people  have  to  go  out  and  find  proof, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+or  at  least  find  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  I  suppose  ­­ I  suppose  the 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+argument  underlying  some  of  the  questions  you've  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+asked  assumes  this:  If  neighbors  are  making  false 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+comments,  talking  about  someone,  this  is  not  actionable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+enough  unless  it's  defamation. 
+
+ 
+
+ 
+
+ 
+
+            
+
+On  the  Internet  with  ­­ in  this  cyber  age 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  we  have  where  all  this  information  is  out, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there's  ­­ there's  ­­ has  to  be  some  real  injury. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Is  it  different  because  this  is  a  credit 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+agency  that  is  regulated? 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+14 
+
+            
+
+Does  a  credit  agency  have  less  latitude  when 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  is  defending  on  the  ground  of  no  concrete  injury  than 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+other  entities? 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  I  think  there's  a 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+threshold  question,  Your  Honor,  of  whether  Congress  made 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  determination  that  there  should  be  a  different 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+treatment  for  ­­ for  credit  agencies.  And  I  think  for 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  reason  that  I  gave  about  how  the  willfulness  claim 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+came  into  the  statute,  it's  hard  to  say. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+But  I  think  also  ­­
+
+   
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  But  does  the  statute  apply 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  to  crediting?  That's  what  ­­ that's  what  I  was 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+asking. 
+
+            
+
+MR.  PINCUS:  It  does.  Although,  one  of  the 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+real­world  litigation  problems  with  this  statute  is  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lots  of  the  claims  are  asserted  against  entities  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+claim  they're  not  credit  agencies.  And  that  sort  of,  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  real­world  of  litigation,  falls  out,  is  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  that  often  gets  decided  before  the  class  gets 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+certified. 
+
+            
+
+            
+
+this  case. 
+
+ 
+
+            
+
+            
+
+But  I  think  it's  important  to  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  That's  not  disputed  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  PINCUS:  Excuse  me? 
+
+  
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  It  may  have  been  disputed 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+15 
+
+at  an  earlier  stage,  but  now  it's  accepted  that  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+defendant  is  a  credit  reporting  agency. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  it  hasn't  been  ruled  on 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+by  the  lower  court.  So  as  the  case  comes  to  this  Court, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+yes,  that's  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  We  must  assume  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  true. 
+
+ 
+
+            
+
+posture. 
+
+            
+
+MR.  PINCUS:  ­­ that's  the  ­­ that's  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+But  ­­ but  I  think,  going  back  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kennedy's  question,  I  think  what  Congress  did 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+here  was  to  create  a  massive  number  of  regulatory 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements  that  are  imposed  on  credit  reporting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+agencies.  And  all  of  those  regulatory  requirements 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+together  were  supposed  to  produce  accuracy. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  ­­ I  think  there  can't  be  a  ­­ it's  not 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+logical  to  impute  to  Congress  a  finding  that  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violation  of  any  one  of  those  many,  many,  many 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements  is  actionable  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+JUSTICE  SOTOMAYOR:  Isn't  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+MR.  PINCUS:  ­­ in  the  absence  of  real  harm. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  Isn't  that,  though,  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+question  of  the  application  of  the  statute? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  No.  I  think  ­­
+
+    
+
+  
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  It  doesn't  invalidate 
+
+  
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+16 
+
+the  injury  here  because  this  is  the  quintessential 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violation  of  the  statute. 
+
+ 
+
+ 
+
+ 
+
+            
+
+He's  saying  they  don't  have  reasonable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedures  to  check  their  accuracy.  We  know  from  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+purpose  section  of  the  statute  that  that's  what  Congress 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wanted,  reasonable  procedures.  He's  going  to  have  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prove  that. 
+
+ 
+
+            
+
+ 
+
+Number  two,  he  says,  the  information  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+me  is  false.  I'm  going  to  assume,  for  purposes  of  this 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argument,  because  we  have  to,  that  ­­ and  so  does  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+court  below  with  respect  to  standing  ­­ that  much  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  information  is  inaccurate. 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  will  tell  you  that  I  know  plenty  of  single 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  who  look  at  whether  someone  who's  proposed  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+date  is  married  or  not.  So  if  you're  not  married  and 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there's  a  report  out  there  saying  you  are,  that's  a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+potential  injury. 
+
+ 
+
+            
+
+Now,  I  know  the  court  below  said  it  was 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+speculative,  but  that's  what  Congress  was  worried  about: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+both  creditworthiness,  and  ­­ and  your  stature  as  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+person,  your  privacy,  your  sense  of  self;  that  I  can 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+identify  myself  with  some  ­­ others  can  identify  me  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  accuracy. 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  respectfully  ­­ I'm 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+sorry. 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+17 
+
+            
+
+JUSTICE  SOTOMAYOR:  So  I  guess  my  question 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+is,  we've  now  taken  a  word,  "concreteness,"  that  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court  in  recent  years  has  applied  to  injuries  by 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+citizens  and  when  they  can  bring  actions  or  not.  A 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+generalized  grievance,  we  said,  of  a  taxpayer  is  not 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concrete  enough. 
+
+ 
+
+            
+
+We've  taken  this  doctrine,  and  you're  trying 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  superimpose  the  word  "concrete"  into  legally­created 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rights.  But  for  ­­ for  two  decades  ­­ on,  I  mean,  two 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+centuries,  we've  always  said  in  our  case  law  that  injury 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  fact  is  the  breach  of  a  legally­recognized  right. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Where  do  we  have  a  right?  I  think  that's 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kagan's  question. 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  No. 
+
+  
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  It's  a  requirement. 
+
+   
+
+  
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Why  don't  you  answer 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Sotomayor's  question  first? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Respectfully,  I  don't  think 
+
+   
+
+  
+
+ 
+
+ 
+
+that  the  cases  say  that.  We  discuss  them  in  detail  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+our  ­­ in  our  blue  brief. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  think  what  the  Court  said  in  Warth  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Linda  R.S.  was  about  what  the  Court  said  in  Lujan,  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is,  de  facto  injuries,  as  to  which  there's  no  cause  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+action,  can  be  made  actionable  when  Congress  creates  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cause  of  action.  That's  quite  different  from  saying 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+18 
+
+that  something  that  doesn't  qualify  under  this  Court's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury­in­fact  standard  as  tangible  harm  can  be  made 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actionable,  which  is  what  the  Ninth  Circuit  decided 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+here. 
+
+            
+
+            
+
+And  I  also  ­­ I  want  to  also  ­­
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  Well,  I  agree  with  you 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+entirely  on  that. 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+MR.  PINCUS:  Okay.  Can  I  just  ­­
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  Go  ahead. 
+
+  
+
+ 
+
+ 
+
+MR.  PINCUS:  I  ­­ I  just  want  to  also  sort 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  distinguish  ­­ in  responding  to  your  question,  I 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  there  are  two  questions.  One  ­­ one  question  is: 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Is  a  false  statement  ­­ does  a  false  statement  by  itself 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inflict  tangible  harm  within  the  meaning  of  this  Court's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+generally­applicable  injury­in­fact  standard?  If  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+does,  it  does.  The  Court  has  never  said  that,  and  we 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argue  that  it  doesn't. 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  second  question  is:  Can  Congress  expand 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+beyond  where  the  Court  has  gone  in  defining  things  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+should  qualify  a  sufficient  injury  to  trigger 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Article  III  jurisdiction? 
+
+ 
+
+ 
+
+            
+
+And  we  think  there  are  two  questions  there. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+One  is:  Has  Congress,  in  fact,  done  that?  And  there's 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  question  whether  Congress  has  done  that  at  all. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  I  think  Justice  Kennedy,  in  his 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+19 
+
+concurrence  in  Lujan,  said  if  Congress  is  going  to  do 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  it  should  say  clearly  because  that  obviously  is  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+change  in  the  jurisdiction  of  the  Federal  courts. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+And  so  Congress  might  be  taken  to  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  Congress  does  it  by  doing 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it,  you  know?  Congress  doesn't  announce  exactly  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  Well,  I'm  not  sure  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  ­­ here  we  are,  we're  just 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  beyond  the  common  law.  It  just  does  it.  And  ­­
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  it  does  it  ­­ and  it  did  it  here. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+It  said,  you  know,  what  are  we  concerned 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about?  We're  concerned  about  following  the  kinds  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedures  that  will  make  sure  that  there  are  accurate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+credit  reports.  And  then  Congress  told  you  exactly  why 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  purposes  section  of  the  statute.  And  my  gosh, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it's  all  over  the  legislative  history. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  most  serious  problem  in  the  credit 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reporting  industry,  Congress  says,  is  the  problem  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inaccurate  and  misleading  information. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well  ­­
+
+  
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  And  ­­ and  so  Congress  has 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+clearly  done  that  here. 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  I  guess  I  ­­ if  you  want  to  just  explain 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  me  why  it  is  that  Congress  can't  do  ­­ I  think  we've 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+said  that  Congress  can  do  that,  can  go  beyond  the  common 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+20 
+
+law,  and  certainly  can  go  beyond  anything  that  we've 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ever  said  is  a  concrete  harm  as  long  as  they've 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+identified  a  concrete  harm. 
+
+   
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  a  couple  of  responses  to 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that.  If  it's  a  concrete  harm  in  the  first  place,  of 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+course,  then  they  haven't  really  gone  beyond  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court's  test. 
+
+ 
+
+              
+
+I  ­­ I  think  ­­ Let  me  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Of  course,  harms  can  arise 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  world,  and  can  be  identified  in  the  world  even 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+though  they  haven't  arisen  before,  or  been  identified 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+before. 
+
+            
+
+MR.  PINCUS:  But  the  ­­ but  the  Court's  ­­ I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  the  question  ­­ and  I  take  the  burden  of  my 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+friend's  argument  to  be  that  Congress  can  define  things 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+as  sufficient  to  satisfy  standing,  even  if  they 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wouldn't,  if  they  just  were  asserted  at  a  court, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+satisfied  the  tangible  harm  requirement. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  I  ­­ I  guess,  to  respond  to  your 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+question  ­­
+
+ 
+
+            
+
+JUSTICE  KAGAN:  If  you're  saying  that,  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+agree  with  you. 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Okay.  Well,  then  ­­ well,  I 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  then  the  district  court  here  held  that  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tangible  harm  requirement  wasn't  satisfied. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+21 
+
+            
+
+JUSTICE  SCALIA:  Mr.  Pincus,  I  would  have 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+thought  that  your  answer  to  Justice  Kagan  would  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  Congress  did  not  identify,  as  the  harm  for  which  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+allowed  suit  to  be  brought,  misinformation.  It  did  not. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It  identified  as  the  harm  the  failure  to  follow  the  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  procedures  that  it  imposed  upon  credit  reporting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+agencies. 
+
+            
+
+It  said  nothing  about  people  who  ­­ who  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  hurt  by  misinformation  being  able  to  sue.  It  said 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anybody  can  sue  who's  been  reported  on  if  the  agency 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+failed  to  use  the  procedures. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  in  fact,  Congress  has  not  identified 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+misinformation  as  a  suable  harm.  That's  not  what  this 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statute  does. 
+
+ 
+
+            
+
+MR.  PINCUS:  And  I  apologize  if  I  haven't 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+been  clear.  That  is  exactly  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+JUSTICE  SCALIA:  Isn't  that  your  answer? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  PINCUS:  That  is  exactly  our  argument  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+(Laughter.) 
+
+            
+
+MR.  PINCUS:  ­­ that  Congress  here  created  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+remedy  for  any  regulatory  violation.  And  many,  many, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+many,  many  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  But  why  did  Congress  do 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  Mr.  Pincus?  Congress  did  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  can  I  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+22 
+
+            
+
+JUSTICE  KAGAN:  ­­ Congress  did  that  as  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+safe  harbor. 
+
+ 
+
+            
+
+We  are  not  ­­ it's  a  kind  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+industry­friendly  act  that  Congress  did.  It  said  we're 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  going  to  punish  any  old  inaccuracy.  We're  giving 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  a  safe  harbor.  If  ­­ as  long  as  you  followed  a 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+certain  set  of  procedures,  don't  worry  about  it. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  did  that  procedural  requirement  ­­ this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  ­­ this  is  exactly  what  Lujan  says,  "It's  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedural  requirement,  the  disregard  of  which  could 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+impair  a  concrete  interest  of  the  plaintiff." 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  we  distinguished  that  from  procedural 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requirements  in  vacuo. 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  Well  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  And  that's  what  this  is. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It's  a  procedural  requirement,  the  disregard  of  which 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can  impair  your  interest  in  being  represented  accurately 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  credit  reports. 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  there  is  some  problems 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  that,  Your  Honor.  I  mean,  there  are  many  of  the  ­­
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  Excuse  me.  That  ­­ that 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  lead  to  the  conclusion  that  anybody  can  sue  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Exactly. 
+
+  
+
+ 
+
+            
+
+JUSTICE  SCALIA:  ­­ not  just  somebody  who  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whose  information  was  ­­ was  wrong. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+23 
+
+MR.  PINCUS:  Because  most  of  the  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  No. 
+
+  
+
+ 
+
+MR.  PINCUS:  If  I  may,  Your  Honor. 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+Most  of  the  statutory  and  regulatory 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+            
+
+requirements  have  nothing  to  do  with  falsity.  They  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  do  with  not  following  rules.  There's  nothing  in  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cause  of  action  that  says  you  can  only  sue  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+willfulness  if  you  ­­ if  the  statement  is  false.  It 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+says  any  willful  violation  of  this  entire  regulatory 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statute. 
+
+            
+
+            
+
+So  the  idea  that  Congress  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  "Any  person  who 
+
+  
+
+ 
+
+ 
+
+ 
+
+willfully  fails  to  comply  with  any  requirement  imposed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+upon  this  subjecter  with  respect  to  any  consumer  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+liable  to  that  consumer." 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  it's  not  the  whole  world;  it's  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+consumer  that  you  dealt  with  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  But,  Your  Honor  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  ­­ or  that  the  agency  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  agency  dealt  with. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  But,  Your  Honor,  if  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argument  is  that  by  enacting  that,  Congress  meant  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+identify  as  a  harm  false  statements,  there's  nothing 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  requires  proof  of  a  false  or  inaccurate  statement 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  order  to  bring  the  claim. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+24 
+
+            
+
+JUSTICE  KAGAN:  Well,  but,  Mr.  Pincus,  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+gravamen  of  this  claim,  as  I  said,  and  as  more 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+importantly,  as  ­­ as  the  ­­ the  Respondent  has  said,  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  1681(e),  which  does  talk  about  accuracy.  And  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+makes  it  clear  that  the  procedures  are  linked  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+accuracy. 
+
+            
+
+And  I  totally  take  your  point  that,  well, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+how  about  the  person  who  there's  ­­ there's  been  no 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inaccuracy.  Well,  that  person  does  not  have  standing. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+That  person  cannot  come  in  and  say  that  he's  suffered  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concrete  injury.  But  the  person  who  has  been 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inaccurately  represented  can  come  in  and  say  he's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suffered  exactly  the  concrete  injury  that  this  statute 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  designed  to  protect  against. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  But  ­­ but,  Your  Honor,  I  don't 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+see  how  you  can  say  that  a  cause  of  action  that  says 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nothing  about  inaccuracy  applies  to  a  previously 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+enacted  ­­ one  of  the  many  provisions  of  the  statute,  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+create  ­­ to  say  that  Congress  was  focused  on 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inaccuracies. 
+
+            
+
+saying  ­­
+
+ 
+
+            
+
+            
+
+JUSTICE  KENNEDY:  Are  you  ­­ are  you 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Justice  Kennedy. 
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  Are  you  saying  in  this 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+case  that  Congress  could  have  drafted  a  statute  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+25 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+would  allow  this  individual  to  bring  suit? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  I  think  Congress  ­­ yes,  I 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  it  might  be  possible.  And  let  me  explain  how, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kennedy. 
+
+ 
+
+              
+
+I  think,  first  of  all,  to  respond  to  one  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kagan's  earlier  questions,  I  don't  think  it's 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+crystal  clear  what  Congress  was  doing  here  because  I 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  the  most  likely  interpretation  of  this  provision 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+was  it  was  enacted  against  the  background  of  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court's  jurisprudence,  which  requires  tangible  harm. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  it  ­­ what  Congress  was  most  likely 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+saying  was,  we  know  that  quantifying,  monetizing  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tangible  harm  in  this  context  is  hard.  So  if  there's  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+willful  violation,  we're  going  to  give  you  a  minimum 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+recovery. 
+
+              
+
+I  think  the  reason  why  it  makes  sense  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+require  Congress  to  speak  clearly,  if  it  is  going  beyond 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  this  Court  has  required  for  tangible  harm,  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+precisely  because  it  is  necessary  to  identify  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  actually  intends  to  give  access  to  the  Federal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+courts  beyond  that  which  would  be  true  under  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court's  otherwise  applicable  jurisdiction  ­­ rule.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  didn't  do  that  here  because  of  the  willfulness 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+layered  on  top  of  all  of  the  statutory  violations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  I  think  also,  the  fair  way  of  looking  at 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+26 
+
+this  statute  is  as  a  complex  of  regulations  which 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  thought,  taken  together,  would  improve 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+accuracy. 
+
+              
+
+I  don't  think  you  can  say  that  any  single 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+one  of  them  ­­ the  violation  of  any  single  one  of  them, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  thought,  was  going  to  so  likely  to  inflict 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury  on  some  person  that  they  should  be  entitled  to  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  Do  all  of  them  go  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+accuracy,  or  ­­
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  No. 
+
+  
+
+ 
+
+JUSTICE  SCALIA:  ­­ do  some  of  them  go  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+privacy  and  other  matters? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Most  of  ­­ one  is  about  having 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  800  number  available.  One  has  to  do  with  notice 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  ­­ to  people  who  look  at  information  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  And  that  would  be  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violation,  right,  if  ­­ if  you  didn't  provide  that? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  Under  ­­ under  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  And  ­­ and  presumably 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+anybody,  if  ­­ if  you  believe  Respondent,  anybody  who  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whose  information  is  not  accurate  can  sue  to  get  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statutory  damages  for  failure  to  provide  an  800  number. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  I  think  Respondents  would 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+say  even  if  the  information  was  accurate,  you  could  sue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  get  the  statutory  damages.  I  think  Justice  Kagan 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+27 
+
+might  limit  it  to  people  who  were  inaccurately  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Counsel,  I  ­­ when 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+we  normally  have  a  standing  inquiry,  you  ­­ there  can  be 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  people  who  have  standing  under  a  particular  statute 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  some  who  don't. 
+
+ 
+
+ 
+
+ 
+
+            
+
+Is  ­­ is  your  position  simply  that  you  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  look  at  whether  the  plaintiffs  have  been  injured  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fact,  and  that  some  plaintiffs  will  be  able  to  proceed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if  they  can  make  that  showing  and  others  may  not? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Absolutely,  Mr.  Chief  Justice; 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  our  position.  That's  ­­ and  the  district  court 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+held  in  this  case,  looking  at  the  allegations  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+complaint,  that  the  Court's  injury­in­fact  standard 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wasn't  satisfied  by  the  Ninth  Circuit  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+JUSTICE  KAGAN:  Well,  was  this  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  By  the  particular 
+
+  
+
+ 
+
+ 
+
+ 
+
+violation?  Injured  in  fact  by  the  particular  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Yes. 
+
+  
+
+ 
+
+            
+
+JUSTICE  SCALIA:  Not  by  failure  to  have  an 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+800  number,  you're  saying? 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  No.  But  would  this  man  be 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+able?  I  mean,  this  is  very  much  in  line  with  the  Chief 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice's. 
+
+            
+
+Would  he  be  able  to  sue  based  on  the  fact 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  there  was  inaccurate  information  about  him? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+28 
+
+            
+
+MR.  PINCUS:  No,  because  the  district  court 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+found  that  all  of  the  allegations  of  ­­ all  of  his 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+arguments  about  why  there  was  any  tangible  harm  to  him 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+were  speculative  and  flunked  this  Court's  standard. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+JUSTICE  GINSBURG:  Mr.  Pincus  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  I  guess  ­­ I  guess  what  I  ­­
+
+    
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+that's  okay. 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  Before  you  sit  down, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ the  brief  suggests  that  the  real  danger  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+allowing  this  kind  of  action  is  that  it  ­­ it  will  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+brought  on  behalf  of  a  class,  and  you  could  get  millions 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  plaintiffs  and  billions  of  dollars. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+If  we  should  hold  that  Congress  can  give 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+consumers  a  right  to  redress  for  false  credit  reporting, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if  we  held  that,  would  you  have  grounds  to  oppose 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+certification  of  a  class. 
+
+   
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  I  think  the  problem  here, 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Your  Honor,  is  if  you  accept  the  broad  theory  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plaintiffs  and  the  government  espouse,  which  is  all  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  to  show  is  a  statutory  violation,  it's  a  pretty 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+clear  pathway  to  class  certification  because  there  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+only  common  issues.  And  that's  what  has  happened  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+case  after  case. 
+
+ 
+
+ 
+
+            
+
+Now,  if  falsity  has  to  be  proven,  then 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+obviously  that  is  an  individualized  issue  that  might 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+29 
+
+make  it  more  difficult. 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+I'd  like  to  reserve  the  balance  of  my  time. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  Counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Mr.  Consovoy. 
+
+ 
+
+          
+
+ORAL  ARGUMENT  OF  WILLIAM  S.  CONSOVOY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ 
+
+ON  BEHALF  OF  THE  RESPONDENT 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  Mr.  Chief  Justice,  and  may  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please  the  Court: 
+
+ 
+
+ 
+
+            
+
+Mr.  Robins  has  Article  III  standing  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+three  independent  reasons. 
+
+ 
+
+ 
+
+            
+
+First,  the  violation  of  the  statutory  rights 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+under  the  Fair  Credit  Reporting  Act  constitutes  injury 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  fact. 
+
+ 
+
+            
+
+Second,  even  if  not,  his  entitlement  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+monetary  relief  as  a  consequence  of  that  violation  shows 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+he  has  the  personal  stake  that  Article  III  requires. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  third,  the  fact  that  his  claim  follows 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  the  common  law  of  defamation  conclusively 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+establishes  that  it  is  a  case  or  controversy  within  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+meaning  of  Article  III. 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  I  ­­ your  ­­ your  number 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+two  ­­ I  mean,  we  can  ­­ it  sounds  to  me  quite  circular. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+You  say  ­­ you  say  he  ­­ he  has  a  personal  stake  because 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+he  has  a  ­­ because  Congress  said  he  has  a  personal 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stake. 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+30 
+
+Is  ­­ do  I  understand  your  argument? 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  I  view  it  just  like  a 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+contract  case.  So  if  this  were  a  contract  instead  of  a 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statute,  and  the  same  duties  and  liabilities  came  to  be, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  it  was  a  liquidated  damages  clause,  he  had  a  duty 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  was  violated;  he  had  an  entitlement  to  money. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  one  thing  the  Court  would  not  do  in  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+case  is  look  behind  the  entitlement  to  see  whether  he 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+really  was  harmed  in  some  other  way  than  other  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+otherwise  being  owed  the  money. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  All  Congress  has  to  do  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+provide  for  damages,  right? 
+
+ 
+
+ 
+
+ 
+
+            
+
+than  that. 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  No.  It  has  to  do  much  more 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  Well  ­­
+
+  
+
+ 
+
+ 
+
+MR.  CONSOVOY:  It  has  to  still  create  an 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+interest,  a  discrete,  legal  interest  that's  personal  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+him;  that  only  ­­ that  is  not  a  generalized  grievance; 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  is  not  undifferentiated  harm.  It  has  to  do  all  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  same  things. 
+
+ 
+
+ 
+
+            
+
+            
+
+The  ­­ the  point  where  we  get  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  But  ­­ but  that  is  a  harm. 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It  is  a  harm.  And  you  said  it's  a  harm  because  he  ­­ he 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can't  get  the  money  that  he  was  provided.  But  that's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+circular. 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+31 
+
+            
+
+MR.  CONSOVOY:  So  ­­ so  the  harm  ­­ the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violation  of  a  legally­vested  interest  at  common  law  in 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  Court's  decisions  throughout  has  always  been  deemed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  concrete  harm. 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+Going  back  to  Tennessee  Electric  where  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court  narrowly  used  to  say  that  a  legal  right  was  an 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury.  Then,  in  Camp,  the  Court  expanded  beyond  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  say  no,  practical  injuries  too  can  be  legal  injuries. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+But  it  never  negated  the  earlier,  more  difficult  test. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  What  about  a  law 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+that  says  you  get  a  ­­ $10,000  statutory  damages  if  a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+company  publishes  inaccurate  information  about  you? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+You  want  ­­ you  have  an  unlisted  phone 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+number.  You  don't  want  people  calling  you.  The  company 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+publishes  your  phone  number,  but  it's  wrong.  That  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inaccurate  information  about  you,  but  you  have  no  injury 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whatever. 
+
+            
+
+Can  that  person  bring  an  action  for  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statutory  damage? 
+
+ 
+
+            
+
+do  there. 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  Congress  has  a  lot  of  work  to 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  I'm  sorry? 
+
+  
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  Congress  has  a  great  deal  of 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+work  it  needs  to  do  to  show  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  But  ­­ but  can  you 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+32 
+
+have  ­­ do  you  have  standing? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+ 
+
+Do  you  have  injury  in  fact  when  you  don't 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+want  people  calling  you;  the  company  publishes  a  false 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+telephone  number. 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  So  the  call  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Whether  Congress  has 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  lot  of  work  or  not,  at  the  end  of  the  day,  can  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+recover  those  statutory  damages? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  If  Congress  identified  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+interest  of  you  receiving  a  phone  call,  and  that's  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury,  and  you  don't  receive  the  phone  call,  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+haven't  suffered  the  injury  Congress  identified. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+sorry. 
+
+            
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  No,  no,  no,  no.  I'm 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  I'm  sorry. 
+
+  
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  The  injury  they 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+identify  is  we  don't  think  companies  should  public 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+false  ­­ publish  false  information  about  you. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Is  it  the  end  of  the  standing  inquiry  to  say 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  published  false  information  about  me,  or  do  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  to  ask  were  you  injured  in  some  way  by  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+publication? 
+
+            
+
+MR.  CONSOVOY:  No.  The  ­­ Congress  has  done 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+its  job  there. 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  So  it's  in  ­­ so 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+33 
+
+what  ­­ what  would  you  say  the  injury  in  fact,  not  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+law  but  in  fact,  is  in  that  case? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  So  I  don't  think  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+contradistinction  is  between  an  injury  in  fact  and  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury  in  law.  A  legally­vested  interest,  whether  it's 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+created  by  Congress  or  created  by  the  common  law,  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+itself  a  concrete  injury. 
+
+   
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  But  our  cases  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+always  said  actual  injury  in  fact.  And  I  thought  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+meant  that  that  was  different  than  actual  injury  in  law. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+You're  saying  when  we  say  injury  in  fact,  we 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+really  mean  injury  in  fact  or  injury  in  law? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  No.  I  ­­ I  don't  really 
+
+    
+
+   
+
+  
+
+ 
+
+ 
+
+think  there  is  a  term  "injury  in  law."  I  ­­ I've  not 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+seen  it  in  the  cases. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+What  I  do  see,  going  back  to  Camp,  which  is 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  first  case  that  uses  the  phrase  "injury  in  fact," 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  concept  was  designed  to  get  at  two  really  important 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+things: 
+
+            
+
+One,  that  the  harm  is  not  speculative.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  to  play  word  games,  but  I  think  it  means  that  you 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are,  in  fact,  injured,  as  opposed  to  that  you  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actually  been  injured. 
+
+ 
+
+ 
+
+            
+
+grievance. 
+
+And  the  second,  that  it's  not  a  generalized 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+34 
+
+            
+
+            
+
+JUSTICE  BREYER:  No,  but  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  That's  a  very 
+
+   
+
+  
+
+ 
+
+ 
+
+different  question.  I  understand  generalized  grievance. 
+
+    
+
+ 
+
+ 
+
+ 
+
+You  can't  just  say  ­­ even  I  think  you  gather  ­­ any 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+citizen  in  the  United  States  can  sue  about  this.  You 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  to  particularize  it  to  some  extent. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  that's  a  different  question  as  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+whether  there's  actual  injury. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  So  I  think  the  ­­ the  Court 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+uses  the  phrase  "concrete  and  particularized."  That's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+two  companion  words,  I  think,  getting  at  these  same 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concepts. 
+
+            
+
+Now,  two  things  have  to  happen:  One,  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+show  that  it's  a  differentiated  claim,  that  it's  not  a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+generalized  grievance,  you  have  to  identify  a  subclass 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  people  who  are  distinctly  harmed  other  than  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+general  population.  That's  the  concrete  part.  That's 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  Schlesinger  says. 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  Well,  I  would  think  that's 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+the  particularized  part. 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  The  particularized  part  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  you're  among  those  people.  You  need  both  things. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  But  how  in  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chief  Justice's  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  But  ­­ but  the  law  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+35 
+
+            
+
+JUSTICE  SCALIA:  Concrete  ­­ concrete  has 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+nothing  to  do  with  particularized.  It  means  it  is  ­­ it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  ­­ the  only  way  to  put  it  is  an  injury  in  fact.  It's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  ­­
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  And  I  was  going  to  say, 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ the  Lujan  case  says  de  facto,  which  is  actual, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+existing  in  fact,  having  effect,  even  though  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+formally  or  legally  recognized. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  So  ­­ yes.  And  then  the 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concurring  opinion  explained  that  it  didn't  ­­ your 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concurring  opinion,  Your  Honor,  said  that  it  ­­ Congress 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+could  also  play  a  role  in  that  in  identifying  those 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injuries.  And  here  it  did. 
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  Yes,  but  this  is  my  own 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+view  of  this,  maybe  no  one  else's.  But  you  sound  as  if 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you're  describing  a  forum  of  what  used  to  be  called  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"public  action,"  of  which  there  were  no  such  examples  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Federal  law.  Most  states  have  them.  And  because  you 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+want  people  who  aren't  hurt  in  fact  to  be  able  to  sue. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  the  example  here  is  not  just  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chief  Justice's,  which  is  one,  but  the  more  immediate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+example,  which  seems  to  be  in  this  case  ­­ I  didn't 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  it  was  but  it  now  seems  to  be  ­­ are  people  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+perhaps  not  this  plaintiff  ­­ but  people  who  in  fact 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+notice  that  someone  like  the  defendant  has  filed  bad 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+36 
+
+procedures  leading  to  false  information.  And  those 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  who  were  not  injured  bring  a  lawsuit,  and  they 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+say  they're  following  bad  information.  That's  it.  Bad 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedure.  And  Congress  gave  me  a  hundred  dollars,  so 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+give  it  to  me. 
+
+ 
+
+ 
+
+ 
+
+            
+
+Now,  that's  the  person  I  didn't  know  was  in 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  case,  because  this  plaintiff  seems  to  argue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+specific  discrepancies  in  fact  that,  in  all  likelihood, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hurt  him.  Okay?  But  we're  leaving  him  out  of  it. 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Now,  I  want  to  know  what  the  government 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+thinks  of  the  case  I've  just  put. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Do  ­­ does  the  government  think  a  person  who 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+admits  nobody  said  anything  wrong  about  me,  they  did  say 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  about  me,  it  was  all  correct,  but  they  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+using  bad,  bad  in  ­­ practices  for  assembling  consumer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  ­­
+
+ 
+
+            
+
+In  the  government's  view,  does  the  person  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+my  hypothetical,  similar  to  the  Chief's,  maybe 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+identical,  does  he  or  does  he  not  have  standing?  Yes  or 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+no? 
+
+            
+
+MR.  CONSOVOY:  I'll  be  responding  to  you: 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+He  does  not. 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  Fine.  If  you  say  he  does 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not,  then  we  are  limiting  this  case  to  the  case  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  who  are  victims  of  not  just  bad  practices  but 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+37 
+
+false  information  about  them,  and  that's  what  the  words 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"with  respect  to  any  consumer"  mean. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  That  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  BREYER:  They  mean  any  consumer  who 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  obtained  ­­ who  suffers  from  false  information. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  That  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  BREYER:  If  that's  the  government's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+position,  then  it's  not  a  public  action.  It's  a  private 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+action. 
+
+            
+
+MR.  CONSOVOY:  That  is  ­­ that  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Respondent's  position. 
+
+ 
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+JUSTICE  KAGAN:  That's  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  ALITO:  In  relation  to  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  ­­ that  ­­ that's  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  ALITO:  Could  I  just  say  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Justice  Alito. 
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  ALITO:  In  relation  to  that,  can  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  ask  you  something  about  that,  that  goes  to  how 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Spokeo  operates:  Is  there  anything  here  to  indicate 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  anybody  other  than  Mr.  Robins  ever  did  a  search  for 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+him? 
+
+            
+
+(Laughter.) 
+
+            
+
+aware  of. 
+
+ 
+
+            
+
+MR.  CONSOVOY:  Not  in  the  record  that  I'm 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  ALITO:  Then  how  could  ­­ then  isn't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+38 
+
+that  quintessential  speculative  harm? 
+
+ 
+
+ 
+
+ 
+
+            
+
+In  my  understanding  ­­ you  ­­ correct  me  if 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I'm  wrong  ­­ you  don't  have  files  someplace  for  every 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+person  in  the  United  States  or  ­­ you  have  databases, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  you  will  do  a  search  if  somebody  asks  you  to  do  a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+search. 
+
+              
+
+I  assume  you  wouldn't  say  that  somebody  as 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  whom  there  never  had  been  a  search  would  have 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standing,  right?  Even  if  ­­ you  know,  even  if  it  would 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be  the  case  that  if  there  was  a  search  it  would  come  up 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  a  lot  of  false  information. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  So  for  it  to  be  a  consumer 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+report,  there  must  be  communication  to  a  third  party. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+So  we  have  alleged  communication  to  third  parties.  At 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  pleadings  stage,  that  must  be  accepted  as  true  at 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  point. 
+
+ 
+
+            
+
+But  Spokeo,  I  believe,  on  their  website, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  not  share  that  information  who  searched  for  you. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  this  ­­ this  is  really  important.  It  is  almost 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+impossible  to  know. 
+
+ 
+
+ 
+
+            
+
+If  he  applied  for  a  job  with  a  major 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+employer  in  this  country  who  had  5,000  job  applicants, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  they  pulled  his  report,  here  is  what  Spokeo  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+selling:  We  are  the  arbiter  of  truth.  If  it  says  he 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+went  to  College  A  on  his  resume,  and  we  tell  you  he  went 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+39 
+
+to  College  B,  he  is  a  liar.  If  ­­ if  he  says  he  is  30 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+years  old  and  we  say  he  is  55  years  old,  he  is  a  liar. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+That  is  their  business.  That  is  what  they 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are  selling. 
+
+ 
+
+            
+
+            
+
+There  is  no  way  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  I  thought  they  had 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  ­­ I  thought  they  had  some  disclaimer  that  Spokeo 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  not  verify  or  evaluate  each  piece  of  data,  It  makes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+no  warranties  or  guarantees  about  any  of  the  information 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+offer  ­­ offered. 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  And  ­­ and  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  How  is  that  saying 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if  it's  not  accurate  you're  a  ­­ he's  a  liar? 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  And  ­­ and  then  it  sells  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+then  it  promotes  its  ­­ its  service  ­­ and  this  is  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  FTC  report  and  also  in  the  complaint  ­­ to  human 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+resources  executives  saying,  if  you  want  to  run  employee 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+checks,  come  to  us. 
+
+ 
+
+ 
+
+ 
+
+            
+
+It  would  be  a  strange  business  if  they  said, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Come  to  us,  but  who  knows  if  what  we're  telling  you  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+true. 
+
+            
+
+And  ­­ and  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+(Laughter.) 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  I  think  that's  what 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  disclaimer  is  saying. 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+40 
+
+            
+
+MR.  CONSOVOY:  But  the  ­­ whether  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+disclaimer  is  valid  ­­ well,  that  is  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+(Laughter.) 
+
+            
+
+MR.  CONSOVOY:  ­­ that  is  exactly  what  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+disclaimer  says,  but  of  course,  Congress  stepped  into 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  breach  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  You've  got  to  do  the  best 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  can,  you  know?  I  mean  ­­
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  I'm  sorry? 
+
+  
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  I  said  you've  got  to  do  the 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+best  you  can. 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  You  do.  We  all  do. 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  The  person  who  hires 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+somebody,  if  ­­ if  they  all  have  this  disclaimer,  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  expect  they  all  do,  you  ­­ you  either  go  without  any 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+information  or  you  accept  one  of  them. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  Except  Congress  stepped  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  said,  if  you  are  operating  as  a  consumer  reporting 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+agency,  you  have  duties  and  responsibilities. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  I  want  to  ask  about  what 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  think  Congress  did. 
+
+ 
+
+ 
+
+ 
+
+            
+
+You're  ­­ you're  saying  it's  limited  to  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  people  about  whom  false  information  has  been  given. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Suppose  Congress  enacts  a  statute  that  says  everybody 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  a  right  to  sue  for  exorbitant  expenditures  by  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+41 
+
+Department  of  Defense.  This  affects  everybody,  you 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+know,  the  $900  toilet  seat  and  so  forth.  Everybody  can 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sue.  That  clearly  would  not  be  allowable. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  suppose  somebody  is  a  ­­ a  disappointed 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+bidder  for  the  toilet  seat,  and  he  sues  under  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statute.  And  he  said,  oh,  yes,  the  statute  didn't  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+didn't  just  say  the  disappointed  bidders  can  sue,  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  anybody  who's  proximally  affected  can  sue.  It  said 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  everybody  can  sue.  But  I,  in  fact,  have  been 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+proximally  injured,  and  therefore,  I  ought  to  be  able  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sue. 
+
+            
+
+            
+
+Do  you  think  that  would  be  true? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  Likely  not.  Likely  not,  and 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+here's  why  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  Well,  why  is  this  case  any 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+different?  You're  ­­ you're  saying  only  people  who  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  injured,  assuming  that  ­­ that  false  information  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury  ­­ only  they  can  sue.  But  the  statute  doesn't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+say  that  only  they  can  sue.  It  says  that  everybody 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  whom  Spokeo  did  ­­ did  a  report  can  sue. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  So  it  says  ­­ this  statute 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  things  that  the  hypothetical  statute  does  not. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This  statute  says,  starting  with  the  cause  of  action,  if 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  have  done  something  that  violates  a  statute  with 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+respect  to  a  specific  consumer,  that  consumer  can  sue 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+42 
+
+JUSTICE  SCALIA:  Right. 
+
+  
+
+ 
+
+MR.  CONSOVOY:  Then  second  ­­ then  you  look 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you. 
+
+            
+
+            
+
+in  the  provision  that  we  are  basing  the  claim  on  here, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  reasonable  procedures  provision. 
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+So  that  provision  in  particular,  which  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  only  one  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+JUSTICE  SCALIA:  That's  fine. 
+
+  
+
+ 
+
+ 
+
+MR.  CONSOVOY:  ­­ before  the  Court  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  Where  do  you  get  the  ­­ the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+necessity  of  injury  in  fact? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  So  why  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  Where  do  you  get  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+necessity  that  there  has  been  false  information  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  assert  is  there? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  So  it  says,  "reasonable 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedures  to  ensure  maximum  possible  accuracy.  " 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  Procedures  to  ensure 
+
+  
+
+ 
+
+ 
+
+ 
+
+maximum.  That  doesn't  mean  there  has  to  be  accuracy. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  No.  Congress  actually  did 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+something  better  for  the  industry.  They  gave  them  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+limitation  on  liability.  So  Congress  thought  about 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+giving  strict  liability  here. 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  keep  in  mind,  Justice  Scalia,  Congress 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preempted  almost  all  State  law  claims  here.  They 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+43 
+
+preempted  State  law  defamation.  So  the  notion  that  this 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+isn't  about  defamation  when  they  preempted  State  law 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+defamation  strikes  me  as  a  very  different  argument. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  you're  only  in  Federal  court,  and  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Congress  said  we  could  impose  strict  liability. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  You  have  to  say,  don't  you, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  answer  to  Justice  Scalia,  that  the  words,  "follow 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasonable  procedures  to  assure  maximum  possible 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+accuracy  in  respect  to  any  consumer,"  the  one  who  can 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sue,  means  that  the  ­­ when  you  fail  to  do  it  in  respect 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  a  consumer,  you  say  something  false  about  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+consumer.  It  doesn't  use  those  words,  and  we  would  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  so  construe  it  in  order  to  save  the  constitutionality 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  the  statute. 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  And  every  lower  court  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reach  this  question  has  held  that  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  But  that  wouldn't  be  true. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+You  could  fail  to  ­­ to  follow  the  procedures  and  still 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+come  up  with  accurate  information,  like  you  could  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  an  800  number. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  Correct,  and  that  person 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  not  have  standing. 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  It's  impossible  to  read  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  way  because  it's  simply  not  true. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  So,  Justice  Scalia  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+44 
+
+            
+
+(Laughter.) 
+
+            
+
+MR.  CONSOVOY:  ­­ every  lower  court  to  reach 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  question  has  held  that  this  particular  provision 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+requires  falsity  as  an  allegation.  Multiple  Courts  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appeals. 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  But  I  want  to  ­­ as 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  understand  ­­ I  take  the  falsity  out  of  the  ­­ the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hypotheticals  to  get  exactly  what  your  position  is  on 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ the  breadth  of  Congress'  power. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  let's  say  the  statute  says  anybody  who's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+publishing  information  about  you  has  to  pay  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+individual  $10  a  year.  They  think  that's  a  good  way  to 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+regulate  it.  It's  information  about  you,  good,  bad,  or 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+indifferent,  pay  them  $10  a  year,  no  more,  no  less. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Spokeo,  or  whatever  that  business  is,  pays  you  $20  one 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year. 
+
+            
+
+Now  you've  been  ­­ the  statute  has  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violated  with  respect  to  you,  a  particular  individual. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Can  that  ­­ and  there's  statutory  damages  of  $10,000. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+Can  that  individual  sue? 
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  So  ­­
+
+  
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Now,  does  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+individual  have  injury  in  fact  because  the  statute  has 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  violated  with  respect  to  him? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  That,  I  think  no,  because 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+45 
+
+that  statute  would  apply  to  everybody  in  the  country. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+There  would  be  no  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Oh,  no,  no,  no.  You 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  to  have  published  information  about  an  individual. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Every  individual  who  you  publish  information  about  gets 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$10  a  year. 
+
+   
+
+            
+
+MR.  CONSOVOY:  Right.  So  I  think  that  would 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+make  it  particularized  but  not  concrete. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  So  there'd  be  no 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standing  ­­ that  person  would  have  no  standing,  even 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+though  Congress  gave  him  standing? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  Congress  can  confer 
+
+  
+
+ 
+
+ 
+
+ 
+
+substantive  rights  that  lead  to  standing. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Yes. 
+
+  
+
+ 
+
+ 
+
+MR.  CONSOVOY:  But  not  everything  Congress 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  will  convey  a  substantive  right  that  differentiates 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  from  the  general  population. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  So  if  the  statute  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  This  one  does. 
+
+  
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  ­­ says  $10,  no 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+more,  no  less,  he  gets  $20,  does  he  have  standing  to  sue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+under  that  statute? 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  I  don't  think  so,  because  it 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  apply  so  broadly  to  everybody  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  No,  no,  no.  Any  ­­
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+46 
+
+you  have  ­­ I  said  this  just  before.  They  have  to  have 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+published  information  about  you.  If  they  don't,  they 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+don't  have  to  pay  you  anything. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  Right.  And  my  ­­ my  answer 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  that  that  would  make  it  particularized  but  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concrete. 
+
+            
+
+JUSTICE  SOTOMAYOR:  Isn't  there  always  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+materiality  question? 
+
+ 
+
+            
+
+In  every  violation  there's  always  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+materiality  question:  What  is  the  falsehood?  Is  it 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+material  to  anything?  It  could  be  a  transposition  of  a 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+telephone  number. 
+
+ 
+
+            
+
+MR.  CONSOVOY:  That's  right.  There  is  a 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+de  minimis  aspect  to  the  statute  as  well.  But  even  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+well,  that  is  right,  and  even  innocuous  things  can  also 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cause  ­­
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Mr.  Consovoy,  can  I  just 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+make  sure  I  understand? 
+
+   
+
+ 
+
+            
+
+You  said  you  ­­ you  need  for  the  information 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  be  inaccurate  to  have  standing  here.  That  is  going 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  mean  that  the  class,  as  you've  defined  it,  is  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  to  be  certified.  And  I  think  that  that's  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+right  answer,  but  I  just  want  to  make  sure  that  we're  on 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ we're  on  the  same  page  here. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  Yes.  So  the  class  was  ­­ and 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+47 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+this  is  going  to  come  up  later  this  term  in  the  Tyson 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+case.  But  the  class  has  to  be  defined  as  broadly  as  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+was  because  of  what's  called  a  failsafe  problem. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+You  can't  identify  a  class  by  an  element  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  cause  of  action,  and  that's  because  it  harms 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+defendants'  rights.  So  if  we  had  alleged  the  class  here 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+was  everybody  who  had  inaccurate  information,  it  would 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be  a  trick  against  them,  because  if  they  defeated  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+claim,  the  class  would  be  empty,  and  they  would  get  no 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+res  judicata. 
+
+ 
+
+            
+
+So  at  certification,  we're  going  to  have  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+narrow  the  class,  and  we're  going  to  have  to  come  up 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  common  proof  because  we  can't  identify  the  class  by 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  allegation. 
+
+ 
+
+            
+
+So  what  happens  is,  take  the  algorithm 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+issue.  So  we  will  have  to  allege  under  (b)(3), 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+23(b)(3),  that  a  common  algorithm  led  to  all  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inaccuracies.  But  if  they  do,  that  is  a  certifiable 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+class. 
+
+            
+
+            
+
+And  just  ­­
+
+ 
+
+ 
+
+JUSTICE  KAGAN:  And  one  very  quick  thing. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+You  said  in  your  brief  you're  really  only  suing  under 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1681(e)(B). 
+
+            
+
+            
+
+MR.  CONSOVOY:  Uh­huh. 
+
+  
+
+ 
+
+JUSTICE  KAGAN:  Can  I  understand  that  to  be 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+48 
+
+that  you're  waiving  all  claims  of  other  things? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  No.  I  think  ­­ and  let  me 
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+explain.  We  read  the  statute  this  way:  There's  A 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasonable  procedures  requirement.  That  is  a  general 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+framework.  Some  of  that  is  discussed  in  the  regulatory 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+commentary,  explains  what  that  is.  But  the  specific 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+things  mentioned  in  Count  I,  Count  II,  and  Count  III, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  furnisher  notices,  the  user  notices,  and  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+toll­free  number  are  specific  examples  of  reasonable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedures  they  failed  to  follow. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+            
+
+They  support  ­­
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  Are  you  saying  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  ­­ the  general  claim. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  Are  you  saying  you  get 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  statutory  damages  for  the  four  claims  that  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+listed,  or  is  it  only  what  you've  called  the  overarching 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+claim? 
+
+            
+
+And  in  one  footnote  you  said  these  other 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+claims  are  ­­ are  just  supportive  of  the  main  claim. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  CONSOVOY:  Right. 
+
+  
+
+ 
+
+JUSTICE  GINSBURG:  So  are  you  asking  for 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+four  times  the  statutory  damages,  or  are  you  saying,  no, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  is  really  one  ­­ one  claim,  and  so  we're  asking  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$100  dollars  a  head,  or  10,000  ­­ or  for  $1000  a  head? 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  It's  ­­ it's  one  claim. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+49 
+
+JUSTICE  GINSBURG:  It's  one  claim. 
+
+  
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  It  is  ­­ yes,  Your  Honor. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Now,  these  are  big­picture  questions,  but 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  ­­
+
+ 
+
+            
+
+            
+
+            
+
+this  case  can  be  resolved  on  a  much  narrower  issue. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+This  Court  has  always  held  that  if  the  cause 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  action  you  allege  can  be  found  in  the  common  law,  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  developed  from  the  common  law  as  in  Stevens,  that  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  standing.  This  claim  for  false  information  follows 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+directly  from  the  common  law  defamation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  The  Ninth  Circuit 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+didn't  address  that  question,  did  it?  I  mean,  as  I 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+understand  it,  I'm  looking  at  the  footnote,  you  know,  on 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+page  9A,  it  says  it  doesn't  matter  because  you  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statutory  injury  in  law  is  enough. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  CONSOVOY:  Right.  No.  Well,  but  the 
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+statute  follows  from  defamation.  Just  as  in  Stevens,  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+was  about  the  statute,  it  wasn't  about  the  particular 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+individual.  They  said  the  qui  tam  statute  followed  from 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  common  law  there,  just  like  this  statute  follows 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  the  common  law  defamation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  remember  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  Excuse  me.  How  does  it 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+follow  from  the  common  law  of  defamation?  I  mean, 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  ­­ you  could  not  bring  a  defamation  action  because 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+50 
+
+somebody  said  something  false  about  you.  It  was  either 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  one  of  those  areas  where  it  is  presumed  to  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+damaging,  you  know,  such  as  it's,  you  know,  about  your 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+moral  life  or  something  like  that,  or  ­­ or  your 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incompetence  in  your  profession,  or  else  you  had  to  show 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+positive  damage. 
+
+ 
+
+            
+
+            
+
+            
+
+law. 
+
+            
+
+How  can  you  say  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  So  ­­
+
+  
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  ­­ that  it's  from  common 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  CONSOVOY:  ­­ in  Steel  Co.,  Your  Honor, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  Court  said  it  must  be  in  the  tradition  of  the  common 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+law  of  the  sort,  not  precisely  replicated. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+            
+
+JUSTICE  SCALIA:  Oh,  I  see.  Okay. 
+
+   
+
+  
+
+  
+
+ 
+
+MR.  CONSOVOY:  Not  precisely  replicated. 
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  Close  enough.  Okay. 
+
+  
+
+  
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Mr.  Stewart. 
+
+ 
+
+           
+
+ORAL  ARGUMENT  OF  MALCOLM  L.  STEWART 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ON  BEHALF  OF  THE  UNITED  STATES,  AS  AMICUS  CURIAE, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                  
+
+SUPPORTING  RESPONDENT 
+
+ 
+
+            
+
+MR.  STEWART:  Mr.  Chief  Justice,  and  may  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please  the  Court: 
+
+ 
+
+ 
+
+            
+
+In  Defenders  of  Wildlife,  the  Court  gave  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+following  description  of  what  injury  in  fact  means:  It 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+51 
+
+said  injury  in  fact  is,  quote,  "an  invasion  of  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+legally­protected  interest  which  is,  A,  concrete  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+particularized,  and,  B,  actual  or  imminent,  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+conjectural  or  hypothetical." 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+ 
+
+And  so  the  injury  part  of  it  was  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+invasion  of  a  legally­protected  injury  ­­ interest.  And 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  think  it's  clear  what  work  the  words  "in  fact"  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doing  in  that  description. 
+
+ 
+
+ 
+
+ 
+
+            
+
+If  Mr.  Robins  had  alleged  that  Spokeo  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+circulating  a  lot  of  inaccurate  consumer  reports  and  I'm 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+afraid  they'll  do  one  about  me,  that  wouldn't  be  good 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+enough.  That  ­­
+
+  
+
+ 
+
+            
+
+JUSTICE  SCALIA:  What  ­­ what  happened  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"concrete  and  particularized"? 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  STEWART:  Well,  particularized  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  We  ­­ we  say  that  in  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  ­­ in,  gee,  a  whole  lot  of  cases.  And  ­­ and  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+didn't  appear  in  that  quote  you  gave? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+MR.  STEWART:  It  did.  It's  ­­
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  Say  it  again. 
+
+  
+
+ 
+
+ 
+
+ 
+
+MR.  STEWART:  ­­ "actual  or  eminent"  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+well,  "concrete  and  particularized"  and  "actual  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+imminent,  not  conjectural  or  hypothetical." 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  the  Court  has  explained  both  the  terms 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"concrete"  and  "particularized"  as  aspects  of  the  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+52 
+
+requirement  that  the  wrong  be  done  to  the  particular 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+plaintiff,  not  that  it  be  done  to  the  community  as  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whole. 
+
+            
+
+And  the  Court  used  the  terms  that  way  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Schlesinger.  I  don't  ­­
+
+    
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Mr.  Stewart,  let's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+say  your  ­­ your  ­­ Congress  thinks  that  the  president 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  not  doing  enough  to  stop  illegal  immigration.  So  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+passes  a  law  that  says,  anyone  in  a  border  state  ­­ so 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it's  particularized  ­­ who  is  unemployed  may  bring  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+action  against  an  illegal  immigrant  who  has  a  job.  And 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  get  damages,  maybe  they  get  an  injunction. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+Can  Congress  do  that? 
+
+ 
+
+ 
+
+ 
+
+MR.  STEWART:  Well,  I  think  there  would  be  a 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+couple  of  different  problems  with  that.  The  first  would 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be  that  there  may  be  some  ­­ there  may  be  some  legal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+issues  that  Congress  can't  simply  delegate  to  private 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+enforcement  that  are  ­­ like  the  ­­ the  criminal  law, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  instance.  There  would  be  constitutional  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+potential  constitutional  ­­
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Well,  I  think  that's 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+kind  of  avoiding  the  hypothetical.  I  mean,  let's  ­­
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+(Laughter.) 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  But  presumably  you 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  raise  those  issues  after  the  action's  been  filed, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+53 
+
+and  ­­ and,  you  know,  you  could  raise  those  issues  as  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amicus  defending  the  action. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  STEWART:  I  mean,  I  think  that  would  ­­
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+typically  when  Congress  has  done  this,  and  in  all  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+common  law  analogues  that  we've  cited,  the  ­­ the  class 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  people  who  could  file  suit  would  be  people  whom  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prohibited  conduct  had  a  natural  tendency  to  harm. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Yes,  we're  talking 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  Congress  says,  Well,  these  people  who  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+unemployed,  illegal  immigrants  have  jobs,  they  should  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+able  to  sue  to  stop  that  because  the  ­­ you  know, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because  they  ­­ Congress  thinks  the  president  isn't 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doing  enough. 
+
+ 
+
+            
+
+MR.  STEWART:  I  mean,  I  think  it  would  be  ­­
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  think  that  would  stretch  the  limits  of  Congress's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+power  to  ­­ to  treat  those  ­­ that  broad  class  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+individuals  as  victims  of  all  acts  of  illegal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+immigration.  And  obviously  the  statute  in  ­­ that  we're 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dealing  with  here  doesn't  come  anywhere  close  to  that. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  ­­ and  I  understand  the  Court's  concerns 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  the  implications  of  our  position,  but  I  think  it's 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+also  worth  pointing  out,  this  is  a  mode  of  enforcement 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  Congress  has  been  using  since  1790. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+In  the  first  Copyright  Act,  Congress  enacted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  provision  that  said  if  there  is  infringement,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+54 
+
+copyright  owner  can  get  actual  damages  if  he  can  prove 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+them,  or  failing  that,  he  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  I  mean,  you  know 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ you  know  the  objection  behind  ­­ behind  my 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hypothetical. 
+
+            
+
+            
+
+MR.  STEWART:  Yes. 
+
+  
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Which  is  Congress 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+can  say,  basically,  to  a  group  of  citizens,  you  get  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+enforce  one  of  our  laws  because  we're  giving  you  a  cause 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  action.  It  doesn't  matter  whether  you've  actually 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  injured  or  not;  we  just  have  to  particularize  it  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  extent. 
+
+ 
+
+            
+
+And  I  would  have  thought  that  the  ­­ the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+president  would  be  concerned  about  Congress  being  able 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  create  its  own  enforcement  mechanism.  I  thought  that 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  would  be  concerned  that  that  would  interfere  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  executive's  prerogatives. 
+
+ 
+
+ 
+
+            
+
+MR.  STEWART:  I  ­­ I  think  when  we  get  to 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  point  of  ­­ of  the  hypothetical  where  any  unemployed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+person  in  the  State  is  treated  as  the  legal  vitamin  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+every  act  of  unlawful  immigration  that  occurs  into  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State,  we  ­­ we  do  have  concerns. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+here  says  ­­
+
+ 
+
+ 
+
+            
+
+But  the  ­­ the  statute  we're  dealing  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SCALIA:  The  statute  we're  dealing 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+55 
+
+with  here  treats  everybody  about  whom  false  information 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  been  given  as  somebody  about  whom  false  information 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  harms  him  has  been  given. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  mean,  the  class  is  not  ­­ is  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+coextensive  with  those  ­­ those  that  are  harmed.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it's  the  same  ­­ it's  the  same  in  ­­ in  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chief  Justice's  hypothetical:  The  class  is  not 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+coextensive  with  everybody  who  has  been  ­­ who  has  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cheated  out  of  a  job  by  a  ­­ by  an  unlawful  immigrant. 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  STEWART:  Well,  again  ­­ again,  leaving 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+aside  the  ­­ the  possibility  that  immigration  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  that  can't  be  dealt  with  by  private  suits,  if 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  was  some  particularized  connection  required,  if 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  person  could  show  that  he  applied  for  the  job  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  illegal  immigrant  received,  that  ­­ that  would  be  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+much  different  sort  of  statute. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Here  the  statute  we're  dealing  with  doesn't 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+say  ­­
+
+ 
+
+            
+
+JUSTICE  SCALIA:  In  the  community  ­­ in  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  border  states  is  not  proximate  enough  for  you. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Let's  just  say  anybody  who  is  unemployed  in  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+community  where  there  is  an  illegal  immigrant  can  sue. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  STEWART:  I  think  that's  still  probably 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+too  ­­ too  broad  a  class. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+And  I  understand  the  allure  of  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+56 
+
+hypotheticals,  but  you  could  do  the  same  thing  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rational­basis  review  of  substantive  legislation.  You 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+could  come  up  with  endless  hypotheticals  about  statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  were  just  at  the  border  between  really  stupid  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+so  stupid  as  to  be  actually  irrational. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  How  ­­ how  ­­ the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+difference  is  that  this  is  dealing  with  the  requirement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  a  case  or  controversy  which  has  always  been 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+recognized  as  at  the  core  of  Article  III  jurisdiction. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  we  have  a  legion  of  cases  that  say  you  have  to  have 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actual  injury. 
+
+ 
+
+            
+
+That's  what  makes  it  a  decision  appropriate 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  resolution  by  the  judicial  branch.  And  it  seems  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+little  bit  more  important  than  saying  you  can  challenge 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+particular  statutes. 
+
+ 
+
+            
+
+MR.  STEWART:  Well,  the  point  is  ­­ I  was 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+trying  to  make  was  that  Congress  has  been  doing  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+since  1790,  and  nobody's  pointed  to  a  statute  that  comes 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+close  to  the  hypotheticals. 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  to  ­­ to  return  to  the  point  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+injury  in  fact,  the  Court  has  said  there  has  to  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actual  injury.  But  it  has  defined  "injury"  as  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+invasion  of  a  legal  ­­ legally­protected  interest,  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violation  of  a  legal  right. 
+
+   
+
+ 
+
+ 
+
+            
+
+The  most  recent  addition  of  Black's  Law 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+57 
+
+Dictionary  gives,  as  its  first  definition  of  "injury," 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"the  violation  of  another's  legal  rights  for  which  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+law  provides  a  remedy." 
+
+   
+
+ 
+
+            
+
+JUSTICE  SCALIA:  What  ­­ we've  also  said 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  violation  of  a  procedure,  even  if  you  are  given  a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+right  to  the  procedure,  that  alone  does  not  suffice  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standing.  That  is  a  procedure  ­­ that  ­­ that  is  a 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedure  in  vacuo  that  leads  to  nothing. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  STEWART:  Well,  what  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SCALIA:  We  ­­ we  said  that,  so  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  to  be  something  more  than  just  the  violation  of  what 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ what  Congress  says  is  a  legal  right.  That  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  is  not  enough. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  STEWART:  And  at  ­­ the  Court  has  also 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+said  that  Congress  can't  give  every  citizen  an  ­­ an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+entitlement  to  sue  simply  by  calling  it  a  legal  right. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  with  respect  to  procedures,  the  Court 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  said  you  can  sue  to  complain  about  the  deprivation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  lawfully­required  procedures  if  those  procedures  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intended  to  protect  the  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  BREYER:  Right  ­­ right  here  we  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  complaint,  I  guess,  there  were  certain  errors:  A 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+photograph  of  the  wrong  person;  a  statement  that  he's  in 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+his  50s;  he  isn't.  That  he's  married;  he  isn't.  He's 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+employed  in  a  professional  or  technical  field;  he  isn't. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+58 
+
+That  he  has  children;  he  doesn't.  That  he  has  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+graduate  degree;  he  doesn't.  That  his  economic  health 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  very  strong;  it  isn't.  And  his  wealth  level  is  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  top  10  percent;  it  isn't.  Okay? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  that,  I  gather,  is  what  he  is  complaining 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about.  Something  like  that. 
+
+  
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+MR.  STEWART:  Exactly. 
+
+  
+
+ 
+
+JUSTICE  BREYER:  Fine. 
+
+  
+
+ 
+
+Now,  for  purposes  of  deciding  this  case,  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  simply  to  refer  to  this  and  say,  this  is  a  case  about 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  person  who's  complaining  this?  And  is  this,  which  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  listed,  a  sufficiently­concrete  injury? 
+
+   
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+MR.  STEWART:  Yes.  Absolutely.  And  I  ­­
+
+   
+
+  
+
+  
+
+  
+
+ 
+
+JUSTICE  BREYER:  Thank  you. 
+
+  
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Was  it  ­­ then 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  not  what  the  Ninth  Circuit  based  its  decision  on. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  Ninth  Circuit  says  he  had  standing  by  virtue  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+alleged  violations  of  his  statutory  rights,  without 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+respect  to  whether  there  was  harm  to  his  employment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+process  or  related  anxiety. 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  I  would  suppose,  if  we're  going  to  decide 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  on  that  basis,  we  have  to  determine  that  the  Ninth 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Circuit's  rationale  was  in  ­­ was  wrong. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  STEWART:  I'm  sorry  I  don't  have  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+exact  wording  in  front  of  me,  but  if  you  look  at  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+59 
+
+very  first  sentence  of  the  Ninth  Circuit's  opinion,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ninth  Circuit  says,  "the  question  we  confront  is  whether 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  person  has  injury  in  fact  when  false  information  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+him  is  disseminated." 
+
+ 
+
+ 
+
+            
+
+Now,  the  ­­ the  Court  said  we  don't  have  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+decide  what  is  added  to  the  complaint  by  the  allegations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  employment  prospects  were  actually  harmed. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+ 
+
+And  it's  ­­ and  it's  also  true  that  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ninth  Circuit  didn't  analyze  the  question  that  it  framed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  quite  the  way  we  would  have. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+It  didn't  rely  on  the  defamation  analogy;  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+relied  on  the  statutory  right.  But  it  still  described 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  question  before  it  as  whether  a  person  has  injury  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+complain  about  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  And  ­­ and  Mr.  Stewart,  if  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+could  just  ­­ I  mean,  the  ­­ maybe  this  is  the  sentence 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  you're  talking  about. 
+
+ 
+
+ 
+
+ 
+
+            
+
+At  one  point  the  Court  says,  "the  interests 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+protected  by  the  statutory  rights  at  issue  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sufficiently  concrete  and  particularized." 
+
+ 
+
+ 
+
+ 
+
+            
+
+Now,  look,  it's  not  a  good  opinion,  and  then 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  doesn't  tell  you  why  it  is  that  they're  sufficiently 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concrete.  But  they  clearly  held  that  they  were 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sufficiently  concrete.  They  understood  that  as  part  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  test. 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+60 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+            
+
+MR.  STEWART:  The  ­­ the  other  point  I  would 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+make  ­­ I  ­­ I  agree  with  that. 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+And  the  other  point  I  would  make  about 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Defenders  of  Wildlife  is  the  statute  at  issue  in  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+case  said  any  person  can  sue  to  complain  about 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+particular  types  of  Endangered  Species  Act  violations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  the  Court  said,  that's  just  too  broad.  Congress 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can't  do  that. 
+
+ 
+
+ 
+
+            
+
+But  it  didn't  say,  therefore,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+authorization  to  sue  is  a  nullity,  and  we  don't  have  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+worry  about  whether  this  plaintiff  has  standing  to  sue. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It  analyzed  in  depth  the  allegations  and  the  evidence 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  particular  plaintiffs  in  Defenders  of  Wildlife 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+had  put  forward  and  said  this  is  insufficient. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  then  later,  in  Bennett  v.  Spear,  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court  applied  the  same  Endangered  Species  Act  provision 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+at  the  behest  of  a  plaintiff  who  did  have  standing. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  it  isn't  the  case  that,  if  Congress  fails 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  draw  exactly  the  right  line,  people  who  would  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  within  the  right  line  are  out  of  luck.  I  think  the 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+allegations  of  the  complaint  are  ­­ are  the  important 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+thing  to  focus  on. 
+
+ 
+
+ 
+
+ 
+
+            
+
+With  ­­ with  respect  to  the  defamation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+analogy,  I'd  say  Congress,  in  one  sense,  is  broader  than 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+common  law,  and  in  another  sense  it's  narrower. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+61 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+            
+
+It's  broader  in  that  the  statute  certainly 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sweeps  in  categories  of  types  of  falsehoods  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+May  I  finish? 
+
+   
+
+            
+
+­­ types  of  falsehoods  that  wouldn't  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  defamation  per  se  at  common  law. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+On  the  other  hand,  it  applies  only  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Consumer  Reports,  documents  that  are  intended  to  be  used 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  concrete,  primarily  economic  purposes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Thank  you. 
+
+ 
+
+            
+
+            
+
+remaining. 
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mr.  Pincus,  you  have  three  minutes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+
+REBUTTAL  ARGUMENT  OF  MR.  ANDREW  J.  PINCUS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ON  BEHALF  OF  THE  PETITIONER 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  PINCUS:  Thank  you,  Mr.  Chief  Justice. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kagan  asked  the  question  earlier 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  how  could  people  find  this? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+You  know,  our  legal  system  is  people  have  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  allegations  that  they're  harmed.  And  I'd  urge  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  Court  to  look  at  the  public  justice  amicus  brief  on 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  other  side  of  the  case  for  a  whole  series  of  claims 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  which  ­­ that  people  filed  and  they  were  able  to  make 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+allegations  of  actual  harm. 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  argument  that  the  Ninth  Circuit  relied 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+on  falsity  is  a  fiction.  The  first  sentence,  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+62 
+
+overture  of  its  opinion,  mentions  that  there  is  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+allegation  of  falsity.  There  is  not  a  word  in  its 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standing  analysis  that  refers  at  all  to  falsity.  It 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+relied  on  statutory  violations,  period,  including  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violations  that  say  nothing  about  falsity. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  So  are  we  ruling  on  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+outcome  or  are  we  ruling  on  the  reasoning? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Well,  Your  Honor,  I  ­­ I  think, 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+as  the  Court  comes  ­­ the  ­­ the  question  presented  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  the  Ninth  Circuit's  rule  that  a  mere  statutory 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violation  unaccompanied  by  any  harm  is  sufficient  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+satisfy  Article  III? 
+
+ 
+
+ 
+
+              
+
+I  think  the  Court  has  to  address  that  issue. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  next  issue  is:  Did  Congress  elevate  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+did  ­­ did  Congress  say  that  false  statements  inflict  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+certain  kind  of  harm,  and  therefore,  we're  going  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+single  them  out? 
+
+ 
+
+ 
+
+            
+
+And  I  think,  to  rely  on  Congress,  Congress 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actually  has  to  have  made  that  determination.  And  there 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  nothing  in  the  statute  that  says  that. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+As  Justice  Breyer  said,  you  have  to  actually 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+read  falsity  into  the  statute  in  order  to  find  falsity. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Congress  didn't  say  anything  about  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+particular  harm  inflicted  by  false  statements. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  I  think  ­­
+
+    
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+63 
+
+MR.  PINCUS:  If  it  wanted  to  do  that,  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  See,  I  look  at  this  case 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+should  ­­
+
+ 
+
+            
+
+slightly  differently.  I  think  the  breach  of  any  legal 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+right  you're  given  is  ­­ gives  Article  III  jurisdiction. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+There  is  a  difference  between  that  and 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+whether  you're  within  the  zone  of  interest  of  a  statute. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  so  what  you're  saying  ­­ I  ­­ I  guess  that's  why  the 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+circuits  below  have  said  you  have  to  be  able  to  allege 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  falsity  in  the  credit  report  to  get  recovery  under 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  statute  because  those  are  the  people  the  statute  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+targeted  to. 
+
+ 
+
+            
+
+MR.  PINCUS:  Your  Honor,  that's  not  right. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  ­­ all  of  the  decisions  that  my  friends  refer  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+were  decisions,  not  where  there  were  willfulness  claims, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+but  where  there  were  actual  damages  claims.  No  surprise 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  courts  have  said  to  prove  actual  damages  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  to  at  least  show  falsity. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+There  has  been  no  decision  interpreting  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statute  in  the  context  of  a  willfulness  claim  to  say 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whether  it  does. 
+
+ 
+
+ 
+
+            
+
+And  I  think  the  problem  with  the  position  on 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  other  side  is  they  want  to  say  Congress  made  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+decision  that  anything  inaccurate  is  ­­ is  harmful,  but 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there's  nothing  in  the  statute  to  say  that.  Congress 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+64 
+
+should  speak  clearly  if  it  wants  to  do  that,  and  then 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  Court  has  to  review  that  determination. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  I  think  the  question  would  be,  has 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ is  the  class  defined  by  Congress  sufficiently 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+congruent  with  tangible  harm  to  ­­ to  satisfy  Article 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+III? 
+
+            
+
+            
+
+            
+
+And  I  think  ­­
+
+   
+
+ 
+
+JUSTICE  SOTOMAYOR:  But  here  you  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+MR.  PINCUS:  ­­ the  class  of  all 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inaccuracies  can't  possibly  be  a  class  of  people,  most 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  whom  are  going  to  suffer  one  harm. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  We  have  one  brief,  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+brief  of  the  restitution  scholars  who  say  if  this  Court 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+says  that  you  have  to  show  ­­ how  can  ­­ some  harm,  what 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+happens  to  all  the  restitution  cases  where  you  measure 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  relief  by  the  gain  to  the  defendant?  There  has  been 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+no  loss  to  the  plaintiff. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  PINCUS:  Your  Honor,  restitution  is  all 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  a  measure  of  damages.  And  all  those  cases  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+often  they're  breach  of  contract  cases  ­­ there's  harm. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  property  interest  conferred  by  the  contract  has  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+violated,  and  the  question  is  a  measure  of  damages.  In 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  fiduciary  duty  context,  as  in  the  property  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  So  what  is  ­­ what  is  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+harm  to  the  neighbor  whose  ­­ puts  a  toe  into  his 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+65 
+
+neighbor's  land? 
+
+ 
+
+            
+
+MR.  PINCUS:  It  ­­ it  is  the  intrusion  on 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  right  to  exclude  the  property  interest  created  by 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  common  law.  And  this  statute  doesn't  create  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+property  interest,  so  it  can't  be  upheld  on  this  basis. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+The  case  is  submitted. 
+
+ 
+
+ 
+
+ 
+
+(Whereupon,  at  12:07  p.m.,  the 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+case  in  the
+ 
+
+ 
+
+ 
+
+above­entitled  matter  was  submitted.) 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+21:2,17 43:7 46:4  aspects 51:25 
+46:23 
+
+Official 
+Official
+
+anxiety 58:20 
+anybody 21:10 
+
+22:22 26:20,20 
+37:20 41:8 44:10 
+55:21 
+
+apologize 21:15 
+
+available 26:14 
+avoiding 52:22 
+38:21 55:14 60:16  awarded 7:10 
+
+A 
+
+a.m 1:13 3:2 
+able 13:8 21:9 27:8 
+
+addition 56:25 
+address 10:16 
+49:12 62:13 
+admits 36:13 
+
+27:22,24 35:19 
+41:10 53:11 54:14  afield 7:15 
+61:22 63:9 
+
+afraid 51:11 
+
+above­entitled 1:11  age 13:21 
+
+65:9 
+
+absence 15:21 
+Absolutely 27:10 
+
+58:13 
+
+accept 28:18 40:16 
+accepted 15:1 
+
+38:15 
+
+access 25:20 
+accuracy 10:13 
+15:15 16:4,23 
+24:4,6 26:3,9 
+42:17,19 43:9 
+accurate 19:13 
+
+26:21,24 39:13 
+43:19 
+
+accurately 22:17 
+act 22:4 29:12 
+
+53:24 54:21 60:6 
+60:16 
+
+action 4:15 5:17 
+
+agencies 4:10 14:7 
+
+14:17 15:14 21:7  Appeals 44:5 
+appear 51:18 
+
+agency 13:25 14:1 
+
+15:2 21:10 23:19  APPEARANCES 
+23:20 40:19 
+
+1:14 
+
+agree 3:24 11:10 
+18:6 20:22 60:2 
+
+applicable 25:22 
+applicants 38:22 
+ahead 18:9 
+application 15:23 
+algorithm 47:15,17  applied 8:15 17:3 
+Alito 12:14 37:13 
+37:15,16,17,25 
+
+applies 8:12 12:5 
+
+allegation 44:4 
+
+47:14 62:2 
+
+allegations 27:12 
+28:2 59:6 60:12 
+60:21 61:19,23 
+
+allege 12:15 47:16 
+
+49:7 63:9 
+
+24:17 61:6 
+
+apply 10:3 14:11 
+
+45:1,24 
+
+appropriate 56:12 
+arbiter 38:24 
+areas 7:17 10:6 
+
+50:2 
+
+alleged 38:14 47:6 
+
+argue 4:6 18:17 
+
+51:9 58:18 
+
+36:7 
+
+assembling 36:15 
+assert 42:15 
+asserted 14:16 
+
+20:17 
+
+assume 15:6 16:9 
+
+38:7 
+
+assumes 13:18 
+assuming 41:17 
+assumption 11:25 
+assure 43:8 
+attainable 10:15 
+authorization 
+
+60:10 
+
+aware 37:24 
+
+B 
+
+b 39:1 47:16 51:3 
+back 10:5 15:10 
+
+31:5 33:16 
+
+36:15,25 44:13 
+
+balance 29:2 
+
+Page 66 
+
+bidder 41:5 
+bidders 41:7 
+big­picture 49:4 
+billions 28:12 
+bit 4:6 11:22 56:14 
+Black's 56:25 
+blue 17:20 
+border 52:9 55:20 
+
+56:4 
+
+branch 56:13 
+breach 17:11 40:6 
+
+63:4 64:20 
+breadth 44:9 
+Breyer 9:12,15 
+34:1,23 35:14 
+36:23 37:4,7 43:6 
+57:21 58:8,14 
+62:21 
+
+brief 11:10 17:20 
+28:9 47:22 61:20 
+64:12,13 
+
+bring 17:4 23:25 
+25:1 31:18 36:2 
+49:25 52:10 
+
+55:24 60:7 
+
+broader 60:24 61:1 
+broadly 45:24 47:2 
+brought 21:4 28:11 
+burden 20:14 
+business 39:3,19 
+
+44:15 
+
+C 
+
+c 2:1 3:1 10:11 
+call 32:5,10,11 
+called 35:16 47:3 
+
+background 25:9 
+bad 35:25 36:3,3,15  broad 28:18 53:16 
+
+allowable 41:3 
+
+10:1 11:19 12:5,9  allow 25:1 
+17:24,25 23:7 
+24:16 28:10 31:18  allowed 21:4 
+35:17 37:8,9 
+41:23 47:5 49:7 
+49:25 52:11 53:2 
+54:10 
+
+allowing 28:10 
+allure 55:25 
+amicus 1:21 2:10 
+
+50:20 53:2 61:20 
+
+argument 1:12 2:2  based 27:24 58:16 
+basically 10:21,23 
+
+54:8 
+
+2:5,8,12 3:3,6 
+12:8 13:17 16:10 
+20:15 21:18 23:22  basing 42:4 
+29:5 30:1 43:3 
+50:19 61:13,24 
+arguments 28:3 
+arisen 20:11 
+
+65:5 
+
+basis 8:8 58:22 
+
+behalf 1:15,17,20 
+2:4,7,10,14 3:7 
+28:11 29:6 50:20 
+61:14 
+
+Article 18:21 29:9 
+
+analogues 53:5 
+analogy 10:1 59:11  Arlington 1:17 
+
+action's 52:25 
+actionable 12:11 
+
+13:19 15:19 17:24 
+18:3 
+
+60:24 
+
+analysis 62:3 
+analyze 59:9 
+analyzed 60:12 
+
+actions 17:4 
+Ashby 7:25 
+acts 53:17 
+actual 3:12 7:18,19  ANDREW 1:15 2:3  aside 55:11 
+
+33:9,10 34:8 35:6 
+51:3,21,22 54:1 
+56:11,22 61:23 
+63:16,17 
+added 59:6 
+
+2:13 3:6 61:13 
+announce 19:6 
+another's 57:2 
+answer 5:21 6:25 
+
+9:12,23 17:16 
+
+29:16,20 56:9 
+62:12 63:5 64:5 
+
+behest 60:17 
+believe 26:20 38:17  calling 31:14 32:3 
+Bennett 60:15 
+best 40:7,11 
+better 11:8 42:21 
+asked 13:18 61:16 
+asking 14:13 48:21  beyond 5:12 6:21 
+
+57:16 
+
+48:16 
+
+48:23 
+
+asks 38:5 
+aspect 46:14 
+
+18:19 19:9,25 
+20:1,6 25:17,21 
+31:7 
+
+Camp 31:7 33:16 
+case 3:4 4:22,23 
+9:25 12:11,15 
+14:23 15:4 17:10 
+24:25 27:12 28:23 
+28:23 29:19 30:3 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Official 
+
+38:10 39:18,20 
+43:19 47:1,12 
+53:19 56:3 
+
+comes 15:4 56:18 
+
+62:9 
+
+coming 8:7 
+comment 10:10,11 
+commentary 48:6 
+comments 13:19 
+common 6:13,19,21 
+7:5,9,11,17 8:5,7 
+8:18 19:9,25 
+28:22 29:18 31:2 
+33:6 47:13,17 
+49:7,8,10,20,21 
+49:24 50:9,12 
+53:5 60:25 61:5 
+65:4 
+
+communication 
+
+38:13,14 
+
+Page 67 
+
+concrete 3:16,25 
+
+Congress's 53:15 
+congruent 64:5 
+
+29:15 
+
+connection 55:13 
+consequence 12:18 
+
+concreteness 17:2 
+concurrence 19:1 
+concurring 35:10 
+
+4:2,18 5:8,23 6:3 
+11:9,11 14:2 17:6  conjectural 51:4,23 
+17:8 20:2,3,5 
+22:11 24:11,13 
+31:4 33:7 34:10 
+34:17 35:1,1 45:8  consequences 3:23 
+Consovoy 1:17 2:6 
+46:6 51:2,14,22 
+29:4,5,7 30:2,13 
+51:25 59:20,23,24 
+30:16 31:1,20,23 
+61:8 
+32:5,9,15,23 33:3 
+33:13 34:9,21 
+35:9 36:21 37:3,6 
+37:10,23 38:12 
+39:11,14 40:1,4,9 
+40:12,17 41:13,21 
+42:3,9,12,16,20 
+43:15,21,25 44:2 
+44:21,25 45:7,12 
+45:15,19,23 46:4 
+46:13,17,25 47:24 
+48:2,13,20,25 
+49:3,16 50:8,11 
+50:15 
+
+conduct 53:7 
+confer 10:1 45:12 
+conferred 64:21 
+confers 8:19 
+confront 59:2 
+Congress 3:14,25 
+
+35:11 
+
+30:8 33:2,17 35:6  children 58:1 
+35:22 36:7,11,24  Circuit 3:18 18:3 
+36:24 38:10 41:15 
+47:2 49:5 56:8 
+58:9,10 60:5,18 
+61:21 63:3 65:7,8  Circuit's 58:23 
+
+27:14 49:11 58:16 
+58:17 59:2,9 
+61:24 
+
+cases 8:25 9:5,8 
+
+59:1 62:10 
+circuits 63:9 
+
+10:9 17:19 33:8 
+33:15 51:17 56:10  circular 29:22 
+64:15,19,20 
+
+30:25 
+
+casts 5:16 
+categories 61:2 
+cause 4:14 5:17 
+
+circulating 51:10 
+citation 7:24 
+cite 9:8 
+
+10:1 11:19 12:4,9  cited 53:5 
+17:23,25 23:7 
+citizen 34:5 57:15 
+24:16 41:23 46:16  citizens 17:4 54:8 
+claim 5:4 14:8,17 
+47:5 49:6 54:9 
+23:25 24:2 29:17 
+34:14 42:4 47:9 
+48:13,17,19,23,25 
+49:2,9 63:20 
+
+centuries 9:5 17:10 
+certain 22:7 57:22 
+
+certainly 9:8 20:1 
+
+62:16 
+
+61:1 
+
+certifiable 47:18 
+certification 28:16 
+
+28:21 47:11 
+certified 14:20 
+
+46:22 
+
+claims 4:23 13:11 
+14:16 42:25 48:1 
+48:15,19 61:21 
+63:15,16 
+
+class 14:19 28:11 
+
+clause 30:5 
+clear 5:13 8:16,23 
+9:24 10:2 11:14 
+21:16 24:5 25:7 
+28:21 51:7 
+
+challenge 56:14 
+change 19:3 
+cheated 55:9 
+check 16:4 
+checks 39:18 
+Chief 3:3,8 17:16 
+24:23 27:2,10,22 
+29:3,7 31:10,22 
+31:25 32:6,13,16 
+32:25 33:8 34:2 
+34:24 35:21 37:16 
+39:6,12,24 44:6 
+44:22 45:3,9,14 
+45:18,20,25 49:11  close 50:16 53:19 
+50:17,22 52:6,21 
+52:24 53:8 54:3,7  coextensive 55:5,8 
+55:7 56:6 58:15 
+College 9:25 38:25 
+61:10,15 65:6 
+
+clearly 5:11,16 
+12:10 19:2,22 
+25:17 41:3 59:23 
+64:1 
+
+56:19 
+
+39:1 
+
+Chief's 36:18 
+
+come 24:10,12 
+
+28:16,21 46:21,25  complain 57:18 
+47:2,4,6,9,12,13 
+47:19 53:5,16 
+55:4,7,24 64:4,9 
+64:10 
+
+complaint 27:13 
+
+complaining 58:5 
+
+59:14 60:5 
+
+58:11 
+
+32:3 
+
+43:13 
+
+29:12 
+
+52:19,20 
+
+55:19,22 
+
+constitutes 10:8 
+
+community 52:2 
+
+constitutionality 
+
+constitutional 3:11 
+
+39:16 57:22 59:6 
+60:21 
+
+companies 32:17 
+companion 34:11 
+company 31:12,14 
+
+4:3 5:8,11,16 6:10 
+6:20,24 7:3,12,21 
+7:25 8:17 11:2,8 
+11:25 12:9 14:5 
+15:11,17 16:5,19 
+17:24 18:18,23,24 
+19:1,4,5,6,14,18 
+19:21,24,25 20:15 
+21:3,12,20,23,24 
+22:1,4 23:11,22 
+24:19,25 25:2,7 
+25:11,17,20 26:2 
+26:6 28:13 29:24 
+30:11 31:20,23 
+32:6,9,12,23 33:6 
+35:11 36:4 40:5 
+40:17,21,24 42:20 
+42:22,24 43:5 
+45:11,12,15 52:7 
+52:13,17 53:4,9 
+53:12,23,24 54:7 
+54:14 56:17 57:12  contract 30:3,3 
+57:15 60:7,18,24 
+62:14,15,18,18,23  contradistinction 
+conclusion 22:22 
+63:23,25 64:4 
+conclusively 29:18  Congress' 44:9 
+
+Complete 10:13 
+completely 6:19 
+complex 26:1 
+comply 23:13 
+concept 33:18 
+concepts 34:12 
+concerned 19:11,12 
+
+constructed 12:13 
+construe 43:13 
+consumer 23:14,15 
+23:17 36:15 37:2 
+37:4 38:12 40:18 
+41:25,25 43:9,11 
+43:12 51:10 61:7 
+
+concerning 10:14 
+concerns 53:20 
+
+consumers 28:14 
+context 8:13,17 
+
+contexts 5:11 8:15 
+
+contrary 7:24 
+
+54:14,16 
+
+64:20,21 
+
+54:22 
+
+33:4 
+
+25:13 63:20 64:23 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 68 
+
+13:5,24 14:1,7,17  defamation 6:17 
+15:2,13 19:14,17 
+21:6 22:18 28:14 
+29:12 63:10 
+
+10:7 13:11,14,20 
+29:18 43:1,2,3 
+49:10,17,21,24,25 
+59:11 60:23 61:5  differentiates 
+
+34:14 
+
+34:3,7 41:16 43:3  E 2:1 3:1,1 
+52:15 55:16 
+differentiated 
+
+31:9 61:16 
+
+earlier 15:1 25:6 
+
+economic 8:13 9:1 
+9:9,16 58:2 61:8 
+
+controversy 29:19 
+
+56:8 
+
+convey 45:16 
+copyright 53:24 
+
+54:1 
+
+core 56:9 
+correct 36:14 38:2 
+
+43:21 
+
+counsel 27:2 29:3 
+50:17 61:10 65:6 
+
+crediting 14:12 
+creditworthiness 
+
+16:20 
+
+criminal 52:18 
+crystal 25:7 
+curiae 1:21 2:10 
+
+50:20 
+
+Count 48:7,7,7 
+country 38:22 45:1  cyber 13:21 
+couple 20:4 52:15 
+course 4:22 20:6,9 
+
+D 
+
+40:5 
+
+D 3:1 
+
+court 1:1,12 3:9,10  D.C 1:8,15,20 
+
+3:14 5:10,12,13 
+5:18 6:14 7:5 
+8:12,14,16,20,23 
+10:2 15:4,4 16:11 
+16:18 17:3,21,22 
+18:16,19 20:17,24 
+25:18 27:11 28:1 
+29:8 30:7 31:6,7 
+34:9 42:9 43:4,15  danger 28:9 
+44:2 49:6 50:12 
+50:23,24 51:24 
+52:4 56:21 57:14  date 10:16 16:15 
+57:17 59:5,18 
+60:7,16 61:20 
+62:9,13 64:2,13 
+
+day 32:7 
+de 3:16,19 17:23 
+
+data 39:8 
+databases 38:4 
+
+damaging 50:3 
+
+35:6 46:14 
+
+Court's 18:1,14 
+
+20:7,13 25:10,22 
+27:13 28:4 31:3 
+53:20 
+
+courts 19:3 25:21 
+
+44:4 63:17 
+
+dealt 23:17,20 
+
+55:12 
+
+decades 17:9 
+
+create 7:21 8:18,18  decide 58:21 59:6 
+15:12 24:19 30:16  decided 9:5 14:19 
+54:15 65:4 
+
+18:3 
+
+created 21:20 33:6  deciding 58:9 
+decision 56:12 
+
+33:6 65:3 
+
+creates 17:24 
+creating 5:17 
+credit 4:10,16 5:6 
+
+58:16 63:19,24 
+
+decisions 31:3 
+
+63:14,15 
+
+11:16 12:20 13:4  deemed 31:3 
+
+defeated 47:8 
+defendant 15:2 
+
+35:25 64:16 
+
+defendants' 47:6 
+Defenders 50:24 
+
+60:4,13 
+
+defending 14:2 
+
+53:2 
+
+Defense 41:1 
+define 20:15 
+defined 5:13 7:17 
+46:21 47:2 56:22 
+64:4 
+
+41:1 
+
+deprivation 57:18 
+depth 60:12 
+Deputy 1:19 
+described 59:12 
+describing 35:16 
+description 50:25 
+
+51:8 
+
+details 10:17,20 
+detect 13:8 
+determination 14:6 
+
+62:19 64:2 
+
+determine 58:22 
+developed 49:8 
+Dictionary 57:1 
+difference 5:14 
+
+56:7 63:6 
+
+different 4:8 9:17 
+9:21 10:24 13:24 
+14:6 17:25 33:10 
+
+41:7 
+
+45:16 
+
+40:2,5,14 
+
+disclaimer 39:7,25 
+
+education 10:23 
+effect 35:7 
+effort 10:15 
+either 40:15 50:1 
+
+differently 63:4 
+difficult 29:1 31:9 
+directly 49:10 
+disappointed 41:4  Electric 31:5 
+element 47:4 
+elevate 3:15 62:14 
+else's 35:15 
+eminent 51:21 
+employed 57:25 
+employee 39:17 
+employer 38:22 
+employment 10:17 
+12:21 58:19 59:7 
+
+discuss 17:19 
+discussed 48:5 
+disputed 14:22,25 
+disregard 22:10,16  enacted 24:18 25:9 
+disseminate 4:11 
+
+discrepancies 36:8 
+discrete 30:17 
+discrimination 
+
+empty 47:9 
+
+53:24 
+
+9:11 
+
+4:13,15 
+
+disseminated 59:4 
+dissemination 5:5 
+5:25 6:15 11:16 
+
+distinctly 34:16 
+distinguish 18:11 
+distinguished 
+
+22:12 
+
+enacting 12:8,9 
+
+23:22 
+
+enacts 40:24 
+Endangered 60:6 
+
+60:16 
+
+endless 56:3 
+enforce 54:9 
+enforcement 52:18 
+
+district 20:24 27:11 
+
+53:22 54:15 
+
+doctrine 17:7 
+documents 61:7 
+doing 13:1 19:5 
+25:7 51:8 52:8 
+53:13 56:17 
+
+ensure 42:17,18 
+entire 23:9 
+entirely 11:15 18:7 
+entities 14:3,16 
+entitled 26:7 
+entitlement 29:14 
+
+dollars 28:12 36:4 
+
+30:6,8 57:16 
+
+48:24 
+
+dozen 8:24 
+drafted 24:25 
+draw 60:19 
+duties 30:4 40:19 
+duty 30:5 64:23 
+
+E 
+
+errors 10:15 57:22 
+espouse 28:19 
+ESQ 1:15,17,19 2:3 
+
+2:6,9,13 
+
+establish 8:10 
+establishes 29:19 
+evaluate 39:8 
+everybody 40:24 
+
+damage 31:19 50:6 
+damages 7:10 12:5 
+26:22,25 30:5,12 
+defining 18:19 
+31:11 32:8 44:19  definition 57:1 
+48:15,22 52:12 
+54:1 63:16,17 
+64:19,22 
+
+degree 58:2 
+delegate 52:17 
+Department 1:20 
+
+deal 6:12 31:23 
+dealing 53:19 54:23 
+
+33:18 
+
+54:25 55:17 56:7  detail 17:19 
+
+designed 24:14 
+
+28:1 
+
+Alderson Reporting Company
+ 
+
+Page 69 
+
+28:5,8 48:12,14 
+H 
+48:21 49:2 64:12  hand 61:6 
+64:24 
+
+focused 24:19 
+follow 21:5 43:7,18  give 25:14,20 28:13  happened 12:20,20 
+
+happen 34:13 
+
+36:5 57:15 
+
+28:22 51:13 
+given 8:1,6,6 13:2,3  happens 47:15 
+
+Official 
+
+focus 4:25 5:2 
+
+60:22 
+
+48:10 49:24 
+followed 22:6 
+
+49:19 
+
+following 19:12 
+
+23:6 36:3 50:25 
+follows 29:17 49:9 
+
+forum 35:16 
+forward 60:14 
+found 28:2 49:7 
+four 48:15,22 
+frame 4:3 
+framed 59:9 
+framework 48:5 
+friend's 20:15 
+friends 9:8 63:14 
+front 58:25 
+FTC 39:16 
+furnisher 48:8 
+
+G 
+
+G 3:1 
+gain 64:16 
+games 33:21 
+gather 34:4 58:5 
+gee 51:17 
+
+13:4,5 40:23 55:2 
+55:3 57:5 63:5 
+gives 9:20 57:1 
+
+63:5 
+
+giving 22:5 42:23 
+
+54:9 
+
+go 13:14 18:9 19:25 
+
+20:1 26:8,11 
+40:15 
+
+goes 37:18 
+going 5:12 15:10 
+
+16:6,9 19:1,9 22:5 
+25:14,17 26:6 
+31:5 33:16 35:5 
+46:20,22 47:1,11 
+47:12 58:21 62:16 
+64:11 
+
+good 44:12,13 
+51:11 59:21 
+
+gosh 19:15 
+government 28:19 
+
+36:10,12 
+
+government's 
+
+36:17 37:7 
+
+graduate 58:2 
+gravamen 5:3 24:2 
+great 31:23 
+grievance 17:5 
+
+64:15 
+
+happy 5:2 
+harbor 22:2,6 
+hard 12:22 14:9 
+
+25:13 
+
+harm 3:13 7:18,19 
+8:11,12,22 9:1,9 
+9:10,16,16,17,18 
+9:19 10:8 11:12 
+11:23 12:1 15:21 
+18:2,14 20:2,3,5 
+20:18,25 21:3,5 
+21:13 23:23 25:10 
+25:13,18 28:3 
+30:19,22,23,23 
+31:1,4 33:20 38:1 
+53:7 58:19 61:23 
+62:11,16,24 64:5 
+64:11,14,20,25 
+
+harmed 6:6,9 11:20 
+
+30:9 34:16 55:5 
+59:7 61:19 
+
+harmful 12:10 
+
+63:24 
+
+harming 6:22 
+harms 11:9,18,18 
+
+20:9 47:5 55:3 
+
+head 48:24,24 
+
+hear 3:3 
+held 3:18 20:24 
+
+27:12 28:15 43:16 
+44:3 49:6 59:23 
+
+41:1,2,9,19 45:1 
+45:24 47:7 55:1,8 
+
+evidence 60:12 
+exact 58:25 
+exactly 4:2 13:12 
+
+19:6,14 21:16,18 
+22:9,23 24:13 
+40:4 44:8 58:7 
+60:19 
+
+example 7:6,18 
+10:9 35:20,22 
+examples 35:17 
+
+48:9 
+
+exclude 8:20,22 
+
+65:3 
+
+Excuse 14:24 22:21 
+
+49:23 
+
+failing 54:2 
+fails 23:13 60:18 
+failsafe 47:3 
+failure 21:5 26:22 
+
+27:19 
+
+fair 25:25 29:12 
+falls 14:18 
+false 5:5 6:1,15 
+
+49:17,20 
+
+9:20 10:9 11:1,3 
+12:7,19 13:18 
+16:9 18:13,13 
+23:8,23,24 28:14 
+32:3,18,18,20 
+36:1 37:1,5 38:11 
+40:23 41:17 42:14  forth 41:2 
+43:11 49:9 50:1 
+55:1,2 59:3 62:15 
+62:24 
+
+49:13 
+
+footnote 48:18 
+
+formally 35:8 
+
+falsehood 46:10 
+falsehoods 61:2,4 
+falsity 23:5 28:24 
+
+executive's 54:17 
+executives 39:17 
+existing 35:7 
+exorbitant 40:25 
+expand 18:18 
+expanded 31:7 
+expect 40:15 
+expenditures 40:25  Federal 19:3 25:20 
+explain 7:1,2,8 
+
+44:4,7 61:25 62:2 
+62:3,5,22,22 
+63:10,18 
+
+35:18 43:4 
+
+19:23 25:3 48:3 
+explained 35:10 
+
+51:24 
+
+explains 48:6 
+extent 34:6 54:12 
+
+F 
+
+fact 3:11 12:16 
+
+feel 6:6,8,9 
+fiction 61:25 
+fiduciary 64:23 
+field 57:25 
+file 53:6 
+filed 35:25 52:25 
+
+61:22 
+
+files 38:3 
+
+62:22 
+
+finding 15:17 
+fine 11:10,12 36:23  generalized 17:5 
+
+17:11 18:23 21:12  find 13:14,15 61:17  general 1:19 3:20 
+8:11 34:17 45:17 
+27:8,17,24 29:13 
+29:17 32:2 33:1,2 
+48:4,13 
+33:4,9,11,12,17 
+33:22 35:3,7,19 
+35:24 36:8 41:9 
+42:11 44:23 50:25  first 6:4,4,13 12:3 
+51:1,7 56:21 59:3 
+17:17 20:5 25:5 
+facto 3:16,19 17:23 
+29:11 33:17 52:15 
+53:24 57:1 59:1 
+61:25 
+
+generally 8:12,20 
+generally­applic... 
+
+30:18 33:24 34:3 
+34:15 
+
+finish 9:23 61:3 
+
+42:8 58:8 
+
+18:15 
+
+35:6 
+
+getting 34:11 
+GINSBURG 7:8 
+14:22,25 15:6 
+
+fail 43:10,18 
+failed 21:11 48:10 
+
+flunked 28:4 
+
+30:18 33:25 34:3  health 58:2 
+34:15 
+
+ground 14:2 
+grounds 28:15 
+group 54:8 
+guarantees 39:9 
+guess 5:9 11:21 
+
+guidance 10:7 
+guides 7:5 
+
+hires 40:13 
+historic 7:10 
+17:1 19:23 20:19  history 19:16 
+28:6,6 57:22 63:8  hold 28:13 
+
+Honor 4:20 7:14 
+
+8:3 9:3 10:25 
+13:10 14:5 22:20 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+13:22 16:8,12 
+19:19 22:25 26:15 
+26:21,24 27:25 
+31:12,16 32:18,20 
+36:1,3,16 37:1,5 
+38:11,18 39:9 
+40:16,23 41:17 
+42:14 43:19 44:11 
+44:13 45:4,5 46:2 
+46:19 47:7 49:9 
+55:1,2 59:3 
+
+infringement 53:25 
+injunction 52:12 
+injured 27:7,17 
+32:21 33:22,23 
+36:2 41:10,17 
+54:11 
+
+injuries 3:15,16 
+
+5:12 17:3,23 31:8 
+31:8 35:13 
+
+22:17 30:17,17 
+31:2 32:10 33:5 
+51:2,6 56:23 63:7 
+64:21 65:3,5 
+interests 59:18 
+interfere 54:16 
+Internet 13:21 
+interpretation 25:8 
+interpreting 63:19 
+intrusion 7:18 8:21 
+
+65:2 
+
+invaded 6:10 
+invalidate 15:25 
+invasion 51:1,6 
+
+56:23 
+
+involve 8:25 12:7 
+irrational 56:5 
+irreducible 3:10 
+issue 28:25 47:16 
+49:5 59:19 60:4 
+62:13,14 
+
+J 
+
+61:13 
+
+52:17,25 53:1 
+
+issues 11:19 28:22 
+
+injury 3:11,19,25 
+4:2,18 5:8,23 6:3 
+6:16 8:14,14 
+12:16 13:8,23 
+14:2 16:1,17 
+17:10 18:20 24:11  J 1:15 2:3,13 3:6 
+24:13 26:7 29:12 
+job 13:2,3 32:24 
+31:7,16 32:2,11 
+38:21,22 52:11 
+32:12,16 33:1,4,5 
+55:9,14 
+33:7,9,10,11,12 
+jobs 53:10 
+33:12,14,17 34:8 
+judicata 47:10 
+35:3 41:18 42:11 
+44:23 49:15 50:25  judicial 56:13 
+51:1,5,6 56:11,21 
+56:22,22 57:1 
+58:12 59:3,13 
+
+jurisdiction 18:21 
+19:3 25:22 56:9 
+63:5 
+
+jurisprudence 
+
+25:10 
+
+23:3,18,21 24:15 
+28:18 35:11 49:3 
+50:11 62:8 63:13 
+64:18 
+
+human 39:16 
+hundred 36:4 
+hurt 21:9 35:19 
+
+36:9 
+
+hypothetical 4:4 
+
+5:15,15 11:1 
+36:18 41:22 51:4 
+51:23 52:22 54:5 
+54:19 55:7 
+
+hypotheticals 44:8 
+
+56:1,3,19 
+
+I 
+idea 23:11 
+identical 36:19 
+identified 11:11,22 
+
+12:1 20:3,10,11 
+21:5,12 32:9,12 
+
+identify 6:21 11:13 
+
+16:22,22 21:3 
+23:23 25:19 32:17 
+34:15 47:4,13 
+identifying 11:9 
+
+35:12 
+II 48:7 
+III 18:21 29:9,16 
+29:20 48:7 56:9 
+62:12 63:5 64:6 
+
+illegal 52:8,11 
+
+53:10,17 55:15,22 
+
+immediate 35:21 
+immigrant 52:11 
+
+55:9,15,22 
+
+immigrants 53:10 
+immigration 52:8 
+
+53:18 54:21 55:11 
+imminent 3:12 51:3 
+
+51:23 
+
+impair 22:11,17 
+implications 53:21 
+important 14:21 
+
+33:18 38:19 56:14 
+
+60:21 
+
+importantly 24:3 
+impose 43:5 
+imposed 15:13 21:6 
+
+23:13 
+
+impossible 38:20 
+
+43:23 
+
+improve 26:2 
+impute 15:17 
+inaccuracies 24:20 
+
+47:18 64:10 
+
+inaccuracy 4:24 
+12:10 22:5 24:9 
+24:17 
+
+inaccurate 4:11,13 
+4:15 11:16 16:12 
+19:19 23:24 27:25 
+31:12,16 46:20 
+47:7 51:10 63:24 
+inaccurately 24:12 
+
+27:1 
+
+inadequate 3:17 
+including 12:6 62:4 
+income 10:22 
+incompetence 50:5 
+independent 29:10 
+indicate 37:19 
+indicates 12:4 
+indifferent 44:14 
+individual 10:14 
+
+11:18 25:1 44:12 
+44:18,20,23 45:4 
+45:5 49:19 
+
+individualized 
+
+28:25 
+
+individuals 53:17 
+industry 19:18 
+
+42:21 
+
+industry­friendly 
+
+22:4 
+
+inflict 18:14 26:6 
+
+62:15 
+
+inflicted 62:24 
+information 4:11 
+4:14,16 5:6 6:1 
+9:20 11:16 12:19 
+
+Page 70 
+
+15:11,20,22,25 
+17:1,13,14,15,16 
+17:17 18:6,9,25 
+19:5,8,21 20:9,21 
+21:1,2,17,23 22:1 
+22:15,21,24 23:2 
+23:12,19 24:1,21 
+24:23,23,24 25:4 
+25:6 26:8,11,16 
+26:19,25 27:2,10 
+27:15,16,18,19,21 
+28:5,6,8 29:3,7,21 
+30:11,15,22 31:10 
+31:22,25 32:6,13 
+32:16,25 33:8 
+34:1,2,19,23,25 
+35:1,5,14 36:23 
+37:4,7,12,13,14 
+37:15,16,16,17,25 
+39:6,12,24 40:7 
+40:10,13,20 41:15 
+42:2,8,10,13,18 
+42:24 43:6,7,17 
+43:23,25 44:6,22 
+45:3,9,14,18,20 
+45:25 46:7,17 
+47:21,25 48:12,14 
+48:21 49:2,11,23 
+50:9,14,16,17,22 
+51:13,16,20 52:6 
+52:21,24 53:8 
+54:3,7,25 55:19 
+56:6 57:4,10,21 
+58:8,14,15 59:15 
+61:10,15,16,20 
+62:6,21,25 63:3 
+64:8,12,24 65:6 
+
+injury­in­fact 18:2 
+
+18:15 27:13 
+
+innocuous 46:15 
+inquiry 27:3 32:19 
+instance 52:19 
+insufficient 60:14 
+intended 57:20 
+
+61:7 
+
+intends 25:20 
+interest 6:10 22:11 
+
+Justice's 27:23 
+
+34:24 35:21 55:7 
+
+justice 1:20 3:3,8 
+3:22,24 4:25 5:3 
+5:19,22,25 6:5,18 
+7:8,16,23 8:4,24  Kagan 3:22,24 4:25 
+9:4,12,13,15,24 
+10:5,19 11:6 
+12:14,22,25 13:16 
+14:11,22,25 15:6 
+
+5:3,19,22,25 6:5 
+6:18 10:19 11:6 
+12:22,25 17:14 
+18:6,9 19:5,8,21 
+
+K 
+
+Alderson Reporting Company
+ 
+
+20:9,21 21:2,23 
+22:1,15 23:2 24:1 
+26:25 27:15,18,21 
+28:6 37:12,14 
+46:17 47:21,25 
+59:15 61:16 
+
+Kagan's 7:16 9:13 
+10:5 17:13 25:6 
+
+keep 42:24 
+Kennedy 13:16 
+
+14:11 18:25 24:21 
+24:23,24 25:4 
+29:21 30:22 34:25 
+35:5 
+
+Kennedy's 15:11 
+kind 9:18 13:8 22:3 
+28:10 52:22 62:16 
+kinds 7:6 8:14 9:17 
+
+19:12 
+
+know 6:5 10:21 
+
+13:1,12 16:4,13 
+16:18 19:6,11 
+25:12 36:6,10 
+38:9,20 40:8 41:2 
+49:13 50:3,3 53:1 
+53:11 54:3,4 
+61:18 
+
+49:20,21,24 50:10 
+50:13 52:9,18 
+53:5 56:25 57:3 
+60:25 61:5 65:4 
+lawfully­required 
+
+57:19 
+
+laws 54:9 
+lawsuit 36:2 
+layered 25:24 
+lead 22:22 45:13 
+leading 36:1 
+leads 57:8 
+leaving 36:9 55:10 
+led 47:17 
+legal 9:4 11:4 30:17 
+
+31:6,8 52:16 
+54:20 56:23,24 
+57:2,12,16 61:18 
+63:4 
+
+legally 35:8 
+legally­cognizable 
+
+3:15 
+
+legally­created 
+
+17:8 
+
+legally­protected 
+
+51:2,6 56:23 
+
+legally­recognized 
+
+knows 39:20 
+
+17:11 
+
+L 
+
+L 1:19 2:9 50:19 
+land 65:1 
+large 11:10 
+larger 11:18 
+latitude 14:1 
+Laughter 21:19 
+
+37:22 39:23 40:3 
+44:1 52:23 
+
+33:5 
+
+legion 56:10 
+legislation 56:2 
+legislative 19:16 
+legislature 7:9 
+let's 3:24 44:10 
+52:6,22 55:21 
+
+level 58:3 
+liabilities 30:4 
+liability 42:22,23 
+
+43:5 
+
+law 3:17 6:14,19,21 
+7:5,9,11,17 8:5,7 
+8:18 17:10 19:9 
+20:1 29:18 31:2 
+31:10 33:2,5,6,10 
+33:12,14 34:25 
+35:18 42:25 43:1  Light 10:9 
+43:2 49:7,8,10,15 
+
+liable 23:15 
+liar 39:1,2,13 
+lie 9:19 
+life 50:4 
+
+likelihood 36:8 
+
+looked 6:14 7:5 
+looking 25:25 
+27:12 49:13 
+
+looks 4:1 
+loss 7:11 64:17 
+lot 31:20 32:7 
+
+38:11 51:10,17 
+
+lots 14:16 
+lower 15:4 43:15 
+
+legally­vested 31:2 
+
+44:2 
+
+Official 
+
+limit 27:1 
+limitation 42:22 
+limited 40:22 
+limiting 36:24 
+limits 53:15 
+Linda 17:22 
+line 27:22 60:19,20 
+linked 24:5 
+liquidated 30:5 
+listed 48:16 58:12 
+litigation 14:15,18 
+little 4:6 7:15 11:22 
+
+56:14 
+
+Page 71 
+
+matter 1:11 5:10 
+
+narrow 47:12 
+49:14 54:10 65:9  narrower 49:5 
+
+matters 26:12 
+maximum 42:17,19  narrowly 31:6 
+
+60:25 
+
+43:8 
+
+natural 53:7 
+necessarily 13:13 
+necessary 3:21 
+
+mean 6:5 8:4 9:1 
+11:9,21 13:7,11 
+17:9 22:20 27:22 
+29:22 33:12 37:2  necessity 42:11,14 
+37:4 40:8 42:19 
+46:21 49:12,24 
+52:22 53:3,14 
+54:3 55:4 59:16 
+
+need 3:19 34:22 
+
+needs 3:25 4:1 
+
+46:19 
+
+25:19 
+
+31:24 
+
+29:20 
+
+meaning 18:14 
+
+logical 15:17 
+long 20:2 22:6 
+look 6:20 12:12 
+
+negated 31:9 
+negligently 4:12 
+neighbor 64:25 
+16:14 26:15 27:7 
+neighbor's 65:1 
+30:8 42:3 58:25  meant 23:22 33:10  neighbors 13:18 
+never 13:8 18:16 
+59:21 61:20 63:3  measure 64:15,19 
+
+means 33:21 35:2 
+
+43:10 50:25 
+
+64:22 
+
+31:9 38:8 
+
+27:14 49:11 58:16 
+58:17,22 59:1,2,9 
+61:24 62:10 
+
+mechanism 54:15  Ninth 3:18 18:3 
+meet 8:11 9:9 
+mentioned 48:7 
+mentions 62:1 
+mere 62:10 
+millions 28:11 
+mind 42:24 
+minimis 46:14 
+minimum 3:11 
+
+nobody's 56:18 
+normally 27:3 
+notice 26:14 35:25 
+notices 48:8,8 
+notion 43:1 
+November 1:9 
+nullity 60:10 
+number 15:12 16:8 
+
+minutes 61:11 
+misinformation 
+
+luck 60:20 
+Lujan 3:14 17:22  minor 10:15 
+
+25:14 
+
+19:1 22:9 35:6 
+
+21:4,9,13 
+
+M 
+main 48:19 
+misleading 19:19 
+major 38:21 
+mistake 10:16 
+making 13:18 
+mode 53:22 
+MALCOLM 1:19  Monday 1:9 
+
+2:9 50:19 
+man 27:21 
+marital 10:22 
+married 16:15,15  moral 50:4 
+
+monetary 29:15 
+monetizing 25:12 
+money 30:6,10,24 
+
+57:24 
+
+Multiple 44:4 
+
+massive 15:12 
+N 
+material 46:11 
+materiality 46:8,10  N 2:1,1 3:1 
+
+26:14,22 27:20 
+29:21 31:14,15 
+32:4 43:20 46:12 
+48:9 
+
+O 
+
+O 2:1 3:1 
+objection 54:4 
+obtained 37:5 
+obviously 19:2 
+28:25 53:18 
+occurs 54:21 
+offer 39:10 
+offered 39:10 
+
+Alderson Reporting Company
+ 
+
+oh 41:6 45:3 50:14  passed 6:11 
+okay 4:25 7:12 9:14  passes 52:9 
+
+pathway 28:21 
+pay 44:11,14 46:3 
+pays 44:15 
+people 4:11,14 5:17 
+6:8,9,23 8:7 11:20 
+12:25 13:12,14 
+16:14 21:8 26:15 
+27:1,4 31:14 32:3 
+34:16,22 35:19,23 
+35:24 36:2,25 
+40:23 41:16 53:6 
+53:6,9 60:19 
+61:17,18,22 63:11  place 20:5 
+places 7:4 
+64:10 
+plaintiff 3:12,20 
+12:15,17 22:11 
+35:24 36:7 52:2 
+60:11,17 64:17 
+plaintiffs 27:7,8 
+28:12,19 60:13 
+16:21 23:12 24:8 
+play 33:21 35:12 
+24:9,10,11 26:7 
+31:18 36:6,12,17 
+pleadings 38:15 
+38:4 40:13 43:21  please 3:9 29:8 
+45:10 54:20 55:14 
+57:23 58:11 59:3  plenty 16:13 
+59:13 60:5 
+
+point 10:12 24:7 
+
+50:23 
+
+percent 58:4 
+
+ought 41:10 
+out­of­pocket 7:11  perfect 9:25 10:13 
+outcome 62:7 
+perfectly 5:7 11:9 
+overarching 48:16  period 62:4 
+overture 62:1 
+owe 11:21 
+owed 30:10 
+owner 54:1 
+
+person 6:1 10:24 
+
+Official 
+
+52:20 
+
+potential 16:17 
+
+power 44:9 53:16 
+practical 31:8 
+practice 7:10 
+
+14:14,24 15:3,8 
+15:21,24 16:24 
+17:18 18:8,10 
+19:7,20 20:4,13 
+20:23 21:1,15,18 
+21:20,24,25 22:14  practices 36:15,25 
+22:19,23 23:1,3 
+23:18,21 24:1,15 
+25:2 26:10,13,18 
+26:23 27:10 28:1  preempted 42:25 
+28:5,17 61:11,13 
+61:15 62:8 63:1 
+63:13 64:9,18 
+65:2 
+
+precedents 11:4 
+precisely 25:19 
+
+50:13,15 
+
+43:1,2 
+
+Page 72 
+
+produce 15:15 
+profession 50:5 
+professional 57:25 
+prohibited 53:7 
+promotes 39:15 
+proof 13:14 23:24 
+
+47:13 
+
+property 7:18,19 
+
+7:21 8:5,17,19,21 
+8:25 10:2,3 64:21 
+64:23 65:3,5 
+
+preface 4:21 
+proposed 16:14 
+prerogatives 54:17  prospects 59:7 
+presented 62:9 
+president 52:7 
+53:12 54:14 
+
+protect 24:14 57:20 
+protected 59:19 
+prove 6:17 12:16 
+13:9 16:7 54:1 
+63:17 
+
+presumably 26:19 
+
+52:24 
+
+proven 28:24 
+
+presumed 50:2 
+pretty 11:14 28:20  provide 26:17,22 
+preventing 11:15 
+previously 3:16 
+
+30:12 
+
+24:17 
+
+primarily 61:8 
+privacy 16:21 
+
+26:12 
+
+private 37:8 52:17 
+
+55:12 
+
+provided 30:24 
+provides 12:5 57:3 
+provision 25:8 42:4 
+42:5,6 44:3 53:25 
+60:16 
+
+provisions 24:18 
+proximally 41:8,10 
+proximate 55:20 
+psychic 9:10,16 
+public 32:17 35:17 
+
+37:8 61:20 
+
+18:8 20:23 28:7 
+36:9 50:14,16 
+58:4 
+
+old 22:5 39:2,2 
+operates 37:19 
+operating 40:18 
+opinion 35:10,11 
+
+59:1,21 62:1 
+oppose 28:15 
+opposed 33:22 
+oral 1:11 2:2,5,8 
+3:6 29:5 50:19 
+
+order 12:16 23:25 
+
+43:13 62:22 
+
+P 
+
+P 3:1 
+p.m 65:8 
+page 2:2 46:24 
+
+49:14 
+
+part 34:17,20,21 
+
+51:5 59:24 
+
+27:16,17 42:6 
+44:3,18 49:18 
+52:1 56:15 60:6 
+60:13 62:24 
+
+particularize 34:6 
+
+54:11 
+
+particularized 
+
+34:10,20,21 35:2 
+45:8 46:5 51:3,14 
+51:15,22,25 52:10 
+55:13 59:20 
+parties 38:14 
+party 38:13 
+
+personal 29:16,23 
+
+29:24 30:17 
+
+personally 11:18 
+
+11:20 
+
+30:21 38:16 54:19  probably 55:23 
+problem 6:11,12 
+56:16,20 59:18 
+19:17,18 28:17 
+60:1,3 
+47:3 63:22 
+
+particular 6:1 27:4  Petitioner 1:4,16 
+2:4,14 3:7 61:14 
+
+pointed 56:18 
+pointing 53:22 
+population 34:17 
+
+phone 31:13,15 
+
+45:17 
+
+32:10,11 
+
+portions 11:10 
+photograph 57:23 
+portrayed 10:24 
+phrase 33:17 34:10  position 4:8 27:6 
+piece 39:8 
+Pincus 1:15 2:3,13 
+
+27:11 37:8,11 
+44:8 53:21 63:22 
+
+positive 50:6 
+
+3:5,6,8,23 4:19 
+5:2,9,20,24 6:4,13  possibility 55:11 
+6:25 7:14 8:3,9 
+9:3,7,14,22 10:25 
+11:7,24 12:17,23 
+12:24 13:10 14:4  posture 15:9 
+
+possibly 64:10 
+
+42:17 43:8 
+
+possible 12:12 25:3 
+
+problems 6:22 12:2  publication 32:22 
+14:15 22:19 52:15  publish 32:18 45:5 
+
+procedural 22:8,10  published 10:14 
+32:20 45:4 46:2 
+
+22:12,16 
+
+procedure 36:4 
+
+publishes 31:12,15 
+
+57:5,6,7,8 
+
+procedures 16:4,6 
+
+19:13 21:6,11 
+22:7 24:5 36:1 
+42:5,17,18 43:8 
+43:18 48:4,10 
+57:17,19,19 
+proceed 27:8 
+process 58:20 
+
+32:3 
+
+publishing 44:11 
+pulled 38:23 
+punish 22:5 
+purpose 16:5 
+purposes 16:9 
+
+19:15 58:9 61:8 
+
+put 8:20 35:3 36:11 
+
+60:14 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+puts 64:25 
+
+56:4 
+
+28:14 29:12 40:18  restitution 64:13 
+
+Q 
+
+qualify 11:3 18:1 
+
+18:20 
+
+reason 13:3,4,5,6 
+
+14:8 25:16 
+
+reasonable 10:15 
+16:3,6 42:5,16 
+43:8 48:4,9 
+
+29:10 
+
+REBUTTAL 2:12 
+
+reasoning 62:7 
+reasons 4:20 5:23 
+
+quantifying 25:12 
+question 5:21 7:1 
+7:15,16 8:9 9:13 
+10:6 11:13,25 
+14:5 15:11,23 
+17:1,13,17 18:11 
+18:12,18,24 20:14  receive 32:11 
+20:20 34:3,7 
+received 55:15 
+43:16 44:3 46:8 
+receiving 32:10 
+46:10 49:12 59:2 
+recognized 4:1 6:10 
+59:9,13 61:16 
+62:9 64:3,22 
+
+35:8 56:9 
+
+61:13 
+
+questions 13:17 
+18:12,22 25:6 
+49:4 
+
+record 37:23 
+recover 32:8 
+recovery 25:15 
+
+63:10 
+
+qui 49:19 
+quick 47:21 
+quintessential 13:7  refers 62:3 
+
+redress 28:14 
+refer 58:10 63:14 
+
+64:15,18 
+
+resume 38:25 
+return 56:20 
+review 56:2 64:2 
+right 4:17 6:18 
+7:19,20,22,25 
+8:19,19,19,21,21 
+9:18 10:2,3 17:11 
+17:12 26:17 28:14 
+30:12 31:6 38:9 
+40:25 42:2 45:7 
+45:16 46:4,13,15 
+46:23 48:20 49:16 
+56:24 57:6,12,16 
+57:21,21 59:12 
+60:19,20 63:5,13 
+65:3 
+
+rights 8:5,5,17,25 
+
+9:4 17:9 29:11 
+45:13 47:6 57:2 
+58:18 59:19 
+
+ROBERTS 3:3 
+
+reports 10:14 11:17 
+12:25 13:2 19:14 
+22:18 51:10 61:7 
+represented 22:17 
+
+24:12 
+
+require 9:1 25:17 
+required 25:18 
+
+55:13 
+
+requirement 17:15 
+20:18,25 22:8,10 
+22:16 23:13 48:4 
+52:1 56:7 
+
+requirements 
+
+15:13,14,19 22:13 
+23:5 
+
+requires 23:24 
+
+25:10 29:16 44:4 
+
+res 47:10 
+reserve 29:2 
+resolution 56:13 
+resolved 49:5 
+resources 39:17 
+respect 4:22 11:22 
+16:11 23:14 37:2 
+41:25 43:9,10 
+44:18,24 57:17 
+58:19 60:23 
+
+respectfully 16:24 
+
+16:1 38:1 
+
+quite 6:18 17:25 
+
+29:22 59:10 
+quote 51:1,18 
+
+R 
+
+R 3:1 
+R.S 17:22 
+raise 52:25 53:1 
+rational­basis 56:2 
+rationale 10:3 
+
+58:23 
+
+reach 43:16 44:2 
+read 43:23 48:3 
+
+62:22 
+
+real 6:22 13:23 
+
+15:21 28:9 
+
+real­world 6:23 
+
+11:23 12:1 14:15 
+14:18 
+
+really 12:22 20:6 
+
+30:9 33:12,13,18 
+38:19 47:22 48:23 
+
+17:16 24:23 27:2 
+29:3 31:10,22,25 
+32:6,13,16,25 
+33:8 34:2 37:16 
+39:6,12,24 44:6 
+44:22 45:3,9,14 
+45:18,20,25 49:11 
+50:17 52:6,21,24 
+53:8 54:3,7 56:6 
+58:15 61:10 65:6 
+1:22 2:7,11 24:3  Robins 1:6 3:4 29:9 
+26:20 29:6 50:21 
+
+37:20 51:9 
+
+17:18 
+
+regulate 44:13 
+regulated 13:25 
+regulations 26:1 
+regulatory 15:12 
+
+15:14 21:21 23:4 
+23:9 48:5 
+
+related 58:20 
+relates 3:20 
+relation 37:13,17 
+relied 59:12 61:24  Respondent 1:18 
+
+respond 11:2 20:19 
+
+25:5 
+
+62:4 
+
+37:11 
+
+Respondent's 
+
+relief 29:15 64:16 
+rely 59:11 62:18 
+remaining 61:12 
+remedy 21:21 57:3  Respondents 26:23 
+remember 49:22 
+replicated 50:13,15 
+report 4:16 5:6 
+
+response 4:21 
+16:16 38:13,23 
+responses 20:4 
+39:16 41:20 63:10  responsibilities 
+
+responding 18:11 
+
+36:21 
+
+reported 21:10 
+reporting 4:10 15:2  restatement 7:7 
+
+40:19 
+
+15:13 19:18 21:6 
+
+10:10,11 
+
+role 35:12 
+rule 5:13 11:2 
+25:22 62:10 
+
+ruled 15:3 
+rules 23:6 
+ruling 11:2 62:6,7 
+run 39:17 
+
+S 
+
+S 1:17 2:1,6 3:1 
+
+29:5 
+
+Page 73 
+
+safe 22:2,6 
+satisfied 20:18,25 
+
+27:14 
+
+satisfy 20:16 62:12 
+
+64:5 
+
+save 43:13 
+Savings 9:25 
+saying 4:21 5:16 
+
+7:24 16:3,16 
+17:25 20:21 24:22 
+24:24 25:12 27:20 
+33:11 39:12,17,25 
+40:22 41:16 48:12 
+48:14,22 56:14 
+63:8 
+
+says 4:10,15 5:8 
+7:12,12 10:13 
+16:8 19:18 22:9 
+23:7,9 24:16 
+31:11 34:18 35:6 
+38:24 39:1 40:5 
+40:24 41:19,21,23 
+42:16 44:10 45:20 
+49:14 52:9 53:9 
+54:24 57:12 58:17 
+59:2,18 62:20 
+64:14 
+
+Scalia 21:1,17 
+
+22:21,24 26:8,11 
+26:16,19 27:16,19 
+30:11,15 34:19 
+35:1 40:7,10,13 
+40:20 41:15 42:2 
+42:8,10,13,18,24 
+43:7,17,23,25 
+49:23 50:9,14,16 
+51:13,16,20 54:25 
+55:19 57:4,10 
+
+Schlesinger 34:18 
+
+52:5 
+
+scholars 64:13 
+se 13:14 61:5 
+search 37:20 38:5,6 
+
+38:8,10 
+
+searched 38:18 
+seat 41:2,5 
+
+Alderson Reporting Company
+ 
+
+second 10:11 18:18 
+
+50:13 55:16 
+
+section 16:5 19:15 
+see 24:16 30:8 
+
+29:14 33:24 42:3  Sotomayor 7:23 
+8:4,24 9:4,24 
+15:20,22,25 17:1 
+17:15 23:12,19 
+46:7 62:6,25 63:3 
+64:8 
+
+33:16 50:14 63:3 
+
+seen 33:15 
+seldom 10:14 
+self 16:21 
+selling 38:24 39:4 
+sells 39:14 
+sense 3:20 16:21 
+25:16 60:24,25 
+sentence 59:1,16 
+
+61:25 
+
+series 61:21 
+serious 19:17 
+service 39:15 
+set 22:7 
+share 38:18 
+show 12:16,18 
+
+28:20 31:24 34:14 
+50:5 55:14 63:18 
+64:14 
+
+showing 27:9 
+shows 29:15 
+side 61:21 63:23 
+significant 6:11 
+similar 10:17 36:18 
+simpler 4:6 
+simply 27:6 43:24 
+
+52:17 57:16 58:10 
+single 16:13 26:4,5 
+
+62:17 
+sit 28:8 
+situation 13:12 
+slightly 63:4 
+Solicitor 1:19 
+somebody 6:6 9:19 
+
+22:24 38:5,7 
+40:14 41:4 50:1 
+55:2 
+
+someplace 38:3 
+sorry 5:19 7:23 
+
+16:25 31:22 32:14 
+32:15 40:9 58:24 
+
+sort 14:17 18:10 
+
+Sotomayor's 17:17 
+sound 35:15 
+sounds 29:22 
+speak 25:17 64:1 
+Spear 60:15 
+Species 60:6,16 
+specific 7:17 36:8 
+
+41:25 48:6,9 
+
+speculative 16:19 
+28:4 33:20 38:1 
+
+Spokeo 1:3 3:4 
+
+37:19 38:17,23 
+39:7 41:20 44:15 
+51:9 
+
+stage 15:1 38:15 
+stake 29:16,23,25 
+standard 18:2,15 
+
+27:13 28:4 
+
+standing 3:11 8:10 
+8:13 16:11 20:16 
+24:9 27:3,4 29:9 
+32:1,19 36:19 
+38:9 43:22 45:10 
+45:10,11,13,21 
+46:20 49:9 57:7 
+58:17 60:11,17 
+62:3 
+
+start 5:20 
+starting 41:23 
+state 42:25 43:1,2 
+
+52:9 54:20,22 
+statement 5:13 
+
+6:15 11:1,3 13:13 
+18:13,13 23:8,24 
+57:23 
+
+statements 12:7 
+23:23 62:15,24 
+states 1:1,12,21 
+
+2:10 34:5 35:18 
+
+Official 
+
+Page 74 
+
+38:4 50:20 55:20 
+
+stature 16:20 
+status 3:15 10:22 
+statute 4:5,6,9 6:12 
+
+stupid 56:4,5 
+suable 21:13 
+subclass 34:15 
+subjecter 23:14 
+
+survey 6:8 
+sweeps 61:2 
+system 61:18 
+systemic 11:19 
+
+T 
+
+44:7 47:15 
+
+45:16 56:2 
+
+taken 17:2,7 19:4 
+
+T 2:1,1 
+take 20:14 24:7 
+
+8:6,8 11:15 12:3,6  submitted 65:7,9 
+12:12 14:9,11,15 
+substantive 45:13 
+15:23 16:2,5 
+19:15 21:14 23:10  sue 4:16 8:7,19 
+21:9,10 22:22 
+24:13,18,25 26:1 
+23:7 26:21,24 
+27:4 30:4 40:24 
+41:6,6,18,21,22 
+27:24 34:5 35:19 
+takes 7:15 
+40:25 41:3,7,8,9 
+41:23,24 43:14 
+41:11,18,19,20,25  talk 24:4 
+44:10,17,23 45:1 
+43:10 44:20 45:21  talking 13:19 53:8 
+45:18,22 46:14 
+48:3 49:17,18,19 
+53:11 55:22 57:16 
+49:20 53:18 54:23 
+57:18 60:5,10,11 
+54:25 55:16,17 
+56:18 60:4 61:1 
+62:20,22 63:7,11 
+63:11,20,25 65:4 
+
+sues 41:5 
+suffer 64:11 
+suffered 3:12 9:19 
+
+tam 49:19 
+tangible 3:12,21 
+5:12 8:11,12,22 
+10:8 18:2,14 
+20:18,25 25:10,13 
+25:18 28:3 64:5 
+
+24:10,13 32:12 
+
+59:17 
+
+26:2 
+
+suffers 37:5 
+suffice 57:6 
+sufficient 5:7 18:20 
+
+statutes 56:3,15 
+statutory 3:19 12:5 
+23:4 25:24 26:22 
+26:25 28:20 29:11 
+31:11,19 32:8 
+44:19 48:15,22 
+49:15 58:18 59:12  sufficiently­conc... 
+59:19 62:4,10 
+
+sufficiently 59:20 
+
+59:22,24 64:4 
+
+20:16 62:11 
+
+58:12 
+
+Steel 50:11 
+stepped 40:5,17 
+Stevens 49:8,17 
+Stewart 1:19 2:9 
+
+suggests 28:9 
+suing 47:22 
+suit 21:4 25:1 53:6 
+suits 55:12 
+
+50:18,19,22 51:15  superimpose 17:8 
+51:19,21 52:6,14 
+53:3,14 54:6,18 
+55:10,23 56:16 
+57:9,14 58:7,13 
+58:24 59:15 60:1 
+
+supportive 48:19 
+suppose 4:5,9 
+
+support 48:11 
+supporting 1:21 
+
+2:11 50:21 
+
+stop 52:8 53:11 
+strange 7:13 39:19 
+street 6:8 
+stretch 53:15 
+strict 42:23 43:5 
+strikes 43:3 
+strong 58:3 
+structure 12:3 
+
+13:16,16 40:24 
+41:4 58:21 
+
+supposed 15:15 
+Supreme 1:1,12 
+sure 5:15 13:10 
+
+19:7,13 46:18,23 
+
+surely 13:9 
+surprise 63:16 
+
+targeted 63:12 
+taxpayer 17:5 
+technical 57:25 
+telephone 32:4 
+
+46:12 
+
+tell 4:7 16:13 38:25 
+
+59:22 
+
+telling 39:20 
+tells 9:19 11:4 
+tendency 53:7 
+Tennessee 31:5 
+term 33:14 47:1 
+terms 51:24 52:4 
+test 8:12 9:9 20:7 
+
+31:9 59:25 
+
+Thank 3:8 29:3 
+
+50:17 58:14 61:9 
+61:10,15 65:6 
+
+theory 28:18 
+thing 11:6,7 12:23 
+30:7 47:21 56:1 
+60:22 
+
+things 18:19 20:15 
+30:20 33:19 34:13 
+34:22 41:22 46:15 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 75 
+
+tradition 6:14,19 
+
+55:9 
+
+6:21 50:12 
+
+unlisted 31:13 
+
+Warth 17:21 
+Washington 1:8,15  worry 22:7 60:11 
+
+worried 16:19 
+
+transposition 46:11  upheld 65:5 
+treat 53:16 
+urge 61:19 
+use 21:11 43:12 
+treated 54:20 
+user 48:8 
+treatment 14:7 
+treats 55:1 
+uses 33:17 34:10 
+trick 47:8 
+trigger 18:20 
+true 15:7 25:21 
+
+V 
+
+48:1,7 
+
+think 3:22 5:10 6:7 
+7:14,15,16,21 8:3 
+9:7,25 10:6,10 
+11:17,24 12:2,15 
+12:17 13:11 14:4 
+14:7,10,21 15:10 
+15:11,16,24 17:12 
+17:18,21 18:12,22 
+18:25 19:24 20:8 
+20:14,24 25:2,3,5 
+25:6,8,16,25 26:4 
+26:23,25 28:17 
+32:17 33:3,14,21 
+34:4,9,11,19 
+35:23 36:12 39:24 
+40:21 41:12 44:12 
+44:25 45:7,23 
+46:22 48:2 51:7 
+52:14,21 53:3,14 
+53:15,21 54:18 
+55:23 60:20 62:8 
+62:13,18,25 63:4 
+63:22 64:3,7 
+
+thinks 36:11 52:7 
+
+53:12 
+
+third 29:17 38:13 
+
+38:14 
+
+THOMAS 1:6 
+thought 6:11 21:2 
+
+26:2,6 33:9 39:6,7 
+42:22 54:13,15 
+
+three 4:19,23 29:10 
+
+61:11 
+
+threshold 5:10 
+
+11:25 14:5 
+
+time 29:2 
+times 6:20 48:22 
+today 3:4 
+toe 64:25 
+toilet 41:2,5 
+told 19:14 
+toll­free 48:9 
+top 25:24 58:4 
+torts 7:6 10:11 
+totally 24:7 
+
+38:15 39:21 41:12 
+43:17,24 59:8 
+
+truth 38:24 
+trying 11:2 17:7 
+
+56:17 
+
+turning 10:5 
+two 7:1 12:2 16:8 
+17:9,9 18:12,22 
+29:22 33:18 34:11 
+34:13 
+
+types 60:6 61:2,4 
+typically 53:4 
+Tyson 47:1 
+
+U 
+
+Uh­huh 47:24 
+unaccompanied 
+
+62:11 
+
+underlying 13:17 
+understand 4:8 
+30:1 34:3 44:7 
+46:18 47:25 49:13 
+53:20 55:25 
+
+understanding 
+
+38:2 
+
+understood 59:24 
+undifferentiated 
+
+30:19 
+
+unemployed 52:10 
+53:10 54:19 55:21 
+unimportant 10:17 
+
+10:20 
+
+United 1:1,12,21 
+2:10 34:5 38:4 
+50:20 
+
+unlawful 54:21 
+
+1:20 
+
+worth 53:22 
+
+wasn't 20:25 27:14  wouldn't 11:3 
+
+49:18 
+
+way 5:16,21 12:12 
+
+20:17 38:7 43:17 
+51:11 61:4 
+
+25:25 30:9 32:21  wrong 9:6 10:16,21 
+10:22,23,23 22:25 
+35:3 39:5 43:24 
+31:15 36:13 38:3 
+44:12 48:3 52:4 
+59:10 
+52:1 57:23 58:23 
+
+ways 6:23 7:1 8:10 
+We'll 3:3 
+we're 19:8,12 22:4 
+22:5 25:14 36:9 
+39:20 46:23,24 
+47:11,12 48:23 
+53:8,18 54:9,23 
+54:25 55:17 58:21 
+62:16 
+
+we've 6:20 17:2,7 
+17:10 19:24 20:1 
+53:5 57:4 
+wealth 58:3 
+website 38:17 
+went 6:7 38:25,25 
+White 7:25 
+wide 8:15 
+Wildlife 50:24 60:4 
+
+60:13 
+
+willful 12:6 23:9 
+
+25:14 
+
+willfully 4:12 23:13 
+willfulness 12:4,9 
+14:8 23:8 25:23 
+63:15,20 
+
+WILLIAM 1:17 
+
+2:6 29:5 
+
+word 17:2,8 33:21 
+
+62:2 
+
+wording 58:25 
+words 34:11 37:1 
+
+43:7,12 51:7 
+
+work 31:20,24 32:7 
+
+51:7 
+
+world 6:22,22 
+
+20:10,10 23:16 
+
+x 1:2,7 
+
+X 
+
+Y 
+
+year 44:12,14,16 
+
+45:6 
+
+years 17:3 39:2,2 
+
+Z 
+zone 63:7 
+
+0 
+
+1 
+
+10 44:12,14 45:6,20 
+
+58:4 
+
+10,000 31:11 44:19 
+
+48:24 
+
+100 48:24 
+1000 48:24 
+11:06 1:13 3:2 
+12:07 65:8 
+13­1339 1:4 3:4 
+1681(e) 24:4 
+1681(e)(B) 47:23 
+1790 53:23 56:18 
+
+2 
+
+2 1:9 
+20 44:15 45:21 
+2015 1:9 
+23(b)(3) 47:17 
+29 2:7 
+
+3 
+3 2:4 47:16 
+
+v 1:5 3:4 7:25 60:15 
+Va 1:17 
+vacuo 22:13 57:8 
+valid 40:2 
+variety 8:15 
+verify 39:8 
+versus 7:9 
+victims 36:25 53:17 
+view 30:2 35:15 
+
+36:17 
+
+violated 30:6 44:18 
+
+44:24 64:22 
+violates 41:24 
+violation 3:19 12:6 
+15:18 16:2 21:21 
+23:9 25:14 26:5 
+26:17 27:17 28:20 
+29:11,15 31:2 
+46:9 56:24 57:2,5 
+57:11 62:11 
+
+violations 25:24 
+
+58:18 60:6 62:4,5 
+
+virtue 58:17 
+vitamin 54:20 
+
+W 
+
+waiving 48:1 
+want 4:8 7:1,2 9:24 
+
+18:5,10 19:23 
+31:13,14 32:3 
+35:19 36:10 39:17 
+40:20 44:6 46:23 
+63:23 
+
+wanted 11:14 16:6 
+
+63:1 
+
+wants 64:1 
+warranties 39:9 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 76 
+
+30 39:1
+ 
+
+4
+ 
+
+5
+ 
+5,000 38:22 
+50 2:11 
+50s 57:24 
+55 39:2 
+
+6
+ 
+
+61 2:14 
+652E 10:11 
+
+7
+ 
+
+8
+ 
+
+800 26:14,22 27:20 
+
+43:20 
+
+9
+ 
+
+900 41:2
+ 
+9A 49:14
+ 
+
+Alderson Reporting Company
+ 
+
+

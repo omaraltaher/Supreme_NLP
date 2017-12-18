@@ -1,0 +1,7529 @@
+Official
+
+1
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+       IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+CURT MESSERSCHMIDT, ET AL.,       :
+            Petitioners           :  No. 10-704
+       v.                         :
+BRENDA MILLENDER, AS EXECUTOR OF  :
+THE ESTATE OF AUGUSTA MILLENDER,  :
+DECEASED, ET AL.                  :
+- - - - - - - - - - - - - - - - - x
+                       Washington, D.C.
+                       Monday, December 5, 2011
+
+              The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 11:08 a.m.
+APPEARANCES:
+TIMOTHY T. COATES, ESQ., Los Angeles, California; for
+   Petitioners.
+SRI SRINIVASAN, ESQ., Principal Deputy Solicitor
+   General, Department of Justice, Washington, D.C.; for
+   United States, as amicus curiae, in support of
+   Petitioners.
+PAUL R.Q. WOLFSON, ESQ., Washington, D.C.; for
+   Respondents.
+
+Alderson Reporting Company
+
+Official
+
+2
+
+                     C O N T E N T S
+ORAL ARGUMENT OF                                  PAGE
+TIMOTHY T. COATES, ESQ.
+   On behalf of the Petitioners                     3
+ORAL ARGUMENT OF
+SRI SRINIVASAN, ESQ.
+   On behalf of the United States,                  20
+   as amicus curiae, in support of the
+   Petitioners
+ORAL ARGUMENT OF
+PAUL R.Q. WOLFSON, ESQ.
+   On behalf of the Respondents                     31
+REBUTTAL ARGUMENT OF
+TIMOTHY T. COATES, ESQ.
+   On behalf of the Petitioners                     61
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company
+
+Official
+
+3
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+                  P R O C E E D I N G S
+                                            (11:08 a.m.)
+            CHIEF JUSTICE ROBERTS:  We'll hear argument
+next in Case 10-704, Messerschmidt v. Millender.
+            Mr. Coates.
+           ORAL ARGUMENT OF TIMOTHY T. COATES
+              ON BEHALF OF THE PETITIONERS
+            MR. COATES:  Mr. Chief Justice, and may it
+please the Court:
+            In Malley v. Briggs and United
+States v. Leon, this Court set forth a very high
+standard for denying qualified immunity in the civil
+context or suppressing evidence in the criminal context
+under circumstances where a police officer has procured
+a warrant that is subsequently determined to be invalid.
+            Specifically, the Court held that the
+initial magistrate's determination is -- is entitled to
+great deference, and that you'll go behind that only in
+cases where the officer falsified information or omitted
+exculpatory information, where the affidavit was
+bare-bones, or there was some indication that the
+judicial officer did not perform the function, and then
+a catch-all provision, where the warrant was so lacking
+in indicia of probable cause that no reasonable officer
+
+Alderson Reporting Company
+
+Official
+
+4
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+could even submit it for a magistrate's determination.
+And specifically in Malley, the Court said it had to be
+the actions of an officer that was plainly incompetent
+or knowingly violating the law.
+            This case arises from a Ninth Circuit
+decision that we submit does not apply the Court's
+standards, under circumstances where the officer
+submitted, far from a bare-bones affidavit, but a highly
+detailed, factual affidavit that we submit provided
+probable cause for the search or at least, under the
+Court's qualified immunity jurisprudence, a reasonable
+officer could believe that the warrant had probable
+cause.
+            CHIEF JUSTICE ROBERTS:  There -- I suppose
+one new feature of the case is the fact that these
+officers submitted the affidavit to their superiors, who
+were -- were attorneys.
+            MR. COATES:  Correct.  There --
+            CHIEF JUSTICE ROBERTS:  Have we -- have we
+addressed that in a prior case?
+            MR. COATES:  I don't know that the Court --
+the Court has -- in, I believe, the exclusion context I
+think I have seen it.  I can't recall the case, but I
+believe it has, and the circuit courts certainly have
+talked about that as an indicia of good faith, the
+
+Alderson Reporting Company
+
+Official
+
+5
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+officer being willing to submit his work to someone else
+to review it.  So --
+            JUSTICE SCALIA:  But it isn't good faith
+here; that's the problem, that we don't have a good
+faith test.  We -- we have a test that goes beyond good
+faith.  Even if the officer is in good faith, according
+to the test we've set forth, if he's so stupid that --
+that he -- he executes a warrant that no reasonable
+officer could think was correct, he's -- he's in the
+pot, right?
+            MR. COATES:  Well, that -- that's the test
+that the Court has set out.  But it's a high test,
+plainly incompetent or knowingly violating the law.  And
+I think what these are additional factual circumstances
+that show at least the officer is trying to be careful,
+that this isn't something that's been -- been tossed
+off.
+            JUSTICE SOTOMAYOR:  Counsel, I thought in
+the Leon case that, in fact, just like the claim in this
+case, that the affidavit was submitted to supervisors,
+and the Court created the Leon test in spite of that.
+So, to say do we have a case on point, Leon itself is on
+point.  We created the test in the face of supervisors'
+review.  You're not actually, are you, arguing a
+Nuremberg defense now?
+
+Alderson Reporting Company
+
+Official
+
+6
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. COATES:  No.  I'm just saying that --
+            JUSTICE SOTOMAYOR:  That -- that simply
+because supervisors decide, that it's okay, that that --
+            MR. COATES:  No.
+            JUSTICE SOTOMAYOR:  -- exculpates someone
+from responsibility?
+            MR. COATES:  Certainly not.  And as I say,
+this comes up in the qualified immunity context
+repeatedly among the circuit courts.  They've recognized
+it as a -- as a factor.  But it's not dispositive, not
+by any mean.  I agree with -- I agree with that, Your
+Honor.
+            JUSTICE SOTOMAYOR:  All right.  Then let's
+go to the other two ways that I think you're asking us
+to overrule our precedent.  The first is the using
+subjective information that a police officer knows but
+hasn't disclosed in the warrant.  I'm having a little
+bit of difficulty understanding how an entire warrant
+regime that presumes that the magistrate has all
+pertinent information -- and that's why you would be let
+off the hook -- how you can excuse a police officer when
+he doesn't place that information in front of the
+magistrate.
+            MR. COATES:  The way that has generally come
+up has not been in the validity of the warrant for
+
+Alderson Reporting Company
+
+Official
+
+7
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+purposes of the Fourth Amendment, but in terms of
+qualified immunity for the officer or exclusion of the
+evidence under -- or not -- or nonsuppression, rather,
+under the good faith exception.  And it's whether the
+officer, in light of the totality of the circumstances,
+might not have recognized that the warrant was deficient
+if the warrant otherwise isn't -- isn't bare-bones.
+            And I think we -- Leon itself in footnote 23
+incorporates the Harlow standard of totality of
+circumstances.
+            JUSTICE SOTOMAYOR:  Tell me how, this case,
+the bare-bone affidavit was sufficient?  All it says is
+that this defendant is a member of a gang, but when the
+police officer is questioned, he's asked whether this
+crime at issue had any connection to his gang
+relationship, and the answer was no.  So, how is the
+request in the warrant to search for all gang-related
+indicia anything more than the general warrant that our
+Founding Fathers in part passed the Fourth Amendment
+against?
+            MR. COATES:  Oh, I mean, this is not per se
+a gang crime --
+            JUSTICE SOTOMAYOR:  This is almost like --
+            MR. COATES:  Without -- without a doubt,
+it's not a -- what we consider a gangland crime, one
+
+Alderson Reporting Company
+
+Official
+
+8
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+gang member against the other.  It's a domestic assault
+by a gang member on his girlfriend with a sawed-off
+shotgun in public, right after police officers that were
+there to protect her had left.  So, it's not
+gang-related in that sense.  But I don't think that the
+gang membership is irrelevant to the investigation in
+this case.  You know, as we note, and I think it's
+fairly recognized, gang members have means to procure
+and use weapons beyond that of ordinary people.
+            JUSTICE GINSBURG:  So, if you have a gang
+member and the crime has absolutely nothing to do with
+gang membership -- that I think is the case here; it's a
+domestic assault -- as long as you're a gang member,
+then every warrant can say search for all gang-related
+information?  That's essentially your position, isn't
+it?
+            MR. COATES:  No, it isn't, because it's
+always a fact-specific inquiry.  The Court's made that
+clear in Illinois v. Gates and for qualified immunity in
+Anderson v. Creighton.  We're --
+            JUSTICE GINSBURG:  But you -- you said this
+is domestic assault.  There is no gang activity involved
+in that assault, right?
+            MR. COATES:  Well, the gentleman is using a
+sawed-off shotgun, which is a weapon associated with --
+
+Alderson Reporting Company
+
+Official
+
+9
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+with gangs.  I don't think it's a stretch for an officer
+to think that there might be some connection to the
+manner in which he procured that weapon, might hide that
+weapon --
+            JUSTICE GINSBURG:  So, anyone who has a
+weapon and is a member of a gang then can be -- there
+can be a search for any and all weapons and material
+related to weapons?
+            MR. COATES:  Well, it depends on the
+circumstances of the crime that you are investigating.
+Here we have an assault, we have a domestic assault with
+indications that the gentleman intends to continue it.
+And, indeed, that's why the warrant is for all weapons,
+because it would make little sense to say you can go and
+you can find a sawed-off shotgun --
+            JUSTICE GINSBURG:  I'm -- I'm on to the part
+about all gang-related activity, when the crime has
+nothing to do with the -- with the gang.  Let's -- let's
+stick to that.  Then guns is another issue.  But this
+said warrant to search for any and all gang-related
+items?
+            MR. COATES:  Correct, Your Honor.  But the
+point is that's to be used to possibly tie Mr. Bowen to
+any weapon that was found.  It's identification
+information.  If they found, for example, the sawed-off
+
+Alderson Reporting Company
+
+Official
+
+10
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+shotgun there and his gang colors with his gang moniker,
+that would certainly help to tie him to that shotgun.
+            JUSTICE GINSBURG:  But they didn't need to
+tie him to the shotgun.  They had photographs of him
+with the shotgun.
+            MR. COATES:  They have some evidence, but
+you don't have to stop just because you have some
+evidence.  I mean, you're entitled to build your case as
+strong as you --
+            JUSTICE GINSBURG:  What -- what do you need
+more than here he is with his gun?  The defendant
+himself and his gun?  I mean, what --
+            MR. COATES:  Well, if you found the actual
+shotgun there wrapped in his -- in his gang -- gang
+colors with his gang moniker, I mean, it would make an
+even stronger case.  And I also note, say you find a
+.45-caliber pistol wrapped in his gang colors with his
+gang monikers.  I don't --
+            JUSTICE SOTOMAYOR:  What do we do with the
+officer's testimony when he said -- "Did you have any
+reason to believe there were any more weapons in the
+house?"  He said, "No."  What -- when an officer says
+that, why would then he think that he has complete
+license to go and ask for a warrant that's looking for
+more guns, when there's only evidence of him possessing
+
+Alderson Reporting Company
+
+Official
+
+11
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+one?
+            MR. COATES:  Because, again, the nature of
+gang membership is that gangs --
+            JUSTICE SOTOMAYOR:  So, you're answering --
+you're answering Justice Ginsburg by saying that any
+time a gang member commits any crime, the police are
+entitled to seek a warrant that permits the search for
+anything they have in their home that relates to their
+gang membership and to -- to guns?
+            MR. COATES:  No, because I think it depends.
+Here we have a crime that definitely involves a gun,
+involves an illegal gun --
+            JUSTICE SOTOMAYOR:  That did not involve --
+by the officer's admission and your own, that wasn't
+gang-related.
+            MR. COATES:  The assault, correct.
+            JUSTICE SOTOMAYOR:  The assault --
+            MR. COATES:  But the manner in which he
+procures the weapon, might dispose of the weapon, and
+nature of the weapon itself --
+            JUSTICE SOTOMAYOR:  But wait a minute.  That
+has nothing to do with the gang, unless you're saying
+that you had proof that the gang did something illegally
+in helping him procure the weapon.  What information did
+you have to suggest that?
+
+Alderson Reporting Company
+
+Official
+
+12
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. COATES:  Again, the nature of a
+sawed-off shotgun; it's an illegal weapon in and of
+itself.
+            JUSTICE SOTOMAYOR:  Counsel --
+            CHIEF JUSTICE ROBERTS:  Whose house -- whose
+house was this?
+            MR. COATES:  Augusta Millender's house, Ms.
+Millender's home.
+            CHIEF JUSTICE ROBERTS:  So, it was not the
+defendant's house?
+            MR. COATES:  Correct.  No, he was a foster
+son who had come back to stay.
+            JUSTICE BREYER:  To what --
+            JUSTICE KAGAN:  Mr. Coates -- I'm sorry.
+            JUSTICE BREYER:  To what extent are we
+supposed to take things that aren't in the affidavit or
+the warrant itself as relevant?  I mean, the one thing
+that bothers me as I read the affidavit, it doesn't say
+someone else is living in the house.  At least I didn't
+see that.
+            And then the statement that Justice
+Sotomayor said, well, that's later on in a deposition.
+So -- so, if I were the magistrate sitting there and I
+read the -- the affidavit, I might think I did have
+cause, at least it's close maybe, but -- to allow them
+
+Alderson Reporting Company
+
+Official
+
+13
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+to search for all the guns in the house.  I might think
+they all belonged to him.  And, anyway, I might think he
+thought that this could be used to -- other guns could
+be used to go after her again.
+            But when I read he says, oh, I had no cause
+at all for thinking that -- why isn't that the end of
+it, if we're supposed to take that into account?
+            MR. COATES:  Well, I mean, again, I think,
+as he sets forth his experience as a gang officer and
+the manner in which gangs dispose of, procure weapons --
+            JUSTICE BREYER:  But he didn't say much
+about the gang.
+            MR. COATES:  No.
+            JUSTICE BREYER:  I'm asking you a specific
+question.  I mean, if I were supposed to take into
+account his statement, I had no reason -- to paraphrase
+it a little -- for thinking that any of these guns,
+other guns, were going to be used for any purpose that's
+illegal -- if he'd said that afterwards, if I take that
+into account, I say, why isn't that the end of the case?
+He had no cause to ask for the other guns, period.  Now,
+that was --
+            MR. COATES:  Well --
+            JUSTICE BREYER:  -- the question, I think
+roughly, that you were being asked, and I would like to
+
+Alderson Reporting Company
+
+Official
+
+14
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+hear the answer.  I thought the answer would be:  I
+don't have the right to take it into account.  Now, do I
+or don't I?
+            MR. COATES:  Well, I mean, it's an -- it's
+an objective standard.  It's what a reasonable officer
+would do with the facts before him.
+            JUSTICE BREYER:  Wait.  Before him?
+            MR. COATES:  Yes.
+            JUSTICE BREYER:  Or before the -- is -- do I
+look at the affidavits and the warrant, or do I also
+look at things that are in neither of those documents
+but were in the officer's head?
+            MR. COATES:  For purposes of determining the
+Fourth Amendment validity of the warrant, the Court has
+said you -- you look at the warrant.  Under the
+qualified immunity test and in the criminal suppression
+context of good faith, you can go outside that and look
+at the totality of what the officer knew and, if in
+light of what he knew, whether he could have believed it
+was so.
+            JUSTICE BREYER:  All right.  So, if I look
+at whether he was in good faith, if he has any training
+at all, I would guess that if he thought that there is
+no -- I don't remember the exact words -- no reason, no
+reason to believe there would be any weapons in the
+
+Alderson Reporting Company
+
+Official
+
+15
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+house, no reason to believe there would be any handguns
+in the house, and then I say, I want a warrant to search
+for handguns in the house, it looks like you're asking
+for a warrant to search for that for which you have no
+reason to believe it's there.  Now, that I would have
+thought was not good faith.  That was contrary to the
+Fourth Amendment.  Why isn't it?
+            MR. COATES:  Because you -- you still have,
+under 1524(a)(3) of the California Penal Code, the --
+the ability to search for items that might be used with
+the intent to commit another crime.  And I think if this
+was --
+            JUSTICE BREYER:  Even though you can search
+a person's house -- why don't I search the person's
+house for an atomic bomb?  And I say:  Why are you doing
+that?  He says:  I have no reason to believe it's there.
+But that is a constitutional search?
+            MR. COATES:  Well, again, I think -- going
+back here in terms of -- stepping back from good faith
+as opposed to probable cause, I don't think it's
+irrelevant that this guy is a gang member.  I don't
+think it's unusual to think that, while you might know
+specifically whether there's a handgun or not --
+            JUSTICE SCALIA:  Excuse me.  Why are you
+going back to good faith?  I mean, that's --
+
+Alderson Reporting Company
+
+Official
+
+16
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. COATES:  Well --
+            JUSTICE SCALIA:  -- that's what I think is
+the problem with this case.  If it's a good faith test,
+you come out with one result.  But the test we've
+expressed is not good faith.  This -- this police
+officer could have been in the best of faith, but if
+he's a very bad police officer, he's in the soup, right?
+            MR. COATES:  Yes.
+            JUSTICE SCALIA:  We don't have a good faith
+test for this purpose.
+            MR. COATES:  Sure.  But a -- but the
+standard is plainly incompetent or knowingly violating
+the law, and I think -- again, there's enough detail in
+there that I don't think it is illogical to say there's
+some connection between gang membership and the
+possibility or even the fair probability that there are
+other weapons in a residence.
+            CHIEF JUSTICE ROBERTS:  Of course --
+            JUSTICE SCALIA:  So, whenever -- I'm sorry.
+            CHIEF JUSTICE ROBERTS:  I was just going to
+say, of course you're making the case somewhat harder
+for yourself because the issue here is whether it was
+reasonable for him to say let me check and see what my
+superiors think about this and then, after that review,
+for him to say let's see what the magistrate thinks
+
+Alderson Reporting Company
+
+Official
+
+17
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+about this, right?
+            MR. COATES:  Correct.  It's a -- it's a
+further step back, because it's whether it's even
+reasonable for him to ask the magistrate for a
+determination --
+            JUSTICE BREYER:  What cause is there to
+think -- what cause is there to think that the gang guns
+will be used to commit a crime?
+            MR. COATES:  This is a gentleman who had
+just perpetrated an assault with a sawed-off shotgun.
+He didn't make -- specify, in terms of his threat, that
+he would confine any further attack to a sawed-off
+shotgun.  I just don't think it's a stretch of logic for
+an officer to believe that if he found a .45-caliber
+pistol there wrapped in gang colors that he should be
+able to seize it to prevent a future attack.
+            JUSTICE SCALIA:  But the -- the warrant
+didn't just authorize, you know, firearms wrapped in
+gang colors.  It allowed him to search for any evidence
+of gang membership, right?
+            MR. COATES:  Correct.
+            JUSTICE SCALIA:  But what possible purpose
+could that serve?
+            MR. COATES:  Again, because the evidence of
+gang -- indicia of gang membership could be used to tie
+
+Alderson Reporting Company
+
+Official
+
+18
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+him to things in the residence that you might find,
+absolutely.  I mean, it's an identifying characteristic
+of Mr. Bowen.
+            JUSTICE SCALIA:  If they were wrapped in it,
+yes.  But we know he's a gang member.
+            MR. COATES:  Sure.
+            JUSTICE SCALIA:  So, all that the finding of
+gang membership decals or whatever they wear -- all that
+would show is, indeed, this guy was a gang member.
+            MR. COATES:  And present  --
+            JUSTICE SCALIA:  And even then --
+            MR. COATES:  Well -- excuse me, Your Honor.
+And present in that particular premises, it might show
+ownership or control, might show access to the weapons.
+It's not irrelevant to that.
+            JUSTICE SCALIA:  But they -- they knew he
+was in that premise.  I mean, that -- I really don't
+understand how you can possibly search for indicia of
+gang membership.  When you know the man's a gang member,
+so what?
+            MR. COATES:  Well, again, Your Honor, it
+ties him closer -- it shows him there at their property.
+If we see a photograph --
+            JUSTICE SOTOMAYOR:  But tell me something.
+There's 10 people in this house.  There's 10 people in
+
+Alderson Reporting Company
+
+Official
+
+19
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+this house, and as I understand it from the questioning,
+they also knew other gang members were there.  So, even
+if they found gang colors, did they tell the -- the
+magistrate that -- what would that prove when there's
+multiple members in the house?
+            MR. COATES:  Well, you could find, again,
+gang -- indicia of gang membership as to him
+individually with his moniker.
+            JUSTICE SOTOMAYOR:  Well, but it's not
+limited to that.
+            MR. COATES:  Well, correct.  And he's also a
+member of several gangs.  So, you could find unique
+colors for one of his gangs and not for the others.
+            JUSTICE SOTOMAYOR:  What does that have to
+do with anything other than a general search --
+            MR. COATES:  Because, again, it's evidence
+that could --
+            JUSTICE SOTOMAYOR:  -- a general search in
+the hope of finding evidence of other crimes?
+            MR. COATES:  No, because it --
+            JUSTICE SOTOMAYOR:  That's what it sounds
+like.
+            MR. COATES:  No, because it would tie him to
+anything found in that residence.  Again, if you found a
+.45 caliber pistol --
+
+Alderson Reporting Company
+
+Official
+
+20
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE GINSBURG:  What about the provision
+for any photographs that depict evidence of criminal
+activity?  That seems to me as general as you can get.
+Photographs depicting evidence of criminal activity.
+            MR. COATES:  That actually is in the section
+that deals with indicia of gang membership.  It has been
+carved out by Respondents here for the first time as a
+separate category.  I note it was not argued down below
+that way; it was not viewed at the district court that
+way; it was not viewed by the circuit judges that way.
+            And I do have to say that we're sitting here
+looking at 11 judges and, like, 6 attorneys have looked
+at this, and they've never brought that out separately.
+And now we're saying that should have jumped out to the
+officers separately.  I think we cite case law saying
+that you should interpret that within the context of the
+entire provision, which is the indicia of gang
+membership provision.
+            And if I may, I'd like to reserve the
+balance of my time for rebuttal.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            Mr. Srinivasan.
+            ORAL ARGUMENT OF SRI SRINIVASAN
+   ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE,
+             IN SUPPORT OF THE PETITIONERS
+
+Alderson Reporting Company
+
+Official
+
+21
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. SRINIVASAN:  Thank you,
+Mr. Chief Justice, and may it please the Court:
+            When an officer follows the favored practice
+under the Fourth Amendment of obtaining a warrant from a
+neutral magistrate before conducting a search, the
+officer in all but the most narrow circumstances can
+rely on the magistrate's independent determination of
+probable cause, without fear --
+            JUSTICE KAGAN:  Mr. Srinivasan, there are
+two categories of materials here.  One is the search for
+other guns.  The other is the search for anything
+relating to gang membership.  If we think that those two
+categories present different questions, if we think that
+one is more beyond the bounds than another, that the
+officer might have qualified immunity for, let's say,
+the guns but not the evidence of gang membership, what
+would happen in this case at that point?
+            MR. SRINIVASAN:  Well, I think one of the
+questions that would arise is whether the one as to
+which you thought there was a problem would expand the
+scope in a meaningful way, because if -- let's take Your
+Honor's hypothesis that there's less of a reason to be
+concerned about the firearms-related aspects of the
+warrant than the gang-related parts of the warrant; then
+the question would arise whether you would have a Fourth
+
+Alderson Reporting Company
+
+Official
+
+22
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Amendment violation in the first place, because if the
+gang-related parts of the warrant didn't expand the
+scope of the search in such a way that would implicate
+independent privacy interests, there wouldn't be a
+Fourth Amendment problem with that aspect of the
+warrant.  And, therefore, there -- you wouldn't have a
+qualified immunity issue for sure.
+            JUSTICE SCALIA:  And what does that depend
+on, whether you would look for the indicia of gang
+memberships in places where you wouldn't look for guns;
+is that it?
+            MR. SRINIVASAN:  That's right.  You look --
+you look at the two aspects of the warrant, and you ask
+whether the second one, which is hypothesized to be the
+problematic one, would allow you to search in places or
+search with more intensity than the first --
+            JUSTICE SCALIA:  Well, if you're looking for
+photographs that show gang membership, I guess you could
+look through photograph albums.  You wouldn't really
+look there for guns, would you?
+            MR. SRINIVASAN:  Well, but -- no.  I think
+the relevant language is at page 52 of the Joint
+Appendix.  That's what sets forth the two paragraphs at
+issue.  And the first paragraph, which Justice Kagan
+supposes doesn't raise a problem -- and I'll engage that
+
+Alderson Reporting Company
+
+Official
+
+23
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+assumption -- it provides not only for searches of all
+firearms, but it provides, and we think legitimately,
+for searches of any receipts or paperwork showing the
+purchase, ownership, or possession of the handguns being
+sought.  And so, if -- and paperwork certainly includes
+photographs, because if you find photographs of an
+individual carrying a particular firearm, that's good
+evidence.  And so, photographic evidence is within the
+scope of the first paragraph, not just the second.  And
+so, it does raise the question of whether the second
+paragraph increases the scope.
+            The other point I'd raise in this respect is
+that, in the second paragraph itself, the anchor
+sentence in some respects in the second paragraph is the
+second sentence, which discusses not gang-related
+indicia in particular but articles of personal property
+tending to establish the identity of persons in control
+of the premise or premises, writ large.  And note -- and
+that provision has not been seen to have a -- have a
+problem associated with it thus far.  The district court
+thought it was okay.  The court of appeals, at page 27a
+of the petition appendix, seemed to assume it was okay.
+And that's understandable because there are a legion of
+cases that support those sorts of provisions --
+            JUSTICE ALITO:  There's something --
+
+Alderson Reporting Company
+
+Official
+
+24
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. SRINIVASAN:  -- including the Ewing case
+cited by the majority below.
+            JUSTICE ALITO:  There's something very
+strange about the rule that we are applying here.  A
+warrant was issued by a judge of the superior court;
+isn't that right?
+            MR. SRINIVASAN:  Yes, I believe so.
+            JUSTICE ALITO:  And we're -- so, that judge,
+who is a lawyer and was appointed as a judge and
+presumably has some familiarity with the Fourth
+Amendment, found that there was probable cause to search
+for all of these things.  And now we're asking whether a
+reasonable police officer who is not a lawyer and
+certainly is not a judge should have been able to see
+that this call that was made by a judge was not only
+wrong but so wrong that it -- you couldn't reasonably
+think that the judge might be correct.  Is there some
+way to phrase this -- if this rule is to be retained in
+any form, is there some way to phrase it so that it is
+narrowed appropriately?
+            MR. SRINIVASAN:  Well, I -- I think the
+Court has attempted to do that in Malley and Leon
+itself, because it has made clear that in the main, in
+all but the most narrow circumstances, where a
+magistrate does find the existence of probable cause,
+
+Alderson Reporting Company
+
+Official
+
+25
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+the court need not engage in any searching inquiry to
+determine that qualified immunity is appropriate --
+            JUSTICE SCALIA:  But the most narrow
+circumstance is defined as a circumstance in which no
+reasonable police officer could have thought the warrant
+was correct.  Why don't we adopt a good --
+            MR. SRINIVASAN:  Well --
+            JUSTICE SCALIA:  -- a good faith test for
+this as we do in other -- in other --
+            MR. SRINIVASAN:  Well, I think in some
+sense, Justice Scalia, you have two -- in response to
+the two parts of your question.  First of all, in
+defining what is objectively unreasonable in this
+situation, the Court has used some pretty strong
+language.  In Malley, it spoke in terms of a magistrate
+who's grossly incompetent.  And in Leon, it spoke of --
+            JUSTICE SCALIA:  A policeman.  Policeman.
+            MR. SRINIVASAN:  No, it was speaking of a
+magistrate actually, and not the officers.  Because the
+point is that in order to find that officers are liable
+in this situation, the officers would have to be so sure
+that probable cause is lacking that only a grossly
+incompetent magistrate could sign off on the probable
+cause assessment.  So, it used gross incompetence with
+respect to the magistrate, which illustrates the degree
+
+Alderson Reporting Company
+
+Official
+
+26
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+to which the standard is heightened in this context.
+            And in terms of whether good faith
+principles come into play in the qualified immunity
+context, what the Court said in Malley is that the same
+standard for objective -- of reasonableness that governs
+in the good faith context for suppression purposes also
+governs in the qualified immunity context under 1983.
+And so, I think there is room to import into the
+qualified immunity context these principles of good
+faith, like, for example, Mr. Chief Justice, the
+question of whether the officers in question asked
+superiors for their assessment of whether there's
+probable cause.
+            And in Sheppard, which was a suppression
+case, but in Sheppard, at page 9 -- 8 and 9 of the
+opinion, the Court specifically made reference to the
+fact that the officer in that case had asked for a
+probable cause assessment --
+            JUSTICE SCALIA:  Well, I don't like this
+mishmash.  Look, it's either good faith or it's --
+however good his faith was, however well he showed his
+good faith by checking with his superiors or what not,
+if he made -- if he made an incompetent decision, it's
+incompetent.  And we should not mix the two, it seems to
+me.
+
+Alderson Reporting Company
+
+Official
+
+27
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. SRINIVASAN:  Well, that -- I mean,
+certainly I don't want to urge any -- anything upon the
+Court that would tend to water down the standard in the
+suppression context, but the only point I'd add to this,
+Justice Scalia, is that when you're looking at it from
+the perspective of a reasonable officer who's trying to
+assess whether he should go forward and ask for
+assessment of probable cause from the magistrate, one
+consideration that seems natural to take into account is
+what actions the officer has taken, not just the quantum
+of proof that the officer has put in the affidavit but
+what actions has he taken.  Has he asked for a -- has he
+asked his supervisor --
+            JUSTICE SCALIA:  That would be wonderful if
+the test was, was this -- did this officer know that
+this was a bad affidavit and was acting in bad faith in
+executing it?  If that was the test, then indeed the
+fact that he had checked with his superiors and all of
+that good stuff would -- would have some relevance.
+            MR. SRINIVASAN:  The test as outlined by the
+Court in Malley is whether it's objectively reasonable
+for the officer to rely on the magistrate's assessment
+of probable cause.
+            JUSTICE KAGAN:  Mr. Srinivasan --
+            JUSTICE GINSBURG:  I though the test was "so
+
+Alderson Reporting Company
+
+Official
+
+28
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+lacking in indicia of probable cause as to render
+official belief in its existence unreasonable."
+            MR. SRINIVASAN:  It -- the Court did say
+that, Your Honor, and the Court put the formulation in a
+number of respects in Malley itself.  It said, "We hold
+that the" -- this is at page 344:  "We hold that the
+same standard of objective reasonableness that we
+applied in the context of a suppression hearing in Leon
+defines the qualified immunity accorded an officer whose
+request for a warrant allegedly caused an
+unconstitutional arrest."
+            And I think that's where the Court then goes
+on and articulates what Your Honor just quoted.  But
+then the Court later says:  "In Leon" -- and this is at
+page -- this is at page 345:  "In Leon, we stated that
+'our objective faith' -- 'good faith inquiry is confined
+to the objectively ascertainable question of whether a
+reasonably well-trained officer would have known that
+the search was illegal despite the magistrate's
+authorization.'  The analogous question in this case,"
+and it goes on to speak about the analogous question.
+            JUSTICE KAGAN:  I guess the question,
+Mr. Srinivasan, is, do you think that the current test,
+that the test as currently formulated, is sufficiently
+protective of police officers?  Or do you think that we
+
+Alderson Reporting Company
+
+Official
+
+29
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+need to change the test in order to give police officers
+the protection they need?
+            MR. SRINIVASAN:  We think if the current
+test is applied properly, it's sufficiently protective.
+And really the question is how it's applied.  And in
+this case it was applied in -- in a way that I think is
+not sufficiently protective of police officers.
+            JUSTICE SCALIA:  Of course, you could say
+that about any test, you know?  If you apply it
+protectively, it will protect.
+            MR. SRINIVASAN:  You could --
+            JUSTICE SCALIA:  And if you don't apply it
+protectively, it won't protect.
+            CHIEF JUSTICE ROBERTS:  Did you --
+            JUSTICE SCALIA:  I'd like a test that, you
+know, that protects when it ought to and doesn't protect
+when it ought not.
+            CHIEF JUSTICE ROBERTS:  Did you say apply
+protectively or correctly?
+            MR. SRINIVASAN:  Applied -- well, I meant to
+say applied correctly.
+            CHIEF JUSTICE ROBERTS:  Okay.
+            MR. SRINIVASAN:  If applied correctly -- I
+apologize if I misspoke.  If applied correctly, it
+should sufficiently protect --
+
+Alderson Reporting Company
+
+Official
+
+30
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE KENNEDY:  In the background of this
+case is -- is this question:  A suspect has a weapon.
+He flees.  As a general rule, do you think that warrants
+can say that when they search the home or the place
+where this person is likely to be, they can seize all
+weapons?  Just as a general rule?
+            MR. SRINIVASAN:  No -- not necessarily as a
+general rule, Justice Kennedy.  It has to be
+context-specific.  And here you had a lot more than
+that.  You had an individual who had perpetrated an
+attempted murder, who was a known member of a violent
+gang, who had -- who had perpetrated physical assaults
+against this victim before, and who had directly
+threatened the victim that he would murder her if she
+ever went to the police and that he was going to kill
+her.
+            JUSTICE SOTOMAYOR:  You keep adding facts
+that weren't --
+            JUSTICE KENNEDY:  So -- so, the test is
+whether or not he is likely to commit another crime?
+            MR. SRINIVASAN:  Well, that's the test
+that --
+            JUSTICE KENNEDY:  I mean, that's -- I
+thought the Petitioner said -- I didn't have the time to
+interrupt -- that under California law, they can search
+
+Alderson Reporting Company
+
+Official
+
+31
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+for anything where he's likely to commit another crime.
+            MR. SRINIVASAN:  Yes, this is a very
+important point, Justice Kennedy.  At page 48 of the
+joint appendix, the language of the relevant California
+statute is set forth.  The California provision is
+section 1524(a)(3) of the California Penal Code, and it
+authorizes a search for and seizure of items where
+they're possessed by a person with the intent to use
+them as a means of committing a public offense.  And
+that's the provision that was invoked this very warrant.
+And these -- and that --
+            CHIEF JUSTICE ROBERTS:  Finish your
+sentence.
+            MR. SRINIVASAN:  Just the one sentence.
+That provision is by no means an outlier.  It's in
+Federal Rule of Criminal Procedure 41(c)(3), and it's in
+the Model Penal Code of Pre-Arraignment Procedure at
+section 210.3, subsection (1)(c).
+            Thank you.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            Mr. Wolfson.
+           ORAL ARGUMENT OF PAUL R.Q. WOLFSON
+              ON BEHALF OF THE RESPONDENTS
+            MR. WOLFSON:  Thank you, Mr. Chief Justice,
+and may it please the Court:
+
+Alderson Reporting Company
+
+Official
+
+32
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            In Malley v. Briggs, this Court ruled that
+police officers do not have immunity for seeking a
+search warrant when the warrant application is so
+lacking in indicia of probable cause as to render
+official belief in its existence unreasonable.  That --
+            CHIEF JUSTICE ROBERTS:  Well, Malley
+involved a search warrant based solely on a wiretap in
+which an unknown individual discussed drug use at a
+party.  That was all.  It seems to me there's a lot more
+information here.
+            MR. WOLFSON:  Well, in -- Malley involved a
+mistake as to who the person under suspicion was who was
+mentioned in the -- in the wiretap.  But the argument
+was made in Malley that is exactly the argument that is
+made here, which is that the police -- it -- one wants
+to encourage the police to seek warrants from the
+magistrates, and it would be -- and it would be -- it
+would be undesirable if the police were not given
+effectively absolute immunity when they seek a warrant
+from a magistrate, except, of course, when they -- when
+they lie, which is a separate question.
+            CHIEF JUSTICE ROBERTS:  Here you had a
+police officer who assembled information he had,
+truthful information, in the affidavit, submitted it to
+his superiors, who were lawyers.  Then it was submitted
+
+Alderson Reporting Company
+
+Official
+
+33
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+to the magistrate, who was a judge.  And what you have
+to say, it seems to me, is that a reasonably competent
+officer -- not objective good faith or anything like
+that -- a reasonable -- reasonably competent officer
+would say:  You know, I know the lawyers in the office
+said this was okay and I know the judge said it was
+okay, but I know more than them; I know not only that
+it's not okay, but it's so clearly not okay that I
+shouldn't have qualified immunity.
+            That seems to me a pretty heavy burden to
+put on -- put on the cop on the beat.
+            MR. WOLFSON:  Mr. Chief Justice, I don't
+think -- I don't think there is any question that in the
+great majority of cases, officers who seek warrants from
+magistrates will be immune.  And the Court made clear in
+Malley that it does happen that officers make mistakes,
+good faith mistakes, as to whether a particular set of
+facts amounts to probable cause, and in that context
+when there is a good faith mistake, the officers will
+have immunity.
+            But the Court also stressed that officers
+must minimize the risk of Fourth Amendment violations by
+exercising reasonable professional judgment in applying
+for search warrants.  And so, the Court ruled that an
+officer will not be immune if a "reasonably well-trained
+
+Alderson Reporting Company
+
+Official
+
+34
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+officer," which is the term the Court used, would not
+have believed that the -- that the warrant affidavit
+established probable cause.  Now --
+            JUSTICE ALITO:  Now, is it the case here
+that a reasonably well-trained officer would not --
+would understand that this warrant was defective in
+authorizing a search for guns other than the shotgun in
+question, when a provision of the California Penal Code
+says that a search warrant may be issued to seize items
+intended for use in committing a crime?
+            MR. WOLFSON:  A reasonable -- that a
+reasonable well-trained officer would not have sought
+the search warrant.  I don't think the California Penal
+Code provision really adds anything to the rest of the
+case, because it says that you may seek items that are
+intended to be used in a crime, but you still have to
+know -- you still have to have probable cause to believe
+that there are such items.  And so, the cases --
+            JUSTICE ALITO:  Well, you have your client
+who has discharged a sawed-off shotgun at his former
+girlfriend in an attempt to kill her.  And he -- he is
+known to be a member of a violent gang, and he has
+threatened to kill her.  And so, a reasonable police
+officer would -- could not think, well, he might have
+some other guns, and he -- and there would be an intent
+
+Alderson Reporting Company
+
+Official
+
+35
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+to use those in the commission of the crime that he has
+threatened to commit.
+            MR. WOLFSON:  Well, Mr. Bowen is not our
+client, Justice Alito.  Our clients are --
+            JUSTICE ALITO:  I'm sorry.  Excuse me.  Mr.
+Bowen --
+            MR. WOLFSON:  No, but this is -- but this is
+an important point.  Our clients are the innocent family
+that lives in the house where--
+            JUSTICE ALITO:  Well, that was just -- that
+was a misstatement on my part.
+            MR. WOLFSON:  No, I understand, but -- but I
+want to --
+            JUSTICE ALITO:  They could not think that
+about Mr. Bowen?
+            MR. WOLFSON:  But I want to make the point
+that not only do the police have to have probable cause
+to believe that there is such an item, they also have to
+have probable cause to believe that it will be found in
+the place that they propose to search.  I mean, probable
+cause --
+            JUSTICE ALITO:  But the -- all right.  It
+was found that there was probable cause to believe that
+he was living in these premises; isn't that correct?
+And you're not contesting that.
+
+Alderson Reporting Company
+
+Official
+
+36
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. WOLFSON:  Well, we are contesting that.
+We're contesting their --
+            JUSTICE ALITO:  You're not -- it's not an
+issue before us.
+            MR. WOLFSON:  It's not an issue here.  The
+Ninth Circuit decided the case on the assumption that
+there was probable cause to believe that Mr. Bowen would
+be found --
+            JUSTICE ALITO:  Well, on the assumption that
+he was living in those premises, then what is wrong with
+a reasonable officer thinking he's tried to kill her in
+the past using one gun; he's a member of a gang; he is
+very likely to have -- to possess or have access to
+other guns; those other guns may be found in the home
+where we believe he is living, and he is intending to
+use them to carry out the threat that he has promised,
+the threat that he has made?
+            MR. WOLFSON:  There are several -- I think
+there are several problems with that.  The first problem
+is the police don't have probable cause to believe that
+he has another gun, and they don't -- and they certainly
+don't have probable cause to believe that any other such
+gun would be found at the Millenders' house, and I --
+the Millenders' house where innocent people live.
+            Now -- and it's not just -- and it's not
+
+Alderson Reporting Company
+
+Official
+
+37
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+just that no other such gun would be found at the
+Millenders', and the Millenders themselves have right to
+possess handguns for lawful purposes of self-defense.
+So, it's possible -- of course, it is possible to
+speculate about the things that the police might --
+            JUSTICE KENNEDY:  Well, just suppose they're
+searching the suspect's own house.
+            MR. WOLFSON:  Right.
+            JUSTICE KENNEDY:  And there's -- he's used a
+specific gun, a 12-gauge Remington shotgun, and they've
+-- and they're looking for that.  And these facts are
+the same.  He may continue to elude the police; he may
+attack again.  And they -- and they're searching the
+house, his own house.  They see the one gun.  They see a
+second gun.  They cannot take the gun, the second gun?
+            MR. WOLFSON:  No, I would not -- I would not
+say that, Justice Kennedy, because I think that --
+            JUSTICE KENNEDY:  On what basis do you say
+they can take the second gun?
+            MR. WOLFSON:  Because if the police are in a
+place where -- lawfully in a place pursuant to a
+properly, narrowly drawn warrant, and they -- and they
+see something in plain view, under this Court's plain
+view doctrine as articulated in Horton v. California,
+and there is probable cause to see something there to
+
+Alderson Reporting Company
+
+Official
+
+38
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+associate with criminal activity, yes, the police can --
+can seize that.
+            But it -- but it's -- there's a big
+difference between thinking about what the police can do
+if they enter someplace lawfully and how they can
+react --
+            JUSTICE BREYER:  Yes, but what's the
+difference between what you just said and the situation
+here?  You say, if he sees the gun next to the bed, for
+example, or in the closet, and he's in the house looking
+for the sawed-off shotgun, he could seize it.  He can't
+unless he has probable cause to think it might be used
+for a crime.
+            MR. WOLFSON:  If --
+            JUSTICE BREYER:  And so, how did that
+change?  How did that change suddenly because he
+happened to see in the house something in the closet,
+and nothing else changed?  Why now suddenly can he take
+it?
+            MR. WOLFSON:  I think the assumption, as I
+understood, behind Justice Kennedy's question was, if
+the police see something -- happen to see something in
+the house that is probable cause of a crime --
+            JUSTICE BREYER:  No, but your argument is
+there was no probable cause for thinking that the guns
+
+Alderson Reporting Company
+
+Official
+
+39
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+in the house, if there were other guns, would be used
+for a crime.  Now, your opponent, your brother there,
+said when I suggested that:  Oh, no, that's wrong; there
+is probable cause to think that any guns in the house
+would be used for a crime.  He hasn't killed the girl
+yet, and one gun's as good as another.  And he might
+well take one of those other guns and kill her.  So,
+there's probable cause to believe that the guns that are
+in the house, or at least one could reasonably think so,
+would be used for a crime.  That was his response.
+            Then, as to whether they're likely to be in
+the house, well, we know this:  We know he has a
+sawed-off shotgun, and we know he is a member of a gang,
+which is defined as a group of people engaged in
+definable criminal activity, creating an atmosphere of
+fear and intimidation.
+            So, well, people like that have guns.  And
+when -- where they live, there may well be other guns.
+So, it is reasonable for me to think there are other
+guns in the house and reasonable for me to thin k that
+other guns in the house would be used for killing this
+girl if he can get to her.  Okay, that's the argument.
+            Now, what's the response?
+            MR. WOLFSON:  Well --
+            JUSTICE BREYER:  And you don't have to --
+
+Alderson Reporting Company
+
+Official
+
+40
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+you have to show more than that there's no probable
+cause.  You have to show it wasn't reasonable to think
+that there was probable cause.
+            MR. WOLFSON:  Because the police did not
+have probable cause to believe there was any other gun,
+and they certainly --
+            JUSTICE BREYER:  He's a member of a gang
+which often has guns, and this expert knows that members
+of gangs have guns.  And the definition of "gang"
+suggests they're likely to have guns, whether it's
+illegal to have them or not illegal.
+            MR. WOLFSON:  But it --
+            JUSTICE BREYER:  That's how he knows that.
+That's how he knows.
+            MR. WOLFSON:  But it doesn't -- excuse me.
+It doesn't necessarily follow that there is probable
+cause to believe that he has an arsenal of weapons with
+him at an innocent third-party's house.
+            JUSTICE SCALIA:  And the warrant authorized
+the search for and seizure of all guns, not just the
+guns belonging to Bowen.  And in --
+            MR. WOLFSON:  That is correct.
+            JUSTICE SCALIA:  -- in fact, they seized
+some of the Millenders' guns, didn't they?
+            MR. WOLFSON:  That is correct.  The
+
+Alderson Reporting Company
+
+Official
+
+41
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+police --
+            JUSTICE SCALIA:  And why is it -- if there's
+probable cause to believe that he has other guns, is
+there also probable cause to believe that any gun found
+in the house will belong to him?  I think not.
+            MR. WOLFSON:  I would say not, Your Honor,
+but I --
+            CHIEF JUSTICE ROBERTS:  We've been
+talking -- we've been talking about this for some time
+as if we're reviewing the adequacy of the warrant.
+We're not.  We're reviewing the reasonableness of these
+officers' determination that there was probable cause.
+            Do you think it is at all pertinent in
+addressing that question that the officers submitted the
+affidavit to support the warrant to Deputy District
+Attorney Jane Wilson, who reviewed it and signed off on
+it?
+            MR. WOLFSON:  I -- I think it can't be
+dispositive, Your Honor.
+            CHIEF JUSTICE ROBERTS:  I didn't ask if it's
+dispositive.  Is it relevant in any way?
+            MR. WOLFSON:  It could be -- it could be
+relevant, but I would say it's -- it doesn't -- it
+doesn't make the case in this case, for a few reasons.
+First of all, generally speaking, of course, if you
+
+Alderson Reporting Company
+
+Official
+
+42
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+can't rely on the magistrate as a -- you know, as a
+blanket rule that you're not immune, it's hard to
+understand why the fact that the deputy district
+attorney signed off on it would have essentially the
+same effect that the Court rejected in Malley, when it
+said, you know, there will be a limited set of
+circumstances where even if -- even if a magistrate
+issues a warrant, the officer will be liable.
+            So, I don't think that -- I mean, the
+district attorney and the -- and the superior are on the
+same crime-fighting team as the -- as the -- as
+Detective Messerschmidt in this case.
+            Also, we really -- we have no information
+about what transpired in these conversations with the
+deputy district attorney.  We don't know whether the
+D.A. said to Detective Messerschmidt:  Oh, you know,
+you're good; this is totally fine.  Or whether she said:
+You know, you're pushing the envelope here, but we might
+just find a magistrate who will go along with it, so --
+you know, so, see what you can get.
+            And the other point is, of course, relying
+on your superiors and on the D.A. is a double-edged
+sword in many cases, because that -- in fact, that can
+establish or go a long way towards establishing Monell
+liability, if you establish that there's a pattern of
+
+Alderson Reporting Company
+
+Official
+
+43
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+superiors and of deputy district attorneys --
+            CHIEF JUSTICE ROBERTS:  Do you want -- do
+you want to encourage officers, when they're applying
+for search warrants, to have them reviewed by the deputy
+district attorney or not?
+            MR. WOLFSON:  Certainly, we want them to --
+to encourage that, Mr. Chief Justice.  But the point is,
+in Malley, this Court made clear that, ultimately, a
+reasonably -- a reasonably well-trained officer must
+make a judgment himself as to whether the course of
+conduct that he proposes to undertake could reasonably
+be thought to be within the law.
+            JUSTICE SCALIA:  Ultimately, it's the
+officer who goes into the Millenders' house, seizes
+their arms, rifles through their drawers.  It's -- it's
+the officer that does that?
+            MR. WOLFSON:  Well, the officers who are the
+Petitioners in this case are the officers who actually
+applied for the search warrant and who actually drafted
+the search warrant for the magistrate to -- to sign.
+Now, they then were present at the search.  I think
+there is a --
+            JUSTICE SCALIA:  Oh, I didn't understand
+that.
+            MR. WOLFSON:  Yes.
+
+Alderson Reporting Company
+
+Official
+
+44
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE SCALIA:  They -- they did not
+execute the warrant?
+            MR. WOLFSON:  They were -- they were -- they
+were part of the executing team, yes.  They were --
+there were --
+            CHIEF JUSTICE ROBERTS:  Did they enter the
+residence?
+            MR. WOLFSON:  They entered the residence,
+yes.  There were other officers who I think it would be
+fair to say kind of more -- undertook the more concrete
+search of the -- you know, of the house from top to
+bottom.  I think there is a different question about
+when a line officer relies on his lead officer's
+instructions.  And that was actually discussed by the
+Ninth Circuit in -- in the Groh case, which later came
+up to -- came up to this Court.
+            But I think the -- the standard that the
+Court set forth in Malley, the objective reasonableness
+standard, is really -- it's consistent with this Court's
+qualified immunity case law --
+            JUSTICE BREYER:  If that is the -- we're
+using a purely objective standard, another fact that I
+just want your reaction on is where he says, "I told you
+never to call the cops on me."  Now, he has tried to
+throw her out of the window or something.  He -- he's
+
+Alderson Reporting Company
+
+Official
+
+45
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+shot at her.  He's trying to kill her in five different
+ways, and he's shouting:  I'm going to kill you and I
+told you never to call the cops on me.
+            When I first read that I thought, well,
+maybe he has some -- maybe this is explained in part not
+just domestic, but he has something to hide.  He's
+afraid she's going to tell the police something.  Now --
+now, could a person reasonably read those words and
+think he has something to hide here?  His -- and there's
+something going on, and it's not just domestic?
+            Where does that lead us if we --
+            MR. WOLFSON:  I don't --
+            JUSTICE BREYER:  Can we read it that way?
+And if we do read it that way, where does that lead you?
+            MR. WOLFSON:  Well, the Petitioners have
+never suggested that reading before.  And, indeed, the
+Petitioners have -- indeed, Detective Messerschmidt
+testified at his deposition:  No, I didn't have any
+reason to believe that the crime was gang-related.
+            I mean, one of the curious things about
+the -- the argument that the Petitioners are now making,
+which is that you can go outside the warrant and import
+into it the fact that he was a felon -- one of the
+curious things about that is that the -- is that the
+officers told the magistrate this is a violent crime, no
+
+Alderson Reporting Company
+
+Official
+
+46
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+question; he is a gang member -- not in support of
+probable cause, but in support of night service.  They
+told the magistrate that they had reviewed all the
+various government databases, specifically including
+police databases, but did not tell the magistrate that
+he had any criminal record at all.
+            JUSTICE GINSBURG:  Mr. Wolfson --
+            MR. WOLFSON:  But that's so --
+            JUSTICE GINSBURG:  Mr. Wolfson, if --
+suppose they had had a warrant to search just for the
+sawed-off shotgun.  You conceded that when they go into
+the house and they're looking all over, they could look
+in cabinets and drawers for the -- to find pieces of the
+shotgun.  They come across other guns, they can at least
+secure -- take those guns for their own safety.  There
+are other people in the house, and somebody might use
+them.
+            So, what's -- what's the difference in the
+scope of the search if they have a warrant just to look
+for the sawed-off shotgun or if they have a warrant that
+covers any guns?
+            MR. WOLFSON:  Well, a couple of responses.
+First of all, I think this Court's decisions in Groh and
+other courts made clear that when you're evaluating
+whether -- whether the Respondents were harmed by this
+
+Alderson Reporting Company
+
+Official
+
+47
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+violation of their constitutional rights, you have to
+look at the warrant that was actually applied for and
+executed, not -- you don't -- you don't compare it to a
+hypothetical warrant that the police might have gotten
+if they had applied for a properly limited warrant.
+            CHIEF JUSTICE ROBERTS:  To cite Groh -- in
+Groh, the warrant did not identify the items to be
+seized at all.
+            MR. WOLFSON:  That is correct.  But the
+argument was made in Groh -- was, well, there really was
+no harm because surely the officers had probable cause,
+and if they had done their work right, that there was I
+think no question that they would have gotten a warrant,
+and the --
+            CHIEF JUSTICE ROBERTS:  Your answer -- and,
+again, it seems to me we keep separating these two
+inquiries.  It's not whether the warrant showed adequate
+probable cause; it's whether or not the officers were
+reasonable in believing that it did.
+            MR. WOLFSON:  I understand --
+            CHIEF JUSTICE ROBERTS:  And to cite Groh,
+a -- no reasonable officer could think that a warrant
+that doesn't say anything at all about what's to be
+seized complied with the Fourth Amendment.
+            MR. WOLFSON:  But the argument was made in
+
+Alderson Reporting Company
+
+Official
+
+48
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Groh that essentially this was sort of no harm, no foul,
+because surely a reasonable police officer could have
+obtained a valid warrant.  And I was -- I was sort of
+analogizing that to the question that Justice Ginsburg
+made.  I don't think that really is a question of
+qualified immunity at all.  I think that may be a
+question of damages as to whether you could think, oh,
+well, perhaps the police might have gotten a valid
+warrant and so forth.  But -- so, I think, sure, it's
+possible to imagine that the police could have gotten a
+valid, narrow warrant limited to -- limited to search
+for the sawed-off shotgun, and -- and certainly not the
+gang-related activity, but they didn't.  And one has
+to -- one has to measure the harm that the -- that the
+Millenders suffered by execution of this --
+            JUSTICE SOTOMAYOR:  So, what happens --
+            MR. WOLFSON:  -- invalid warrant.
+            JUSTICE SOTOMAYOR:  -- below on that
+question?  Following up on --
+            MR. WOLFSON:  Right.
+            JUSTICE SOTOMAYOR:  -- the same question
+that Justice Kagan asked your brethren, which is how
+about we find that it was reasonable to ask for the guns
+but not for the gang-related materials?  What does that
+do to your claim, and do you disagree with the manner in
+
+Alderson Reporting Company
+
+Official
+
+49
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+which he described what the inquiry would be below or
+before us now?
+            MR. WOLFSON:  Right.  We do disagree.  We
+would submit that the -- that it's still -- it's still
+invalid.  But this is an issue that the courts of
+appeals have wrestled with under what is called the
+severance doctrine, which mostly is applied in
+exclusionary rule cases, not in qualified immunity
+cases.
+            This Court has actually never explicitly
+endorsed the severance doctrine, and that is the
+question -- suppose you have a warrant that is sort of
+half valid and half valid or maybe half arguably valid
+but half totally -- you know, totally invalid.  What do
+you do then?  And the -- I think at a minimum the record
+would not permit this Court to -- to resolve that
+because we don't know from the record before us sort of
+what part of the search was conducted under what part of
+the -- of the warrant.  But --
+            JUSTICE ALITO:  What's to the gang
+paraphernalia?  Why couldn't an officer reasonably
+believe that there was a probable cause to seize that --
+to search for and seize that, because it would link Mr.
+Bowen with this residence where they hoped to find the
+shotgun?  And you dispute the fact that he is -- that he
+
+Alderson Reporting Company
+
+Official
+
+50
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+is associated with that residence.
+            MR. WOLFSON:  Right.  So, Justice Alito,
+there certainly are circumstances in which it is
+legitimate to seek for information that links a
+particular person to a particular location for purposes
+of establishing criminal liability.  The -- you know,
+there are many cases, for example, where the police come
+across a meth lab or something like that.  And, of
+course, in that situation the police have a legitimate
+reason to -- to want to know who is present, whose
+fingerprints are all over the place, because that would
+tend to establish that the person is -- is in unlawful
+possession of methamphetamine.
+            JUSTICE ALITO:  And why couldn't a
+reasonable officer think that that would be the case
+here?
+            MR. WOLFSON:  For -- for a few reasons.
+First of all, the 120th Street address, the Millenders'
+house, is totally irrelevant to the actual crime under
+investigation, which took -- someplace else.  I mean,
+it's just a happenstance that the -- that the police are
+searching -- searching this place.  It's not the place.
+This is not a tavern or a still or --
+            JUSTICE ALITO:  No, well, if they have
+probable cause to believe that the sawed-off shotgun is
+
+Alderson Reporting Company
+
+Official
+
+51
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+there -- let's suppose they find the sawed-off shotgun.
+Then there's going to be an issue at trial:  Was it his
+sawed-off shotgun?  And anything that links him to that
+residence is valuable evidence.
+            MR. WOLFSON:  But the gang-related indicia
+part of the warrant is, first of all, much, much broader
+than that; and, secondly, the Petitioners have never
+argued until this Court that that was the purpose of the
+gang-related indicia part of the warrant.  I mean, the
+Petitioners argued that the gang-related indicia part of
+the warrant is intended to establish his -- his gang
+membership.  And -- because, for example, there might be
+a -- an increase in penalty if something is a
+gang-related crime.  Even while --
+            JUSTICE ALITO:  I thought this was a test of
+what they could -- what a reasonable officer could have
+believed, not what they in particular believed.
+            MR. WOLFSON:  Well, that's correct, but I
+think, you know, that does not mean that one can engage
+essentially in a completely post-hoc rationalization of
+what the objective search by the -- to be accomplished
+by the warrant is.  I mean, the warrant application
+itself says this is a spousal assault that the police
+are investigating.  There's no suggestion that it's a
+gang-related crime in any way.
+
+Alderson Reporting Company
+
+Official
+
+52
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE KAGAN:  Mr. Wolfson, it seems that
+many of the arguments on both sides are very
+fact-dependent in nature, that you're asking what
+inferences can be drawn reasonably from certain facts,
+from a particularly violent incident, from the use of a
+sawed-off shotgun, from the fact that this was not his
+home, from the fact that he was a gang member.
+            And yet, the cases that you cite to us as
+suggesting what a reasonable police officer should know
+really are not cases that involve these facts at all.
+They're cases that state very broad general propositions
+about Fourth Amendment law.  So, how can you get from
+those cases to what you're saying a particular police
+officer in a particular set of circumstances ought to
+know?
+            MR. WOLFSON:  Well, of course, this Court
+has never required that, for qualified immunity
+purposes, that the case -- there be another case exactly
+on point.  And --
+            JUSTICE KAGAN:  No.  But there seems to be a
+very large gap between what this police officer has to
+think about and the cases that you cite.
+            MR. WOLFSON:  Respectfully, Justice Kagan, I
+don't think I agree, and I think that it's -- it's
+useful to look at two related but somewhat different
+
+Alderson Reporting Company
+
+Official
+
+53
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+lines of cases, particularly in the Ninth Circuit but,
+actually, you know, all across the board in the courts
+of appeals.
+            The first line of cases says if the police
+have reason or have probable cause to look for a
+specific object or specific -- even a specific kind of
+object, that doesn't give them probable cause to look
+for the whole generic class of objects that are somewhat
+similar.
+            The leading case on this in the Ninth
+Circuit is the Spilotro decision, but there are many
+cases coming both before and after that stand for that
+proposition.  The -- the principle has been applied in
+many contexts.  For example, if you think that somebody
+is committing fraud for years 1998 and 1999 and there
+are billing records, you can't -- you don't have
+probable cause to look for fraud, you know, for the
+entire records, billing records from 1950 to the
+present.  If you think that -- if you see somebody run
+over somebody else in a green Nissan Sentra, you don't
+have probable cause to search for all vehicles including
+a red Ford -- a red Ford Explorer.
+            This is really that principle in the context
+of firearms.  And it -- and Detective Messerschmidt had
+the information that the case involved a black sawed-off
+
+Alderson Reporting Company
+
+Official
+
+54
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+shotgun with a pistol grip.  Now, there certainly are
+cases --
+            JUSTICE ALITO:  Well, to come back to a
+question that was asked before --
+            MR. WOLFSON:  Yes.
+            JUSTICE ALITO:  -- suppose they were
+issuing -- suppose the warrant just sought this --
+the -- that particular weapon.  They execute it, and
+they come to a room in this house, and it's got Mr.
+Bowen's name on it, and inside there's a gun cabinet,
+and there are -- there are a whole -- there's a whole
+array of guns, legal -- let's say he legally possesses
+them.  There's a -- there's a -- there are assault
+rifles.  There are pistols.  And it's known that he's
+threatened to kill his girlfriend.  You say -- would the
+police be able to seize those?
+            MR. WOLFSON:  Yes, I think there are many
+things the police can do.  First of all, an assault
+rifle is illegal.  So, that per se is contraband --
+            JUSTICE ALITO:  All right.  All sorts of
+legal weapons --
+            MR. WOLFSON:  Right.  Okay.  And --
+            JUSTICE ALITO:  -- that could be used.
+Could they -- could they seize those?
+            MR. WOLFSON:  Well, the police -- if -- and
+
+Alderson Reporting Company
+
+Official
+
+55
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+so, one question is, do the police know that Mr. Bowen
+is a felon?  And here I think that is relevant, because
+they are dealing with what not what is in the affidavit
+but to on-the-spot judgments.  So, if the police --
+            JUSTICE ALITO:  Let's --
+            MR. WOLFSON:  So -- okay.
+            JUSTICE ALITO:  -- I'm hypothesizing --
+            MR. WOLFSON:  Right.
+            JUSTICE ALITO:  -- he has a license for all
+of these.
+            MR. WOLFSON:  Right.  So, I think there
+are --
+            JUSTICE ALITO:  He's not a felon.
+            MR. WOLFSON:  So, I think if the police have
+probable cause, in light of the circumstances that they
+actually encounter at the house, that the guns --
+            JUSTICE ALITO:  The circumstances are
+exactly the circumstances here --
+            MR. WOLFSON:  That the --
+            JUSTICE ALITO:  -- except for the two things
+that I changed.  It's his room, and it's his gun
+cabinet.
+            MR. WOLFSON:  The police may be able to
+secure all of those weapons, certainly so that they pose
+no danger to anybody else.  And if Mr. Bowen is arrested
+
+Alderson Reporting Company
+
+Official
+
+56
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+and then, if -- if he is to be released on bail or on
+pretrial release, it's a very common condition that he
+not have access to any weapons.  The police -- it may be
+required that he deposit those weapons with somebody
+else who, you know, is a proper custodian --
+            JUSTICE ALITO:  Well, let's say they don't
+find him.  He's still at large.  They have to leave the
+weapons there.
+            MR. WOLFSON:  I don't think they --
+necessarily have to leave the weapons there.
+            JUSTICE ALITO:  When they leave.  Why?  On
+what ground could they seize them?
+            MR. WOLFSON:  If there is no -- well, if
+he's not -- if he's not there, then it's not clear to me
+that he has a Fourth Amendment standing to challenge
+anything.
+            JUSTICE ALITO:  It's his room.  It's his
+room.
+            MR. WOLFSON:  It's his room.  But if he's --
+I mean, but if he's --- if they really believe that the
+police -- that he is there, that it is his house, there
+is no reason to believe that his possession of any of
+these weapons is illegal, there are -- the police can do
+things to secure them.
+            JUSTICE KENNEDY:  I'm putting in my notes
+
+Alderson Reporting Company
+
+Official
+
+57
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+that you're not answering the hypothetical.
+            MR. WOLFSON:  Right.
+            (Laughter.)
+            MR. WOLFSON:  I think there -- I'm not sure.
+I don't think the police can say these weapons are just
+ours, we're going to take them, we can seize them
+without -- without probable -- without more probable
+cause.
+            JUSTICE ALITO:  They can't say, and we're
+going to take them under -- we're going to take them so
+that he can't use those to kill his girlfriend which is
+what he has threatened to do?  They just have to leave
+them there --
+            MR. WOLFSON:  No --
+            JUSTICE ALITO:  -- and if he happens to come
+back and -- and get those weapons, and he kills her,
+well, that's just too bad?
+            MR. WOLFSON:  But if the police -- the
+police have -- if the police have probable cause to
+believe that he -- on the spot that he will use that
+weapons, yes, they can seize them under that provision
+of the California Penal Code, but that does not mean
+they have probable cause when they apply for the -- the
+warrant, to think that those weapons either will
+exist --
+
+Alderson Reporting Company
+
+Official
+
+58
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE ALITO:  You really -- you really are
+not answering my question.
+            MR. WOLFSON:  I --
+            JUSTICE ALITO:  My question is:  Everything
+is exactly the same except that it's his room and he's
+not a felon and he possesses them legally and there they
+are, and they see them.
+            MR. WOLFSON:  I think --
+            JUSTICE ALITO:  And your answer is they can
+take them.  In which case, my question is, why wouldn't
+they have probable cause to search for those in the
+first place?  Or they can't take them, in which case I
+say, well, what about the possibility that he will come
+back, get those weapons, and carry out his threat using
+those weapons?
+            MR. WOLFSON:  They can -- they may be able
+to take them, but that does not mean that they knew that
+they existed in the first place or that they would be at
+the Millenders' house.  That's -- that I think is the
+fundamental difference.
+            JUSTICE GINSBURG:  What happened here when
+they -- when they -- they did seize weapons that
+belonged to the plaintiff, Mrs. Millender.  They -- they
+took them because they thought they were the
+defendant's?  But -- not that -- they thought they were
+
+Alderson Reporting Company
+
+Official
+
+59
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Bowen's?
+            MR. WOLFSON:  It's not clear, Justice
+Ginsburg.  They took them under the authority of the
+warrant.  They did not provide an explanation as to
+specifically why they were -- why the gun was seized,
+but the gun was seized.  And this -- I think this really
+the -- this point, that they went into the Millenders'
+house, searched the house from top to bottom, and seized
+the Millenders' -- Mrs. Millender's lawfully owned
+weapon really shows that this case is in the heartland
+of what the Fourth Amendment is concerned about.  I
+mean, this is exactly the kind of case that the Framers
+were concerned about when they abolished the
+general warrant.  This is the sort of case --
+            CHIEF JUSTICE ROBERTS:  Counsel, do you --
+do you contend that anything in the affidavit was false?
+            MR. WOLFSON:  Yes.  False or at least --
+            CHIEF JUSTICE ROBERTS:  What --
+            MR. WOLFSON:  -- or at least misleading.
+            CHIEF JUSTICE ROBERTS:  What was that?
+            MR. WOLFSON:  I think the -- the -- the
+proposition that Bowen, quote, unquote, "resided" at the
+120th Street address and that that -- and that that
+conclusion was drawn from, among other things, Detective
+Messerschmidt's search of government databases was
+
+Alderson Reporting Company
+
+Official
+
+60
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+material misleading, because he didn't reside there.  He
+may have been staying -- hiding out there, and the
+search of the government databases which are actually --
+the results are actually reprinted --
+            CHIEF JUSTICE ROBERTS:  Where did the --
+            MR. WOLFSON:  Sorry.
+            CHIEF JUSTICE ROBERTS:  -- may have been --
+may have staying there?
+            MR. WOLFSON:  That is what Shelly Kelly told
+Detective Messerschmidt, which is, if I am not
+mistaking --
+            CHIEF JUSTICE ROBERTS:  And you say it was
+materially false that they said he resides there, and
+what he knew is that he may have been staying there?
+            MR. WOLFSON:  He may have been hiding out
+there.  When -- especially when you combine that with
+all the other information that Detective Messerschmidt
+actually obtained from the printouts of the databases
+which are in the JA, which in fact say that he hadn't
+been at the 120th Street address for several months and
+that his most recent address was 97th Street, where he
+lived with -- where he stayed with, at least sometimes,
+Shelly Kelly and gave it out as his address.  So,
+that -- that is in the respects why we think that this
+is materially misleading.
+
+Alderson Reporting Company
+
+Official
+
+61
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            Of course, we were not allowed to appeal
+that determination, so that really only half of the case
+in that respect was before the court of appeals and is
+before this Court.
+            Thank you very much.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            Mr. Coates, you have 2 minutes remaining.
+         REBUTTAL ARGUMENT OF TIMOTHY R. COATES
+              ON BEHALF OF THE PETITIONERS
+            MR. COATES:  With respect to the -- the
+hypothetical that Justice Alito postulated in terms of
+finding other weapons there, and Respondents' counsel to
+say, well, we might go on the plain view doctrine, I
+think these are circumstances in which we note that you
+want to encourage officers, when they can, not to -- not
+rely on exceptions to the warrant requirement.  And
+here, if anything, the officers in an abundance of
+caution attempted to get a warrant, contemplating those
+precise circumstances.  I don't think they should incur
+liability for -- for going to that extra step and that
+extra precaution.  And, again, a step back from whether
+there's actually probable cause, but whether a
+reasonable officer could even believe that might be the
+case for purposes of sending it to a magistrate.
+            And I think, under those circumstances, you
+
+Alderson Reporting Company
+
+Official
+
+62
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+want to encourage officers to seek a magistrate's
+determination and not try and rely on on-the-scene
+exceptions to the warrant requirement to try and justify
+seizing weapons under those circumstances.
+            With respect to Justice Scalia's concern
+about the probable cause to seize all guns as opposed to
+guns belonging to Bowen -- and I think the notion is
+that Bowen, being a resident and that being established
+for purposes of this contention at this point, still
+down at district court, but it was assumed for purposes
+of the Ninth Circuit that he was a resident, that as a
+resident, that he would have access to that firearm.
+            And I think that this was bolstered by the
+fact -- again, his status as a gang member.  We cite the
+Chicago Housing Authority v. Rose case, which talks
+about the manner in which gang members often store and
+use weapons at family members' homes.  I mean, it's an
+unfortunate part of the -- of the gang culture.  So,
+it's not unreasonable for an officer to think there
+might be probable cause at the very least to seize any
+weapon found there, even if ultimately facts developed
+that it is in fact not Bowen's weapon.
+            And this also goes to the indicia of gang
+membership and why it's reasonable even to ask, because
+that may be one of the means by which we could tie a
+
+Alderson Reporting Company
+
+Official
+
+63
+
+particular weapon to Bowen depending upon what's found
+during the search.
+            This is a very high standard as established
+by this Court, which is essentially plainly incompetent
+or knowingly violating the law.  And this is an officer
+that has not hidden the ball with respect to what
+transpired between Bowen and Kelly.  He submitted it to
+his superiors to look at; he submitted it to an
+attorney.  And while that's not dispositive, I think
+those are objective facts that a reasonable officer
+could say, I've done this, this, and this; there's no
+reason for me to believe that I'm violating the law in
+sending it to a magistrate.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel,
+counsel.
+            The case is submitted.
+            (Whereupon, at 12:09 p.m., the case in the
+above-entitled matter was submitted.)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company
+
+Official
+Official
+
+64
+
+A
+
+ability 15:10
+able 17:16 24:14
+
+54:16 55:23
+58:16
+
+abolished 59:13
+above-entitled
+
+1:13 63:18
+
+absolute 32:19
+absolutely 8:11
+
+18:2
+
+abundance
+
+61:17
+
+access 18:14
+36:13 56:3
+62:12
+
+accomplished
+
+51:21
+
+accorded 28:9
+account 13:7,16
+
+13:20 14:2
+27:9
+
+acting 27:16
+actions 4:3
+27:10,12
+
+activity 8:22
+9:17 20:3,4
+38:1 39:15
+48:13
+
+actual 10:13
+
+50:19
+add 27:4
+adding 30:17
+additional 5:14
+address 50:18
+
+59:23 60:20,21
+60:23
+
+addressed 4:20
+addressing
+
+41:14
+
+adds 34:14
+adequacy 41:10
+adequate 47:17
+admission 11:14
+adopt 25:6
+affidavit 3:21
+4:8,9,16 5:20
+
+7:12 12:16,18
+12:24 27:11,16
+32:24 34:2
+41:15 55:3
+59:16
+
+affidavits 14:10
+afraid 45:7
+agree 6:11,11
+
+52:24
+AL 1:3,8
+albums 22:19
+Alito 23:25 24:3
+
+24:8 34:4,19
+35:4,5,10,14
+35:22 36:3,9
+49:20 50:2,14
+50:24 51:15
+54:3,6,20,23
+55:5,7,9,13,17
+55:20 56:6,11
+56:17 57:9,15
+58:1,4,9 61:11
+allegedly 28:10
+allow 12:25
+
+22:15
+
+61:1
+
+Amendment 7:1
+
+7:19 14:14
+15:7 21:4 22:1
+22:5 24:11
+33:22 47:24
+52:12 56:15
+59:11
+
+amicus 1:21 2:8
+
+20:24
+
+amounts 33:18
+analogizing 48:4
+analogous 28:20
+
+28:21
+
+anchor 23:13
+Anderson 8:20
+Angeles 1:17
+answer 7:16
+
+14:1,1 47:15
+58:9
+
+answering 11:4
+
+11:5 57:1 58:2
+anybody 55:25
+anyway 13:2
+apologize 29:24
+appeal 61:1
+appeals 23:21
+
+49:6 53:3 61:3
+APPEARAN...
+
+1:16
+
+appendix 22:23
+
+23:22 31:4
+
+application 32:3
+
+51:22
+
+applied 28:8
+
+29:4,5,6,20,21
+29:23,24 43:19
+47:2,5 49:7
+53:13
+
+apply 4:6 29:9
+
+29:12,18 57:23
+
+applying 24:4
+33:23 43:3
+
+appointed 24:9
+appropriate
+
+25:2
+
+24:20
+
+arguably 49:13
+argued 20:8
+
+51:8,10
+
+arguing 5:24
+argument 1:14
+
+2:2,5,10,13 3:4
+3:7 20:23
+31:22 32:13,14
+38:24 39:22
+45:21 47:10,25
+61:8
+
+arguments 52:2
+arises 4:5
+arms 43:15
+array 54:12
+arrest 28:11
+arrested 55:25
+arsenal 40:17
+articles 23:16
+articulated
+
+allowed 17:19
+
+appropriately
+
+37:24
+
+articulates
+
+28:13
+
+ascertainable
+
+28:17
+
+asked 7:14
+
+13:25 26:11,17
+27:12,13 48:22
+54:4
+
+asking 6:14
+13:14 15:3
+24:12 52:3
+aspect 22:5
+aspects 21:23
+
+22:13
+
+assault 8:1,13
+8:22,23 9:11
+9:11 11:16,17
+17:10 51:23
+54:13,18
+
+assaults 30:12
+assembled 32:23
+assess 27:7
+assessment
+
+25:24 26:12,18
+27:8,22
+
+associate 38:1
+associated 8:25
+
+23:20 50:1
+assume 23:22
+assumed 62:10
+assumption 23:1
+
+36:6,9 38:20
+
+atmosphere
+
+39:15
+
+atomic 15:15
+attack 17:12,16
+
+37:13
+
+attempt 34:21
+attempted 24:22
+
+30:11 61:18
+attorney 41:16
+
+42:4,10,15
+43:5 63:9
+
+attorneys 4:17
+
+20:12 43:1
+Augusta 1:7
+
+authority 59:3
+
+authorization
+
+12:7
+
+62:15
+
+28:20
+
+authorize 17:18
+authorized
+
+40:19
+
+authorizes 31:7
+authorizing
+
+34:7
+
+a.m 1:15 3:3
+
+B
+
+back 12:12
+
+15:19,19,25
+17:3 54:3
+57:16 58:14
+61:21
+
+background
+
+30:1
+
+bad 16:7 27:16
+27:16 57:17
+
+bail 56:1
+balance 20:20
+ball 63:6
+bare-bone 7:12
+bare-bones 3:22
+
+4:8 7:7
+
+based 32:7
+basis 37:18
+beat 33:11
+bed 38:9
+behalf 2:4,7,12
+2:15 3:8 20:24
+31:23 61:9
+
+belief 28:2 32:5
+believe 4:12,22
+
+4:24 10:21
+14:25 15:1,5
+15:16 17:14
+24:7 34:17
+35:18,19,23
+36:7,15,20,22
+39:8 40:5,17
+41:3,4 45:19
+49:22 50:25
+
+Alderson Reporting Company
+Alderson Reporting Company
+
+Official
+
+65
+
+56:20,22 57:20
+61:23 63:12
+believed 14:19
+34:2 51:17,17
+believing 47:19
+belong 41:5
+belonged 13:2
+
+belonging 40:21
+
+58:23
+
+62:7
+
+best 16:6
+beyond 5:5 8:9
+
+21:14
+big 38:3
+billing 53:16,18
+bit 6:18
+black 53:25
+blanket 42:2
+board 53:2
+bolstered 62:13
+bomb 15:15
+bothers 12:18
+bottom 44:12
+
+59:8
+
+bounds 21:14
+Bowen 9:23 18:3
+35:3,6,15 36:7
+40:21 49:24
+55:1,25 59:22
+62:7,8 63:1,7
+Bowen's 54:10
+
+59:1 62:22
+BRENDA 1:6
+brethren 48:22
+BREYER 12:13
+12:15 13:11,14
+13:24 14:7,9
+14:21 15:13
+17:6 38:7,15
+38:24 39:25
+40:7,13 44:21
+45:13
+
+Briggs 3:11 32:1
+broad 52:11
+broader 51:6
+brother 39:2
+brought 20:13
+
+build 10:8
+burden 33:10
+
+C
+
+c 2:1 3:2 31:18
+cabinet 54:10
+
+55:22
+
+cabinets 46:13
+caliber 19:25
+California 1:17
+
+15:9 30:25
+31:4,5,6 34:8
+34:13 37:24
+57:22
+
+call 24:15 44:24
+
+45:3
+
+called 49:6
+careful 5:15
+carry 36:16
+
+58:14
+
+carrying 23:7
+carved 20:7
+case 3:5 4:5,15
+4:20,23 5:19
+5:20,22 7:11
+8:7,12 10:8,16
+13:20 16:3,21
+20:15 21:17
+24:1 26:15,17
+28:20 29:6
+30:2 34:4,15
+36:6 41:24,24
+42:12 43:18
+44:15,20 50:15
+52:18,18 53:10
+53:25 58:10,12
+59:10,12,14
+61:2,24 62:15
+63:16,17
+
+cases 3:20 23:24
+
+33:14 34:18
+42:23 49:8,9
+50:7 52:8,10
+52:11,13,22
+53:1,4,12 54:2
+
+catch-all 3:24
+categories 21:10
+
+21:13
+
+category 20:8
+cause 3:25 4:10
+
+4:13 12:25
+13:5,21 15:20
+17:6,7 21:8
+24:11,25 25:22
+25:24 26:13,18
+27:8,23 28:1
+32:4 33:18
+34:3,17 35:17
+35:19,21,23
+36:7,20,22
+37:25 38:12,23
+38:25 39:4,8
+40:2,3,5,17
+41:3,4,12 46:2
+47:11,18 49:22
+50:25 53:5,7
+53:17,21 55:15
+57:8,19,23
+58:11 61:22
+62:6,20
+
+caused 28:10
+caution 61:18
+certain 52:4
+certainly 4:24
+6:7 10:2 23:5
+24:14 27:2
+36:21 40:6
+43:6 48:12
+50:3 54:1
+55:24
+
+challenge 56:15
+change 29:1
+
+38:16,16
+
+changed 38:18
+
+characteristic
+
+55:21
+
+18:2
+
+check 16:23
+checked 27:18
+checking 26:22
+Chicago 62:15
+Chief 3:4,9 4:14
+
+4:19 12:5,9
+16:18,20 20:21
+
+21:2 26:10
+29:14,18,22
+31:12,20,24
+32:6,22 33:12
+41:8,20 43:2,7
+44:6 47:6,15
+47:21 59:15,18
+59:20 60:5,7
+60:12 61:6
+63:14
+
+circuit 4:5,24
+
+6:9 20:10 36:6
+44:15 53:1,11
+62:11
+
+circumstance
+
+25:4,4
+
+circumstances
+3:15 4:7 5:14
+7:5,10 9:10
+21:6 24:24
+42:7 50:3
+52:14 55:15,17
+55:18 61:14,19
+61:25 62:4
+
+cite 20:15 47:6
+47:21 52:8,22
+62:14
+
+cited 24:2
+civil 3:13
+claim 5:19 48:25
+class 53:8
+clear 8:19 24:23
+
+33:15 43:8
+46:24 56:14
+59:2
+
+clearly 33:8
+client 34:19 35:4
+clients 35:4,8
+close 12:25
+closer 18:22
+closet 38:10,17
+Coates 1:17 2:3
+
+2:14 3:6,7,9
+4:18,21 5:11
+6:1,4,7,24 7:21
+7:24 8:17,24
+9:9,22 10:6,13
+
+11:2,10,16,18
+12:1,7,11,14
+13:8,13,23
+14:4,8,13 15:8
+15:18 16:1,8
+16:11 17:2,9
+17:21,24 18:6
+18:10,12,21
+19:6,11,16,20
+19:23 20:5
+61:7,8,10
+
+Code 15:9 31:6
+31:17 34:8,14
+57:22
+
+colors 10:1,15
+
+10:17 17:15,19
+19:3,13
+
+combine 60:16
+come 6:24 12:12
+
+16:4 26:3
+46:14 50:7
+54:3,9 57:15
+58:13
+
+comes 6:8
+coming 53:12
+commission
+
+35:1
+
+commit 15:11
+17:8 30:20
+31:1 35:2
+
+commits 11:6
+committing 31:9
+
+34:10 53:15
+common 56:2
+compare 47:3
+competent 33:2
+
+33:4
+
+complete 10:23
+completely
+
+51:20
+
+complied 47:24
+conceded 46:11
+concern 62:5
+concerned 21:23
+
+59:11,13
+conclusion
+
+59:24
+
+Alderson Reporting Company
+
+Official
+
+66
+
+definable 39:15
+defined 25:4
+
+directly 30:13
+disagree 48:25
+
+39:14
+
+defines 28:9
+defining 25:13
+definitely 11:11
+definition 40:9
+degree 25:25
+denying 3:13
+Department
+
+1:20
+
+depend 22:8
+depending 63:1
+depends 9:9
+
+11:10
+
+depict 20:2
+depicting 20:4
+deposit 56:4
+deposition 12:22
+
+45:18
+
+deputy 1:19
+
+41:15 42:3,15
+43:1,4
+
+described 49:1
+despite 28:19
+detail 16:13
+detailed 4:9
+Detective 42:12
+
+42:16 45:17
+53:24 59:24
+60:10,17
+
+determination
+3:18 4:1 17:5
+21:7 41:12
+61:2 62:2
+
+determine 25:2
+determined 3:16
+determining
+
+14:13
+
+developed 62:21
+difference 38:4
+
+38:8 46:18
+58:20
+
+different 21:13
+
+44:12 45:1
+52:25
+
+difficulty 6:18
+
+49:3
+
+discharged
+
+34:20
+
+disclosed 6:17
+discussed 32:8
+
+44:14
+
+discusses 23:15
+dispose 11:19
+
+13:10
+
+dispositive 6:10
+41:19,21 63:9
+
+dispute 49:25
+district 20:9
+23:20 41:15
+42:3,10,15
+43:1,5 62:10
+doctrine 37:24
+49:7,11 61:13
+
+documents
+
+14:11
+
+doing 15:15
+domestic 8:1,13
+8:22 9:11 45:6
+45:10
+
+double-edged
+
+42:22
+
+doubt 7:24
+drafted 43:19
+drawers 43:15
+
+46:13
+
+drawn 37:22
+52:4 59:24
+
+drug 32:8
+D.A 42:16,22
+D.C 1:10,20,23
+
+E
+E 2:1 3:2,2
+effect 42:5
+effectively 32:19
+either 26:20
+
+57:24
+
+elude 37:12
+encounter 55:16
+encourage 32:16
+
+concrete 44:10
+condition 56:2
+conduct 43:11
+conducted 49:18
+conducting 21:5
+confine 17:12
+confined 28:16
+connection 7:15
+
+9:2 16:15
+
+consider 7:25
+consideration
+
+27:9
+
+consistent 44:19
+constitutional
+
+15:17 47:1
+
+contemplating
+
+61:18
+
+contend 59:16
+contention 62:9
+contesting 35:25
+
+36:1,2
+
+context 3:14,14
+4:22 6:8 14:17
+20:16 26:1,4,6
+26:7,9 27:4
+28:8 33:18
+53:23
+
+contexts 53:14
+context-specific
+
+continue 9:12
+
+contraband
+
+contrary 15:6
+control 18:14
+
+conversations
+
+30:9
+
+37:12
+
+54:19
+
+23:17
+
+42:14
+
+cop 33:11
+cops 44:24 45:3
+correct 4:18 5:9
+
+9:22 11:16
+12:11 17:2,21
+19:11 24:17
+25:6 35:24
+40:22,25 47:9
+
+51:18
+
+correctly 29:19
+
+29:21,23,24
+counsel 5:18
+12:4 20:21
+31:20 59:15
+61:6,12 63:14
+63:15
+
+couple 46:22
+course 16:18,21
+
+29:8 32:20
+37:4 41:25
+42:21 43:10
+50:9 52:16
+61:1
+
+court 1:1,14
+
+3:10,12,17 4:2
+4:21,22 5:12
+5:21 14:14
+20:9 21:2
+23:20,21 24:5
+24:22 25:1,14
+26:4,16 27:3
+27:21 28:3,4
+28:12,14 31:25
+32:1 33:15,21
+33:24 34:1
+42:5 43:8
+44:16,18 49:10
+49:16 51:8
+52:16 61:3,4
+62:10 63:4
+
+courts 4:24 6:9
+
+46:24 49:5
+53:2
+
+Court's 4:6,11
+
+8:18 37:23
+44:19 46:23
+covers 46:21
+created 5:21,23
+creating 39:15
+Creighton 8:20
+crime 7:15,22
+
+7:25 8:11 9:10
+9:17 11:6,11
+15:11 17:8
+30:20 31:1
+
+34:10,16 35:1
+38:13,23 39:2
+39:5,10 45:19
+45:25 50:19
+51:14,25
+
+crimes 19:19
+crime-fighting
+
+42:11
+
+criminal 3:14
+14:16 20:2,4
+31:16 38:1
+39:15 46:6
+50:6
+
+culture 62:18
+curiae 1:21 2:8
+
+20:24
+
+curious 45:20,24
+current 28:23
+
+29:3
+
+currently 28:24
+CURT 1:3
+custodian 56:5
+
+D
+
+D 3:2
+damages 48:7
+danger 55:25
+databases 46:4,5
+59:25 60:3,18
+
+dealing 55:3
+deals 20:6
+decals 18:8
+DECEASED 1:8
+December 1:11
+decide 6:3
+decided 36:6
+decision 4:6
+26:23 53:11
+
+decisions 46:23
+defective 34:6
+defendant 7:13
+
+10:11
+
+defendant's
+12:10 58:25
+defense 5:25
+deference 3:19
+deficient 7:6
+
+Alderson Reporting Company
+
+43:3,7 61:15
+62:1
+
+endorsed 49:11
+engage 22:25
+25:1 51:19
+
+engaged 39:14
+enter 38:5 44:6
+entered 44:8
+entire 6:18
+
+20:17 53:18
+entitled 3:18
+10:8 11:7
+
+envelope 42:18
+especially 60:16
+ESQ 1:17,19,23
+
+2:3,6,11,14
+
+essentially 8:15
+
+42:4 48:1
+51:20 63:4
+
+establish 23:17
+42:24,25 50:12
+51:11
+
+established 34:3
+
+62:8 63:3
+establishing
+42:24 50:6
+ESTATE 1:7
+ET 1:3,8
+evaluating
+
+46:24
+
+evidence 3:14
+7:3 10:6,8,25
+17:19,24 19:16
+19:19 20:2,4
+21:16 23:8,8
+51:4
+
+Ewing 24:1
+exact 14:24
+exactly 32:14
+52:18 55:18
+58:5 59:12
+example 9:25
+26:10 38:10
+50:7 51:12
+53:14
+
+exception 7:4
+exceptions
+
+Official
+
+67
+
+61:16 62:3
+
+exclusion 4:22
+
+exclusionary
+
+exculpates 6:5
+exculpatory
+
+7:2
+
+49:8
+
+3:21
+
+excuse 6:21
+
+15:24 18:12
+35:5 40:15
+execute 44:2
+
+54:8
+
+executed 47:3
+executes 5:8
+executing 27:17
+
+execution 48:15
+EXECUTOR
+
+44:4
+
+1:6
+
+exercising 33:23
+exist 57:25
+existed 58:18
+existence 24:25
+
+28:2 32:5
+
+expand 21:20
+
+22:2
+
+experience 13:9
+expert 40:8
+explained 45:5
+explanation
+
+59:4
+
+explicitly 49:10
+Explorer 53:22
+expressed 16:5
+extent 12:15
+extra 61:20,21
+
+F
+face 5:23
+fact 4:15 5:19
+26:17 27:18
+40:23 42:3,23
+44:22 45:23
+49:25 52:6,7
+60:19 62:14,22
+
+factor 6:10
+
+facts 14:6 30:17
+
+33:18 37:11
+52:4,10 62:21
+63:10
+
+factual 4:9 5:14
+fact-dependent
+
+fact-specific
+
+52:3
+
+8:18
+
+fair 16:16 44:10
+fairly 8:8
+faith 4:25 5:3,5
+5:6,6 7:4 14:17
+14:22 15:6,19
+15:25 16:3,5,6
+16:9 25:8 26:2
+26:6,10,20,21
+26:22 27:16
+28:16,16 33:3
+33:17,19
+
+false 59:16,17
+
+60:13
+
+falsified 3:20
+familiarity
+
+family 35:8
+
+24:10
+
+62:17
+
+far 4:8 23:20
+Fathers 7:19
+favored 21:3
+fear 21:8 39:16
+feature 4:15
+Federal 31:16
+felon 45:23 55:2
+
+55:13 58:6
+
+find 9:15 10:16
+18:1 19:6,12
+23:6 24:25
+25:20 42:19
+46:13 48:23
+49:24 51:1
+56:7
+
+finding 18:7
+19:19 61:12
+
+fine 42:17
+fingerprints
+
+50:11
+
+Finish 31:12
+firearm 23:7
+
+62:12
+
+firearms 17:18
+
+23:2 53:24
+
+firearms-relat...
+
+21:23
+
+first 6:15 20:7
+
+22:1,16,24
+23:9 25:12
+36:19 41:25
+45:4 46:23
+50:18 51:6
+53:4 54:18
+58:12,18
+
+five 45:1
+flees 30:3
+follow 40:16
+Following 48:19
+follows 21:3
+footnote 7:8
+Ford 53:22,22
+form 24:19
+former 34:20
+formulated
+
+28:24
+
+formulation
+
+28:4
+
+forth 3:12 5:7
+13:9 22:23
+31:5 44:18
+48:9
+
+forward 27:7
+foster 12:11
+foul 48:1
+found 9:24,25
+10:13 17:14
+19:3,24,24
+24:11 35:19,23
+36:8,14,23
+37:1 41:4
+62:21 63:1
+
+Founding 7:19
+Fourth 7:1,19
+14:14 15:7
+21:4,25 22:5
+24:10 33:22
+
+47:24 52:12
+56:15 59:11
+Framers 59:12
+fraud 53:15,17
+front 6:22
+function 3:23
+fundamental
+
+58:20
+
+further 17:3,12
+future 17:16
+
+G
+
+G 3:2
+gang 7:13,15,22
+8:1,2,6,8,10,12
+8:13,22 9:6,18
+10:1,1,14,14
+10:15,17,18
+11:3,6,9,22,23
+13:9,12 15:21
+16:15 17:7,15
+17:19,20,25,25
+18:5,8,9,19,19
+19:2,3,7,7 20:6
+20:17 21:12,16
+22:9,18 30:12
+34:22 36:12
+39:13 40:7,9
+46:1 49:20
+51:11 52:7
+62:14,16,18,23
+
+gangland 7:25
+gangs 9:1 11:3
+
+13:10 19:12,13
+40:9
+
+gang-related
+7:17 8:5,14
+9:17,20 11:15
+21:24 22:2
+23:15 45:19
+48:13,24 51:5
+51:9,10,14,25
+
+gap 52:21
+Gates 8:19
+general 1:20
+
+7:18 19:15,18
+20:3 30:3,6,8
+
+Alderson Reporting Company
+
+Official
+
+68
+
+52:11 59:14
+generally 6:24
+
+41:25
+
+generic 53:8
+gentleman 8:24
+
+9:12 17:9
+
+Ginsburg 8:10
+
+8:21 9:5,16
+10:3,10 11:5
+20:1 27:25
+46:7,9 48:4
+58:21 59:3
+girl 39:5,22
+girlfriend 8:2
+34:21 54:15
+57:11
+
+give 29:1 53:7
+given 32:18
+go 3:19 6:14
+9:14 10:24
+13:4 14:17
+27:7 42:19,24
+45:22 46:11
+61:13
+
+goes 5:5 28:12
+28:21 43:14
+62:23
+
+going 13:18
+
+15:18,25 16:20
+30:15 45:2,7
+45:10 51:2
+57:6,10,10
+61:20
+
+good 4:25 5:3,4
+5:5,6 7:4 14:17
+14:22 15:6,19
+15:25 16:3,5,9
+23:7 25:6,8
+26:2,6,9,20,21
+26:22 27:19
+28:16 33:3,17
+33:19 39:6
+42:17
+
+gotten 47:4,13
+
+48:8,10
+
+government
+46:4 59:25
+
+60:3
+
+governs 26:5,7
+great 3:19 33:14
+green 53:20
+grip 54:1
+Groh 44:15
+
+46:23 47:6,7
+47:10,21 48:1
+
+gross 25:24
+grossly 25:16,22
+ground 56:12
+group 39:14
+guess 14:23
+
+22:18 28:22
+gun 10:11,12
+
+11:11,12 36:12
+36:21,23 37:1
+37:10,14,15,15
+37:15,19 38:9
+40:5 41:4
+54:10 55:21
+59:5,6
+
+guns 9:19 10:25
+11:9 13:1,3,17
+13:18,21 17:7
+21:11,16 22:10
+22:20 34:7,25
+36:14,14 38:25
+39:1,4,7,8,17
+39:18,20,21
+40:8,9,10,20
+40:21,24 41:3
+46:14,15,21
+48:23 54:12
+55:16 62:6,7
+
+gun's 39:6
+guy 15:21 18:9
+
+H
+
+half 49:13,13,13
+
+49:14 61:2
+
+handgun 15:23
+handguns 15:1,3
+
+23:4 37:3
+
+happen 21:17
+33:16 38:22
+
+happened 38:17
+
+happens 48:16
+
+happenstance
+
+58:21
+
+57:15
+
+50:21
+
+hard 42:2
+harder 16:21
+Harlow 7:9
+harm 47:11 48:1
+
+48:14
+
+harmed 46:25
+head 14:12
+hear 3:4 14:1
+hearing 28:8
+heartland 59:10
+heavy 33:10
+heightened 26:1
+held 3:17
+help 10:2
+helping 11:24
+hidden 63:6
+hide 9:3 45:6,9
+hiding 60:2,15
+high 3:12 5:12
+
+63:3
+
+highly 4:8
+hold 28:5,6
+home 11:8 12:8
+
+30:4 36:14
+52:7
+
+homes 62:17
+Honor 6:12 9:22
+18:12,21 28:4
+28:13 41:6,19
+Honor's 21:22
+hook 6:21
+hope 19:19
+hoped 49:24
+Horton 37:24
+house 10:22
+
+12:5,6,7,10,19
+13:1 15:1,2,3
+15:14,15 18:25
+19:1,5 35:9
+36:23,24 37:7
+37:14,14 38:10
+38:17,23 39:1
+
+39:4,9,12,20
+39:21 40:18
+41:5 43:14
+44:11 46:12,16
+50:19 54:9
+55:16 56:21
+58:19 59:8,8
+Housing 62:15
+hypothesis
+
+hypothesized
+
+hypothesizing
+
+21:22
+
+22:14
+
+55:7
+
+hypothetical
+
+47:4 57:1
+61:11
+
+I
+
+identification
+
+9:24
+
+identify 47:7
+identifying 18:2
+identity 23:17
+illegal 11:12
+12:2 13:19
+28:19 40:11,11
+54:19 56:23
+illegally 11:23
+Illinois 8:19
+illogical 16:14
+illustrates 25:25
+imagine 48:10
+immune 33:15
+
+33:25 42:2
+
+immunity 3:13
+4:11 6:8 7:2
+8:19 14:16
+21:15 22:7
+25:2 26:3,7,9
+28:9 32:2,19
+33:9,20 44:20
+48:6 49:8
+52:17
+
+implicate 22:3
+import 26:8
+
+45:22
+
+Alderson Reporting Company
+
+important 31:3
+
+35:8
+
+incident 52:5
+includes 23:5
+including 24:1
+
+46:4 53:21
+
+incompetence
+
+25:24
+
+incompetent 4:3
+
+5:13 16:12
+25:16,23 26:23
+26:24 63:4
+
+incorporates 7:9
+increase 51:13
+increases 23:11
+incur 61:19
+independent
+
+21:7 22:4
+
+indication 3:22
+indications 9:12
+indicia 3:25 4:25
+
+7:18 17:25
+18:18 19:7
+20:6,17 22:9
+23:16 28:1
+32:4 51:5,9,10
+62:23
+
+individual 23:7
+
+30:10 32:8
+individually
+
+19:8
+
+inferences 52:4
+information
+
+3:20,21 6:16
+6:20,22 8:15
+9:25 11:24
+32:10,23,24
+42:13 50:4
+53:25 60:17
+
+initial 3:18
+innocent 35:8
+36:24 40:18
+
+inquiries 47:17
+inquiry 8:18
+25:1 28:16
+49:1
+
+inside 54:10
+
+instructions
+
+44:14
+
+intended 34:10
+34:16 51:11
+
+intending 36:15
+intends 9:12
+intensity 22:16
+intent 15:11
+31:8 34:25
+interests 22:4
+interpret 20:16
+interrupt 30:25
+intimidation
+
+39:16
+
+invalid 3:16
+
+48:17 49:5,14
+
+investigating
+9:10 51:24
+investigation
+
+8:6 50:20
+
+invoked 31:10
+involve 11:13
+
+52:10
+
+involved 8:22
+
+32:7,11 53:25
+involves 11:11
+
+11:12
+
+irrelevant 8:6
+15:21 18:15
+50:19
+
+issue 7:15 9:19
+16:22 22:7,24
+36:4,5 49:5
+51:2
+
+issued 24:5 34:9
+issues 42:8
+issuing 54:7
+item 35:18
+items 9:21 15:10
+
+31:7 34:9,15
+34:18 47:7
+
+J
+JA 60:19
+Jane 41:16
+joint 22:22 31:4
+judge 24:5,8,9
+
+24:14,15,17
+33:1,6
+
+judges 20:10,12
+judgment 33:23
+
+43:10
+
+judgments 55:4
+judicial 3:23
+jumped 20:14
+jurisprudence
+
+4:11
+
+Justice 1:20 3:4
+3:9 4:14,19 5:3
+5:18 6:2,5,13
+7:11,23 8:10
+8:21 9:5,16
+10:3,10,19
+11:4,5,13,17
+11:21 12:4,5,9
+12:13,14,15,21
+13:11,14,24
+14:7,9,21
+15:13,24 16:2
+16:9,18,19,20
+17:6,17,22
+18:4,7,11,16
+18:24 19:9,14
+19:18,21 20:1
+20:21 21:2,9
+22:8,17,24
+23:25 24:3,8
+25:3,8,11,17
+26:10,19 27:5
+27:14,24,25
+28:22 29:8,12
+29:14,15,18,22
+30:1,8,17,19
+30:23 31:3,12
+31:20,24 32:6
+32:22 33:12
+34:4,19 35:4,5
+35:10,14,22
+36:3,9 37:6,9
+37:17,18 38:7
+38:15,21,24
+39:25 40:7,13
+40:19,23 41:2
+41:8,20 43:2,7
+
+Official
+
+43:13,23 44:1
+44:6,21 45:13
+46:7,9 47:6,15
+47:21 48:4,16
+48:18,21,22
+49:20 50:2,14
+50:24 51:15
+52:1,20,23
+54:3,6,20,23
+55:5,7,9,13,17
+55:20 56:6,11
+56:17,25 57:9
+57:15 58:1,4,9
+58:21 59:2,15
+59:18,20 60:5
+60:7,12 61:6
+61:11 62:5
+63:14
+
+justify 62:3
+
+K
+
+k 39:20
+Kagan 12:14
+21:9 22:24
+27:24 28:22
+48:22 52:1,20
+52:23
+
+keep 30:17
+
+Kelly 60:9,23
+
+47:16
+
+63:7
+
+Kennedy 30:1,8
+30:19,23 31:3
+37:6,9,17,18
+56:25
+
+Kennedy's
+
+38:21
+
+kill 30:15 34:21
+
+34:23 36:11
+39:7 45:1,2
+54:15 57:11
+
+killed 39:5
+killing 39:21
+kills 57:16
+kind 44:10 53:6
+
+59:12
+
+knew 14:18,19
+
+18:16 19:2
+58:17 60:14
+know 4:21 8:7
+15:22 17:18
+18:5,19 27:15
+29:9,16 33:5,5
+33:6,7,7 34:17
+39:12,12,13
+42:1,6,15,16
+42:18,20 44:11
+49:14,17 50:6
+50:10 51:19
+52:9,15 53:2
+53:17 55:1
+56:5
+
+knowingly 4:4
+
+5:13 16:12
+63:5
+
+known 28:18
+30:11 34:22
+54:14
+
+knows 6:16 40:8
+
+40:13,14
+L
+lab 50:8
+lacking 3:24
+25:22 28:1
+32:4
+
+language 22:22
+
+25:15 31:4
+large 23:18
+52:21 56:7
+
+Laughter 57:3
+law 4:4 5:13
+16:13 20:15
+30:25 43:12
+44:20 52:12
+63:5,12
+
+lawful 37:3
+lawfully 37:21
+
+38:5 59:9
+
+lawyer 24:9,13
+lawyers 32:25
+
+lead 44:13 45:11
+
+33:5
+
+45:14
+
+Alderson Reporting Company
+
+69
+
+58:6
+
+50:9
+
+23:2
+
+leading 53:10
+leave 56:7,10,11
+
+57:12
+left 8:4
+legal 54:12,21
+legally 54:12
+
+legion 23:23
+legitimate 50:4
+
+legitimately
+
+Leon 3:12 5:19
+
+5:21,22 7:8
+24:22 25:16
+28:8,14,15
+
+let's 6:13 9:18
+9:18 16:25
+21:15,21 51:1
+54:12 55:5
+56:6
+
+liability 42:25
+
+50:6 61:20
+
+liable 25:20 42:8
+license 10:24
+
+55:9
+
+lie 32:21
+light 7:5 14:19
+
+55:15
+
+limited 19:10
+
+42:6 47:5
+48:11,11
+
+line 44:13 53:4
+lines 53:1
+link 49:23
+links 50:4 51:3
+little 6:17 9:14
+
+13:17
+
+live 36:24 39:18
+lived 60:22
+lives 35:9
+living 12:19
+
+35:24 36:10,15
+
+location 50:5
+logic 17:13
+long 8:13 42:24
+look 14:10,11,15
+
+14:17,21 22:9
+22:10,12,13,19
+22:20 26:20
+46:12,19 47:2
+52:25 53:5,7
+53:17 63:8
+looked 20:12
+looking 10:24
+20:12 22:17
+27:5 37:11
+38:10 46:12
+
+looks 15:3
+Los 1:17
+lot 30:9 32:9
+
+M
+
+magistrate 6:19
+
+6:23 12:23
+16:25 17:4
+19:4 21:5
+24:25 25:15,19
+25:23,25 27:8
+32:20 33:1
+42:1,7,19
+43:20 45:25
+46:3,5 61:24
+63:13
+
+magistrates
+32:17 33:15
+magistrate's
+
+3:18 4:1 21:7
+27:22 28:19
+62:1
+
+main 24:23
+majority 24:2
+
+making 16:21
+
+33:14
+
+45:21
+
+Malley 3:11 4:2
+
+24:22 25:15
+26:4 27:21
+28:5 32:1,6,11
+32:14 33:16
+42:5 43:8
+44:18
+
+manner 9:3
+
+11:18 13:10
+
+48:25 62:16
+man's 18:19
+material 9:7
+
+60:1
+
+60:25
+
+48:24
+
+63:18
+
+materially 60:13
+
+materials 21:10
+
+matter 1:13
+
+mean 6:11 7:21
+
+10:8,12,15
+12:17 13:8,15
+14:4 15:25
+18:2,17 27:1
+30:23 35:20
+42:9 45:20
+50:20 51:9,19
+51:22 56:20
+57:22 58:17
+59:12 62:17
+
+meaningful
+
+21:21
+
+means 8:8 31:9
+31:15 62:25
+meant 29:20
+measure 48:14
+member 7:13
+
+8:1,2,11,13 9:6
+11:6 15:21
+18:5,9,19
+19:12 30:11
+34:22 36:12
+39:13 40:7
+46:1 52:7
+62:14
+
+members 8:8
+19:2,5 40:8
+62:16,17
+
+membership 8:6
+
+8:12 11:3,9
+16:15 17:20,25
+18:8,19 19:7
+20:6,18 21:12
+21:16 22:18
+51:12 62:24
+memberships
+
+Official
+
+70
+
+22:10
+
+mentioned
+
+32:13
+
+Messerschmidt
+1:3 3:5 42:12
+42:16 45:17
+53:24 60:10,17
+Messerschmid...
+
+59:25
+
+meth 50:8
+methampheta...
+
+50:13
+
+Millender 1:6,7
+
+3:5 58:23
+Millenders
+
+36:23,24 37:2
+37:2 40:24
+43:14 48:15
+50:18 58:19
+59:7,9
+
+Millender's 12:7
+
+12:8 59:9
+
+minimize 33:22
+minimum 49:15
+minute 11:21
+minutes 61:7
+mishmash 26:20
+misleading
+
+59:19 60:1,25
+misspoke 29:24
+misstatement
+
+mistake 32:12
+
+mistakes 33:16
+
+35:11
+
+33:19
+
+33:17
+
+mistaking 60:11
+mix 26:24
+Model 31:17
+Monday 1:11
+Monell 42:24
+moniker 10:1,15
+
+19:8
+
+monikers 10:18
+months 60:20
+multiple 19:5
+murder 30:11
+
+30:14
+
+N
+N 2:1,1 3:2
+name 54:10
+narrow 21:6
+24:24 25:3
+48:11
+
+narrowed 24:20
+narrowly 37:22
+natural 27:9
+nature 11:2,20
+
+12:1 52:3
+
+necessarily 30:7
+
+40:16 56:10
+need 10:3,10
+25:1 29:1,2
+neither 14:11
+neutral 21:5
+never 20:13
+
+44:24 45:3,16
+49:10 51:7
+52:17
+new 4:15
+night 46:2
+Ninth 4:5 36:6
+44:15 53:1,10
+62:11
+
+Nissan 53:20
+nonsuppression
+
+7:3
+
+note 8:7 10:16
+
+20:8 23:18
+61:14
+
+notes 56:25
+notion 62:7
+number 28:5
+Nuremberg
+
+5:25
+
+O
+O 2:1 3:2
+object 53:6,7
+objective 14:5
+26:5 28:7,16
+33:3 44:18,22
+51:21 63:10
+
+objectively
+
+25:13 27:21
+28:17
+
+objects 53:8
+obtained 48:3
+
+60:18
+
+obtaining 21:4
+offense 31:9
+office 33:5
+officer 3:15,20
+3:23,25 4:3,7
+4:12 5:1,6,9,15
+6:16,21 7:2,5
+7:14 9:1 10:22
+13:9 14:5,18
+16:6,7 17:14
+21:3,6,15
+24:13 25:5
+26:17 27:6,10
+27:11,15,22
+28:9,18 32:23
+33:3,4,25 34:1
+34:5,12,24
+36:11 42:8
+43:9,14,16
+44:13 47:22
+48:2 49:21
+50:15 51:16
+52:9,14,21
+61:23 62:19
+63:5,10
+
+officers 4:16 8:3
+20:15 25:19,20
+25:21 26:11
+28:25 29:1,7
+32:2 33:14,16
+33:19,21 41:12
+41:14 43:3,17
+43:18 44:9
+45:25 47:11,18
+61:15,17 62:1
+officer's 10:20
+11:14 14:12
+44:13
+
+official 28:2
+
+32:5
+
+oh 7:21 13:5
+
+Alderson Reporting Company
+
+Official
+
+71
+
+39:3 42:16
+43:23 48:7
+
+okay 6:3 23:21
+23:22 29:22
+33:6,7,8,8
+39:22 54:22
+55:6
+
+omitted 3:20
+on-the-scene
+
+62:2
+
+on-the-spot 55:4
+opinion 26:16
+opponent 39:2
+opposed 15:20
+
+62:6
+
+oral 1:13 2:2,5
+2:10 3:7 20:23
+31:22
+
+order 25:20 29:1
+ordinary 8:9
+ought 29:16,17
+
+52:14
+
+outlier 31:15
+outlined 27:20
+outside 14:17
+
+45:22
+
+overrule 6:15
+owned 59:9
+ownership
+18:14 23:4
+
+P
+
+P 3:2
+page 2:2 22:22
+23:21 26:15
+28:6,15,15
+31:3
+
+paperwork 23:3
+
+23:5
+
+paragraph
+
+22:24 23:9,11
+23:13,14
+paragraphs
+
+paraphernalia
+
+22:23
+
+49:21
+
+paraphrase
+
+13:16
+
+part 7:19 9:16
+
+35:11 44:4
+45:5 49:18,18
+51:6,9,10
+62:18
+
+particular 18:13
+23:7,16 33:17
+50:5,5 51:17
+52:13,14 54:8
+63:1
+
+particularly
+52:5 53:1
+
+parts 21:24 22:2
+
+25:12
+
+party 32:9
+passed 7:19
+pattern 42:25
+PAUL 1:23 2:11
+
+31:22
+
+Penal 15:9 31:6
+31:17 34:8,13
+57:22
+
+penalty 51:13
+people 8:9 18:25
+
+18:25 36:24
+39:14,17 46:16
+
+perform 3:23
+period 13:21
+permit 49:16
+permits 11:7
+perpetrated
+
+17:10 30:10,12
+person 30:5 31:8
+
+32:12 45:8
+50:5,12
+
+personal 23:16
+persons 23:17
+person's 15:14
+
+15:14
+
+perspective 27:6
+pertinent 6:20
+
+41:13
+
+petition 23:22
+Petitioner 30:24
+Petitioners 1:4
+1:18,22 2:4,9
+
+2:15 3:8 20:25
+43:18 45:15,17
+45:21 51:7,10
+61:9
+
+photograph
+18:23 22:19
+photographic
+
+23:8
+
+photographs
+10:4 20:2,4
+22:18 23:6,6
+
+phrase 24:18,19
+physical 30:12
+pieces 46:13
+pistol 10:17
+
+17:15 19:25
+54:1
+
+pistols 54:14
+place 6:22 22:1
+
+30:4 35:20
+37:21,21 50:11
+50:22,22 58:12
+58:18
+
+places 22:10,15
+plain 37:23,23
+
+61:13
+
+plainly 4:3 5:13
+
+16:12 63:4
+
+plaintiff 58:23
+play 26:3
+please 3:10 21:2
+
+31:25
+
+point 5:22,23
+9:23 21:17
+23:12 25:20
+27:4 31:3 35:8
+35:16 42:21
+43:7 52:19
+59:7 62:9
+
+police 3:15 6:16
+6:21 7:14 8:3
+11:6 16:5,7
+24:13 25:5
+28:25 29:1,7
+30:15 32:2,15
+32:16,18,23
+34:23 35:17
+
+36:20 37:5,12
+37:20 38:1,4
+38:22 40:4
+41:1 45:7 46:5
+47:4 48:2,8,10
+50:7,9,21
+51:23 52:9,13
+52:21 53:4
+54:16,18,25
+55:1,4,14,23
+56:3,21,23
+57:5,18,19,19
+policeman 25:17
+
+25:17
+
+pose 55:24
+position 8:15
+possess 36:13
+
+possessed 31:8
+possesses 54:12
+
+37:3
+
+58:6
+
+possessing 10:25
+possession 23:4
+
+50:13 56:22
+
+possibility 16:16
+
+58:13
+
+possible 17:22
+37:4,4 48:10
+possibly 9:23
+
+18:18
+
+postulated
+
+61:11
+
+post-hoc 51:20
+pot 5:10
+practice 21:3
+precaution
+
+61:21
+
+precedent 6:15
+precise 61:19
+premise 18:17
+
+23:18
+
+premises 18:13
+
+23:18 35:24
+36:10
+
+present 18:10,13
+
+21:13 43:21
+50:10 53:19
+
+presumably
+
+24:10
+
+presumes 6:19
+pretrial 56:2
+pretty 25:14
+
+33:10
+
+prevent 17:16
+Pre-Arraignm...
+
+31:17
+
+Principal 1:19
+principle 53:13
+
+principles 26:3
+
+53:23
+
+26:9
+
+printouts 60:18
+prior 4:20
+privacy 22:4
+probability
+
+16:16
+
+probable 3:25
+4:10,12 15:20
+21:8 24:11,25
+25:22,23 26:13
+26:18 27:8,23
+28:1 32:4
+33:18 34:3,17
+35:17,19,20,23
+36:7,20,22
+37:25 38:12,23
+38:25 39:4,8
+40:1,3,5,16
+41:3,4,12 46:2
+47:11,18 49:22
+50:25 53:5,7
+53:17,21 55:15
+57:7,7,19,23
+58:11 61:22
+62:6,20
+
+problem 5:4
+16:3 21:20
+22:5,25 23:20
+36:19
+
+problematic
+
+22:15
+
+problems 36:19
+Procedure
+31:16,17
+
+Alderson Reporting Company
+
+procure 8:8
+
+11:24 13:10
+procured 3:15
+
+9:3
+
+procures 11:19
+professional
+
+33:23
+
+promised 36:16
+proof 11:23
+
+27:11
+
+proper 56:5
+properly 29:4
+37:22 47:5
+
+property 18:22
+
+23:16
+
+propose 35:20
+proposes 43:11
+proposition
+
+53:13 59:22
+propositions
+
+52:11
+
+protect 8:4
+
+29:10,13,16,25
+protection 29:2
+protective 28:25
+
+29:4,7
+
+protectively
+29:10,13,19
+protects 29:16
+prove 19:4
+provide 59:4
+provided 4:9
+provides 23:1,2
+provision 3:24
+
+20:1,17,18
+23:19 31:5,10
+31:15 34:8,14
+57:21
+
+provisions 23:24
+public 8:3 31:9
+purchase 23:4
+purely 44:22
+purpose 13:18
+16:10 17:22
+51:8
+
+purposes 7:1
+14:13 26:6
+
+37:3 50:5
+52:18 61:24
+62:9,10
+
+pursuant 37:21
+pushing 42:18
+put 27:11 28:4
+
+33:11,11
+
+putting 56:25
+p.m 63:17
+Q
+
+qualified 3:13
+4:11 6:8 7:2
+8:19 14:16
+21:15 22:7
+25:2 26:3,7,9
+28:9 33:9
+44:20 48:6
+49:8 52:17
+
+quote 59:22
+quoted 28:13
+
+R
+R 3:2 61:8
+raise 22:25
+23:10,12
+
+rationalization
+
+51:20
+
+quantum 27:10
+question 13:15
+13:24 21:25
+23:10 25:12
+26:11,11 28:17
+28:20,21,22
+29:5 30:2
+32:21 33:13
+34:8 38:21
+41:14 44:12
+46:1 47:13
+48:4,5,7,19,21
+49:12 54:4
+55:1 58:2,4,10
+questioned 7:14
+questioning
+
+questions 21:13
+
+19:1
+
+21:19
+
+Official
+
+72
+
+react 38:6
+reaction 44:23
+read 12:18,24
+
+13:5 45:4,8,13
+45:14
+
+reading 45:16
+really 18:17
+22:19 29:5
+34:14 42:13
+44:19 47:10
+48:5 52:10
+53:23 56:20
+58:1,1 59:6,10
+61:2
+
+reason 10:21
+
+13:16 14:24,25
+15:1,5,16
+21:22 45:19
+50:10 53:5
+56:22 63:12
+
+reasonable 3:25
+4:11 5:8 14:5
+16:23 17:4
+24:13 25:5
+27:6,21 33:4
+33:23 34:11,12
+34:23 36:11
+39:19,20 40:2
+47:19,22 48:2
+48:23 50:15
+51:16 52:9
+61:23 62:24
+63:10
+
+reasonableness
+
+26:5 28:7
+41:11 44:18
+
+reasonably
+
+24:16 28:18
+33:2,4,25 34:5
+39:9 43:9,9,11
+45:8 49:21
+52:4
+
+reasons 41:24
+
+50:17
+
+rebuttal 2:13
+20:20 61:8
+
+recall 4:23
+
+receipts 23:3
+recognized 6:9
+
+7:6 8:8
+
+record 46:6
+49:15,17
+
+records 53:16
+
+53:18,18
+
+red 53:22,22
+reference 26:16
+regime 6:19
+rejected 42:5
+related 9:8
+
+52:25
+
+relates 11:8
+relating 21:12
+relationship
+
+7:16
+
+release 56:2
+released 56:1
+relevance 27:19
+relevant 12:17
+
+22:22 31:4
+41:21,23 55:2
+
+relies 44:13
+rely 21:7 27:22
+
+42:1 61:16
+62:2
+
+relying 42:21
+remaining 61:7
+remember
+
+Remington
+
+14:24
+
+37:10
+
+render 28:1 32:4
+repeatedly 6:9
+reprinted 60:4
+request 7:17
+
+required 52:17
+
+28:10
+
+56:4
+
+requirement
+61:16 62:3
+reserve 20:19
+reside 60:1
+resided 59:22
+residence 16:17
+
+18:1 19:24
+
+44:7,8 49:24
+50:1 51:4
+
+resident 62:8,11
+
+62:12
+
+resides 60:13
+resolve 49:16
+respect 23:12
+
+25:25 61:3,10
+62:5 63:6
+
+Respectfully
+
+52:23
+
+respects 23:14
+
+28:5 60:24
+Respondents
+
+1:24 2:12 20:7
+31:23 46:25
+61:12
+
+response 25:11
+
+39:10,23
+
+responses 46:22
+responsibility
+
+6:6
+
+rest 34:14
+result 16:4
+results 60:4
+retained 24:18
+review 5:2,24
+
+16:24
+
+reviewed 41:16
+
+43:4 46:3
+
+reviewing 41:10
+
+41:11
+
+rifle 54:19
+rifles 43:15
+
+54:14
+
+right 5:10 6:13
+8:3,23 14:2,21
+16:7 17:1,20
+22:12 24:6
+35:22 37:2,8
+47:12 48:20
+49:3 50:2
+54:20,22 55:8
+55:11 57:2
+rights 47:1
+risk 33:22
+ROBERTS 3:4
+
+Alderson Reporting Company
+
+4:14,19 12:5,9
+16:18,20 20:21
+29:14,18,22
+31:12,20 32:6
+32:22 41:8,20
+43:2 44:6 47:6
+47:15,21 59:15
+59:18,20 60:5
+60:7,12 61:6
+63:14
+
+room 26:8 54:9
+55:21 56:17,18
+56:19 58:5
+Rose 62:15
+roughly 13:25
+rule 24:4,18
+
+30:3,6,8 31:16
+42:2 49:8
+
+ruled 32:1 33:24
+run 53:19
+R.Q 1:23 2:11
+
+31:22
+
+S
+S 2:1 3:2
+safety 46:15
+sawed-off 8:2,25
+
+9:15,25 12:2
+17:10,12 34:20
+38:11 39:13
+46:11,20 48:12
+50:25 51:1,3
+52:6 53:25
+
+saying 6:1 11:5
+11:22 20:14,15
+52:13
+
+says 7:12 10:22
+
+13:5 15:16
+28:14 34:9,15
+44:23 51:23
+53:4
+
+Scalia 5:3 15:24
+
+16:2,9,19
+17:17,22 18:4
+18:7,11,16
+22:8,17 25:3,8
+25:11,17 26:19
+
+27:5,14 29:8
+29:12,15 40:19
+40:23 41:2
+43:13,23 44:1
+
+Scalia's 62:5
+scope 21:21 22:3
+23:9,11 46:19
+
+se 7:21 54:19
+search 4:10 7:17
+
+8:14 9:7,20
+11:7 13:1 15:2
+15:4,10,13,14
+15:17 17:19
+18:18 19:15,18
+21:5,10,11
+22:3,15,16
+24:11 28:19
+30:4,25 31:7
+32:3,7 33:24
+34:7,9,13
+35:20 40:20
+43:4,19,20,21
+44:11 46:10,19
+48:11 49:18,23
+51:21 53:21
+58:11 59:25
+60:3 63:2
+
+searched 59:8
+searches 23:1,3
+searching 25:1
+37:7,13 50:22
+50:22
+
+second 22:14
+
+23:9,10,13,14
+23:15 37:15,15
+37:19
+
+secondly 51:7
+section 20:5
+
+31:6,18
+
+secure 46:15
+55:24 56:24
+
+see 12:20 16:23
+
+16:25 18:23
+24:14 37:14,14
+37:23,25 38:17
+38:22,22 42:20
+53:19 58:7
+
+Official
+
+73
+
+seek 11:7 32:16
+
+32:19 33:14
+34:15 50:4
+62:1
+
+seeking 32:2
+seen 4:23 23:19
+sees 38:9
+seize 17:16 30:5
+
+34:9 38:2,11
+49:22,23 54:16
+54:24 56:12
+57:6,21 58:22
+62:6,20
+
+seized 40:23
+
+47:8,24 59:5,6
+59:8
+
+seizes 43:14
+seizing 62:4
+seizure 31:7
+
+40:20
+
+self-defense
+
+sending 61:24
+
+sense 8:5 9:14
+
+37:3
+
+63:13
+
+25:11
+
+sentence 23:14
+
+23:15 31:13,14
+
+Sentra 53:20
+separate 20:8
+
+32:21
+
+separately 20:13
+
+20:15
+
+separating
+
+47:16
+
+serve 17:23
+service 46:2
+set 3:12 5:7,12
+
+31:5 33:17
+42:6 44:18
+52:14
+
+sets 13:9 22:23
+severance 49:7
+
+49:11
+
+Shelly 60:9,23
+Sheppard 26:14
+
+26:15
+
+shot 45:1
+shotgun 8:3,25
+
+9:15 10:1,2,4,5
+10:14 12:2
+17:10,13 34:7
+34:20 37:10
+38:11 39:13
+46:11,14,20
+48:12 49:25
+50:25 51:1,3
+52:6 54:1
+
+shouting 45:2
+show 5:15 18:9
+18:13,14 22:18
+40:1,2
+
+showed 26:21
+
+47:17
+
+showing 23:3
+shows 18:22
+
+59:10
+
+sides 52:2
+sign 25:23 43:20
+signed 41:16
+
+42:4
+
+similar 53:9
+simply 6:2
+sitting 12:23
+
+20:11
+
+situation 25:14
+
+25:21 38:8
+50:9
+
+solely 32:7
+Solicitor 1:19
+somebody 46:16
+
+53:14,19,20
+56:4
+
+someplace 38:5
+
+50:20
+
+somewhat 16:21
+
+52:25 53:8
+
+son 12:12
+sorry 12:14
+16:19 35:5
+60:6
+
+sort 48:1,3
+
+49:12,17 59:14
+
+sorts 23:24
+
+54:20
+
+Sotomayor 5:18
+6:2,5,13 7:11
+7:23 10:19
+11:4,13,17,21
+12:4,22 18:24
+19:9,14,18,21
+30:17 48:16,18
+48:21
+
+sought 23:5
+34:12 54:7
+sounds 19:21
+soup 16:7
+speak 28:21
+speaking 25:18
+
+41:25
+
+specific 13:14
+
+37:10 53:6,6,6
+specifically 3:17
+
+4:2 15:23
+26:16 46:4
+59:5
+
+specify 17:11
+speculate 37:5
+Spilotro 53:11
+spite 5:21
+spoke 25:15,16
+spot 57:20
+spousal 51:23
+SRI 1:19 2:6
+
+20:23
+
+Srinivasan 1:19
+
+2:6 20:22,23
+21:1,9,18
+22:12,21 24:1
+24:7,21 25:7
+25:10,18 27:1
+27:20,24 28:3
+28:23 29:3,11
+29:20,23 30:7
+30:21 31:2,14
+
+stand 53:12
+standard 3:13
+
+7:9 14:5 16:12
+26:1,5 27:3
+28:7 44:17,19
+44:22 63:3
+
+Alderson Reporting Company
+
+Official
+
+74
+
+standards 4:7
+standing 56:15
+state 52:11
+stated 28:15
+statement 12:21
+
+13:16
+
+States 1:1,14,21
+2:7 3:12 20:24
+
+status 62:14
+statute 31:5
+stay 12:12
+stayed 60:22
+staying 60:2,8
+
+step 17:3 61:20
+
+60:14
+
+61:21
+
+stepping 15:19
+stick 9:19
+stop 10:7
+store 62:16
+strange 24:4
+Street 50:18
+
+59:23 60:20,21
+
+stressed 33:21
+stretch 9:1
+
+strong 10:9
+
+17:13
+
+25:14
+
+stronger 10:16
+stuff 27:19
+stupid 5:7
+subjective 6:16
+submit 4:1,6,9
+
+5:1 49:4
+
+submitted 4:8
+
+4:16 5:20
+32:24,25 41:14
+63:7,8,16,18
+
+subsection
+
+31:18
+
+subsequently
+
+suddenly 38:16
+
+3:16
+
+38:18
+
+suffered 48:15
+sufficient 7:12
+sufficiently
+
+28:24 29:4,7
+29:25
+
+suggest 11:25
+suggested 39:3
+
+45:16
+
+suggesting 52:9
+suggestion
+
+51:24
+
+suggests 40:10
+superior 24:5
+
+42:10
+
+superiors 4:16
+
+16:24 26:12,22
+27:18 32:25
+42:22 43:1
+63:8
+
+supervisor
+
+27:13
+
+supervisors 5:20
+
+5:23 6:3
+
+support 1:21 2:8
+
+20:25 23:24
+41:15 46:1,2
+suppose 4:14
+37:6 46:10
+49:12 51:1
+54:6,7
+
+supposed 12:16
+
+13:7,15
+
+supposes 22:25
+suppressing
+
+3:14
+
+suppression
+
+14:16 26:6,14
+27:4 28:8
+
+Supreme 1:1,14
+sure 16:11 18:6
+
+22:7 25:21
+48:9 57:4
+surely 47:11
+
+48:2
+
+suspect 30:2
+suspect's 37:7
+suspicion 32:12
+sword 42:23
+
+T
+
+T 1:17 2:1,1,3
+
+2:14 3:7
+
+take 12:16 13:7
+13:15,19 14:2
+21:21 27:9
+37:15,19 38:18
+39:7 46:15
+57:6,10,10
+58:10,12,17
+taken 27:10,12
+talked 4:25
+talking 41:9,9
+talks 62:15
+tavern 50:23
+team 42:11 44:4
+tell 7:11 18:24
+
+19:3 45:7 46:5
+tend 27:3 50:12
+tending 23:17
+term 34:1
+terms 7:1 15:19
+
+17:11 25:15
+26:2 61:11
+test 5:5,5,7,11
+
+5:12,21,23
+14:16 16:3,4
+16:10 25:8
+27:15,17,20,25
+28:23,24 29:1
+29:4,9,15
+30:19,21 51:15
+
+testified 45:18
+testimony 10:20
+Thank 20:21
+
+21:1 31:19,20
+31:24 61:5,6
+63:14
+
+thin 39:20
+thing 12:17
+things 12:16
+14:11 18:1
+24:12 37:5
+45:20,24 54:18
+55:20 56:24
+59:24
+
+think 4:23 5:9
+5:14 6:14 7:8
+
+8:5,7,12 9:1,2
+10:23 11:10
+12:24 13:1,2,8
+13:24 15:11,18
+15:20,22,22
+16:2,13,14,24
+17:7,7,13
+20:15 21:12,13
+21:18 22:21
+23:2 24:17,21
+25:10 26:8
+28:12,23,25
+29:3,6 30:3
+33:13,13 34:13
+34:24 35:14
+36:18 37:17
+38:12,20 39:4
+39:9,19 40:2
+41:5,13,18
+42:9 43:21
+44:9,12,17
+45:9 46:23
+47:13,22 48:5
+48:6,7,9 49:15
+50:15 51:19
+52:22,24,24
+53:14,19 54:17
+55:2,11,14
+56:9 57:4,5,24
+58:8,19 59:6
+59:21 60:24
+61:14,19,25
+62:7,13,19
+63:9
+
+thinking 13:6,17
+36:11 38:4,25
+
+thinks 16:25
+third-party's
+
+40:18
+
+thought 5:18
+13:3 14:1,23
+15:6 21:20
+23:21 25:5
+30:24 43:12
+45:4 51:15
+58:24,25
+
+threat 17:11
+
+Alderson Reporting Company
+
+36:16,17 58:14
+
+threatened
+
+30:14 34:23
+35:2 54:15
+57:12
+
+throw 44:25
+tie 9:23 10:2,4
+17:25 19:23
+62:25
+
+ties 18:22
+time 11:6 20:7
+20:20 30:24
+41:9
+
+TIMOTHY
+
+1:17 2:3,14 3:7
+61:8
+
+told 44:23 45:3
+
+45:25 46:3
+60:9
+
+top 44:11 59:8
+tossed 5:16
+totality 7:5,9
+
+14:18
+
+totally 42:17
+
+49:14,14 50:19
+
+training 14:22
+transpired
+42:14 63:7
+
+trial 51:2
+tried 36:11
+
+44:24
+
+truthful 32:24
+try 62:2,3
+trying 5:15 27:6
+
+45:1
+
+two 6:14 21:10
+
+21:12 22:13,23
+25:11,12 26:24
+47:16 52:25
+55:20
+
+U
+
+ultimately 43:8
+
+43:13 62:21
+
+unconstitutio...
+
+28:11
+
+understand
+
+18:18 19:1
+34:6 35:12
+42:3 43:23
+47:20
+
+understandable
+
+understanding
+
+23:23
+
+6:18
+
+view 37:23,24
+
+61:13
+
+viewed 20:9,10
+violating 4:4
+5:13 16:12
+63:5,12
+
+violation 22:1
+
+47:1
+
+understood
+
+38:21
+
+undertake 43:11
+undertook
+
+violations 33:22
+violent 30:11
+34:22 45:25
+52:5
+
+undesirable
+
+unfortunate
+
+44:10
+
+32:18
+
+62:18
+
+unique 19:12
+United 1:1,14,21
+2:7 3:11 20:24
+unknown 32:8
+unlawful 50:12
+unquote 59:22
+unreasonable
+25:13 28:2
+32:5 62:19
+
+unusual 15:22
+urge 27:2
+use 8:9 31:8
+32:8 34:10
+35:1 36:16
+46:16 52:5
+57:11,20 62:17
+
+useful 52:25
+
+V
+
+v 1:5 3:5,11,12
+8:19,20 32:1
+37:24 62:15
+valid 48:3,8,11
+49:13,13,13
+validity 6:25
+
+14:14
+
+valuable 51:4
+various 46:4
+vehicles 53:21
+victim 30:13,14
+
+W
+
+wait 11:21 14:7
+want 15:2 27:2
+35:13,16 43:2
+43:3,6 44:23
+50:10 61:15
+62:1
+
+wants 32:15
+warrant 3:16,24
+4:12 5:8 6:17
+6:18,25 7:6,7
+7:17,18 8:14
+9:13,20 10:24
+11:7 12:17
+14:10,14,15
+15:2,4 17:17
+21:4,24,24
+22:2,6,13 24:5
+25:5 28:10
+31:10 32:3,3,7
+32:19 34:2,6,9
+34:13 37:22
+40:19 41:10,15
+42:8 43:19,20
+44:2 45:22
+46:10,19,20
+47:2,4,5,7,13
+47:17,22 48:3
+48:9,11,17
+49:12,19 51:6
+51:9,11,22,22
+54:7 57:24
+59:4,14 61:16
+61:18 62:3
+
+Official
+
+warrants 30:3
+
+32:16 33:14,24
+43:4
+
+Washington
+1:10,20,23
+wasn't 11:14
+
+40:2
+
+water 27:3
+way 6:24 20:9
+
+20:10,10 21:21
+22:3 24:18,19
+29:6 41:21
+42:24 45:13,14
+51:25
+
+ways 6:14 45:2
+weapon 8:25 9:3
+9:4,6,24 11:19
+11:19,20,24
+12:2 30:2 54:8
+59:10 62:21,22
+63:1
+
+weapons 8:9 9:7
+
+9:8,13 10:21
+13:10 14:25
+16:17 18:14
+30:6 40:17
+54:21 55:24
+56:3,4,8,10,23
+57:5,16,21,24
+58:14,15,22
+61:12 62:4,17
+
+wear 18:8
+well-trained
+28:18 33:25
+34:5,12 43:9
+
+went 30:15 59:7
+weren't 30:18
+We'll 3:4
+we're 8:20 13:7
+20:11,14 24:8
+24:12 36:2
+41:10,11,11
+44:21 57:6,9
+57:10
+
+we've 5:7 16:4
+
+41:8,9
+
+willing 5:1
+
+Wilson 41:16
+window 44:25
+wiretap 32:7,13
+Wolfson 1:23
+
+2:11 31:21,22
+31:24 32:11
+33:12 34:11
+35:3,7,12,16
+36:1,5,18 37:8
+37:16,20 38:14
+38:20 39:24
+40:4,12,15,22
+40:25 41:6,18
+41:22 43:6,17
+43:25 44:3,8
+45:12,15 46:7
+46:8,9,22 47:9
+47:20,25 48:17
+48:20 49:3
+50:2,17 51:5
+51:18 52:1,16
+52:23 54:5,17
+54:22,25 55:6
+55:8,11,14,19
+55:23 56:9,13
+56:19 57:2,4
+57:14,18 58:3
+58:8,16 59:2
+59:17,19,21
+60:6,9,15
+
+wonderful 27:14
+words 14:24
+
+45:8
+
+work 5:1 47:12
+wouldn't 22:4,6
+22:10,19 58:10
+wrapped 10:14
+10:17 17:15,18
+18:4
+
+wrestled 49:6
+writ 23:18
+wrong 24:16,16
+
+36:10 39:3
+
+X
+
+x 1:2,9
+
+Alderson Reporting Company
+
+75
+
+Y
+
+years 53:15
+
+1
+
+1 31:18
+10 18:25,25
+10-704 1:4 3:5
+11 20:12
+11:08 1:15 3:3
+12-gauge 37:10
+12:09 63:17
+120th 50:18
+
+59:23 60:20
+
+1524(a)(3) 15:9
+
+31:6
+
+1950 53:18
+1983 26:7
+1998 53:15
+1999 53:15
+
+2
+
+2 61:7
+20 2:7
+2011 1:11
+210.3 31:18
+23 7:8
+27a 23:21
+3
+
+3 2:4
+31 2:12
+344 28:6
+345 28:15
+4
+
+17:14
+48 31:3
+
+5
+
+5 1:11
+52 22:22
+6
+
+6 20:12
+61 2:15
+
+41(c)(3) 31:16
+45 19:25
+45-caliber 10:17
+
+Official
+
+76
+
+8
+
+8 26:15
+
+9
+9 26:15,15
+97th 60:21
+
+Alderson Reporting Company
+
+

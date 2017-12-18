@@ -1,0 +1,7447 @@
+Official
+
+1
+
+       IN THE SUPREME COURT OF THE UNITED STATES
+- - - - - - - - - - - - - - - - - x
+CARACO PHARMACEUTICAL             :
+LABORATORIES, LTD., ET AL.,       :
+            Petitioners           :  No. 10-844
+       v.                         :
+NOVO NORDISK A/S, ET AL.          :
+- - - - - - - - - - - - - - - - - x
+                       Washington, D.C.
+                       Monday, December 5, 2011
+
+              The above-entitled matter came on for oral
+argument before the Supreme Court of the United States
+at 10:05 a.m.
+APPEARANCES:
+JAMES F. HURST, ESQ., Chicago, Illinois; for
+   Petitioners.
+BENJAMIN J. HORWICH, ESQ., Assistant to the Solicitor
+   General, Department of Justice, Washington, D.C.; for
+   United States, as amicus curiae, supporting
+   Petitioners.
+MARK A. PERRY, ESQ., Washington, D.C.; for
+   Respondents.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company
+
+Official
+
+2
+
+                     C O N T E N T S
+ORAL ARGUMENT OF                                  PAGE
+JAMES F. HURST, ESQ.
+   On behalf of the Petitioners                     3
+ORAL ARGUMENT OF
+BENJAMIN J. HORWICH, ESQ.
+   On behalf of the United States,                  16
+   as amicus curiae, supporting the Petitioners
+ORAL ARGUMENT OF
+MARK A. PERRY, ESQ.
+   On behalf of the Respondents                     27
+REBUTTAL ARGUMENT OF
+JAMES F. HURST, ESQ.
+   On behalf of the Petitioners                     55
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company
+
+Official
+
+3
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+                  P R O C E E D I N G S
+                                      (10:05 a.m.)
+            CHIEF JUSTICE ROBERTS:  We'll hear argument
+first this morning in Case 10-844, Caraco Pharmaceutical
+Laboratories v. Novo Nordisk.
+            Mr. Hurst.
+             ORAL ARGUMENT OF JAMES F. HURST
+              ON BEHALF OF THE PETITIONERS
+            MR. HURST:  Mr. Chief Justice, and may it
+please the Court:
+            Since 1984, whenever an -- a drug has
+multiple FDA-approved uses, there has been a statutory
+path for generic drugs to reach the market if there are
+specific uses not covered by a patent.  Here, there is
+no dispute that Novo's patent does not claim the use of
+repaglinide when used alone, and that is "an approved
+method" of using the drug.  Even though that matches the
+statutory language exactly, Novo is arguing that in this
+case, our counterclaim to correct their blocking use
+code is thwarted by the fact that their patent does
+claim a different approved use --
+            JUSTICE GINSBURG:  Is the first -- is the
+first approved, the drug itself -- they're not
+claiming that, because that patent has expired, isn't
+it?
+
+Alderson Reporting Company
+
+Official
+
+4
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. HURST:  That patent has long expired,
+and they also had a patent using -- for the use of the
+drug to treat diabetes through any method, and that
+patent has long expired.  The only patent that's left
+that Novo has is specifically limited to the use of
+repaglinide in combination with metformin to treat
+diabetes.  My client, Caraco, is attempting to get on
+the market for admittedly noninfringing uses, which
+occupy about 70 percent of the marketplace out there.
+            JUSTICE ALITO:  Suppose I said your brief
+does not cite a Supreme Court decision.  Would that be a
+correct statement?
+            MR. HURST:  I believe that -- that -- if the
+-- it depends on the context of the sentence, but I
+think that would be a correct statement if I understand
+the way you are asking the question.
+            You are asking the question in a way that
+suggests to me, by context, you're asking whether I cite
+any Supreme Court precedent.  But the context here is a
+little bit different, because the context here in the
+counterclaim is a situation where drugs routinely have
+multiple and different, distinct uses.  And in that
+context --
+            JUSTICE ALITO:  Well, we have hundreds and
+hundreds, probably thousands, of opinions, and you
+
+Alderson Reporting Company
+
+Official
+
+5
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+didn't cite -- there were many of them that you didn't
+cite.  You cited quite a few, but you didn't cite all of
+them.
+            MR. HURST:  That's true.  That's true.  But
+when a judge -- when a judge says to me that, you know,
+you're going to lose this case because you did not cite
+an applicable precedent, I'm going to hear that to mean
+I didn't cite a specific particular case.  There are
+many ways to use the word "an" after the word "not"
+where it clearly does not mean "any."  For instance:
+"The prosecutor failed to get a conviction because she
+did not prove an element of the offense."  "I got lost
+on my way to the party because I failed to make a turn."
+"My cake fell because I did not include an ingredient."
+So, the context speaks volumes in terms of whether or
+not "an" means "any" in any particular context.
+            JUSTICE SCALIA:  But -- but the context
+here, one would expect it to say, if it meant what you
+say it meant a -- did not claim a use asserted by the
+generic.
+            MR. HURST:  Justice Scalia, there --
+            JUSTICE SCALIA:  Not just "did not claim a
+use."  And we have to fill in, that is "the use asserted
+by the generic."  That's a strange thing to fill in.
+            MR. HURST:  Well, Justice Scalia, I am not
+
+Alderson Reporting Company
+
+Official
+
+6
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+quibbling with the fact that this could -- the statute
+could have been written more elegantly.  My guess is
+that almost every statute this Court is asked to
+construe, there are different ways that it could have
+been written to resolve the issue in question.
+            JUSTICE SCALIA:  It's not a matter of
+elegance.  It's a matter of how I would have expected it
+to be -- to be framed if it meant what you -- what you
+say it means.  It's so easy to say "does not claim the
+use asserted by the generic."  My goodness.  And that's
+what you say it means.
+            MR. HURST:  If -- and look at the context.
+The statute does not ask the brand company to identify
+an approved use that the patent does claim.  It puts the
+burden on the ANDA applicant to come into court, file a
+counterclaim, and identify an approved use that the
+patent does not claim.  We've carried that burden twice
+over.  There are two approved uses that the patent does
+not claim.  Context --
+            JUSTICE ALITO:  As I understand your
+argument, you satisfy -- the ground for seeking deletion
+or correction was satisfied even before Novo wrote the
+new use code that you claim is overly broad.  When the
+use code said simply the use of repaglinide with
+metformin, the ground for seeking deletion or correction
+
+Alderson Reporting Company
+
+Official
+
+7
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+was satisfied, wasn't it?
+            MR. HURST:  Well, I mean -- the truth is the
+patent -- yes, the answer to that question is yes.  But
+I would have no reason to go into court to fix a use
+code that's not blocking me.
+            JUSTICE ALITO:  No, but that's another --
+so, there are two oddities in the way you read the
+statute.  And it may be Congress just did a bad job of
+drafting.  But the first is the one we were discussing
+before, and that's the second one, that -- your -- your
+beef really is not that the patent does not include
+every use.  Your beef is that the source -- the use code
+is too broad.  And yet, that is not the ground that the
+statute sets out for seeking deletion or correction.
+            MR. HURST:  I believe it does, because it
+talks about -- there's two remedies:  the deletion
+remedy and the correction remedy.  As we read the
+statute, we preserve distinct roles for the correction
+remedy and the deletion remedy.  As Novo reads this
+statute, they all but acknowledge that they are writing
+the word "correct" out of the statute, because there is
+no meaningful role for the correction remedy as Novo is
+reading this statute.
+            They call the correction remedy a -- a relic
+of a failed bill.  And, in fact, they haven't identified
+
+Alderson Reporting Company
+
+Official
+
+8
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+any meaningful role for the word "correct" in the
+statute as they read this statute.
+            Remember, what they say is there's two
+pieces of information that qualify as patent
+information:  expiration dates and patent numbers.
+Nothing else.  The correction remedy can never reach an
+expiration date under any circumstances.
+            I haven't heard Novo to argue otherwise.
+What they're saying is if a patent is correctly listed
+in the Orange Book, this counterclaim is unavailable.
+So, what does that mean?  If the brand company
+incorrectly lists the expiration date for a properly
+listed patent as 2150, this counterclaim is not
+available to correct the expiration date.
+            So, that leaves only one single piece of
+information that could possibly be addressed by the
+correction remedy.  And what does Novo say?  Patent
+numbers.  They say, well, the correction remedy could be
+available for fixing typos in a patent.
+            JUSTICE SCALIA:  Yes, well, it's not much,
+but it's something.
+            (Laughter.)
+            JUSTICE SCALIA:  And -- and the way you're
+talking, you seem to assume that all the problems in the
+world have to be addressed by this statute.  Would you
+
+Alderson Reporting Company
+
+Official
+
+9
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+have no remedy by -- by suing the FCC for accepting uses
+that -- that it should not have accepted?
+            MR. HURST:  I -- whether I do have
+alternative remedies doesn't answer the question about
+whether I have a remedy in -- for this particular
+counterclaim.
+            JUSTICE SCALIA:  That's true, but it -- but
+if you have alternative remedies, I am not terribly
+shocked by the fact that you don't have a remedy under
+this statute.
+            MR. HURST:  I don't have any good remedies
+under this statute.  I could not, Justice Scalia, sue
+the FDA for accepting the use code, at least based on
+existing law, because the FDA's position is that their
+role with respect to patents is purely ministerial.
+That has been upheld for about a decade now, including
+multiple courts of appeals, the Federal Circuit, and the
+D.C. Circuit.  So, my ability to sue the FDA for
+accepting Novo's incorrect use code is not really a true
+alternative remedy.
+            The remedy that Congress gave me, that I --
+that we think Congress gave us is an enormously
+efficient remedy.  We filed our counterclaim, and within
+3-1/2 months, we got an injunction asking Novo to
+correct its use code.
+
+Alderson Reporting Company
+
+Official
+
+10
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE ALITO:  Suppose you didn't
+file the -- suppose the counterclaim provision wasn't
+available, and Novo -- you filed a paragraph IV
+certification, and Novo sues you for infringement.
+Could you not defend the infringement action on the
+ground that your use of the -- of the drug was not in --
+did not infringe their patent?
+            MR. HURST:  I could not.
+            JUSTICE ALITO:  Why -- why is that?
+            MR. HURST:  Because there's two paths that
+are available under the FDA to get -- for a generic to
+get approval.  One is section (viii), and if I proceed
+under section (viii), I can carve out the patented use
+from my label.  If -- and Your Honor's question assumed
+I went through the other route, paragraph IV.  I am
+not -- FDA does not allow you to carve out any portion
+of your label if you are proceeding under paragraph IV.
+So, the circumstance that you just described, I would --
+I would be infringing under paragraph IV, and the only
+way for me to get on the market is to invalidate the
+patent.
+            Now, think about what that means.  Novo is
+forcing us, essentially, to infringe.  We don't want to
+infringe.  We are trying to carve out our label so that
+we can proceed under section (viii).  They have blocked
+
+Alderson Reporting Company
+
+Official
+
+11
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+our ability to use section (viii).  So, they force us
+into paragraph IV, force us to infringe.  And what
+happens if we fail to invalidate the patent?  We are
+kept off the market until 2018 for admittedly
+noninfringing uses of the drug.  There are two
+admittedly noninfringing uses of the drug.  That's where
+we want -- that's what we want to use to get to the
+market.
+            JUSTICE KAGAN:  Mr. Hurst, would you agree
+that Congress did not contemplate this situation?  As I
+understand it, it wasn't until 2003 that the FDA allowed
+companies to write their own use codes, and that's what
+creates this problem.  So, would you agree that the
+Congress that passed this Act really couldn't have had
+this situation in mind?
+            MR. HURST:  I wouldn't agree, because look
+at the timing.  The FDA issued the regulation entitled
+"Submission of Patent" -- "Submission of Patent
+Information" in June of 2003.  Congress enacted this
+counterclaim using the same language in December of
+2003.  The submission of patent information regulation
+by the FDA with respect to method-of-use patents, and
+that's what we're talking about here, is all about
+ensuring that the use code itself is accurate and
+correct and matches up with the patent.
+
+Alderson Reporting Company
+
+Official
+
+12
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            So, I think this is something that Congress
+clearly had in mind, because they -- you have to assume
+that they knew about the regulation enacted by the
+agency that was administering this statute, issued just
+months before they enacted the counterclaim using the
+same -- the same --
+            JUSTICE GINSBURG:  But what about the fact
+that the FDA, and not the patent holders, were drafting
+the use codes at the time this legislation passed?
+            MR. HURST:  Justice Ginsburg, that is
+incorrect; your timing is incorrect.  Prior to June of
+2003, the FDA was authoring the use codes based on
+information from the brand companies; but after June of
+2003, the brand companies were authoring the use codes,
+and the statute was enacted after June of 2003.
+            JUSTICE KAGAN:  So, you're suggesting the --
+            JUSTICE KENNEDY:  When the FDA was writing
+the codes, was -- was it writing about the scope of the
+patent or was it writing about labeling?
+            MR. HURST:  It was writing about the scope
+of the patent.  The use codes have always been about the
+scope of the method-of-use patent; it has never been
+about anything other than the scope of the method-of-use
+patents.  The only --
+            JUSTICE KENNEDY:  I mean, we can ask the
+
+Alderson Reporting Company
+
+Official
+
+13
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Government, but why did it think that it lacked the
+expertise, because it didn't want to opine under the
+patent laws?
+            MR. HURST:  I think the short answer is yes;
+the FDA has always done their very best to not get
+anywhere near the patents.  They don't do patents,
+essentially.  And so, they decided -- and there was a --
+there was a notice and rule -- I mean -- I'm sorry -- a
+notice-and-comment rulemaking about this, and eventually
+decided to make -- to have the brands submit the use
+codes.
+            JUSTICE KENNEDY:  Would it suffice in the
+description just to give a cross-reference to the
+patent, to say the use of this drug is described in
+patent claim number 43?
+            MR. HURST:  It -- it would not be
+sufficient, because the way -- the whole purpose of the
+use code is to administer section (viii).  So, what the
+FDA does is they take the use code, and they match it up
+with the label, and then the generic gets to carve out
+whatever the brand company says is patented via the use
+code.
+            JUSTICE SOTOMAYOR:  Counsel --
+            MR. HURST:  But if I could get back to a
+question, Justice Scalia, that you asked about the --
+
+Alderson Reporting Company
+
+Official
+
+14
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+whether correcting typos in patent numbers is a real
+role for the correction remedy.  I would submit it is
+not.  And for all practical purposes, Novo is asking you
+to eliminate the correction remedy from this statute,
+and here's why.  Think about what they're saying.
+            Novo is saying that the brand company
+decides to put the patent in the Orange Book, but
+somebody transposes two numbers.  There's a -- there's a
+mistake that's made.  What does that mean in concrete
+terms?  Well, if you transpose the two numbers, the odds
+are astronomically high that the brand company is citing
+a patent that they don't own and that certainly doesn't
+relate to the drug in question.  It might relate to tire
+treads; who knows?
+            But you do not -- Congress did not enact a
+Federal cause of action to address typos in patents.
+The brand company has every incentive in the world --
+and the generic company has no incentive to file a
+lawsuit to fix that.  But the brand company has every
+incentive in the world to ensure that they don't make
+such mistakes, because there is a statutory benefit to
+properly listing patents.
+            JUSTICE SOTOMAYOR:  Counsel --
+            JUSTICE SCALIA:  Well, it's -- it's -- the
+issue is not whether Congress enacted it only for that.
+
+Alderson Reporting Company
+
+Official
+
+15
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+The issue is whether Congress enacted it for that in
+addition to a lot of other stuff.
+            MR. HURST:  But --
+            JUSTICE SCALIA:  I mean, it's a very small
+detail, you know -- "correct."  You're saying this one
+word, "correct," in this immense bill with all sorts of
+causes of actions and other provisions here and there --
+that one word has this -- this minimal meaning.
+            MR. HURST:  You have --
+            JUSTICE SCALIA:  It's conceivable.
+            MR. HURST:  You have to give it some
+meaning.  You have to give it some practical meaning.
+And right now -- and it's only -- the counterclaim has
+only two remedies.  So, Novo is arguing that the first
+of the two remedies is practically nonexistent.
+            JUSTICE SOTOMAYOR:  Counsel --
+            MR. HURST:  There is no role -- I'm sorry.
+            JUSTICE SOTOMAYOR:  I'm sorry.  Finish
+answering.
+            MR. HURST:  There is -- there is no role
+whatsoever.  It is surplusage by any definition to -- to
+say that "correct" -- "correct" is surplusage by any
+meaningful definition.  If you even put a dose of
+realism to this, "correct" has no role under Novo's
+reading, while we preserve distinct roles for both the
+
+Alderson Reporting Company
+
+Official
+
+16
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+correction and the deletion remedy.
+            JUSTICE SOTOMAYOR:  I'll wait for your
+rebuttal.
+            MR. HURST:  Thank you.  I'm sorry, Justice.
+Sotomayor.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            Mr. Horwich.
+          ORAL ARGUMENT OF BENJAMIN J. HORWICH
+             ON BEHALF OF THE UNITED STATES,
+      AS AMICUS CURIAE, SUPPORTING THE PETITIONERS
+            MR. HORWICH:  Mr. Chief Justice, and may it
+please the Court:
+            I'd like to pick up with Justice Kennedy's
+question about FDA and writing use codes.  The first
+thing I'd point out is that before 2003, although FDA
+wrote the actual text that went in the Orange Book, it
+was relying on information submitted on a sort of
+free-form declaration by the -- by the brand.  So, the
+brand was still kind of -- excuse me -- calling the
+shots in that -- in that respect.
+            But the -- but the more important point is
+that FDA doesn't have the resources or expertise or --
+and to engage in the substantive patent evaluations
+that, that would be required under a theory where you
+would go sue the FDA if you had a problem with this.
+
+Alderson Reporting Company
+
+Official
+
+17
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+But more to the point --
+            JUSTICE GINSBURG:  Mr. Horwich, do we -- do
+we know what FDA's position is in this case?  Is the
+position you're presenting the position of the FDA?
+            MR. HORWICH:  We -- yes.  We represent the
+United States here; and so, we -- we speak -- we speak
+for FDA and the other agencies of the government who are
+very concerned here about the competition law effects of
+this.  I mean, that's -- that's in some ways the bigger
+story here.
+            JUSTICE KAGAN:  Well, Mr. Horwich, what does
+that mean exactly, that you represent?  I mean, this
+might be a case where we would give the agency
+deference, except the agency's name doesn't appear on
+the brief.  So, should we give you any deference?
+            MR. HORWICH:  Well, the -- the names on the
+briefs I think should not be a guide to the deference
+question.  But we're not really claiming deference in
+the sense -- because what we're construing here, or what
+the Court is construing here, is the counterclaim
+provision, which is a Federal cause of action.  And so,
+the Adams Fruit decision of this Court would say that
+agencies don't get deference in defining the terms of a
+Federal cause of action.
+            And we do think that -- we do think that
+
+Alderson Reporting Company
+
+Official
+
+18
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+it's important to recognize that Congress and the agency
+were engaged in a dialogue in 2003.  And although I
+wouldn't label that deference, I would -- I would
+probably characterize it more accurately as Congress
+building upon what FDA had done in constructing its
+patent information regulation and Congress saying we
+need a means to -- to protect the integrity of the
+system FDA has set up.
+            JUSTICE KENNEDY:  Just one more question on
+how this works.  Why does the FDA rely on use codes in
+the Orange Book to make the carve-outs if it doesn't do
+anything to ensure the accuracy of the code?
+            MR. HORWICH:  Well, the statute -- well, let
+me start with the basic that the statute envisions that
+there will be carve-outs.  That's the whole principle
+behind section (viii).
+            JUSTICE KENNEDY:  Yes.
+            MR. HORWICH:  And so, FDA says, well, we
+need to know when a generic has made a valid carve-out.
+And FDA says -- and FDA goes through this in the 2003
+rulemaking -- if you read through the preamble, there's
+more detail.  But the short of it is FDA has three
+choices.
+            It could rely on the generics to say that
+they've carved out, but that doesn't really work because
+
+Alderson Reporting Company
+
+Official
+
+19
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+the generics could say something and then get on the
+market when they hadn't properly carved out, and that
+kind of defeats the whole point of Hatch-Waxman's
+principle of getting patent issues resolved before
+regulatory approval.
+            FDA could, as the second alternative, try to
+evaluate patents itself.  But nowhere else in the
+statute is FDA given any role in the substantive
+evaluation of patents, and with good reason.  This Court
+has said in its Markman decision that claim construction
+of patents is a question of law.  The actors in our
+system that decide what patents mean are courts and
+ultimately this Court; it's not FDA.
+            JUSTICE ALITO:  If a patent holder --
+            MR. HORWICH:  So, the third choice --
+            JUSTICE ALITO:  If a patent holder writes a
+use code that is ridiculously, totally, unreasonably
+broad, is there anything that FDA can do about that?
+            MR. HORWICH:  Well, I think the problem,
+Justice Alito, is that from FDA's point of view, it's a
+very slippery slope, because as soon as FDA starts
+undertaking criticism of a use code, its effective --
+the only basis for criticizing it is looking at the
+patent.  Now, this may be a very easy case, but the
+Court shouldn't be fooled that all cases are going to be
+
+Alderson Reporting Company
+
+Official
+
+20
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+easy.  And if FDA here were to go in and said, well,
+this doesn't look like it's the same as the claim of the
+patent, in the next case, where it's a more difficult
+question, where there may be some very good faith
+dispute between the parties about the very meaning of
+the patent, FDA is going to have to make a decision one
+way or the other --
+            JUSTICE ALITO:  Well, what about after --
+            MR. HORWICH:  -- and it's going to get sued.
+            JUSTICE ALITO:  What about after there has
+been litigation and a court has decided that a use code
+that was written in a particular case was totally
+unreasonable?  Does that -- does that mean that the
+writing of that was in violation of some provision of
+the -- of the Food and Drug Act or FDA regulations and
+that there would be some sanction against the company
+that did that?
+            MR. HORWICH:  Well, I think the -- I think
+the only posture in which a court would actually look at
+a use code and evaluate it is under the counterclaim.
+There's -- the court would not be looking at a use code
+under traditional paragraph IV litigation --
+            CHIEF JUSTICE ROBERTS:  What about --
+            MR. HORWICH:  -- and so, the author of the
+majority opinion below was kind of mistaken in that
+
+Alderson Reporting Company
+
+Official
+
+21
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+regard.
+            CHIEF JUSTICE ROBERTS:  What about an APA
+action against the FDA for relying on the use code?
+Couldn't that be challenged as arbitrary and capricious?
+            MR. HORWICH:  Well, it seems to me that --
+that that challenge would fail because FDA has made a
+reasonable construction of the statute, that its role is
+ministerial.  It does not engage in substantive
+evaluation of patents because the statute doesn't
+envision that.  So, FDA would win that suit.
+            On the other hand, if in -- going back to my
+answer to Justice Kennedy, if we're talking about kind
+of the second scenario where FDA does engage in
+substantive patent review, yes, FDA could get sued.  But
+the problem with that is that FDA is going to get sued
+in an APA suit; the real parties in interest are going
+to be the generic and the brand.  FDA is not going to be
+owed any deference because it's going to turn on a
+matter of claim construction, which is a question of
+law.
+            JUSTICE KENNEDY:  So -- so, how do -- how do
+you describe what the FDA does as your third --
+            MR. HORWICH:  So, what FDA does do is it
+accepts the submission from the brand describing its --
+describing its use code.  And FDA says in its 2003
+
+Alderson Reporting Company
+
+Official
+
+22
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+rulemaking we're trying to do the best we can through
+the administrative process to get good information in
+the first instance.
+            JUSTICE KAGAN:  And it's your understanding
+that you require companies to state the scope of the
+patent in the use code, or might you think it's
+perfectly permissible for a company to write its use
+code in terms of indications?
+            MR. HORWICH:  It's certainly possible in a
+particular case that the indications will be
+appropriate.  This is -- what we are asking for in the
+use code is something that's good enough to do the job
+that the use code is intended for, which is to inform
+FDA --
+            JUSTICE SOTOMAYOR:  Except that --
+            MR. HORWICH:  -- what needs to be carved
+out.
+            JUSTICE SOTOMAYOR:  Except, counsel --
+            JUSTICE KAGAN:  So, that -- I'm sorry.
+            JUSTICE SOTOMAYOR:  I'm sorry.
+            JUSTICE KAGAN:  Go ahead.
+            CHIEF JUSTICE ROBERTS:  Justice Sotomayor.
+            JUSTICE SOTOMAYOR:  Except the FDA tells
+parties not to rely on the orange code.
+            MR. HORWICH:  Well, it tells parties --
+
+Alderson Reporting Company
+
+Official
+
+23
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE SOTOMAYOR:  It tells them that what
+controls is the patent.
+            MR. HORWICH:  Well, that is true that FDA
+said that parties should, of course, look at the patent.
+But what FDA said in the 2003 rulemaking is that it
+would rely on the use code.
+            Let me also point out --
+            JUSTICE SOTOMAYOR:  Could I ask -- could I
+ask you --
+            MR. HORWICH:  I'm sorry.
+            JUSTICE SOTOMAYOR:  -- just on a practical
+basis -- I understand that the Petitioner has filed an
+amended label in 2010.  I presume that that amended
+label copies the current label with the exception of
+substituting the manufacturer.
+            MR. HORWICH:  The -- the labeling -- I can't
+speak to what the labeling in the application is right
+now, because it's confidential.
+            JUSTICE SOTOMAYOR:  But let's assume that's
+what --
+            MR. HORWICH:  But if we assume for the sake
+of argument that it's the same, yes.
+            JUSTICE SOTOMAYOR:  Now, it claims that when
+the paragraph IV -- the paragraph IV action is started
+and it's sued for infringement, that it's automatically
+
+Alderson Reporting Company
+
+Official
+
+24
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+going to lose --
+            MR. HORWICH:  Well, that's right.  And, in
+fact --
+            JUSTICE SOTOMAYOR:  -- because --
+            MR. HORWICH:  In fact, Caraco has stipulated
+to that.  That's at joint appendix 177 --
+            JUSTICE SOTOMAYOR:  All right.  Could you
+explain to me --
+            MR. HORWICH:  Because it includes the
+metformin use.
+            JUSTICE SOTOMAYOR:  Could you explain to me
+why?  Is merely the use of a label that's identical
+infringement or is it an infringement of the underlying
+patent?
+            MR. HORWICH:  It would be inducement of
+infringement to sell a product with labeling that
+suggests that the product be used for a patented method
+of use.
+            JUSTICE SOTOMAYOR:  Okay.  So, tell us how a
+court gets out of the quandary of there being a claim
+that is stipulated to -- I've infringed -- and then how
+does it deal with the counterclaim?  Now, the district
+court just ignored --
+            MR. HORWICH:  Well, the --
+            JUSTICE SOTOMAYOR:  -- the act of
+
+Alderson Reporting Company
+
+Official
+
+25
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+infringement below and went straight to the
+counterclaim.  But I'm not quite sure how you get out of
+the quandary that this creates for the courts and the
+parties.
+            MR. HORWICH:  The counterclaim is designed
+precisely to get out of the quandary, because what it
+says is the paragraph IV litigation here, the choice
+between infringement and noninfringement, is a false
+choice, because if the counterclaim prevails and the use
+code changes, the paragraph IV litigation is going to go
+away because Caraco is going to want to go proceed
+through section (viii).  It's going to be able to carve
+out --
+            JUSTICE SOTOMAYOR:  All right.  How about --
+            MR. HORWICH:  -- and get approval that way
+without a judgment in the paragraph IV litigation.
+            JUSTICE SOTOMAYOR:  Let's assume that Caraco
+puts in a label like the one it wants to use under claim
+4.  Will the FDA just kick it out?
+            MR. HORWICH:  Yes.  It's not --
+            JUSTICE SOTOMAYOR:  It will not even --
+            MR. HORWICH:  It's not permissible.
+            JUSTICE SOTOMAYOR:  It will not even ask for
+a response from Novo?
+            MR. HORWICH:  FDA will not permit -- does
+
+Alderson Reporting Company
+
+Official
+
+26
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+not permit -- will not approve the application where a
+-- where there's carve-out labeling combined with a
+section -- with a paragraph IV.
+            JUSTICE SOTOMAYOR:  But is that before --
+without an infringement action by Novo?
+            MR. HORWICH:  I'm not -- I'm not sure of the
+timing.  Of course, it's possible that -- I mean, the
+paragraph IV litigation is somewhat in the control of
+the parties; so, it's not as if FDA sends out the
+notices that could trigger the litigation.  But there --
+            JUSTICE SOTOMAYOR:  Well, if you tell me
+that the FDA --
+            MR. HORWICH:  There might not be a -- there
+might be --
+            JUSTICE SOTOMAYOR:  If you tell me the FDA
+doesn't want to get involved in construing the patent,
+why is it kicking out the claim for -- claim until Novo
+does a suit on whether or not the generic is infringing
+or not and let that issue be decided below?
+            MR. HORWICH:  From FDA's point of view, it's
+not a sufficient application if there's carve-out
+labeling presented with a paragraph IV certification.
+And I'd also say this, to take a step back:  The fact
+that there might be conceivably alternative remedies
+under some other construction of the operation of the
+
+Alderson Reporting Company
+
+Official
+
+27
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+statute shouldn't make you think the counterclaim isn't
+available here.  After all, the situation that Novo
+agrees --
+            CHIEF JUSTICE ROBERTS:  Finish your
+statement.
+            MR. HORWICH:  Thank you.
+            -- the situation Novo agrees is covered by
+the counterclaim, where the patent doesn't belong in the
+Orange Book at all, is one that can be remedied at some
+-- at some expense and delay through paragraph IV
+litigation by proving noninfringement if the patent's
+irrelevant.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            Mr. Perry.
+             ORAL ARGUMENT OF MARK A. PERRY
+              ON BEHALF OF THE RESPONDENTS
+            MR. PERRY:  Mr. Chief Justice, and may it
+please the Court:
+            I think the last half-hour has made clear
+that what really is at issue here is a challenge to
+FDA's administration of the Orange Book.  That is an APA
+challenge, not this counterclaim.
+            Justice Kennedy, you asked if when FDA was
+writing the -- the use codes, did it describe the scope
+of the patent?  And Mr. Hurst said yes.  That's false.
+
+Alderson Reporting Company
+
+Official
+
+28
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+The answer is no.  For example, if I could point to the
+joint appendix at page 522, these are some FDA-authored
+use codes.  Everything before U-530 is an FDA-authored
+use code.  U-275 --
+            CHIEF JUSTICE ROBERTS:  Oh, I'm sorry.  What
+page were you again?
+            MR. PERRY:  Page 522, Your Honor.
+            CHIEF JUSTICE ROBERTS:  Thanks.
+            MR. PERRY:  U-275, "Method of use of the
+drug substance."  U-278, "Method of use of the
+indication of the drug product."  U-279, "Method of use
+of the approved product."  These were the ones that the
+FDA wrote when it was responsible for writing use codes
+to put the world on notice.
+            So, U-278, method of use of an indication of
+the drug product -- the patent relates to secondary
+hyperparathyroidism, but you will never know that from
+the use codes, and -- and that's when FDA was writing
+it.
+            In 2003, FDA decided to turn it over to the
+industry.  And it said in this rulemaking -- you've
+heard a little bit about the rulemaking but not what FDA
+actually said.  It said to this:  "We believe" -- and
+I'm quoting by the way from page 19a of the reply brief.
+This is 68 Federal Register page 36,682.  "We believe an
+
+Alderson Reporting Company
+
+Official
+
+29
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+approach that requires the NDA applicant or holder or
+patent owner to identify the approved methods of use
+protected by the patent is most consistent with the
+general balance adopted in" the Hatch-Waxman Act.  And
+then the generic industry, during this very rulemaking,
+made all of the arguments that Mr. Hurst has made today,
+said we should have more of a challenge, we should have
+litigation and so forth.  And the FDA said no, that's
+not right, because that would let the generics pick it.
+            And we said -- they said we shouldn't do
+that.  And this is important.  This is on page 24a of
+the reply brief.  The FDA said very clearly, "There
+would be repeated litigation over individual patent
+listing decisions."  That's a bad idea, the FDA said,
+because there is no assurance that ANDAs would be
+approved sooner or generic drugs would enter the market
+any more rapidly.
+            CHIEF JUSTICE ROBERTS:  But the alternative
+is that the FDA is going to have to hire an awful lot of
+patent lawyers to review the -- the use codes and their
+correspondence to the actual patents.
+            MR. PERRY:  There are several alternatives,
+Your Honor.  First, the FDA could de-link the
+indications from use codes.  Right now the regulations
+say that you can base your use code on the indication.
+
+Alderson Reporting Company
+
+Official
+
+30
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Our use code is identical to our indication, applies
+with every regulation.
+            You didn't hear Mr. Horwich say that FDA
+thinks our use code is wrong.  FDA has accepted our use
+code.  Caraco filed an administrative challenge to the
+use code arguing that it was arbitrary and capricious.
+FDA rejected the administrative challenge.  And they
+didn't go to the D.C. Circuit to say that was arbitrary
+or capricious under the APA.  I mean, that's the way
+agency action gets challenged in the ordinary course as
+this Court has seen many times.  Not here.
+            CHIEF JUSTICE ROBERTS:  Well, that's the way
+agency action gets challenged when it's substantive
+action.  The FDA's position -- the United States'
+position is that this is purely ministerial act.
+            MR. PERRY:  Your Honor, they have chosen to
+make it a ministerial act, which is not a negative, by
+the way.  It is the Federal Drug -- Food and Drug
+Administration.  What they do is administer this
+program.  And they have in other areas, such as patent
+term extensions, entered into memorandums of
+understanding with PTO where there are patent issues so
+that there is interagency cooperation to deal with
+patent issues.  They could do that here, but they've
+chosen not to and, in the exercise of their enforcement
+
+Alderson Reporting Company
+
+Official
+
+31
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+discretion, said we are going to accept the NDA
+applicant's submission.
+            And, more importantly, FDA has made the
+policy decision to tie the section (viii) determination
+to the use code.  They don't have to do that.  That's
+not in the statute.  They could change that by
+rulemaking.  And, third, on the indication, for example,
+Novo's use code always follows the indication.  The
+change in this case was because FDA changed the
+indication.
+            JUSTICE SOTOMAYOR:  What odds would you
+put --
+            MR. PERRY:  I'm sorry?
+            JUSTICE SOTOMAYOR:  What odds would you put
+as a betting lawyer on them winning a challenge to the
+FDA policy decisions of what it's capable of doing and
+not doing?
+            MR. PERRY:  Your Honor, there have been
+about a dozen APA challenges to various aspects of this
+administration in the D.C. Circuit over the past 10
+years.  The generics have won several of them including
+most importantly the Purepac case, which we cite in our
+brief, which is a direct challenge to FDA's refusal of a
+section (viii) carve-out because of the use code.  And
+the generic won that argument.  It said it was arbitrary
+
+Alderson Reporting Company
+
+Official
+
+32
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+and capricious for the agency to do what it did.  So --
+look, every APA battle is an uphill battle.  They're the
+plaintiff.  They have burden -- the burden of proof.  It
+is an available remedy.  You couple that, Your Honors,
+with the --
+            JUSTICE GINSBURG:  What you -- what you
+described sounded very much like this case.  So, if the
+-- what was the D.C. Circuit case?  If -- if the D.C.
+Circuit said it's arbitrary and capricious not to -- to
+just accept the -- the brand's use code --
+            MR. PERRY:  In Purepac, Your Honor, the
+brand changed its position but the FDA did not change
+its position accordingly, and that was the arbitrariness
+there.  Here, the -- the brand changed its position, and
+the FDA went along.  So, I -- I don't think they would
+win that case, to be clear, in our particular facts.
+That's because Novo has done nothing wrong.  I mean,
+you've heard about -- a lot about over breadth,
+misleading, blah, blah, blah.  There is nothing wrong
+with Novo's use code if the agency agrees with that.
+            JUSTICE BREYER:  Can I bring you back for a
+minute, please, to the statute?  And if you -- it's in
+page 3 of the blue brief.  And in just reading it, I
+might be missing something which you will point out to
+me, I'm sure.  But if you get the statute at the bottom
+
+Alderson Reporting Company
+
+Official
+
+33
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+of the page, it says, as I -- if you've got it there,
+right?
+            MR. PERRY:  Yes, Your Honor.
+            JUSTICE BREYER:  Okay.  It says, "If the
+[NDA] holder" -- now that's -- that's Novo -- "holder of
+the approval" -- "the approval holder for the drug,
+a" -- I'm skipping words -- "a use of which is claimed
+by the patent" -- and that's what you are doing.  And
+what is that use?  Well, I look at page 12, and the use
+is "a method for improving glycemic control in adults
+with type 2 diabetes mellitus."
+            So, that's the use that you're -- that's the
+use that's claimed by the patent.  If you bring "a
+patent infringement action against the [ANDA] applicant"
+-- that's them -- "the [ANDA] applicant may assert a
+counterclaim" -- which they want to do -- "seeking an
+order requiring the holder to correct...the patent
+information on the ground that the patent does not
+claim...an approved method of using the drug."
+            So, I look at that with those words -- I've
+skipped words.  I look at those words, and I say that's
+what they're saying.  They're saying the use that --
+that your patent does not cover a portion of the set of
+things described by your use.  And, therefore, they
+would like to correct the description so that the
+
+Alderson Reporting Company
+
+Official
+
+34
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+description no longer covers something that you do not
+have -- a use that you do not have a patent on.
+            Now, that would seem to me to fit within
+those literal words.  And, of course, the purpose is
+what we've been arguing about.  But just looking at the
+literal words, why doesn't it fit?
+            MR. PERRY:  Justice Breyer, your question
+conflated, as Caraco often does, the use and the
+indication.  You quoted the indication, that is, a
+method of -- of improving glycemic control.  The use is
+repaglinide combined with metformin.  They are disclosed
+in different parts of the label.  The indication is
+under indications, and the use is under dosage and
+administration.  That's the way FDA has always
+administered this, and that's the distinction between
+indication and method of use, which is why the
+regulations and the form are written in the alternative.
+            JUSTICE BREYER:  In other words, you're
+saying that the -- this -- a method for improving
+glycemic control in adults with type II diabetes
+mellitus is not patent information.
+            MR. PERRY:  Your Honor, that is the
+indication that's --
+            JUSTICE BREYER:  I know, but are you saying
+it is patent information?
+
+Alderson Reporting Company
+
+Official
+
+35
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. PERRY:  It is not patent information
+submitted under (b) or (c) of section 505, which is the
+statutory language.  It is information submitted under
+314.53(p)and (e) of the regulation, which is a different
+question.
+            JUSTICE KAGAN:  Was not the regulation
+issued under this statutory section?
+            MR. PERRY:  No, Your Honor.  The regulation
+was issued under section 701, the general rulemaking
+authority.  They cite section 505, but there was a
+subsequent rulemaking when Pharma, the trade association
+for the -- for the branded industry, challenged FDA's
+authority to require all of this information.  And in
+2007 rulemaking that my friends on this side never cite,
+FDA came back and explained that our -- that the patent
+submission reg is based on section 701 to facilitate the
+section (viii) and ANDA process, not -- not an
+interpretation of section 505.  And there are lots and
+lots of interpretations of the statute.  Drug --
+            JUSTICE SCALIA:  Can you give us of the cite
+of that, please?
+            MR. PERRY:  I'm sorry.  The 2007 rulemaking
+is --
+            JUSTICE SCALIA:  You don't have to do it
+now.  Just -- just file it with the Court.  I don't want
+
+Alderson Reporting Company
+
+Official
+
+36
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+to eat your time up.
+            MR. PERRY:  You Honor, it's cited in our
+brief, and my colleague will hand up to you momentarily.
+            JUSTICE SCALIA:  Oh, it's cited in your
+principal brief?
+            MR. PERRY:  In the red brief, Your Honor.
+            JUSTICE SCALIA:  Yes.  Don't waste your
+time.  Go ahead.
+            MR. PERRY:  Justice Breyer --
+            JUSTICE SCALIA:  I don't really care.
+            (Laughter.)
+            MR. PERRY:  To further answer your
+question -- I do.
+            (Laughter.)
+            CHIEF JUSTICE ROBERTS:  Maybe your colleague
+can find it --
+            MR. PERRY:  Yes.
+            CHIEF JUSTICE ROBERTS:  -- before your time
+is finished.
+            MR. PERRY:  Justice Breyer, there is another
+point on the structure of the statute.  If you look at
+the -- at the chart in the back of our red brief where
+we tried to lay out the various provisions of the actual
+statute, the counterclaim that the Court read and that
+we're focused on talks about "a" use.  In the preamble,
+
+Alderson Reporting Company
+
+Official
+
+37
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+it says, "If the patentholder claims a use" --
+            JUSTICE BREYER:  You know, I know that
+argument.
+            MR. PERRY:  Right.  So --
+            JUSTICE BREYER:  You don't need that
+argument.
+            MR. PERRY:  Well, "a" use --
+            JUSTICE BREYER:  If you're right that patent
+information in this particular provision does not have
+anything to do with, or at least does not cover, the
+words about diabetes I just read, well, then I guess
+this section would have nothing to do with it because
+those are the words they want corrected, aren't they?
+            MR. PERRY:  That's correct, Your Honor, but
+there's a second --
+            JUSTICE KAGAN:  Mr. Perry, so, in your view,
+patent information is just the patent number and the
+expiration date, and that's all?
+            MR. PERRY:  The patent information submitted
+under (b) and (c) of section 505, correct, Your Honor.
+            JUSTICE KAGAN:  Is that just the patent
+number and the expiration date?
+            MR. PERRY:  That's right.  And we know that
+because the Congress at the same time debated a -- an
+alternative bill that was sponsored by the Democrats
+
+Alderson Reporting Company
+
+Official
+
+38
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+that had lots and lots of additional patent information.
+            JUSTICE KAGAN:  Well, why would anybody have
+created this counterclaim to fix the patent number and
+the expiration date when that can be done by way of a
+defense to a patent claim?
+            MR. PERRY:  Your Honor, it's important to
+remember the counterclaim is only a delisting provision.
+It was -- it is a very narrow provision.  The FTC report
+that's cited in the briefs identified eight cases in the
+first 18 years of Hatch-Waxman that raised this problem
+of improper listing, mostly due to successive 30-month
+stays.  That was fixed in the counterclaim, and the
+30-month stays were fixed, and there has never been a
+case since -- since 2003, there has never been --
+            JUSTICE GINSBURG:  What was fixed?  I missed
+what you said.  What was fixed in the counterclaim?
+            MR. PERRY:  The counterclaim addressed the
+problem of improper listing that was addressed in the
+FTC report.  The purpose of the counterclaim, according
+to its sponsors, according to the conference report, the
+listing of improper patents -- that problem has gone
+away.  There is no such problem anymore.  It has never
+come up again.  The counterclaim was entirely successful
+in solving the problem that Congress set out to address.
+It had nothing to do with use codes.
+
+Alderson Reporting Company
+
+Official
+
+39
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE SCALIA:  What do you mean by the
+problem of improper listing?
+            MR. PERRY:  Your Honor, what the FTC report
+explained was that certain branded companies near the
+expiration of the listed patent would come in and file a
+second patent in the Orange Book, even though it was not
+properly listed, it didn't fit within section 505(b) in
+the listing requirements, solely for the purpose of
+getting a second 30-month stay, essentially to box out
+the generic companies; and that that was an
+anticompetitive action.  They recommended the
+counterclaim to fix that.
+            And at the same time, the FTC said if
+Congress were to enact such a counterclaim, it is
+unclear how frequently it ever would be used.  So, this
+was always intended to be a very narrow -- it's not a
+fix-all remedy.
+            JUSTICE KAGAN:  And so, your argument, Mr.
+Perry, is not just that the word "correct" does no work.
+Your argument is that the entire provision no long does
+any work?
+            MR. PERRY:  No, Your Honor.  My -- my
+argument is very simple.  A delisting question -- it's
+an on/off switch.  Either the patent is properly listed
+in the Orange Book or it's not.  The counterclaim gives
+
+Alderson Reporting Company
+
+Official
+
+40
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+the generic a one-shot knock-out remedy.  If it's not
+properly delisted, it goes away, and a bunch of things
+follow from that.  There's no 30-month stay.  There's no
+paragraph IV litigation.  There's no impediment to FDA
+approving the ANDA, because if the patent isn't listed
+in the Orange Book, then a whole separate set of ANDA
+approval requirements kick in.  A use code is nothing
+like that.
+            CHIEF JUSTICE ROBERTS:  But I'm still not
+following it.  It's not listed simply because the number
+is wrong?
+            MR. PERRY:  Your Honor, the usual case is
+it's not listed because it doesn't fit.  The most famous
+example, the Buspar case, they claimed a metabolite
+rather than the drug substance, and that wasn't a proper
+listing for that reason.
+            The correction language, which does come out
+of the other bill, the alternative bill, and we do think
+is an artifact, is the language we've used, is there to
+give flexibility to courts.  If you have a situation of
+an improperly listed patent, then a court has more
+flexibility than simply delisting.
+            CHIEF JUSTICE ROBERTS:  The brand
+manufacturer has an overwhelming incentive to list the
+correct patent, doesn't it?
+
+Alderson Reporting Company
+
+Official
+
+41
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            MR. PERRY:  Yes, Your Honor, and --
+            CHIEF JUSTICE ROBERTS:  So, why would we
+give a procedure to an adversary to fix the number when
+the brand manufacturer is going to fix it as soon as
+it's alerted to the problem?
+            MR. PERRY:  Because, Your Honor, if the
+generic raises a counterclaim, if it's delisted, the
+generic gets no more 180-day marketing exclusivity stay
+at the end of the ANDA process.  If it's corrected to a
+different patent number, the generic would still have
+its 180-day exclusivity.  So, there's every incentive
+for the generic to bring the counterclaim for a
+correction if that's the appropriate remedy.
+            And, again, it just gives more flexibility
+to the courts.  That is something that very much would
+benefit the generic, and it would be an available use of
+the word "correct."  It may be an unusual one, but it's
+certainly available.
+            JUSTICE GINSBURG:  I can't imagine that that
+would really come to -- I mean, if it's a transposition
+of numbers, that there would be -- have to be a
+proceeding to get it changed.  I mean, the minute that
+was noticed, I assume that the brand manufacturer would
+change it.
+            MR. PERRY:  Your Honor, the transposition is
+
+Alderson Reporting Company
+
+Official
+
+42
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+not the problem.  The more frequent -- the way we think
+it would come up is these branded companies have large
+portfolios of patents.  They list many patents in the
+Orange Book.  You know, Novo has five or six right now.
+Other companies have many more, dozens and dozens.  They
+write these use codes, and they associate with -- them
+with the patents.  And in the Orange Book -- by the way,
+this -- it's called "the Orange Book" because it's
+orange.  And it's thick.  It's got a lot of information
+in it.  It has to list every single approved drug with
+the use code.  I mean, it's just pages and pages of
+numbers, is what's in here.
+            It's not a transposition of numbers but,
+rather, the -- listing one patent and improperly
+associating it with a drug.  That could be corrected
+through this counterclaim.  But, again, that's worlds
+away from this use code challenge, which is really what
+Caraco wants to bring, something that wasn't on
+Congress's radar screen because FDA wrote the use codes
+at that point.
+            JUSTICE SOTOMAYOR:  Counsel, let's -- let's
+assume -- because I now take from your earlier
+conversation with Justice Breyer that you're saying the
+use code here is absolutely right, because the only use
+that we claimed was the combination use of the drug,
+
+Alderson Reporting Company
+
+Official
+
+43
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+your drug, with the metformin -- that the only thing
+that's wrong here is the indication that the FDA has
+required.  So, that's not even wrong because you had no
+choice about that; is that correct?
+            MR. PERRY:  That -- the indication is
+correct.
+            JUSTICE SOTOMAYOR:  Tell me -- what this
+means practically, I believe, is that until your patent
+expires, no generic can come in with a use that's
+different than yours because they're going to be boxed
+out by this indication, this overbroad indication.  Do
+you actually think that that's what Congress intended?
+I thought, with claim IV and section (viii), that what
+Congress intended was to ensure that drugs got onto the
+market as quickly as possible.
+            MR. PERRY:  Your Honor, that argument was
+made to FDA by the generic industry in the 1994
+rulemaking, the first time this issue came up, and they
+said you should not allow use codes to be based on
+indications; you should instead require a description of
+the patented method of use.  You heard Mr. Hurst say
+that again this morning.  Here's what FDA said in
+response.  It's page -- 59 Federal Register page 50,346,
+quote:  "For a use patent, FDA includes in the Orange
+Book a code identifying the indication covered by the
+
+Alderson Reporting Company
+
+Official
+
+44
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+patent."  We decline to expand the Orange Book to
+include patent descriptions.  And then it went on to
+explain that persons interested in patent descriptions
+should consult the Official Gazette for Patents.
+            JUSTICE BREYER:  Yes, but what it also says
+is this -- and that's what I want to go back to this
+literal statutory argument.  We took the words --
+because this is what you can correct.  What you can
+correct, the statute says, is you can correct "patent
+information submitted by the holder under subsection (b)
+or (c)."  So, we look at (b), and what (b) says is (b)
+tells us that you're supposed to submit, in respect to
+where you claim the use of a drug, the patent number and
+the expiration date.  So, so far, that seems to support
+you.
+            But then we look at the regulations which
+the FDA promulgated, I take it promulgated in respect to
+(b) and (c), particularly the sentence I read or maybe
+some similar sentence.  And it tells you that you have
+to provide the description of the patented method of use
+as required for publication.  So, now I go back and look
+to what you did provide.  And what you did provide was
+you provided -- you said that what we do, we have a
+method for improving glycemic control in adults with
+type 2 diabetes mellitus.
+
+Alderson Reporting Company
+
+Official
+
+45
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            That seems to fit directly under (3) of the
+FDA's requirement, and that FDA requirement was an
+expansion of (b).  And, therefore, it sounds to me as if
+when they say "correct," "correct the patent
+information," it includes the sentence that you put
+there that they'd like to see corrected.  Now, what's
+wrong with that?
+            MR. PERRY:  Justice Breyer, first, the
+regulation is not an interpretation of 505(b).  It's an
+implementation of 701.
+            Second and more substantively, however, the
+form -- you quoted accurately from Box 4.2b of the form.
+There is also Box 4.2a of the form, which includes the
+description of the method of use tied to the label,
+which is required by subsection (P) of the regulation
+that you were just quoting to me.  And that part of the
+form -- Novo very carefully describes claim 4 of the
+patent and ties it to the dosage and administration and
+clinical pharmacology sections of the patent and calls
+out by reference combination trials.  The only
+combination trial in the label is the
+metformin-repaglinide combination.
+            And in FDA speak, that is a sufficiently --
+because these forms -- by the way, you've got them in
+here.  They're these little tiny boxes.  You can't put
+
+Alderson Reporting Company
+
+Official
+
+46
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+very much information in there.  That is described in
+there.  It is not that every piece of information
+required by the regulation -- the regulation has 19
+lettered questions, of which several have subparts; so,
+it's 26 separate pieces of information.  They're not all
+provided in one box, box 4.2b.  There's actually a whole
+form.  It's four pages long.  We filled it all out.
+            And there's an important point, Justice
+Breyer.  This is a summary judgment case.  We put in a
+declaration from an FDA expert -- it's in the record
+before the Court -- explaining how every single box ties
+to every single thing in the regulation.  That's
+absolutely undisputed on this record.  There is no
+contrary evidence as to Novo doing anything wrong.
+            So, whether Congress -- you know -- to go
+back to this counterclaim, we know Congress didn't
+intend it to reach this form, because this form didn't
+exist when Congress was debating the counterclaim.
+            JUSTICE BREYER:  The Government -- now, the
+Government, which is representing all the government
+agencies, whether the FDA signs it or not, tells us that
+that language, that (b) and (c) language, about patent
+information as interpreted by the regs does cover this
+stuff.
+            MR. PERRY:  Your Honor --
+
+Alderson Reporting Company
+
+Official
+
+47
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+            JUSTICE BREYER:  And this is about the most
+technical statute I ever read --
+            MR. PERRY:  Your Honor --
+            JUSTICE BREYER:  -- and -- and when I'm
+talking about patent information among (b) and (c), we
+have the Government telling us that that covers this.
+And why don't I just stop right there and say thank
+goodness I'm out of this case -- and I'm not out of it.
+            (Laughter.)
+            MR. PERRY:  I -- I think I can do no better
+than refer the Court again to the 2007 rulemaking,
+Justice Scalia, 72 Federal Register page 21,268, which
+the United States does not address and which Caraco does
+not address, in which FDA addressed your point,
+Justice Breyer, and explained that this information,
+while useful -- and we have never challenged FDA's
+authority to require the information, but it is not an
+interpretation of that language, "patent information."
+And this Court sees agency --
+            JUSTICE SCALIA:  And even if it were, as I
+believe the Government acknowledged, this is not a
+situation in which we owe deference to the FDA.  The
+issue is whether a lawsuit can be brought or not.
+            MR. PERRY:  Correct.
+            JUSTICE SCALIA:  And we -- we don't decide
+
+Alderson Reporting Company
+
+Official
+
+48
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+whether we have authority to decide cases on the basis
+of what the agency thinks.
+            MR. PERRY:  It is certainly --
+            JUSTICE SOTOMAYOR:  What is the parade of
+horribles that you imagine if we were to read the
+counterclaim provision in the way your adversary is
+promoting and the Government is promoting?  What --
+what, presumably, in the normal case and the one that
+the regulations appear to expect is that the use code,
+the indication code, everything is going to match the
+patent.  So, in that situation, the counterclaim would
+have no work to do.
+            So, what's the parade of horribles?
+            MR. PERRY:  Your Honor, first, the
+counterclaim has no work to do for use codes.  There's a
+complete disconnect there.  So --
+            JUSTICE SOTOMAYOR:  I -- I'm asking you to
+accept that we were to -- as an assumption only,
+don't -- it's not intended to be a -- a ruling -- to
+assume that we read the counterclaim in the way your
+adversaries want us to.
+            MR. PERRY:  Yes.
+            JUSTICE SOTOMAYOR:  What's the parade of
+horribles?
+            MR. PERRY:  Your Honor, it is going to add
+
+Alderson Reporting Company
+
+Official
+
+49
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+complexity, expense, and so forth.  The reason -- the
+problems with all civil litigation, all new causes of
+action -- and this was raised during the congressional
+debates.  When they proposed a freestanding cause of
+action for generics to sue over a whole bunch of things,
+Congress was up in arms, said no, we're not going to do
+that because we don't want to let private parties into
+the FDA process.
+            This Court is familiar with that and the
+parade of horribles from the Buckman case.
+            JUSTICE KAGAN:  But, Mr. Perry, there are
+also horribles on the other side, of course.  I mean,
+here's -- there's -- there's the statute, and it has
+three provisions, and two of them are vague, and one of
+them works against you.  One is "an approved method."  I
+think, you know, you both go back and forth about it; it
+depends on context.  One is "patent information," which,
+you know, maybe you're right, and maybe Mr. Hurst is
+right.  It's not really quite clear what it means to be
+under subsection (b) or (c).  The third is "correct."
+You basically read "correct" out of the statute.  So, at
+best, this is an unclear statute from your point of
+view.
+            And then there's the question of what it
+allows you to do.  The statute read your way essentially
+
+Alderson Reporting Company
+
+Official
+
+50
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+allows you to unilaterally expand your patent in areas
+in which it's quite clear that your patent ought not to
+go -- does not go -- but allows you to do that.  So, why
+should we read the statute so that it effects a purpose
+that's entirely antagonistic to the purpose that
+Congress had in passing this statute, given that the
+statute is at best from your perspective ambiguous?
+            MR. PERRY:  Justice Kagan, this statute was
+a political compromise.  There is no debate on the
+historical record about that.
+            And the compromise, as Mr. Hurst indicated
+earlier, was that the statute would deal with some
+things -- the counterclaim would deal with some things,
+delisting -- and almost everything else would be turned
+over to the FDA.  And FDA had this extensive rulemaking
+that, as Mr. Hurst said, Congress was aware of.
+            And during that rulemaking, Congress did
+several things.  First, it confirmed that the -- the
+industry would use the use codes.  Second, that use
+codes could be based on the indication.  So, there's no
+extension of the patent monopoly.  It is simply
+following FDA's instructions as to indication-based use
+codes --
+            JUSTICE GINSBURG:  Mr. Perry, may I ask you,
+on that core question:  We have a patent on a drug
+
+Alderson Reporting Company
+
+Official
+
+51
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+alone.  It expires, and then the patent holder gets a
+label patent that's on a method of use, and we have a
+generic that wants to sell the drug alone which is no
+longer patented.  Doesn't want to sell it in combination
+with anything else.  Wants to sell the drug alone.
+            Can it do so without infringing the
+method-of-use patent?
+            MR. PERRY:  No.  Your Honor, we will -- they
+will be sued for infringement if they ever go to market,
+because the generic substitution laws present in 49
+States require or allow pharmacists to substitute the
+products whether or not the combination is on the label.
+So, there will always be an infringement suit, which
+gets back to Justice Kagan's question:  Why would
+Congress have contemplated this?  They didn't
+contemplate this.  They contemplated delisting, where
+you take it out of the infringement suit altogether.
+            This issue -- indications, use codes,
+section (viii) -- that is all within the agency.  And if
+there's a litigation problem with it or challenge to it,
+that is what the APA is for.  And, again, there have
+been dozens of APA cases where the generics largely have
+challenged FDA's determinations in that respect.
+            It is not what the counterclaim is for.
+This is a very narrow provision.  What we're -- we're
+
+Alderson Reporting Company
+
+Official
+
+52
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+parsing, by the way, two clauses in one sentence of a
+statute.  The 2003 amendments were 415 pages long.  The
+Hatch-Waxman Act is thousands of provisions long.  Very
+delicate balance between lots of competing interests,
+billions of dollars at stake.  And we have to be
+careful.  When Congress creates a new cause of action,
+the law of unintended consequences kicks in here.
+            We know this is not -- that this case is not
+what Congress intended.  The counterclaim we don't
+believe can be read it all to it, even if it's
+ambiguous.  Putting it in context and looking at what
+FDA has actually said about these matters in its
+rulemakings when faced with the same challenges by the
+generic industry that Mr. Hurst presents here, it has
+rejected them over and over again as a policy matter.
+            JUSTICE ALITO:  To come back to Justice
+Kagan's question, your position is really nothing can be
+done by a generic that is blocked from marketing a drug
+for a nonpatented use by a use code that -- that is --
+that seems to cover that use.
+            MR. PERRY:  In this case, Justice Alito,
+there were two points:  First, FDA rejected Caraco's
+administrative challenge to the use code.  They could
+have taken that to the D.C. Circuit under the APA.
+Second, they have indicated a rejection of their section
+
+Alderson Reporting Company
+
+Official
+
+53
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+(viii) carve-out because of the use code.  They could
+take that to the D.C. Circuit under the APA.  That is
+the usual course for challenging agency action.
+            If there are any problems here -- our
+position is we have complied in every respect at every
+moment with every bit of FDA's regulations.  And, again,
+that -- that's what the evidence in this record shows.
+            So, again, I need to push back a little on
+extensions and monopolies and so forth, because that's
+not what this case is about.  This case is about a
+properly working administrative process, and should --
+in private litigation between two parties in which the
+FDA will not be a party, should that regulatory regime
+be dismantled.  You know -- and we actually asked to
+bring the FDA in, in this case.  Novo did.  And Caraco
+resisted that.
+            You know, we think that if you're going to
+debate the administration of the Orange Book, it should
+be under the APA --
+            JUSTICE KAGAN:  But --
+            MR. PERRY:  -- with the FDA as a party.
+            JUSTICE KAGAN:  But here's what we know
+about Congress's intent, and it goes back to the Mylan
+suit:  What we know about Congress's intent is that
+Congress wanted to give a generic manufacturer in this
+
+Alderson Reporting Company
+
+Official
+
+54
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+situation a remedy when there was a completely
+irrelevant patent.  And the question is why we should
+consider this to be any different.  In some respects,
+this makes -- this is worse from the generic
+manufacturer's point of view because the generic
+manufacturer doesn't even have a defense in an
+infringement suit.
+            MR. PERRY:  Your Honor --
+            JUSTICE KAGAN:  So, why should we think that
+the Congress that really cared about the result in Mylan
+does not care about this?
+            MR. PERRY:  Mylan, in the response, gives
+the generic a one-shot remedy, and you're out of it
+altogether.  And it's a black-and-white decision.  It's
+an on/off switch.  Either the patent is properly listed
+or not.  A use code in the Orange Book -- there are over
+a thousand of them.  They are shades of gray.  There
+are -- there are very specific ones, very general ones.
+I read to the Court some of the ones that FDA itself
+wrote.
+            You would get into these long involved
+questions about compliance and so forth -- to the
+effect, Congress wanted to make generic approvals
+quicker in the Mylan situation.  FDA itself -- and I
+started out my argument reading from that page, page 24a
+
+Alderson Reporting Company
+
+Official
+
+55
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+of the reply brief, where the FDA said increased
+litigation over use codes -- patent listings -- would
+not assure faster generic entry because you'd spend
+years and years, as we all have, litigating these very
+issues.
+            So, the Congress hadn't focused on this,
+which it never did.  There's not one word in the
+thousands and thousands of pages of legislative history
+about use codes.  Had it focused on this, it would never
+have gone this way because it didn't need to.  And when
+it did have the broader bill, S. 812, it failed.
+            Thank you.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            Mr. Hurst, you have 4 minutes.
+           REBUTTAL ARGUMENT BY JAMES F. HURST
+              ON BEHALF OF THE PETITIONERS
+            MR. HURST:  Thank you.
+            I'd like to start by asking the Court, if I
+can, to turn to the Joint Appendix, second volume, 484.
+And I want to address two issues:  the argument that the
+use code is disconnected from the patent itself and it
+-- it may relate to the indication regardless of what
+the patent says, and whether or not the information is
+being submitted under subsection (b) and (c).
+            If you're at 484, this form went through
+
+Alderson Reporting Company
+
+Official
+
+56
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+notice-and-comment rulemaking before the enactment of
+the counterclaim.  The title, "Patent Information
+Submitted" -- that -- that is a -- this carries out the
+regulation 314.53, entitled "Submission of patent
+information."
+            Now look at right below those two boxes.
+What does it say -- how does it say the information is
+being submitted?  This is a form Novo signed.  "The
+following is provided in accordance with section
+505(b)" -- that's 355(b) and -- "(c) of the Federal
+Food, Drug, and Cosmetic Act."
+            Moreover, when the FDA issued this patent
+submission regulation in its final rule, it cited 505 as
+its legal authority.  That's at 28J of the Blue Book.
+It cited -- and it specifically called out subsections
+(b) and (c).
+            So, this is a regulation that was enacted
+prior to the enactment of the counterclaim.  And now --
+            JUSTICE SCALIA:  And what do you say about
+the -- the section cited by -- by your colleague?
+            MR. HURST:  We address -- he's citing
+something the FDA said in 2007.  And if you actually
+read it, we cited it -- we addressed this in our briefs.
+It actually says our -- our legal authority for doing
+this was explained fully in 2003.  And in 2003, the FDA
+
+Alderson Reporting Company
+
+Official
+
+57
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+cites 505.
+            Can I turn you quickly to 487 now?  This
+addresses quite specifically this notion that the
+indication can be used even if it's disconnected from
+the patent.  4.2b.  Remember what the regulation says,
+and Justice Breyer read this before.  It's at 127a of
+the appendix.  But the regulation says that the brand is
+required to, quote, "the description of the patented
+method of use as required for publication."  They're
+supposed to provide that information.
+            And look what the actual instruction says.
+It could not be more clear.  4.2b, bottom right side.
+"The answer to this question" -- this is where the brand
+supplies the use code -- "The answer to this question
+will be what FDA uses to create a 'use code' for Orange
+Book publication.  The use code designates a method of
+use patent that claims the approved indication or use"
+-- it depends on what the patent claims -- "of a drug
+product."
+            And then it goes on to explain why you need
+to do that:  "Each approved use claimed by the patent
+should be separately identified in this section and
+contain adequate information" -- this refers to section
+(viii) -- "adequate information to assist 505(b)(2) and
+ANDA applicants" -- that's us -- "in determining whether
+
+Alderson Reporting Company
+
+Official
+
+58
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+a listed method of use patent claims a use for which the
+ANDA applicant is not seeking."  That is precisely the
+situation we are facing.
+            We have offered a construction of this
+statute that is fully consistent with its text, its
+structure, and its purpose.  And it really is the only
+reading of the statute that carries out congressional
+intent in terms of trying to prevent situations where
+incorrect patent information is unfairly delaying
+generic competition.
+            Up to this point right now, Novo has still
+failed to identify any reason why anybody in Congress
+would want the system to work as Novo posits, where the
+brand company gets to supply an overbroad use code,
+without judicial review, without agency review, that
+blocks admittedly noninfringing products from the
+marketplace.  And I -- and I submit that given the
+addition of the correction remedy, that would not be in
+there if this was not designed to address use codes,
+because that's the only thing that can be corrected
+without remedy.
+            JUSTICE SOTOMAYOR:  Going back to the
+question that I had and a more practical question --
+            MR. HURST:  Sure.
+            JUSTICE SOTOMAYOR:  As I read the record, in
+
+Alderson Reporting Company
+
+Official
+
+59
+
+April of '08, the FDA rejected your section (viii)
+application.
+            MR. HURST:  Yes.
+            JUSTICE SOTOMAYOR:  All right?  And it asked
+you to submit an amended code.  Your brief says we did
+it in September of 2010.  Is it anywhere in the record?
+            MR. HURST:  The question is did we --
+            JUSTICE SOTOMAYOR:  That you submitted what
+the FDA requested for your claim 4, the amended label?
+            MR. HURST:  Oh.  Yes, we -- we did, and it's
+in JA 777, paragraph 20.  It's a stipulated fact.
+            CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+            MR. HURST:  Thank you, Your Honor.
+            CHIEF JUSTICE ROBERTS:  The case is
+submitted.
+            (Whereupon, at 11:06 a.m., the case in the
+above-entitled matter was submitted.)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Alderson Reporting Company
+
+Official
+Official
+
+60
+
+A
+
+ability 9:18 11:1
+able 25:12
+above-entitled
+
+1:12 59:17
+
+absolutely 42:24
+
+46:13
+
+accept 31:1
+
+32:10 48:18
+accepted 9:2
+
+accepting 9:1,13
+
+30:4
+
+9:19
+
+accepts 21:24
+accuracy 18:12
+accurate 11:24
+accurately 18:4
+
+acknowledge
+
+acknowledged
+
+45:12
+
+7:20
+
+47:21
+
+act 11:14 20:15
+
+24:25 29:4
+30:15,17 52:3
+56:11
+
+action 10:5
+
+14:16 17:21,24
+21:3 23:24
+26:5 30:10,13
+30:14 33:14
+39:11 49:3,5
+52:6 53:3
+actions 15:7
+actors 19:11
+actual 16:16
+29:21 36:23
+57:11
+
+Adams 17:22
+add 48:25
+addition 15:2
+
+58:18
+
+additional 38:1
+address 14:16
+
+38:24 47:13,14
+55:20 56:21
+58:19
+
+addressed 8:16
+8:25 38:17,18
+47:14 56:23
+addresses 57:3
+adequate 57:23
+
+57:24
+
+administer
+
+13:18 30:19
+administered
+
+administering
+
+34:15
+
+12:4
+
+administration
+
+27:21 30:19
+31:20 34:14
+45:18 53:18
+administrative
+
+22:2 30:5,7
+52:23 53:11
+admittedly 4:8
+11:4,6 58:16
+adopted 29:4
+adults 33:10
+34:20 44:24
+
+adversaries
+
+adversary 41:3
+
+48:21
+
+48:6
+
+46:21
+
+agencies 17:7,23
+
+agency 12:4
+17:13 18:1
+30:10,13 32:1
+32:20 47:19
+48:2 51:19
+53:3 58:15
+
+agency's 17:14
+agree 11:9,13,16
+agrees 27:3,7
+
+32:20
+
+ahead 22:21
+
+36:8
+
+AL 1:4,7
+alerted 41:5
+Alito 4:10,24
+
+6:20 7:6 10:1,9
+19:14,16,20
+
+20:8,10 52:16
+52:21
+
+allow 10:16
+
+43:19 51:11
+allowed 11:11
+allows 49:25
+
+50:1,3
+
+alternative 9:4,8
+
+9:20 19:6
+26:24 29:18
+34:17 37:25
+40:18
+
+alternatives
+
+altogether 51:17
+
+ambiguous 50:7
+
+amended 23:13
+23:13 59:5,9
+amendments
+
+52:2
+
+amicus 1:20 2:8
+
+16:10
+
+ANDA 6:15
+
+33:14,15 35:17
+40:5,6 41:9
+57:25 58:2
+
+ANDAs 29:15
+answer 7:3 9:4
+
+29:22
+
+54:14
+
+52:11
+
+13:4 21:12
+28:1 36:12
+57:13,14
+
+answering 15:19
+antagonistic
+
+anticompetitive
+
+anybody 38:2
+
+anymore 38:22
+APA 21:2,16
+27:21 30:9
+31:19 32:2
+51:21,22 52:24
+53:2,19
+
+appeals 9:17
+
+50:5
+
+39:11
+
+58:12
+
+appear 17:14
+
+APPEARAN...
+
+48:9
+
+1:15
+
+appendix 24:6
+
+28:2 55:19
+57:7
+
+applicable 5:7
+applicant 6:15
+29:1 33:14,15
+58:2
+
+applicants 57:25
+applicant's 31:2
+application
+
+23:17 26:1,21
+59:2
+
+applies 30:1
+approach 29:1
+appropriate
+22:11 41:13
+
+approval 10:12
+
+19:5 25:15
+33:6,6 40:7
+
+approvals 54:23
+approve 26:1
+approved 3:16
+3:21,23 6:14
+6:16,18 28:12
+29:2,16 33:19
+42:10 49:15
+57:17,21
+
+approving 40:5
+April 59:1
+arbitrariness
+
+32:13
+
+arbitrary 21:4
+30:6,8 31:25
+32:9
+
+areas 30:20 50:1
+argue 8:8
+arguing 3:18
+15:14 30:6
+34:5
+
+argument 1:13
+2:2,5,9,12 3:3
+3:7 6:21 16:8
+23:22 27:15
+
+31:25 37:3,6
+39:18,20,23
+43:16 44:7
+54:25 55:15,20
+arguments 29:6
+arms 49:6
+artifact 40:19
+asked 6:3 13:25
+
+27:23 53:14
+59:4
+
+asking 4:16,17
+4:18 9:24 14:3
+22:11 48:17
+55:18
+
+aspects 31:19
+assert 33:15
+asserted 5:19,23
+
+6:10
+
+assist 57:24
+Assistant 1:18
+associate 42:6
+associating
+
+association
+
+42:15
+
+35:11
+
+assume 8:24
+
+12:2 23:19,21
+25:17 41:23
+42:22 48:20
+assumed 10:14
+assumption
+
+48:18
+
+assurance 29:15
+assure 55:3
+astronomically
+
+14:11
+
+attempting 4:7
+author 20:24
+authoring 12:12
+
+12:14
+
+authority 35:10
+
+35:13 47:17
+48:1 56:14,24
+automatically
+
+23:25
+
+available 8:14
+8:19 10:3,11
+
+Alderson Reporting Company
+Alderson Reporting Company
+
+Official
+
+61
+
+27:2 32:4
+41:16,18
+
+aware 50:16
+awful 29:19
+a.m 1:14 3:2
+
+59:16
+A/S 1:7
+
+B
+
+b 35:2 37:20
+
+44:10,11,11,11
+44:18 45:3
+46:22 47:5
+49:20 55:24
+56:16
+
+back 13:24
+
+21:11 26:23
+32:21 35:15
+36:22 44:6,21
+46:16 49:16
+51:14 52:16
+53:8,23 58:22
+
+bad 7:8 29:14
+balance 29:4
+
+52:4
+
+base 29:25
+based 9:13
+
+12:12 35:16
+43:19 50:20
+
+basic 18:14
+basically 49:21
+basis 19:23
+23:12 48:1
+battle 32:2,2
+beef 7:11,12
+behalf 2:4,7,11
+2:14 3:8 16:9
+27:16 55:16
+believe 4:13
+
+7:15 28:23,25
+43:8 47:21
+52:10
+
+belong 27:8
+benefit 14:21
+
+41:16
+
+BENJAMIN
+
+1:18 2:6 16:8
+
+best 13:5 22:1
+49:22 50:7
+better 47:10
+betting 31:15
+bigger 17:9
+bill 7:25 15:6
+
+37:25 40:18,18
+55:11
+
+billions 52:5
+bit 4:20 28:22
+
+black-and-wh...
+
+53:6
+
+54:14
+
+blah 32:19,19,19
+blocked 10:25
+
+52:18
+
+blocking 3:19
+
+7:5
+
+blocks 58:16
+blue 32:23 56:14
+Book 8:10 14:7
+16:16 18:11
+27:9,21 39:6
+39:25 40:6
+42:4,7,8 43:25
+44:1 53:18
+54:16 56:14
+57:16
+
+bottom 32:25
+
+57:12
+
+box 39:9 45:12
+45:13 46:6,6
+46:11
+
+boxed 43:10
+boxes 45:25 56:6
+brand 6:13 8:11
+12:13,14 13:21
+14:6,11,17,19
+16:18,19 21:17
+21:24 32:12,14
+40:23 41:4,23
+57:7,13 58:14
+branded 35:12
+
+39:4 42:2
+
+brands 13:10
+brand's 32:10
+breadth 32:18
+
+Breyer 32:21
+33:4 34:7,18
+34:24 36:9,20
+37:2,5,8 42:23
+44:5 45:8 46:9
+46:19 47:1,4
+47:15 57:6
+
+brief 4:10 17:15
+
+28:24 29:12
+31:23 32:23
+36:3,5,6,22
+55:1 59:5
+briefs 17:17
+38:9 56:23
+bring 32:21
+
+33:13 41:12
+42:18 53:15
+
+broad 6:23 7:13
+
+19:18
+
+broader 55:11
+brought 47:23
+Buckman 49:10
+building 18:5
+bunch 40:2 49:5
+burden 6:15,17
+
+32:3,3
+
+Buspar 40:14
+
+C
+
+c 2:1 3:1 35:2
+
+37:20 44:11,18
+46:22 47:5
+49:20 55:24
+56:10,16
+cake 5:14
+call 7:24
+called 42:8
+
+56:15
+
+calling 16:19
+calls 45:19
+capable 31:16
+capricious 21:4
+30:6,9 32:1,9
+Caraco 1:3 3:4
+4:7 24:5 25:11
+25:17 30:5
+34:8 42:18
+
+47:13 53:15
+
+Caraco's 52:22
+care 36:10 54:11
+cared 54:10
+careful 52:6
+carefully 45:17
+carried 6:17
+carries 56:3
+
+58:7
+
+carve 10:13,16
+10:24 13:20
+25:12
+
+carved 18:25
+19:2 22:16
+
+carve-out 18:19
+26:2,21 31:24
+53:1
+
+carve-outs
+18:11,15
+
+case 3:4,19 5:6,8
+17:3,13 19:24
+20:3,12 22:10
+31:9,22 32:7,8
+32:16 38:14
+40:12,14 46:9
+47:8 48:8
+49:10 52:8,21
+53:10,10,15
+59:14,16
+
+cases 19:25 38:9
+
+48:1 51:22
+cause 14:16
+
+17:21,24 49:4
+52:6
+
+causes 15:7 49:2
+certain 39:4
+certainly 14:12
+
+22:9 41:18
+48:3
+
+certification
+10:4 26:22
+
+challenge 21:6
+27:20,22 29:7
+30:5,7 31:15
+31:23 42:17
+51:20 52:23
+
+challenged 21:4
+
+30:10,13 35:12
+47:16 51:23
+
+challenges 31:19
+
+52:13
+
+challenging 53:3
+change 31:6,9
+32:12 41:24
+changed 31:9
+
+32:12,14 41:22
+
+changes 25:10
+characterize
+
+18:4
+
+chart 36:22
+Chicago 1:16
+Chief 3:3,9 16:6
+
+16:11 20:23
+21:2 22:22
+27:4,13,17
+28:5,8 29:18
+30:12 36:15,18
+40:9,23 41:2
+55:13 59:12,14
+
+choice 19:15
+25:7,9 43:4
+choices 18:23
+chosen 30:16,25
+Circuit 9:17,18
+
+30:8 31:20
+32:8,9 52:24
+53:2
+
+circumstance
+
+circumstances
+
+10:18
+
+8:7
+
+cite 4:11,18 5:1
+5:2,2,6,8 31:22
+35:10,14,20
+
+cited 5:2 36:2,4
+38:9 56:13,15
+56:20,23
+cites 57:1
+citing 14:11
+
+56:21
+
+civil 49:2
+claim 3:15,21
+
+5:19,22 6:9,14
+6:17,19,23
+
+Alderson Reporting Company
+
+Official
+
+62
+
+conversation
+
+42:23
+
+conviction 5:11
+cooperation
+
+30:23
+
+copies 23:14
+core 50:25
+correct 3:19
+
+4:12,15 7:21
+8:1,14 9:25
+11:25 15:5,6
+15:22,22,24
+33:17,25 37:14
+37:20 39:19
+40:25 41:17
+43:4,6 44:8,9,9
+45:4,4 47:24
+49:20,21
+
+corrected 37:13
+
+41:9 42:15
+45:6 58:20
+
+correcting 14:1
+correction 6:22
+6:25 7:14,17
+7:18,22,24 8:6
+8:17,18 14:2,4
+16:1 40:17
+41:13 58:18
+correctly 8:9
+correspondence
+
+Cosmetic 56:11
+counsel 13:23
+14:23 15:16
+16:6 22:18
+27:13 42:21
+55:13 59:12
+counterclaim
+
+3:19 4:21 6:16
+8:10,13 9:6,23
+10:2 11:20
+12:5 15:13
+17:20 20:20
+24:22 25:2,5,9
+27:1,8,22
+33:16 36:24
+38:3,7,12,16
+
+38:17,19,23
+39:12,14,25
+41:7,12 42:16
+46:16,18 48:6
+48:11,15,20
+50:13 51:24
+52:9 56:2,18
+
+couple 32:4
+course 23:4 26:7
+
+30:10 34:4
+49:12 53:3
+court 1:1,13
+
+3:10 4:11,19
+6:3,15 7:4
+16:12 17:20,22
+19:9,13,25
+20:11,19,21
+24:20,23 27:18
+30:11 35:25
+36:24 40:21
+46:11 47:11,19
+49:9 54:19
+55:18
+
+courts 9:17
+19:12 25:3
+40:20 41:15
+
+cover 33:23
+
+37:10 46:23
+52:20
+
+covered 3:14
+27:7 43:25
+
+covers 34:1 47:6
+create 57:15
+created 38:3
+creates 11:13
+
+25:3 52:6
+
+criticism 19:22
+criticizing 19:23
+cross-reference
+
+curiae 1:20 2:8
+
+13:13
+
+16:10
+
+current 23:14
+
+D
+
+D 3:1
+date 8:7,12,14
+
+13:15 19:10
+20:2 21:19
+24:20 25:18
+26:17,17 33:19
+38:5 43:13
+44:13 45:17
+59:9
+
+claimed 33:7,13
+
+40:14 42:25
+57:21
+
+claiming 3:24
+
+17:18
+
+claims 23:23
+
+37:1 57:17,18
+58:1
+
+clauses 52:1
+clear 27:19
+
+32:16 49:19
+50:2 57:12
+
+clearly 5:10 12:2
+
+29:12
+
+client 4:7
+clinical 45:19
+code 3:20 6:23
+6:24 7:5,12
+9:13,19,25
+11:24 13:18,19
+13:22 18:12
+19:17,22 20:11
+20:20,21 21:3
+21:25 22:6,8
+22:12,13,24
+23:6 25:10
+28:4 29:25
+30:1,4,5,6 31:5
+31:8,24 32:10
+32:20 40:7
+42:11,17,24
+43:25 48:9,10
+52:19,23 53:1
+54:16 55:21
+57:14,15,16
+58:14 59:5
+
+codes 11:12 12:9
+12:12,14,18,21
+13:11 16:14
+18:10 27:24
+
+28:3,13,18
+29:20,24 38:25
+42:6,19 43:19
+48:15 50:19,20
+50:23 51:18
+55:2,9 58:19
+colleague 36:3
+36:15 56:20
+
+combination 4:6
+42:25 45:20,21
+45:22 51:4,12
+combined 26:2
+
+34:11
+
+come 6:15 38:23
+
+39:5 40:17
+41:20 42:2
+43:9 52:16
+companies
+
+11:12 12:13,14
+22:5 39:4,10
+42:2,5
+
+company 6:13
+
+8:11 13:21
+14:6,11,17,18
+14:19 20:16
+22:7 58:14
+
+competing 52:4
+competition
+17:8 58:10
+
+complete 48:16
+completely 54:1
+complexity 49:1
+compliance
+
+54:22
+
+complied 53:5
+compromise
+
+50:9,11
+
+conceivable
+
+conceivably
+
+15:10
+
+26:24
+
+concerned 17:8
+concrete 14:9
+conference
+
+confidential
+
+38:20
+
+23:18
+
+confirmed 50:18
+conflated 34:8
+Congress 7:8
+
+9:21,22 11:10
+11:14,19 12:1
+14:15,25 15:1
+18:1,4,6 37:24
+38:24 39:14
+43:12,14 46:15
+46:16,18 49:6
+50:6,16,17
+51:15 52:6,9
+53:25 54:10,23
+55:6 58:12
+
+congressional
+
+49:3 58:7
+Congress's
+
+42:19 53:23,24
+
+consequences
+
+consider 54:3
+consistent 29:3
+
+constructing
+
+52:7
+
+58:5
+
+18:5
+
+construction
+
+19:10 21:7,19
+26:25 58:4
+construe 6:4
+construing
+
+consult 44:4
+contain 57:23
+contemplate
+11:10 51:16
+contemplated
+
+51:15,16
+
+context 4:14,18
+
+4:19,20,23
+5:15,16,17
+6:12,19 49:17
+52:11
+
+contrary 46:14
+control 26:8
+
+33:10 34:10,20
+44:24
+
+controls 23:2
+
+Alderson Reporting Company
+
+17:19,20 26:16
+
+29:21
+
+37:18,22 38:4
+44:14
+dates 8:5
+deal 24:22 30:23
+
+50:12,13
+debate 50:9
+
+53:18
+
+debated 37:24
+debates 49:4
+debating 46:18
+decade 9:16
+December 1:10
+
+11:20
+
+decide 19:12
+47:25 48:1
+
+decided 13:7,10
+
+20:11 26:19
+28:20
+
+decides 14:7
+decision 4:11
+17:22 19:10
+20:6 31:4
+54:14
+
+decisions 29:14
+
+31:16
+
+declaration
+
+16:18 46:10
+decline 44:1
+defeats 19:3
+defend 10:5
+defense 38:5
+
+54:6
+
+deference 17:14
+17:15,17,18,23
+18:3 21:18
+47:22
+
+defining 17:23
+definition 15:21
+
+15:23
+
+delay 27:10
+delaying 58:9
+deletion 6:21,25
+
+7:14,16,19
+16:1
+
+delicate 52:4
+delisted 40:2
+
+41:7
+
+Official
+
+63
+
+delisting 38:7
+39:23 40:22
+50:14 51:16
+
+Democrats
+
+37:25
+
+Department
+
+1:19
+
+depends 4:14
+49:17 57:18
+describe 21:22
+
+27:24
+
+described 10:18
+
+13:14 32:7
+33:24 46:1
+
+describes 45:17
+describing
+21:24,25
+description
+
+13:13 33:25
+34:1 43:20
+44:20 45:14
+57:8
+
+descriptions
+
+44:2,3
+
+designates 57:16
+designed 25:5
+
+58:19
+
+detail 15:5 18:22
+determination
+
+determinations
+
+31:4
+
+51:23
+
+57:25
+
+determining
+
+de-link 29:23
+diabetes 4:3,7
+33:11 34:20
+37:11 44:25
+dialogue 18:2
+different 3:21
+4:20,22 6:4
+34:12 35:4
+41:10 43:10
+54:3
+
+difficult 20:3
+direct 31:23
+directly 45:1
+
+disclosed 34:11
+disconnect
+
+48:16
+
+disconnected
+55:21 57:4
+
+discretion 31:1
+discussing 7:9
+dismantled
+
+53:14
+
+dispute 3:15
+
+20:5
+
+distinct 4:22
+7:18 15:25
+distinction
+
+34:15
+
+district 24:22
+doing 31:16,17
+
+33:8 46:14
+56:24
+
+dollars 52:5
+dosage 34:13
+
+45:18
+
+dose 15:23
+dozen 31:19
+dozens 42:5,5
+
+51:22
+
+drafting 7:9
+
+12:8
+
+drug 3:11,17,23
+4:3 10:6 11:5,6
+13:14 14:13
+20:15 28:10,11
+28:16 30:18,18
+33:6,19 35:19
+40:15 42:10,15
+42:25 43:1
+44:13 50:25
+51:3,5 52:18
+56:11 57:18
+
+drugs 3:13 4:21
+
+29:16 43:14
+
+due 38:11
+D.C 1:9,19,22
+
+9:18 30:8
+31:20 32:8,8
+52:24 53:2
+
+E
+
+e 2:1 3:1,1 35:4
+earlier 42:22
+
+easy 6:9 19:24
+
+50:12
+
+20:1
+
+eat 36:1
+effect 54:23
+effective 19:22
+effects 17:8 50:4
+efficient 9:23
+eight 38:9
+Either 39:24
+
+54:15
+
+elegance 6:7
+elegantly 6:2
+element 5:12
+eliminate 14:4
+enact 14:15
+
+39:14
+
+enacted 11:19
+
+12:3,5,15
+14:25 15:1
+56:17
+
+enactment 56:1
+
+enforcement
+
+56:18
+
+30:25
+
+engage 16:23
+
+21:8,13
+
+engaged 18:2
+enormously
+
+9:22
+
+ensure 14:20
+18:12 43:14
+ensuring 11:24
+enter 29:16
+entered 30:21
+entire 39:20
+entirely 38:23
+
+entitled 11:17
+
+50:5
+
+56:4
+
+entry 55:3
+envision 21:10
+envisions 18:14
+ESQ 1:16,18,22
+
+2:3,6,10,13
+
+essentially 10:23
+
+13:7 39:9
+49:25
+ET 1:4,7
+evaluate 19:7
+
+evaluation 19:9
+
+20:20
+
+21:9
+
+evaluations
+
+16:23
+
+eventually 13:9
+evidence 46:14
+
+53:7
+
+exactly 3:18
+
+17:12
+
+example 28:1
+31:7 40:14
+
+exception 23:14
+exclusivity 41:8
+
+41:11
+
+excuse 16:19
+exercise 30:25
+exist 46:18
+existing 9:14
+expand 44:1
+
+50:1
+
+expansion 45:3
+expect 5:18 48:9
+expected 6:7
+expense 27:10
+
+49:1
+
+expert 46:10
+expertise 13:2
+
+16:22
+
+expiration 8:5,7
+8:12,14 37:18
+37:22 38:4
+39:5 44:14
+
+expired 3:24 4:1
+
+expires 43:9
+
+4:4
+
+51:1
+
+explain 24:8,11
+
+44:3 57:20
+
+explained 35:15
+
+39:4 47:15
+
+Alderson Reporting Company
+
+Official
+
+64
+
+56:25
+
+explaining
+
+46:11
+
+extension 50:21
+extensions 30:21
+
+53:9
+
+extensive 50:15
+
+F
+
+F 1:16 2:3,13 3:7
+
+55:15
+
+faced 52:13
+facilitate 35:16
+facing 58:3
+fact 3:20 6:1
+
+7:25 9:9 12:7
+24:3,5 26:23
+59:11
+
+facts 32:16
+fail 11:3 21:6
+failed 5:11,13
+7:25 55:11
+58:12
+
+faith 20:4
+false 25:8 27:25
+familiar 49:9
+famous 40:13
+far 44:14
+faster 55:3
+FCC 9:1
+FDA 9:13,18
+
+10:11,16 11:11
+11:17,22 12:8
+12:12,17 13:5
+13:19 16:14,15
+16:22,25 17:4
+17:7 18:5,8,10
+18:18,20,20,22
+19:6,8,13,18
+19:21 20:1,6
+20:15 21:3,6
+21:10,13,14,15
+21:17,22,23,25
+22:14,23 23:3
+23:5 25:19,25
+26:9,12,15
+27:23 28:13,18
+
+28:20,22 29:8
+29:12,14,19,23
+30:3,4,7 31:3,9
+31:16 32:12,15
+34:14 35:15
+40:4 42:19
+43:2,17,22,24
+44:17 45:2,23
+46:10,21 47:14
+47:22 49:8
+50:15,15 52:12
+52:22 53:13,15
+53:21 54:19,24
+55:1 56:12,22
+56:25 57:15
+59:1,9
+
+FDA's 9:14 17:3
+
+19:20 26:20
+27:21 30:14
+31:23 35:12
+45:2 47:16
+50:22 51:23
+53:6
+
+FDA-approved
+
+FDA-authored
+
+3:12
+
+28:2,3
+
+Federal 9:17
+
+14:16 17:21,24
+28:25 30:18
+43:23 47:12
+56:10
+fell 5:14
+file 6:15 10:2
+14:18 35:25
+39:5
+
+filed 9:23 10:3
+
+23:12 30:5
+
+fill 5:23,24
+filled 46:7
+final 56:13
+find 36:16
+Finish 15:18
+
+27:4
+
+finished 36:19
+first 3:4,22,23
+
+7:9 15:14
+
+16:14 22:3
+29:23 38:10
+43:18 45:8
+48:14 50:18
+52:22
+
+fit 34:3,6 39:7
+40:13 45:1
+
+five 42:4
+fix 7:4 14:19
+38:3 39:12
+41:3,4
+
+fixed 38:12,13
+
+38:15,16
+fixing 8:19
+fix-all 39:17
+flexibility 40:20
+
+40:22 41:14
+focused 36:25
+
+55:6,9
+
+follow 40:3
+following 40:10
+
+50:22 56:9
+follows 31:8
+Food 20:15
+
+30:18 56:11
+fooled 19:25
+force 11:1,2
+forcing 10:23
+form 34:17
+
+45:12,12,13,17
+46:7,17,17
+55:25 56:8
+forms 45:24
+forth 29:8 49:1
+
+49:16 53:9
+54:22
+
+four 46:7
+framed 6:8
+freestanding
+
+49:4
+
+free-form 16:18
+frequent 42:1
+frequently
+
+39:15
+
+friends 35:14
+Fruit 17:22
+FTC 38:8,19
+
+39:3,13
+
+fully 56:25 58:5
+further 36:12
+
+G
+
+G 3:1
+Gazette 44:4
+general 1:19
+29:4 35:9
+54:18
+
+generic 3:13
+
+5:20,24 6:10
+10:11 13:20
+14:18 18:19
+21:17 26:18
+29:5,16 31:25
+39:10 40:1
+41:7,8,10,12
+41:16 43:9,17
+51:3,10 52:14
+52:18 53:25
+54:4,5,13,23
+55:3 58:10
+
+generics 18:24
+
+19:1 29:9
+31:21 49:5
+51:22
+
+getting 19:4
+
+39:9
+
+Ginsburg 3:22
+12:7,10 17:2
+32:6 38:15
+41:19 50:24
+
+give 13:13 15:11
+15:12 17:13,15
+35:20 40:20
+41:3 53:25
+
+given 19:8 50:6
+
+58:17
+
+gives 39:25
+
+41:14 54:12
+glycemic 33:10
+34:10,20 44:24
+
+go 7:4 16:25
+20:1 22:21
+25:10,11 30:8
+36:8 44:6,21
+
+46:15 49:16
+50:3,3 51:9
+
+goes 18:20 40:2
+
+53:23 57:20
+
+going 5:6,7
+
+19:25 20:6,9
+21:11,15,16,17
+21:18 24:1
+25:10,11,12
+29:19 31:1
+41:4 43:10
+48:10,25 49:6
+53:17 58:22
+good 9:11 19:9
+20:4 22:2,12
+goodness 6:10
+
+47:8
+
+government
+13:1 17:7
+46:19,20,20
+47:6,21 48:7
+
+gray 54:17
+ground 6:21,25
+
+7:13 10:6
+33:18
+
+guess 6:2 37:11
+guide 17:17
+
+H
+
+half-hour 27:19
+hand 21:11 36:3
+happens 11:3
+Hatch-Waxman
+
+29:4 38:10
+52:3
+
+Hatch-Waxm...
+
+hear 3:3 5:7
+
+19:3
+
+30:3
+
+heard 8:8 28:22
+
+32:18 43:21
+
+high 14:11
+hire 29:19
+historical 50:10
+history 55:8
+holder 19:14,16
+29:1 33:5,5,6
+
+Alderson Reporting Company
+
+33:17 44:10
+51:1
+
+holders 12:8
+Honor 28:7
+
+29:23 30:16
+31:18 32:11
+33:3 34:22
+35:8 36:2,6
+37:14,20 38:6
+39:3,22 40:12
+41:1,6,25
+43:16 46:25
+47:3 48:14,25
+51:8 54:8
+59:13
+
+Honors 32:4
+Honor's 10:14
+horribles 48:5
+
+48:13,24 49:10
+49:12
+
+Horwich 1:18
+2:6 16:7,8,11
+17:2,5,11,16
+18:13,18 19:15
+19:19 20:9,18
+20:24 21:5,23
+22:9,16,25
+23:3,10,16,21
+24:2,5,9,15,24
+25:5,15,20,22
+25:25 26:6,13
+26:20 27:6
+30:3
+
+hundreds 4:24
+
+4:25
+
+Hurst 1:16 2:3
+2:13 3:6,7,9
+4:1,13 5:4,21
+5:25 6:12 7:2
+7:15 9:3,11
+10:8,10 11:9
+11:16 12:10,20
+13:4,16,24
+15:3,9,11,17
+15:20 16:4
+27:25 29:6
+43:21 49:18
+
+Official
+
+65
+
+50:11,16 52:14
+55:14,15,17
+56:21 58:24
+59:3,7,10,13
+
+hyperparathy...
+
+28:17
+
+I
+idea 29:14
+identical 24:12
+
+30:1
+
+identified 7:25
+
+38:9 57:22
+
+identify 6:13,16
+
+29:2 58:12
+identifying
+
+43:25
+
+ignored 24:23
+II 34:20
+Illinois 1:16
+imagine 41:19
+
+48:5
+
+immense 15:6
+impediment
+
+40:4
+
+45:10
+
+implementation
+
+important 16:21
+
+18:1 29:11
+38:6 46:8
+importantly
+
+31:3,22
+
+improper 38:11
+38:18,21 39:2
+
+improperly
+
+40:21 42:14
+
+improving
+
+33:10 34:10,19
+44:24
+
+incentive 14:17
+14:18,20 40:24
+41:11
+
+include 5:14
+7:11 44:2
+
+includes 24:9
+
+43:24 45:5,13
+including 9:16
+
+31:21
+
+incorrect 9:19
+12:11,11 58:9
+incorrectly 8:12
+increased 55:1
+indicated 50:11
+
+52:25
+
+indication 28:11
+
+28:15 29:25
+30:1 31:7,8,10
+34:9,9,12,16
+34:23 43:2,5
+43:11,11,25
+48:10 50:20
+55:22 57:4,17
+indications 22:8
+
+22:10 29:24
+34:13 43:20
+51:18
+
+indication-bas...
+
+50:22
+
+individual 29:13
+inducement
+
+24:15
+
+industry 28:21
+
+29:5 35:12
+43:17 50:19
+52:14
+
+inform 22:13
+information 8:4
+
+8:5,16 11:19
+11:21 12:13
+16:17 18:6
+22:2 33:18
+34:21,25 35:1
+35:3,13 37:9
+37:17,19 38:1
+42:9 44:10
+45:5 46:1,2,5
+46:23 47:5,15
+47:17,18 49:17
+55:23 56:2,5,7
+57:10,23,24
+58:9
+
+infringe 10:7,23
+
+10:24 11:2
+
+infringed 24:21
+
+infringement
+10:4,5 23:25
+24:13,13,16
+25:1,8 26:5
+33:14 51:9,13
+51:17 54:7
+
+infringing 10:19
+
+26:18 51:6
+
+ingredient 5:14
+injunction 9:24
+instance 5:10
+
+instruction
+
+instructions
+
+22:3
+
+57:11
+
+50:22
+
+integrity 18:7
+intend 46:17
+intended 22:13
+39:16 43:12,14
+48:19 52:9
+
+intent 53:23,24
+
+58:8
+
+interagency
+
+30:23
+
+interest 21:16
+interested 44:3
+interests 52:4
+interpretation
+
+35:18 45:9
+47:18
+
+interpretations
+
+interpreted
+
+35:19
+
+46:23
+
+invalidate 10:20
+
+involved 26:16
+
+irrelevant 27:12
+
+11:3
+
+54:21
+
+54:2
+
+issue 6:5 14:25
+
+15:1 26:19
+27:20 43:18
+47:23 51:18
+issued 11:17
+12:4 35:7,9
+
+56:12
+
+issues 19:4
+
+30:22,24 55:5
+55:20
+
+IV 10:3,15,17,19
+
+11:2 20:22
+23:24,24 25:7
+25:10,16 26:3
+26:8,22 27:10
+40:4 43:13
+
+J
+
+J 1:18 2:6 16:8
+JA 59:11
+JAMES 1:16 2:3
+2:13 3:7 55:15
+
+job 7:8 22:12
+joint 24:6 28:2
+
+55:19
+
+judge 5:5,5
+judgment 25:16
+
+46:9
+
+judicial 58:15
+June 11:19
+
+12:11,13,15
+
+Justice 1:19 3:3
+3:9,22 4:10,24
+5:17,21,22,25
+6:6,20 7:6 8:20
+8:23 9:7,12
+10:1,9 11:9
+12:7,10,16,17
+12:25 13:12,23
+13:25 14:23,24
+15:4,10,16,18
+16:2,4,6,11,13
+17:2,11 18:9
+18:17 19:14,16
+19:20 20:8,10
+20:23 21:2,12
+21:21 22:4,15
+22:18,19,20,21
+22:22,22,23
+23:1,8,11,19
+23:23 24:4,7
+24:11,19,25
+25:14,17,21,23
+
+Alderson Reporting Company
+
+Official
+
+66
+
+38:1,1 52:4
+
+6:8
+
+M
+
+majority 20:25
+manufacturer
+23:15 40:24
+41:4,23 53:25
+54:6
+
+manufacturer's
+
+54:5
+
+MARK 1:22
+2:10 27:15
+
+market 3:13 4:8
+
+10:20 11:4,8
+19:2 29:16
+43:15 51:9
+
+marketing 41:8
+
+52:18
+
+58:17
+
+marketplace 4:9
+
+Markman 19:10
+match 13:19
+
+matches 3:17
+
+48:10
+
+11:25
+
+matter 1:12 6:6
+
+6:7 21:19
+52:15 59:17
+matters 52:12
+mean 5:7,10 7:2
+
+8:11 12:25
+13:8 14:9 15:4
+17:9,12,12
+19:12 20:13
+26:7 30:9
+32:17 39:1
+41:20,22 42:11
+49:12
+
+meaning 15:8,12
+
+15:12 20:5
+
+meaningful 7:22
+
+8:1 15:23
+
+means 5:16 6:9
+
+6:11 10:22
+18:7 43:8
+49:19
+
+meant 5:18,19
+
+mellitus 33:11
+34:21 44:25
+
+memorandums
+
+30:21
+
+merely 24:12
+metabolite
+
+40:14
+
+metformin 4:6
+
+6:25 24:10
+34:11 43:1
+
+metformin-re...
+
+45:22
+
+method 3:17 4:3
+24:17 28:9,10
+28:11,15 33:10
+33:19 34:10,16
+34:19 43:21
+44:20,24 45:14
+49:15 51:2
+57:9,16 58:1
+methods 29:2
+method-of-use
+
+11:22 12:22,23
+51:7
+
+mind 11:15 12:2
+minimal 15:8
+ministerial 9:15
+21:8 30:15,17
+
+minute 32:22
+
+41:22
+
+minutes 55:14
+misleading
+
+32:19
+
+missed 38:15
+missing 32:24
+mistake 14:9
+mistaken 20:25
+mistakes 14:21
+moment 53:6
+momentarily
+
+36:3
+
+Monday 1:10
+monopolies 53:9
+monopoly 50:21
+months 9:24
+
+12:5
+
+26:4,11,15
+27:4,13,17,23
+28:5,8 29:18
+30:12 31:11,14
+32:6,21 33:4
+34:7,18,24
+35:6,20,24
+36:4,7,9,10,15
+36:18,20 37:2
+37:5,8,16,21
+38:2,15 39:1
+39:18 40:9,23
+41:2,19 42:21
+42:23 43:7
+44:5 45:8 46:8
+46:19 47:1,4
+47:12,15,20,25
+48:4,17,23
+49:11 50:8,24
+51:14 52:16,16
+52:21 53:20,22
+54:9 55:13
+56:19 57:6
+58:22,25 59:4
+59:8,12,14
+
+K
+
+Kagan 11:9
+
+12:16 17:11
+22:4,19,21
+35:6 37:16,21
+38:2 39:18
+49:11 50:8
+53:20,22 54:9
+Kagan's 51:14
+
+52:17
+
+Kennedy 12:17
+
+12:25 13:12
+18:9,17 21:12
+21:21 27:23
+
+Kennedy's
+
+16:13
+
+kept 11:4
+kick 25:19 40:7
+kicking 26:17
+kicks 52:7
+kind 16:19 19:3
+
+20:25 21:12
+
+knew 12:3
+knock-out 40:1
+know 5:5 15:5
+
+17:3 18:19
+28:17 34:24
+37:2,2,23 42:4
+46:15,16 49:16
+49:18 52:8
+53:14,17,22,24
+
+knows 14:14
+
+L
+
+label 10:14,17
+10:24 13:20
+18:3 23:13,14
+23:14 24:12
+25:18 34:12
+45:14,21 51:2
+51:12 59:9
+
+labeling 12:19
+
+23:16,17 24:16
+26:2,22
+
+Laboratories
+
+1:4 3:5
+
+lacked 13:1
+language 3:18
+
+11:20 35:3
+40:17,19 46:22
+46:22 47:18
+
+large 42:2
+largely 51:22
+Laughter 8:22
+36:11,14 47:9
+
+law 9:14 17:8
+19:11 21:20
+52:7
+
+laws 13:3 51:10
+lawsuit 14:19
+
+47:23
+
+lawyer 31:15
+lawyers 29:20
+lay 36:23
+leaves 8:15
+left 4:4
+legal 56:14,24
+legislation 12:9
+
+legislative 55:8
+lettered 46:4
+let's 23:19 25:17
+
+42:21,21
+limited 4:5
+list 40:24 42:3
+
+42:10
+
+listed 8:9,13
+
+39:5,7,24 40:5
+40:10,13,21
+54:15 58:1
+listing 14:22
+
+29:14 38:11,18
+38:21 39:2,8
+40:16 42:14
+listings 55:2
+lists 8:12
+literal 34:4,6
+
+44:7
+
+litigating 55:4
+litigation 20:11
+20:22 25:7,10
+25:16 26:8,10
+27:11 29:8,13
+40:4 49:2
+51:20 53:12
+55:2
+
+little 4:20 28:22
+
+45:25 53:8
+
+long 4:1,4 39:20
+
+46:7 52:2,3
+54:21
+
+longer 34:1 51:4
+look 6:12 11:16
+20:2,19 23:4
+32:2 33:9,20
+33:21 36:21
+44:11,16,21
+56:6 57:11
+looking 19:23
+20:21 34:5
+52:11
+
+lose 5:6 24:1
+lost 5:12
+lot 15:2 29:19
+32:18 42:9
+lots 35:18,19
+
+Alderson Reporting Company
+
+Official
+
+67
+
+morning 3:4
+
+43:22
+
+multiple 3:12
+
+4:22 9:17
+
+Mylan 53:23
+54:10,12,24
+
+N
+N 2:1,1 3:1
+name 17:14
+names 17:16
+narrow 38:8
+39:16 51:25
+NDA 29:1 31:1
+
+33:5
+
+near 13:6 39:4
+need 18:7,19
+37:5 53:8
+55:10 57:20
+
+needs 22:16
+negative 30:17
+never 8:6 12:22
+
+28:17 35:14
+38:13,14,22
+47:16 55:7,9
+new 6:23 49:2
+
+52:6
+
+nonexistent
+
+15:15
+
+noninfringem...
+
+25:8 27:11
+
+noninfringing
+
+4:8 11:5,6
+58:16
+
+nonpatented
+
+52:19
+
+Nordisk 1:7 3:5
+normal 48:8
+notice 13:8
+
+28:14
+
+noticed 41:23
+notices 26:10
+notice-and-co...
+
+13:9 56:1
+notion 57:3
+Novo 1:7 3:5,18
+4:5 6:22 7:19
+
+7:22 8:8,17
+9:24 10:3,4,22
+14:3,6 15:14
+25:24 26:5,17
+27:2,7 32:17
+33:5 42:4
+45:17 46:14
+53:15 56:8
+58:11,13
+
+Novo's 3:15 9:19
+
+15:24 31:8
+32:20
+
+number 13:15
+37:17,22 38:3
+40:10 41:3,10
+44:13
+
+numbers 8:5,18
+
+14:1,8,10
+41:21 42:12,13
+
+O
+O 2:1 3:1
+occupy 4:9
+oddities 7:7
+odds 14:10
+31:11,14
+
+offense 5:12
+offered 58:4
+Official 44:4
+Oh 28:5 36:4
+
+59:10
+
+Okay 24:19 33:4
+ones 28:12 54:18
+
+54:18,19
+
+one-shot 40:1
+
+on/off 39:24
+
+54:13
+
+54:15
+
+operation 26:25
+opine 13:2
+opinion 20:25
+opinions 4:25
+oral 1:12 2:2,5,9
+3:7 16:8 27:15
+
+orange 8:10
+14:7 16:16
+18:11 22:24
+
+27:9,21 39:6
+39:25 40:6
+42:4,7,8,9
+43:24 44:1
+53:18 54:16
+57:15
+
+order 33:17
+ordinary 30:10
+ought 50:2
+overbroad
+
+43:11 58:14
+
+overly 6:23
+overwhelming
+
+40:24
+
+owe 47:22
+owed 21:18
+owner 29:2
+
+P
+
+P 3:1 45:15
+page 2:2 28:2,6
+
+28:7,24,25
+29:11 32:23
+33:1,9 43:23
+43:23 47:12
+54:25,25
+
+pages 42:11,11
+46:7 52:2 55:8
+parade 48:4,13
+48:23 49:10
+
+paragraph 10:3
+
+10:15,17,19
+11:2 20:22
+23:24,24 25:7
+25:10,16 26:3
+26:8,22 27:10
+40:4 59:11
+parsing 52:1
+part 45:16
+particular 5:8
+
+5:16 9:5 20:12
+22:10 32:16
+37:9
+
+particularly
+
+44:18
+
+parties 20:5
+
+21:16 22:24,25
+
+23:4 25:4 26:9
+49:7 53:12
+parts 34:12
+party 5:13 53:13
+
+passed 11:14
+
+53:21
+
+12:9
+
+passing 50:6
+patent 3:14,15
+
+3:20,24 4:1,2,4
+4:4 6:14,17,18
+7:3,11 8:4,5,9
+8:13,17,19
+10:7,21 11:3
+11:18,18,21,25
+12:8,19,21,22
+13:3,14,15
+14:1,7,12
+16:23 18:6
+19:4,14,16,24
+20:3,6 21:14
+22:6 23:2,4
+24:14 26:16
+27:8,25 28:16
+29:2,3,13,20
+30:20,22,24
+33:8,13,14,17
+33:18,23 34:2
+34:21,25 35:1
+35:15 37:8,17
+37:17,19,21
+38:1,3,5 39:5,6
+39:24 40:5,21
+40:25 41:10
+42:14 43:8,24
+44:1,2,3,9,13
+45:4,18,19
+46:22 47:5,18
+48:11 49:17
+50:1,2,21,25
+51:1,2,7 54:2
+54:15 55:2,21
+55:23 56:2,4
+56:12 57:5,17
+57:18,21 58:1
+58:9
+
+patented 10:13
+
+13:21 24:17
+43:21 44:20
+51:4 57:8
+
+patentholder
+
+37:1
+
+patents 9:15
+11:22 12:24
+13:6,6 14:16
+14:22 19:7,9
+19:11,12 21:9
+29:21 38:21
+42:3,3,7 44:4
+patent's 27:11
+path 3:13
+paths 10:10
+percent 4:9
+perfectly 22:7
+permissible 22:7
+
+permit 25:25
+
+25:22
+
+26:1
+
+Perry 1:22 2:10
+
+27:14,15,17
+28:7,9 29:22
+30:16 31:13,18
+32:11 33:3
+34:7,22 35:1,8
+35:22 36:2,6,9
+36:12,17,20
+37:4,7,14,16
+37:19,23 38:6
+38:17 39:3,19
+39:22 40:12
+41:1,6,25 43:5
+43:16 45:8
+46:25 47:3,10
+47:24 48:3,14
+48:22,25 49:11
+50:8,24 51:8
+52:21 53:21
+54:8,12
+
+persons 44:3
+perspective 50:7
+Petitioner 23:12
+Petitioners 1:5
+1:17,21 2:4,8
+2:14 3:8 16:10
+
+Alderson Reporting Company
+
+Official
+
+68
+
+precedent 4:19
+
+48:7
+
+55:16
+
+Pharma 35:11
+Pharmaceutical
+
+1:3 3:4
+
+pharmacists
+
+pharmacology
+
+51:11
+
+45:19
+
+pick 16:13 29:9
+piece 8:15 46:2
+pieces 8:4 46:5
+plaintiff 32:3
+please 3:10
+
+16:12 27:18
+32:22 35:21
+point 16:15,21
+17:1 19:3,20
+23:7 26:20
+28:1 32:24
+36:21 42:20
+46:8 47:14
+49:22 54:5
+58:11
+
+points 52:22
+policy 31:4,16
+
+52:15
+
+political 50:9
+portfolios 42:3
+portion 10:16
+
+33:23
+
+position 9:14
+
+17:3,4,4 30:14
+30:15 32:12,13
+32:14 52:17
+53:5
+
+posits 58:13
+possible 22:9
+26:7 43:15
+possibly 8:16
+posture 20:19
+practical 14:3
+15:12 23:11
+58:23
+
+practically
+15:15 43:8
+
+preamble 18:21
+
+36:25
+
+precisely 25:6
+
+5:7
+
+58:2
+
+present 51:10
+presented 26:22
+presenting 17:4
+presents 52:14
+preserve 7:18
+
+15:25
+
+presumably
+
+48:8
+
+presume 23:13
+prevails 25:9
+prevent 58:8
+principal 36:5
+principle 18:15
+
+19:4
+
+prior 12:11
+
+private 49:7
+
+probably 4:25
+
+56:18
+
+53:12
+
+18:4
+
+problem 11:13
+16:25 19:19
+21:15 38:10,18
+38:21,22,24
+39:2 41:5 42:1
+51:20
+
+problems 8:24
+
+49:2 53:4
+
+procedure 41:3
+proceed 10:12
+10:25 25:11
+
+proceeding
+
+10:17 41:22
+process 22:2
+35:17 41:9
+49:8 53:11
+
+product 24:16
+
+24:17 28:11,12
+28:16 57:19
+
+products 51:12
+
+58:16
+
+program 30:20
+promoting 48:7
+
+promulgated
+
+44:17,17
+proof 32:3
+proper 40:15
+properly 8:12
+14:22 19:2
+39:7,24 40:2
+53:11 54:15
+proposed 49:4
+prosecutor 5:11
+protect 18:7
+protected 29:3
+prove 5:12
+provide 44:20
+
+44:22,22 57:10
+provided 44:23
+
+46:6 56:9
+
+proving 27:11
+provision 10:2
+17:21 20:14
+37:9 38:7,8
+39:20 48:6
+51:25
+
+provisions 15:7
+
+36:23 49:14
+52:3
+
+PTO 30:22
+publication
+
+44:21 57:9,16
+
+purely 9:15
+
+Purepac 31:22
+
+30:15
+
+32:11
+
+purpose 13:17
+
+34:4 38:19
+39:8 50:4,5
+58:6
+
+purposes 14:3
+push 53:8
+put 14:7 15:23
+
+28:14 31:12,14
+45:5,25 46:9
+puts 6:14 25:18
+Putting 52:11
+
+Q
+
+qualify 8:4
+quandary 24:20
+
+25:3,6
+
+question 4:16,17
+
+6:5 7:3 9:4
+10:14 13:25
+14:13 16:14
+17:18 18:9
+19:11 20:4
+21:19 34:7
+35:5 36:13
+39:23 49:24
+50:25 51:14
+52:17 54:2
+57:13,14 58:23
+58:23 59:7
+
+questions 46:4
+
+54:22
+
+quibbling 6:1
+quicker 54:24
+quickly 43:15
+
+57:2
+
+quite 5:2 25:2
+49:19 50:2
+57:3
+
+quote 43:24 57:8
+quoted 34:9
+
+quoting 28:24
+
+45:12
+
+45:16
+
+R
+
+R 3:1
+radar 42:19
+raised 38:10
+
+49:3
+
+raises 41:7
+rapidly 29:17
+reach 3:13 8:6
+
+46:17
+
+read 7:7,17 8:2
+18:21 36:24
+37:11 44:18
+47:2 48:5,20
+49:21,25 50:4
+52:10 54:19
+56:23 57:6
+
+58:25
+
+reading 7:23
+15:25 32:23
+54:25 58:7
+
+reads 7:19
+real 14:1 21:16
+realism 15:24
+really 7:11 9:19
+
+11:14 17:18
+18:25 27:20
+36:10 41:20
+42:17 49:19
+52:17 54:10
+58:6
+
+reason 7:4 19:9
+
+40:16 49:1
+58:12
+
+reasonable 21:7
+rebuttal 2:12
+16:3 55:15
+
+recognize 18:1
+recommended
+
+39:11
+
+record 46:10,13
+
+50:10 53:7
+58:25 59:6
+red 36:6,22
+refer 47:11
+reference 45:20
+refers 57:23
+refusal 31:23
+reg 35:16
+regard 21:1
+regardless 55:22
+regime 53:13
+Register 28:25
+43:23 47:12
+
+regs 46:23
+regulation 11:17
+
+11:21 12:3
+18:6 30:2 35:4
+35:6,8 45:9,15
+46:3,3,12 56:4
+56:13,17 57:5
+57:7
+
+regulations
+
+20:15 29:24
+
+Alderson Reporting Company
+
+Official
+
+69
+
+34:17 44:16
+48:9 53:6
+
+regulatory 19:5
+
+53:13
+
+rejected 30:7
+
+52:15,22 59:1
+rejection 52:25
+relate 14:13,13
+
+55:22
+
+relates 28:16
+relic 7:24
+rely 18:10,24
+22:24 23:6
+relying 16:17
+
+21:3
+
+remedied 27:9
+remedies 7:16
+
+9:4,8,11 15:14
+15:15 26:24
+
+remedy 7:17,17
+7:19,19,22,24
+8:6,17,18 9:1,5
+9:9,20,21,23
+14:2,4 16:1
+32:4 39:17
+40:1 41:13
+54:1,13 58:18
+58:21
+
+remember 8:3
+
+38:7 57:5
+
+repaglinide 3:16
+4:6 6:24 34:11
+repeated 29:13
+reply 28:24
+29:12 55:1
+
+report 38:8,19
+
+38:20 39:3
+
+represent 17:5
+
+representing
+
+17:12
+
+46:20
+
+requested 59:9
+require 22:5
+35:13 43:20
+47:17 51:11
+required 16:24
+
+43:3 44:21
+
+45:15 46:3
+57:8,9
+
+requirement
+
+45:2,2
+
+requirements
+
+39:8 40:7
+
+requires 29:1
+requiring 33:17
+resisted 53:16
+resolve 6:5
+resolved 19:4
+resources 16:22
+respect 9:15
+11:22 16:20
+44:12,17 51:23
+53:5
+
+respects 54:3
+Respondents
+
+1:23 2:11
+27:16
+
+response 25:24
+43:23 54:12
+
+responsible
+
+28:13
+
+result 54:10
+review 21:14
+
+29:20 58:15,15
+
+ridiculously
+
+19:17
+
+right 15:13
+
+23:17 24:2,7
+25:14 29:9,24
+33:2 37:4,8,23
+42:4,24 47:7
+49:18,19 56:6
+57:12 58:11
+59:4
+
+ROBERTS 3:3
+
+16:6 20:23
+21:2 22:22
+27:4,13 28:5,8
+29:18 30:12
+36:15,18 40:9
+40:23 41:2
+55:13 59:12,14
+
+role 7:22 8:1
+9:15 14:2
+
+15:17,20,24
+19:8 21:7
+
+roles 7:18 15:25
+route 10:15
+routinely 4:21
+rule 13:8 56:13
+rulemaking
+13:9 18:21
+22:1 23:5
+28:21,22 29:5
+31:7 35:9,11
+35:14,22 43:18
+47:11 50:15,17
+56:1
+
+rulemakings
+
+52:13
+
+ruling 48:19
+
+S
+
+S 2:1 3:1 55:11
+sake 23:21
+sanction 20:16
+satisfied 6:22
+
+7:1
+
+satisfy 6:21
+saying 8:9 14:5
+14:6 15:5 18:6
+33:22,22 34:19
+34:24 42:23
+says 5:5 13:21
+
+18:18,20 21:25
+25:7 33:1,4
+37:1 44:5,9,11
+55:23 56:24
+57:5,7,11 59:5
+
+Scalia 5:17,21
+5:22,25 6:6
+8:20,23 9:7,12
+13:25 14:24
+15:4,10 35:20
+35:24 36:4,7
+36:10 39:1
+47:12,20,25
+56:19
+
+scenario 21:13
+scope 12:18,20
+12:22,23 22:5
+
+27:24
+
+screen 42:19
+second 7:10 19:6
+
+21:13 37:15
+39:6,9 45:11
+50:19 52:25
+55:19
+
+secondary 28:16
+section 10:12,13
+
+10:25 11:1
+13:18 18:16
+25:12 26:3
+31:4,24 35:2,7
+35:9,10,16,17
+35:18 37:12,20
+39:7 43:13
+51:19 52:25
+56:9,20 57:22
+57:23 59:1
+
+sections 45:19
+see 45:6
+seeking 6:21,25
+
+7:14 33:16
+58:2
+
+seen 30:11
+sees 47:19
+sell 24:16 51:3,4
+
+51:5
+
+sends 26:9
+sense 17:19
+sentence 4:14
+
+44:18,19 45:5
+52:1
+
+separate 40:6
+
+46:5
+
+separately 57:22
+September 59:6
+set 18:8 33:23
+38:24 40:6
+
+sets 7:14
+shades 54:17
+shocked 9:9
+short 13:4 18:22
+shots 16:20
+shows 53:7
+side 35:14 49:12
+
+57:12
+
+signed 56:8
+signs 46:21
+similar 44:19
+simple 39:23
+simply 6:24
+
+40:10,22 50:21
+
+single 8:15
+
+42:10 46:11,12
+
+situation 4:21
+11:10,15 27:2
+27:7 40:20
+47:22 48:11
+54:1,24 58:3
+situations 58:8
+six 42:4
+skipped 33:21
+skipping 33:7
+slippery 19:21
+slope 19:21
+small 15:4
+solely 39:8
+Solicitor 1:18
+solving 38:24
+somebody 14:8
+somewhat 26:8
+soon 19:21 41:4
+sooner 29:16
+sorry 13:8 15:17
+
+15:18 16:4
+22:19,20 23:10
+28:5 31:13
+35:22
+
+sort 16:17
+sorts 15:6
+Sotomayor
+
+13:23 14:23
+15:16,18 16:2
+16:5 22:15,18
+22:20,22,23
+23:1,8,11,19
+23:23 24:4,7
+24:11,19,25
+25:14,17,21,23
+26:4,11,15
+31:11,14 42:21
+43:7 48:4,17
+48:23 58:22,25
+
+Alderson Reporting Company
+
+Official
+
+70
+
+59:4,8
+
+sounded 32:7
+sounds 45:3
+source 7:12
+speak 17:6,6
+23:17 45:23
+
+speaks 5:15
+specific 3:14 5:8
+
+54:18
+
+specifically 4:5
+
+56:15 57:3
+spend 55:3
+sponsored 37:25
+sponsors 38:20
+stake 52:5
+start 18:14
+
+started 23:24
+
+55:18
+
+54:25
+
+starts 19:21
+state 22:5
+statement 4:12
+
+4:15 27:5
+
+States 1:1,13,20
+2:7 16:9 17:6
+30:14 47:13
+51:11
+
+statute 6:1,3,13
+7:8,14,18,20
+7:21,23 8:2,2
+8:25 9:10,12
+12:4,15 14:4
+18:13,14 19:8
+21:7,9 27:1
+31:6 32:22,25
+35:19 36:21,24
+44:9 47:2
+49:13,21,22,25
+50:4,6,7,8,12
+52:2 58:5,7
+statutory 3:12
+
+3:18 14:21
+35:3,7 44:7
+stay 39:9 40:3
+
+41:8
+
+stays 38:12,13
+step 26:23
+
+stipulated 24:5
+24:21 59:11
+
+stop 47:7
+story 17:10
+straight 25:1
+strange 5:24
+structure 36:21
+
+58:6
+
+stuff 15:2 46:24
+submission
+
+11:18,18,21
+21:24 31:2
+35:16 56:4,13
+
+submit 13:10
+14:2 44:12
+58:17 59:5
+
+submitted 16:17
+
+35:2,3 37:19
+44:10 55:24
+56:3,8 59:8,15
+59:17
+
+subparts 46:4
+subsection
+
+44:10 45:15
+49:20 55:24
+
+subsections
+
+subsequent
+
+56:15
+
+35:11
+
+40:15
+
+substance 28:10
+
+substantive
+16:23 19:8
+21:8,14 30:13
+
+substantively
+
+45:11
+
+substitute 51:11
+substituting
+
+substitution
+
+23:15
+
+51:10
+
+successful 38:23
+successive 38:11
+sue 9:12,18
+16:25 49:5
+
+sued 20:9 21:14
+
+21:15 23:25
+
+51:9
+
+sues 10:4
+suffice 13:12
+sufficient 13:17
+
+26:21
+
+sufficiently
+
+45:23
+
+suggesting
+
+suggests 4:18
+
+12:16
+
+24:17
+
+suing 9:1
+suit 21:10,16
+
+26:18 51:13,17
+53:24 54:7
+
+summary 46:9
+supplies 57:14
+supply 58:14
+support 44:14
+supporting 1:20
+
+2:8 16:10
+
+suppose 4:10
+
+supposed 44:12
+
+10:1,2
+
+57:10
+
+Supreme 1:1,13
+
+4:11,19
+
+sure 25:2 26:6
+32:25 58:24
+
+surplusage
+15:21,22
+
+switch 39:24
+
+54:15
+
+system 18:8
+
+19:12 58:13
+
+T
+
+T 2:1,1
+take 13:19 26:23
+
+42:22 44:17
+51:17 53:2
+taken 52:24
+talking 8:24
+11:23 21:12
+47:5
+
+talks 7:16 36:25
+technical 47:2
+
+tell 24:19 26:11
+
+26:15 43:7
+telling 47:6
+tells 22:23,25
+
+23:1 44:12,19
+46:21
+
+term 30:21
+terms 5:15
+
+14:10 17:23
+22:8 58:8
+terribly 9:8
+text 16:16 58:5
+thank 16:4,6
+27:6,13 47:7
+55:12,13,17
+59:12,13
+
+Thanks 28:8
+theory 16:24
+they'd 45:6
+thick 42:9
+thing 5:24 16:15
+
+43:1 46:12
+58:20
+
+things 33:24
+40:2 49:5
+50:13,13,18
+
+think 4:15 9:22
+
+10:22 12:1
+13:1,4 14:5
+17:17,25,25
+19:19 20:18,18
+22:6 27:1,19
+32:15 40:18
+42:1 43:12
+47:10 49:16
+53:17 54:9
+
+thinks 30:4 48:2
+third 19:15
+21:22 31:7
+49:20
+
+thought 43:13
+thousand 54:17
+thousands 4:25
+
+52:3 55:8,8
+three 18:22
+
+49:14
+
+thwarted 3:20
+
+Alderson Reporting Company
+
+tie 31:4
+tied 45:14
+ties 45:18 46:11
+time 12:9 36:1,8
+
+36:18 37:24
+39:13 43:18
+
+times 30:11
+timing 11:17
+12:11 26:7
+
+tiny 45:25
+tire 14:13
+title 56:2
+today 29:6
+totally 19:17
+
+20:12
+
+trade 35:11
+traditional
+
+20:22
+
+transpose 14:10
+transposes 14:8
+transposition
+
+41:20,25 42:13
+
+treads 14:14
+treat 4:3,6
+trial 45:21
+trials 45:20
+tried 36:23
+trigger 26:10
+true 5:4,4 9:7,19
+
+23:3
+
+truth 7:2
+try 19:6
+trying 10:24
+22:1 58:8
+
+turn 5:13 21:18
+
+28:20 55:19
+57:2
+
+turned 50:14
+twice 6:17
+two 6:18 7:7,16
+8:3 10:10 11:5
+14:8,10 15:14
+15:15 49:14
+52:1,22 53:12
+55:20 56:6
+
+type 33:11 34:20
+
+44:25
+
+typos 8:19 14:1
+
+14:16
+
+U
+
+ultimately 19:13
+unavailable
+
+8:10
+
+unclear 39:15
+
+underlying
+
+49:22
+
+24:13
+
+understand 4:15
+
+6:20 11:11
+23:12
+
+understanding
+
+22:4 30:22
+undertaking
+
+undisputed
+
+19:22
+
+46:13
+
+unfairly 58:9
+unilaterally
+
+50:1
+
+unintended 52:7
+United 1:1,13,20
+
+2:7 16:9 17:6
+30:14 47:13
+unreasonable
+
+unreasonably
+
+20:13
+
+19:17
+
+unusual 41:17
+upheld 9:16
+uphill 32:2
+use 3:15,19,21
+
+4:2,5 5:9,19,23
+5:23 6:10,14
+6:16,23,24,24
+7:4,12,12 9:13
+9:19,25 10:6
+10:13 11:1,7
+11:12,24 12:9
+12:12,14,21
+13:10,14,18,19
+13:21 16:14
+18:10 19:17,22
+20:11,20,21
+
+21:3,25 22:6,7
+22:12,13 23:6
+24:10,12,18
+25:9,18 27:24
+28:3,4,9,10,11
+28:13,15,18
+29:2,20,24,25
+30:1,4,4,6 31:5
+31:8,24 32:10
+32:20 33:7,9,9
+33:12,13,22,24
+34:2,8,10,13
+34:16 36:25
+37:1,7 38:25
+40:7 41:16
+42:6,11,17,19
+42:24,24,25
+43:9,19,21,24
+44:13,20 45:14
+48:9,15 50:19
+50:19,19,22
+51:2,18 52:19
+52:19,20,23
+53:1 54:16
+55:2,9,21 57:9
+57:14,15,16,17
+57:17,21 58:1
+58:1,14,19
+useful 47:16
+uses 3:12,14 4:8
+4:22 6:18 9:1
+11:5,6 57:15
+
+usual 40:12 53:3
+U-275 28:4,9
+U-278 28:10,15
+U-279 28:11
+U-530 28:3
+
+V
+v 1:6 3:5
+vague 49:14
+valid 18:19
+various 31:19
+
+36:23
+
+view 19:20
+
+26:20 37:16
+49:23 54:5
+
+Official
+
+viii 10:12,13,25
+
+11:1 13:18
+18:16 25:12
+31:4,24 35:17
+43:13 51:19
+53:1 57:24
+59:1
+
+violation 20:14
+volume 55:19
+volumes 5:15
+
+W
+wait 16:2
+want 10:23 11:7
+
+11:7 13:2
+25:11 26:16
+33:16 35:25
+37:13 44:6
+48:21 49:7
+51:4 55:20
+58:13
+
+wanted 53:25
+
+54:23
+
+wants 25:18
+
+42:18 51:3,5
+
+Washington 1:9
+
+1:19,22
+
+wasn't 7:1 10:2
+
+11:11 40:15
+42:18
+
+waste 36:7
+way 4:16,17
+
+5:13 7:7 8:23
+10:20 13:17
+20:7 25:15
+28:24 30:9,12
+30:18 34:14
+38:4 42:1,7
+45:24 48:6,20
+49:25 52:1
+55:10
+
+ways 5:9 6:4
+
+17:9
+
+went 10:15
+16:16 25:1
+32:15 44:2
+55:25
+
+We'll 3:3
+we're 11:23
+
+17:18,19 21:12
+22:1 36:25
+49:6 51:25,25
+we've 6:17 34:5
+
+whatsoever
+
+40:19
+
+15:21
+
+win 21:10 32:16
+winning 31:15
+won 31:21,25
+word 5:9,9 7:21
+
+8:1 15:6,8
+39:19 41:17
+55:7
+
+words 33:7,20
+33:21,21 34:4
+34:6,18 37:11
+37:13 44:7
+work 18:25
+
+39:19,21 48:12
+48:15 58:13
+working 53:11
+works 18:10
+
+49:15
+
+world 8:25
+
+14:17,20 28:14
+
+worlds 42:16
+worse 54:4
+wouldn't 11:16
+
+18:3
+
+42:6
+
+write 11:12 22:7
+
+writes 19:16
+writing 7:20
+
+12:17,18,19,20
+16:14 20:14
+27:24 28:13,18
+
+written 6:2,5
+20:12 34:17
+
+wrong 30:4
+
+32:17,19 40:11
+43:2,3 45:7
+46:14
+
+wrote 6:22
+
+16:16 28:13
+
+71
+
+42:19 54:20
+
+X
+
+x 1:2,8
+
+Y
+
+years 31:21
+
+38:10 55:4,4
+
+0
+
+08 59:1
+
+1
+10 31:20
+10-844 1:5 3:4
+10:05 1:14 3:2
+11:06 59:16
+12 33:9
+127a 57:6
+16 2:7
+177 24:6
+18 38:10
+180-day 41:8,11
+19 46:3
+19a 28:24
+1984 3:11
+1994 43:17
+
+2
+
+2 33:11 44:25
+20 59:11
+2003 11:11,19
+
+11:21 12:12,14
+12:15 16:15
+18:2,20 21:25
+23:5 28:20
+38:14 52:2
+56:25,25
+
+2007 35:14,22
+47:11 56:22
+
+2010 23:13 59:6
+2011 1:10
+2018 11:4
+21,268 47:12
+2150 8:13
+24a 29:11 54:25
+26 46:5
+27 2:11
+
+Alderson Reporting Company
+
+28J 56:14
+3
+
+3 2:4 32:23 45:1
+3-1/2 9:24
+30-month 38:11
+
+38:13 39:9
+40:3
+
+314.53 56:4
+314.53(p)and
+
+35:4
+
+355(b) 56:10
+36,682 28:25
+
+4
+
+4 25:19 45:17
+55:14 59:9
+
+4.2a 45:13
+4.2b 45:12 46:6
+
+57:5,12
+415 52:2
+43 13:15
+484 55:19,25
+487 57:2
+49 51:10
+5
+
+5 1:10
+50,346 43:23
+505 35:2,10,18
+37:20 56:13
+57:1
+
+505(b) 39:7 45:9
+
+56:10
+
+505(b)(2) 57:24
+522 28:2,7
+55 2:14
+59 43:23
+6
+68 28:25
+7
+
+70 4:9
+701 35:9,16
+
+45:10
+72 47:12
+777 59:11
+
+Official
+
+72
+
+8
+812 55:11
+
+Alderson Reporting Company
+
+

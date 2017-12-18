@@ -1,0 +1,7403 @@
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+SPRINT COMMUNICATIONS, INC., 
+
+    
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 12­815 
+
+ v. 
+
+                       
+
+: 
+
+ELIZABETH S. JACOBS, ET AL. 
+
+     
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Tuesday, November 5, 2013 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 11:06 a.m. 
+
+APPEARANCES: 
+
+TIMOTHY J. SIMEONE, ESQ., Washington, D.C.; on behalf of 
+
+ Petitioner. 
+
+DAVID J. LYNCH, ESQ., Des Moines, Iowa; on behalf of 
+
+ Respondents. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+TIMOTHY J. SIMEONE, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+3 
+
+ORAL ARGUMENT OF 
+
+DAVID J. LYNCH, ESQ. 
+
+ On behalf of the Respondents 
+
+                   
+
+21 
+
+REBUTTAL ARGUMENT OF 
+
+TIMOTHY J. SIMEONE, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+42 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (11:06 a.m.) 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We will next hear 
+
+argument in Case 12­815, Sprint Communications v. 
+
+Jacobs. 
+
+ Mr. Simeone. 
+
+ ORAL ARGUMENT OF TIMOTHY J. SIMEONE 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. SIMEONE: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ The IUB's arguments here would transform 
+
+Younger abstention from the exception into the rule for 
+
+State agency adjudications.  Virtually, all State agency 
+
+decisions, even on issues of Federal law, would be 
+
+subject to challenge only in State court. 
+
+ There's no basis for that broad rule in this 
+
+Court's decisions.  Younger abstention began with the 
+
+traditional principle going back to the time of the 
+
+framing that Federal courts sitting in equity shouldn't 
+
+intrude on State criminal cases. 
+
+ This Court's decisions have, of course, 
+
+expanded Younger slightly beyond criminal cases.  In 
+
+Huffman, in Moore, in Trainor, the Court extended 
+
+Younger to civil enforcement actions in aid of State 
+
+criminal laws. 
+
+3
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+ In Middlesex County, in Dayton, the Court 
+
+extended Younger to administrative disciplinary actions. 
+
+But all of these cases are still coercive civil 
+
+enforcement actions, where the State's enforcement 
+
+interests are similar to those in criminal cases. 
+
+ JUSTICE SOTOMAYOR: 
+
+Counsel, one of the 
+
+problems I have is I don't know how to define 
+
+"coercive."  The line seems very hard to draw.  There 
+
+are plenty of examples in the brief where some courts 
+
+have said this kind of proceeding is coercive and that 
+
+kind is not.  So ­­
+
+ MR. SIMEONE: 
+
+Yes, Your Honor. 
+
+ JUSTICE SOTOMAYOR: 
+
+­­ is it ­­ is it 
+
+worthwhile using that distinction at all?  Or should we 
+
+be thinking about going back to basic principles and 
+
+doing something like the Second Circuit does, which is 
+
+to say it's a sovereign interest, rather than a personal 
+
+interest? 
+
+ MR. SIMEONE: 
+
+Your Honor, we've argued that 
+
+there is no magic to the ­­ to the word "coercive." 
+
+Coercive is a sort of shorthand that the lower courts 
+
+have used to mean coercive in the ways that this Court's 
+
+Younger decisions are coercive. 
+
+ So I think the question of how far this 
+
+Court has extended Younger is really the heart of this 
+
+4
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+case, as opposed to sort of what is the meaning of the 
+
+word "coercive."  And I think, as I was saying, the 
+
+Court started with criminal cases, and it extended that 
+
+principle somewhat in Huffman and Moore and Trainor. 
+
+ JUSTICE SOTOMAYOR: 
+
+Those were when most of 
+
+them involved State proceedings. 
+
+ MR. SIMEONE: 
+
+Yes.  There's ­­ they're ­­
+
+but they're a specific kind of State enforcement action. 
+
+In each of those cases, this Court held that the State 
+
+enforcement action was in aid of criminal law.  So it's 
+
+a small extension of the traditional principle that 
+
+courts sitting in equity don't intrude on State criminal 
+
+cases. 
+
+ JUSTICE SOTOMAYOR: 
+
+But then we went further 
+
+in Pennzoil and in New Orleans ­­ well, perhaps not. 
+
+ MR. SIMEONE: 
+
+Yes, the Court went further in 
+
+a couple of different directions, and I want to try to 
+
+address them separately, if I may. 
+
+ The first direction is, really, the Dayton 
+
+Middlesex County cases.  Those were administrative 
+
+disciplinary actions.  And I think the Dayton case is 
+
+actually especially helpful here in drawing the kind of 
+
+line that you're looking for, Your Honor.  The Dayton 
+
+case helps to give some substance to exactly what is a 
+
+civil enforcement proceeding. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+5
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ So in ­­ in Dayton, the Ohio Civil Rights 
+
+Commission conducted an investigation and found that the 
+
+school there had engaged in discrimination on the basis 
+
+of sex.  The commission proposed a consent order, and it 
+
+told the school, if you don't agree to this consent 
+
+order under which you need to hire back the professor ­­
+
+I mean, the teacher and pay her back pay, then we're 
+
+going to proceed to disciplinary action; we're going to 
+
+file an administrative complaint. 
+
+ The school ignored the consent order, 
+
+refused to show up for a hearing that the commission had 
+
+scheduled.  And so, in Dayton, the State filed an 
+
+administrative complaint, charging violations of the 
+
+Ohio Civil Rights Act.  And those violations that were 
+
+charged were third­degree misdemeanors, subject to 
+
+fines, subject to jail time, up to 60 days in jail. 
+
+ So we think that Dayton gives some substance 
+
+to what is a civil enforcement action.  It's the sort of 
+
+proceeding where you have an investigation.  You have 
+
+factual findings.  You have an administrative complaint. 
+
+You have the possibility of ­­ of civil penalties, and 
+
+potentially, in that case, there was jail time as well. 
+
+ JUSTICE GINSBURG: 
+
+Mr. Simeone, this ­­ the 
+
+background of this case, I don't quite grasp.  You 
+
+originally said that you wanted to make sure you ­­
+
+6
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+there was no disconnection, pending the FCC's resolution 
+
+of the issue. 
+
+ MR. SIMEONE: 
+
+That's exactly right, Your 
+
+Honor. 
+
+ JUSTICE GINSBURG: 
+
+Has the FCC had a 
+
+proceeding to resolve it? 
+
+ MR. SIMEONE: 
+
+Yes, although the FCC is 
+
+surprisingly adept at not resolving the issue in the 
+
+proceedings that it holds to resolve the issue.  So, in 
+
+fact, the FCC had a proceeding pending before it at the 
+
+time that this case was before the IUB, in which Sprint 
+
+expected that the ­­ that the FCC would resolve this 
+
+issue. 
+
+ What the FCC did was resolve the issue of 
+
+what inter­carrier compensation regime applies going 
+
+forward, but it didn't address these calls that have 
+
+already occurred.  So this is a sort of strange corner 
+
+of telecommunications law now. 
+
+ Going forward, the FCC has applied specific 
+
+inter­carrier compensation regime under Federal law to 
+
+this kind of call.  But going backwards, the appropriate 
+
+inter­carrier compensation regime to apply under the 
+
+1996 Act, under the federal law is ­­ is still at issue. 
+
+ JUSTICE GINSBURG: 
+
+Well, why wouldn't ­­
+
+let's say you ­­ you ­­ there were no abstention.  You 
+
+1 
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+7
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+have your case in Federal court.  And the Federal judge 
+
+says, the FCC hasn't spoken, so I don't want to step out 
+
+in front of the FCC on this ­­ on this question. 
+
+ MR. SIMEONE: 
+
+We ­­ we strongly urged the 
+
+IUB not to address these issues of Federal law.  The 
+
+IUB, I think, was frustrated with the FCC, which had not 
+
+implemented the relevant provisions of Federal law, and 
+
+the IUB reached out to make decisions on Federal law. 
+
+ And all we're saying in this case is that 
+
+we ­­ we think that we ought to be able to challenge 
+
+those decisions that the IUB made as to what's an 
+
+information service, what's a telecommunications 
+
+service. 
+
+ JUSTICE GINSBURG: 
+
+Well, you could.  You 
+
+could challenge it in the State court or this Court 
+
+and ­­ eventually, but there's a proceeding going on in 
+
+the State court, and there's a review ­­ State review 
+
+attached to that. 
+
+ And you're ­­ you're saying we can cut off 
+
+this administrative process that ends in State review. 
+
+We could cut it off and go to the Federal court. 
+
+ MR. SIMEONE: 
+
+To be clear, Your Honor, we 
+
+actually aren't seeking to enjoin any proceeding in the 
+
+State.  We filed the action in State court because we 
+
+were required to by Eighth Circuit law.  The Eighth 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+8
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Circuit has a line of cases ­­
+
+ JUSTICE GINSBURG: 
+
+Then you explain that. 
+
+But ­­ but in the review ­­ in your review petition from 
+
+the State court ­­ to ­­ to the State court, you brought 
+
+up more than just this ­­ the question of these ­­ these 
+
+charges. 
+
+ MR. SIMEONE: 
+
+Yes, Your Honor.  This 
+
+could ­­ this is a situation quite comparable to the 
+
+England case.  In the England case, the ­­ the Federal 
+
+court plaintiffs thought that they were required to go 
+
+to State court with their Federal law issues. 
+
+ And this Court said that they didn't have to 
+
+go to Federal court ­­ to State court with their Federal 
+
+law issues.  And since they did, they were still 
+
+entitled to reserve their Federal law issues for Federal 
+
+court. 
+
+ In our case, we actually were required by 
+
+Eighth Circuit precedent to go to State court.  The 
+
+Eighth Circuit rule is that, if you don't go to State 
+
+court with your Federal law issues, then abstention ­­
+
+Younger abstention applies anyway, even though there is 
+
+no State proceeding whatsoever. 
+
+ So in this case, we went to State court, but 
+
+only because we had to under Eighth Circuit ­­ under the 
+
+Eighth Circuit's unusual law of Younger abstention. 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+9
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+ When we got to State court, we tried to 
+
+essentially do an England reservation.  We said to the 
+
+State court:  We'd like to stay the Federal issues while 
+
+they go forward in Federal court because, of course, the 
+
+Federal court has jurisdiction and a virtually 
+
+unflagging obligation to exercise that jurisdiction. 
+
+ The ­­ the State court actually held those 
+
+issues in abeyance for 2 years while the abstention 
+
+issues were heard in Federal court.  When ­­ when the 
+
+Federal abstention issues were decided by the Eighth 
+
+Circuit, incorrectly, we think, the State court decided 
+
+to go forward. 
+
+ But our ­­ our argument here is that in a 
+
+system of concurrent jurisdiction, where we have the 
+
+right to be in Federal court, to get review of our 
+
+Federal law issues, the fact that we were forced by 
+
+Eighth Circuit law to go to State court, too, shouldn't 
+
+preclude the Federal court proceeding from going 
+
+forward. 
+
+ JUSTICE KENNEDY: 
+
+Well, what would have been 
+
+the ruling, do you think ­­ what would have been the 
+
+correct ruling if you had filed your Federal action 
+
+while the case was still ­­ the issue was still pending 
+
+before the Iowa board? 
+
+ In other words, before the State judicial 
+
+10
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+review process kicked in?  Would the ­­ would your 
+
+analysis of the case be the same or would we apply a 
+
+different ­­
+
+ MR. SIMEONE: 
+
+It would not be the same, Your 
+
+Honor, but we do think that we should ­­
+
+ JUSTICE KENNEDY: 
+
+Because it would be an ­­
+
+because it would be Burford at that point or what? 
+
+ MR. SIMEONE: 
+
+I don't think it would be ­­ I 
+
+don't think it would be Burford because the State 
+
+doesn't argue that there's a complex regulatory regime 
+
+here of the sort that's covered by Burford. 
+
+ What we think is that, if this were still 
+
+before the IUB, that would really take us back to our 
+
+main argument here in this case.  Our argument is that 
+
+neither the State court proceeding, nor the IUB 
+
+proceeding, was the kind of civil enforcement action to 
+
+which this Court has extended Younger. 
+
+ So even if we'd filed in Federal court at 
+
+the time that proceeding was still pending before the 
+
+IUB, we think that Younger still shouldn't apply.  But 
+
+here, there's an additional reason why it shouldn't 
+
+apply. 
+
+ We waited for the IUB proceeding to 
+
+conclude.  And, by the way, we then paid the invoices 
+
+that Windstream wanted us to pay.  There's ­­ there's 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+11
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+nothing further that we could be obliged to do here. 
+
+We've already paid. 
+
+ But the ­­ but the additional reason why we 
+
+think we would ­­ we should prevail here really goes to 
+
+the issue that this Court reserved in NOPSI.  So in 
+
+NOPSI, the Court assumed, without deciding, that the 
+
+agency proceeding and the State court review of the 
+
+agency proceeding were a unitary proceeding.  We think 
+
+that those proceedings should only be treated as unitary 
+
+in situations where the State interests at the two 
+
+levels are similar. 
+
+ So in Burford, to go back to your question, 
+
+Your Honor, in Burford, the State appellate court was 
+
+participating in the regulatory process with the State 
+
+agency.  And, of course, this Court treated that as a 
+
+unitary proceeding. 
+
+ In this case, the State court proceeding, as 
+
+the IUB discusses on pages 33 and 34 of its brief, has 
+
+nothing to do with the partnership with the ­­ with the 
+
+agency.  The relevant partnership here ­­ the relevant 
+
+place to review the Federal law issues is Federal court. 
+
+ The State's only interest in the State court 
+
+proceeding here is a State interest in State court 
+
+review, as opposed to Federal court review, of Federal 
+
+law issues.  That's not the same kind of interest that 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+12
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+it had at the regulatory proceeding level. 
+
+ So our view here is that issue in NOPSI 
+
+of ­­ you know, is the State interest, for purposes of 
+
+Younger, the interest at the agency level, or is there a 
+
+separate interest when it comes to State judicial review 
+
+of State agency action and Federal judicial review of 
+
+State agency action, we think that that should be 
+
+resolved in our favor. 
+
+ So that's a ­­
+
+ JUSTICE KAGAN: 
+
+Mr. Simeone? 
+
+ MR. SIMEONE: 
+
+Yes. 
+
+ JUSTICE KAGAN: 
+
+Could I take you back to ­­
+
+to the agency proceeding?  So I guess I understood, from 
+
+your respective briefs, that you say the agency 
+
+proceeding was not an enforcement proceeding, and the 
+
+agency says it was an enforcement proceeding because you 
+
+might have brought it initially, but you tried to get 
+
+out, and then the agency compelled you to keep on going 
+
+in its process. 
+
+ So could you explain that to me. 
+
+ MR. SIMEONE: 
+
+I can do my best.  It's 
+
+somewhat complicated.  We went to the agency with an 
+
+issue of State law.  We went to the agency to ask the 
+
+agency to hold that Windstream was not entitled to stop 
+
+connecting our calls to its customers without IUB 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10
+
+11
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+13
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+approval under Iowa's consumer protection rules.  So 
+
+that's the issue that we took to the State agency. 
+
+ When we got to the State agency, Windstream 
+
+said, oh, no, no, no, we are not going to really stop 
+
+connecting your calls to our customers because that's a 
+
+big no­no in the telecommunications world.  You are not 
+
+supposed to stop connecting calls.  So they ­­ so that 
+
+dispute went away. 
+
+ What the IUB did was it reached out to 
+
+decide a different set of issues, the underlying 
+
+question of what inter­carrier compensation regime 
+
+should apply to ­­ to these calls. 
+
+ So at that point, the IUB's theory, now, is 
+
+when they reached out to decide these Federal issues 
+
+under the 1996 Act ­­ you know, what's ­­ what's an 
+
+information service, what's a telecommunication service, 
+
+what inter­carrier compensation regime applies here ­­
+
+when they reached out to decide those Federal issues 
+
+they say this case became a civil enforcement 
+
+proceeding. 
+
+ But this takes me back to my description of 
+
+Dayton.  Dayton was a civil enforcement proceeding. 
+
+There was an investigation there.  There was a finding 
+
+of violations of the Ohio civil rights statute.  There 
+
+was an administrative complaint charging third degree 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+14
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+misdemeanors and threatening penalties and jail time. 
+
+ That is the kind of civil enforcement 
+
+proceeding to which this Court has applied Younger. 
+
+That's the kind of proceeding that's like a criminal 
+
+case, that takes us back to that traditional principle 
+
+that courts ­­ Federal courts sitting in equity don't 
+
+intrude on ­­ into State criminal proceedings. 
+
+ JUSTICE ALITO: 
+
+On Dayton, if the only 
+
+relief available had been reinstatement and back pay, 
+
+would that matter? 
+
+ MR. SIMEONE: 
+
+No, I don't think it would 
+
+matter, Your Honor.  I think that, again, the posture of 
+
+the case was very different.  There, you know, there 
+
+was ­­ again, there was an investigation, there was a 
+
+due process right to a hearing.  There was an agency 
+
+that was enforcing existing State law. 
+
+ Here, the agency was essentially 
+
+implementing Federal law.  The FCC hadn't implemented 
+
+these provisions.  Everyone in the industry was 
+
+frustrated.  We were frustrated.  We had taken these 
+
+issues to the FCC ­­ you know, please decide what 
+
+inter­carrier compensation regime applies here.  The FCC 
+
+hadn't done it. 
+
+ And so the IUB, quite understandably, 
+
+reached out to decide those issues.  But in announcing 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+15
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the kind of inter­carrier compensation regime that ought 
+
+to apply to these calls, the IUB wasn't conducting an 
+
+enforcement proceeding against Sprint. 
+
+ An interesting point here, I think, is that 
+
+the IUB's position makes for something very strange 
+
+under Ex Parte Young ­­ you know, agencies generally 
+
+have the choice to proceed either by rulemaking, which 
+
+they often do, or by adjudication.  And they can make 
+
+the exact same rules in either way. 
+
+ Under the ­­ under the IUB's theory, if the 
+
+agency proceeds by rulemaking under Ex Parte Young, you 
+
+can go to Federal court and get an injunction.  If the 
+
+agency proceeds by adjudication, making the exact same 
+
+rules, you can't because you ­­ there is a unitary 
+
+proceeding up through the State court appeals, and you 
+
+are stuck with that, and certiori review by this Court, 
+
+of course. 
+
+ That, to me, makes no sense under Ex Parte 
+
+Young.  The agency's decision to proceed by rulemaking 
+
+versus proceeding by adjudication ­­ which, by the way, 
+
+the IUB had in this case.  The IUB, when ­­ when the 
+
+dispute disappeared between Sprint and Windstream, the 
+
+IUB could have said, we'll close that docket, and we're 
+
+going to start a rulemaking to implement these 
+
+provisions of Federal law that the FCC can't seem to get 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+16
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+around to implementing. 
+
+ In that case, we would, of course, have been 
+
+entitled under Ex Parte Young ­­ and this is an Ex Parte 
+
+Young case ­­ we could have gone to Federal court and 
+
+gotten an injunction ­­ a declaratory ruling and 
+
+injunction.  And, of course, it didn't ­­ it really 
+
+doesn't make sense to distinguish whether that relief is 
+
+available on the basis of what ­­ how the agency decides 
+
+to proceed. 
+
+ I want to go back to a question that came up 
+
+earlier about Pennzoil and Juidice and how they fit into 
+
+this Court's extension of that traditional principle 
+
+that ­­ that courts of equity shouldn't intrude into 
+
+State criminal proceedings.  Juidice and Pennzoil are a 
+
+kind of unusual corner of Younger abstention law because 
+
+they both involve challenges to the processes that the 
+
+States use to enforce their judgments. 
+
+ So in Juidice, the Federal Plaintiff was 
+
+asking ­­ what challenging under ­­ under the due 
+
+process clause New York's contempt procedures, sort of 
+
+how they went about holding folks in contempt. 
+
+ In Pennzoil, Texaco was challenging the bond 
+
+requirements to appeal in Texas, but they were both 
+
+Federal court cases bringing challenges to aspects of 
+
+the way ­­ the way that the States enforce their 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+17
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+judgments. 
+
+ In this case, Sprint has no quarrel at all 
+
+with any aspect of Iowa law.  We followed Iowa law to a 
+
+T and ­­ and filed the State court appeal that the 
+
+Eighth Circuit required us to file. 
+
+ JUSTICE ALITO: 
+
+Well, those cases are 
+
+different.  But why is there a ­­ why is there a greater 
+
+federalism concern in those cases than in this case 
+
+where the IUB has a legitimate interest in how much 
+
+citizens of Iowa pay for a telephone service? 
+
+ MR. SIMEONE: 
+
+Well, I think this really goes 
+
+back, Your Honor, to the traditional principle that I 
+
+started with.  The ­­ the basic idea of Younger is that 
+
+Federal courts sitting in equity don't intrude into 
+
+State criminal proceedings. 
+
+ That's a very important traditional rule 
+
+because that's where the State police power is really at 
+
+its zenith ­­ you know, enforcing State criminal law. 
+
+We think that the Pennzoil and Juidice cases are very 
+
+similar. 
+
+ The ­­ the idea that a State can't enforce a 
+
+judgment once its courts have gone through the process 
+
+of coming to judgment is ­­ would be very unsettling. 
+
+That's ­­ that's the kind of police ­­ you know, State 
+
+police power at its absolute zenith. 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+18
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ Now, all the things that State regulatory 
+
+agencies do are important ­­ you know, but ­­ but ­­ you 
+
+know, not every rule of a State agency is at that same 
+
+level of importance as a State criminal court. 
+
+ JUSTICE ALITO: 
+
+But then, if the question is 
+
+whether something is tied to something that can be 
+
+regarded as criminal or quasi­criminal, what about 
+
+Middlesex County?  That's not criminal ­­ or is not 
+
+criminal. 
+
+ MR. SIMEONE: 
+
+Well, Middlesex County is not 
+
+criminal, certainly.  It's a ­­ I call it an 
+
+administrative disciplinary proceeding.  And I think 
+
+that the State's interests in that kind of disciplinary 
+
+proceeding is, in fact, very similar to its interest in 
+
+a criminal case. 
+
+ In ­­ in Middlesex County itself, of course, 
+
+a lawyer had referred to a trial as a kangaroo court and 
+
+a legalized lynching.  And ­­ and the New Jersey Ethics 
+
+Committee ­­ you know, said that that was the sort of 
+
+conduct that ­­ that couldn't be permitted under the 
+
+State bar rules. 
+
+ So that is not literally a criminal case. 
+
+It is one of this Court's extensions of ­­ of the 
+
+principle to the civil enforcement proceeding context; 
+
+but it does seem to me to be motivated by very much the 
+
+19
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+same sorts of interests. 
+
+ JUSTICE GINSBURG: 
+
+What do you say about the 
+
+argument that ­­ that once the IUB decided to go on with 
+
+this proceeding, you didn't want them to, but they did, 
+
+that that then became a proceeding for them to enforce 
+
+the access charge? 
+
+ MR. SIMEONE: 
+
+Well, I think, again, Your 
+
+Honor, that that goes back to the differences between 
+
+this sort of case and the Dayton case.  In this case, 
+
+what the IUB really was doing was announcing its 
+
+understanding of ­­ of these provisions of the Federal 
+
+act. 
+
+ In ­­ in a case like Dayton, where this 
+
+Court has applied Younger, the ­­ the commission there 
+
+was ­­ you know, seeking to penalize wrongdoing by 
+
+the ­­ by the school.  And it seems to me that 
+
+there's a ­­ there's an important difference with 
+
+respect to that traditional principle that Younger 
+
+reflects of not interfering with State criminal actions. 
+
+ There's a big difference between when the 
+
+State announces rules that will be broadly applicable 
+
+throughout the industry, like here, and when the State 
+
+is actually seeking to punish wrongdoing, as in Dayton 
+
+or as in Middlesex County. 
+
+ If there are no further questions, I will 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+20
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+reserve the balance of my time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Lynch? 
+
+ ORAL ARGUMENT OF DAVID J. LYNCH 
+
+ ON BEHALF OF THE RESPONDENTS 
+
+ MR. LYNCH: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ Under Sprint's proposed test, after Sprint 
+
+chose to invoke the jurisdiction of the Iowa Utilities 
+
+Board, Windstream could have gone to Federal court at 
+
+any time to enjoin the board proceedings because, under 
+
+Sprint's test, the board proceedings were remedial and 
+
+the ­­ Younger abstention was not applicable to those 
+
+proceedings. 
+
+ That's true despite the fact that, at that 
+
+time, when the petition was filed, the board was faced 
+
+with a compelling State interest; that is, an immediate 
+
+and direct threat to public health and welfare. 
+
+ If Windstream had been able to go to the 
+
+Federal court and interrupt the State proceedings at 
+
+that moment, that very act would unavoidably cast 
+
+dispersions on the State's ability to resolve the 
+
+Federal issues here in the context of that important 
+
+State interest, and that is precisely one of the evils 
+
+that Younger abstention is directed to. 
+
+1 
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+21
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24
+
+ CHIEF JUSTICE ROBERTS: 
+
+So ­­ but, I mean, 
+
+is there a different category, some of the normal 
+
+regulatory interests are important and other regulatory 
+
+interests are not?  I mean, it seems to me the line that 
+
+Younger drew ­­ or that I thought it was drawing, 
+
+between criminal and civil has been eroded to a 
+
+considerable extent. 
+
+ But your friend analogized that the other 
+
+cases, for want of a better word, to ­­ they're sort of 
+
+quasi­criminal or at least touching upon the process as 
+
+opposed to a particular proceeding.  I mean, do you 
+
+think that the abstention applies in the case of every 
+
+regulatory proceeding? 
+
+ MR. LYNCH: 
+
+No, Your Honor, we do not. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, how do you ­­
+
+how do you tell which ­­
+
+ MR. LYNCH: 
+
+The ­­ let me give you two parts 
+
+to that answer.  First of all, that ­­ we believe that 
+
+it applies when the agency proceedings are engaged in 
+
+enforcement of a State statute, State law, that that's 
+
+kind of the touchstone for when you're more likely to 
+
+see an important State interest. 
+
+ JUSTICE SCALIA: 
+
+When ­­ when aren't they? 
+
+ MR. LYNCH: 
+
+I've got to take this case and 
+
+25 
+
+make two changes to it, and I have an example for you. 
+
+22
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Instead of having Sprint in the position of saying that 
+
+the access ­­ intrastate access charge tariff does not 
+
+apply at all, imagine that the dispute between Sprint 
+
+and Windstream was over merely the calculation of the 
+
+amounts, over un ­­ over ambiguous language within that 
+
+tariff.  And because Sprint admitted that the tariff 
+
+applied, whatever it meant, there would be no threat of 
+
+disconnection. 
+
+ Under those circumstances, you truly do have 
+
+the garden variety commercial dispute between two 
+
+parties that Sprint tries to characterize this case as, 
+
+but this case involved more. 
+
+ This case involved the Filed Tariff 
+
+Doctrine, a statutory provision the Court's familiar 
+
+with, that the board is charged with enforcing.  This 
+
+board, at least initially ­­ or excuse me ­­ this case 
+
+also involved, initially, that threat of disconnection, 
+
+which added an element of exigency to the board's action 
+
+that is not present in most of these cases. 
+
+ JUSTICE SOTOMAYOR: 
+
+Counsel, what's left of 
+
+Colorado River, under your view of this case?  I mean, 
+
+in Colorado River, we made it very clear that abstention 
+
+should be the exception.  I always thought that was a 
+
+driving principle, which Federal law should be announced 
+
+by Federal courts. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+23
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19
+
+20
+
+21 
+
+22 
+
+23
+
+24
+
+25 
+
+ If we take the Eighth Circuit rule, where 
+
+everything is unitary and required and your rule that 
+
+any time it involves a State agency, essentially, it's 
+
+subject to abstention, what's left of Federal courts 
+
+having any jurisdiction? 
+
+ MR. LYNCH: 
+
+Well, first of all, let me say 
+
+that the question of whether it's a unitary proceeding 
+
+or whether there's a ­­ a fork in the road after the 
+
+agency has completed its proceedings, that question is 
+
+not part of the question presented here in this case 
+
+today. 
+
+ The Court does not need to reach that 
+
+question.  It can do as it did in New Orleans Public 
+
+Service and simply assume that it is a case of the 
+
+unitary requirement without deciding it. 
+
+ JUSTICE SOTOMAYOR: 
+
+Well, the Eighth Circuit 
+
+has decided that question.  You're right.  We didn't ­­
+
+ MR. LYNCH: 
+
+There's ­­
+
+ JUSTICE SOTOMAYOR: 
+
+They say it is. 
+
+ MR. LYNCH: 
+
+There is, in fact, under our 
+
+research, about a 4­3 split among the circuits on that 
+
+question.  The parties haven't really briefed it. 
+
+ JUSTICE SOTOMAYOR: 
+
+No, I ­­
+
+ MR. LYNCH: 
+
+And if you're going to get to 
+
+that question, in fact ­­
+
+24
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24
+
+ JUSTICE SOTOMAYOR: 
+
+But why don't you get to 
+
+the essence of my question? 
+
+ MR. LYNCH: 
+
+Thank you.  Then what's left of 
+
+the Colorado River case is what it has always been 
+
+there, which is when the ­­ there is not an important 
+
+State interest, Younger abstention does not apply.  And 
+
+that is always the touchstone of this analysis. 
+
+ You know, the three Middlesex County 
+
+factors, the first one's easy, is there a pending State 
+
+proceeding or not?  That's always ­­ either its there or 
+
+it isn't.  That's not a problem. 
+
+ In much that way, when Sprint chose to come 
+
+to the Iowa Utilities Board, it could have gone to 
+
+Federal court instead, I assume.  It chose to come to the 
+
+board for relief, even though it says that the issues 
+
+involved are Federal law. 
+
+ The third factor in Middlesex County, the 
+
+ability of the courts ­­ the State courts, through a 
+
+state process, to address the Federal questions, also 
+
+typically not an issue in this type of proceeding. 
+
+There is the right of appeal to the State courts, and 
+
+that is going to provide an adequate remedy. 
+
+ Sprint has not challenged that in this case. 
+
+ JUSTICE SCALIA: 
+
+Counsel, especially in 
+
+25 
+
+cases that involve jurisdictional issues.  It seems an 
+
+25
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+awfully ­­ awful waste of counsel's time and client's 
+
+money to be litigating about which court you ought to be 
+
+in, and it seems to me, to avoid that, the lines ought 
+
+to be clear. 
+
+ And it doesn't seem to me that the 
+
+line ­­ you know, whether there is a significant State 
+
+interest involved or not, is a clear line.  You can 
+
+argue about that in almost any case.  So I'm disinclined 
+
+to use that kind of a ­­ of a test along with any 
+
+others. 
+
+ Why can't we just limit ­­ limit Younger 
+
+abstention to the three categories discussed in NOPSI, 
+
+and say, that's it, no more? 
+
+ MR. LYNCH: 
+
+The ­­ because it would, if you 
+
+were to take that approach, it would result in a denial 
+
+of abstention in cases like this one that present 
+
+exactly the evils, the concerns that were presented in 
+
+Younger, in terms of disrespect for the State's ability 
+
+to resolve Federal questions, the concerns of 
+
+federalism, the concerns of avoiding duplicative ­­
+
+duplicative cases in the courts. 
+
+ JUSTICE SCALIA: 
+
+Any purely civil case that 
+
+raises that kind of an issue can arguably be subject to 
+
+Younger abstention; is that right? 
+
+ MR. LYNCH: 
+
+It would be up to the judges to 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25
+
+26
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+decide whether there was an important State interest 
+
+there or not. 
+
+ JUSTICE GINSBURG: 
+
+Are you saying, then, 
+
+that in every State agency adjudication attended by 
+
+State court review ­­ Younger would apply? 
+
+ MR. LYNCH: 
+
+No, Your Honor, I'm not. 
+
+ JUSTICE GINSBURG: 
+
+So can you ­­ so can you 
+
+then ­­ we have only the two cases.  We have Middlesex 
+
+and Dayton, and you say this case belongs in that 
+
+Younger category.  What State court adjudication ­­
+
+State agency adjudications attended by State court 
+
+review would fall outside Younger on your rationale of 
+
+what Younger covers? 
+
+ MR. LYNCH: 
+
+A State agency adjudication that 
+
+did not involve the State agency attempting to enforce a 
+
+State statute or State law.  And that's, as I tried to 
+
+describe in my earlier example, if that would be the 
+
+case here, if the dispute between Sprint and Windstream 
+
+had been something other than does the ­­
+
+ JUSTICE SOTOMAYOR: 
+
+What was the State law 
+
+here?  They were interpreting Federal law. 
+
+ MR. LYNCH: 
+
+The State law here was Iowa Code 
+
+Section 476.5, the filed tariff doctrine, which requires 
+
+that, in this case, that Windstream charge Sprint for 
+
+providing intrastate access services ­­
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+27
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+ JUSTICE SOTOMAYOR: 
+
+That mimicked the Federal 
+
+law. 
+
+ MR. LYNCH: 
+
+On the State side.  That's ­­
+
+it's our version of that Federal law, yes. 
+
+ JUSTICE SOTOMAYOR: 
+
+But you don't derive any 
+
+power independent of that Federal law? 
+
+ MR. LYNCH: 
+
+Oh, no, I'm sorry.  I 
+
+misunderstood.  This is an independent State statute. 
+
+It is not ­­ it is analogous to the Federal interstate 
+
+filed tariff doctrine, but it is not dependent upon it 
+
+at all.  It's existed for I don't know how many years. 
+
+ JUSTICE SOTOMAYOR: 
+
+By the way, there are 
+
+other abstention doctrines that can take care of State 
+
+interests, aren't there?  There's Burford, and there are 
+
+many others. 
+
+ MR. LYNCH: 
+
+In appropriate cases, yes. 
+
+ JUSTICE SOTOMAYOR: 
+
+So I don't know why 
+
+Younger as you're ­­ in following up on Justice Scalia's 
+
+question, why Younger has to be the only vehicle, why we 
+
+need to create more categories than NOPSI did to protect 
+
+State interests when we have an awful lot of other 
+
+doctrines that do that already. 
+
+ MR. LYNCH: 
+
+I don't know that we're asking 
+
+you to create a new category or a new extension.  We 
+
+felt that this case fit, very clearly, within the 
+
+28
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Middlesex test under Younger abstention.  And it was a 
+
+straightforward application of that three­part test, and 
+
+obviously, a district court judge agreed. 
+
+ It was not ­­ it does not require any 
+
+extension of Younger to apply that principle to this 
+
+case. 
+
+ JUSTICE SOTOMAYOR: 
+
+By the way, have we ever 
+
+used the Younger abstention in a case where the Federal 
+
+plaintiff also filed the Federal ­­ the State action as 
+
+well? 
+
+ MR. LYNCH: 
+
+Do you mean the State action 
+
+before the board or before ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Before anybody, court or 
+
+a board. 
+
+ MR. LYNCH: 
+
+Not that I'm aware of, no. 
+
+ But that brings me to my second point, which 
+
+is that, if the court were to decide to apply the 
+
+coercive­remedial distinction as a test in this case, 
+
+the results before the Eighth Circuit should still be 
+
+affirmed because the board proceedings were, in fact, 
+
+coercive. 
+
+ As has already been alluded to here today, 
+
+after Sprint filed its petition with the board, 
+
+Windstream came back and said, in essence, we will not 
+
+disconnect Sprint as long as they pay the access 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13
+
+14 
+
+15
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+29
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+charges, going forward.  They can hold the money going 
+
+back.  We won't disconnect them as long as they pay, 
+
+going forward. 
+
+ Sprint came back and said, we're not going 
+
+to pay you, going forward, but we've got ­­ you're not 
+
+going to disconnect us.  We've got what we want.  We 
+
+want to withdraw our petition. 
+
+ And at that point, the board said, that's 
+
+fine; you can take your petition, but don't go anywhere. 
+
+Stay here.  We're going to get to the bottom of this 
+
+because, if we let you go, it's going to reoccur. 
+
+This case ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+I'm sorry, it's 
+
+going to what? 
+
+ MR. LYNCH: 
+
+Reoccur. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Oh. 
+
+ MR. LYNCH: 
+
+The case would inevitably be 
+
+before the board again, perhaps next time with Sprint ­­
+
+with Windstream filing, instead of Sprint, or Sprint 
+
+saying they're threatening us with disconnection again. 
+
+There was no point in letting it start over.  We got to 
+
+the bottom of it, to see what was going on. 
+
+ The lower courts have identified various ­­
+
+this goes to your ­­ to your earlier question, Justice 
+
+Sotomayor, about how to define coercive proceedings. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15
+
+16
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+30
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+And the lower courts have identified a number of factors 
+
+that they've considered in this, including who initiated 
+
+the proceeding, was participation in the proceeding 
+
+mandatory, does the Federal Plaintiff contend that the 
+
+State proceeding is unlawful, or do they ­­ does the 
+
+Federal plaintiff, instead, seek a remedy from some 
+
+other State­initiated inflicted wrong, is the Federal 
+
+plaintiff alleged to have committed a bad act, and 
+
+finally, whether the proceeding involved the State's 
+
+enforcement of its laws. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, don't all ­­
+
+it's sort of like the important State interests.  I 
+
+assume the State's not doing anything, unless they think 
+
+it's important.  And any type of administrative 
+
+proceeding, remedial or otherwise, has to a have some 
+
+bite to it. 
+
+ There has to be something that is going 
+
+happen to you if you don't do what they tell you to do. 
+
+So in that sense, I mean, almost every administrative 
+
+proceeding is coercive. 
+
+ MR. LYNCH: 
+
+If it can be backed up, as this 
+
+one could.  When the board issued its order and directed 
+
+Sprint to make payment to Windstream, had Sprint failed 
+
+to do that, Sprint could have been subject to civil 
+
+penalties assessed by the board.  So I think to the 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+31
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+extent that the agency proceedings are backed up with 
+
+that kind of enforcement ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Well, my point is it 
+
+doesn't seem like much of a limiting test, if you can 
+
+say any time ­­ sort of any time anything bad can happen 
+
+to you as a result of an administrative proceeding, 
+
+that's coercive.  It doesn't seem like a serious 
+
+constraint on the application of Younger. 
+
+ MR. LYNCH: 
+
+And what that ­­ what that may 
+
+go to, Your Honor, is the fact that the 
+
+coercive­remedial distinction is not any easier to apply 
+
+than the important State interest test. 
+
+ JUSTICE ALITO: 
+
+Well, could you give me an 
+
+example of State administrative proceedings that would 
+
+not fall within your understanding of the scope of 
+
+Younger? 
+
+ MR. LYNCH: 
+
+With respect to my own agency, 
+
+for instance, a ­­ well, there is all the obvious 
+
+examples, legislative action, the cases where there is 
+
+no State agency ­­ or no State proceeding pending. 
+
+ But in terms of a quasi­judicial agency 
+
+action that would not be entitled to Younger abstention, 
+
+I’ve given the earlier example if the parties were in what's 
+
+called the garden ­­ truly in a garden­variety 
+
+commercial dispute between two parties and the agency is 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+32
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+simply resolving that dispute between the two parties, 
+
+the State's interest is substantially diminished in that 
+
+proceeding. 
+
+ JUSTICE KAGAN: 
+
+I think ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Why is ­­ I'm sorry. 
+
+I was just going to say why is that?  Presumably, the 
+
+State is resolving that dispute pursuant to some State 
+
+law or State regulation, State policy.  I don't know why 
+
+the ­­ the State interest is unimportant simply because 
+
+it's the resolution of a private dispute. 
+
+ MR. LYNCH: 
+
+Let me be clear.  I don't say 
+
+the State interest is unimportant; it is simply 
+
+diminished.  And at some point, it would be diminished 
+
+to the point where Younger abstention would not be 
+
+appropriate. 
+
+ JUSTICE BREYER: 
+
+Does it matter if it's just 
+
+purely Federal law?  I mean, think of a civil case 
+
+involving a State on one side and private parties on 
+
+another in a State court, which has jurisdiction over 
+
+Federal laws.  The State claims that the defendant has 
+
+violated, civilly, a Federal statute.  There's an action 
+
+also in Federal Court. 
+
+ In your view, does the Federal Court have to 
+
+abstain? 
+
+ MR. LYNCH: 
+
+If the Federal plaintiff brought 
+
+1 
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25
+
+33
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+the Federal action in order to enjoin the State court 
+
+proceedings ­­
+
+ JUSTICE BREYER: 
+
+No, no.  There's no action 
+
+for an injunction.  What they want is the judge to 
+
+decide the case.  The private party wants the Federal 
+
+judge to decide his case.  That's all.  It's a matter of 
+
+interpreting Federal law. 
+
+ Now, in your opinion, is Younger ­­ does 
+
+Younger, not some other doctrine, does Younger require 
+
+abstention? 
+
+ MR. LYNCH: 
+
+Yes. 
+
+ JUSTICE BREYER: 
+
+Yes.  Okay.  So on your 
+
+view, we can never have a case proceed in Federal court 
+
+even on a purely Federal issue if, in fact, there is 
+
+involving this estate civil case on the same question? 
+
+ MR. LYNCH: 
+
+Involving the same parties? 
+
+ JUSTICE BREYER: 
+
+Yes. 
+
+ MR. LYNCH: 
+
+Yeah. 
+
+ JUSTICE BREYER: 
+
+Well, I can't think of a ­­
+
+doesn't it often happen that there are such cases?  I 
+
+mean, I ­­ I would think that wouldn't be too difficult. 
+
+I mean, either there never is one and you tend to be 
+
+right, or there are a whole lot of them and you tend to 
+
+be wrong. 
+
+ I've just never heard it put in that extreme 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17
+
+18
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25
+
+34
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+way, and maybe you're right.  I don't know.  What's 
+
+your ­­ do you have authority for it or any light to 
+
+shed? 
+
+ MR. LYNCH: 
+
+I think my authority for it is 
+
+in this case ­­ in this Court's Younger abstention 
+
+decisions.  The Middlesex County test is a simple 
+
+three­part test that focuses always on the second 
+
+factor, what is the State's interest ­­ what is the 
+
+important State interest? 
+
+ JUSTICE ALITO: 
+
+Well, suppose it's a 
+
+licensing procedure.  Somebody's been denied a license 
+
+to be a barber or a hairdresser and the person wants to 
+
+challenge that in Federal court.  Would Younger apply 
+
+there? 
+
+ MR. LYNCH: 
+
+No, I don't think that would 
+
+be a ­­
+
+ JUSTICE ALITO: 
+
+Why? 
+
+ MR. LYNCH: 
+
+I don't believe that would be 
+
+agency action in a judicial manner. 
+
+ JUSTICE ALITO: 
+
+Why not? 
+
+ MR. LYNCH: 
+
+I'm assuming that they filed 
+
+a ­­ a form, filled it out, gave it to the agency, and 
+
+it was denied.  That seems more to me to be of an 
+
+executive character. 
+
+ JUSTICE ALITO: 
+
+Well, suppose there's 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18
+
+19 
+
+20
+
+21
+
+22 
+
+23 
+
+24 
+
+25
+
+35
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+some ­­ there's an ­­ an administrative agency in the 
+
+State that hears appeals from that. 
+
+ MR. LYNCH: 
+
+If the person applying for that 
+
+license had then gone on to ask for a hearing before 
+
+that department that hears administrative appeals, and 
+
+it had a quasi­judicial proceeding in order to make that 
+
+determination, then I believe that Younger would ­­
+
+could apply there, if there's an important State 
+
+interest attached to the denial of that license. 
+
+ JUSTICE KAGAN: 
+
+I guess, Mr. Lynch, the 
+
+concern is, given that we think agencies are doing 
+
+things that implicate important State interests most of 
+
+the time, that's why they do them, that ­­ that your 
+
+test ­­ and not just your test, but the Eighth Circuit's 
+
+tests, would turn agency adjudicators into the primary 
+
+legal decision­makers in our system on all matters that 
+
+they were ­­ you know, wanted to get into, including 
+
+matters of Federal law. 
+
+ MR. LYNCH: 
+
+That would ­­ to the extent that 
+
+the cases are brought before the State agencies in the 
+
+first place, and the Federal issues are raised there, 
+
+before it goes to the Federal court, that would be 
+
+correct. 
+
+ JUSTICE KAGAN: 
+
+That does seem like a big 
+
+proposition ­­ no? I mean, do you think that 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+36
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+Younger says that or that Middlesex says that or that 
+
+we've ever said that? 
+
+ MR. LYNCH: 
+
+I think that Middlesex, combined 
+
+with Huffman, providing for the State a unitary 
+
+proceeding does, in fact, provide for that result. 
+
+Leads logic ­­
+
+ JUSTICE BREYER: 
+
+Does Younger say "before"? 
+
+ MR. LYNCH: 
+
+I'm sorry? 
+
+ JUSTICE BREYER: 
+
+Does Younger say "before"? 
+
+ MR. LYNCH: 
+
+No.  Middlesex ­­
+
+ JUSTICE BREYER: 
+
+You just said before. 
+
+ MR. LYNCH: 
+
+Middlesex ­­
+
+ JUSTICE BREYER: 
+
+No.  So ­­ so in your view, 
+
+it doesn't matter which is brought first, I guess. 
+
+ MR. LYNCH: 
+
+No.  Middlesex County requires 
+
+that there be a pending State proceeding. 
+
+ There is one other argument I'd like to 
+
+address ­­
+
+ JUSTICE ALITO: 
+
+Is it correct that, under 
+
+Eighth Circuit law, the ­­ the party that wants to bring 
+
+the Federal lawsuit has to go to State court first? 
+
+ MR. LYNCH: 
+
+You mean following the agency 
+
+proceedings, the unitary proceeding ­­ that is the 
+
+Eighth Circuit's approach, yes, that once you've gotten 
+
+on the ­­ the State train, you have to ride that through 
+
+1 
+
+2 
+
+3
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+37
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+to the end of the State process. 
+
+ JUSTICE ALITO: 
+
+Well, I thought that ­­ I 
+
+thought that Sprint was ­­ said that they had to go to 
+
+State court whether they wanted to or not or else they 
+
+wouldn't be able to go to Federal court. 
+
+ MR. LYNCH: 
+
+I believe Sprint's argument ­­ I 
+
+don't care ­­ don't want to speak for them, but I 
+
+believe their argument on that point was, following the 
+
+board's decision, they feel that the Eighth Circuit law 
+
+required them to file petitions in both Federal court 
+
+and to invoke the judicial review process in State 
+
+district court. 
+
+ JUSTICE BREYER: 
+
+If Younger only applies 
+
+to ­­ to State proceedings that are brought first, then 
+
+I guess we could have a ­­ a criminal defendant, who's 
+
+not yet one, bring an action in Federal court to say 
+
+that the law is unconstitutional or something or 
+
+violates a Federal law.  And then the State prosecutes 
+
+him criminally, and the Federal court couldn't ­­ and 
+
+the Federal court could enjoin the criminal proceeding. 
+
+ MR. LYNCH: 
+
+That would be the ­­ very much 
+
+like the case in this Court's decision in Steffel 
+
+against ­­
+
+ JUSTICE BREYER: 
+
+So we've said they can't ­­
+
+you can enjoin a criminal decision ­­ a criminal 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+38
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25
+
+Official 
+
+proceeding in a State court, as long as the criminal 
+
+proceeding wasn't brought first.  Is that what this 
+
+Court has said? 
+
+ MR. LYNCH: 
+
+As I read it, what this Court 
+
+has said is that there's no Younger abstention when 
+
+there's no pending State criminal proceeding. 
+
+ JUSTICE BREYER: 
+
+No, no.  There is a pending 
+
+one by the time they get around to it.  Then what?  I 
+
+mean, I ­­
+
+ MR. LYNCH: 
+
+So ­­ I'm sorry.  I 
+
+misunderstood. 
+
+ JUSTICE BREYER: 
+
+I'll ask you to clarify. 
+
+You've come up with a couple of rules that strike me as 
+
+counterintuitive, and so I'm trying to figure that one 
+
+out. 
+
+ The before or after one doesn't seem to work 
+
+too well in my mind because it would seem ­­ you know, 
+
+you couldn't ­­ Federal court couldn't.  Federal court 
+
+could enjoin a criminal proceeding that came up later in 
+
+your view, I guess. 
+
+ MR. LYNCH: 
+
+Yes.  I think the Federal court, 
+
+at least, could answer the Federal question presented. 
+
+I guess I have a hard time seeing ­­
+
+ JUSTICE BREYER: 
+
+All right. 
+
+ MR. LYNCH: 
+
+Okay. 
+
+39
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ The last thing I wanted to address is there 
+
+is a lot of discussion, particularly in some of the 
+
+amicus briefs, to the effect that the board was acting 
+
+under Federally delegated authority here under some ­­
+
+as some kind of deputized Federal agent.  That is not 
+
+the case at all here.  The board was acting under its 
+
+State law authority. 
+
+ Sprint relies, for instance, on the AT&T vs. 
+
+Iowa Utilities Board case for the proposition that the 
+
+1996 Telecommunications Act asserted Federal authority 
+
+to regulate local telecommunications matters. 
+
+ That's true, insofar as it goes, but that 
+
+case is limited to matters addressed by the '96 Act, 
+
+which was addressed to create in competition within the 
+
+local exchange marketplace. 
+
+ What we're talking about in this case is 
+
+access services by which a long distance carrier, such 
+
+as Sprint, delivers a long distance call to the local 
+
+exchange carrier, such as Windstream, for completion to 
+
+Windstream's customers.  That service remains 
+
+practically a monopoly service. 
+
+ Sprint has no way to get those calls to 
+
+Windstream's customers, other than by connecting it to 
+
+Windstream and letting Windstream ­­ compensating 
+
+Windstream for carrying those calls to the end. 
+
+40
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ Because of that, the Federal 
+
+Telecommunications Act of '96, in Section 251(g), 
+
+expressly reserved the tariffed access charge regime and 
+
+did not affect the State's jurisdiction over intrastate 
+
+access charges.  Sprint acknowledges that in its reply 
+
+brief at pages 22 and 23, but claims that the situation 
+
+is unclear as to what applied between 1996 and 2011. 
+
+ But the fact remains that Sprint paid those 
+
+intrastate access charges without protest from 1996 to 
+
+2009, when it made the unilateral decision to change the 
+
+process and start withholding those payments. 
+
+ JUSTICE GINSBURG: 
+
+Well, then why wouldn't 
+
+you say that Sprint was not the initiator of this State 
+
+process?  Because Sprint withdrew its complaint, right? 
+
+ MR. LYNCH: 
+
+I'm sorry.  I missed a few words 
+
+there. 
+
+ JUSTICE GINSBURG: 
+
+Sprint ­­ Sprint withdrew 
+
+its complaint. 
+
+ MR. LYNCH: 
+
+Sprint was allowed to withdraw 
+
+its complaint. 
+
+ JUSTICE GINSBURG: 
+
+Yes.  So, at that point, 
+
+it becomes the board's proceeding.  It becomes a 
+
+proceeding initiated by the board and not by Sprint. 
+
+ MR. LYNCH: 
+
+That is correct. 
+
+ Thus, even under the first­to­file test, we 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25
+
+41
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+believe that this case was coercive at the time it was 
+
+before the board, to the extent that the 
+
+coercive­remedial distinction matters. 
+
+ Those are the points I had to cover. 
+
+If 
+
+there are no further questions, thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you counsel. 
+
+ Mr. Simeone, you have 6 minutes remaining. 
+
+ REBUTTAL ARGUMENT OF TIMOTHY J. SIMEONE 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. SIMEONE: 
+
+I hope to be very brief.  But 
+
+there was a lot of discussion about the problem with the 
+
+IUB's approach lacking sort of meaningful limits.  And I 
+
+just want to say a couple words about the Middlesex 
+
+County test because I don't think that that lack of 
+
+meaningful limits necessarily follows from ­­ from the 
+
+Middlesex County test, although I do think some 
+
+clarification of the test would be ­­ would be helpful. 
+
+ Under Middlesex County, of course, Younger 
+
+requires an ongoing State judicial proceeding, and it 
+
+requires an important State interest.  So with respect 
+
+to ongoing State judicial proceeding, the IUB 
+
+understands "judicial" to be any adjudicative 
+
+proceeding.  But as we argue in our briefs, that's not 
+
+necessarily consistent with the rest of this Court's 
+
+cases under ­­ applying Younger. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+42
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22 
+
+23
+
+24 
+
+25
+
+Official 
+
+ "Judicial," we think, means an exercise of 
+
+the State's judicial enforcement authority.  So limiting 
+
+that prong of Middlesex County to an exercise of the 
+
+State's judicial enforcement authority would help to 
+
+draw this line. 
+
+ A second similar point is with respect to 
+
+the State interest prong of Middlesex County, we argue, 
+
+of course, that the relevant State interest is the 
+
+State's interest in the ongoing State proceeding.  Here 
+
+the ongoing State proceeding was this ­­ was judicial 
+
+review of the agency proceeding. 
+
+ So by ­­ by limiting the proceeding that 
+
+you're looking at to the ongoing State judicial 
+
+proceeding required by the first prong of Middlesex 
+
+County, then you're really just looking at the State's 
+
+interest in State judicial review of Federal law 
+
+questions, as opposed to Federal court judicial review 
+
+of ­­ of Federal law questions. 
+
+ And, again, that seems to me to help to ­­
+
+to draw a line. 
+
+ Unless there are further questions, that was 
+
+all I had. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+Counsel. 
+
+ The case is submitted. 
+
+43
+ 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ (Whereupon, at 11:57 a.m., the case in the 
+
+above­entitled matter was submitted.) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+44 
+
+Alderson Reporting Company 
+
+Official 
+Official
+
+27:14 
+
+adjudications 3:13 
+
+27:11 
+
+announcing 15:25 
+
+aspects 17:24 
+asserted 40:10 
+answer 22:18 39:22  assessed 31:25 
+
+20:10 
+
+adjudicative 42:22  anybody 29:13 
+adjudicators 36:15  anyway 9:21 
+administrative 4:2 
+
+appeal 17:23 18:4 
+
+25:21 
+
+assume 24:14 25:14 
+
+31:13 
+
+assumed 12:6 
+assuming 35:21 
+
+Page 45 
+
+bite 31:16 
+board 10:24 21:10 
+21:11,12,16 23:15 
+23:16 25:13,15 
+29:12,14,20,23 
+30:8,18 31:22,25 
+40:3,6,9 41:23 
+42:2 
+
+boards 23:18 38:9 
+
+41:22 
+
+A 
+
+abeyance 10:8 
+ability 21:22 25:18 
+
+26:18 
+
+able 8:10 21:19 
+
+38:5 
+
+aboveentitled 1:11 
+
+44:2 
+
+absolute 18:25 
+abstain 33:24 
+abstention 3:12,17 
+
+5:20 6:9,13,20 
+8:20 14:25 19:12 
+31:14,19 32:6,14 
+36:1,5 
+
+admitted 23:6 
+affect 41:4 
+affirmed 29:20 
+agencies 16:6 19:2 
+
+7:25 9:20,21,25 
+10:8,10 17:15 
+21:13,25 22:12 
+23:22 24:4 25:6 
+26:12,16,24 28:13  agency 3:13,13 
+29:1,8 32:22 
+33:14 34:10 35:5 
+39:5 
+
+36:11,20 
+
+access 20:6 23:2,2 
+
+27:25 29:25 40:17 
+41:3,5,9 
+
+acknowledges 41:5 
+act 6:14 7:23 14:15 
+20:12 21:21 31:8 
+40:10,13 41:2 
+
+12:7,8,15,20 13:4 
+13:6,7,13,14,16 
+13:18,22,23,24 
+14:2,3 15:15,17 
+16:11,13 17:8 
+19:3 22:19 24:3,9 
+27:4,11,14,15 
+32:1,17,20,21,25 
+35:19,22 36:1,15 
+37:22 43:11 
+agencys 16:19 
+
+acting 40:3,6 
+action 5:8,10 6:8,18  agent 40:5 
+agree 6:5 
+
+8:24 10:22 11:16 
+13:6,7 23:18 29:9  agreed 29:3 
+aid 3:24 5:10 
+29:11 32:19,22 
+al 1:6 
+33:21 34:1,3 
+alito 15:8 18:6 19:5 
+35:19 38:16 
+32:13 35:10,17,20 
+35:25 37:19 38:2 
+
+actions 3:24 4:2,4 
+
+5:21 20:19 
+added 23:18 
+additional 11:21 
+
+12:3 
+
+address 5:18 7:16 
+8:5 25:19 37:18 
+40:1 
+
+alleged 31:8 
+allowed 41:19 
+alluded 29:22 
+ambiguous 23:5 
+amicus 40:3 
+amounts 23:5 
+
+addressed 40:13,14  analogized 22:8 
+analogous 28:9 
+adept 7:8 
+analysis 11:2 25:7 
+adequate 25:22 
+announced 23:24 
+adjudication 16:8 
+announces 20:21 
+16:13,20 27:4,10 
+
+36:5 
+
+appeals 16:15 36:2  attached 8:18 36:9 
+attempting 27:15 
+attended 27:4,11 
+authority 35:2,4 
+
+appearances 1:14 
+appellate 12:13 
+applicable 20:21 
+
+21:13 
+
+application 29:2 
+
+32:8 
+
+applied 7:19 15:3 
+20:14 23:7 41:7 
+applies 7:15 9:21 
+
+14:17 15:22 22:12 
+22:19 38:13 
+
+40:4,7,10 43:2,4 
+
+bond 17:22 
+bottom 30:10,22 
+available 15:9 17:8  breyer 33:16 34:3 
+34:12,17,19 37:7 
+avoid 26:3 
+avoiding 26:20 
+37:9,11,13 38:13 
+38:24 39:7,12,24 
+aware 29:15 
+awful 26:1 28:21 
+brief 4:9 12:18 41:6 
+awfully 26:1 
+
+42:10 
+
+B 
+
+briefed 24:22 
+briefs 13:14 40:3 
+
+apply 7:22 11:2,20  back 3:18 4:15 6:6 
+6:7 11:13 12:12 
+13:12 14:21 15:5  bringing 17:24 
+15:9 17:10 18:12  brings 29:16 
+20:8 29:24 30:2,4  broad 3:16 
+
+11:22 14:12 16:2 
+23:3 25:6 27:5 
+29:5,17 32:11 
+35:13 36:8 
+
+42:23 
+
+bring 37:20 38:16 
+
+applying 36:3 
+
+42:25 
+
+approach 26:15 
+
+37:24 42:12 
+
+appropriate 7:21 
+
+28:16 33:15 
+approval 14:1 
+arent 8:23 22:23 
+
+28:14 
+
+arguably 26:23 
+argue 11:10 26:8 
+
+backed 31:21 32:1 
+background 6:24 
+backwards 7:21 
+bad 31:8 32:5 
+balance 21:1 
+bar 19:21 
+barber 35:12 
+basic 4:15 18:13 
+basis 3:16 6:3 17:8 
+began 3:17 
+behalf 1:15,17 2:4 
+
+broadly 20:21 
+brought 9:4 13:17 
+
+33:25 36:20 37:14 
+38:14 39:2 
+
+burford 11:7,9,11 
+12:12,13 28:14 
+
+C 
+
+c 1:8,15 2:1 3:1 
+calculation 23:4 
+call 7:21 19:11 
+
+2:7,10 3:8 21:5 
+42:9 
+
+42:23 43:7 
+argued 4:19 
+argument 1:12 2:2  believe 22:18 35:18  calls 7:16 13:25 
+14:5,7,12 16:2 
+40:22,25 
+
+36:7 38:6,8 42:1 
+
+belongs 27:9 
+
+called 32:24 
+
+40:18 
+
+2:5,8 3:4,7 10:13 
+11:14,14 20:3 
+21:4 37:17 38:6,8  best 13:21 
+better 22:9 
+42:8 
+beyond 3:22 
+
+arguments 3:11 
+asking 17:19 28:23  big 14:6 20:20 
+aspect 18:3 
+
+36:24 
+
+cant 16:14,25 18:21 
+26:11 34:19 38:24 
+
+care 28:13 38:7 
+carrier 40:17,19 
+carrying 40:25 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+Page 46 
+
+correct 10:22 36:23 
+
+37:19 41:24 
+couldnt 19:20 
+
+38:19 39:18,18 
+counsel 4:6 21:2 
+
+23:20 25:24 42:6 
+43:23,24 
+
+counsels 26:1 
+counterintuitive 
+
+39:14 
+
+15:6,6 17:12,13 
+18:14,22 19:23 
+23:14,25 24:4 
+25:18,18,21 26:21 
+30:23 31:1 35:5 
+38:22 42:24 
+
+cover 42:4 
+covered 11:11 
+covers 27:13 
+create 28:20,24 
+
+county 4:1 5:20 
+
+40:14 
+
+19:8,10,16 20:24 
+25:8,17 35:6 
+37:15 42:14,16,18 
+43:3,7,15 
+
+42:13 
+
+course 3:21 10:4 
+
+12:15 16:17 17:2 
+17:6 19:16 42:18 
+43:8 
+
+criminal 3:20,22,25 
+4:5 5:3,10,12 15:4 
+15:7 17:14 18:15 
+18:18 19:4,7,8,9 
+19:11,15,22 20:19 
+22:6 38:15,20,25 
+38:25 39:1,6,19 
+criminally 38:19 
+customers 13:25 
+14:5 40:20,23 
+
+compensation 7:15  couple 5:17 39:13 
+
+Official 
+
+case 3:4 5:1,21,24 
+
+41:5,9 
+
+comes 13:5 
+coming 18:23 
+commercial 23:10 
+
+14:25 
+
+32:25 
+
+6:11 20:14 
+
+commission 6:2,4 
+
+6:22,24 7:11 8:1,9  charging 6:13 
+9:9,9,17,23 10:23 
+chief 3:3,9 21:2,6 
+11:2,14 12:17 
+22:1,15 30:13,16 
+14:19 15:5,13 
+31:11 32:3 33:5 
+16:21 17:2,4 18:2 
+committed 31:8 
+42:6 43:23 
+18:8 19:15,22 
+20:9,9,9,13 22:12  choice 16:7 
+committee 19:19 
+22:24 23:11,12,13  chose 21:9 25:12,14  communications 
+23:16,21 24:10,14  circuit 4:16 8:25 
+25:4,23 26:8,22 
+27:9,18,24 28:25 
+29:6,8,18 30:12 
+30:17 33:17 34:5 
+34:6,13,15 35:5 
+38:22 40:6,9,13 
+40:16 42:1 43:25 
+44:1 
+
+comparable 9:8 
+compelled 13:18 
+compelling 21:17 
+compensating 
+
+9:1,18,19,24 
+10:11,17 18:5 
+24:1,16 29:19 
+37:20 38:9 
+
+circuits 9:25 24:21 
+
+7:20,22 14:11,17 
+15:22 16:1 
+
+36:14 37:24 
+
+1:3 3:4 
+
+40:24 
+
+circumstances 23:9 
+citizens 18:10 
+civil 3:24 4:3 5:25 
+
+competition 40:14 
+complaint 6:9,13 
+
+6:1,14,18,21 
+11:16 14:19,22,24 
+15:2 19:24 22:6 
+26:22 31:24 33:17  completed 24:9 
+34:15 
+
+6:20 14:25 41:14 
+41:18,20 
+
+cases 3:20,22 4:3,5 
+
+5:3,9,13,20 9:1 
+17:24 18:6,8,19 
+22:9 23:19 25:25 
+26:16,21 27:8 
+28:16 32:19 34:20 
+36:20 42:25 
+
+cast 21:21 
+categories 26:12 
+
+28:20 
+
+category 22:2 
+27:10 28:24 
+
+civilly 33:21 
+claims 33:20 41:6 
+clarification 42:17 
+clarify 39:12 
+clause 17:20 
+clear 8:22 23:22 
+
+court 1:1,12 3:10 
+
+cut 8:19,21 
+
+26:20 
+
+decide 14:10,14,18 
+
+5:23 6:1,12,17 
+14:22,22 15:8 
+20:9,13,23 27:9 
+
+completion 40:19 
+complex 11:10 
+complicated 13:22 
+concern 18:8 36:11 
+concerns 26:17,19 
+
+D 
+d 1:8,15 3:1 
+david 1:17 2:6 21:4 
+days 6:16 
+dayton 4:1 5:19,21 
+
+conclude 11:24 
+concurrent 10:14 
+conduct 19:20 
+conducted 6:2 
+conducting 16:2 
+connecting 13:25 
+
+3:15,23 4:1,25 5:3 
+5:9,16 8:1,15,15 
+8:17,21,24 9:4,4 
+9:10,11,12,13,13 
+9:16,18,20,23 
+10:1,3,4,5,7,9,11 
+10:15,17,18 11:15 
+11:17,18 12:5,6,7 
+12:13,15,17,21,22 
+12:23,24 15:3 
+16:12,15,16 17:4 
+17:24 18:4 19:4 
+19:17 20:14 21:7  decided 10:10,11 
+20:3 24:17 
+21:10,20 24:12 
+decides 17:8 
+25:14 26:2 27:5 
+deciding 12:6 24:15 
+27:10,11 29:3,13 
+29:17 33:19,22,23  decision 16:19 38:9 
+considered 31:2 
+38:22,25 41:10 
+consistent 42:24 
+34:1,13 35:13 
+36:22 37:21 38:4  decisionmakers 
+constraint 32:8 
+consumer 14:1 
+38:5,10,12,16,19 
+38:20 39:1,3,4,18  decisions 3:14,17 
+contempt 17:20,21 
+3:21 4:23 8:8,11 
+contend 31:4 
+39:18,21 43:17 
+35:6 
+context 19:24 21:23  courts 3:17,19,21 
+corner 7:17 17:15 
+
+15:21,25 27:1 
+29:17 34:5,6 
+
+declaratory 17:5 
+
+4:9,21,22 5:12 
+
+14:5,7 40:23 
+
+36:16 
+
+26:4,7 33:11 
+clearly 28:25 
+
+certainly 19:11 
+certiori 16:16 
+challenge 3:15 8:10  clients 26:1 
+close 16:23 
+code 27:22 
+
+challenged 25:23 
+challenges 17:16,24  coercive 4:3,8,10 
+challenging 17:19 
+
+8:15 35:13 
+
+17:22 
+
+change 41:10 
+changes 22:25 
+character 35:24 
+characterize 23:11 
+charge 20:6 23:2 
+
+coerciveremedial 
+29:18 32:11 42:3 
+colorado 23:21,22 
+
+25:4 
+
+27:24 41:3 
+
+combined 37:3 
+charged 6:15 23:15  come 25:12,14 
+charges 9:6 30:1 
+
+39:13 
+
+4:20,21,22,23 5:2  consent 6:4,5,10 
+29:21 30:25 31:20  considerable 22:7 
+32:7 42:1 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+defendant 33:20 
+
+dispute 14:8 16:22 
+
+either 16:7,9 25:10 
+
+23:23 
+
+38:15 
+
+29:18 32:11 42:3 
+
+23:3,10 27:18 
+32:25 33:1,7,10 
+disrespect 26:18 
+distance 40:17,18 
+distinction 4:14 
+
+define 4:7 30:25 
+degree 14:25 
+delegated 40:4 
+delivers 40:18 
+denial 26:15 36:9 
+denied 35:11,23 
+department 36:5 
+dependent 28:10 
+deputized 40:5 
+derive 28:5 
+des 1:17 
+describe 27:17 
+description 14:21 
+despite 21:15 
+determination 36:7  doing 4:16 20:10 
+didnt 7:16 9:12 
+
+distinguish 17:7 
+district 29:3 38:12 
+docket 16:23 
+doctrine 23:14 
+
+27:23 28:10 34:9 
+doctrines 28:13,22 
+doesnt 11:10 17:7 
+
+31:13 36:11 
+
+17:6 20:4 24:17 
+
+dont 4:7 5:12 6:5 
+
+26:5 32:4,7 34:20  enforcing 15:16 
+37:14 39:16 
+
+18:18 23:15 
+
+difference 20:17,20 
+differences 20:8 
+different 5:17 11:3 
+14:10 15:13 18:7 
+22:2 
+
+difficult 34:21 
+diminished 33:2,13 
+
+33:13 
+
+direct 21:18 
+directed 21:25 
+
+31:22 
+
+direction 5:19 
+directions 5:17 
+disappeared 16:22 
+disciplinary 4:2 
+
+5:21 6:8 19:12,13 
+
+disconnect 29:25 
+
+30:2,6 
+
+disconnection 7:1 
+
+23:8,17 30:20 
+
+discrimination 6:3 
+discussed 26:12 
+discusses 12:18 
+discussion 40:2 
+
+42:11 
+
+disinclined 26:8 
+dispersions 21:22 
+
+6:24 8:2 9:19 
+11:8,9 15:6,11 
+18:14 25:1 28:5 
+28:11,17,23 30:9 
+31:11,18 33:8,11 
+35:1,15,18 38:7,7 
+42:14 
+
+draw 4:8 43:5,20 
+drawing 5:22 22:5 
+drew 22:5 
+driving 23:24 
+due 15:15 17:19 
+duplicative 26:20 
+
+26:21 
+
+15:17 24:3 
+estate 34:15 
+et 1:6 
+E 
+ethics 19:18 
+e 2:1 3:1,1 
+eventually 8:16 
+earlier 17:11 27:17  evils 21:24 26:17 
+ex 16:6,11,18 17:3 
+
+30:24 32:23 
+
+17:3 
+
+exact 16:9,13 
+exactly 5:24 7:3 
+
+easier 32:11 
+easy 25:9 
+effect 40:3 
+eighth 8:25,25 9:18 
+9:19,24,25 10:10 
+10:17 18:5 24:1 
+24:16 29:19 36:14  examples 4:9 32:19 
+37:20,24 38:9 
+
+27:17 32:14,23 
+
+example 22:25 
+
+exception 3:12 
+
+26:17 
+
+34:22 
+
+element 23:18 
+elizabeth 1:6 
+ends 8:20 
+enforce 17:17,25 
+
+18:21 20:5 27:15 
+enforcement 3:24 
+4:4,4 5:8,10,25 
+6:18 11:16 13:15 
+13:16 14:19,22 
+15:2 16:3 19:24 
+22:20 31:10 32:2 
+43:2,4 
+
+engaged 6:3 22:19 
+england 9:9,9 10:2 
+enjoin 8:23 21:11 
+
+34:1 38:20,25 
+39:19 
+
+entitled 9:15 13:24 
+
+17:3 32:22 
+
+equity 3:19 5:12 
+
+15:6 17:13 18:14 
+
+eroded 22:6 
+especially 5:22 
+
+25:24 
+
+esq 1:15,17 2:3,6,9 
+essence 25:2 29:24 
+essentially 10:2 
+
+Page 47 
+
+13:6 14:14,18 
+15:6,18 16:12,25 
+17:4,18,24 18:14 
+20:11 21:10,20,23 
+23:24,25 24:4 
+25:14,16,19 26:19 
+27:21 28:1,4,6,9 
+29:8,9 31:4,6,7 
+33:17,20,21,22,23 
+33:25 34:1,5,7,13 
+34:14 35:13 36:18 
+36:21,22 37:21 
+38:5,10,16,18,19 
+38:20 39:18,18,21 
+39:22 40:5,10 
+41:1 43:16,17,18 
+
+federalism 18:8 
+
+26:20 
+
+federally 40:4 
+feel 38:9 
+felt 28:25 
+figure 39:14 
+file 6:9 18:5 38:10 
+filed 6:12 8:24 
+
+10:22 11:18 18:4 
+21:16 23:13 27:23 
+28:10 29:9,23 
+35:21 
+
+filing 30:19 
+filled 35:22 
+finally 31:9 
+finding 14:23 
+findings 6:20 
+fine 30:9 
+fines 6:16 
+first 5:19 22:18 
+
+24:6 25:9 36:21 
+37:14,21 38:14 
+39:2 43:14 
+
+exchange 40:15,19 
+excuse 23:16 
+executive 35:24 
+exercise 10:6 43:1,3 
+exigency 23:18 
+existed 28:11 
+existing 15:16 
+expanded 3:22 
+expected 7:12 
+explain 9:2 13:20 
+expressly 41:3 
+extended 3:23 4:2 
+
+4:25 5:3 11:17 
+
+extension 5:11 
+
+17:12 28:24 29:5 
+
+extensions 19:23 
+extent 22:7 32:1 
+
+36:19 42:2 
+
+extreme 34:25 
+
+F 
+faced 21:16 
+fact 7:10 10:16 
+
+19:14 21:15 24:20 
+24:25 29:20 32:10 
+34:14 37:5 41:8 
+factor 25:17 35:8 
+factors 25:9 31:1 
+factual 6:20 
+failed 31:23 
+fall 27:12 32:15 
+familiar 23:14 
+far 4:24 
+favor 13:8 
+fcc 7:5,7,10,12,14 
+
+7:19 8:2,3,6 15:18 
+15:21,22 16:25 
+
+fccs 7:1 
+federal 3:14,19 
+
+firsttofile 41:25 
+fit 17:11 28:25 
+focuses 35:7 
+folks 17:21 
+followed 18:3 
+
+7:20,23 8:1,1,5,7 
+8:8,21 9:9,11,13 
+9:13,15,15,20 
+10:3,4,5,9,10,15 
+10:16,18,22 11:18  following 28:18 
+12:21,21,24,24 
+
+37:22 38:8 
+
+Alderson Reporting Company
+ 
+
+follows 42:15 
+forced 10:16 
+fork 24:8 
+form 35:22 
+forward 7:16,19 
+
+31:17 33:6 
+
+gotten 17:5 37:24 
+grasp 6:24 
+greater 18:7 
+guess 13:13 36:10 
+
+10:4,12,19 30:1,3 
+30:5 
+
+37:14 38:15 39:20 
+39:23 
+
+found 6:2 
+framing 3:19 
+friend 22:8 
+front 8:3 
+frustrated 8:6 
+
+15:20,20 
+
+further 5:14,16 
+
+12:1 20:25 42:5 
+43:21 
+
+H 
+
+hadnt 15:18,23 
+hairdresser 35:12 
+happen 31:18 32:5 
+
+34:20 
+
+hard 4:8 39:23 
+hasnt 8:2 
+havent 24:22 
+health 21:18 
+hear 3:3 
+heard 10:9 34:25 
+
+G 
+g 3:1 41:2 
+garden 23:10 32:24  hearing 6:11 15:15 
+gardenvariety 
+
+36:4 
+
+32:24 
+
+generally 16:6 
+ginsburg 6:23 7:5 
+
+hears 36:2,5 
+heart 4:25 
+held 5:9 10:7 
+help 43:4,19 
+
+7:24 8:14 9:2 
+20:2 27:3,7 41:12  helpful 5:22 42:17 
+41:17,21 
+
+give 5:24 22:17 
+
+32:13 
+
+given 32:23 36:11 
+gives 6:17 
+go 8:21 9:10,13,18 
+9:19 10:4,12,17 
+12:12 16:12 17:10 
+20:3 21:19 30:9 
+30:11 32:10 37:21 
+38:3,5 
+
+goes 12:4 18:11 
+
+20:8 30:24 36:22 
+40:12 
+
+going 3:18 4:15 6:8 
+
+6:8 7:15,19,21 
+8:16 10:18 13:18 
+14:4 16:24 24:24 
+25:22 30:1,1,3,4,5 
+30:6,10,11,14,22 
+
+helps 5:24 
+hire 6:6 
+hold 13:24 30:1 
+holding 17:21 
+holds 7:9 
+honor 4:12,19 5:23 
+7:4 8:22 9:7 11:5 
+12:13 15:12 18:12 
+20:8 22:14 27:6 
+32:10 
+
+hope 42:10 
+huffman 3:23 5:4 
+
+37:4 
+
+I 
+
+id 37:17 
+idea 18:13,21 
+identified 30:23 
+
+31:1 
+
+ignored 6:10 
+
+Official 
+
+ill 39:12 
+im 26:8 27:6 28:7 
+29:15 30:13 33:5 
+35:21 37:8 39:10 
+39:14 41:15 
+imagine 23:3 
+immediate 21:17 
+implement 16:24 
+implemented 8:7 
+
+15:18 
+
+implementing 
+
+15:18 17:1 
+
+implicate 36:12 
+importance 19:4 
+important 18:16 
+
+19:2 20:17 21:23 
+22:3,22 25:5 27:1 
+31:12,14 32:12 
+35:9 36:8,12 
+42:20 
+
+including 31:2 
+
+36:17 
+
+incorrectly 10:11 
+independent 28:6,8 
+industry 15:19 
+
+20:22 
+
+inevitably 30:17 
+inflicted 31:7 
+information 8:12 
+
+14:16 
+
+initially 13:17 
+
+23:16,17 
+
+initiated 31:2 41:23 
+initiator 41:13 
+injunction 16:12 
+
+17:5,6 34:4 
+insofar 40:12 
+instance 32:18 40:8 
+intercarrier 7:15 
+
+7:20,22 14:11,17 
+15:22 16:1 
+
+interest 4:17,18 
+
+12:22,23,25 13:3 
+13:4,5 18:9 19:14 
+21:17,24 22:22 
+25:6 26:7 27:1 
+
+32:12 33:2,9,12 
+35:8,9 36:9 42:20 
+43:7,8,9,16 
+
+interesting 16:4 
+interests 4:5 12:10 
+19:13 20:1 22:3,4 
+28:14,21 31:12 
+36:12 
+
+interfering 20:19 
+interpreting 27:21 
+
+34:7 
+
+interrupt 21:20 
+interstate 28:9 
+intrastate 23:2 
+27:25 41:4,9 
+
+intrude 3:20 5:12 
+15:7 17:13 18:14 
+
+investigation 6:2 
+
+6:19 14:23 15:14 
+
+Page 48 
+
+11:13,15,20,23 
+12:18 13:25 14:9 
+15:24 16:2,21,21 
+16:23 18:9 20:3 
+20:10 42:21 
+
+iubs 3:11 14:13 
+16:5,10 42:12 
+ive 22:24 34:25 
+
+J 
+
+j 1:15,17 2:3,6,9 3:7 
+
+21:4 42:8 
+
+jacobs 1:6 3:5 
+jail 6:16,16,22 15:1 
+jersey 19:18 
+judge 8:1 29:3 34:4 
+
+34:6 
+
+judges 26:25 
+judgment 18:22,23 
+judgments 17:17 
+
+18:1 
+
+invoices 11:24 
+invoke 21:9 38:11 
+involve 17:16 25:25  judicial 10:25 13:5 
+13:6 35:19 38:11 
+42:19,21,22 43:1 
+43:2,4,10,13,16 
+43:17 
+
+23:13,17 25:16 
+26:7 31:9 
+
+involved 5:6 23:12 
+
+27:15 
+
+involves 24:3 
+involving 33:18 
+
+34:15,16 
+
+iowa 1:17 10:24 
+18:3,3,10 21:9 
+25:13 27:22 40:9 
+
+iowas 14:1 
+isnt 25:11 
+issue 7:2,8,9,13,14 
+7:23 10:23 12:5 
+13:2,23 14:2 
+25:20 26:23 34:14 
+
+issued 31:22 
+issues 3:14 8:5 9:11 
+9:14,15,20 10:3,8 
+10:9,10,16 12:21 
+12:25 14:10,14,18 
+15:21,25 21:23 
+25:15,25 36:21 
+
+iub 7:11 8:5,6,8,11 
+
+juidice 17:11,14,18 
+
+18:19 
+
+jurisdiction 10:5,6 
+
+10:14 21:9 24:5 
+33:19 41:4 
+
+jurisdictional 
+
+25:25 
+
+justice 3:3,9 4:6,13 
+5:5,14 6:23 7:5,24 
+8:14 9:2 10:20 
+11:6 13:10,12 
+15:8 18:6 19:5 
+20:2 21:2,6 22:1 
+22:15,23 23:20 
+24:16,19,23 25:1 
+25:24 26:22 27:3 
+27:7,20 28:1,5,12 
+28:17,18 29:7,13 
+30:13,16,24 31:11 
+32:3,13 33:4,5,16 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+35:21 36:3,10,19  moment 21:21 
+37:3,8,10,12,15  money 26:2 30:1 
+monopoly 40:21 
+37:22 38:6,21 
+39:4,10,21,25 
+moore 3:23 5:4 
+motivated 19:25 
+41:15,19,24 
+
+N 
+n 2:1,1 3:1 
+necessarily 42:15 
+
+42:24 
+
+need 6:6 24:12 
+
+28:20 
+
+neither 11:15 
+never 34:13,22,25 
+
+33:20 
+
+M 
+
+lynching 19:18 
+
+lawsuit 37:21 
+lawyer 19:17 
+leads 37:6 
+left 23:20 24:4 25:3 
+legal 36:16 
+legalized 19:18 
+legislative 32:19 
+legitimate 18:9 
+letting 30:21 40:24  magic 4:20 
+main 11:14 
+level 13:1,4 19:4 
+making 16:13 
+levels 12:11 
+license 35:11 36:4,9  mandatory 31:4 
+licensing 35:11 
+light 35:2 
+limit 26:11,11 
+limited 40:13 
+limiting 32:4 43:2 
+
+m 1:13 3:2 44:1 
+
+nono 14:6 
+nopsi 12:5,6 13:2 
+
+19:18 24:13 28:24  participating 12:14 
+participation 31:3 
+28:24 
+particular 22:11 
+particularly 40:2 
+parties 23:11 24:22 
+32:23,25 33:1,18 
+34:16 
+
+manner 35:19 
+marketplace 40:15  new 5:15 17:20 
+matter 1:11 15:10 
+15:12 33:16 34:6 
+37:14 44:2 
+
+matters 36:16,18 
+
+40:11,13 42:3 
+
+26:12 28:20 
+mean 4:22 6:7 22:1  normal 22:2 
+
+november 1:9 
+22:4,11 23:21 
+29:11 31:19 33:17  number 31:1 
+34:21,22 36:25 
+37:22 39:9 
+meaning 5:1 
+meaningful 42:12 
+
+O 
+
+Page 49 
+
+originally 6:25 
+orleans 5:15 24:13 
+ought 8:10 16:1 
+
+26:2,3 
+
+outside 27:12 
+
+P 
+
+p 3:1 
+page 2:2 
+pages 12:18 41:6 
+paid 11:24 12:2 
+
+41:8 
+
+part 24:10 
+parte 16:6,11,18 
+
+17:3,3 
+
+partnership 12:19 
+
+12:20 
+
+parts 22:17 
+party 34:5 37:20 
+pay 6:7,7 11:25 
+
+15:9 18:10 29:25 
+30:2,5 
+
+payment 31:23 
+payments 41:11 
+penalize 20:15 
+penalties 6:21 15:1 
+
+31:25 
+
+pending 7:1,10 
+
+10:23 11:19 25:9 
+32:20 37:16 39:6 
+39:7 
+
+pennzoil 5:15 17:11 
+
+17:14,22 18:19 
+permitted 19:20 
+person 35:12 36:3 
+personal 4:17 
+petition 9:3 21:16 
+
+29:23 30:7,9 
+
+petitioner 1:4,16 
+
+34:3,12,17,19 
+35:10,17,20,25 
+36:10,24 37:7,9 
+37:11,13,19 38:2 
+38:13,24 39:7,12 
+39:24 41:12,17,21 
+42:6 43:23 
+
+K 
+
+kagan 13:10,12 
+33:4 36:10,24 
+kangaroo 19:17 
+keep 13:18 
+kennedy 10:20 11:6 
+kicked 11:1 
+kind 4:10,11 5:8,22 
+7:21 11:16 12:25 
+15:2,4 16:1 17:15 
+18:24 19:13 22:21 
+26:9,23 32:2 40:5 
+
+know 4:7 13:3 
+
+14:15 15:13,21 
+16:6 18:18,24 
+19:2,3,19 20:15 
+25:8 26:6 28:11 
+28:17,23 33:8 
+35:1 36:17 39:17 
+
+L 
+lack 42:14 
+lacking 42:12 
+language 23:5 
+law 3:14 5:10 7:18 
+7:20,23 8:5,7,8,25 
+9:11,14,15,20,25 
+10:16,17 12:21,25 
+13:23 15:16,18 
+16:25 17:15 18:3 
+18:3,18 22:20 
+23:24 25:16 27:16 
+27:20,21,22 28:2 
+28:4,6 33:8,17 
+34:7 36:18 37:20 
+38:9,17,18 40:7 
+43:16,18 
+
+laws 3:25 31:10 
+
+43:12 
+
+limits 42:12,15 
+line 4:8 5:23 9:1 
+
+22:4 26:6,7 43:5 
+43:20 
+
+lines 26:3 
+literally 19:22 
+litigating 26:2 
+local 40:11,15,18 
+logic 37:6 
+long 29:25 30:2 
+39:1 40:17,18 
+
+looking 5:23 43:13 
+
+43:15 
+
+lot 28:21 34:23 
+
+40:2 42:11 
+
+lower 4:21 30:23 
+
+31:1 
+
+lynch 1:17 2:6 21:3 
+
+21:4,6 22:14,17 
+22:24 24:6,18,20 
+24:24 25:3 26:14 
+26:25 27:6,14,22 
+28:3,7,16,23 
+29:11,15 30:15,17 
+31:21 32:9,17 
+33:11,25 34:11,16 
+34:18 35:4,15,18 
+
+42:15 
+
+means 43:1 
+meant 23:7 
+merely 23:4 
+middlesex 4:1 5:20 
+19:8,10,16 20:24 
+25:8,17 27:8 29:1 
+35:6 37:1,3,10,12 
+37:15 42:13,16,18 
+43:3,7,14 
+
+mimicked 28:1 
+mind 39:17 
+minutes 42:7 
+misdemeanors 6:15 
+
+15:1 
+
+missed 41:15 
+misunderstood 
+
+28:8 39:11 
+moines 1:17 
+
+o 2:1 3:1 
+obligation 10:6 
+obliged 12:1 
+obvious 32:18 
+obviously 29:3 
+occurred 7:17 
+oh 14:4 28:7 30:16 
+ohio 6:1,14 14:24 
+okay 34:12 39:25 
+once 18:22 20:3 
+
+37:24 
+
+ones 25:9 
+ongoing 42:19,21 
+
+43:9,10,13 
+opinion 34:8 
+opposed 5:1 12:24 
+
+22:11 43:17 
+
+oral 1:11 2:2,5 3:7 
+
+21:4 
+
+order 6:4,6,10 
+
+31:22 34:1 36:6 
+
+Alderson Reporting Company
+ 
+
+Page 50 
+
+respondents 1:18 
+
+2:7 21:5 
+rest 42:24 
+result 26:15 32:6 
+
+37:5 
+
+results 29:19 
+review 8:17,17,20 
+9:3,3 10:15 11:1 
+12:7,21,24,24 
+13:5,6 16:16 27:5 
+27:12 38:11 43:11 
+43:16,17 
+ride 37:25 
+right 7:3 10:15 
+
+15:15 24:17 25:21 
+26:24 34:23 35:1 
+39:24 41:14 
+
+Official 
+
+proceed 6:8 16:7 
+
+provision 23:14 
+
+16:19 17:9 34:13  provisions 8:7 
+
+refused 6:11 
+regarded 19:7 
+
+proceeding 4:10 
+
+15:19 16:25 20:11  regime 7:15,20,22 
+
+34:14 
+
+11:10 14:11,17 
+15:22 16:1 41:3 
+
+public 21:18 24:13 
+punish 20:23 
+
+regulate 40:11 
+regulation 33:8 
+regulatory 11:10 
+12:14 13:1 19:1 
+22:3,3,13 
+
+5:25 6:19 7:6,10 
+8:16,23 9:22 
+10:18 11:15,16,19  purely 26:22 33:17 
+11:23 12:7,8,8,16 
+12:17,23 13:1,13 
+purposes 13:3 
+13:15,15,16 14:20  pursuant 33:7 
+14:22 15:3,4 16:3  put 34:25 
+16:15,20 19:12,14 
+19:24 20:4,5 
+22:11,13 24:7 
+25:10,20 31:3,3,5  quasicriminal 19:7  relief 15:9 17:7 
+31:9,15,20 32:6 
+32:20 33:3 36:6 
+37:5,16,23 38:20 
+39:1,2,6,19 41:22  question 4:24 8:3 
+9:5 12:12 14:11 
+41:23 42:19,21,23 
+17:10 19:5 24:7,9 
+43:9,10,11,12,14 
+24:10,13,17,22,25  remedy 25:22 31:6 
+25:2 28:19 30:24 
+34:15 39:22 
+
+quasijudicial 32:21  relies 40:8 
+
+reinstatement 15:9 
+relevant 8:7 12:20 
+
+quarrel 18:2 
+
+12:20 43:8 
+
+22:10 
+
+25:15 
+
+36:6 
+
+Q 
+
+proceedings 5:6 7:9 
+
+12:9 15:7 17:14 
+18:15 21:11,12,14 
+21:20 22:19 24:9  questions 20:25 
+29:20 30:25 32:1 
+32:14 34:2 37:23 
+38:14 
+
+25:19 26:19 42:5 
+43:17,18,21 
+quite 6:24 9:8 
+
+remaining 42:7 
+remains 40:20 41:8  rights 6:1,14 14:24 
+river 23:21,22 25:4 
+remedial 21:12 
+road 24:8 
+roberts 3:3 21:2 
+
+31:15 
+
+reoccur 30:11,15 
+reply 41:5 
+require 29:4 34:9 
+required 8:25 9:10 
+
+9:17 18:5 24:2 
+38:10 43:14 
+
+requirement 24:15 
+requirements 
+
+17:23 
+
+requires 27:23 
+
+37:15 42:19,20 
+
+research 24:21 
+reservation 10:2 
+reserve 9:15 21:1 
+reserved 12:5 41:3 
+resolution 7:1 
+
+33:10 
+
+resolve 7:6,9,12,14 
+
+22:1,15 30:13,16 
+31:11 32:3 33:5 
+42:6 43:23 
+
+rule 3:12,16 9:19 
+
+18:16 19:3 24:1,2 
+
+rulemaking 16:7 
+
+16:11,19,24 
+
+rules 14:1 16:9,14 
+
+19:21 20:21 39:13 
+
+ruling 10:21,22 
+
+17:5 
+
+S 
+
+s 1:6 2:1 3:1 
+saying 5:2 8:9,19 
+23:1 27:3 30:20 
+
+says 8:2 13:16 
+25:15 37:1,1 
+
+scalia 22:23 25:24 
+
+26:22 
+
+2:4,10 3:8 42:9 
+
+petitions 38:10 
+place 12:21 36:21 
+plaintiff 17:18 29:9 
+
+31:4,6,8 33:25 
+
+plaintiffs 9:10 
+please 3:10 15:21 
+
+21:7 
+
+plenty 4:9 
+point 11:7 14:13 
+16:4 29:16 30:8 
+30:21 32:3 33:13 
+33:14 38:8 41:21 
+43:6 
+
+points 42:4 
+police 18:17,24,25 
+policy 33:8 
+position 16:5 23:1 
+possibility 6:21 
+posture 15:12 
+potentially 6:22 
+power 18:17,25 
+
+28:6 
+
+practically 40:21 
+precedent 9:18 
+precisely 21:24 
+preclude 10:18 
+present 23:19 
+
+26:16 
+
+presented 24:10 
+
+26:17 39:22 
+
+15:24 
+
+proceeds 16:11,13 
+process 8:20 11:1 
+12:14 13:19 15:15 
+17:20 18:22 22:10  r 3:1 
+25:19 38:1,11 
+41:11,14 
+
+R 
+
+raised 36:21 
+raises 26:23 
+rationale 27:12 
+reach 24:12 
+reached 8:8 14:9 
+14:14,18 15:25 
+
+read 39:4 
+really 4:25 5:19 
+
+presumably 33:6 
+prevail 12:4 
+primary 36:15 
+principle 3:18 5:4 
+5:11 15:5 17:12 
+18:12 19:24 20:18  proposed 6:4 21:8 
+proposition 36:25 
+23:24 29:5 
+
+processes 17:16 
+professor 6:6 
+prong 43:3,7,14 
+
+principles 4:15 
+private 33:10,18 
+
+34:5 
+
+problem 25:11 
+
+42:11 
+
+problems 4:7 
+procedure 35:11 
+procedures 17:20 
+
+40:9 
+
+prosecutes 38:18 
+protect 28:20 
+protection 14:1 
+protest 41:9 
+provide 25:22 37:5 
+providing 27:25 
+
+37:4 
+
+21:22 26:19 
+resolved 13:8 
+
+11:13 12:4 14:4 
+17:6 18:11,17 
+20:10 24:22 43:15  resolving 7:8 33:1 
+reason 11:21 12:3 
+rebuttal 2:8 42:8 
+referred 19:17 
+reflects 20:19 
+
+42:20 43:6 
+
+respective 13:14 
+
+scalias 28:18 
+scheduled 6:12 
+respect 20:18 32:17  school 6:3,5,10 
+
+33:7 
+
+20:16 
+
+scope 32:15 
+
+Alderson Reporting Company
+ 
+
+second 4:16 29:16 
+
+35:7 43:6 
+
+section 27:23 41:2 
+see 22:22 30:22 
+seeing 39:23 
+seek 31:6 
+seeking 8:23 20:15 
+
+20:23 
+
+sense 16:18 17:7 
+
+31:19 
+
+separate 13:5 
+separately 5:18 
+serious 32:7 
+service 8:12,13 
+
+14:16,16 18:10 
+24:14 40:20,21 
+
+services 27:25 
+
+40:17 
+
+set 14:10 
+sex 6:4 
+shed 35:3 
+shorthand 4:21 
+shouldnt 3:19 
+
+10:17 11:20,21 
+17:13 
+
+show 6:11 
+side 28:3 33:18 
+significant 26:6 
+simeone 1:15 2:3,9 
+
+similar 4:5 12:11 
+
+18:20 19:14 43:6 
+
+simple 35:6 
+simply 24:14 33:1,9 
+
+33:12 
+
+sitting 3:19 5:12 
+
+15:6 18:14 
+
+situation 9:8 41:6 
+situations 12:10 
+slightly 3:22 
+small 5:11 
+
+somebodys 35:11 
+somewhat 5:4 
+
+13:22 
+
+sorry 28:7 30:13 
+33:5 37:8 39:10 
+41:15 
+
+sort 4:21 5:1 6:18 
+7:17 11:11 17:20 
+19:19 20:9 22:9 
+31:12 32:5 42:12 
+
+sorts 20:1 
+sotomayor 4:6,13 
+
+5:5,14 23:20 
+24:16,19,23 25:1 
+27:20 28:1,5,12 
+28:17 29:7,13 
+30:25 
+
+sovereign 4:17 
+speak 38:7 
+specific 5:8 7:19 
+split 24:21 
+spoken 8:2 
+sprint 1:3 3:4 7:11 
+16:3,22 18:2 21:8 
+23:1,3,6,11 25:12 
+25:23 27:18,24 
+29:23,25 30:4,18 
+30:19,19 31:23,23 
+31:24 38:3 40:8 
+40:18,22 41:5,8 
+41:13,14,17,17,19  statutory 23:14 
+stay 10:3 30:10 
+41:23 
+steffel 38:22 
+step 8:2 
+stop 13:24 14:4,7 
+straightforward 
+
+start 16:24 30:21 
+
+41:11 
+
+started 5:3 18:13 
+state 3:13,13,15,20 
+
+3:24 5:6,8,9,12 
+6:12 8:15,17,17 
+8:20,24,24 9:4,4 
+9:11,13,18,19,22 
+9:23 10:1,3,7,11 
+10:17,25 11:9,15 
+12:7,10,13,14,17 
+12:22,23,23 13:3 
+
+29:2 
+
+strange 7:17 16:5 
+strike 39:13 
+strongly 8:4 
+stuck 16:16 
+subject 3:15 6:15 
+6:16 24:4 26:23 
+31:24 
+
+submitted 43:25 
+
+44:2 
+
+3:6,7,9 4:12,19 
+5:7,16 6:23 7:3,7 
+8:4,22 9:7 11:4,8 
+13:10,11,21 15:11  sprints 21:8,12 
+18:11 19:10 20:7 
+42:7,8,10 
+
+38:6 
+
+Official 
+
+T 
+
+6:17 
+
+t 2:1,1 18:4 40:8 
+take 11:13 13:12 
+
+surprisingly 7:8 
+system 10:14 36:16 
+
+13:5,6,7,23 14:2,3  substance 5:24 
+15:7,16 16:15 
+substantially 33:2 
+17:14 18:4,15,17 
+suppose 35:10,25 
+18:18,21,24 19:1 
+19:3,4,21 20:19 
+supposed 14:7 
+20:21,22 21:17,20  supreme 1:1,12 
+21:24 22:20,20,22  sure 6:25 
+24:3 25:6,9,18,19 
+25:21 26:6 27:1,4 
+27:5,10,11,11,14 
+27:15,16,16,20,22 
+28:3,8,13,21 29:9 
+29:11 31:5,12 
+32:12,14,20,20 
+33:7,7,8,8,9,12,18 
+33:19,20 34:1 
+35:9 36:2,8,12,20 
+37:4,16,21,25 
+38:1,4,11,14,18 
+39:1,6 40:7 41:13 
+42:19,20,21 43:7 
+43:8,9,10,13,16 
+stateinitiated 31:7 
+states 1:1,12 4:4 
+12:22 17:17,25 
+19:13 21:22 26:18 
+31:9,13 33:2 35:8 
+41:4 43:2,4,9,15 
+statute 14:24 22:20 
+27:16 28:8 33:21 
+
+22:24 24:1 26:15 
+28:13 30:9 
+taken 15:20 
+takes 14:21 15:5 
+talking 40:16 
+tariff 23:2,6,6,13 
+
+7:18 8:12 14:6 
+40:10,11 41:2 
+telephone 18:10 
+tell 22:16 31:18 
+tend 34:22,23 
+terms 26:18 32:21 
+test 21:8,12 26:9 
+
+27:23 28:10 
+tariffed 41:3 
+teacher 6:7 
+telecommunication 
+
+14:16 
+
+telecommunicati... 
+
+29:1,2,18 32:4,12 
+35:6,7 36:14,14 
+41:25 42:14,16,17 
+
+tests 36:15 
+texaco 17:22 
+texas 17:23 
+thank 21:2 25:3 
+
+42:5,6 43:23 
+thats 7:3 11:11 
+
+12:25 13:9 14:2,5 
+15:4,4 18:16,17 
+18:24,24 19:8 
+21:15 22:20 25:10 
+25:11 26:13 27:16 
+
+Page 51 
+
+28:3 30:8 32:7 
+34:6 36:13 40:12 
+42:23 
+
+theory 14:13 16:10 
+theres 3:16 5:7 
+
+8:16,17 11:10,21 
+11:25,25 20:17,17 
+20:20 24:8,18 
+28:14 33:21 34:3 
+35:25 36:1,8 39:5 
+39:6 
+
+theyre 5:7,8 22:9 
+
+30:20 
+
+theyve 31:2 
+thing 40:1 
+things 19:1 36:12 
+think 4:24 5:2,21 
+
+6:17 8:6,10 10:11 
+10:21 11:5,8,9,12 
+11:20 12:4,8 13:7 
+15:11,12 16:4 
+18:11,19 19:12 
+20:7 22:12 31:13 
+31:25 33:4,17 
+34:19,21 35:4,15 
+36:11,25 37:3 
+39:21 42:14,16 
+43:1 
+
+thinking 4:15 
+third 14:25 25:17 
+thirddegree 6:15 
+thought 9:10 22:5 
+
+23:23 38:2,3 
+
+threat 21:18 23:7 
+
+23:17 
+
+threatening 15:1 
+
+30:20 
+
+three 25:8 26:12 
+threepart 29:2 35:7 
+tied 19:6 
+time 3:18 6:16,22 
+7:11 11:19 15:1 
+21:1,11,16 24:3 
+26:1 30:18 32:5,5 
+36:13 39:8,23 
+42:1 
+
+Alderson Reporting Company
+ 
+
+Page 52 
+
+yorks 17:20 
+young 16:6,11,19 
+
+33 12:18 
+34 12:18 
+
+17:3,4 
+
+younger 3:12,17,22 
+
+3:24 4:2,23,25 
+9:21,25 11:17,20 
+13:4 15:3 17:15 
+18:13 20:14,18 
+21:13,25 22:5 
+25:6 26:11,18,24 
+27:5,10,12,13 
+28:18,19 29:1,5,8 
+32:8,16,22 33:14 
+34:8,9,9 35:5,13 
+36:7 37:1,7,9 
+38:13 39:5 42:18 
+42:25 
+
+youre 5:23 8:19,19 
+
+22:21 24:17,24 
+28:18 30:5 35:1 
+43:13,15 
+
+4 
+
+42 2:10 
+43 24:21 
+476 27:23 
+
+5 
+5 1:9 27:23 
+57 44:1 
+
+6 42:7 
+60 6:16 
+
+6 
+
+7 
+
+8 
+
+9 
+
+96 40:13 41:2 
+
+33:23 34:13 37:13  windstreams 40:20  youve 37:24 39:13 
+39:20 
+
+40:23 
+
+timothy 1:15 2:3,9 
+
+33:12 
+
+unitary 12:8,9,16 
+16:14 24:2,7,15 
+37:4,23 
+
+united 1:1,12 
+unlawful 31:5 
+unsettling 18:23 
+unusual 9:25 17:15 
+urged 8:4 
+use 17:17 26:9 
+utilities 21:9 25:13 
+
+40:9 
+
+V 
+
+3:7 42:8 
+
+today 24:11 29:22 
+told 6:5 
+touching 22:10 
+touchstone 22:21 
+
+25:7 
+
+traditional 3:18 
+
+5:11 15:5 17:12 
+18:12,16 20:18 
+
+train 37:25 
+trainor 3:23 5:4 
+transform 3:11 
+treated 12:9,15 
+trial 19:17 
+tried 10:1 13:17 
+
+27:16 
+
+v 1:5 3:4 
+variety 23:10 
+various 30:23 
+vehicle 28:19 
+version 28:4 
+versus 16:20 
+view 13:2 23:21 
+
+tries 23:11 
+true 21:15 40:12 
+truly 23:9 32:24 
+try 5:17 
+trying 39:14 
+tuesday 1:9 
+violated 33:21 
+turn 36:15 
+two 12:10 22:17,25  violates 38:18 
+
+23:10 27:8 32:25 
+33:1 
+
+type 25:20 31:14 
+typically 25:20 
+
+U 
+
+un 23:5 
+unavoidably 21:21 
+unclear 41:7 
+unconstitutional 
+
+38:17 
+
+underlying 14:10 
+understandably 
+
+15:24 
+
+understanding 
+
+20:11 32:15 
+
+understands 42:22 
+understood 13:13 
+unflagging 10:6 
+unilateral 41:10 
+unimportant 33:9 
+
+violations 6:13,14 
+
+14:24 
+
+virtually 3:13 10:5 
+vs 40:8 
+
+W 
+
+waited 11:23 
+want 5:17 8:2 
+
+17:10 20:4 22:9 
+30:6,7 34:4 38:7 
+42:13 
+
+wanted 6:25 11:25 
+36:17 38:4 40:1 
+wants 34:5 35:12 
+
+37:20 
+
+washington 1:8,15 
+wasnt 16:2 39:2 
+waste 26:1 
+way 11:24 16:9,20 
+
+17:25,25 25:12 
+28:12 29:7 35:1 
+
+Official 
+
+40:22 
+
+ways 4:22 
+wed 10:3 11:18 
+welfare 21:18 
+went 5:14,16 9:23 
+
+13:22,23 14:8 
+17:21 
+
+weve 4:19 12:2 
+
+30:5,6 37:2 38:24 
+
+whats 8:11,12 
+
+14:15,15,16 23:20 
+24:4 25:3 32:23 
+35:1 
+
+whatsoever 9:22 
+whos 38:15 
+windstream 11:25 
+13:24 14:3 16:22 
+21:10,19 23:4 
+27:18,24 29:24 
+30:19 31:23 40:19 
+40:24,24,25 
+
+withdraw 30:7 
+
+41:19 
+
+withdrew 41:14,17 
+withholding 41:11 
+wont 30:2 
+word 4:20 5:2 22:9 
+words 10:25 41:15 
+
+42:13 
+
+work 39:16 
+world 14:6 
+worthwhile 4:14 
+wouldnt 7:24 34:21 
+
+38:5 41:12 
+
+wrong 31:7 34:24 
+wrongdoing 20:15 
+
+20:23 
+
+X 
+
+x 1:2,7 
+
+Y 
+yeah 34:18 
+years 10:8 28:11 
+
+Z 
+
+zenith 18:18,25 
+
+0 
+06 1:13 3:2 
+
+1 
+
+11 1:13 3:2 44:1 
+12815 1:4 3:4 
+1996 7:23 14:15 
+
+40:10 41:7,9 
+
+2 
+
+2 10:8 
+2009 41:10 
+2011 41:7 
+2013 1:9 
+21 2:7 
+22 41:6 
+23 41:6 
+251 41:2 
+
+3 
+
+3 2:4 
+
+Alderson Reporting Company
+ 
+
+

@@ -1,0 +1,9946 @@
+1
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+1 
+
+ IN THE SUPREME COURT OF THE UNITED STATES 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+PEGGY YOUNG, 
+
+                    
+
+: 
+
+ Petitioner 
+
+          
+
+:  No. 12­1226 
+
+ v. 
+
+                       
+
+: 
+
+UNITED PARCEL SERVICE, INC. 
+
+     
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+ Washington, D.C. 
+
+ Wednesday, December 3, 2014 
+
+ 
+
+ The above­entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+
+at 10:05 a.m. 
+
+APPEARANCES: 
+
+SAMUEL R. BAGENSTOS, ESQ., Ann Arbor, Mich.; on behalf 
+
+ of Petitioner. 
+
+DONALD B. VERRILLI, JR., ESQ., Solicitor General, 
+
+ Department of Justice, Washington, D.C.; for United 
+
+ States, as amicus curiae, supporting Petitioner. 
+
+CAITLIN J. HALLIGAN, ESQ., New York, N.Y.; on behalf of 
+
+ Respondent. 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1
+
+2
+ 
+
+3 
+
+4
+
+5
+ 
+
+6 
+
+7
+
+8
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+ C O N T E N T S 
+
+
+2 
+
+ORAL ARGUMENT OF 
+
+                                
+
+PAGE 
+
+SAMUEL R. BAGENSTOS, ESQ. 
+
+On behalf of the Petitioner 
+
+
+                    
+
+3
+
+ORAL ARGUMENT OF 
+
+DONALD B. VERRILLI, JR., ESQ. 
+
+ On behalf of Unites States, as amicus curiae, 
+
+ supporting Petitioner 
+
+                          
+
+18 
+
+ORAL ARGUMENT OF 
+
+CAITLIN J. HALLIGAN, ESQ. 
+
+ On behalf of the Respondent 
+
+                    
+
+28 
+
+REBUTTAL ARGUMENT OF 
+
+SAMUEL R. BAGENSTOS, ESQ. 
+
+ On behalf of the Petitioner 
+
+                    
+
+55 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+ P R O C E E D I N G S 
+
+ (10:05 a.m.) 
+
+3 
+
+ CHIEF JUSTICE ROBERTS: 
+
+We will hear 
+
+argument first this morning in Case 12­1226, Young v. 
+
+United Parcel Service. 
+
+ Mr. Bagenstos. 
+
+ ORAL ARGUMENT OF SAMUEL BAGENSTOS 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. BAGENSTOS: 
+
+Thank you, Mr. Chief 
+
+Justice, and may it please the Court: 
+
+ If Peggy Young had sought an accommodation 
+
+for a 20­pound lifting restriction that resulted from 
+
+any number of conditions, whether acquired on or off the 
+
+job, the summary judgment record reflects that UPS would 
+
+have granted that accommodation.  But because Peggy 
+
+Young's 20­pound lifting restriction resulted from her 
+
+pregnancy and not from one of those conditions, UPS 
+
+rejected her request.  That, we submit, is a violation 
+
+of the second clause of the PDA which, if it means 
+
+anything, must mean that when an employee seeks an 
+
+accommodation or benefit due to her pregnancy, that she 
+
+is entitled to the same accommodation that her employer 
+
+would have given her. 
+
+ JUSTICE KENNEDY: 
+
+Well, what you make it 
+
+sound as if the only condition that was not accommodated 
+
+1
+
+2
+
+3
+
+4 
+
+5 
+
+6
+
+7
+
+8
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+4 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+was a lifting restriction because of pregnancy, and I ­­
+
+I did not understand that to be the case.  I mean, 
+
+that's the way you start.  You want ­­ you want me to 
+
+say it's only pregnancy, unless I've ­­ I've missed 
+
+something. 
+
+ MR. BAGENSTOS: 
+
+Well, I ­­ so I think on the 
+
+summary judgment record here, Your Honor, that the three 
+
+very broad classes of ­­ of limitations that UPS 
+
+accommodates do ­­ at least there's a genuine issue of 
+
+material fact that they cover the waterfront of 
+
+everything but pregnancy.  But our position is that 
+
+those three broad classes by themselves, even if there 
+
+are some conditions out there, that they don't cover 
+
+create ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I'm sorry.  I'm 
+
+confused. 
+
+ JUSTICE KENNEDY: 
+
+Well, I mean, I think 
+
+that's a necessary starting point for your case.  It 
+
+seems to me that you started out by really giving a 
+
+misimpression. 
+
+ MR. BAGENSTOS: 
+
+Well, I ­­ Your Honor, I 
+
+would submit that that's not right.  I would submit that 
+
+in ­­ on this summary judgment record, UPS had ­­ UPS 
+
+acknowledges that they provide accommodations to people 
+
+with on­the­job injuries, but also the summary ­­ but 
+
+Alderson Reporting Company 
+
+Official 
+
+5 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+also the summary judgment record shows that UPS provides 
+
+accommodations to drivers with off­the­job injuries that 
+
+result in DOT disqualification, and UPS has not been 
+
+able to point to a single driver who has a lifting 
+
+restriction similar to my client, Peggy Young's, who 
+
+didn't get accommodated who was not pregnant.  So ­­ so 
+
+I think ­­
+
+ JUSTICE GINSBURG: 
+
+Mr. Bagenstos, what would 
+
+your case be if ­­ let's accept, for argument's sake, 
+
+that there's a category people who are injured off duty 
+
+who do not get light work assignments.  So you ­­ you 
+
+pointed to three large categories that do, but let's 
+
+suppose one category doesn't. 
+
+ MR. BAGENSTOS: 
+
+Yes.  So in that case, our 
+
+position would be, as the plain text of the statute 
+
+demands, that the employer would be required to treat 
+
+the pregnant plaintiff the same as those classes of 
+
+employees who get accommodations ­­
+
+ JUSTICE SCALIA: 
+
+Most favored nations 
+
+treatment. 
+
+ MR. BAGENSTOS: 
+
+So ­­
+
+ JUSTICE SCALIA: 
+
+It doesn't have to be read 
+
+that way.  It ­­ it could be read that way, and it 
+
+could ­­ it could also mean that if you give it to 
+
+employees generally, you have to give it to pregnant 
+
+Alderson Reporting Company 
+
+Official 
+
+6 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21
+
+22
+
+23 
+
+24 
+
+25 
+
+employees, although there may be special ­­ special 
+
+classes.  I think one of the briefs had an example 
+
+about, you know, if ­­ if you have your ­­ your senior 
+
+employees driven to work when ­­ when ­­ when they are 
+
+unable to drive themselves, you have to do the same for 
+
+pregnant women.  Would you say that that's the case? 
+
+ MR. BAGENSTOS: 
+
+No, we would not say that. 
+
+ JUSTICE SCALIA: 
+
+Why not? 
+
+ MR. BAGENSTOS: 
+
+We would ­­ we would 
+
+not say that because our position is that the statutory 
+
+text requires that employers provide workers who are 
+
+disabled by pregnancy the same treatment they would 
+
+receive if they themselves had a similar ­­ had a 
+
+condition with a similar effect on the ability to work, 
+
+but that had a different source. 
+
+ So what the statute prohibits is 
+
+discrimination based on the source of the workplace 
+
+limitation, not based on seniority, not based on 
+
+position within the company. 
+
+ JUSTICE BREYER: 
+
+But suppose you have a ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+Justice Breyer. 
+
+ JUSTICE BREYER: 
+
+Suppose ­­ I mean, we have 
+
+a brief, as you've seen it, from the truck drivers, 
+
+and ­­ and they say they don't give many of these 
+
+benefits to anybody.  And suppose they do, though, give 
+
+Alderson Reporting Company 
+
+Official 
+
+7 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25
+
+a benefit to a truck driver who has driven over a 
+
+particularly difficult mountain pass, you know, where ­­
+
+and gotten himself in some danger.  Now, the ­­ the ­­
+
+the harm or the disability is lifting precisely the 
+
+same.  It's just that the source was different.  You 
+
+see, this came from taking a ­­ some truck that ­­ doing 
+
+something special with it, and, again, it's a kind of 
+
+most favored nation problem.  I don't know that source 
+
+gets you out of it.  Is ­­ is ­­ what do you say about 
+
+that? 
+
+ MR. BAGENSTOS: 
+
+So I ­­ I think as to that, 
+
+the ­­ the important point is that ­­ that is an example 
+
+of what may be an idiosyncratic decision by an employer 
+
+to provide an accommodation to a particular employee.  I 
+
+think, as Justice Scalia ­­
+
+ JUSTICE BREYER: 
+
+Well, I don't know that 
+
+it's idiosyncratic, you see, because I don't know all 
+
+the workplaces, and I can imagine that employers have 
+
+all kinds of different rules for different kinds of 
+
+jobs.  And ­­ and is ­­ are you saying as long as there 
+
+is one job in respect to which, let's say, they give 
+
+them benefits of $1,000 a week when you're hurt on this 
+
+job but not on others ­­
+
+ MR. BAGENSTOS: 
+
+And so ­­
+
+ JUSTICE BREYER: 
+
+­­ then do you have to give 
+
+Alderson Reporting Company 
+
+Official 
+
+8 
+
+them to all pregnant women who hold different jobs? 
+
+Now, I think the answer to that must be no, but the 
+
+problem for that and for you is how do you distinguish 
+
+your situation from that? 
+
+ MR. BAGENSTOS: 
+
+Right.  And I ­­ and I think 
+
+actually what Justice Scalia's question to me a minute 
+
+ago ­­
+
+ JUSTICE BREYER: 
+
+Yes. 
+
+ MR. BAGENSTOS: 
+
+­­ actually contains the 
+
+seeds of the answer to that. 
+
+ JUSTICE BREYER: 
+
+Exactly. 
+
+ MR. BAGENSTOS: 
+
+So ­­ so it seems to me I 
+
+might agree that an employer that provides a 
+
+particularly good deal to a single nonpregnant employee 
+
+doesn't set a ­­
+
+ JUSTICE BREYER: 
+
+Not a single.  There's a 
+
+class of people. 
+
+ MR. BAGENSTOS: 
+
+For a small ­­ right.  So ­­
+
+so ­­ but when you have an employer that provides to a 
+
+large class, to ­­ to its employees generally, to many 
+
+of its employees, this accommodated work treatment ­­
+
+ JUSTICE BREYER: 
+
+I see ­­ I see that that ­­
+
+now, it sounds ­­ the other question I have, and it's the 
+
+only other one, is it did seem to me there is a way, 
+
+given your theory it's a quite easy way for you to win, 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8
+
+9
+
+10 
+
+11
+
+12
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+9 
+
+and that would be to bring a disparate impact claim, and 
+
+that's what I thought disparate impact claims were 
+
+about. 
+
+ MR. BAGENSTOS: 
+
+So ­­
+
+ JUSTICE BREYER: 
+
+But you didn't bring the 
+
+disparate claim and, therefore, what am I to do because 
+
+I don't know that you want to twist the disparate, you 
+
+know, intent claim out of shape when you have such a 
+
+beautiful vehicle to bring a claim of the kind you just 
+
+articulated. 
+
+ MR. BAGENSTOS: 
+
+Well, I think the vehicle to 
+
+bring the claim of the kind that I articulated is the 
+
+second clause of the PDA.  The second clause of the PDA 
+
+says that, "Women affected by pregnancy, childbirth, or 
+
+related conditions shall be treated the same as other 
+
+persons not so affected but similar in their ability or 
+
+inability to work." 
+
+ JUSTICE ALITO: 
+
+Well, you read that as a ­­
+
+ JUSTICE KAGAN : 
+
+Could that take ­­
+
+ JUSTICE ALITO: 
+
+You read that as an 
+
+accommodation provision basically, and maybe ­­ maybe it 
+
+is.  But let me ask you this question, which goes to 
+
+the ­­ the issue of ­­ of whether the types of 
+
+accommodations that you would say are required have to 
+
+meet some reasonableness standard. 
+
+1 
+
+2 
+
+3 
+
+4
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+10 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24
+
+25 
+
+ Let's say there are two categories of 
+
+employees who have lifting restrictions in their job 
+
+descriptions.  One consists of people who work alone and 
+
+they lift all the time.  A driver who is driving a truck 
+
+by herself and has to lift heavy packages all the time 
+
+would fall into that category.  The second category 
+
+would consist of people who lift more occasionally, and 
+
+they do it in a place where there will always be lots of 
+
+other employees in the same class available to do the 
+
+lifting. 
+
+ Now, if an accommodation is provided to the 
+
+workers in the second category, would you say that one 
+
+must also be provided to workers in the first? 
+
+ MR. BAGENSTOS: 
+
+No, I don't think so. 
+
+ So our point is precisely that a driver who 
+
+is pregnant and who has a limitation related to her 
+
+pregnancy is entitled to the same accommodation her 
+
+employer would have given her if she had sought it for a 
+
+different medical condition with the same effect on the 
+
+ability to work. 
+
+ JUSTICE ALITO: 
+
+But why ­­ why doesn't that 
+
+fit ­­ why doesn't that second class fit within your 
+
+reading of the statutory text? 
+
+ MR. BAGENSTOS: 
+
+Well, so because, in our ­­
+
+in our view, the statutory text, by saying ­­ by drawing 
+
+Alderson Reporting Company 
+
+Official 
+
+11 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+this distinction between employees affected by 
+
+pregnancy, childbirth, and related medical conditions 
+
+and not so affected, saying employers can't draw that 
+
+distinction, excuse me, and saying instead they look 
+
+only at the ability to work, what it does is it 
+
+prohibits discrimination based on the source of the 
+
+disabling condition.  It doesn't prohibit discrimination 
+
+based on different job classifications. 
+
+ If you have a driver ­­ if an employer says 
+
+no driver who drives alone is going to get an 
+
+accommodation whether for an on­the­job injury, a DOT 
+
+disqualifying injury, or pregnancy, that's fine because 
+
+it's the same treatment.  Because, Justice Alito, we do 
+
+not read this statute as an independent, reasonable 
+
+accommodation ­­
+
+ JUSTICE KAGAN: 
+
+But why then ­­ I guess I'm 
+
+not quite understanding why you can ­­ get the source 
+
+classifications into a different category from all other 
+
+classifications.  So explain that to me. 
+
+ MR. BAGENSTOS: 
+
+Well, so, I mean, I think 
+
+it ­­ it goes to the statutory text.  So, I mean, the 
+
+statutory text says, "Women affected by pregnancy, 
+
+childbirth, or related medical conditions shall be 
+
+treated the same," et cetera, "as other persons not so 
+
+affected but similar in their ability to work." 
+
+Alderson Reporting Company 
+
+Official 
+
+12 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ What that ­­ what that text is saying is ­­
+
+to an employer, don't consider whether this person is 
+
+affected by pregnancy or not so affected.  That's not 
+
+the basis on which you can compare this employee to 
+
+other employees.  Instead, compare this employee based 
+
+on ability to work. 
+
+ And remember, this statutory text was 
+
+adopted in response to General Electric v. Gilbert which 
+
+upheld an employer policy that distinguished based on 
+
+the source of the disabling condition, treated some 
+
+kinds of disabling conditions differently from 
+
+pregnancy­related disabling conditions. 
+
+ JUSTICE ALITO: 
+
+I think you're 
+
+reading ­­ you have admitted that other persons can't 
+
+really be read literally.  Other ­­ you have to read 
+
+things into it.  And you would read into it people in 
+
+the same job classification.  But if you can do that, 
+
+then why can't you also read into it people whose 
+
+injuries, whose disabilities have the same source? 
+
+ MR. BAGENSTOS: 
+
+Because once you do that, 
+
+then the second clause of the PDA doesn't occupy any 
+
+space and then ­­ and Congress should have stopped with 
+
+the first clause.  Congress was doing something with the 
+
+second clause.  It was trying to overturn the Gilbert 
+
+situation, where you had an employer that adopted a 
+
+Alderson Reporting Company 
+
+Official 
+
+13 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+policy that, as a formal matter, treated pregnant people 
+
+the same way it treated nonpregnant people.  If you were 
+
+pregnant, but the reason that you weren't able to work 
+
+was an off­the­job illness or injury, the General 
+
+Electric policy in Gilbert would have given you 
+
+disability benefits.  And what this Court said in the 
+
+Gilbert case was that's not discrimination; it ­­ it 
+
+simply doesn't include coverage for pregnancy, but 
+
+pregnant women aren't fenced off. 
+
+ What this statutory text does is it says: 
+
+No, employers have to treat pregnancy­related conditions 
+
+as favorably as they treat nonpregnancy­related 
+
+conditions.  And that's in fact how this Court has read 
+
+the statute since it's very first PDA case.  In Newport 
+
+News, what this Court said was that the Act makes clear 
+
+that it's discriminatory to treat pregnancy­related 
+
+conditions less favorably than other medical conditions. 
+
+And here UPS, with the three very large classes of 
+
+employees that it provides accommodations to who are not 
+
+pregnant, is treating pregnancy­related conditions less 
+
+favorably than other medical conditions. 
+
+ JUSTICE SCALIA: 
+
+So you do assert it's a ­­
+
+it's a most favored nation provision.  You ­­ you have 
+
+to give the benefits that you give to any other class of 
+
+employees, right? 
+
+Alderson Reporting Company 
+
+Official 
+
+14 
+
+1
+
+2 
+
+3
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15 
+
+16 
+
+17
+
+18 
+
+19
+
+20
+
+21 
+
+22 
+
+23
+
+24
+
+ MR. BAGENSTOS: 
+
+To any other class of 
+
+employees, I think that's right. 
+
+ JUSTICE SCALIA: 
+
+How long ­­ it doesn't 
+
+matter whether that class is enormous or small, right? 
+
+ MR. BAGENSTOS: 
+
+Well, I ­­ so I think this 
+
+is ­­ this is text that obviously requires some degree 
+
+of interpretation.  I think Your Honor articulated one 
+
+way of thinking about it, which is providing it ­­
+
+providing this accommodation or benefit to employees 
+
+generally.  And certainly, when an employer provides 
+
+accommodations or benefits to such large classes of 
+
+employees who are not pregnant, who are similar in the 
+
+ability to work ­­
+
+ JUSTICE SCALIA: 
+
+Does ­­ does the record 
+
+show what you have asserted here, that the classes that 
+
+are given special treatment is almost everybody? 
+
+ MR. BAGENSTOS: 
+
+Well, I think that we 
+
+have ­­
+
+ JUSTICE SCALIA: 
+
+Does the record show that? 
+
+ MR. BAGENSTOS: 
+
+I think ­­ I think the 
+
+record is sufficient to show that.  Remember, summary 
+
+judgment was granted against us. 
+
+ JUSTICE SCALIA: 
+
+I understand. 
+
+ MR. BAGENSTOS: 
+
+Yes.  So I think the record 
+
+25 
+
+is sufficient to show that in the following sense:  So, 
+
+Alderson Reporting Company 
+
+Official 
+
+15 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12
+
+13 
+
+14
+
+15
+
+16 
+
+17
+
+18
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+number one, obviously, there's all the on­the­job 
+
+injuries, which ­­ which UPS acknowledges they provide 
+
+accommodations for.  Number two, DOT­disqualifying 
+
+conditions that UPS provides accommodated work for; we 
+
+have presented examples in the record of individuals who 
+
+have off­the­job injuries, who are similar in their 
+
+ability to work as Peggy Young, who have been given 
+
+accommodated work, and UPS hasn't pointed to in its 
+
+briefing here any driver with a similar lifting 
+
+restriction to Peggy Young who was not pregnant who 
+
+didn't get the accommodation. 
+
+ JUSTICE BREYER: 
+
+You can win your case with 
+
+that argument, perhaps. 
+
+ MR. BAGENSTOS: 
+
+And I hope so, yes. 
+
+ JUSTICE BREYER: 
+
+Yes, assume that.  But that 
+
+isn't going to help me, which I'm rather selfish about. 
+
+ (Laughter.) 
+
+ JUSTICE BREYER: 
+
+Because my ­­ my job here 
+
+is to write what this statute means for a lot of cases. 
+
+And writing the words, what it means is if you give a 
+
+lot of benefits to a lot of employees, but not to the 
+
+pregnant women and you don't give it to some employees 
+
+and not to the pregnant women, and the employer says, 
+
+look, pregnant women are like the few we don't give it 
+
+to, not to the lot we do give it to, employer, you lose. 
+
+Alderson Reporting Company 
+
+Official 
+
+16 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23
+
+24
+
+25 
+
+ But by the time I've written that into the 
+
+U.S. Code, nobody knows what I'm talking about.  Do you 
+
+understand?  I ­­ I need to know how to interpret the 
+
+words such that they would do, in your view, what you 
+
+want them to do, which is just what I said. 
+
+ MR. BAGENSTOS: 
+
+Yes.  And so ­­ and I think 
+
+the important point is if an employer provides 
+
+accommodations as a matter of policy to a class of 
+
+employees who are not pregnant, who are similar in their 
+
+ability or inability to work to the pregnant plaintiff 
+
+and does not provide the same accommodation or benefit 
+
+to the pregnant plaintiff, it is violating the plain 
+
+text of the statute, which says that women affected by 
+
+pregnancy ­­
+
+ JUSTICE SCALIA: 
+
+Most favored nation.  So 
+
+you're coming down to most favored nation.  And that 
+
+makes sense and that's easy for my colleague to 
+
+describe.  He can write that down in his opinion. 
+
+ JUSTICE BREYER: 
+
+But unfortunately, it takes 
+
+out of what you just said the fact that you give them to 
+
+a lot of employees.  Because you could have a most 
+
+favored nation that was two employees ­­
+
+ JUSTICE SCALIA: 
+
+That's right. 
+
+ JUSTICE BREYER: 
+
+­­ including those who've 
+
+only worked there for 4 years.  A huge seniority.  So ­­
+
+Alderson Reporting Company 
+
+Official 
+
+17 
+
+1 
+
+2
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24 
+
+25 
+
+so those are the words that I'm ­­
+
+ MR. BAGENSTOS: 
+
+I understand.  And ­­ and I 
+
+understand.  And that's why I think this may be an 
+
+easier case than the one ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Basically what you're 
+
+saying, if I understand it, is it's okay to 
+
+differentiate on the basis of anything but source, which 
+
+means whether it's work or non­work­related.  That ­­
+
+that's your ­­
+
+ MR. BAGENSTOS: 
+
+Yes. 
+
+ JUSTICE SOTOMAYOR: 
+
+You're reading out of 
+
+the legislative history the fact that Congress 
+
+repeatedly said, we're not forcing employers to give 
+
+benefits for non­work­related injuries, but we're going 
+
+to write it so they have to anyway. 
+
+ MR. BAGENSTOS: 
+
+So I ­­ so I don't think 
+
+there's any statement in the legislative history that 
+
+says we're not forcing employers to give benefits for 
+
+non­work­related injuries.  What ­­ there are three 
+
+statements in the legislative history that ­­
+
+that Respondent draws a negative inference from. 
+
+ JUSTICE SCALIA: 
+
+I'm so relieved. 
+
+ MR. BAGENSTOS: 
+
+That Respondent draws a 
+
+negative inference from to say, obviously, Congress 
+
+didn't mean to do that. 
+
+Alderson Reporting Company 
+
+Official 
+
+18 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11 
+
+12 
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+ But to return to Justice Scalia's response 
+
+there, I mean, the point is the text contains no such 
+
+limitation.  And on­the­job/off­the­job distinctions 
+
+were certainly known to Congress at the time it adopted 
+
+this ­­ it adopted this statute.  In fact, General 
+
+Electric v. Gilbert involved a policy that contained an 
+
+on­the­job/off­the­job distinction, although the flip 
+
+side of the one in this case. 
+
+ If Congress meant to say that employers have 
+
+an exception from the general "shall be treated the 
+
+same" requirement for an on­the­job/off­the­job 
+
+distinction, it could have said so. 
+
+ If I might reserve the balance of my time. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Certainly. 
+
+ MR. BAGENSTOS: 
+
+Thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+General Verrilli. 
+
+ ORAL ARGUMENT OF GENERAL DONALD B. VERRILLI, JR. 
+
+ FOR THE UNITED STATES, AS AMICUS CURIAE 
+
+ SUPPORTING THE PETITIONER 
+
+ GENERAL VERRILLI: 
+
+Mr. Chief Justice, and 
+
+may it please the Court: 
+
+ The point of the Pregnancy Discrimination 
+
+Act is to reduce the number of women who are driven from 
+
+the workforce or forced to go months without an income 
+
+as a result of becoming pregnant.  The second clause of 
+
+Alderson Reporting Company 
+
+Official 
+
+19 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+the PDA advances that interest in a narrow but important 
+
+way.  I say the second clause is narrow because it is 
+
+not a freestanding accommodation requirement like the 
+
+religious provision of Title VII or like the ADA.  And I 
+
+say it is narrow because there's only one thing that an 
+
+employer can't do when it affords benefits or 
+
+accommodations.  It can't draw distinctions that treat 
+
+pregnancy­related medical conditions worse than other 
+
+conditions with comparable effects on ability to work. 
+
+ JUSTICE GINSBURG: 
+
+That wasn't the position 
+
+that the government took in the U.S. Postal Service 
+
+policy.  We are told that the government defended a 
+
+policy that is, for all intents and purposes, the same 
+
+as United Parcel Service.  And more than that, some 
+
+briefs called Petitioner's position frivolous, 
+
+contrived.  That was the government's position.  So will 
+
+you explain how the government ­­ I suppose to this day, 
+
+because the Postal Service still retains, as far as we 
+
+know, the exclusion of pregnant women. 
+
+ GENERAL VERRILLI: 
+
+Of course, Justice 
+
+Ginsburg.  It is correct that the Department of Justice 
+
+defended the Postal Service practices against charges 
+
+like those that Ms. Young makes in this case.  That's 
+
+correct.  We acknowledge that in footnote 2 of our brief 
+
+to this Court. 
+
+Alderson Reporting Company 
+
+Official 
+
+20 
+
+1
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7
+
+8 
+
+9
+
+10
+
+11 
+
+12
+
+13 
+
+14 
+
+15 
+
+16 
+
+17
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24
+
+25 
+
+ Since then, however, the EEOC has issued 
+
+guidance, and that's a very significant fact.  Congress 
+
+has charged the EEOC with authority to interpret this 
+
+statute and with an authority to enforce it. 
+
+ JUSTICE SCALIA: 
+
+I thought we felt that we 
+
+don't give deference to the EEOC. 
+
+ GENERAL VERRILLI: 
+
+You don't give Chevron 
+
+deference to the EEOC. 
+
+ JUSTICE SCALIA: 
+
+Oh. 
+
+ GENERAL VERRILLI: 
+
+But the government has 
+
+interests ­­
+
+ JUSTICE SCALIA: 
+
+Oh, come one.  So we give 
+
+what ­­ what do you call the other kind of deference?  I 
+
+mean, gee, you give that to me even when ­­ even when 
+
+I'm in dissent.  I mean, that just means, you know, 
+
+treat it for what it's worth. 
+
+ GENERAL VERRILLI: 
+
+The EEOC sets the 
+
+enforcement policy for the Federal sector with respect 
+
+to this issue.  That's a significant fact.  We took it 
+
+into consideration in deciding what the position of the 
+
+United States should be. 
+
+ JUSTICE KENNEDY: 
+
+Would your position here 
+
+be the same if the 2014 guideline had not been adopted? 
+
+ GENERAL VERRILLI: 
+
+We didn't take that 
+
+position before the 2014 guideline had been adopted, 
+
+Alderson Reporting Company 
+
+Official 
+
+21 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9
+
+10 
+
+11
+
+12 
+
+13 
+
+14
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+Justice Kennedy.  And I just don't know how to answer 
+
+that question because we took the position in light of 
+
+the guidance it adopted in 2014, which we do consider to 
+
+be significant and we do have to weigh our interest as 
+
+enforcer of the law as well as employer.  We did so on a 
+
+considered basis and we came to the judgment that we 
+
+thought was the correct judgment about the meaning of 
+
+the statute. 
+
+ JUSTICE SCALIA: 
+
+But we don't give you any 
+
+more deference than we give the EEOC, though, right? 
+
+ GENERAL VERRILLI: 
+
+Well, with respect to 
+
+this, I do think that the Court's got to decide what the 
+
+best reading of the statute is, that's right. 
+
+ JUSTICE SCALIA: 
+
+What the best reading is, 
+
+regardless of what you think. 
+
+ GENERAL VERRILLI: 
+
+That's correct.  And if I 
+
+could turn to that, I think ­­ and I hopefully in doing 
+
+so will answer your question, Justice Alito, and also 
+
+yours, Justice Kagan.  Here's why we think the statutory 
+
+text ­­ and if ­­ maybe it would help if I restated what 
+
+I think the rule is and then explain where the textual 
+
+basis comes from. 
+
+ We think the one thing an employer can't do 
+
+as a result of the second clause is draw distinctions 
+
+that treat pregnancy­related medical conditions worse 
+
+Alderson Reporting Company 
+
+Official 
+
+22 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23
+
+24 
+
+25 
+
+than other conditions with comparable effects on ability 
+
+to work.  It's that single thing.  And so seniority, 
+
+full­time work, different job classifications, all of 
+
+those things would be permissible distinctions for an 
+
+employer to make to differentiate among who gets 
+
+benefits. 
+
+ Now, as for the textual basis, I'm looking 
+
+at the ­­ at the statute here, which is ­­ we've got it 
+
+at page 12 and 13 of our brief and it's also in the last 
+
+page of the appendix to the petition.  It says that ­­
+
+what it says is that among the class of people who are 
+
+comparable in their ability to work," in other words, 
+
+similar in their ability or inability to work, as the 
+
+statute says, women with a pregnancy­related medical 
+
+condition, in other words, women affected by pregnancy, 
+
+childbirth, or related medical condition, as the statute 
+
+says, can't be treated worse on the basis of their 
+
+condition ­­ that's what we think "treated the same" 
+
+means in the statute ­­ than other workers with 
+
+non­pregnancy­related medical conditions that impose 
+
+comparable limitations.  Those are other persons not so 
+
+affected. 
+
+ JUSTICE KENNEDY: 
+
+Would you give me your 
+
+interpolation again?  You ­­ you altered the phrase and 
+
+the words you added were? 
+
+Alderson Reporting Company 
+
+Official 
+
+23 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19 
+
+20
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+ GENERAL VERRILLI: 
+
+"On the basis of their 
+
+condition."  And the reason we think that that's the 
+
+sensible and best reading of the statutory text is 
+
+because this is focused on the condition and not the 
+
+person. 
+
+ JUSTICE BREYER: 
+
+Well, but you start ­­
+
+you've got ­­ at the very beginning, you listed three 
+
+things that you said were reasonable distinctions. 
+
+Because the word I'd like you to focus on is "other 
+
+workers" and the problem is which other workers? 
+
+Because it is easy to construct hypothetical cases where 
+
+the work ­­ the employer treats some other workers the 
+
+same as the statute and doesn't others.  And which 
+
+distinctions are reasonable and which ones are not, and 
+
+how do we tell? 
+
+ GENERAL VERRILLI: 
+
+I'd like to make two 
+
+points in response, Justice Breyer.  The first about the 
+
+nature of the Title VII claim and the second about the 
+
+nature of this kind of an antidiscrimination provision. 
+
+ With respect to the first, I think it's 
+
+helpful to differentiate between a direct claim of 
+
+discrimination, disparate treatment, versus a claim 
+
+proven through the McDonnell Douglas framework.  Now, we 
+
+think in order to prove a direct claim without going 
+
+through the McDonnell Douglas burden­shifting analysis, 
+
+Alderson Reporting Company 
+
+Official 
+
+24 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+what you've got to show is that an employer offers an 
+
+accommodation to a significant class of employees and 
+
+that that accommodation fails the test I described 
+
+earlier.  It's got to be a significant class. 
+
+ Now, we think that's this case. 
+
+We think 
+
+that's going to be most cases.  But in the kinds of 
+
+examples that Your Honor identified, the one guy driving 
+
+across the mountain, for example, I think you'd have two 
+
+issues there:  First, when it's one person, you're not 
+
+going to be able to make a direct case.  You go through 
+
+McDonnell Douglas and the employer may well have an 
+
+explanation for that accommodation that would take it 
+
+outside the source of the disability limitation and mean 
+
+there's no liability. 
+
+ And then with respect to that example 
+
+there's a second point to be made, I think, which is 
+
+that that person who has to drive the particularly 
+
+dangerous route, for example, may just well be in a 
+
+different job category and, therefore, not similar in 
+
+ability or ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+I would have thought 
+
+it's those types of cases that present the starkest 
+
+example of discrimination on the basis of pregnancy, the 
+
+idiosyncratic one.  Oh, well, he's doing this, yes, but 
+
+he's doing that and then the pregnant woman comes in and 
+
+Alderson Reporting Company 
+
+Official 
+
+25 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14
+
+15
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24
+
+25 
+
+says, ah, you know, that's not the same thing.  I 
+
+thought maybe it's the ­­ the sort of the isolated 
+
+examples that would be particularly glaring in their 
+
+discriminatory treatment. 
+
+ GENERAL VERRILLI: 
+
+Well, Mr. Chief Justice, 
+
+I guess what I would say about that is that you could 
+
+certainly bring a McDonnell Douglas claim against an 
+
+individual idiosyncratic difference, but then if the 
+
+employer can show that the accommodation was granted to 
+
+one not on the basis of a criterion that this sentence 
+
+in the PDA would forbid, then the employer's ­­ then 
+
+the ­­ then the accommodation is fine, there's no 
+
+violation. 
+
+ And to get back to the point ­­
+
+ JUSTICE BREYER: 
+
+That's the ­­ that's ­­ I 
+
+used the idiosyncratic example, not because I'm 
+
+interested in it, because I think it illustrates 
+
+something that isn't idiosyncratic.  And what I use it 
+
+to illustrate is the fact that, as here, employers will 
+
+have classes of people and the classes may be based on 
+
+all kinds of different things.  But this is a case where 
+
+there are classes and some get the benefits equivalent 
+
+to the pregnancy and some don't. 
+
+ And how are we supposed to tell which are 
+
+the criteria that are consistent with the statute and 
+
+Alderson Reporting Company 
+
+Official 
+
+26 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5
+
+6 
+
+7 
+
+8 
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+which are not?  That's what I found as the difficult 
+
+question in the case.  And that's why I ask it using the 
+
+idiosyncratic, simply to illustrate what I think is the 
+
+problem. 
+
+ GENERAL VERRILLI: 
+
+Yes, of course.  Let me 
+
+get to the second point I wanted to make in response to 
+
+your question, and then I'll try, after I do that, to 
+
+give you a very specific response to what you just asked 
+
+me. 
+
+ The second point is, you know, it is true 
+
+that some classes are going to be in and some classes 
+
+are going to be out, but that's how discrimination law 
+
+operates.  If an employer is discriminating against 
+
+women in promotions, the fact that an employer is also 
+
+discriminating against overweight men in promotions 
+
+doesn't make the discrimination against women any less 
+
+actionable because it just reflects the choice Congress 
+
+made about whom to protect and whom not to protect.  And 
+
+here, the choice Congress made on whom to protect and 
+
+whom not to protect is the choice to protect women who 
+
+have conditions ­­ pregnancy­related medical conditions. 
+
+That's the congressional judgment here.  They didn't 
+
+choose to protect everybody who gets injured off the 
+
+job.  They chose to protect those with pregnancy­related 
+
+medical conditions. 
+
+Alderson Reporting Company 
+
+1
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9
+
+10
+
+11
+
+12 
+
+13
+
+14 
+
+15 
+
+16 
+
+17 
+
+18
+
+19 
+
+20 
+
+21
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+27 
+
+ JUSTICE KENNEDY: 
+
+Suppose the employer has 
+
+the rule, we will, if you have a disability acquired outside 
+
+of employment, give you benefits for one month, and it 
+
+applies that same policy to the ­­ to the pregnant 
+
+woman.  Is that a violation of the statute? 
+
+ GENERAL VERRILLI: 
+
+No.  I think the pregnant 
+
+woman would be entitled to the one month, but nothing 
+
+more than the ­­ than the Court gives to anybody else. 
+
+ JUSTICE KENNEDY: 
+
+But nothing less. 
+
+ GENERAL VERRILLI: 
+
+Correct.  That's correct. 
+
+ JUSTICE KENNEDY: 
+
+Why isn't that 
+
+discrimination on the basis of ­­
+
+ GENERAL VERRILLI: 
+
+Well, because the statute 
+
+requires that people be treated the same, and so she 
+
+would be.  The pregnant employee would be treated the 
+
+same under those circumstances.  It doesn't require 
+
+any ­­
+
+ CHIEF JUSTICE ROBERTS: 
+
+But not if there is 
+
+a separate category of people who are entitled to 
+
+benefits for more than one month. 
+
+ GENERAL VERRILLI: 
+
+Well, the question would 
+
+be whether those benefits ­­ whether the distinction ­­
+
+whether the disentitlement of the pregnant employee was 
+
+based on the source of her condition, namely, pregnancy. 
+
+If it's based on something else like seniority or 
+
+Alderson Reporting Company 
+
+1 
+
+2
+
+3 
+
+4 
+
+5 
+
+6 
+
+7
+
+8
+
+9 
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+28 
+
+full­time status, then, of course ­­
+
+ JUSTICE SOTOMAYOR: 
+
+Would you please answer 
+
+my question, which was:  Do you mean "source" means on 
+
+the job and off the job?  Is that what this case 
+
+revolves around?  Because I don't know what "source" 
+
+means otherwise. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Briefly. 
+
+ GENERAL VERRILLI: 
+
+Yes, Mr. Chief Justice, 
+
+briefly. 
+
+ So I think that on the job versus off the 
+
+job, that distinction goes to ­­ inevitably goes to the 
+
+source of the impairment.  And, of course, pregnancy 
+
+will never qualify under that standard.  But this case 
+
+is not just about on the job versus off the job.  It's 
+
+about on the job versus off the job plus the DOT 
+
+certification category, which can include people who 
+
+lose their DOT certification and can't drive as a result 
+
+of physical conditions other than pregnancy that prevent 
+
+them from doing the job they have to do, which could 
+
+include lifting.  And the DOT manual, which the 
+
+Petitioner cites at pages 6 and 7, says exactly that. 
+
+ Thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, General. 
+
+ Ms. Halligan. 
+
+ ORAL ARGUMENT OF CAITLIN J. HALLIGAN 
+
+Alderson Reporting Company 
+
+Official 
+
+29 
+
+ ON BEHALF OF THE RESPONDENT 
+
+ MS. HALLIGAN: 
+
+Mr. Chief Justice, and may it 
+
+please the Court: 
+
+ Justice Breyer, you are exactly correct. 
+
+Had Petitioner believed that the policy that UPS 
+
+applied, which was to provide accommodations to 
+
+employees who are injured on the job but not to provide 
+
+accommodations to any employees who sustained a 
+
+condition incurred off the job, she could have brought a 
+
+disparate impact claim.  We believe she would not have 
+
+succeeded, but she could have and she did not.  She 
+
+attempted to bring one late in the day.  It was 
+
+dismissed by the district court because it had not been 
+
+exhausted. 
+
+ JUSTICE KAGAN: 
+
+Well, Ms. Halligan, could we 
+
+talk about the claim that she did bring? 
+
+ MS. HALLIGAN: 
+
+Yes. 
+
+ JUSTICE KAGAN: 
+
+So your reading of the 
+
+statute basically makes everything after the semicolon 
+
+completely superfluous.  And I think you would agree 
+
+with that, wouldn't you? 
+
+ MS. HALLIGAN: 
+
+Absolutely not, Your Honor. 
+
+The reading that we propose is very straightforward. 
+
+What Congress said in the second clause, the key words 
+
+are "the same as other persons."  What "other" means is 
+
+1
+
+2
+
+3 
+
+4
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15
+
+16 
+
+17
+
+18
+
+19 
+
+20 
+
+21 
+
+22
+
+23 
+
+24 
+
+25 
+
+Alderson Reporting Company 
+
+Official 
+
+30 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6
+
+7 
+
+8 
+
+9 
+
+10 
+
+11
+
+12 
+
+13 
+
+14 
+
+15 
+
+16
+
+17 
+
+18 
+
+19
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+simply distinct from whatever is mentioned first.  So 
+
+employers have to treat pregnant employees the same as 
+
+some distinct group of nonpregnant employees that are 
+
+similar in their ability or inability to work and that's 
+
+exactly what UPS's policy is. 
+
+ JUSTICE KAGAN: 
+
+But that is what the first 
+
+provision does.  When it says pregnancy is the same as 
+
+sex, when we say because of sex, we also say because of 
+
+pregnancy, all of that would be taken care of by that 
+
+clause. 
+
+ MS. HALLIGAN: 
+
+This Court explained in 
+
+Newport News, as well as in CalFed, that the function of 
+
+the second clause is to explain how Title VII principles 
+
+apply to pregnancy.  And the reason that they had to do 
+
+that was in order to repudiate the logic ­­
+
+ JUSTICE KAGAN: 
+
+So ­­ so you are saying it's 
+
+not doing anything new; it's only explaining the old 
+
+stuff.  And okay.  Tell me why that's necessary? 
+
+ MS. HALLIGAN: 
+
+I'm not ­­ I'm not saying 
+
+that, Your Honor.  What I'm saying is that in a 
+
+pregnancy discrimination case, instead of comparing 
+
+women with men as you would in a typical sex 
+
+discrimination case, because what the first clause does 
+
+is bolt pregnancy on to sex discrimination.  And so if 
+
+you compare women and men in a pregnancy discrimination 
+
+Alderson Reporting Company 
+
+Official 
+
+31 
+
+ case where you have a policy that facially discriminates 
+
+ against pregnancy, you will nonetheless conclude that 
+
+ there's not sex discrimination because there will be 
+
+ women who are pregnant in the disfavored group, but 
+
+ there will also be women who are not pregnant in the 
+
+ favored group, along with men 
+
+ JUSTICE KAGAN: 
+
+I think, again, that that is 
+
+ not necessary, because all that the inquiry would be is 
+
+ were you discriminated against because you were 
+
+ pregnant?  Yes, I was.  No, I wasn't.  You don't need 
+
+ any of this other stuff about what the comparator class 
+
+ is.  And, in fact, you are creating a kind of double 
+
+ redundancy.  It's everything past the semicolon is 
+
+ redundant, but then, moreover, the key words here, which 
+
+ is "other persons not so affected but similar in their 
+
+ ability or inability to work," that becomes redundant 
+
+ even within the redundancy. 
+
+ MS. HALLIGAN: 
+
+I think, to respond to the 
+
+ last point first and then to the first.  What 
+
+ Petitioner's interpretation and the government's 
+
+ interpretation would do would actually be to rewrite 
+
+ those words in one of two ways.  Initially, Petitioner 
+
+ seemed to be suggesting that if a plaintiff could 
+
+ identify any other single employee who was accommodated 
+
+ that the pregnant employee would be entitled to the same 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+32 
+
+ accommodation.  What that would mean is the statute 
+
+ would have to read "the same as any other person."  It 
+
+ does not. 
+
+ Now Petitioner and the government are both 
+
+ suggesting that the only restriction that this bars is a 
+
+ restriction based on source.  Any other restriction, 
+
+ rank, seniority status, outside legal obligations, are 
+
+ acceptable.  But it doesn't contain any of those words 
+
+ either, not "source," not ­­
+
+ JUSTICE KAGAN: 
+
+That seems the ­­ that is 
+
+ the question that this language raises, right?  Which is 
+
+ why source?  But why not a seniority limitation or 
+
+ something like that?  Could I give you an alternative 
+
+ way to understand what the statute is doing?  Which is 
+
+ that ­­ what we ought to be thinking about is McDonnell 
+
+ Douglas.  In other words, this ­­ this provides the 
+
+ comparator.  It says an employee can find a class of 
+
+ people who are being given an accommodation 
+
+ notwithstanding that those people are similarly situated 
+
+ with respect to work.  An employee points to that class. 
+
+ And then in a typical McDonnell Douglas fashion, the 
+
+ employer comes back and says:  No, there is a good 
+
+ reason why I'm treating that class differently that has 
+
+ nothing to do with pregnancy.  It has something to do 
+
+ with I always treat more senior employees differently or 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+33 
+
+ something like that.  And at that point, if the ­­ if 
+
+ the employer makes his case, the employee gets to come 
+
+ back and say, no, that is a pretext, in just the way we 
+
+ do with every other discrimination case. 
+
+ And that's what this is all about. 
+
+It's 
+
+ identifying the comparator that the employee has to 
+
+ identify in the first instance in order to shift the 
+
+ burden to the government to come back with a reason. 
+
+ MS. HALLIGAN: 
+
+I think the second clause is 
+
+ highly relevant to the question of comparators, but not 
+
+ in the way that you are suggesting.  What the second 
+
+ clause does, as this Court has laid out in Newport News 
+
+ and in CalFed, is to explain when you are making those 
+
+ comparisons that you don't look at women and men, which 
+
+ is what you might do, as this Court did in Gilbert, 
+
+ because it's sex discrimination that you are actually 
+
+ classifying ­­
+
+ JUSTICE GINSBURG: 
+
+That's the first clause. 
+
+ But, I mean, instead of talking in the abstract, can you 
+
+ give me any example of a case that a plaintiff would 
+
+ lose under the first clause that puts pregnancy together 
+
+ with sex. 
+
+ MS. HALLIGAN: 
+
+I'm not sure that you could, 
+
+ but that wasn't the function of the second clause.  And 
+
+ Petitioner ­­
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+34 
+
+ JUSTICE GINSBURG: 
+
+Then you are saying 
+
+ second clause adds nothing even though Congress said 
+
+ "and."  There is one clause because of sex, includes 
+
+ pregnancy, "and" something in addition.  But you are 
+
+ saying it's not really in addition. 
+
+ MS. HALLIGAN: 
+
+I think that grammatical 
+
+ connector is very important in understanding how the two 
+
+ clauses relate, for the following reason:  Petitioner's 
+
+ construction would read the first clause out of the 
+
+ statute entirely.  The words in the first clause are 
+
+ "because of."  And this Court has consistently 
+
+ understood those words across protected traits to 
+
+ require that discrimination ­­ in an intentional 
+
+ discrimination case, that you have discrimination that 
+
+ is actually motivated by the protected trait. 
+
+ If the second clause does the work 
+
+ Petitioner suggests, even if you could find the word 
+
+ "source" in that where it's not in the text, it would 
+
+ mean that you don't need to show that the protected 
+
+ trait, pregnancy, actually motivated the adverse 
+
+ treatment.  So his construction would read that out of 
+
+ the statute entirely. 
+
+ JUSTICE KAGAN: 
+
+Ms. Halligan, what is wrong 
+
+ with my middle ground?  It's not that Mr. Bagenstos and 
+
+ the General's ground, because it allows the employer to 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+35 
+
+ come back and say:  I have a legitimate policy based on 
+
+ seniority, or even I have a legitimate policy based on 
+
+ the source of the injury.  But it does put that as a 
+
+ question whenever an employee is able to point to a 
+
+ similar ­­ to a class of people who are granted the 
+
+ disability accommodation who aren't pregnant. 
+
+ MS. HALLIGAN: 
+
+I just don't think it has any 
+
+ anchor in the words of the statute itself.  The words 
+
+ are ­­
+
+ JUSTICE KAGAN: 
+
+Quite the opposite.  It 
+
+ basically gives a function for what ­­ the key words of 
+
+ the statute are "other persons not so affected but 
+
+ similar in their ability and inability to work."  What 
+
+ is that doing?  What it does is it points to the 
+
+ comparator that sets off the McDonnell Douglas test, 
+
+ that forces the employer to come back and give a reason 
+
+ for why it is that this ought not to be taken as 
+
+ discrimination against pregnancy. 
+
+ MS. HALLIGAN: 
+
+I think that this Court's 
+
+ been clear that the function of the second clause is to 
+
+ repudiate that logic which equates ­­ when you look at 
+
+ women and men and you have a pregnancy ­­ a cause ­­ a 
+
+ policy that discriminates on the basis of pregnancy, you 
+
+ say that is not sex discrimination.  What that would 
+
+ also do is to collapse the distinction between disparate 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+36 
+
+ treatment and disparate intent.  This Court has been 
+
+ clear that that is an absolute line.  It said so in 
+
+ Raytheon.  Congress tracked that distinction in the 1991 
+
+ Civil Rights Act, and Justice Stevens in his dissent in 
+
+ Gilbert itself which this Court said it was codifying 
+
+ when it enacted the pregnancy discrimination ­­
+
+ JUSTICE ALITO: 
+
+What if the language after 
+
+ the semicolon were not there?  Would the language before 
+
+ the semicolon have effectively overruled Gilbert? 
+
+ MS. HALLIGAN: 
+
+It would have overruled 
+
+ Gilbert by bolting pregnancy on, but Congress was ­­
+
+ JUSTICE ALITO: 
+
+Would it have produced a 
+
+ different result in Gilbert?  Suppose the employer has a 
+
+ policy of providing certain benefits for employees who 
+
+ have an injury or a disease but not pregnancy. 
+
+ MS. HALLIGAN: 
+
+Right. 
+
+ JUSTICE ALITO: 
+
+If you didn't have the 
+
+ language after the semicolon, would the language before 
+
+ the semicolon have required the employer to treat 
+
+ pregnant women the same as those who have an illness or 
+
+ an injury? 
+
+ MS. HALLIGAN: 
+
+I'm not sure that it would 
+
+ have.  And I'm also not sure that it would have 
+
+ precluded the Court from using the same logic that was 
+
+ at play in Gilbert itself, and that's why those words 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+37 
+
+ are there. 
+
+ JUSTICE ALITO: 
+
+Isn't that the reason for 
+
+ the language after the semicolon?  Because you have to 
+
+ go further in order to produce a different result than 
+
+ Gilbert.  And if that's correct, could you explain what 
+
+ you think the language after the semicolon means. 
+
+ MS. HALLIGAN: 
+
+I think the language after 
+
+ the semicolon instructs that when you look at a policy 
+
+ that facially discriminates on the basis of pregnancy, 
+
+ what you would typically do in a sex discrimination case 
+
+ is to look at how women and men are treated.  And if 
+
+ they are treated differently, you would conclude that 
+
+ there is sex discrimination.  What this clause instructs 
+
+ is that when you look at a policy that discriminates on 
+
+ the basis of pregnancy, rather than looking at women and 
+
+ men which would lead you to the conclusion that there is 
+
+ no sex discrimination ­­ because all the non­pregnant 
+
+ women ­­
+
+ JUSTICE GINSBURG: 
+
+That's what the first 
+
+ clause does.  It says pregnancy and sex, period. 
+
+ You have already said that you don't think 
+
+ that the second clause does any practical work.  That 
+
+ is, you can't conceive of a case where a plaintiff would 
+
+ loose under clause one and win under clause two. 
+
+ MS. HALLIGAN: 
+
+To be clear, Your Honor, the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+38 
+
+ reason the second clause is there is to avoid a case in 
+
+ which a court uses the same reasoning and reaches a 
+
+ different result.  This Court also attached special 
+
+ significance to the second clause in Johnson Controls. 
+
+ It said that the second clause provides a BFOQ for 
+
+ pregnancy specifically, and so it does that work as 
+
+ well. 
+
+ What Petitioner suggests is that the second 
+
+ clause somehow permits any distinction except on­the­job 
+
+ versus off­the­job.  That's a distinction that is 
+
+ longstanding and hasn't ­­
+
+ JUSTICE BREYER: 
+
+But you don't know where 
+
+ the ­­ I would like just to go back on this very point 
+
+ to what Justice Kagan said.  Now, the McDonnell Douglas 
+
+ test, I think, should come in somewhere.  That is the ­­
+
+ the woman shows that, I'm pregnant, I couldn't lift, I 
+
+ wasn't paid anything, and other people who had 
+
+ comparable inabilities were paid.  And so we get to, was 
+
+ I qualified like they are?  And now a distinction is 
+
+ being made.  The employer says, no, you are not because 
+
+ you didn't drive over the mountain pass.  Or, no, you 
+
+ are not because you got it off the job.  And then we 
+
+ have to decide is that a pretext?  Is it legitimate? 
+
+ And where they are giving it to everybody else and there 
+
+ are very few, it doesn't sound too legitimate.  But that 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+39 
+
+ test must come in. 
+
+ MS. HALLIGAN: 
+
+It does. 
+
+ JUSTICE BREYER: 
+
+And so ­­ and so how does 
+
+ it and does it matter if we put it under the first 
+
+ so­called whatever, you know, intentional as opposed to 
+
+ disparate impact?  Will we muck up the law were we to 
+
+ say it goes in that part rather than the other part or 
+
+ both parts? 
+
+ MS. HALLIGAN: 
+
+Well, I ­­ I think if I can, 
+
+ this Court has been clear that McDonnell Douglas 
+
+ provides a mechanism for providing indirect evidence of 
+
+ disparate treatment of intentional discrimination.  So 
+
+ it's distinct, I think, from a disparate impact case 
+
+ where, as here, you have a facially neutral policy, a 
+
+ policy that says on­the­job gets accommodation when they 
+
+ can't perform the essential functions of their job, 
+
+ anyone with an injury or condition that's sustained off 
+
+ the job doesn't.  When you have a facially neutral 
+
+ policy like that, you can bring a disparate impact 
+
+ claim.  Peggy Young could have done that. 
+
+ JUSTICE BREYER: 
+
+But why not if it goes 
+
+ under disparate treatment? 
+
+ MS. HALLIGAN: 
+
+Pardon? 
+
+ JUSTICE BREYER: 
+
+Why not?  Because, of 
+
+ course, the employer will always have a facially neutral 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+40 
+
+ policy.  It just turns out that this facially neutral 
+
+ policy happens to hit the pregnant women and four other 
+
+ people. 
+
+ MS. HALLIGAN: 
+
+If ­­
+
+ JUSTICE BREYER: 
+
+And I mean, that ­­ that's 
+
+ the kind of thing that we're trying to stop in this 
+
+ statute.  So ­­ so why not bring it in there, in the 
+
+ disparate treatment part as you say? 
+
+ MS. HALLIGAN: 
+
+Two answers, Your Honor. 
+
+ JUSTICE BREYER: 
+
+Yes. 
+
+ MS. HALLIGAN: 
+
+First of all, I think that 
+
+ distinction between a disparate impact claim where 
+
+ you're looking adverse effects on a certain class of 
+
+ employees, but you have a facially neutral policy has 
+
+ been quite ­­ as distinct from a policy that 
+
+ discriminates on its face, either directly or 
+
+ indirectly ­­
+
+ JUSTICE KAGAN: 
+
+Well, Ms. Halligan, suppose 
+
+ this ­­
+
+ MS. HALLIGAN: 
+
+­­ that's well established. 
+
+ JUSTICE KAGAN: 
+
+Suppose this, and it's 
+
+ exactly what Justice Breyer is talking about.  Suppose 
+
+ you had a policy that said we're going to provide 
+
+ accommodations to ­­ for anybody with a ­­ a 
+
+ nonoccupational sickness and ­­ and accident.  Very 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+41 
+
+ similar to Gilbert ­­
+
+ MS. HALLIGAN: 
+
+Yes. 
+
+ JUSTICE KAGAN: 
+
+­­ but without all the other 
+
+ facts of Gilbert.  We're just ­­ it's a facial policy. 
+
+ MS. HALLIGAN: 
+
+Yes. 
+
+ JUSTICE KAGAN: 
+
+We're going to provide 
+
+ accommodations, but, of course, pregnancy is not a 
+
+ nonoccupational sickness and accident, so as a result of 
+
+ this facially neutral policy, pregnant women will not 
+
+ get accommodations. 
+
+ Now, as I understand what you are saying, 
+
+ it's ­­ that's perfectly fine. 
+
+ MS. HALLIGAN: 
+
+If ­­ if a policy 
+
+ distinguishes between occupational injuries and 
+
+ nonoccupational ­­
+
+ JUSTICE KAGAN: 
+
+Yes, this is nonoccupational 
+
+ sickness and accident. 
+
+ MS. HALLIGAN: 
+
+And that would be acceptable. 
+
+ And what a ­­ what a plaintiff who believed that 
+
+ nonetheless there was intentional discrimination afoot, 
+
+ what they would do is they would, under McDonnell 
+
+ Douglas, they would, first of all, attempt to make a 
+
+ prime facia case by showing that other employees who 
+
+ were similarly situated were being treated differently. 
+
+ The comparators that the Petitioner points to here are 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+42 
+
+ not valid because they're not similarly situated.  The 
+
+ bottom line ­­
+
+ JUSTICE GINSBURG: 
+
+You are departing ­­ you 
+
+ are departing radically from what the Fourth 
+
+ Circuit view in this ­­ I mean, the Fourth Circuit did 
+
+ say, right up front, that this clause standing alone is 
+
+ unambiguous; if a group of employees get the benefit, if 
+
+ other employees get the benefit, so must pregnant women. 
+
+ But the Fourth Circuit said, yes, that's what it says 
+
+ just standing alone, but because it would lead to 
+
+ untoward results, preferential treatment, we're not 
+
+ going to give it ­­
+
+ MS. HALLIGAN: 
+
+Well, the first ­­
+
+ JUSTICE GINSBURG: 
+
+­­ that meaning. 
+
+ MS. HALLIGAN: 
+
+The Fourth Circuit realized 
+
+ that the two clauses have to be read together, and in 
+
+ fact to read the second clause, as Petitioner suggests, 
+
+ just ­­ just reads the first clause out of existence. 
+
+ Justice Kagan, to go back to your question, 
+
+ what an employee could do in that circumstance is to 
+
+ say, the policy doesn't treat similarly situated 
+
+ employees the same as me.  It treats me worse. 
+
+ The comparators here were not at all 
+
+ congruous.  The first set of comparators were 
+
+ individuals who were accommodated under the ADA.  The 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+43 
+
+ government realizes that they're not similar ­­
+
+ JUSTICE KAGAN: 
+
+But that's where we disagree 
+
+ because ­­ because what this tells you is it tells you 
+
+ what the comparators are.  The comparators are any class 
+
+ you can come up with who is ­­ is ­­ has the same 
+
+ disability and isn't pregnant, and then the employer can 
+
+ come back and say, no, we had a good reason to ­­ to 
+
+ treat that class of employees differently. 
+
+ And if you ­­ if you buy that with respect 
+
+ to the Gilbert distinction, I don't understand why you 
+
+ wouldn't buy it with respect to any other 
+
+ classification. 
+
+ MS. HALLIGAN: 
+
+Because all the second clause 
+
+ is telling you, and ­­ and Congress was clear and this 
+
+ Court was clear that the ­­ that the PDA, both clauses, 
+
+ in its entirety, were not intended to in any way depart 
+
+ from traditional Title VII principles.  It was simply to 
+
+ correct the fact that pregnancy could be sex 
+
+ discrimination.  So all ­­
+
+ JUSTICE KAGAN: 
+
+But we absolutely know that 
+
+ what Gilbert was ­­ said was that kind of policy was 
+
+ legitimate and that Congress came back and said, no, 
+
+ that kind of policy is illegitimate, right? 
+
+ MS. HALLIGAN: 
+
+It said two things.  It said 
+
+ it's illegitimate in the first clause and it said you 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+44 
+
+ cannot, when you are trying to ascertain if there's sex 
+
+ discrimination, with a pregnancy policy, break it down 
+
+ into women and men because you won't get the result 
+
+ Congress wants.  Congress says when it's facially 
+
+ discriminatory on the basis of pregnancy, that's sex 
+
+ discrimination. 
+
+ So the comparators do have to be different; 
+
+ you are correct.  It's pregnant employees and 
+
+ nonpregnant employees.  And ­­ and ­­
+
+ JUSTICE KAGAN: 
+
+But as I understand the 
+
+ answer to my question, and tell me if I'm wrong, is 
+
+ you're saying with respect to a facially neutral policy 
+
+ as to nonoccupational sickness and health ­­
+
+ MS. HALLIGAN: 
+
+Yes. 
+
+ JUSTICE KAGAN: 
+
+­­ that you think that that 
+
+ is illegal under the PDA. 
+
+ MS. HALLIGAN: 
+
+No.  It's legal under the 
+
+ PDA.  A policy that ­­
+
+ JUSTICE KAGAN: 
+
+I'm sorry ­­
+
+ MS. HALLIGAN: 
+
+­­ that distinguishes between 
+
+ occupational and nonoccupational injuries and is evenly 
+
+ applied is absolutely permissible under the PDA. 
+
+ JUSTICE KAGAN: 
+
+Even if it's ­­ it's exactly 
+
+ the policy that's in Gilbert, and you're saying that's 
+
+ fine? 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+45 
+
+ MS. HALLIGAN: 
+
+No.  The policy in Gilbert 
+
+ singled out pregnancy for this favor. 
+
+ JUSTICE KAGAN: 
+
+It didn't.  There were lots 
+
+ of other things except for pregnancy that got excluded 
+
+ in Gilbert. 
+
+ MS. HALLIGAN: 
+
+The Court ­­
+
+ JUSTICE KAGAN: 
+
+If ­­ if a man had a 
+
+ vasectomy, it got excluded in Gilbert.  If somebody got 
+
+ into a bar fight, it got excluded under the policy in 
+
+ Gilbert.  If a person had cosmetic surgery, it got 
+
+ excluded under the policy in Gilbert.  Gilbert was about 
+
+ much more than singling out. 
+
+ MS. HALLIGAN: 
+
+This Court and Congress 
+
+ clearly described the policy in Gilbert as singling out 
+
+ pregnancy and that's why Congress enacted the PDA, 
+
+ because ­­
+
+ JUSTICE GINSBURG: 
+
+But it ­­ it enacted it 
+
+ to overturn Gilbert, everybody ­­
+
+ MS. HALLIGAN: 
+
+It's holding and ­­
+
+ JUSTICE GINSBURG: 
+
+­­ and not just some 
+
+ abstract theory, but the result ­­
+
+ MS. HALLIGAN: 
+
+Yes. 
+
+ JUSTICE GINSBURG: 
+
+­­ in Gilbert.  And as 
+
+ Justice Kagan pointed out, Gilbert was a case where you 
+
+ could point to a lot of other people who were not 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Official 
+
+46 
+
+ getting this benefit. 
+
+ MS. HALLIGAN: 
+
+One of ­­ the result that 
+
+ Petitioner and the government suggests, which is instead 
+
+ to say that you can have any distinction you want and 
+
+ it's permissible under the PDA except on the job versus 
+
+ off the job is ­­ is far more contorted.  That's a 
+
+ distinction that sounds in worker's compensation law. 
+
+ JUSTICE GINSBURG: 
+
+Is it ­­ is it true 
+
+ essentially ­­ I mean, you said that ­­ that Young's 
+
+ position is most favored nation.  Well, yours is least 
+
+ favored nation, right? 
+
+ MS. HALLIGAN: 
+
+It's ­­ it's not least 
+
+ favored nation.  The question is, is there another 
+
+ distinct group of employees who are treated the same as 
+
+ the Petitioner, and here there are.  And this is 
+
+ where ­­
+
+ JUSTICE GINSBURG: 
+
+This ­­ this case went 
+
+ off on summary judgment ­­
+
+ MS. HALLIGAN: 
+
+Yes. 
+
+ JUSTICE GINSBURG: 
+
+­­ so the facts ­­
+
+ Mr. Bagenstos has told us that there is not in this 
+
+ record a single instance of anyone who needed a lifting 
+
+ dispensation who didn't get it except for pregnant 
+
+ people. 
+
+ MS. HALLIGAN: 
+
+And I ­­
+
+Alderson Reporting Company 
+
+Official 
+
+ JUSTICE GINSBURG: 
+
+And if that's the case in 
+
+47 
+
+ fact, then you lose, don't you? 
+
+ MS. HALLIGAN: 
+
+Well, I would like to address 
+
+ that because I think that's a real mischaracterization 
+
+ of the record in a couple of ways.  First of all, the 
+
+ district court held, squarely, that the effort by 
+
+ plaintiff to characterize this policy as no light duty 
+
+ for pregnancy was wrong.  What the district court 
+
+ said ­­ this is at page 59A ­­ is that the actual policy 
+
+ was on­the­job ADA accommodations and DOT. 
+
+ JUSTICE GINSBURG: 
+
+But do we know in fact ­­
+
+ this is an allegation that in fact no one who wanted a 
+
+ dispensation didn't get it except pregnant women. 
+
+ MS. HALLIGAN: 
+
+That is also contradicted, 
+
+ Your Honor. 
+
+ JUSTICE GINSBURG: 
+
+But we have ­­ we're on 
+
+ the summary judgment stage, so we don't know what the 
+
+ facts are. 
+
+ MS. HALLIGAN: 
+
+No, but we have to look at 
+
+ the uncontroverted evidence.  There's uncontroverted 
+
+ testimony in the record, and I would point you to 
+
+ Ms. Martin and Mr. Brian's testimony that there were 
+
+ many employees who sustained off­the­job injuries, and 
+
+ the district court held specifically that no light duty 
+
+ was given to any employees, male or female, with any 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+48 
+
+ medical conditions not related to work, pregnancy 
+
+ included, at page 56A.  It also ­­
+
+ JUSTICE GINSBURG: 
+
+Can you give an example 
+
+ then?  Is there an employee who asked for a dispensation 
+
+ because of a medical condition that restricted her 
+
+ ability to lift, to any single employee employed ­­ who 
+
+ was ­­ said, sorry, you don't get it because your injury 
+
+ was off duty? 
+
+ MS. HALLIGAN: 
+
+There's not a name provided 
+
+ in the record because one was not elicited by the 
+
+ Petitioner whose burden it was in building a prima facie 
+
+ case.  But the record evidence is undisputed that there 
+
+ were many employees who sustained off­the­job injuries 
+
+ and it's unsurprising.  UPS is in the business of 
+
+ delivering packages. 
+
+ JUSTICE GINSBURG: 
+
+They ­­ they suffered 
+
+ off­the­job injuries, but we don't know if they asked 
+
+ for a dispensation because the off­the­job injury would 
+
+ require that they limit the weight that they could bear. 
+
+ MS. HALLIGAN: 
+
+The district court held that 
+
+ UPS's policy is that employees who are unable to perform 
+
+ the essential functions of their job would be required 
+
+ to take leave if their inability stemmed from something 
+
+ off the job.  And in a business that involves moving 
+
+ 70­pound packages around all day long, it is certainly 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+49 
+
+ the case that, as the uncontroverted testimony 
+
+ established, there were many employees who sustained an 
+
+ off­the­job injury that prevented them from doing that 
+
+ job. 
+
+ JUSTICE SCALIA: 
+
+I assume that you disagree 
+
+ with the Petitioner ­­ the Petitioner's proposition that 
+
+ when you take these three classes, namely, off the 
+
+ job ­­ I'm sorry, on­the­job injuries, ADA injuries, and 
+
+ the ­­ what was the third one? 
+
+ JUSTICE KENNEDY: 
+
+Traffic certificates. 
+
+ JUSTICE SCALIA: 
+
+Yes, yes, getting 
+
+ disapproved as drivers by DOT.  There's almost nothing 
+
+ left.  That's ­­ that's what ­­
+
+ MS. HALLIGAN: 
+
+We absolutely disagree with 
+
+ that and there is nothing in the record which suggests 
+
+ that.  It is completely without citation or support and 
+
+ it's completely controverted by the testimony that there 
+
+ were many employees who did sustain an off­the­job 
+
+ injury. 
+
+ So there were three narrow exceptions 
+
+ absolutely, the three that you identified, but every 
+
+ employee, as the District Court held, that sustained an 
+
+ off­the­job injury pulled their back, turned their knee, 
+
+ whatever it is, couldn't come in to work, were not 
+
+ accommodated with the kind of light duty that Ms. Young 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+50 
+
+ was. 
+
+ JUSTICE BREYER: 
+
+So why shouldn't there be a 
+
+ trial on that or further proceedings?  If it turns out 
+
+ that they're right that there were four people who 
+
+ weren't pregnant, and that's all, who didn't get the 
+
+ benefits, that's pretty strong evidence that the 
+
+ employer is discriminating.  If there were 400,000 
+
+ people who got the thing off the job and there were 
+
+ only, like, 19 people on the job who got the benefit, 
+
+ well, then you have a better case.  So why don't we have 
+
+ to look at the facts? 
+
+ MS. HALLIGAN: 
+
+First of all, Your Honor, 
+
+ that would be relevant to a disparate impact claim which 
+
+ the Petitioner did not bring. 
+
+ Secondly, there was extensive discovery in 
+
+ this case.  There was a summary judgment granted with 
+
+ uncontroverted evidence that establishes exactly the 
+
+ opposite of what you are suggesting, so there is no need 
+
+ to do that. 
+
+ This is a very straightforward case and but 
+
+ for the effort by the Petitioner to bring the record 
+
+ back into play at this late date, none of this ­­ none 
+
+ of this would be something that you would ever consider 
+
+ at this point. 
+
+ JUSTICE ALITO: 
+
+Is there really a dispute 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+51 
+
+ about this? 
+
+ Maybe Petitioner's counsel could address it 
+
+ in rebuttal, but is there really a dispute that if a UPS 
+
+ driver fell off his all­terrain vehicle during ­­ on the 
+
+ weekend and was unable to lift that that person would 
+
+ not be given light duty?  Is there really a ­­
+
+ MS. HALLIGAN: 
+
+There's no dispute at all and 
+
+ the District Court made a square finding exactly to that 
+
+ effect at page 56A and page 35A.  I would also direct 
+
+ you in our red brief to page 5 where we set forth 
+
+ Ms. Martin's testimony that she never authorized an 
+
+ accommodation for anyone who was injured off the job, so 
+
+ that's there as well. 
+
+ I'd like to turn briefly, if I can, to the 
+
+ question of the EEOC guidance that the solicitor 
+
+ general ­­
+
+ JUSTICE SOTOMAYOR: 
+
+I ­­ I ­­ but there are 
+
+ individuals who are injured off the job who lose their 
+
+ DOT licenses? 
+
+ MS. HALLIGAN: 
+
+There are individuals who 
+
+ lose their DOT certification and pursuant to the 
+
+ collective bargaining agreement, they are accommodated 
+
+ for some period of time.  But those jobs, the 
+
+ individuals who lose their DOT certification, are not 
+
+ light­duty jobs.  Those are heavy­lifting jobs, as the 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+52 
+
+ District Court squarely held.  The District Court at 
+
+ page 36A and 59A said, "Inside jobs are not light­duty 
+
+ jobs and the individuals who lose their license can 
+
+ perform any number of demanding physical tasks," which 
+
+ Ms. Young could not perform.  So they're not comparable 
+
+ in that regard either. 
+
+ With respect to the EEOC guidance, the 
+
+ guidance which was issued two weeks after this Court 
+
+ granted certiorari is 180­degree change from the 
+
+ position that the government has consistently taken and 
+
+ that the postal service, which UPS fairly looked to in 
+
+ trying to ascertain what appropriate conduct was under 
+
+ federal antidiscrimination laws, the policy that it 
+
+ still has in place today. 
+
+ In addition, the process in issuing that 
+
+ guidance was incredibly rushed.  It was not until 2012, 
+
+ as one of the amicus briefs point out, that the EEOC 
+
+ even identified the question of pregnancy accommodations 
+
+ as an emerging or developing issue.  There was no notice 
+
+ and comment.  The three ­­
+
+ JUSTICE GINSBURG: 
+
+The original ­­ the 
+
+ original guideline, as I understand EEOC, what they did 
+
+ in 2014, they said, we were terse the first time around. 
+
+ All we're doing in 2014 is explaining that what the 
+
+ original ­­ what was ­­ it was '79, the original ­­
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+53 
+
+ MS. HALLIGAN: 
+
+'79 guidelines, the '79 
+
+ guidelines simply mimic the language of the statute.  In 
+
+ 2012 the EEOC, in its strategic plan, said that it was 
+
+ looking at addressing the very issue that it opined on 
+
+ in the 2014 guidance as emerging.  If the 1979 
+
+ guidelines stood for what Petitioner suggests, there 
+
+ would have been no need to treat it as emerging.  It 
+
+ would have been settled 30 years ago. 
+
+ Finally, I want to point out that this is an 
+
+ area where the democratic process is working as it 
+
+ should and as this Court instructed it should in Cal 
+
+ Fed.  In Cal Fed, this Court looked at the question of 
+
+ whether or not state statutes which provided 
+
+ preferential treatment to pregnant employees, the 
+
+ statute there provided extra leave and reinstatement 
+
+ rights to pregnant employees, was preempted by the PDA. 
+
+ The Court said the PDA sets a floor.  That floor is that 
+
+ you can't single out pregnancy for adverse treatment. 
+
+ States can go beyond that as additional and new 
+
+ challenges are identified. 
+
+ JUSTICE KAGAN: 
+
+Well, Ms. Halligan, for the 
+
+ democratic process to work as it should, the PDA has to 
+
+ be given a fair reading.  And what we know about the PDA 
+
+ is that it was supposed to be about removing stereotypes 
+
+ of pregnant women as marginal workers.  It was supposed 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+54 
+
+ to be about ensuring that they wouldn't be unfairly 
+
+ excluded from the workplace.  And what you are saying is 
+
+ that there's a policy that accommodates some workers, 
+
+ but puts all pregnant women on one side of the line. 
+
+ And what you are further saying is that the 
+
+ employer doesn't even have to justify that policy ala 
+
+ McDonnell Douglas.  That seems to me a reading of the 
+
+ statute, the PDA, that ignores two­thirds of the text. 
+
+ MS. HALLIGAN: 
+
+I'm not saying that the 
+
+ employer isn't subject to a suit under McDonnell 
+
+ Douglas.  I'm saying that there are no valid comparators 
+
+ here.  That's ­­ that's all ­­ all that we're saying in 
+
+ that regard. 
+
+ The states that ­­
+
+ JUSTICE GINSBURG: 
+
+So essentially it says 
+
+ any group that doesn't get the benefit, a group that is 
+
+ non­pregnant, then pregnant people are ­­ any group at 
+
+ all? 
+
+ MS. HALLIGAN: 
+
+If you had a policy, I'm not 
+
+ sure what one would look like, that singled out pregnant 
+
+ employees plus one other employee, my guess is that 
+
+ you'd find ­­
+
+ JUSTICE GINSBURG: 
+
+What category of 
+
+ employees? 
+
+ MS. HALLIGAN: 
+
+The policy that's at issue 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+55 
+
+ here, Justice Ginsburg, distinguishes on­the­job versus 
+
+ off­the­job injuries.  That's a distinction that's 
+
+ echoed in state and in federal law.  That's a far cry 
+
+ from a policy that singles out pregnant women.  There 
+
+ are nine states that ­­
+
+ JUSTICE GINSBURG: 
+
+Singling out is in the 
+
+ first ­­ is what the first ­­
+
+ MS. HALLIGAN: 
+
+Or targeting or otherwise 
+
+ primarily disadvantaging.  That distinction tracks what 
+
+ workers' comp requires, which is payment for employees 
+
+ who are injured on the job, and many employers, 
+
+ including the U.S. Postal Service, have found it 
+
+ advantageous to provide light­duty accommodations so 
+
+ their employees can be at work while they are 
+
+ rehabilitating and provide some productive work for the 
+
+ company.  That distinction is as legitimate as you could 
+
+ get. 
+
+ I see my time is up, Your Honor. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ Mr. Bagenstos, you have four minutes 
+
+ remaining. 
+
+ REBUTTAL ARGUMENT OF SAMUEL BAGENSTOS 
+
+ ON BEHALF OF THE PETITIONER 
+
+ MR. BAGENSTOS: 
+
+Thank you, Mr. Chief 
+
+ Justice. 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+56 
+
+ So I'd like to begin, if I could, with the 
+
+ facts, because Justice Alito did ask, and, yes, we 
+
+ certainly do disagree with UPS's ­­ UPS's assertion 
+
+ here.  This case was on summary judgment and UPS does 
+
+ point correctly to some very general statements in the 
+
+ record by UPS managers that they never authorized these 
+
+ accommodations.  However, we point to specific examples 
+
+ in the record of people with off­the­job injuries or 
+
+ illnesses who were DOT decertified who were given 
+
+ accommodations, and not just accommodations that remove 
+
+ them from driving but also remove them from heavy 
+
+ lifting.  That's a factual dispute that has to go to 
+
+ trial. 
+
+ JUSTICE ALITO: 
+
+You really think that you 
+
+ could prove at trial that if somebody is injured in a 
+
+ recreational activity over the weekend that they get 
+
+ light duty but a pregnant women does not maybe? 
+
+ MR. BAGENSTOS: 
+
+So if someone is injured 
+
+ over the weekend in a way that leads them to be DOT 
+
+ decertified, yes, and in fact, the UPS manager so 
+
+ testified about his sports injury.  We cite that in our 
+
+ opening brief.  So yes, we think so. 
+
+ The second point I'd like to make is about 
+
+ what the two clauses do, and I think this is very 
+
+ important.  So the first clause of the PDA, as this 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+57 
+
+ Court has said in Newport News and Cal Fed, overturns 
+
+ the reasoning in General Electric v. Gilbert.  So what 
+
+ the first clause says is where Gilbert said, look, 
+
+ discrimination based on pregnancy isn't sex 
+
+ discrimination because there are pregnant women and 
+
+ non­pregnant persons, that's wrong instead because a 
+
+ pregnancy is because of sex definitionally.  That's not 
+
+ what the second clause does, that's what the first 
+
+ clause does. 
+
+ The second clause, as this Court said again 
+
+ in Newport News and Cal Fed, goes further and overrules 
+
+ the holding.  And I think Justice Kagan was exactly 
+
+ correct in describing the facts of Gilbert, that the 
+
+ Gilbert holding would not be overturned by ­­ under 
+
+ UPS's reading here because the Gilbert policy, the one 
+
+ thing we know that Congress meant to say was illegal, 
+
+ the Gilbert policy itself acted, drew lines in 
+
+ pregnancy­neutral ways. 
+
+ It said if you have an off­the­job injury or 
+
+ accident, defined as an off­the­job illness or accident 
+
+ defined as an accidental injury, then you get disability 
+
+ benefits.  It just so happens pregnancy isn't an illness 
+
+ and pregnancy isn't an accident in the sense of an 
+
+ accidental injury.  And what Congress ­­ we know 
+
+ Congress was trying to do, because Congress said it and 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+58 
+
+ this Court has said it, is to overturn the holding 
+
+ there. 
+
+ But UPS's rule simply reprices the rule at 
+
+ issue in Gilbert.  If I might return to the point 
+
+ Justice Breyer's made a couple of times at various points 
+
+in the argument­­
+
+ JUSTICE SOTOMAYOR: 
+
+Actually I think the 
+
+ reverse.  The second sentence is what does that.  The 
+
+ second sentence says you don't worry about whether it's 
+
+ between sexes.  You worry about whether the same class 
+
+ of people, people who are injured off­duty, are being 
+
+ treated differently when they have the same ability to 
+
+ work. 
+
+ MR. BAGENSTOS: 
+
+Well, I think, Justice 
+
+ Sotomayor, the first clause says you don't worry about 
+
+ whether they're the same sex or not.  You don't look at 
+
+ ­­
+
+ JUSTICE SOTOMAYOR: 
+
+No, you do have to worry 
+
+ about it because it still has to be sex discrimination. 
+
+ MR. BAGENSTOS: 
+
+Well, no.  But the first 
+
+ clause definitionally defines pregnancy discrimination 
+
+ as sex discrimination.  It says if you're discriminating 
+
+ because of pregnancy, that is because of sex.  And 
+
+ that's the ­­ that's overturning the Gilbert reasoning 
+
+ coming from Geduldig that pregnancy discrimination isn't 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6 
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+Official 
+
+59 
+
+ sex discrimination. 
+
+ The second clause goes further, as this 
+
+ Court's explained, and overturns the holding, overturns 
+
+ the holding upholding the General Electric policy.  And 
+
+ so ­­ and I think under ­­ under UPS's rule it wouldn't 
+
+ do that. 
+
+ On Justice Breyer's question, basically how 
+
+ do we deal with a world where there's an employer that 
+
+ treats two different groups of people who are 
+
+ non­pregnant differently?  Does "shall be treated the 
+
+ same" mean shall be treated the same as those who get 
+
+ the better deal or those who get the worst deal; right? 
+
+ And I think Justice Ginsburg and Justice 
+
+ Kagan I think articulated this well, that their position 
+
+ really would give least favored nation status to 
+
+ pregnant workers and we know that that can't be 
+
+ something that Congress intended.  We know that in part 
+
+ because of what General Verrilli said, that that's not 
+
+ how anti­discrimination law works, the fact that someone 
+
+ else was discriminated against doesn't mean I lose. 
+
+ Justice Alito's opinion for the Third 
+
+ Circuit in the Fraternal Order of Police of Newark case 
+
+ articulates the same rule.  We know that as well because 
+
+ the purpose of this statute is to say to employers, as 
+
+ Justice Kagan said, you have to treat pregnant workers 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+Alderson Reporting Company 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+60 
+
+ as just as valued employees as anybody else, and if you 
+
+ think it's valuable to keep these employees on the job 
+
+ who are injured on the job because they keep valuable 
+
+ work ­­ valuable knowledge within the company, do that 
+
+ for pregnant women. 
+
+ Thank you. 
+
+ CHIEF JUSTICE ROBERTS: 
+
+Thank you, counsel. 
+
+ The case is submitted. 
+
+ (Whereupon, at 11:07 a.m., the case in the 
+
+ above­entitled matter was submitted.) 
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+Alderson Reporting Company 
+
+Page 61 
+
+b 1:17 2:6 18:17 
+back 25:14 32:22 
+33:3,8 35:1,16 
+38:13 42:19 43:7 
+43:22 49:23 50:22  best 21:13,14 23:3 
+bagenstos 1:15 2:3  better 50:10 59:12 
+
+15:21 17:14,18 
+19:6 22:6 25:22 
+27:3,20,22 36:14 
+50:6 57:22 
+
+beyond 53:19 
+
+2:13 3:6,7,9 4:6 
+4:21 5:8,14,21 6:7  bfoq 38:5 
+6:9 7:11,24 8:5,9  bolt 30:24 
+8:12,18 9:4,11 
+10:14,24 11:20 
+12:20 14:1,5,17 
+14:20,24 15:14 
+16:6 17:2,10,16 
+17:23 18:15 34:24 
+46:21 55:20,22,24 
+56:18 58:14,20 
+
+bolting 36:11 
+bottom 42:2 
+break 44:2 
+breyer 6:20,21,22 
+7:16,25 8:8,11,16 
+8:22 9:5 15:12,15 
+15:18 16:19,24 
+23:6,17 25:15 
+29:4 38:12 39:3 
+39:21,24 40:5,10 
+40:22 50:2 
+
+balance 18:13 
+bar 45:9 
+bargaining 51:22 
+
+answer 8:2,10 21:1 
+21:18 28:2 44:11 
+
+answers 40:9 
+antidiscrimination 
+23:19 52:13 59:19 
+anybody 6:25 27:8 
+
+40:24 60:1 
+
+anyway 17:15 
+appearances 1:14 
+appendix 22:10 
+applied 29:6 44:22 
+applies 27:4 
+apply 30:14 
+appropriate 52:12 
+arbor 1:15 
+area 53:10 
+arent 13:9 35:6 
+argument 1:12 2:2  bars 32:5 
+
+2:5,9,12 3:4,7 
+15:13 18:17 28:25 
+55:22 58:6 
+
+based 6:17,18,18 
+
+11:6,8 12:5,9 
+25:20 27:24,25 
+32:6 35:1,2 57:4 
+
+arguments 5:9 
+articulated 9:10,12  basically 9:21 17:5  briefly 28:7,9 51:14 
+
+briefing 15:9 
+
+29:19 35:11 59:7  briefs 6:2 19:15 
+
+basis 12:4 17:7 
+
+52:17 
+
+breyers 58:5 59:7 
+brians 47:22 
+brief 6:23 19:24 
+
+22:9 51:10 56:22 
+
+bring 9:1,5,9,12 
+25:7 29:12,16 
+39:19 40:7 50:14 
+50:21 
+
+broad 4:8,12 
+brought 29:9 
+building 48:11 
+burden 33:8 48:11 
+burdenshifting 
+
+23:25 
+
+business 48:14,24 
+buy 43:9,11 
+
+C 
+
+2:7,11,14 3:8 29:1 
+55:23 
+
+believe 29:10 
+believed 29:5 41:19 
+benefit 3:21 7:1 
+
+14:9 16:11 42:7,8  c 1:8,18 2:1 3:1 
+caitlin 1:20 2:10 
+46:1 50:9 54:16 
+benefits 6:25 7:22 
+
+28:25 
+
+13:6,24 14:11 
+
+cal 53:11,12 57:1 
+
+able 5:4 13:3 24:10  actual 47:9 
+
+35:4 
+
+aboveentitled 1:11 
+
+60:10 
+
+absolute 36:2 
+absolutely 29:22 
+
+ada 19:4 42:25 
+
+47:10 49:8 
+added 22:25 
+addition 34:4,5 
+
+52:15 
+
+45:21 
+
+abstract 33:19 
+
+43:20 44:22 49:14  additional 53:19 
+address 47:3 51:2 
+49:21 
+addressing 53:4 
+adds 34:2 
+admitted 12:14 
+adopted 12:8,25 
+18:4,5 20:23,25 
+21:3 
+
+accept 5:9 
+acceptable 32:8 
+
+accident 40:25 41:8 
+
+41:18 
+
+54:3 
+
+55:13 
+
+41:17 57:20,20,23  advances 19:1 
+accidental 57:21,24  advantageous 
+accommodated 
+adverse 34:20 
+3:25 5:6 8:21 
+40:13 53:18 
+15:4,8 31:24 
+42:25 49:25 51:22  affords 19:6 
+accommodates 4:9  afoot 41:20 
+ago 8:7 53:8 
+agree 8:13 29:20 
+agreement 51:22 
+ah 25:1 
+ala 54:6 
+alito 9:18,20 10:21 
+
+accommodation 
+3:11,15,21,22 
+7:14 9:21 10:11 
+10:17 11:11,15 
+14:9 15:11 16:11 
+19:3 24:2,3,12 
+25:9,12 32:1,18 
+35:6 39:15 51:12 
+accommodations 
+4:24 5:2,18 9:24 
+13:19 14:11 15:3 
+16:8 19:7 29:6,8 
+40:24 41:7,10 
+47:10 52:18 55:13  alternative 32:13 
+amicus 1:19 2:7 
+56:7,10,10 
+
+alitos 59:21 
+allegation 47:12 
+allows 34:25 
+allterrain 51:4 
+altered 22:24 
+
+acknowledge 19:24 
+
+18:18 52:17 
+
+Official 
+Official
+
+acknowledges 4:24  analysis 23:25 
+
+15:2 
+
+anchor 35:8 
+
+acquired 3:13 27:2  ann 1:15 
+act 13:15 18:23 
+
+36:4 
+
+acted 57:17 
+actionable 26:17 
+activity 56:16 
+
+A 
+
+ability 6:14 9:16 
+10:20 11:5,25 
+12:6 14:13 15:7 
+16:10 19:9 22:1 
+22:12,13 24:20 
+30:4 31:16 35:13 
+48:6 58:12 
+
+21:6,22 22:7,17 
+23:1 24:23 25:10 
+27:12 35:23 37:9 
+37:15 44:5 
+
+bear 48:19 
+beautiful 9:9 
+becoming 18:25 
+11:13 12:13 21:18  assume 15:15 49:5  beginning 23:7 
+36:7,12,17 37:2 
+50:25 56:2,14 
+
+behalf 1:15,20 2:4 
+
+14:7 59:14 
+
+articulates 59:23 
+ascertain 44:1 
+
+52:12 
+
+asked 26:8 48:4,17 
+assert 13:22 
+asserted 14:15 
+assertion 56:3 
+assignments 5:11 
+
+attached 38:3 
+attempt 41:22 
+attempted 29:12 
+authority 20:3,4 
+authorized 51:11 
+
+56:6 
+
+available 10:9 
+avoid 38:1 
+
+B 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+57:11 
+
+calfed 30:12 33:13 
+call 20:13 
+called 19:15 
+cant 11:3 12:14,18 
+
+chief 3:3,9 6:21 
+
+18:14,16,20 24:21 
+25:5 27:18 28:7,8 
+28:23 29:2 55:19 
+55:24 60:7 
+
+19:6,7 21:23 
+22:17 28:17 37:23 
+39:16 53:18 59:16  choice 26:17,19,20 
+
+childbirth 9:14 
+11:2,23 22:16 
+
+choose 26:23 
+chose 26:24 
+circuit 42:5,5,9,15 
+
+59:22 
+
+Official 
+
+Page 62 
+
+35:20 37:13,20,22  conclusion 37:16 
+37:24,24 38:1,4,5  condition 3:25 6:14  controverted 49:17 
+38:9 42:6,17,18 
+43:13,25 56:25 
+57:3,8,9,10 58:15 
+58:21 59:2 
+
+10:19 11:7 12:10 
+22:15,16,18 23:2 
+23:4 27:24 29:9 
+39:17 48:5 
+
+21:7,16 27:10,10 
+29:4 37:5 43:18 
+44:8 57:13 
+
+correct 19:21,24 
+
+controls 38:4 
+
+clauses 34:8 42:16 
+
+43:15 56:24 
+
+clear 13:15 35:20 
+36:2 37:25 39:10 
+43:14,15 
+
+clearly 45:14 
+
+conditions 3:13,17 
+
+correctly 56:5 
+4:13 9:15 11:2,23  cosmetic 45:10 
+12:11,12 13:11,13  couldnt 38:16 
+13:17,17,20,21 
+15:4 19:8,9 21:25  counsel 51:2 55:19 
+22:1,20 26:21,21 
+26:25 28:18 48:1 
+
+49:24 
+
+60:7 
+
+care 30:9 
+case 3:4 4:2,18 5:9 
+5:14 6:6 13:7,14 
+15:12 17:4 18:8 
+19:23 24:5,10 
+25:21 26:2 28:4 
+28:13 30:21,23 
+31:1 33:2,4,20 
+34:14 37:10,23 
+38:1 39:13 41:23 
+45:24 46:17 47:1 
+48:12 49:1 50:10 
+50:16,20 56:4 
+59:22 60:8,9 
+
+cases 15:19 23:11 
+
+24:6,22 
+
+categories 5:12 
+
+10:1 
+
+category 5:10,13 
+10:6,6,12 11:18 
+24:19 27:19 28:16 
+54:23 
+
+27:16 
+
+circumstance 42:20  client 5:5 
+code 16:2 
+circumstances 
+codifying 36:5 
+collapse 35:25 
+colleague 16:17 
+collective 51:22 
+come 20:12 33:2,8 
+
+citation 49:16 
+cite 56:21 
+cites 28:21 
+civil 36:4 
+claim 9:1,6,8,9,12 
+23:18,21,22,24 
+25:7 29:10,16 
+39:20 40:12 50:13 
+
+35:1,16 38:15 
+39:1 43:5,7 49:24 
+comes 21:22 24:25 
+
+32:22 
+
+conduct 52:12 
+confused 4:16 
+congress 12:22,23 
+17:12,24 18:4,9 
+20:2 26:17,19 
+29:24 34:2 36:3 
+36:11 43:14,22 
+44:4,4 45:13,15 
+57:16,24,25,25 
+59:17 
+
+claims 9:2 
+class 8:17,20 10:9 
+10:22 13:24 14:1 
+14:4 16:8 22:11 
+24:2,4 31:11 
+32:17,20,23 35:5 
+40:13 43:4,8 
+58:10 
+
+coming 16:16 58:25  congressional 
+comment 52:20 
+comp 55:10 
+company 6:19 
+
+26:22 
+
+congruous 42:24 
+connector 34:7 
+consider 12:2 21:3 
+
+55:16 60:4 
+
+comparable 19:9 
+
+50:23 
+
+couple 47:5 58:5 
+course 19:20 26:5 
+
+28:1,12 39:25 
+41:7 
+
+court 1:1,12 3:10 
+13:6,13,15 18:21 
+19:25 27:8 29:3 
+29:13 30:11 33:12 
+33:15 34:11 36:1 
+36:5,24 38:2,3 
+39:10 43:15 45:6 
+45:13 47:6,8,24 
+48:20 49:22 51:8 
+52:1,1,8 53:11,12 
+53:17 57:1,10 
+58:1 
+
+courts 21:12 35:19 
+
+cover 4:10,13 
+coverage 13:8 
+create 4:14 
+creating 31:12 
+criteria 25:25 
+criterion 25:10 
+cry 55:3 
+curiae 1:19 2:7 
+
+18:18 
+
+cause 35:22 
+certain 36:14 40:13  classes 4:8,12 5:17 
+certainly 14:10 
+6:2 13:18 14:11 
+14:15 25:20,20,22  comparators 33:10  consistent 25:25 
+18:4,14 25:7 
+48:25 56:3 
+26:11,11 49:7 
+
+comparator 31:11 
+32:17 33:6 35:15 
+
+considered 21:6 
+consist 10:7 
+
+consistently 34:11 
+
+20:20 
+
+22:1,12,21 38:18 
+52:5 
+
+consideration 
+
+59:3 
+
+certificates 49:10 
+certification 28:16 
+
+28:17 51:21,24 
+
+certiorari 52:9 
+cetera 11:24 
+challenges 53:20 
+change 52:9 
+characterize 47:7 
+charged 20:3 
+charges 19:22 
+chevron 20:7 
+
+41:25 42:23,24 
+43:4,4 44:7 54:11 
+
+classification 12:17 
+
+43:12 
+
+compare 12:4,5 
+
+classifications 11:8 
+
+30:25 
+
+11:18,19 22:3 
+
+classifying 33:17 
+clause 3:19 9:13,13  compensation 46:7  contain 32:8 
+
+34:21 
+
+comparing 30:21 
+comparisons 33:14 
+
+52:10 
+
+consists 10:3 
+construct 23:11 
+construction 34:9 
+
+12:21,23,24 18:25  completely 29:20 
+19:2 21:24 29:24 
+30:10,13,23 33:9 
+33:12,18,21,24 
+34:2,3,9,10,16 
+
+conceive 37:23 
+conclude 31:2 
+
+49:16,17 
+
+37:12 
+
+D 
+d 1:8,18 3:1 
+danger 7:3 
+dangerous 24:18 
+
+contained 18:6 
+contains 8:9 18:2 
+contorted 46:6 
+contradicted 47:14  date 50:22 
+contrived 19:16 
+
+day 19:17 29:12 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 63 
+
+41:24 43:8 58:12  disparate 9:1,2,6,7 
+23:22 29:10 35:25 
+59:10 
+36:1 39:6,12,13 
+39:19,22 40:8,12 
+50:13 
+
+difficult 7:2 26:1 
+direct 23:21,24 
+
+dispensation 46:23 
+
+47:13 48:4,18 
+
+23:11 
+
+echoed 55:3 
+
+17:16 20:6,7 21:1 
+21:9 25:23 28:5 
+31:10 33:14 34:19  eeoc 20:1,3,6,8,17 
+35:7 37:21 38:12 
+21:10 51:15 52:7 
+52:17,22 53:3 
+43:10 47:2,17 
+48:7,17 50:10 
+effect 6:14 10:19 
+58:9,15,16 
+
+51:9 
+
+dispute 50:25 51:3  dot 5:3 11:11 28:15  effectively 36:9 
+effects 19:9 22:1 
+
+51:7 56:12 
+
+disqualification 5:3 
+disqualifying 11:12 
+dissent 20:15 36:4 
+distinct 30:1,3 
+
+28:17,20 47:10 
+49:12 51:19,21,24 
+56:9,19 
+
+dotdisqualifying 
+
+15:3 
+
+40:13 
+
+effort 47:6 50:21 
+either 32:9 40:16 
+
+52:6 
+
+39:13 40:15 46:14  double 31:12 
+
+distinction 11:1,4 
+
+douglas 23:23,25 
+
+electric 12:8 13:5 
+18:6 57:2 59:4 
+
+elicited 48:10 
+
+24:11 25:7 32:16 
+32:21 35:15 38:14  emerging 52:19 
+39:10 41:22 54:7 
+54:11 
+
+53:5,7 
+
+55:9 
+
+disagree 43:2 49:5 
+
+49:14 56:3 
+
+disapproved 49:12 
+discovery 50:15 
+discriminated 31:9 
+
+59:20 
+
+discriminates 31:1 
+
+35:23 37:9,14 
+40:16 
+
+discriminating 
+26:13,15 50:7 
+58:22 
+
+discrimination 
+
+18:7,12 27:22 
+28:11 35:25 36:3 
+38:9,10,19 40:12 
+43:10 46:4,7 55:2 
+55:9,16 
+
+distinctions 18:3 
+19:7 21:24 22:4 
+23:8,14 
+
+draw 11:3 19:7 
+
+21:24 
+
+drawing 10:25 
+draws 17:21,23 
+drew 57:17 
+
+distinguish 8:3 
+distinguished 12:9  drive 6:5 24:17 
+distinguishes 41:14 
+
+28:17 38:21 
+driven 6:4 7:1 
+
+44:20 55:1 
+
+district 29:13 47:6 
+
+18:23 
+
+employed 48:6 
+employee 3:20 7:14 
+8:14 12:4,5 27:15 
+27:23 31:24,25 
+32:17,20 33:2,6 
+35:4 42:20 48:4,6 
+49:22 54:21 
+
+employees 5:18,25 
+6:1,4 8:20,21 10:2 
+10:9 11:1 12:5 
+13:19,25 14:2,9 
+14:12 15:21,22 
+16:9,21,22 24:2 
+29:7,8 30:2,3 
+32:25 36:14 40:14 
+41:23 42:7,8,22 
+43:8 44:8,9 46:14 
+47:23,25 48:13,21 
+49:2,18 53:14,16 
+54:21,24 55:10,14 
+60:1,2 
+
+employer 3:22 5:16 
+
+7:13 8:13,19 
+10:18 11:9 12:2,9 
+12:25 14:10 15:23 
+15:25 16:7 19:6 
+21:5,23 22:5 
+23:12 24:1,11 
+
+48:25 
+
+deal 8:14 59:8,12 
+
+59:12 
+
+24:10 51:9 
+
+december 1:9 
+decertified 56:9,20 
+decide 21:12 38:23  directly 40:16 
+deciding 20:20 
+decision 7:13 
+defended 19:12,22 
+deference 20:6,8,13 
+
+disabilities 12:19 
+disability 7:4 13:6 
+24:13 27:2 35:6 
+43:6 57:21 
+disabled 6:12 
+disabling 11:7 
+12:10,11,12 
+
+defined 57:20,21 
+defines 58:21 
+definitionally 57:7  disadvantaging 
+
+21:10 
+
+58:21 
+
+degree 14:6 
+delivering 48:15 
+demanding 52:4 
+demands 5:16 
+democratic 53:10 
+
+53:22 
+
+depart 43:16 
+departing 42:3,4 
+department 1:18 
+
+19:21 
+
+describe 16:18 
+described 24:3 
+
+45:14 
+
+describing 57:13 
+descriptions 10:3 
+developing 52:19 
+didnt 5:6 9:5 15:11 
+17:25 20:24 26:22 
+36:17 38:21 45:3 
+46:23 47:13 50:5 
+
+difference 25:8 
+different 6:15 7:5 
+
+driver 5:4 7:1 10:4 
+
+10:15 11:9,10 
+15:9 51:4 
+
+47:8,24 48:20 
+49:22 51:8 52:1,1 
+doesnt 5:13,22 8:15 
+
+6:17 11:6,7 13:7 
+18:22 23:22 24:23 
+26:12,16 27:12 
+30:21,23,24,25 
+31:3 33:4,16 
+34:13,14,14 35:18 
+35:24 36:6 37:10 
+37:13,17 39:12 
+41:20 43:19 44:2 
+44:6 57:4,5 58:19  doing 7:6 12:23 
+21:17 24:24,25 
+58:21,22,25 59:1 
+28:19 30:17 32:14 
+35:14 49:3 52:24 
+
+13:16 25:4 44:5 
+
+49:12 
+
+drivers 5:2 6:23 
+
+10:21,22 11:7 
+12:21 13:8 14:3 
+23:13 26:16 27:16  drives 11:10 
+32:8 38:25 39:18  driving 10:4 24:7 
+42:21 54:6,16 
+59:20 
+
+56:11 
+due 3:21 
+duty 5:10 47:7,24 
+48:8 49:25 51:6 
+56:17 
+
+disease 36:15 
+disentitlement 
+
+27:23 
+
+disfavored 31:4 
+dismissed 29:13 
+
+18:17 
+
+donald 1:17 2:6 
+
+E 
+e 2:1 3:1,1 
+earlier 24:4 
+7:16,17 9:7 10:14  easier 17:4 
+12:2 15:22,24 
+
+dont 4:13 6:24 7:8 
+
+easy 8:25 16:17 
+
+7:19,19 8:1 10:19 
+11:8,18 22:3 
+24:19 25:21 36:13  discriminatory 
+37:4 38:3 44:7 
+59:9 
+
+differentiate 17:7 
+
+22:5 23:21 
+
+differently 12:11 
+32:23,25 37:12 
+
+Alderson Reporting Company
+ 
+
+24:8,15,18,23 
+25:9 26:13,14 
+27:1 32:22 33:2 
+25:16 33:20 48:3 
+34:25 35:16 36:13  examples 15:5 24:7 
+36:19 38:20 39:25 
+43:6 50:7 54:6,10  exception 18:10 
+exceptions 49:20 
+59:8 
+excluded 45:4,8,9 
+
+25:3 56:7 
+
+employers 6:11 
+
+45:11 54:2 
+
+exclusion 19:19 
+excuse 11:4 
+exhausted 29:14 
+existence 42:18 
+explain 11:19 19:17 
+
+Official 
+
+far 19:18 46:6 55:3 
+fashion 32:21 
+favor 45:2 
+favorably 13:12,17 
+
+13:21 
+
+forcing 17:13,18 
+formal 13:1 
+forth 51:10 
+found 26:1 55:12 
+four 40:2 50:4 
+
+favored 5:19 7:8 
+
+55:20 
+
+fed 53:12,12 57:1 
+
+13:23 16:15,16,22  fourth 42:4,5,9,15 
+framework 23:23 
+31:6 46:10,11,13 
+fraternal 59:22 
+59:15 
+freestanding 19:3 
+frivolous 19:15 
+front 42:6 
+fulltime 22:3 28:1 
+function 30:12 
+
+57:11 
+
+federal 20:18 52:13 
+
+55:3 
+
+explained 30:11 
+
+21:21 30:13 33:13  fell 51:4 
+37:5 
+felt 20:5 
+female 47:25 
+fenced 13:9 
+fight 45:9 
+finally 53:9 
+find 32:17 34:17 
+
+52:24 
+
+59:3 
+
+explaining 30:17 
+
+33:24 35:11,20 
+functions 39:16 
+
+48:22 
+
+further 37:4 50:3 
+54:5 57:11 59:2 
+
+G 
+
+explanation 24:12 
+extensive 50:15 
+extra 53:15 
+
+F 
+face 40:16 
+facia 41:23 
+facial 41:4 
+facially 31:1 37:9 
+39:14,18,25 40:1 
+40:14 41:9 44:4 
+44:12 
+
+facie 48:11 
+fact 4:10 13:13 
+
+54:22 
+
+finding 51:8 
+fine 11:12 25:12 
+
+41:12 44:25 
+first 3:4 10:13 
+
+g 3:1 
+geduldig 58:25 
+gee 20:14 
+general 1:17 12:8 
+13:4 18:5,10,16 
+18:17,20 19:20 
+20:7,10,17,24 
+21:11,16 23:1,16 
+25:5 26:5 27:6,10 
+27:13,21 28:8,23 
+51:16 56:5 57:2 
+59:4,18 
+
+12:23 13:14 23:17 
+23:20 24:9 30:1,6 
+30:23 31:19,19 
+33:7,18,21 34:9 
+34:10 37:19 39:4 
+40:11 41:22 42:13 
+42:18,24 43:25 
+47:5 50:12 52:23 
+55:7,7 56:25 57:3  generally 5:25 8:20 
+57:8 58:15,20 
+
+14:10 
+
+7:18 11:3 13:11 
+17:13,18 18:9 
+25:11,19 30:2 
+55:11 59:24 
+
+employment 27:3 
+enacted 36:6 45:15 
+
+45:17 
+
+enforce 20:4 
+enforcement 20:18 
+enforcer 21:5 
+enormous 14:4 
+ensuring 54:1 
+entirely 34:10,22 
+entirety 43:16 
+entitled 3:22 10:17 
+
+27:7,19 31:25 
+
+equates 35:21 
+equivalent 25:22 
+esq 1:15,17,20 2:3 
+
+2:6,10,13 
+
+essential 39:16 
+
+48:22 
+
+essentially 46:9 
+
+54:15 
+
+established 40:20 
+
+49:2 
+
+establishes 50:17 
+et 11:24 
+evenly 44:21 
+everybody 14:16 
+
+26:23 38:24 45:18 
+
+evidence 39:11 
+
+47:20 48:12 50:6 
+50:17 
+
+exactly 8:11 28:21 
+29:4 30:5 40:22 
+44:23 50:17 51:8 
+57:12 
+
+example 6:2 7:12 
+
+Page 64 
+
+57:17 58:4,24 
+
+ginsburg 5:8 19:10 
+19:21 33:18 34:1 
+37:19 42:3,14 
+45:17,20,23 46:8 
+46:17,20 47:1,11 
+47:16 48:3,16 
+52:21 54:15,23 
+55:1,6 59:13 
+
+give 5:24,25 6:24 
+
+6:25 7:21,25 
+13:24,24 15:20,22 
+15:24,25 16:20 
+17:13,18 20:6,7 
+20:12,14 21:9,10 
+22:23 26:8 27:3 
+32:13 33:20 35:16 
+42:12 48:3 59:15 
+
+given 3:23 8:25 
+
+10:18 13:5 14:16 
+15:7 32:18 47:25 
+51:6 53:23 56:9 
+gives 27:8 35:11 
+giving 4:19 38:24 
+glaring 25:3 
+go 18:24 24:10 37:4 
+38:13 42:19 53:19 
+56:12 
+
+goes 9:22 11:21 
+
+28:11,11 39:7,21 
+57:11 59:2 
+
+going 11:10 15:16 
+17:14 23:24 24:6 
+24:10 26:11,12 
+40:23 41:6 42:12 
+
+16:20 17:12 18:5 
+20:2,19 25:19 
+26:14 31:12 42:17  fit 10:22,22 
+43:18 47:2,11,12 
+56:20 59:19 
+
+facts 41:4 46:20 
+
+47:18 50:11 56:2 
+57:13 
+
+factual 56:12 
+fails 24:3 
+fair 53:23 
+fairly 52:11 
+fall 10:6 
+
+flip 18:7 
+floor 53:17,17 
+focus 23:9 
+focused 23:4 
+following 14:25 
+
+34:8 
+
+footnote 19:24 
+forbid 25:11 
+forced 18:24 
+forces 35:16 
+
+good 8:14 32:22 
+
+generals 34:25 
+genuine 4:9 
+getting 46:1 49:11 
+gilbert 12:8,24 13:5  government 19:11 
+
+gotten 7:3 
+
+43:7 
+
+13:7 18:6 33:15 
+36:5,9,11,13,25 
+37:5 41:1,4 43:10 
+43:21 44:24 45:1 
+45:5,8,10,11,11 
+45:14,18,23,24 
+57:2,3,13,14,15 
+
+19:12,17 20:10 
+32:4 33:8 43:1 
+46:3 52:10 
+
+governments 19:16 
+
+31:20 
+
+grammatical 34:6 
+granted 3:15 14:22 
+
+Alderson Reporting Company
+ 
+
+25:9 35:5 50:16 
+52:9 
+
+ground 34:24,25 
+group 30:3 31:4,6 
+
+heres 21:19 
+hes 24:24,25 
+highly 33:10 
+history 17:12,17,20 
+
+42:7 46:14 54:16  hit 40:2 
+hold 8:1 
+54:16,17 
+holding 45:19 
+
+groups 59:9 
+guess 11:16 25:6 
+
+57:12,14 58:1 
+59:3,4 
+
+54:21 
+
+guidance 20:2 21:3  honor 4:7,21 14:7 
+24:7 29:22 30:20 
+37:25 40:9 47:15 
+50:12 55:18 
+
+51:15 52:7,8,16 
+53:5 
+
+guideline 20:23,25 
+
+52:22 
+
+hope 15:14 
+
+guidelines 53:1,2,6  hopefully 21:17 
+guy 24:7 
+
+H 
+
+halligan 1:20 2:10 
+28:24,25 29:2,15 
+29:17,22 30:11,19 
+31:18 33:9,23 
+34:6,23 35:7,19 
+36:10,16,22 37:7 
+37:25 39:2,9,23 
+40:4,9,11,18,20 
+41:2,5,13,18 
+42:13,15 43:13,24 
+44:14,17,20 45:1 
+45:6,13,19,22 
+46:2,12,19,25 
+47:3,14,19 48:9 
+48:20 49:14 50:12 
+51:7,20 53:1,21 
+54:9,19,25 55:8 
+
+happens 40:2 57:22 
+harm 7:4 
+hasnt 15:8 38:11 
+health 44:13 
+hear 3:3 
+heavy 10:5 56:11 
+heavylifting 51:25 
+held 47:6,24 48:20 
+
+49:22 52:1 
+
+help 15:16 21:20 
+helpful 23:21 
+
+huge 16:25 
+hurt 7:22 
+hypothetical 23:11 
+
+I 
+
+id 23:9,16 51:14 
+
+56:1,23 
+
+identified 24:7 
+
+49:21 52:18 53:20 
+identify 31:24 33:7 
+identifying 33:6 
+idiosyncratic 7:13 
+7:17 24:24 25:8 
+25:16,18 26:3 
+
+ignores 54:8 
+ill 26:7 
+illegal 44:16 57:16 
+illegitimate 43:23 
+
+43:25 
+
+illness 13:4 36:20 
+
+57:20,22 
+
+illnesses 56:9 
+illustrate 25:19 
+
+26:3 
+
+illustrates 25:17 
+im 4:15,15 11:16 
+15:16 16:2 17:1 
+17:22 20:15 22:7 
+25:16 30:19,19,20 
+32:23 33:23 36:22 
+36:23 38:16 44:11 
+
+Official 
+
+44:19 49:8 54:9 
+54:11,19 
+
+imagine 7:18 
+impact 9:1,2 29:10 
+39:6,13,19 40:12 
+50:13 
+
+impairment 28:12 
+important 7:12 
+16:7 19:1 34:7 
+56:25 
+
+impose 22:20 
+inabilities 38:18 
+inability 9:17 16:10 
+22:13 30:4 31:16 
+35:13 48:23 
+
+include 13:8 28:16 
+
+28:20 
+
+included 48:2 
+includes 34:3 
+including 16:24 
+
+55:12 
+
+income 18:24 
+incredibly 52:16 
+incurred 29:9 
+independent 11:14 
+indirect 39:11 
+indirectly 40:17 
+individual 25:8 
+individuals 15:5 
+
+42:25 51:18,20,24 
+52:3 
+
+inevitably 28:11 
+inference 17:21,24 
+initially 31:22 
+injured 5:10 26:23 
+
+29:7 51:12,18 
+55:11 56:15,18 
+58:11 60:3 
+
+injuries 4:25 5:2 
+
+12:19 15:2,6 
+17:14,19 41:14 
+44:21 47:23 48:13 
+48:17 49:8,8 55:2 
+56:8 
+
+injury 11:11,12 
+
+13:4 35:3 36:15 
+
+36:21 39:17 48:7 
+48:18 49:3,19,23 
+56:21 57:19,21,24 
+
+inquiry 31:8 
+inside 52:2 
+instance 33:7 46:22 
+instructed 53:11 
+instructs 37:8,13 
+intended 43:16 
+
+59:17 
+
+intent 9:8 36:1 
+intentional 34:13 
+
+39:5,12 41:20 
+
+intents 19:13 
+interest 19:1 21:4 
+interested 25:17 
+interests 20:11 
+interpolation 22:24 
+interpret 16:3 20:3 
+interpretation 14:7 
+
+31:20,21 
+
+involved 18:6 
+involves 48:24 
+isnt 15:16 25:18 
+27:11 37:2 43:6 
+54:10 57:4,22,23 
+58:25 
+
+isolated 25:2 
+issue 4:9 9:23 20:19 
+52:19 53:4 54:25 
+58:4 
+
+issued 20:1 52:8 
+issues 24:9 
+issuing 52:15 
+ive 4:4,4 16:1 
+
+J 
+
+j 1:20 2:10 28:25 
+job 3:14 7:21,23 
+10:2 11:8 12:17 
+15:18 22:3 24:19 
+26:24 28:4,4,10 
+28:11,14,14,15,15 
+28:19 29:7,9 
+38:22 39:16,18 
+46:5,6 48:22,24 
+
+Page 65 
+
+49:4,8 50:8,9 
+51:12,18 55:11 
+60:2,3 
+
+jobs 7:20 8:1 51:23 
+
+51:25,25 52:2,3 
+
+johnson 38:4 
+jr 1:17 2:6 18:17 
+judgment 3:14 4:7 
+
+4:23 5:1 14:22 
+21:6,7 26:22 
+46:18 47:17 50:16 
+56:4 
+
+justice 1:18 3:3,10 
+3:24 4:15,17 5:8 
+5:19,22 6:8,20,21 
+6:21,22 7:15,16 
+7:25 8:6,8,11,16 
+8:22 9:5,18,19,20 
+10:21 11:13,16 
+12:13 13:22 14:3 
+14:14,19,23 15:12 
+15:15,18 16:15,19 
+16:23,24 17:5,11 
+17:22 18:1,14,16 
+18:20 19:10,20,21 
+20:5,9,12,22 21:1 
+21:9,14,18,19 
+22:23 23:6,17 
+24:21 25:5,15 
+27:1,9,11,18 28:2 
+28:7,8,23 29:2,4 
+29:15,18 30:6,16 
+31:7 32:10 33:18 
+34:1,23 35:10 
+36:4,7,12,17 37:2 
+37:19 38:12,14 
+39:3,21,24 40:5 
+40:10,18,21,22 
+41:3,6,16 42:3,14 
+42:19 43:2,20 
+44:10,15,19,23 
+45:3,7,17,20,23 
+45:24 46:8,17,20 
+47:1,11,16 48:3 
+48:16 49:5,10,11 
+50:2,25 51:17 
+
+Alderson Reporting Company
+ 
+
+meant 18:9 57:16 
+looked 52:11 53:12  mechanism 39:11 
+looking 22:7 37:15  medical 10:19 11:2 
+
+46:9 59:11,20 
+
+meaning 21:7 
+
+42:14 
+
+means 3:19 15:19 
+15:20 17:8 20:15 
+22:19 28:3,6 
+29:25 37:6 
+
+Page 66 
+
+nature 23:18,19 
+necessary 4:18 
+
+30:18 31:8 
+
+need 16:3 31:10 
+
+34:19 50:18 53:7 
+
+needed 46:22 
+negative 17:21,24 
+neutral 39:14,18,25 
+
+40:1,14 41:9 
+44:12 
+
+never 28:13 51:11 
+
+11:23 13:17,21 
+19:8 21:25 22:14 
+22:16,20 26:21,25  new 1:20 30:17 
+48:1,5 
+
+53:19 
+
+56:6 
+
+meet 9:25 
+newark 59:22 
+men 26:15 30:22,25  newport 13:14 
+
+news 13:15 30:12 
+
+30:12 33:12 57:1 
+57:11 
+
+31:6 33:14 35:22 
+37:11,16 44:3 
+mentioned 30:1 
+mich 1:15 
+middle 34:24 
+mimic 53:2 
+minute 8:6 
+minutes 55:20 
+mischaracterizat...  nonpregnancyrel... 
+
+nine 55:5 
+nonoccupational 
+40:25 41:8,15,16 
+44:13,21 
+
+33:12 57:1,11 
+
+47:4 
+
+13:12 22:20 
+
+misimpression 4:20  nonpregnant 8:14 
+13:2 30:3 37:17 
+missed 4:4 
+month 27:3,7,20 
+44:9 54:17 57:6 
+months 18:24 
+59:10 
+morning 3:4 
+motivated 34:15,20 
+17:8,14,19 
+mountain 7:2 24:8  notice 52:19 
+
+nonworkrelated 
+
+Official 
+
+language 32:11 
+
+long 7:20 14:3 
+
+36:7,8,18,18 37:3 
+37:6,7 53:2 
+
+large 5:12 8:20 
+
+13:18 14:11 
+
+late 29:12 50:22 
+laughter 15:17 
+law 21:5 26:12 39:6 
+
+46:7 55:3 59:19 
+
+laws 52:13 
+lead 37:16 42:10 
+leads 56:19 
+leave 48:23 53:15 
+left 49:13 
+legal 32:7 44:17 
+legislative 17:12,17 
+
+17:20 
+
+legitimate 35:1,2 
+38:23,25 43:22 
+55:16 
+
+48:25 
+
+longstanding 38:11 
+look 11:4 15:24 
+
+33:14 35:21 37:8 
+37:11,14 47:19 
+50:11 54:20 57:3 
+58:16 
+
+40:13 53:4 
+loose 37:24 
+lose 15:25 28:17 
+
+33:21 47:2 51:18 
+51:21,24 52:3 
+59:20 
+
+lot 15:19,21,21,25 
+
+16:21 45:25 
+lots 10:8 45:3 
+
+M 
+
+liability 24:14 
+license 52:3 
+licenses 51:19 
+lift 10:4,5,7 38:16  male 47:25 
+man 45:7 
+
+m 1:13 3:2 60:9 
+making 33:13 
+
+48:6 51:5 
+
+lifting 3:12,16 4:1  manager 56:20 
+managers 56:6 
+5:4 7:4 10:2,10 
+15:9 28:20 46:22  manual 28:20 
+marginal 53:25 
+56:12 
+
+light 5:11 21:2 47:7  martin 47:22 
+47:24 49:25 51:6  martins 51:11 
+material 4:10 
+56:17 
+matter 1:11 13:1 
+14:4 16:8 39:4 
+60:10 
+
+lightduty 51:25 
+
+52:2 55:13 
+
+mcdonnell 23:23 
+
+limit 48:19 
+limitation 6:18 
+
+10:16 18:3 24:13 
+32:12 
+
+limitations 4:8 
+
+22:21 
+
+52:21 53:21 54:15 
+54:23 55:1,6,19 
+55:25 56:2,14 
+57:12 58:5,7,14 
+58:18 59:7,13,13 
+59:21,25 60:7 
+
+justify 54:6 
+
+K 
+
+kagan 9:19 11:16 
+21:19 29:15,18 
+30:6,16 31:7 
+32:10 34:23 35:10 
+38:14 40:18,21 
+41:3,6,16 42:19 
+43:2,20 44:10,15 
+44:19,23 45:3,7 
+45:24 53:21 57:12 
+59:14,25 
+keep 60:2,3 
+kennedy 3:24 4:17 
+20:22 21:1 22:23 
+27:1,9,11 49:10 
+
+key 29:24 31:14 
+
+35:11 
+
+kind 7:7 9:9,12 
+
+20:13 23:19 31:12 
+40:6 43:21,23 
+49:25 
+
+kinds 7:19,19 12:11 
+
+24:6 25:21 
+
+knee 49:23 
+know 6:3 7:2,8,16 
+7:17 9:7,8 16:3 
+19:19 20:15 21:1 
+25:1 26:10 28:5 
+38:12 39:5 43:20 
+47:11,17 48:17 
+53:23 57:16,24 
+59:16,17,23 
+
+knowledge 60:4 
+known 18:4 
+knows 16:2 
+
+L 
+laid 33:12 
+
+38:21 
+
+moving 48:24 
+muck 39:6 
+
+23:25 24:11 25:7 
+32:15,21 35:15 
+38:14 39:10 41:21  n 1:20 2:1,1 3:1 
+54:7,10 
+
+N 
+
+name 48:9 
+narrow 19:1,2,5 
+
+notwithstanding 
+
+32:19 
+
+number 3:13 15:1 
+15:3 18:23 52:4 
+
+O 
+
+o 2:1 3:1 
+obligations 32:7 
+obviously 14:6 15:1 
+
+17:24 
+
+line 36:2 42:2 54:4  mean 3:20 4:2,17 
+5:24 6:22 11:20 
+lines 57:17 
+11:21 17:25 18:2  nation 7:8 13:23 
+listed 23:7 
+20:14,15 24:13 
+literally 12:15 
+28:3 32:1 33:19 
+logic 30:15 35:21 
+34:19 40:5 42:5 
+
+nations 5:19 
+
+49:20 
+
+36:24 
+
+16:15,16,22 46:10  occasionally 10:7 
+46:11,13 59:15 
+
+occupational 41:14 
+
+44:21 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 67 
+
+45:10 51:5 
+
+persons 9:16 11:24 
+12:14 22:21 29:25 
+31:15 35:12 57:6 
+
+petition 22:10 
+petitioner 1:4,16 
+
+1:19 2:4,8,14 3:8 
+18:19 28:21 29:5 
+31:22 32:4 33:25 
+34:17 38:8 41:25 
+42:17 46:3,15 
+48:11 49:6 50:14 
+50:21 53:6 55:23 
+
+petitioners 19:15 
+31:20 34:8 49:6 
+51:2 
+
+37:8,14 39:14,15 
+39:19 40:1,2,14 
+40:15,23 41:4,9 
+41:13 42:21 43:21 
+43:23 44:2,12,18 
+44:24 45:1,9,11 
+45:14 47:7,9 
+48:21 52:13 54:3 
+54:6,19,25 55:4 
+57:15,17 59:4 
+
+position 4:11 5:15 
+6:10,19 19:10,15 
+19:16 20:20,22,25 
+21:2 46:10 52:10 
+59:14 
+
+postal 19:11,18,22 
+
+26:21,24 
+
+pregnant 5:6,17,25 
+
+6:6 8:1 10:16 
+13:1,3,9,20 14:12 
+15:10,22,23,24 
+16:9,10,12 18:25 
+19:19 24:25 27:4 
+27:6,15,23 30:2 
+31:4,5,10,25 35:6 
+36:20 38:16 40:2 
+41:9 42:8 43:6 
+44:8 46:23 47:13 
+50:5 53:14,16,25 
+54:4,17,20 55:4 
+56:17 57:5 59:16 
+59:25 60:5 
+
+52:11 55:12 
+
+phrase 22:24 
+physical 28:18 52:4  practical 37:22 
+practices 19:22 
+place 10:8 52:14 
+plain 5:15 16:12 
+precisely 7:4 10:15  pretty 50:6 
+
+present 24:22 
+presented 15:5 
+pretext 33:3 38:23 
+
+p 3:1 
+packages 10:5 
+
+48:15,25 
+
+page 2:2 22:9,10 
+
+47:9 48:2 51:9,9 
+51:10 52:2 
+pages 28:21 
+paid 38:17,18 
+parcel 1:6 3:5 
+
+19:14 
+
+pardon 39:23 
+part 39:7,7 40:8 
+
+59:17 
+
+particular 7:14 
+particularly 7:2 
+8:14 24:17 25:3 
+
+pass 7:2 38:21 
+payment 55:10 
+pda 3:19 9:13,13 
+
+11:11 15:1 18:3,7 
+18:11 38:9 39:15  parts 39:8 
+47:10 49:8 55:1 
+
+occupy 12:21 
+offduty 58:11 
+offers 24:1 
+offthejob 5:2 13:4 
+
+15:6 18:3,7,11 
+38:10 47:23 48:13 
+48:17,18 49:3,18 
+49:23 55:2 56:8 
+57:19,20 
+
+oh 20:9,12 24:24 
+okay 17:6 30:18 
+old 30:17 
+once 12:20 
+ones 23:14 
+onthejob 4:25 
+
+opening 56:22 
+operates 26:13 
+opined 53:4 
+opinion 16:18 
+
+59:21 
+
+opposed 39:5 
+opposite 35:10 
+
+50:18 
+
+oral 1:11 2:2,5,9 
+3:7 18:17 28:25 
+order 23:24 30:15 
+33:7 37:4 59:22 
+original 52:21,22 
+
+52:25,25 
+
+ought 32:15 35:17 
+outside 24:13 27:2 
+
+32:7 
+
+overruled 36:9,10 
+overrules 57:11 
+overturn 12:24 
+
+45:18 58:1 
+
+overturned 57:14 
+overturning 58:24 
+overturns 57:1 
+
+59:3,3 
+
+overweight 26:15 
+
+P 
+
+12:21 13:14 19:1  plaintiff 5:17 16:10  precluded 36:24 
+25:11 43:15 44:16 
+16:12 31:23 33:20  preempted 53:16 
+44:18,22 45:15 
+37:23 41:19 47:7  preferential 42:11 
+46:5 53:16,17,22 
+53:23 54:8 56:25  play 36:25 50:22 
+please 3:10 18:21 
+
+plan 53:3 
+
+peggy 1:3 3:11,15 
+
+53:14 
+
+prevent 28:18 
+prevented 49:3 
+prima 48:11 
+primarily 55:9 
+
+5:5 15:7,10 39:20 
+
+28:2 29:3 
+
+people 4:24 5:10 
+
+plus 28:15 54:21 
+
+8:17 10:3,7 12:16  point 4:18 5:4 7:12 
+12:18 13:1,2 
+22:11 25:20 27:14 
+27:19 28:16 32:18 
+32:19 35:5 38:17 
+40:3 45:25 46:24 
+50:4,8,9 54:17 
+56:8 58:11,11 
+59:9 
+
+10:15 16:7 18:2 
+18:22 24:16 25:14 
+26:6,10 31:19 
+33:1 35:4 38:13 
+45:25 47:21 50:24 
+52:17 53:9 56:5,7 
+56:23 58:4 
+
+pointed 5:12 15:8 
+
+perfectly 41:12 
+perform 39:16 
+48:21 52:4,5 
+
+45:24 
+
+points 23:17 32:20 
+35:14 41:25 58:5 
+
+period 37:20 51:23  police 59:22 
+permissible 22:4 
+
+pregnancy 3:17,21  prime 41:23 
+
+43:17 
+
+53:10,22 
+
+23:10 26:4 
+
+process 52:15 
+
+problem 7:8 8:3 
+
+4:1,4,11 6:12 9:14  principles 30:13 
+10:17 11:2,12,22 
+12:3 13:8 16:14 
+18:22 22:15 24:23 
+25:23 27:24 28:12  proceedings 50:3 
+28:18 30:7,9,14 
+30:21,24,25 31:2 
+32:24 33:21 34:4  produce 37:4 
+34:20 35:18,22,23  produced 36:12 
+productive 55:15 
+36:6,11,15 37:9 
+37:15,20 38:6 
+prohibit 11:7 
+41:7 43:18 44:2,5  prohibits 6:16 11:6 
+45:2,4,15 47:8 
+promotions 26:14 
+48:1 52:18 53:18 
+57:4,7,22,23 
+58:21,23,25 
+
+propose 29:23 
+proposition 49:6 
+
+26:15 
+
+pregnancyneutral  protect 26:18,18,19 
+
+44:22 46:5 
+permits 38:9 
+person 12:2 23:5 
+
+24:9,17 32:2 
+
+policy 12:9 13:1,5 
+16:8 18:6 19:12 
+19:13 20:18 27:4  pregnancyrelated 
+29:5 30:5 31:1 
+35:1,2,23 36:14 
+
+57:18 
+
+12:12 13:11,16,20 
+19:8 21:25 22:14  prove 23:24 56:15 
+
+34:19 
+
+26:20,20,23,24 
+
+protected 34:12,15 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+32:2 34:9,21 
+42:16,17 
+
+reading 10:23 
+
+53:15 
+
+rejected 3:18 
+relate 34:8 
+
+12:14 17:11 21:13  related 9:15 10:16 
+21:14 23:3 29:18 
+29:23 53:23 54:7 
+57:15 
+
+11:2,23 22:16 
+48:1 
+
+relevant 33:10 
+
+reads 42:18 
+real 47:4 
+realized 42:15 
+realizes 43:1 
+really 4:19 12:15 
+
+34:5 50:25 51:3,6 
+56:14 59:15 
+
+reason 13:3 23:2 
+
+30:14 32:23 33:8 
+34:8 35:16 37:2 
+38:1 43:7 
+
+50:13 
+
+relieved 17:22 
+religious 19:4 
+remaining 55:21 
+remember 12:7 
+
+14:21 
+
+remove 56:10,11 
+removing 53:24 
+repeatedly 17:13 
+reprices 58:3 
+repudiate 30:15 
+
+reasonable 11:14 
+
+35:21 
+
+23:8,14 
+
+reasonableness 
+
+9:25 
+
+reasoning 38:2 
+
+57:2 58:24 
+
+request 3:18 
+require 27:16 
+34:13 48:19 
+
+required 5:16 9:24 
+
+36:19 48:22 
+
+rebuttal 2:12 51:3 
+
+requirement 18:11 
+
+proven 23:23 
+provide 4:24 6:11 
+7:14 15:2 16:11 
+29:6,7 40:23 41:6 
+55:13,15 
+
+provided 10:11,13 
+
+48:9 53:13,15 
+
+provides 5:1 8:13 
+8:19 13:19 14:10 
+15:4 16:7 32:16 
+38:5 39:11 
+
+providing 14:8,9 
+
+36:14 39:11 
+provision 9:21 
+
+13:23 19:4 23:19 
+30:7 
+
+pulled 49:23 
+purpose 59:24 
+purposes 19:13 
+pursuant 51:21 
+put 35:3 39:4 
+puts 33:21 54:4 
+
+Q 
+
+qualified 38:19 
+qualify 28:13 
+question 8:6,23 
+
+55:22 
+
+receive 6:13 
+
+9:22 21:2,18 26:2  record 3:14 4:7,23 
+26:7 27:21 28:3 
+5:1 14:14,19,21 
+32:11 33:10 35:4 
+14:24 15:5 46:22 
+42:19 44:11 46:13 
+47:5,21 48:10,12 
+51:15 52:18 53:12 
+49:15 50:21 56:6 
+59:7 
+56:8 
+
+quite 8:25 11:17 
+
+35:10 40:15 
+
+R 
+
+recreational 56:16 
+red 51:10 
+reduce 18:23 
+redundancy 31:13 
+
+31:16 
+
+31:17 
+
+redundant 31:14 
+
+r 1:15 2:3,13 3:1 
+radically 42:4 
+raises 32:11 
+rank 32:7 
+reflects 3:14 26:17 
+raytheon 36:3 
+regard 52:6 54:13 
+reaches 38:2 
+regardless 21:15 
+read 5:22,23 9:18 
+rehabilitating 
+9:20 11:14 12:15 
+12:15,16,18 13:13  reinstatement 
+
+55:15 
+
+19:3 
+
+requires 6:11 14:6 
+
+27:14 55:10 
+reserve 18:13 
+respect 7:21 20:18 
+
+respond 31:18 
+respondent 1:21 
+2:11 17:21,23 
+29:1 
+
+response 12:8 18:1 
+
+23:17 26:6,8 
+restated 21:20 
+restricted 48:5 
+restriction 3:12,16 
+
+4:1 5:5 15:10 
+32:5,6,6 
+
+restrictions 10:2 
+result 5:3 18:25 
+
+Page 68 
+
+57:3 58:9,15,22 
+scalia 5:19,22 6:8 
+7:15 13:22 14:3 
+14:14,19,23 16:15 
+16:23 17:22 20:5 
+20:9,12 21:9,14 
+49:5,11 
+
+scalias 8:6 18:1 
+second 3:19 9:13 
+9:13 10:6,12,22 
+12:21,24 18:25 
+19:2 21:24 23:18 
+24:16 26:6,10 
+29:24 30:13 33:9 
+33:11,24 34:2,16 
+35:20 37:22 38:1 
+38:4,5,8 42:17 
+43:13 56:23 57:8 
+57:10 58:8,9 59:2 
+
+secondly 50:15 
+sector 20:18 
+see 7:6,17 8:22,22 
+
+55:18 
+
+seeds 8:10 
+seeks 3:20 
+seen 6:23 
+selfish 15:16 
+semicolon 29:19 
+31:13 36:8,9,18 
+36:19 37:3,6,8 
+senior 6:3 32:25 
+seniority 6:18 
+
+16:25 22:2 27:25 
+32:7,12 35:2 
+
+sense 14:25 16:17 
+
+57:23 
+
+sensible 23:3 
+sentence 25:10 58:8 
+
+58:9 
+
+21:24 28:17 36:13 
+37:4 38:3 41:8 
+44:3 45:21 46:2 
+resulted 3:12,16 
+results 42:11 
+retains 19:18 
+return 18:1 58:4 
+reverse 58:8 
+revolves 28:5 
+rewrite 31:21 
+right 4:22 8:5,18 
+
+13:25 14:2,4 
+16:23 21:10,13 
+32:11 36:16 42:6 
+43:23 46:11 50:4 
+59:12 
+
+rights 36:4 53:16 
+roberts 3:3 6:21 
+18:14,16 24:21 
+27:18 28:7,23 
+55:19 60:7 
+route 24:18 
+rule 21:21 27:2 
+58:3,3 59:5,23 
+
+rules 7:19 
+rushed 52:16 
+
+S 
+
+s 2:1 3:1 16:2 19:11 
+
+saying 7:20 10:25 
+11:3,4 12:1 17:6 
+30:16,19,20 34:1 
+34:5 41:11 44:12 
+44:24 54:2,5,9,11 
+54:12 
+
+says 9:14 11:9,22 
+
+separate 27:19 
+13:10 15:23 16:13  service 1:6 3:5 
+17:18 22:10,11,14 
+22:17 25:1 28:21 
+30:7 32:17,22 
+37:20 38:20 39:15 
+42:9 44:4 54:15 
+
+19:11,14,18,22 
+52:11 55:12 
+set 8:15 42:24 
+
+sets 20:17 35:15 
+
+51:10 
+
+55:12 
+21:11 23:20 24:15  sake 5:9 
+32:20 43:9,11 
+44:12 52:7 
+
+3:7 55:22 
+
+samuel 1:15 2:3,13 
+
+Alderson Reporting Company
+ 
+
+showing 41:23 
+shows 5:1 38:16 
+sickness 40:25 41:8  space 12:22 
+
+solicitor 1:17 51:15 
+somebody 45:8 
+
+53:17 
+
+56:15 
+
+settled 53:8 
+sex 30:8,8,22,24 
+31:3 33:16,22 
+34:3 35:24 37:10 
+37:13,17,20 43:18  sort 25:2 
+44:1,5 57:4,7 
+58:16,19,22,23 
+59:1 
+
+sorry 4:15 44:19 
+
+48:7 49:8 
+
+sotomayor 4:15 
+
+17:5,11 28:2 
+51:17 58:7,15,18 
+sought 3:11 10:18 
+sound 3:25 38:25 
+sounds 8:23 46:7 
+source 6:15,17 7:5 
+7:8 11:6,17 12:10 
+12:19 17:7 24:13 
+27:24 28:3,5,12 
+32:6,9,12 34:18 
+35:3 
+
+special 6:1,1 7:7 
+
+14:16 38:3 
+
+specific 26:8 56:7 
+specifically 38:6 
+
+47:24 
+
+sports 56:21 
+square 51:8 
+squarely 47:6 52:1 
+stage 47:17 
+standard 9:25 
+
+28:13 
+
+standing 42:6,10 
+starkest 24:22 
+start 4:3 23:6 
+started 4:19 
+starting 4:18 
+state 53:13 55:3 
+statement 17:17 
+statements 17:20 
+
+56:5 
+
+states 1:1,12,19 2:7 
+18:18 20:21 53:19 
+54:14 55:5 
+
+status 28:1 32:7 
+
+59:15 
+
+sexes 58:10 
+shape 9:8 
+shift 33:7 
+shouldnt 50:2 
+show 14:15,19,21 
+14:25 24:1 25:9 
+34:19 
+
+41:17 44:13 
+side 18:8 54:4 
+significance 38:4 
+significant 20:2,19 
+
+21:4 24:2,4 
+
+similar 5:5 6:13,14 
+9:16 11:25 14:12 
+15:6,9 16:9 22:13 
+24:19 30:4 31:15 
+35:5,13 41:1 43:1 
+
+similarly 32:19 
+41:24 42:1,21 
+simply 13:8 26:3 
+30:1 43:17 53:2 
+58:3 
+
+single 5:4 8:14,16 
+22:2 31:24 46:22 
+48:6 53:18 
+
+singled 45:2 54:20 
+singles 55:4 
+singling 45:12,14 
+
+55:6 
+
+situated 32:19 
+41:24 42:1,21 
+
+situation 8:4 12:25 
+small 8:18 14:4 
+socalled 39:5 
+
+Official 
+
+16:13 18:5 20:4 
+21:8,13 22:8,14 
+22:16,19 23:13 
+25:25 27:5,13 
+29:19 32:1,14 
+34:10,22 35:8,12 
+40:7 53:2,15 54:8 
+59:24 
+
+6:22,25 19:17 
+27:1 36:13 40:18 
+40:21,22 
+
+supposed 25:24 
+
+53:24,25 
+
+supreme 1:1,12 
+sure 33:23 36:22,23 
+
+54:20 
+
+statutes 53:13 
+statutory 6:10 
+
+surgery 45:10 
+sustain 49:18 
+10:23,25 11:21,22  sustained 29:8 
+12:7 13:10 21:19 
+23:3 
+
+39:17 47:23 48:13 
+49:2,22 
+
+stemmed 48:23 
+stereotypes 53:24 
+stevens 36:4 
+stood 53:6 
+stop 40:6 
+stopped 12:22 
+straightforward 
+
+29:23 50:20 
+strategic 53:3 
+strong 50:6 
+stuff 30:18 31:11 
+subject 54:10 
+submit 3:18 4:22 
+
+4:22 
+
+submitted 60:8,10 
+succeeded 29:11 
+suffered 48:16 
+sufficient 14:21,25 
+suggesting 31:23 
+
+32:5 33:11 50:18 
+suggests 34:17 38:8 
+42:17 46:3 49:15 
+53:6 
+
+suit 54:10 
+summary 3:14 4:7 
+4:23,25 5:1 14:21 
+46:18 47:17 50:16 
+56:4 
+
+superfluous 29:20 
+support 49:16 
+supporting 1:19 
+
+T 
+
+t 2:1,1 
+take 9:19 20:24 
+
+24:12 48:23 49:7 
+
+taken 30:9 35:17 
+
+52:10 
+
+takes 16:19 
+talk 29:16 
+talking 16:2 33:19 
+
+40:22 
+
+targeting 55:8 
+tasks 52:4 
+tell 23:15 25:24 
+
+30:18 44:11 
+telling 43:14 
+tells 43:3,3 
+terse 52:23 
+test 24:3 35:15 
+
+38:15 39:1 
+
+testified 56:21 
+testimony 47:21,22 
+
+49:1,17 51:11 
+
+text 5:15 6:11 
+
+10:23,25 11:21,22 
+12:1,7 13:10 14:6 
+16:13 18:2 21:20 
+23:3 34:18 54:8 
+textual 21:21 22:7 
+thank 3:9 18:15 
+
+28:22,23 55:19,24 
+60:6,7 
+
+thats 4:3,18,22 6:6 
+
+Page 69 
+
+9:2 11:12 12:3 
+13:7,13 14:2 
+16:17,23 17:3,9 
+19:23 20:2,19 
+21:13,16 22:18 
+23:2 24:5,6 25:1 
+25:15,15 26:1,2 
+26:12,22 27:10 
+30:4,18 33:5,18 
+36:25 37:5,19 
+38:10 39:17 40:5 
+40:20 41:12 42:9 
+43:2 44:5,24,24 
+45:15 46:6 47:1,4 
+49:13,13 50:5,6 
+51:13 54:12,12,25 
+55:2,2,3 56:12 
+57:6,7,8 58:24,24 
+59:18 
+
+theory 8:25 45:21 
+theres 4:9 5:10 
+
+8:16 15:1 17:17 
+19:5 24:14,16 
+25:12 31:3 44:1 
+47:20 48:9 49:12 
+51:7 54:3 59:8 
+theyre 42:1 43:1 
+50:4 52:5 58:16 
+thing 19:5 21:23 
+22:2 25:1 40:6 
+50:8 57:16 
+
+things 12:16 22:4 
+23:8 25:21 43:24 
+45:4 
+
+think 4:6,17 5:7 6:2 
+7:11,15 8:2,5 9:11 
+10:14 11:20 12:13 
+14:2,5,7,17,20,20 
+14:24 16:6 17:3 
+17:16 21:12,15,17 
+21:19,21,23 22:18 
+23:2,20,24 24:5,5 
+24:8,16 25:17 
+26:3 27:6 28:10 
+29:20 31:7,18 
+33:9 34:6 35:7,19 
+
+statute 5:15 6:16 
+
+2:8 18:19 
+
+11:14 13:14 15:19  suppose 5:13 6:20 
+
+Alderson Reporting Company
+ 
+
+37:6,7,21 38:15 
+39:9,13 40:11 
+44:15 47:4 56:14 
+56:22,24 57:12 
+58:7,14 59:5,13 
+59:14 60:2 
+thinking 14:8 
+
+32:15 
+
+third 49:9 59:21 
+thought 9:2 20:5 
+21:7 24:21 25:2 
+three 4:7,12 5:12 
+
+13:18 17:19 23:7 
+49:7,20,21 52:20 
+
+time 10:4,5 16:1 
+18:4,13 51:23 
+52:23 55:18 
+
+times 58:5 
+title 19:4 23:18 
+
+30:13 43:17 
+
+Official 
+
+53:14,18 
+
+treats 23:12 42:22 
+
+59:9 
+
+trial 50:3 56:13,15 
+truck 6:23 7:1,6 
+
+10:4 
+
+true 26:10 46:8 
+try 26:7 
+trying 12:24 40:6 
+44:1 52:12 57:25 
+
+wanted 26:6 47:12 
+
+washington 1:8,18 
+wasnt 19:10 31:10 
+
+unites 2:7 
+unsurprising 48:14  wants 44:4 
+untoward 42:11 
+upheld 12:9 
+upholding 59:4 
+ups 3:14,17 4:8,23  waterfront 4:10 
+4:23 5:1,3 13:18  way 4:3 5:23,23 
+15:2,4,8 29:5 
+48:14 51:3 52:11 
+56:4,6,20 
+
+8:24,25 13:2 14:8 
+19:2 32:14 33:3 
+33:11 43:16 56:19 
+
+33:24 38:17 
+
+turn 21:17 51:14 
+turned 49:23 
+turns 40:1 50:3 
+twist 9:7 
+use 25:18 
+two 10:1 15:3 16:22  uses 38:2 
+
+upss 30:5 48:21 
+
+56:3,3 57:15 58:3 
+59:5 
+
+ways 31:22 47:5 
+
+57:18 
+
+wednesday 1:9 
+week 7:22 
+weekend 51:5 
+
+23:16 24:8 31:22 
+34:7 37:24 40:9 
+42:16 43:24 52:8 
+56:24 59:9 
+
+56:16,19 
+weeks 52:8 
+v 1:5 3:4 12:8 18:6  weigh 21:4 
+
+V 
+
+57:2 
+
+valid 42:1 54:11 
+valuable 60:2,3,4 
+
+twothirds 54:8 
+types 9:23 24:22 
+typical 30:22 32:21  valued 60:1 
+various 58:5 
+typically 37:10 
+vasectomy 45:8 
+vehicle 9:9,11 51:4  woman 24:25 27:5 
+verrilli 1:17 2:6 
+
+weight 48:19 
+went 46:17 
+weve 22:8 
+whove 16:24 
+win 8:25 15:12 
+
+37:24 
+
+27:7 38:16 
+
+18:16,17,20 19:20  women 6:6 8:1 9:14 
+20:7,10,17,24 
+21:11,16 23:1,16 
+25:5 26:5 27:6,10 
+27:13,21 28:8 
+59:18 
+
+Page 70 
+
+8:21 9:17 10:3,20 
+11:5,25 12:6 13:3 
+14:13 15:4,7,8 
+16:10 17:8 19:9 
+22:2,3,12,13 
+23:12 30:4 31:16 
+32:20 34:16 35:13 
+37:22 38:6 48:1 
+49:24 53:22 55:14 
+55:15 58:13 60:4 
+
+worked 16:25 
+workers 6:11 10:12 
+10:13 22:19 23:10 
+23:10,12 46:7 
+53:25 54:3 55:10 
+59:16,25 
+
+workforce 18:24 
+working 53:10 
+workplace 6:17 
+
+54:2 
+
+workplaces 7:18 
+works 59:19 
+world 59:8 
+worry 58:9,10,15 
+
+58:18 
+
+worse 19:8 21:25 
+
+22:17 42:22 
+
+today 52:14 
+told 19:12 46:21 
+tracked 36:3 
+tracks 55:9 
+traditional 43:17 
+traffic 49:10 
+trait 34:15,20 
+traits 34:12 
+treat 5:16 13:11,12  unambiguous 42:7 
+
+u 16:2 19:11 55:12 
+unable 6:5 48:21 
+
+51:5 
+
+U 
+
+13:16 19:7 20:16  uncontroverted 
+47:20,20 49:1 
+21:25 30:2 32:25 
+50:17 
+36:19 42:21 43:8 
+53:7 59:25 
+
+understand 4:2 
+
+treated 9:15 11:24 
+
+12:10 13:1,2 
+18:10 22:17,18 
+27:14,15 37:11,12  understanding 
+41:24 46:14 58:12 
+59:10,11 
+
+11:17 34:7 
+
+understood 34:12 
+undisputed 48:12 
+unfairly 54:1 
+unfortunately 
+
+treating 13:20 
+
+32:23 
+
+treatment 5:20 
+
+16:19 
+
+6:12 8:21 11:13 
+14:16 23:22 25:4  united 1:1,6,12,18 
+3:5 18:18 19:14 
+34:21 36:1 39:12 
+20:21 
+39:22 40:8 42:11 
+
+versus 23:22 28:10 
+
+14:23 16:3 17:2,3 
+17:6 32:14 41:11 
+43:10 44:10 52:22  view 10:25 16:4 
+
+28:14,15 38:10 
+46:5 55:1 
+
+42:5 
+
+vii 19:4 23:18 30:13 
+
+43:17 
+
+violating 16:12 
+violation 3:18 
+
+25:13 27:5 
+
+W 
+
+want 4:3,3 9:7 16:5 
+
+46:4 53:9 
+
+43:11 54:1 59:5 
+write 15:19 16:18 
+
+11:22 13:9 15:22  worst 59:12 
+15:23,24 16:13 
+worth 20:16 
+18:23 19:19 22:14  wouldnt 29:21 
+22:15 26:14,16,20 
+30:22,25 31:4,5 
+33:14 35:22 36:20 
+37:11,15,18 40:2  writing 15:20 
+41:9 42:8 44:3 
+written 16:1 
+47:13 53:25 54:4  wrong 34:23 44:11 
+55:4 56:17 57:5 
+60:5 
+
+47:8 57:6 
+
+17:15 
+
+wont 44:3 
+word 23:9 34:17 
+words 15:20 16:4 
+17:1 22:12,15,25 
+29:24 31:14,22 
+32:8,16 34:10,12 
+35:8,8,11 36:25 
+work 5:11 6:4,14 
+
+X 
+
+x 1:2,7 
+
+Y 
+
+y 1:20 
+years 16:25 53:8 
+york 1:20 
+youd 24:8 54:22 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+Page 71 
+
+4 16:25 
+400 50:7 
+
+4 
+
+5 
+
+5 51:10 
+55 2:14 
+56a 48:2 51:9 
+59a 47:9 52:2 
+
+6 28:21 
+
+6 
+
+7 
+
+7 28:21 
+70pound 48:25 
+79 52:25 53:1,1 
+
+8 
+
+9 
+
+young 1:3 3:4,11 
+15:7,10 19:23 
+39:20 49:25 52:5 
+
+youngs 3:16 5:5 
+
+46:9 
+
+youre 7:22 12:13 
+
+16:16 17:5,11 
+24:9 40:13 44:12 
+44:24 58:22 
+
+youve 6:23 23:7 
+
+24:1 
+
+Z 
+
+0 
+
+000 7:22 50:7 
+05 1:13 3:2 
+07 60:9 
+
+1 
+
+1 7:22 
+10 1:13 3:2 
+11 60:9 
+12 22:9 
+121226 1:4 3:4 
+13 22:9 
+18 2:8 
+180degree 52:9 
+19 50:9 
+1979 53:5 
+1991 36:3 
+
+2 
+
+2 19:24 
+2012 52:16 53:3 
+2014 1:9 20:23,25 
+
+21:3 52:23,24 
+53:5 
+
+20pound 3:12,16 
+28 2:11 
+
+3 
+
+3 1:9 2:4 
+30 53:8 
+35a 51:9 
+36a 52:2 
+
+Alderson Reporting Company
+ 
+
+

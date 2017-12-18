@@ -1,0 +1,28653 @@
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+1 
+
+       
+
+IN  THE  SUPREME  COURT  OF  THE  UNITED  STATES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+                                 
+
+UTAH, 
+
+                             
+
+: 
+
+            
+
+Petitioner 
+
+               
+
+:  No.  14­1373 
+
+ 
+
+       
+
+v. 
+
+                         
+
+EDWARD  JOSEPH  STRIEFF,  JR. 
+
+ 
+
+ 
+
+ 
+
+        
+
+: 
+
+: 
+
+­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ x 
+
+                                 
+
+                       
+
+Washington,  D.C. 
+
+ 
+
+                       
+
+Monday,  February  22,  2016 
+
+ 
+
+ 
+
+ 
+
+              
+
+The  above­entitled  matter  came  on  for  oral 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argument  before  the  Supreme  Court  of  the  United  States 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+at  11:05  a.m. 
+
+ 
+
+ 
+
+APPEARANCES: 
+
+TYLER  R.  GREEN,  ESQ.,  Solicitor  General,  Salt  Lake  City, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Utah;  on  behalf  of  Petitioner. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JOHN  F.  BASH,  ESQ.,  Assistant  to  the  Solicitor  General, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+   
+
+Department  of  Justice,  Washington,  D.C.;  for  United 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+States,  as  amicus  curiae,  supporting  Petitioner. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JOAN  C.  WATT,  ESQ.,  Salt  Lake  City,  Utah;  on  behalf  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Respondent. 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+                                   
+
+C O N T E N T S 
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+                                  
+
+TYLER  R.  GREEN,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+2 
+
+PAGE 
+
+   
+
+On  behalf  of  the  Petitioner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+3 
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+JOHN  F.  BASH,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+   
+
+For  United  States,  as  amicus  curiae, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+supporting  the  Petitioner 
+
+ 
+
+ 
+
+                        
+
+18 
+
+ORAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+JOAN  C.  WATT,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  the  Respondent 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+28 
+
+REBUTTAL  ARGUMENT  OF 
+
+ 
+
+ 
+
+TYLER  R.  GREEN,  ESQ. 
+
+ 
+
+ 
+
+ 
+
+   
+
+On  behalf  of  the  Petitioner 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                      
+
+54 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+3 
+
+                                      
+
+P  R  O  C  E  E  D  I  N  G  S 
+
+                                           
+
+(11:05  a.m.) 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  We'll  hear  argument 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+next  in  Case  14­1373,  Utah  v.  Strieff. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Mr.  Green. 
+
+ 
+
+             
+
+ORAL  ARGUMENT  OF  TYLER  R.  GREEN 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ON  BEHALF  OF  THE  PETITIONER 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Mr.  Chief  Justice,  and  may  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please  the  Court: 
+
+ 
+
+ 
+
+            
+
+Courts  typically  apply  the  exclusionary  rule 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  suppress  unlawfully­seized  evidence.  The  question 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+here  is  whether  to  suppress  evidence  lawfully  seized  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  search  incident  to  a  warrant  arrest  because  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+arresting  officer  found  the  warrant  in  a  stop  later 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+judged  to  be  unlawful. 
+
+ 
+
+ 
+
+ 
+
+            
+
+Under  this  Court's  attenuation  analysis, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+such  evidence  is  admissible  when,  as  here,  the  predicate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stop  was  not  flagrant  but  resulted  from  an  objectively 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasonable  miscalculation. 
+
+ 
+
+            
+
+            
+
+Extending  the  exclusionary  rule  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  Tell  me  what  was 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+objectively  reasonable  about  it. 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  GREEN:  Well,  Your  Honor  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  I  mean,  the  police 
+
+    
+
+ 
+
+ 
+
+ 
+
+officer  admits  that  the  person  he  saw  coming  out  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+4 
+
+house  in  question  wasn't  doing  anything.  He  didn't  know 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  he  lived  there,  he  didn't  know  what  he  had  done,  if 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anything.  He  didn't  even  really  know  that  there  was 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+drug  dealing  going  on  in  the  house.  He  was  trying  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+figure  that  out.  So  what  was  objectively  reasonable 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  stopping  this  man? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Justice  Sotomayor,  we've 
+
+  
+
+ 
+
+ 
+
+ 
+
+admitted  that  this  was  a  miscalculation,  but  it  was  a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+close  call.  If  the  officer  here  had  stopped  the  first 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+person  coming  out  of  the  house  after  receiving  the  tip, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  would  have  been  objectively  unreasonable  under  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court's  case  and  decision  in  Alabama  v.  White. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  this  person  wasn't  the  first  person  he 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+saw  come  out  of  the  house.  He  had  received  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anonymous  tip  and  then  had  proceeded  to  corroborate  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+through  three  hours  of  surveillance  and  observation  over 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  course  of  the  ensuing  week.  And  all  of  the  traffic 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+he  saw  during  those  three  hours  was  the  same  short­stay 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+traffic  that  was  reported  in  the  tip. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Based  on  his  training  and  experience,  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+activity  was  consistent  with  drug  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  It  would  be  interesting 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+if  he  waited  to  see  whether  this  was  also  a  short­stay 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+visitor. 
+
+            
+
+MR.  GREEN:  I  think  he  would  have  ­­
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+5 
+
+            
+
+JUSTICE  SOTOMAYOR:  I  don't  see  how  this  is 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+any  different  than  stopping  the  first  person  you  see. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  I  think,  Your  Honor,  as  ­­ as 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we've  admitted,  I  think  if  he  had  seen  it  and  it  were 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+short  stay,  I  think  we  may  well  beat  the  reasonable 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suspicion,  and  I  think  that's  why  the  prosecutor  here 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+conceded  that  it  wasn't. 
+
+ 
+
+ 
+
+ 
+
+            
+
+But  it  was  a  close  call  based  on  everything 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  he  had  seen  to  that  point.  And  in  these 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+circumstances,  we  think  that's  why  ­­ where  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+predicate  conduct  was  a  result  of  ­­ of  misconduct  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+was  not  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  What's  going  to  stop 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+police  officers  ­­ if  we  announce  your  rule,  and  your 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rule  seems  to  be,  once  we  have  your  name,  if  there's  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant  out  on  you,  that's  an  attenuating  circumstance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+under  every  circumstance.  What  stops  us  from  becoming  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+police  state  and  just  having  the  police  stand  on  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+corner  down  here  and  stop  every  person,  ask  them  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+identification,  put  it  through,  and  if  a  warrant  comes 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+up,  searching  them? 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  I  think  ­­ Justice  Sotomayor,  I 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  there  are  two  answers  to  that  question.  First,  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  that  our  rule  ­­ an  officer  can  never  count,  under 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+our  rule,  on  finding  a  warrant.  So  there  is  no 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+6 
+
+incentive  for  him  to  make  that  stop.  If  there's  no 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant  and  the  stop  is  lawful  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Well,  if  you  have  a  town 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+like  Ferguson,  where  80  percent  of  the  residents  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+minor  traffic  warrants  out,  there  may  be  a  very  good 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incentive  for  just  standing  on  the  street  corner  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ferguson  and  asking  every  citizen,  give  me  your  ID;  let 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+me  see  your  name.  And  let  me  hope,  because  I  have  an  80 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+percent  chance  that  you're  going  to  have  a  warrant. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  I  understand,  Your  Honor.  And 
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+that's  the  second  part  of  my  answer,  is  that  officers 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can't  count  ­­ under  our  rule,  a  warrant  by  itself  is 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  sufficient.  There  still  must  be  a  separate  inquiry 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+into  whether  the  predicate  stop  was  flagrant,  and  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+officer  can't  count  in  any  particular  stop  on  a  judge 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+later  concluding  that  the  stop  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  But  I  assume,  Mr.  Green, 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+that  there  are  a  variety  of  circumstances  in  which 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+police  officers  would  really  like  to  talk  to  somebody 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  really  like  to  search  them  but  don't  have  reasonable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suspicion.  And  I  think  that  the  question  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Sotomayor  is  asking  is  if  you're  policing  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+community  where  there  is  some  significant  percentage  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  who  have  arrest  warrants  out  on  them,  it  really 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  increase  your  incentive  to  ­­ to  make  that  stop  on 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+7 
+
+the  chance  that  there  will  be  a  warrant  that  will  allow 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  to  search  and  admit  whatever  evidence  you  gained  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  search. 
+
+ 
+
+            
+
+MR.  GREEN:  What  ­­ Justice  Kagan,  I  don't 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+think  so.  I  think,  again,  if  the  ­­ if  the  inquiry 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+turns,  as  it  does,  on  not  only  on  finding  a  warrant,  but 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+then  a  determination  of  whether  the  stop  was  flagrant, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  officer  has  no  guarantee  before  he  makes  the  stop 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  a  judge  will  later  conclude  the  stop  was  not. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Well,  but  this  is  an  officer 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+who  ­­ you  say  this  is  a  close  call.  So  let's  say  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  are  close  calls.  But  you  don't  think  you  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasonable  suspicion,  or  you  think  you  maybe  do  if  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+find  a  good  judge  out  there,  but  ­­ but  you  ­­ there  is 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  reason  why  you  want  to  talk.  So  this  is  not  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flagrant  violation.  This  is  not  a  dragnet  search  or 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  like  that.  But  you  ­­ if  ­­ if  ­­ I  mean,  it 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  change  your  incentives  quite  dramatically,  it  seems 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  me,  if  you're  policing  a  community  where  there  is 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  significant  percentage  of  people  who  have  arrest 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants. 
+
+            
+
+MR.  GREEN:  Justice  Kagan,  I  think,  with 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+respect,  it  doesn't.  Officers  know  that  the  only 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+surefire  way  ­­ the  incentive  is  always  to  comply  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  Fourth  Amendment.  That's  the  only  way  they  can  be 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+8 
+
+sure  that  the  evidence  they  are  gathering  is  later  used 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  a  prosecution. 
+
+   
+
+            
+
+JUSTICE  KAGAN:  That's  the  only  way  they  can 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be  absolutely  sure.  But  ­­ but  here,  there's  ­­ there's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  chance  that  they're  going  to  find  the  arrest 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant  and  then  they're  going  to  be  able  to  admit  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+evidence  that  they're  going  to  get,  whereas  before, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  was  none.  And  that  some  chance  is  not  like  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+once­in­a­blue­moon  kind  of  chance.  In  these  very 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+heavily­policed  areas,  it's  ­­ I  mean,  I  was  staggered 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+by  the  number  of  arrest  warrants  that  are  out  on  people. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+So  it's,  you  know,  a  significant  possibility  that  you're 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  to  find  an  arrest  warrant  and  be  able  to  admit 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whatever  drugs  or  guns  or  whatever  it  is  you  find. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Well,  I  think,  Your  Honor,  in 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  circumstances,  that's  where  the  flagrancy  inquiry 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actually  does  the  work  of  deterrence.  Because  as  this 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court  has  explained,  to  be  appropriate,  suppression  must 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+yield  appreciable  deterrence.  There  may  be  some 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+additional  marginal  deterrence  that  suppressing 
+
+ 
+
+ 
+
+ 
+
+ 
+
+everything  following  an  event  like  this  would  yield,  but 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  never  been  enough  under  this  Court's  precedence. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Don't  you  think  it's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+enough  of  a  deterrence  to  say  to  a  police  officer  in 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  situation,  you  should  have  reasonable  suspicion? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+9 
+
+You  know  the  Fourth  Amendment  requires  it.  So  before 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  do  an  intrusive  act  demanding  identification,  you  do 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  you're  permitted  to  do,  which  is  just  to  ask  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+person  whether  they'll  talk  to  you.  Don't  you  think 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  that  would  improve  the  relationship  between  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+public  and  the  police?  Wouldn't  that  be  the  appropriate 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+encouragement  we  would  give,  if  we  don't  let  police  do 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+these  things  in  questionable  situations? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Well,  Your  Honor,  I  think  that's 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  the  ­­ the  existing  rule  on  the  exclusionary  rule 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+itself  does.  It  encourages  officers  to  comport  with  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fourth  Amendment.  This  applies  to  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  We're  begrudging  them 
+
+  
+
+ 
+
+ 
+
+ 
+
+now  from  doing  that.  We're  saying  if  you  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+questionable  probable  cause,  go  ahead  and  do  it  because 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we're  not  going  to  make  you  take  that  extra  step  of  just 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+merely  stopping  someone  and  saying,  will  you  talk  to  me, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please. 
+
+            
+
+MR.  GREEN:  No.  I  don't  think  so,  Your 
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Honor.  I  think,  again,  because  there  are  two  predicate 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+steps  that  must  be  ­­ that  must  happen  before  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+exception  would  apply.  And  the  officer,  before  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stop,  can't  count  on  either  one.  That's  why  when  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+when  we  are  talking  about  conduct  here  that  is  ­­ that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  admittedly  a  violation  of  the  Fourth  Amendment,  but 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+10 
+
+low  culpability,  that's  where  the  ­­ the  additional 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+marginal  deterrence  that  would  come  from  suppression 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doesn't  do  its  work. 
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+And  with  respect  to  the  particular  type  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intervening  circumstance  here,  this  is  a  ­­ a  compelling 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+intervening  circumstance  of  the  type  that  this  Court 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+identified  in  its  ­­ in  its  holding  in  Johnson  v. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Louisiana.  This  ­­
+
+  
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  Mr.  Green,  you  make  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+point  that  a  person's  name  is  not  suppressible,  and 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+evidence  derived  from  just  knowing  the  name  is  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suppressible.  If  you're  right  about  that,  then  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+police  could  stop  anyone  and  say,  whether  I  have 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasonable  suspicion  or  not,  I  want  to  know  your  name  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  that's  not  suppressible  ­­ then  does  the  warrant 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+check,  which  you  say  is  intervening  circumstance.  So  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+seems  that  your  argument  is  ­­ is  arming  the  police  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+asking  every  person  what  is  your  name  and  doing  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant  check. 
+
+ 
+
+            
+
+MR.  GREEN:  Well,  Your  Honor,  it  is,  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+course,  that's  one  of  the  purposes  of  a  Terry  stop,  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  investigatory  stop,  is  to  try  to  find  a  person's 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+name. 
+
+            
+
+JUSTICE  GINSBURG:  I  thought  you  needed 
+
+    
+
+ 
+
+ 
+
+ 
+
+reasonable  suspicion. 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+11 
+
+MR.  GREEN:  That's  correct.  That's  right. 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  This  is  a  case  where 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+you're  telling  us  reasonable  suspicion  or  not,  the  name, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  person's  name,  is  not  suppressible. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  That's  right,  Your  Honor.  But 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  is  admittedly  the  but­for  link  between  the  initial 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+predicate  unlawful  stop,  and  the  later  discovery  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant,  and  the  arrest  on  the  warrant,  which  is  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intervening  circumstance.  That's  why,  Your  Honor,  we  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  think  this  is  ­­ this  falls  comfortably  within  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court's  prior  attenuation  jurisprudence.  Just  like 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­
+
+ 
+
+            
+
+JUSTICE  KAGAN:  So  what  is  an  intervening 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+circumstance,  in  your  view?  What  is  your  test  for  what 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  is? 
+
+ 
+
+            
+
+MR.  GREEN:  Your  Honor,  I  ­­ we  think  under 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it's  ­­ it's  ­­ it  flows  naturally  from  this  Court's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+teaching  in  Wong  Sun.  That  is,  it's  any  means 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sufficiently  distinguishable  from  a  predicate  unlawful 
+
+   
+
+ 
+
+ 
+
+ 
+
+act,  such  that  suppressing  evidence  seized  after  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  not  yield  appreciable  deterrence. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  this  Court's  cases  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  Okay.  And  your  view  is  that 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  should  look  at  the  question  of  whether  something  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  intervening  circumstance  through  the  deterrence  lens. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+12 
+
+That  makes  a  lot  of  sense.  We  look  at  everything 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+through  a  deterrence  lens  with  respect  to  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+exclusionary  rule.  And  that,  you  know,  what  we're 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+supposed  to  say  is  this  ­­ does  this  appreciably 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+increase  deterrence  or  not;  is  that  correct? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  That's  the  inquiry,  Your  Honor, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+yes. 
+
+            
+
+JUSTICE  KAGAN:  And  I  ­­ so  I  guess,  then, 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+I'm  back  to  my  question.  In  a  world  in  which  finding 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+somebody  with  an  outstanding  arrest  warrant  was  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+extremely  low  probability,  you  would  be  right.  In  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+world  in  which  it  was  an  extremely  high  probability,  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  be  wrong. 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+Then  it  seems  like,  where  is  this  on  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+spectrum?  What  do  we  know  about  that?  It  sure  seems  ­­
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I  mean,  again,  I  will  come  back  to  this.  I  was 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+surprised  beyond  measure  by  how  many  people  have  arrest 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants  outstanding,  and  particularly  in  the  kind  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+areas  in  which  these  stops  typically  tend  to  take  place. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+So  that,  it  seems  to  me,  you  know,  is  a  pretty  strong 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argument  for  why  this  will  increase  deterrence. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Your  Honor  ­­ again,  I  think, 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kagan,  the  answer  to  that  is  the  inquiry  here  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+attenuation  is  not  just  is  there  an  intervening 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+circumstance.  Under  this  Court's  prior  cases,  there 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+13 
+
+still  must  be  something  else.  And  we  think  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  else,  following  from  this  Court's  teaching  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Brown,  is  a  flagrancy  inquiry:  What  level  of 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+culpability  does  this  conduct  display? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Well,  Mr.  Green  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  Do  you  think  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  else  includes  a  subjective  component,  whether 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  was  a  purpose  to  see  if  there  was  a  warrant? 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  We  don't,  Your  Honor.  We  think 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  that  inquiry  is  inconsistent  with  the  way  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court's  Fourth  Amendment  jurisprudence  has  evolved. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It's  ­­
+
+ 
+
+            
+
+            
+
+JUSTICE  SOTOMAYOR:  So  isn't  flagrancy  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  Is  it  that  ­­ it's  true 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  that  would  be  a  step  maybe  beyond  our  ­­ our  ­­ our 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cases. 
+
+            
+
+On  the  ­­ on  the  other  hand,  if  the  inquiry 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  one  of  flagrancy,  then  maybe  that's  necessary.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  may  be  particularly  necessary  here  because  under  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+line  of  questioning  that  Justice  Kagan  just  concluded 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  you,  it  would  seem  odd  for  this  Court  to  say  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+higher  crime  ­­ the  more  it's  a  high­crime  area,  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+less  basis  you  have  to  stop.  That's  very  odd. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MR.  GREEN:  Well,  I  think,  Your  Honor  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  So  it  seems  to  me  that  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+14 
+
+subjective­purpose  component  might  serve  an  important 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+purpose  here,  so  that  a  police  officer  can't  just  say, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I'm  going  to  see  if  there's  a  warrant  for  this  fellow. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I'm  ­­ that's  the  reason  I'm  going  to  stop.  That  seems 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  me  quite  ­­ quite  wrong. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Well,  Justice  Kennedy,  I  think 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+the  answer  to  that  question  is  ­­ is  that  in  the  cases 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+upon  which  Respondent  relies,  citing  the  ­­ the  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+subjective­purpose  requirement,  those  have  all  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cases  involving  arrests  without  probable  cause.  And  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+those  circumstances,  the  ­­ the  factors  and  the  facts 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  we  think  this  Court  discussed  in  those  cases  go  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+show  the  objective  unreasonableness  of  those  particular 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actions. 
+
+            
+
+We  think  it's  different  in  the  context  of  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Terry  stop,  where  this  Court  has  repeatedly  said  courts 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can  make  the  stop  in  order  to  investigate,  in  order  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+confirm  or  dispel  suspicion.  And  that's  particularly 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+so,  Your  Honor,  where  ­­ with  relation  to  the  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+two­part  test  that  we  think  this  ­­ that  we  think  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+appropriate  here,  where  the  intervening  circumstance  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  preexisting  warrant  based  on  probable  cause,  arising 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  facts  completely  unrelated  to  the  stop.  That  type 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  intervening  circumstance  matches  up  precisely  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  this  Court  found  in  Johnson  v.  Louisiana,  where  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+15 
+
+intervening  circumstance  there  was  a  commitment  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  This  is  a  non  sequitur. 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+When  you  talk  about  an  intervening  circumstances  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we've  looked  at  it  in  the  case  law  ­­ it's  always  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  different  than  the  actual  stop.  Another 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+police  officer  comes  by  and  says,  oh,  I've  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+searching  for  that  guy.  I  know  he  has  ­­ I  ­­ I  have 
+
+    
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  ­­ an  arrest  warrant  for  him.  A  witness  walks  by  on 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+another  crime  and  says,  he  just  robbed  me  down  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+block. 
+
+            
+
+Those  are  intervening  circumstances  because 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they  are  something  outside  of  the  stop.  This  location 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  evidence  was  a  direct  product  of  the  stop. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Well  ­­
+
+  
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  It  would  never  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+happened  except  for  the  stop. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Your  Honor,  we  agree  that  there 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  but­for  cause  here.  But  with  respect,  there  was 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+actually  something  else  that  happened  here.  That  was 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  prior  finding  of  probable  cause  by  a  neutral  and 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+detached  magistrate  on  a  crime  completely  unrelated  to 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  facts  at  issue  in  this  particular  stop.  So  in  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sense,  it  does  resemble  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Mr.  ­­ you  know 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+something?  Finding  the  baggie  of  cocaine  gives  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+16 
+
+officer  reasonable  ­­ probable  cause  to  arrest,  but  we 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+don't  let  that  cocaine  come  into  evidence  merely  because 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  was  a  ground  for  the  arrest.  We  look  at  how  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+evidence  was  secured  before  deciding  whether  it's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suppressible  or  not. 
+
+ 
+
+ 
+
+            
+
+And  I  don't  see  how  this  is  any  different 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+than  not  letting  someone  be  arrested  ­­ or  suppressing 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DNA  evidence,  fingerprint  evidence  that  leads  to  other 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+crimes.  We've  suppressed  those  things  because  they've 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  the  product  of  an  illegal  stop. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Justice  Sotomayor,  we  agree  with 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  that  if  the  bag  of  cocaine  ­­ if  an  officer  had 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+found  a  bag  of  cocaine  during  an  unlawful  stop,  that's 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  precise  situation  where  the  exclusionary  rule  would 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+usually  apply. 
+
+ 
+
+            
+
+What's  different  here  is  that  the  search  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+which  the  ­­ in  which  the  drugs  and  the  other  evidence 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+was  found  occurred  while  the  suspect  was  in  lawful 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+custody. 
+
+            
+
+Respondent  has  admitted  that  the  arrest 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant  was  lawful.  And  the  arrest  was  therefore 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lawful.  And  under  this  Court's  decision  in  Robinson, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+once  the  arrest  is  lawful,  the  search  incident  to  it  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lawful,  and  all  the  evidence  gathered  in  any  that  ­­ in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+any  search  is  lawfully  seized. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+17 
+
+            
+
+JUSTICE  GINSBURG:  Mr.  Green,  you  made  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statement  in  reply  brief  that  says,  "The  Fourth 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Amendment  does  not  require  officers  to  have  reasonable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suspicion  before  they  check  for  warrants." 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+If  you  mean  that,  then  any  officer  can  say, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what's  your  name,  I'll  check  you  for  a  warrant. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  An  officer  could  do  that,  Your 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Honor.  That's  certainly  right.  But  what  happened  here 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  that  the  ­­ the  ­­ of  course  that  request  came  during 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  course  of  a  stop  that  we've  conceded  was  not 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+supported  by  reasonable  suspicion.  And  so  the  question 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  what  happens  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  But  you  say  they  didn't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+need  reasons  for  suspicion.  I  mean,  as  I  read  the 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sentence,  it  says  the  officer  doesn't  have  to  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasonable  suspicion.  It  can  grab  you,  what's  your 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+name,  and  check  for  warrants,  and  that  doesn't  violate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  Fourth  Amendment. 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Well,  Justice  Ginsburg,  they 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+don't  have  to  have  reasonable  suspicion  to  check  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants,  but  that's  different  from  making  the  initial 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stop  where,  of  course,  they  do  need  reasonable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suspicion. 
+
+            
+
+If  there  are  no  further  questions,  I'd  like 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  reserve  the  remainder  of  my  time. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+18 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Mr.  Bash. 
+
+ 
+
+              
+
+ORAL  ARGUMENT  OF  JOHN  F.  BASH 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+          
+
+FOR  UNITED  STATES,  AS  AMICUS  CURIAE, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                
+
+SUPPORTING  THE  PETITIONER 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Mr.  Chief  Justice,  and  may  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please  the  Court: 
+
+ 
+
+ 
+
+            
+
+I'd  like  to  start  with  the  concern  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Sotomayor  and  Justice  Kagan  have  both  raised 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  these  communities  where  there  are  a  lot  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+outstanding  warrants. 
+
+ 
+
+            
+
+As  a  preface,  there  is  a  lot  of  communities 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+where  there  is  not  a  lot  of  outstanding  warrants,  and 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  rule  that  Respondent  wants  you  to  establish  would 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+exclude  evidence  of  serious  guilt  and  serious  offenses 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nationwide. 
+
+            
+
+But  focusing  on  communities  like  Ferguson 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  a  lot  of  outstanding  warrants  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  I'm  sorry.  I  don't 
+
+    
+
+  
+
+ 
+
+ 
+
+understand  why.  If  there's  an  arrest  warrant  for 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+someone,  for  whatever  reason,  you  can  arrest  them.  What 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  can't  do  is  stop  them  illegally  to  effect  an  arrest. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+So  it's  not  as  if  they're  going  to  get  away  from 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whatever  the  underlying  crime  was.  There's  an  arrest 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant,  they're  going  to  go  back  and  serve  their  time 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+19 
+
+on  whatever  circumstance  existed  warranting  that  arrest, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+why  are  they  getting  away  with  anything? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Well,  what's  being  excluded  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+evidence  of  the  crime  that  was  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Of  another  crime  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  police  would  never  have  found.  But  we  do  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Well  ­­ well,  they  might  have 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+found  it  during  a  separate  valid  execution  of  ­­ a 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+separate  execution  of  the  warrant  without  a  preceding 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Terry  stop,  but  the  evidence  found  on  a  person,  for 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+example,  a  firearm,  can  be  very  serious  crimes  that  are 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+also  of  significant  danger  to  these  communities. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  But  that's  true  of  all 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+evidence  we  suppress.  Now  you're  attacking  our 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suppression  jurisprudence. 
+
+ 
+
+            
+
+We  understand  there's  a  cost  to  suppressing 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+evidence.  But  we  believe,  as  we've  been  taught  by  our 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+precedents,  that  there  is  value  in  ensuring  that  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fourth  Amendment  is  respected. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Of  course.  And  the  overarching 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+inquiry  always  is  weighing  those  very  serious  costs  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+excluding  evidence  of  guilt  against  the  deterrent  value 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  you  would  get  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  So  what's  our  rule  now? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Now  you  don't  need  reasonable  suspicion  to  stop  someone. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+20 
+
+You  only  need  questionable  reasonable  suspicion  to  stop 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+someone. 
+
+            
+
+(Laughter.) 
+
+            
+
+MR.  BASH:  Well  ­­
+
+  
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  And  now  ­­ so  we've  now 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lessened  the  standard  ­­ the  Terry  stop  standard,  which 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  fairly  intrusive  to  stop  someone. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  ­­ I  suspect,  and  I  don't  know  whose  brief 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  was,  yours  or  your  ­­ or  Petitioner's,  but  someone 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+said  the  public  will  stop  this  if  they  don't  like  police 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stopping  you  with  no  cause.  I  think  the  public  may  end 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+up  stopping  things  but  in  a  way  the  police  are  not  going 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  like. 
+
+ 
+
+            
+
+MR.  BASH:  Well,  Justice  Sotomayor,  we're 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  talking  about  all  Terry  cases.  We're  talking  about 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  class  of  carry  ­­ Terry  cases  where  an  intervening 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+event  of  huge  legal  significance  occurs. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+It  turns  out  that  a  neutral  magistrate  had 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+already  found  probable  cause  to  arrest  this  person.  So 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we're  certainly  not  talking  about  lowering  the  Terry 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+standard  in  all  cases  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  No.  But  ­­ but  we're 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  saying  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  You're  not  talking  about  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statistics,  Mr.  Bash.  Could  you  do  that? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+21 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+            
+
+ 
+
+ 
+
+ 
+
+And  then  does  the  United  States  know  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+percentage  of  residents  of  the  United  States  who  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+outstanding  warrants? 
+
+ 
+
+            
+
+MR.  BASH:  We  don't  know  globally.  In  the 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reply  brief  of  the  Petitioner  in  this  case,  he  cited  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+study  submitted  to  the  Department  of  Justice  in  2004 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  looked  at  two  counties.  I  don't  pretend  they're 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+representative,  but  it's  a  county  in  Minnesota  and 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maryland,  and  it  was  an  extremely  low  number  of  warrants 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+per  person. 
+
+ 
+
+            
+
+And  of  course,  using  that  number  would  take 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  assumption  that  every  warrant  is  for  a  different 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+person,  which  is  probably  not  true.  And  it  would  assume 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  population  reflects  the  total  number  of  people 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+who  could  be  subject  to  warrants,  but  of  course,  people 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pass  through,  people  come  in  and  out.  So  it's  probably 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+extremely  low. 
+
+ 
+
+              
+
+I  ­­ I  do  take  Justice  Kagan's  point, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+though,  that  there  are  some  communities  where  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants  are  high.  I  want  to  focus  ­­
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  Yeah.  And  what  ­­ what 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+should  we  be  concerned  about  there?  What  ­­ what  would 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+prevent  the  problem  in  ­­ in  communities  like  that? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Well,  it's  ­­ it's  important  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+know  that  Respondent's  rule  does  nothing  to  solve  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+22 
+
+problem  that  the  ­­ the  Department  of  Justice  in  its 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+March  report  ­­ March  2015  report  on  Ferguson 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+identified. 
+
+            
+
+What  was  going  on  in  Ferguson  is  that  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+municipal  court,  in  conjunction  with  the  police,  were 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+using  arrest  warrants  as  a  revenue­raising  measure. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+They  were  issuing  warrants  for  very  minor  offenses  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+failure  to  appear,  and  then  police  officers  on  the  scene 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+had  the  incentive  to  arrest  people  to  bring  them  in  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pay  the  fine.  Respondent's  rule  does  nothing  to  solve 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  because  everybody  agrees  the  arrest  is  lawful. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  Department  of  Justice  did  not  find,  even 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  a  community  with  as  significant  number  of  arrest 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants  as  Ferguson,  that  officers  had  an  incentive  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+search,  and  that  they  were  acting  on  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incentive­to­search­people  incident.  The  incentive  was 
+
+  
+
+ 
+
+ 
+
+ 
+
+to  arrest  and  pay  the  fine. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+With  respect  to  ­­
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  But  I  guess  ­­ I  ­­ I  take 
+
+   
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+the  point,  Mr.  Bash,  but  I  guess  I  just  don't 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+understand.  Of  course,  this  is  a  nationwide  rule  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  would  be  setting.  But  most  Terry  stops  do  not  happen 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  most  neighborhoods.  Most  Terry  stops  happen  in  very 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+high­crime  neighborhoods  ­­ appropriately,  but  where 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  have  lots  of  arrest  warrants. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+23 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+            
+
+And  ­­ and  you  might  be  right  about  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+specific  Ferguson  case,  but  I  still  have  my  question, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+which  is  why  doesn't  that  dramatically  change  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incentives  for  police  officers  in  deciding  whether  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+search  somebody?  If  you  know  that  there  is  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+significant  possibility  that  somebody  you  stop  is  going 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  have  an  arrest  warrant,  that's  another  reason  to  stop 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+them. 
+
+            
+
+MR.  BASH:  Justice  Kagan,  I  don't  think  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+empirics  show  that  the  numbers  are  so  great  that  even  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+high­crime  neighborhoods,  at  least  outside  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ferguson  circumstance  where  you  have  this  odd 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+revenue­raising  scheme,  that  the  ­­ the  chance  of  both 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+finding  a  warrant  and  then  finding  contraband  in  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+search  ensuing  to  arrest  is  so  high  that  it's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incentivizing  officers  to  conduct  illegal  stops  solely 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  the  purpose  of  finding  a  warrant. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  So  that  was  my  point  about 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  importance  or  the  likely  importance  of  purpose  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  analysis. 
+
+ 
+
+            
+
+MR.  BASH:  And  ­­ and  I  was  actually  just 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  to  turn  to  that,  Justice  Kennedy. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  think  when  this  Court  has  mentioned 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flagrancy  in  cases,  not  only  those  cases  listing  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Brown  factors,  but  also  cases  like  Leon  and  Herring, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+24 
+
+what  it  has  been  concerned  about  in  part  is  the  notion 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  once  you  establish  an  attenuation  principle,  what  I 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  say  is  a  common­sense  principle  here  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+generally  an  arrest  warrant  should  be  a  superseding 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cause  of  the  discovery  of  the  evidence,  you  might  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  officer  exploiting  that  rule  precisely  in  order  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+get  evidence  in  searches  incident  to  arrests. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  I  think  the  way  you  could  think  about 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flagrancy  is:  Did  this  officer  have  the  purpose  ­­ and 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  could  either  be  a  purpose  objectively  understood  from 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+all  of  the  facts  or  it  could  be  a  subjective  purpose  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  exploit  this  attenuation  exception  precisely  in  order 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  search  incident  to  arrest. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              
+
+ 
+
+ 
+
+I  don't  think  the  facts  here  remotely  get 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there.  I  ­­ I  don't  really  think  even  Respondent  has 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argued  that.  This  was  a  legitimate  investigation.  The 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+officer  may  have  made  a  mistake  about  the  quantum  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suspicion  necessary,  but  if  you  had  a  case  where  an 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+officer  truly,  either  objectively  or  subjectively,  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  out,  just  pulling  random  people  over  because  he 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+now  knows  about  this  attenuation  rule  established  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  case,  I  think  that's  the  sort  of  flagrancy 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+consideration  in  cases  like  Leon  and  Herring  this  Court 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  left  as  a  safety  valve. 
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KAGAN:  But  does  that  mean  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+25 
+
+we're  going  to  have  to,  in  every  single  case,  explore 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  officer's  subjective  motivations?  Because  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+sounds  like  the  kind  of  inquiry  that  we've  tried  to  stay 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+away  from  in  the  past. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Justice  Kagan,  Justice  Kennedy 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+suggested  subjective  motivations.  And  I  think  that  has 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  support  in  the  earlier  attenuation  cases,  like 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Brown  and  Dunaway  and  Taylor,  where  it  really  did  seem 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  be  that  the  Court  was  inquiring  about  purpose.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  also  has  some  support  in  doctrines  like  inevitable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+discovery,  which  does  ask,  you  know,  what  were  you  going 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  do,  in  effect? 
+
+ 
+
+ 
+
+ 
+
+            
+
+In  more  recent  cases,  the  Court  has  moved 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+towards  an  objective  test.  So  I  think  the  way  the  Court 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+could  formulate  the  flagrancy  safety  valve  in  this  case 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  to  say  does  this  stop  appear  objectively  designed  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+exploit  the  ability  to  search,  incident  to  arrest  on  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant. 
+
+            
+
+And  it  could  look  at  all  the  circumstances. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It  could  look  at  the  fact  that  this  wasn't  incident  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+any  legitimate  investigation.  It  could  look  to  the  fact 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  officer  pulled  over  several  people  and  searched 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+them  for  warrants  in  the  same  incident.  I  think  it 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+could  have  that  safety  valve,  which  would  have  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+effect  of  preserving  cases  like  this  one,  where  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+26 
+
+officer  is  acting  in  good  faith,  and  someone  is  found 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  very  serious  evidence  on  them  of  drug  trafficking 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+or  a  firearm.  And  it  would  make  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Now,  we've  gotten  to  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+point  where  we  no  longer  have  reasonable  suspicion  at 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+all,  because  you  keep  defending  this  stop.  And  I  keep 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  to  back  to  he  has  an  anonymous  call;  he  does  see  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+certain  number  of  short­stay  visits,  but  he  stops 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+someone  who  he  doesn't  know  has  been  a  short­stay  visit, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  not  seen  there  before,  knows  nothing  about  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+person,  and  is  doing  a  complete  intrusive  stop  ­­ not 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  a  hey,  will­you­talk­to­me  stop,  but  a  formal 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+investigatory  stop  ­­ on  nothing  else. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  Justice  Sotomayor,  respectfully, 
+
+  
+
+ 
+
+ 
+
+ 
+
+I  think  this  ­­ I  think  this  was  a  close  case  and 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I'll  ­­ I'll  just  lay  out  why.  Maybe  you'll  disagree 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  that. 
+
+ 
+
+            
+
+This  is  an  officer  with  18  years  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+experience  and  several  years,  or  a  couple  years,  in 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+drug  ­­ drug  crimes.  Got  an  anonymous  tip  that  this  was 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  drug  house.  Observed  it  intermittently  for  three 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hours  and  saw  short­term  traffic  that  was  consistent  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+his  experience  and  expertise  with  drug  activity.  And 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+then  someone  walked  out  of  the  house. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+That  person  could  have  been  one  of  two 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+27 
+
+people.  He  could  have  been  a  short­term  visitor,  in 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+which  case,  I  think  most  people  would  agree,  that  there 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  be  cause  to  stop.  Or  it  could  be  a  long­term 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+resident  of  that  house.  And  there's  not  too  many  houses 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  are  involved  in  a  long,  ongoing  drug  trafficking  or 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+drug  sales  that  the  ­­ a  long­term  resident  of  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+house  wouldn't  know  about.  I  mean,  this  wasn't  a  pizza 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+deliveryman.  This  was  some  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  Yes.  But  it's  ­­ it's  ­­
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it's  a  given  that  there  was  no  reasonable  suspicion. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  you  could  argue  whether  it  was.  But  for  our 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+purposes.  There  was  no  reasonable  suspicion. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  BASH:  As  the  case  comes  to  the  Court, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  is  correct,  Justice  Ginsburg.  My  only  point  was 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  isn't  the  example,  in  my  mind,  of  the  safety  valve 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flagrancy  situation  that  I  was  discussing  with 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Kagan  and  Justice  Kennedy. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  Is  that  ­­ would  you  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  reason  that  this  case  comes  to  us  is  because  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Utah  Supreme  Court  says,  no,  this  is  three  kings  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flagrant;  this  is  all  very  confusing.  And  courts  are 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+coming  out  all  over  the  lot,  so  we  want  to  come  up  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  simpler  test. 
+
+ 
+
+ 
+
+            
+
+Do  you  have  ­­ are  you  saying  Utah  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wrong?  That  the  three­prong  test  that  we  have  now  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+28 
+
+fine?  Would  you  change,  in  any  respect,  how  we  look  at 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+these  attenuations? 
+
+ 
+
+            
+
+MR.  BASH:  Well,  I  don't  think  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+three­prong  way  is  a  bad  way  to  look  at  it.  The  cases 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  actually  used  the  three  prongs  to  determine  whether 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  defendant's  confession  is  the  product  of  free  will. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Mr.  Chief  Justice,  can  I  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Finish  your 
+
+  
+
+ 
+
+ 
+
+ 
+
+sentence,  sir. 
+
+ 
+
+            
+
+MR.  BASH:  We  think  it's  a  fine  way  to  think 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  this  case,  in  the  sense  of  the  Court  could  hold 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+superseding  legal  authority  by  a  neutral  magistrate  is 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  intervening  event  of  significance  for  the  attenuation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+analysis,  and  suppression  would  be  appropriate  only  if 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  stop  was  flagrant,  either  objectively  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+subjectively  understood. 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Ms.  Watt. 
+
+ 
+
+              
+
+ORAL  ARGUMENT  OF  JOAN  C.  WATT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ON  BEHALF  OF  THE  RESPONDENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Mr.  Chief  Justice,  and  may  it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+please  the  Court: 
+
+ 
+
+ 
+
+            
+
+Utah's  proposed  rule  would  open  the  door  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+abuse. 
+
+            
+
+It  would  create  a  powerful  incentive  for 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+29 
+
+police  officer  ­­ officers  to  detain  citizens  without 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+concern  for  the  Fourth  Amendment,  knowing  that  finding  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant  would  wipe  the  slate  clean  and  render  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+constitutional  violation  irrelevant.  It  would  cut  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+heart  out  of  Terry.  It  would  create  a  new  form  of 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+investigation.  Officers  would  be  stopping  citizens  and 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hunting  for  warrants. 
+
+ 
+
+ 
+
+            
+
+It's  already  the  practice  in  many 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+communities,  and  if  Utah's  rule  is  adopted,  it  will 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+become  the  norm. 
+
+ 
+
+ 
+
+            
+
+It's  unnecessary  for  this  Court  to  take  such 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  sweeping  view  as  ­­ as  Utah  has. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  Well,  would  that  be  true  if, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+let's  say,  one­half  of  1  percent  of  the  residents  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+South  Salt  Lake  or  Salt  Lake  City  have  outstanding 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants? 
+
+            
+
+MS.  WATT:  The  statistics  are  important  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+our  argument,  but  not  necessary.  Because  even  without 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  statistics,  we  know  that  officers  make  stops 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+precisely  for  that  reason:  To  find  the  warrant.  That's 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+why  they're  making  the  stop.  They  can  target 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+communities.  And  so  even  if  there's  just  a  ­­ a  very 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+minor  amount  of  ­­ of  warrants,  they  can  still  target 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+communities  that  may  have  a  greater  incidence  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants.  And  if  this  were  the  rule,  there  would  be  no 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+30 
+
+downside.  Officers  ­­
+
+  
+
+ 
+
+            
+
+JUSTICE  ALITO:  Well,  that's  true,  there's  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+downside.  If  the  officer  makes  an  illegal  stop,  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+officer  exposes  himself  or  herself  to  all  sorts  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+consequences. 
+
+            
+
+ 
+
+ 
+
+But  you're  saying  that,  let's  ­­ if  the  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+on  the  statistic  that  I  gave  you,  if  there's  a  1  in  200 
+
+     
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+chance  that  there's  going  to  be  an  outstanding  warrant, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+so  the  officer  says  well,  you  know,  I  don't  have  ­­ I 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  no  reason  to  stop  this  person,  but  if  I  stop  200 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  today  illegally,  then  I'm  going  to  find  one  who 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+has  an  outstanding  warrant,  you  would  say  that  that  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  gives  the  officer  the  incentive  to  make  those  199 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+illegal  stops. 
+
+ 
+
+            
+
+MS.  WATT:  Well,  it's  still  precisely  why 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  officer  would  be  doing  it.  He's  writing  the  warrant 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+check  in  this  ­­ in  this  facts  situation.  We're  talking 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  ­­ about  a  very  narrow  set  of  facts  where  we  have 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  officer  that  detained  someone,  and  as  part  of  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+detention,  there  is  a  warrants  check.  These  ­­ these 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+were  not  separate  things.  It  was  inherent  in  this  stop. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  so,  yes,  if  an  officer  is  detaining 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+someone  under  those  circumstances  and  runs  a  warrants 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+check,  he's  doing  it  precisely. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  Could  ­­ could  you  ­­ is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+31 
+
+it  permissible  to  do  a  warrant  check  as  part  of  a  lawful 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Terry  stop? 
+
+ 
+
+            
+
+MS.  WATT:  A  lawful  Terry  stop? 
+
+    
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  Yes. 
+
+  
+
+ 
+
+            
+
+MS.  WATT:  We  ­­ in  our  brief,  we  referred 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  Rodriguez,  and  ­­ and  this  Court  has  certainly  said 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  at  least  in  the  context  of  ­­ of  automobile  stops, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+yes. 
+
+            
+
+JUSTICE  KENNEDY:  Well,  in  ­­ in  ­­ in  this 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+case,  the  State,  as  I  understand  it  ­­ please  correct  me 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if  I'm  wrong  ­­ has  conceded  that  the  stop  was  unlawful. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It  has  not  conceded  that  it  was  flagrantly  unlawful; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+isn't  ­­ isn't  that  correct? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Well,  that's  right.  That's 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+right.  And  ­­ and  so,  what  ­­ but  what  ­­ the  position 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  State  has  taken  is  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  So  we  take  the  case  as  one 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  which  there  was  no  ­­ there  was  no  flagrant  conduct? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  The  ­­ so  the  test  under  Brown 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  flagrancy  really  has  two  elements.  One  is  whether 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  was  done  deliberately  or  purposefully.  And  we  know 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  Dunaway  and  Taylor,  and  Brown  itself  that  ­­ that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+unlawful  conduct  that  is  undertaken  with  the  purpose  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  the  hope  of  finding  something,  with  the  hope  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  turns  out  ­­ up,  is  deliberate  and  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+32 
+
+flagrant.  And  ­­ and  Dunaway  tells  us  that  we  don't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+need  some  overarching  flagrancy,  that  that's  enough. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  so  the  purpose  is  important.  It's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+viewed  from  an  objective  standpoint.  Here,  we  have  an 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+officer  that  told  us  his  purpose.  But  objectively,  we 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+do  look  at  purpose.  We  look  at  justification.  That's 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+how  we  know  the  limits  of  a  Terry  stop. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  What  ­­ what's  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+number?  What  percentage  of  people  have  to  have  warrants 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+before  you  can  imply  that  whenever  an  officer  stops 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+someone,  it  is  to,  you  know,  illegally  search  them 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because  they're  very  likely  to  have  an  arrest  warrant? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Well,  I  think  that  the  proper 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+focus  ­­ I  mean,  I  ­­ I  don't  think  breaking  it  down  to 
+
+   
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+numbers  is  the  way  to  go.  I  think  the  proper  focus  is 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+on  deterrence.  And  we  know  deterrence  is  not  just  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Well,  I  suppose 
+
+   
+
+  
+
+ 
+
+ 
+
+that's  related.  I  mean,  your  brief  had  a  lot  of  numbers 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  it.  And  if  only  one  out  of  a  hundred  people  have 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+arrest  warrants,  then  I  think  you  really  couldn't  imply 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  that  was  the  purpose  of  the  stop. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  If  you  had  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  And  some  of  these 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+numbers  ­­ obviously,  you  have,  in  particular 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+communities,  high  numbers,  but  some  of  them  didn't 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+33 
+
+strike  me  ­­ I  was  surprised  how  low  they  were.  323,000 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  a  big  number,  but  that's  the  entire  State  of  Florida. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  So  ­­ so  the  officers  run 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants  because  ­­ warrants  checks  because  they're 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+likely  to  turn  up  warrants.  With  ­­ when  they  target 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+certain  ­­
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Why  is  that?  You 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+mean  every  time  a  police  officer  pulls  somebody  over  and 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+runs  a  warrant  check,  it's  because  he  thinks  it's  likely 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there's  a  warrant?  Might  it  ­­ might  it  be  to  protect 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+him  when  he  walks  up  to  the  car?  He'd  like  to  know  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  person  is  wanted  for  murder,  right? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  So  running  the  warrants  check 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tells  him  that.  That's  ­­ when  you  run  the  warrants 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+check,  you're  looking  for  a  warrant.  In  this  case, 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  what  that  Officer  Fackrell  was  doing.  He  wanted 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  try  to  find  out  something  about  Mr.  Strieff,  and  so 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+he  ran  the  warrants  check. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+there  ­­
+
+ 
+
+            
+
+The  ­­ these  kinds  of  stops,  it  is  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  But  I  guess  ­­ I 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+mean,  you  do  require  us  to  determine  whether  or  not  he 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ran  the  warrant  check  to  ensure  his  safety  in  ­­ in  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+interaction,  or  as  an  investigative  matter.  I  mean, 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  that  make  a  difference? 
+
+   
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+34 
+
+            
+
+MS.  WATT:  In  ­­ he  ­­ it  makes  a  difference 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  the  sense  that  when  there  is  a  stop  that  is  ­­ is 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+made,  that  the  warrants  check  is  inherent  in  that  stop. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  I  guess  my  answer  is  no,  it  doesn't  make 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a  difference,  because  when  warrants  check  is  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Why  wouldn't  it?  Why 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+wouldn't  it?  Now,  look  at  our  case,  Rodriguez  case.  We 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+assumed  that  the  check  there  was  to  ensure  the  safety  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  officer. 
+
+ 
+
+            
+
+MS.  WATT:  That's  right. 
+
+  
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  All  right. 
+
+  
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Right. 
+
+  
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  If  the  stop  here  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+purely  investigatory,  isn't  that  different?  Can  you 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  an  investigatory  stop  based  on  no  suspicion? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+ 
+
+You  were  right  when  you  said  he  stopped  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+check  for  the  warrant.  The  question  is  Justice 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kennedy's  question,  which  is:  Is  that  legitimate? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Can  ­­ can  you  have  an 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+investigative  stop  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Yes. 
+
+  
+
+ 
+
+            
+
+MS.  WATT:  ­­ to  check  for  a  warrant  without 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasonable  suspicion  or  with? 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Without. 
+
+  
+
+ 
+
+            
+
+MS.  WATT:  Without,  you  cannot.  You 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+35 
+
+cannot  ­­ the  officer  cannot  detain  someone  without 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasonable  suspicion  to  run  a  warrants  check. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  As  I  understand  your 
+
+   
+
+  
+
+ 
+
+ 
+
+position,  you  don't  argue  that  the  arrest  was  unlawful; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  that  right? 
+
+ 
+
+ 
+
+            
+
+challenged. 
+
+            
+
+MS.  WATT:  We  don't.  We  have  never 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  ALITO:  So  the  arrest  was  lawful. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  when  the  officer  is  making  the  arrest,  it's 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+permissible  for  safety  purposes  for  the  officer  to  frisk 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  person  who  is  being  arrested.  Do  you  agree  with 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that? 
+
+            
+
+            
+
+MS.  WATT:  Yes. 
+
+  
+
+ 
+
+JUSTICE  ALITO:  So  it's  a  ­­ so  it's  a 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lawful  search,  correct. 
+
+ 
+
+ 
+
+            
+
+search. 
+
+            
+
+MS.  WATT:  We've  never  challenged  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  ALITO:  Isn't  it  ­­ can  you  ­­ can 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  give  me  one  other  example  of  a  situation  in  which 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  Court  has  held  that  the  fruit  of  a  lawful  search 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+must  be  suppressed? 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  I  don't  have  another  case  in  this 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+precise  circumstance.  Our  position  throughout  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+JUSTICE  ALITO:  Well,  in  any  circumstance. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+MS.  WATT:  So  ­­ so  this  case  has  not  come 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+36 
+
+before  the  Court.  We  know  that  an  arrest  warrant  is  not 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+always  an  intervening  circumstance.  It  wasn't  one  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Taylor  v.  Alabama. 
+
+ 
+
+ 
+
+            
+
+ 
+
+ 
+
+And  ­­ and  even  ­­ even  Utah  and  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Solicitor  General  don't  take  the  position  that  just 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ the  arrest  and  the  search  incident  to  arrest  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+enough  because  they've  conceded  that  dragnets  ­­ that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+any  evidence  that's  found  in  the  dragnet  is  a  fruit. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  ­­ and  so  that  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  I'm  just  pointing  it  out 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  that's  a  curiosity,  isn't  it,  to  have  a  law  ­­ to 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suppress  the  fruit  of  a  lawful  search?  And  maybe  you 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+need  strong  circumstances  to  justify  such  an  unusual  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+unprecedented  result. 
+
+ 
+
+            
+
+MS.  WATT:  Well,  our  position  is  these  are 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+strong  circumstances  because  part  of  deterrence  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+value  of  deterrence  is  found  in  the  strength  of  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incentive  to  violate  the  Constitution. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+you  said  ­­
+
+ 
+
+ 
+
+            
+
+            
+
+JUSTICE  KENNEDY:  Could  you  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  Well,  I  thought  that  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  Go  ahead. 
+
+  
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  You  said  you  don't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+question  at  all  the  arrest,  and  you  don't  question,  once 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  is  an  arrest,  to  pat  down  for  drugs  ­­ I  mean,  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+37 
+
+pat­down  for  guns.  But  are  you  saying  that  the  arrest 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  the  warrant  that  has  ­­ is  a  ­­ a  totally  different 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+crime  doesn't  permit  you  to  search  for  evidence,  it  only 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+permits  the  officer  to  protect  himself  by  patting  down 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  weapons?  Is  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Well,  our  position  is  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anything  that's  found  is  the  fruit  of  that,  of  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+illegal  detention,  not  of  the  arrest,  because  the  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  arrest  and  ­­ and  ultimate  ­­ and  subsequent  search 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are  ­­ are  a  fruit,  but  ­­ but  they're  not  suppressible. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+They're  not  something  that  we  have  fought  against 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because,  again,  we  have  the  warrant  and  authorization. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  Well,  if  the  individual  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  to  be  arrested  and  put  in  jail,  isn't  it  standard 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+procedure  and  lawful  procedure  for  the  authorities  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+search  that  person  thoroughly?  They  couldn't  have  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+person  bring  drugs  into  ­­ into  the  jail  or  things  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  person  might  use  to  hurt  himself  or  other  people? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  It  would  still  be  a  fruit. 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  So  it  would  ­­ well,  what 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  that  mean?  It's  ­­ but  it's  not  ­­ it  ­­ that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doesn't  ­­ that's  lawful  conduct  on  their  part,  right? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Right. 
+
+  
+
+ 
+
+            
+
+JUSTICE  ALITO:  Okay.  But  ­­ so  you're 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+asking  for  the  suppression  of  the  fruit  of  a  lawful 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+38 
+
+search. 
+
+            
+
+MS.  WATT:  What  we're  asking  for  is  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suppression  based  on  the  unlawful  detention  that  began 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  encounter.  So  ­­ so  this  encounter  begins  with  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stop.  The  stop  itself  is  ­­ is  unlawful.  The  State  has 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+conceded  that  throughout. 
+
+ 
+
+ 
+
+            
+
+So  what's  ­­ what's  the  problem  with  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+stop?  This  is  a  stop  ­­ the  kind  of  stop  that  lawyer  ­­
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+or,  I'm  sorry  ­­ that  officers  are  faced  with  every  day. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It's  a  basic  kind  of  stop.  It  ­­ what  ­­ what  do  we 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+know  about  Terry  stops?  The  officers  have  to  ­­ have  to 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  a  reasonable  articulable  suspicion. 
+
+   
+
+ 
+
+ 
+
+            
+
+Courts  have  ­­ tells  us  that  it's  really  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+two­step  assessment.  They  have  to,  No.  1,  look  at  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+totality  of  the  circumstances,  and  No.  2,  they  then  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  look  at  whether  there  is  an  individualized  suspicion, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+does  this  tie  in  with  this  defendant? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+So  in  this  case,  what  does  the  officer  know? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All  he  knows  is  that  there's  some  short  ­­ not  terribly 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+frequent,  short­stay  traffic  at  the  house.  He  sees  my 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+client  emerge  from  the  house,  knows  nothing  else.  So 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+even  under  the  totality,  a  reasonably  well­trained 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+officer  should  have  known  this  stop  was  not  ­­ was  bad. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Second  ­­
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  You're  arguing 
+
+  
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+39 
+
+something  that  the  State's  conceded,  right? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Well,  I  think  it's  important 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+because  the  State  has  taken  the  position  that  ­­ that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  was  just  a  fact  or  two  shy  of  ­­ of  what  was 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+needed.  And  being  a  fact  or  two  shy  of  Terry  leaves  us 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  nothing.  Terry  is  already  a  fairly­low  standard, 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+but  it's  a  ­­
+
+   
+
+ 
+
+            
+
+JUSTICE  KENNEDY:  But  you  still  have  to  say 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  it's  flagrant. 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Well,  my  position  is  ­­ is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+twofold;  one,  that  ­­ that  flagrancy  has  two  aspects. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+One  aspect  is  just  the  deliberate  aspect.  And  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  ­­ in  this  type  of  a  stop  where  ­­ where  it's  made 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  the  purpose  of  ­­ of  running  a  warrants  check,  if 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ the  warrants  check  is  inherent  in  the  stop,  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  enough;  but  secondly,  if  we  were  going  to  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  to  include  a  different  definition,  it  would  be 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  it  was  blatantly  unconstitutional. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  so  that's  why  I'm  moving  into  the  stop, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  talk  about  what  was  the  problem  with  this  stop,  what 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+do  we  expect  of  our  police  officers,  what  do  we  need 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  our  police  officers? 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  You  ­­ you  said  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ that  the  stop  was  made  for  the  purpose  of  running 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  the  arrest  warrants.  I  just  don't  know  the  basis 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+40 
+
+for  that,  other  than  your  statistics  that  in  certain 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+areas  there  are  a  high  number  of  arrest  warrants.  In 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+many  areas  there  aren't. 
+
+ 
+
+ 
+
+ 
+
+              
+
+I  mean,  how  ­­ is  it  entirely  empirical?  Do 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  have  to  accept  and  generalize  from  your  empirical 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+evidence  which  ­­ that  the  purpose  must  be  to  execute  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  check  for  arrest  warrants? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  No,  because  what  ­­ we  know  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  precisely  what  ­­ what  was  done  in  this  case, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  is  done  in  some  other  cases.  In  this  case,  we  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we  have  an  officer  that  makes  a  stop  and  immediately 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+runs  that  warrants  check.  How  does  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  But  he  immediately 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+runs  the  arrest  ­­ warrants  check  when  he  makes  the  stop 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because  he  wants  to  know  who  he's  dealing  with.  It 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  be  ­­ it  would  be,  I  think,  bad  police  work  to  not 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+run  the  warrant  check  until  after  you've  had  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+interaction  with  the  person  when  the  danger  that  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+could  have  found  out  about  might  have  been  when  it's  too 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+late  to  ­­ to  act  on  it. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  The  way  he  finds  out  who  he's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dealing  with  is  if  there's  a  warrant.  The  point  is,  he 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+didn't  have  a  reasonable  suspicion  to  stop  my  client. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  so  ­­
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  No,  I  understand 
+
+   
+
+  
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+41 
+
+that. 
+
+            
+
+warrant  ­­
+
+ 
+
+JUSTICE  SOTOMAYOR:  In  order  to  run  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  You're  implying  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+I'm  still  trying  to  get  at  how  you  decide  what  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+purpose  was.  In  your  brief  you  say  several  times,  oh, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  purpose  is  to  ­­ to  run  the  warrants  check.  And  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+just  want  to  know  why  that's  ­­ why  that's  the  case. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Because  it  was  immediate;  it  was 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inherent  in  what  he  did;  because  he  stated  that  his 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+purpose  in  ­­ in  stopping  my  client  was  to  find  out 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  my  ­­ find  out  about  the  house;  and  that  it  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+normal  for  him  to  run  a  warrants  check  and  normal  for 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+him  to  know  ­­ want  to  know  who  he's  dealing  with  so. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  You're  ­­
+
+  
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Let's  say  that  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant  check  is  something  he  does  when  he  arrests 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people.  I  don't  doubt  that,  but  it  doesn't  prove  that 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  was  his  purpose  in  ­­ in  the  stop. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  So  the  intended  consequence  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+running  a  warrants  check  is  to  find  a  warrant,  No.  1. 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  No.  2,  our  statistics  show  that  ­­ that  in  ­­ in  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sizable  number  ­­ it's  ­­ officers  are  likely  to  find 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants. 
+
+            
+
+The  other  concern  is  if  he  thought  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+42 
+
+            
+
+JUSTICE  KENNEDY:  You're  asking  us  to  say 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that,  as  a  matter  of  law,  you  want  us  to  hold  that  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+purpose  of  this  stop  was  to  run  the  warrants  check?  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+thought  the  purpose  of  the  stop  was  to  find  out  what  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  ­­ what  was  going  on  in  the  house. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+an  ­­
+
+ 
+
+            
+
+MS.  WATT:  I  ­­ I  think  that  when  ­­ when 
+
+    
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  KENNEDY:  The  record  just  doesn't 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+support  the  first  proposition  that  I  made. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  When  an  officer  detains  someone 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+as  part  of  a  fishing  expedition  in  the  hope  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+something  will  turn  up,  that  is  ­­ that  is  the  purpose 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  is  a  problem. 
+
+   
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  There  was  no  suspicion 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+here.  He  was  ­­ your  client  wasn't  frisked. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  I'm  sorry.  Wasn't  frisked? 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  No.  There  was  no 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+activity  that  the  officer  is  alleged  to  have  seen  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  put  the  officer  in  fear  of  any  ­­ that  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+gentleman  was  violent  or  was  going  to  turn  on  him  or  do 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+anything  else. 
+
+ 
+
+            
+
+MS.  WATT:  No. 
+
+  
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Correct? 
+
+  
+
+ 
+
+            
+
+MS.  WATT:  Correct. 
+
+  
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  So  the  purpose,  as  I 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+43 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+understand  what  you're  trying  to  say  is,  he  is  now 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+routinely  checking  every  single  person  that  he  stops, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+whether  with  or  without  reasonable  suspicion.  There 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+can't  be  any  other  reason  other  than  he  wants  to  find 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  warrant  or  not. 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+MS.  WATT:  But  that's  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+JUSTICE  SOTOMAYOR:  So  part  of  the  stop  may 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+be  to  investigate,  but  the  other  part  of  the  stop  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+he's  doing  this  routinely,  with  no  reasonable  suspicion, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  no  articulable  fear  of  his  ­­ for  his  own  safety. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+He's  demanding  peoples'  names,  and  he's  running  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant  to  do  what?  You're  saying  to  find  the  warrant. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Find  the  warrant. 
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Exactly. 
+
+  
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  How  often  are  ­­ are 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cars  ­­ people  stopped  driving,  an  officer  walks  up  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  car  and  they're  shot?  Has  that  happened  a  fair 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+amount  of  times? 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  It  does  happen. 
+
+  
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  It  does  happen.  So 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  there  no  other  reason  for  checking  to  see  if  there 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are  warrants  out  for  that  person  before  you  walk  up  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  car?  Or  before  you  conduct  an  inquiry  with  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ticket? 
+
+            
+
+MS.  WATT:  So  ­­
+
+  
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+44 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  It  seems  to  me  not 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wanting  to  get  shot's  a  pretty  good  reason. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  But  this  presents  a  completely 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+different  scenario.  This  officer  approached 
+
+  
+
+ 
+
+ 
+
+ 
+
+Mr.  Strieff.  He  knew  very  little  about  him.  You  know, 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+as  a  matter  of  deterrence,  a  reasonably  well­trained 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+officer  would  have  known,  should  have  known  that  there 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+wasn't  enough  there.  Because  he  didn't  know  anything 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+about  my  client,  there  was  no  individualized  suspicion. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  ­­
+
+ 
+
+            
+
+JUSTICE  ALITO:  Well,  we  really  don't  know 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+very  much  about  exactly  what  happened  here,  which  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+unfortunate.  But  what  the  officer  testified  was  that  he 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+didn't  just  grab  this  guy  and  say  give  me  an  ID  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+then  ­­ and  then  run  a  warrants  check.  He  did  say  that 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+he  ­­ he  approached  him  and  he  said  ­­ identified 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+himself.  He  said  he  thought  there  might  be  drug 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+activity  going  on  in  the  house,  and  he  asked  him  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tell  ­­ he  said,  "I  asked  him  to  tell  me  what  he  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doing  there." 
+
+ 
+
+            
+
+Now,  we  don't  even  know  what  he  ­­ unless 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I'm  ­­ it's  someplace  else  in  this  record,  we  don't  even 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+know  what  your  client  said.  But  he  could  have  said, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  am  I  doing  there,  yeah,  I  live  there,  or,  my  mother 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lives  there,  or,  my  best  friend  lives  there. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+45 
+
+            
+
+But  whatever  ­­ we  don't  know  what  he  said. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+But  then  at  some  later  point  he  ran  a  warrants  check. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+So  how  can  we  infer  from  that,  that  the  whole  point  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  stop  was  to  run  the  warrants  check? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  So  ­­ so  a  really  important  part 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  the  officer's  testimony  was  that  he  didn't  remember 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+what  that  answer  was.  So  if  my  client  had  said,  I  went 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  there  because  there's  someone  who's  ill  and  I've  been 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+visiting  for,  you  know,  20  minutes,  or  ­­ or,  this  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+where  my  friend  lives;  that's  why  I  was  there,  end  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inquiry,  and  ­­ and  the  warrants  check  shouldn't  have 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+been  run.  A  reasonably  well­trained  officer  should 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+know. 
+
+            
+
+The  ­­ the  important  part  of  this  case  is 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  if  we're  only  looking  at  ­­ we're  not  just  looking 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+at  deterring  Officer  Fackrell,  we're  looking  at 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+deterring  future  conduct  by  officers.  And  the  ­­ the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Terry  limitation  is  something  we  want  our  officers  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+know.  It's  fairly  straightforward.  This  is  a  fairly 
+
+   
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+straightforward  case  that  is  going  on  every  day  in  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+country  where  officers  are  looking  at  houses,  watching 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+houses  that  maybe,  might  have  drug  trafficking  going  on. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+They're  trying  to  establish  probable  cause.  Case  law  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+relatively  clear  about  what  you  need  to  get  probable 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cause  on  a  house. 
+
+   
+
+ 
+
+Alderson Reporting Company 
+
+Official 
+
+46 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+            
+
+It's  also  relatively  clear  about  what  you 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+need  to  get  individualized  suspicion.  We  know  from 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cortez  we  need  those  two  elements.  We  ­­ we  also  know 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  Ybarra  that  just  being  in  proximity  to  other  people 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  not  enough.  Being  around  ­­ even  when  the  officers 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  probable  cause  to  search  or  probable  cause  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+arrest  someone  if  you're  standing  right  there,  it's  not 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+enough. 
+
+            
+
+So  it  should  be  clear  to  an  officer  that  my 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+client  leaving  a  house  that  he  doesn't  even  have 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+probable  cause  on,  that  he's  trying  to  find  something 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+out  about  ­­
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  Well,  all  he  did  was  go 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+from  the  house  to  a  convenience  store,  not  in  a  car  but 
+
+   
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+walking. 
+
+            
+
+            
+
+MS.  WATT:  Right. 
+
+  
+
+ 
+
+JUSTICE  SOTOMAYOR:  He  walks  to  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+convenience  store,  he's  stopped  in  the  parking  garage 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+but  without  a  car.  And  I  go  back  to  this  is  not  coming 
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+up  to  a  parked  automobile  and  getting  shot,  correct? 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Right.  Right. 
+
+  
+
+  
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Would  your  rule 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+apply  in  that  situation? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Well,  when  an  ­­ when  an  officer 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+makes  a  stop  ­­
+
+   
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+47 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Would  your  rule 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+apply  in  a  situation  where  the  officer  approaches  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+car  for  a  purpose  that  is  later  found  to  be  insufficient 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+under  Terry?  You  would  suppress  whatever  evidence  is 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+find  ­­ found  in  that  situation  too,  right? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  If  the  ­­ if  the  officer  did  not 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+have  a  reasonable  suspicion  for  the  stop. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Okay.  So  it  would 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+apply  in  the  stopping  of  the  automobile  situation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+MS.  WATT:  It  would.  But  it's  ­­
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  Okay. 
+
+  
+
+ 
+
+ 
+
+MS.  WATT:  But  again,  in  these  cases,  if 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there  is  a  warrant,  we  haven't  argued  about  the  warrant 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+itself.  What  we've  ­­ our  concern  is  the  random  stops. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  our  concern  is  not  just  for  my  client.  It's  for  all 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+of  those  innocent  citizens  that  will  ­­ that  are  walking 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+around,  that  are  stopped,  that  a  warrants  check  is  run 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  nothing  comes  up  and  then  they're  sent  on  their  way. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+There's  no  oversight. 
+
+ 
+
+ 
+
+            
+
+The  ­­ the  officer  is  encouraged  to  engage 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  ­­ in  a  catch­and­release  type  of  approach  with  our 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+citizenry.  And  Utah's  rule  would  be  something  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  would  create  that  incentive. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  In  ­­ in  your  brief  you 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+took  the  position  that  ­­ that  an  event  is  intervening 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+48 
+
+only  if  it  is  unforeseeable. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Well,  our  position  is  that  an 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intervening  circumstance  needs  to  be  independent,  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  ­­ it  needs  to  be  a  break  in  the  ­­ the  causal  chain. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  that  when  ­­ when  a  warrant  is  run  ­­ and  it  needs 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to  be  something  that  is  not  directly  related  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+officer's  conduct. 
+
+ 
+
+            
+
+ 
+
+And  so  because  the  warrants  check  is  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+inherent  part  of  ­­ of  the  detention,  it's  not  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intervening  circumstance.  And  that's  something  that  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  the  Utah  Supreme  Court  unanimously  agreed  with  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  dissent  in  the  Utah  court  of  appeals  as  well,  agreed 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  this  is  ­­ it's  a  natural  and  foreseeable 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+consequence.  It  is  the  intended  result.  It  ­­ it  is 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+not  something  that  ­­ that  is  independent,  that  ­­ that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+comes  as  a  surprise. 
+
+   
+
+ 
+
+            
+
+And  that  ­­ that's  really  consistent  with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  Court's  case  law  in  dealing  with  intervening 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+circumstances.  Spontaneous  confessions  are  something 
+
+  
+
+ 
+
+ 
+
+ 
+
+that  are  independent;  they  ­­ they  break  the  chain.  We 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+look  at  free  will,  and  that's  independent  and  breaks  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+chain.  Witness  testimony.  But  here  there  was  no  break. 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+It  was  a  direct  result  of  the  officer's  conduct. 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+The  ­­ the  rule  that  we  are  really  asking 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  Court  to  ­­ to  adopt  follows  settled  exclusionary 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+49 
+
+rule  case  law,  and  that  is  that  ­­ that  if  there  is  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bad  stop,  it's  suppressed  unless  there  is  attenuation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  of  course,  if  there  hadn't  been  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrant,  if  ­­ if  the  officer  had  just  stopped  my  client 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  searched  him,  I  don't  think  anyone's  contesting  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  would  just  simply  be  suppressed  without 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+attenuation. 
+
+            
+
+And  in  this  case  there  was  ­­ there  was  no 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+attenuation  as  well  because  all  three  of  the  factors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  this  Court  has  looked  at  work  in  favor  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suppression.  The  temporal  proximity  works  with  us, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+obviously.  It  was  ­­ it  was  contemporaneous.  It  was 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+immediate.  It  was  inherent. 
+
+  
+
+ 
+
+ 
+
+            
+
+It's  not  an  intervening  circumstance  because 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it's  not  independent  and  it's  not  a  break  in  the  causal 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+chain.  And  it  was  deliberate  conduct  on  this  officer's 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+part  that  was  blatantly  unconstitutional. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  You  ­­ you  disagree 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+with  Judge  Friendly's  analysis  in  the  Friedman  case? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  That  ­­ in  ­­ in  what  respect? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Well,  with  ­­ with 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+his  analysis.  As  ­­ as  I  understand,  it  took  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+position  opposite  to  what  you're  arguing,  and  I  just 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+want  to  know  if  you  have  a  basis  for  distinguishing  that 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+precedent. 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+50 
+
+MS.  WATT:  I  guess  I  don't,  no. 
+
+    
+
+   
+
+ 
+
+ 
+
+So  ­­ so  our  position  is  that  that  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+falls  squarely  within  the  ­­ the  Court's  settled  case 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+law.  We're  asking  that  the  Utah  Supreme  Court  be  upheld 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  ­­
+
+ 
+
+            
+
+JUSTICE  ALITO:  You  agree  that  attenuation 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  based  on  ­­ on  deterrence;  that  the  attenuation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+determination  is  based  on  a  calculation  of  the  deterrent 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+effect  of  the  ruling. 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  I  do.  I  do.  I  ­­ I  agree  that 
+
+    
+
+    
+
+    
+
+   
+
+ 
+
+ 
+
+the  focus  is  on  deterrence.  And  I  think  that  in  this 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+circumstance,  there's  powerful  deterrence  to  ­­ to  adopt 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+our  position  and  to  not  follow  Utah's  position. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+If  ­­ if  Utah's  position  is  ­­ part  of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+deterrence  is  looking  at  the  incentive  to  violate  the  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ the  Constitution,  and  looking  forward  to  see  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+see  what  would  happen  with  the  rule. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  under  Utah's  rule,  we  ­­ there  would  be 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nothing  to  stop  police  officers  from  ­­ from  stopping 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  on  the  street,  articulating  something.  Terry 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+doesn't  take  much.  Most  ­­ most  officers  can  articulate 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+some  sort  of  justification,  looking  for  the  warrant,  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+then  sending  people  on  their  way.  So  ­­ so  we  believe 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  deterrence  would  be  very  well  served  by  adopting 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+our  rule. 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+51 
+
+            
+
+JUSTICE  ALITO:  And  ­­ and  your  deterrence 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argument  doesn't  depend  at  all  on  statistics? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  With  ­­ even  without  the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statistics,  our  deterrence  argument  works  because  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+point  is  a  reasonably  well­trained  officer  would  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+should  know  what  the  parameters  of  Terry  are.  This 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+officer  did  not. 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  So  if  one  in  a  thousand 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+people  has  an  outstanding  warrant,  that's  enough? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  So  ­­
+
+  
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  That  statistic  would  ­­ that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+statistic  wouldn't  upset  your  argument? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  It  wouldn't  upset  my  argument 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because  we  ­­ we  run  ­­ officers  run  warrants  checks 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+because  they're  likely  to  find  them  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  One  ­­ one  in  10,000,  would 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  upset  your  argument? 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  I  ­­ I  suppose  ­­
+
+    
+
+   
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  I've  got  to  get  to  a  number 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+where  you're  going  to  say  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  Yes. 
+
+  
+
+ 
+
+            
+
+(Laughter.) 
+
+            
+
+MS.  WATT:  In  those  communities,  then  you're 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+going  to  see  much  less  of  this  behavior,  you  know,  much 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+less  of  the  running  of  warrants  checks  in  order  to  find 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+52 
+
+a  warrant.  It's  going  to  self­correct.  But  for  the 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+most  part,  the  ­­ I  mean,  and  the  flip  side  is  there's 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+then  no  reason  not  to  run  them  if  that's  the  rule.  But 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  the  most  part,  in  ­­ in  most  communities,  the  ­­ the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incentive  there  ­­ the  other  thing  is,  with  Utah's  rule, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it  could  create  an  incentive  to  have  even  more  warrants 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for  even  more  minor  infractions.  This  was  a  traffic 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+matter.  Many  of  these  warrants  in  the  cases  down  below 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are  minor  traffic  matters.  The  ­­ it  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  GINSBURG:  But  what  was  it?  We 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+know  ­­ was  it  a  ­­ a  ticket?  Do  we  know  ­­
+
+   
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+            
+
+            
+
+MS.  WATT:  It's  not  in  the  record. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+JUSTICE  GINSBURG:  It's  not  in  the  record. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MS.  WATT:  Yeah.  But  ­­ but  ­­ but  it  was 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+referred  to  as  a  minor  traffic  ­­
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  ALITO:  Do  you  think  the  judges  in 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  traffic  ­­ in  the  traffic  courts  are  going  to  start 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+issuing  lots  of  warrants  because  they  want  to  provide  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+basis  for  ­­ for  randomly  stopping  people? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  My  point  is  only  that  it  ­­ it 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+creates  an  incentive  to  not  be  as  careful.  It 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+creates  ­­
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  I'm  very  surprised  that 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice  Alito  doesn't  know  that  most  of  these  warrants 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are  automatic.  If  you  don't  pay  your  fine  within  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+53 
+
+certain  amount  of  days,  they're  issued  virtually 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+automatically. 
+
+            
+
+MS.  WATT:  Right.  And  that's  exactly  what 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  one  was. 
+
+ 
+
+ 
+
+            
+
+ 
+
+CHIEF  JUSTICE  ROBERTS:  So  it  doesn't  create 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+an  incentive  of  the  kind  you  were  arguing,  you  were 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+worried  about  before. 
+
+ 
+
+ 
+
+            
+
+MS.  WATT:  I'm  sorry. 
+
+  
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  The  warrants  ­­ the 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+warrants  are  automatic.  You  were  suggesting  that,  oh, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+one  thing  that  will  happen  is  they'll  be  issuing  all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+these  warrants  if  they  know  they  can  get  evidence  from 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+illegal  stops.  And  because  the  warrants  are  automatic, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they're  not  going  to  be  issuing  all  these  warrants,  are 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+they? 
+
+            
+
+MS.  WATT:  They're  automatic  in  certain 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+circumstances,  and  those  circumstances  would  increase. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+So  they're  automatic  right  now  for  no  insurance  or  for 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+speeding.  They  would  increase.  And  ­­ and  they'd  be 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+automatic  for  infractions.  They'd  ­­ and  the  other 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+aspect  is  the  databases  and  the  incentive  to  keep  those 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+databases  accurate  and  up­to­date. 
+
+ 
+
+ 
+
+ 
+
+            
+
+It's  our  position  that  this  absolutely  plays 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+into  a  deterrence,  and  that  Utah's  rule  would  have  an 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+overwhelming  impact  that  would  create  a  powerful 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+54 
+
+incentive  for  police  officers  to  walk  up  to  people  on 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  street  and  simply  stop  them. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+We're  asking,  unless  there's  further 
+
+ 
+
+ 
+
+ 
+
+ 
+
+questions,  that  the  Court  affirm  the  ­­ the  Utah  Supreme 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court.  Thank  you. 
+
+  
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  Ms.  Watt. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Mr.  Green,  you  have  four  minutes  remaining. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+           
+
+REBUTTAL  ARGUMENT  OF  TYLER  R.  GREEN 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+               
+
+ON  BEHALF  OF  THE  PETITIONER 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  Thank  you,  Mr.  Chief  Justice. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+If  I  could  just  make  three  brief  points  in 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+response. 
+
+            
+
+First,  to  the  suggestion  that  officers  make 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+random  stops  in  order  to  find  a  warrant  to  conduct 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+searches  of  this  type.  There's  actually  no  evidence  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  ­­ in  this  record  that  that's  what  happened  here,  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  it  happens  more  broadly.  In  fact,  I  think  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+opposite  is  true. 
+
+ 
+
+ 
+
+            
+
+If  you  look  at  page  ­­
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  It's  routine  practice 
+
+  
+
+ 
+
+ 
+
+ 
+
+to  ­­ to  run  warrant  checks.  Every  stop,  legal  or 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+illegal,  he  says  it's  ­­ he  runs  warrants,  on  the  street 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+or  in  a  car.  Meaning,  that's  what  the  police  officer 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+testified  to. 
+
+ 
+
+            
+
+MR.  GREEN:  He  ­­ he  runs  them,  Justice 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+55 
+
+Sotomayor,  for  the  purposes  I  think  that  have  been 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+discussed  today,  for  safety  rationales  and  other 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reasons.  But  there's  no  actual  evidence  that  he  runs  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+JUSTICE  SOTOMAYOR:  So  we  now  have  a  new 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+rule.  We've  taken  running  warrants  for  traffic  stops 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that  we've  thought  were  legitimate  because  they  had  to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+do  with  highway  safety.  Now  we're  saying  to  police 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+officers,  run  warrants  on  any  name  you  get  because  all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+you  have  to  do  is  wave  the  flag  of  safety. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+MR.  GREEN:  No,  Your  Honor.  That's  not  what 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we're  saying.  We're  saying  that  there  is  a  safety 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rationale  for  the  warrant  check.  But  beyond  that, 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+there's  also  the  important  flagrancy  safety  valve  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+we've  talked  about  here. 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  with  respect  to  this  particular  warrant 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+check  on  page  101  of  the  Appendix  to  our  petition,  there 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  actually  a  finding  from  the  district  court  that  the 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reason  that  this  officer  stopped  this  particular 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+defendant  was  on  suspicion  of  drug  possession  or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+distribution.  It  wasn't  for  something  else.  So  that 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+finding  is  here. 
+
+ 
+
+ 
+
+            
+
+And  more  broadly,  this  rule,  as  we've  noted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in  our  papers,  is,  in  fact,  the  majority  rule  among  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+courts  that  have  addressed  this  issue  throughout  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+country. 
+
+Alderson Reporting Company 
+
+Official 
+
+56 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+            
+
+ 
+
+In  the  United  States,  and  ­­ excuse  me,  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the  Seventh  Circuit,  the  case  of  United  States  v.  Green 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+was  decided  in  1997,  almost  20  years  ago.  And  that,  of 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+course,  involves  States  with  a  large  number  of 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+metropolitan  areas,  Chicago  and  Milwaukee  and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Indianapolis.  And  there's  no  evidence  in  this  record  or 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+before  this  Court  that  these  sort  of  random  stops  in 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+order  to  check  for  warrants  is  happening  in  those 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+jurisdictions.  So  I  think  the  actual  practice  and  the 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+way  it  bears  out,  and  has  borne  out  in  ­­ in  areas  where 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  has  been  adopted  undermines  that  particular 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+argument. 
+
+            
+
+Second,  Your  Honor,  with  respect  to  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+question  of  whether  a  subjective  purpose  should  come  in, 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+responding  to  Justice  Kennedy's  question  to  this  ­­ to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  inquiry.  I  think  if  this  Court  were  to  do  that,  it 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  become  an  outlier  of  sorts  in  the  case  ­­ in  this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Court's  Fourth  Amendment  jurisprudence.  And  I  think, 
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+with  respect,  if  ­­ if  it  remains  an  objective  inquiry 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  consistent  with  the  rest  of  this  Court's  cases,  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+objective  inquiry  will  capture  the  flagrant  cases. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+We've  cited  four  cases  from  four  different 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+State  courts  in  our  reply  brief,  in  footnote  1  of  our 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reply  brief.  That's  Illinois,  Missouri,  New  Jersey. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+And  Oregon,  where  the  courts  that  have  applied  this  rule 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+57 
+
+have  undertaken  the  flagrancy  inquiry  and  have,  in  fact, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+suppressed  evidence  because  the  initial  stop  was 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+flagrant. 
+
+            
+
+Finally,  a  third  point,  the  ­­ as  we've 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+noted  in  our  briefs,  Your  Honor,  the  ­­ the  Respondent 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+here  has  abandoned  the  Utah  Supreme  Court's  rule  that  an 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intervening  circumstance  must,  in  fact,  be  something 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+attributable  to  the  defendant's  own  free  will.  We  think 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+that's  appropriate  based  on  that  concession  that  it 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+would  ­­ that  this  Court  should  ­­ should  reverse  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+judgment  of  the  Utah  Supreme  Court,  and  leaves  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+question,  of  course,  of  what  rule  to  adopt  instead. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+And  we  think,  Your  Honor,  this  ­­ this 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+intervening  circumstance  here,  this  arrest  on  a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+preexisting  warrant  that  arises  from  probable  cause 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+based  on  facts  completely  unrelated  to  the  circumstances 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and  the  facts  of  this  stop,  is  exactly  like  what 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+happened  in  Johnson  v.  Louisiana,  which  is  the  case  that 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+this  Court  pointed  to  in  Brown  v.  Illinois.  Where  ­­
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+where  it  adopted  and  said  the  intervening  circumstance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is  critical  to  the  attenuation  inquiry.  It's  a 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+straightforward  application  of  that  particular  test. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+If  there  are  no  further  questions. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+CHIEF  JUSTICE  ROBERTS:  Thank  you,  counsel. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+            
+
+Case  is  submitted. 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+Official 
+
+58 
+
+            
+
+(Whereupon,  at  12:05  p.m.,  the  case  in  the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+above­entitled  matter  was  submitted.) 
+
+ 
+
+ 
+
+ 
+
+Alderson Reporting Company 
+
+A 
+
+a.m 1:13 3:2 
+abandoned 57:6 
+ability 25:17 
+able 8:6,13 
+above­entitled 1:11  Amendment 7:25 
+9:1,12,25 13:11 
+17:3,18 19:19 
+29:2 56:18 
+
+alleged 42:18 
+allow 7:1 
+
+absolutely 8:4 
+
+58:2 
+
+53:23 
+
+Official 
+Official
+
+Page 59 
+
+37:13,20,24 44:11  areas 8:10 12:19 
+40:2,3 56:5,10 
+50:6 51:1,8,11,16 
+argue 27:11 35:4 
+51:19 52:16,24 
+argued 24:16 47:13  assumption 21:12 
+arguing 38:25 
+
+Assistant 1:17 
+assume 6:17 21:13  begrudging 9:13 
+assumed 34:8 
+
+behalf 1:16,20 2:4 
+2:11,14 3:7 28:20 
+54:9 
+
+begins 38:4 
+
+49:23 53:6 
+
+argument 1:12 2:2 
+
+attacking 19:14 
+attenuating 5:16 
+attenuation 3:16 
+
+behavior 51:24 
+believe 19:17 50:23 
+
+18:4 
+
+49:17 
+
+26:7,20 
+
+28:14 49:19,22 
+
+amicus 1:19 2:7 
+
+beyond 12:17 13:15 
+
+amount 29:23 
+
+43:18 53:1 
+
+announce 5:14 
+anonymous 4:15 
+
+55:12 
+big 33:2 
+blatantly 39:18 
+
+attenuations 28:2 
+attributable 57:8 
+authorities 37:15 
+authority 28:12 
+authorization 
+
+11:11 12:24 24:2  best 44:25 
+24:12,21 25:7 
+28:13 49:2,7,9 
+50:6,7 57:21 
+
+2:5,9,12 3:3,6 
+10:17 12:21 18:3 
+28:19 29:18 51:2 
+51:4,12,13,17 
+54:8 56:12 
+arises 57:15 
+analysis 3:16 23:20  arising 14:22 
+arming 10:17 
+arrest 3:13 6:24 
+7:20 8:5,11,13 
+11:8 12:10,17 
+15:8 16:1,3,20,21 
+16:23 18:20,21,22  automatically 53:2  brief 17:2 20:8 21:5 
+18:24 19:1 20:19 
+22:6,9,11,13,17 
+22:25 23:7,15 
+24:4,13 25:17 
+32:12,20 35:4,8,9  back 12:9,16 18:25  bring 22:9 37:17 
+36:1,6,6,24,25 
+37:1,8,9 39:25 
+40:2,7,14 46:7 
+57:14 
+
+answers 5:23 
+anyone's 49:5 
+appeals 48:12 
+appear 22:8 25:16 
+APPEARANCES 
+
+31:5 32:18 41:6 
+47:24 54:11 56:23 
+56:24 
+
+block 15:10 
+borne 56:10 
+break 48:4,20,22 
+
+53:10,13,16,18,20  breaks 48:21 
+
+40:16 49:2 
+bag 16:12,13 
+arrested 16:7 35:11  baggie 15:25 
+
+25:8 31:19,22 
+57:19 
+
+answer 6:11 12:23 
+
+14:7 34:4 45:7 
+
+26:7 46:19 
+
+bad 28:4 38:23 
+
+automatic 52:25 
+
+breaking 32:14 
+
+automobile 31:7 
+
+46:20 47:9 
+
+broadly 54:17 
+
+55:22 
+
+Brown 13:3 23:25 
+
+briefs 57:5 
+
+1:14 
+
+Appendix 55:16 
+application 57:22 
+applied 56:25 
+applies 9:12 
+apply 3:10 9:22 
+
+37:12 
+
+49:15 
+
+37:14 
+
+B 
+
+16:15 46:23 47:2 
+47:9 
+
+arresting 3:14 
+arrests 14:10 24:7 
+
+appreciable 8:19 
+
+41:17 
+
+based 4:20 5:8 
+
+14:22 34:15 38:3 
+50:7,8 57:9,16 
+
+but­for 11:6 15:18 
+
+C 
+
+Bash 1:17 2:6 18:2  C 1:20 2:1,10 3:1 
+
+abuse 28:24 
+accept 40:5 
+accurate 53:22 
+act 9:2 11:20 40:20 
+acting 22:15 26:1 
+actions 14:14 
+activity 4:21 26:23 
+
+42:18 44:18 
+
+actual 15:5 55:3 
+
+56:9 
+
+additional 8:20 
+
+10:1 
+
+addressed 55:24 
+admissible 3:17 
+admit 7:2 8:6,13 
+admits 3:25 
+admitted 4:8 5:4 
+
+16:20 
+
+admittedly 9:25 
+
+11:6 
+
+adopt 48:25 50:12 
+
+57:12 
+
+adopted 29:9 56:11 
+
+57:20 
+
+adopting 50:24 
+affirm 54:4 
+ago 56:3 
+agree 15:17 16:11 
+27:2 35:11 50:6 
+50:10 
+
+agreed 48:11,12 
+agrees 22:11 
+ahead 9:15 36:22 
+Alabama 4:12 36:3 
+Alito 20:24 21:21 
+
+11:21 
+
+appreciably 12:4 
+approach 47:21 
+approached 44:4 
+
+44:16 
+
+approaches 47:2 
+appropriate 8:18 
+9:6 14:21 28:14 
+57:9 
+
+appropriately 
+
+articulable 38:12 
+
+43:10 
+
+18:3,6 19:3,7,20 
+20:4,14,25 21:4 
+21:24 22:20 23:9 
+23:21 25:5 26:14 
+27:13 28:3,10 
+
+articulate 50:21 
+articulating 50:20 
+asked 44:18,19 
+asking 6:7,22 10:18  basic 38:10 
+
+37:25 38:2 42:1 
+48:24 50:4 54:3 
+
+aspect 39:12,12 
+
+53:21 
+
+aspects 39:11 
+assessment 38:14 
+
+basis 13:23 39:25 
+
+49:24 52:19 
+
+bears 56:10 
+beat 5:5 
+becoming 5:17 
+began 38:3 
+
+28:19 
+
+calculation 50:8 
+call 4:9 5:8 7:11 
+
+26:7 
+
+calls 7:12 
+capture 56:21 
+car 33:11 43:17,23 
+
+46:14,19 47:3 
+54:23 
+
+careful 52:21 
+carry 20:16 
+cars 43:16 
+
+29:13 30:2 35:3,8 
+35:14,18,24 36:10  area 13:22 
+
+22:24 
+
+Alderson Reporting Company
+ 
+Alderson Reporting Company
+
+cases 11:22 12:25 
+13:16 14:7,10,12 
+20:15,16,21 23:24 
+23:24,25 24:23 
+25:7,13,25 28:4 
+40:10 47:12 52:8  Circuit 56:2 
+56:20,21,22 
+
+case 3:4 4:12 11:2 
+
+15:4 21:5 23:2 
+24:18,22 25:1,15 
+26:15 27:2,13,19 
+28:11 31:10,17 
+33:15 34:7,7 
+35:22,25 38:18 
+40:9,10 41:8 
+45:14,20,23 48:18 
+49:1,8,19 50:3 
+56:2,17 57:18,25 
+58:1 
+
+catch­and­release 
+
+47:21 
+
+causal 48:4 49:15 
+cause 9:15 14:10,22 
+
+15:18,20 16:1 
+20:11,19 24:5 
+27:3 45:23,25 
+46:6,6,11 57:15 
+certain 26:8 33:6 
+
+40:1 53:1,16 
+certainly 17:8 
+
+20:20 31:6 
+
+chain 48:4,20,22 
+
+49:16 
+
+challenged 35:7,16 
+chance 6:9 7:1 8:5 
+8:8,9 23:13 30:8 
+change 7:18 23:3 
+
+28:1 
+
+check 10:16,19 
+17:4,6,17,20 
+30:17,20,24 31:1 
+33:9,13,15,18,23 
+34:3,5,8,17,22 
+35:2 39:14,15 
+40:7,12,14,17 
+41:7,13,17,21 
+
+Official 
+
+42:3 44:15 45:2,4  close 4:9 5:8 7:11 
+45:11 47:17 48:8 
+55:12,16 56:8 
+
+cocaine 15:25 16:2 
+
+7:12 26:15 
+
+16:12,13 
+
+come 4:14 10:2 
+
+49:16 54:14 
+
+confession 28:6 
+confessions 48:19 
+confirm 14:18 
+confusing 27:21 
+conjunction 22:5 
+
+checking 43:2,21 
+checks 33:4 51:14 
+
+51:25 54:21 
+Chicago 56:5 
+Chief 3:3,8 13:5 
+
+12:16 16:2 21:16 
+27:22 35:25 56:14  consequence 41:20 
+
+48:14 
+
+comes 5:20 15:6 
+27:13,19 47:18 
+48:16 
+
+comfortably 11:10 
+coming 3:25 4:10 
+
+consequences 30:5 
+consideration 
+
+18:1,6 28:7,8,17 
+28:21 32:8,17,23 
+33:7,21 38:25 
+39:23 40:13,25 
+41:4,16 43:15,20 
+26:22 48:17 56:20 
+44:1 46:22 47:1,8  commitment 15:1  Constitution 36:18 
+47:11 49:18,21 
+53:5,9 54:6,10 
+57:24 
+
+constitutional 29:4 
+communities 18:10  contemporaneous 
+
+common­sense 
+
+consistent 4:21 
+
+27:22 46:19 
+
+24:23 
+
+50:16 
+
+24:3 
+
+49:12 
+
+18:12,17 19:12 
+21:19,23 29:9,22 
+29:24 32:25 51:23  context 14:15 31:7 
+contraband 23:14 
+52:4 
+convenience 46:14 
+
+contesting 49:5 
+
+circumstance 5:16 
+
+5:17 10:5,6,16 
+11:9,14,25 12:25 
+14:21,24 15:1 
+19:1 23:12 35:23 
+35:24 36:2 48:3 
+compelling 10:5 
+48:10 49:14 50:12  complete 26:11 
+57:7,14,20 
+
+community 6:23 
+
+7:19 22:13 
+
+completely 14:23 
+15:21 44:3 57:16 
+
+circumstances 5:10 
+
+46:18 
+
+corner 5:19 6:6 
+correct 11:1 12:5 
+27:14 31:10,13 
+35:15 42:23,24 
+46:20 
+
+comply 7:24 
+component 13:7 
+
+6:18 8:16 14:11 
+15:3,11 25:19 
+30:23 36:13,16 
+38:15 48:19 53:17  comport 9:11 
+53:17 57:16 
+
+corroborate 4:15 
+Cortez 46:3 
+cost 19:16 
+conceded 5:7 17:10  costs 19:21 
+
+14:1 
+
+cited 21:5 56:22 
+citing 14:8 
+citizen 6:7 
+citizenry 47:22 
+citizens 29:1,6 
+
+47:16 
+
+City 1:15,20 29:15 
+class 20:16 
+clean 29:3 
+clear 45:24 46:1,9 
+client 38:21 40:23 
+41:11 42:15 44:9 
+44:23 45:7 46:10 
+47:15 49:4 
+
+31:11,12 36:7 
+38:6 39:1 
+
+concern 18:8 29:2 
+41:25 47:14,15 
+concerned 21:22 
+
+24:1 
+
+concession 57:9 
+conclude 7:9 
+concluded 13:20 
+concluding 6:16 
+conduct 5:11 9:24 
+13:4 23:16 31:18 
+31:23 37:22 43:23 
+45:17 48:7,23 
+
+counsel 18:1 28:17 
+
+57:24 
+
+count 5:24 6:12,15 
+
+9:23 
+
+counties 21:7 
+country 45:21 
+
+55:25 
+
+county 21:8 
+couple 26:19 
+course 4:17 10:21 
+17:9,10,22 19:20 
+21:11,15 22:21 
+49:3 56:4 57:12 
+
+court 1:1,12 3:9 
+
+Alderson Reporting Company
+ 
+
+Page 60 
+
+8:18 10:6 13:21 
+14:12,16,25 18:7 
+22:5 23:23 24:23 
+25:9,13,14 27:13 
+27:20 28:11,22 
+29:11 31:6 35:20 
+36:1 48:11,12,25 
+49:10 50:4 54:4,5 
+55:17 56:7,16 
+57:10,11,19 
+
+Court's 3:16 4:12 
+8:22 11:11,17,22 
+12:25 13:2,11 
+16:22 48:18 50:3 
+56:18,20 57:6 
+
+courts 3:10 14:16 
+
+27:21 38:13 52:17 
+55:24 56:23,25 
+create 28:25 29:5 
+47:23 52:6 53:5 
+53:25 
+
+creates 52:21,22 
+crime 13:22 15:9 
+
+15:21 18:24 19:4 
+19:5 37:3 
+
+crimes 16:9 19:11 
+
+26:20 
+
+critical 57:21 
+culpability 10:1 
+
+13:4 
+
+curiae 1:19 2:7 
+
+18:4 
+
+curiosity 36:11 
+custody 16:19 
+cut 29:4 
+
+D
+
+D 3:1
+D.C 1:8,18 
+danger 19:12 40:18 
+databases 53:21,22 
+day 38:9 45:20 
+days 53:1
+dealing 4:4 40:15 
+
+40:22 41:14 48:18 
+
+decide 41:5
+
+decided 56:3 
+deciding 16:4 23:4 
+decision 4:12 16:22  direct 15:13 48:23 
+defendant 38:17 
+
+37:2 39:17 44:4 
+56:22 
+
+directly 48:6 
+disagree 26:16 
+
+55:19 
+
+defendant's 28:6 
+
+49:18 
+
+57:8 
+
+defending 26:6 
+definition 39:17 
+deliberate 31:25 
+
+39:12 49:16 
+
+deliberately 31:21 
+deliveryman 27:8 
+demanding 9:2 
+
+43:11 
+
+discovery 11:7 24:5 
+
+25:11 
+
+discussed 14:12 
+
+55:2 
+
+discussing 27:16 
+dispel 14:18 
+display 13:4 
+dissent 48:12 
+distinguishable 
+
+Department 1:18 
+
+11:19 
+
+21:6 22:1,12 
+
+depend 51:2 
+derived 10:11 
+designed 25:16 
+detached 15:21 
+detain 29:1 35:1 
+detained 30:19 
+detaining 30:22 
+detains 42:10 
+detention 30:20 
+37:8 38:3 48:9 
+
+determination 7:7 
+
+50:8 
+
+determine 28:5 
+
+33:22 
+
+distinguishing 
+
+49:24 
+
+distribution 55:20 
+district 55:17 
+DNA 16:8 
+doctrines 25:10 
+doing 4:1 9:14 
+
+10:18 26:11 30:16 
+30:24 33:16 43:9 
+44:20,24 
+door 28:23 
+doubt 41:18 
+downside 30:1,3 
+dragnet 7:16 36:8 
+dragnets 36:7 
+
+deterrence 8:17,19  dramatically 7:18 
+
+8:20,24 10:2 
+11:21,25 12:2,5 
+12:21 32:16,16 
+36:16,17 44:6 
+50:7,11,12,15,24 
+51:1,4 53:24 
+
+deterrent 19:22 
+
+23:3 
+
+driving 43:16 
+drug 4:4,21 26:2,20 
+26:20,21,23 27:5 
+27:6 44:17 45:22 
+55:19 
+
+drugs 8:14 16:17 
+
+50:8 
+
+36:25 37:17 
+deterring 45:16,17  Dunaway 25:8 
+difference 33:25 
+
+31:22 32:1 
+
+34:1,5 
+
+different 5:2 14:15 
+
+E 
+E 2:1 3:1,1 
+15:5 16:6,16 
+17:21 21:12 34:14  earlier 25:7 
+
+2:6,10,13 
+
+establish 18:14 
+
+24:2 45:23 
+
+established 24:21 
+event 8:21 20:17 
+
+28:13 47:25 
+
+21:9,17 
+
+F 
+
+F 1:17 2:6 18:3 
+faced 38:9 
+Fackrell 33:16 
+
+45:16 
+
+everybody 22:11 
+evidence 3:11,12 
+3:17 7:2 8:1,7 
+10:11 11:20 15:13  fact 25:20,21 39:4,5 
+54:17 55:23 57:1 
+16:2,4,8,8,17,24 
+57:7 
+18:15 19:4,10,14 
+19:17,22 24:5,7 
+26:2 36:8 37:3 
+40:6 47:4 53:12 
+54:15 55:3 56:6 
+57:2 
+
+factors 14:11 23:25 
+
+facts 14:11,23 
+
+firearm 19:11 26:3 
+first 4:9,13 5:2,23 
+
+42:9 54:13 
+fishing 42:11 
+flag 55:9 
+flagrancy 8:16 13:3 
+
+13:13,18 23:24 
+24:9,22 25:15 
+27:16 31:20 32:2 
+39:11 55:13 57:1 
+flagrant 3:18 6:14 
+
+Official 
+
+EDWARD 1:6 
+effect 18:22 25:12 
+
+25:25 50:9 
+
+either 9:23 24:10 
+
+24:19 28:15 
+
+excluded 19:3 
+excluding 19:22 
+exclusionary 3:10 
+
+3:20 9:10 12:3 
+16:14 48:25 
+
+46:3 
+
+elements 31:20 
+
+excuse 56:1 
+execute 40:6 
+execution 19:8,9 
+emerge 38:21 
+existed 19:1 
+empirical 40:4,5 
+existing 9:10 
+empirics 23:10 
+expect 39:21 
+encounter 38:4,4 
+encouraged 47:20 
+expedition 42:11 
+encouragement 9:7  experience 4:20 
+encourages 9:11 
+engage 47:20 
+ensuing 4:17 23:15 
+ensure 33:23 34:8 
+ensuring 19:18 
+entire 33:2 
+entirely 40:4 
+ESQ 1:15,17,20 2:3  Extending 3:20 
+
+expertise 26:23 
+explained 8:18 
+exploit 24:12 25:17 
+exploiting 24:6 
+explore 25:1 
+exposes 30:4 
+
+26:19,23 
+
+Page 61 
+
+February 1:9 
+fellow 14:3 
+Ferguson 6:4,7 
+
+18:17 22:2,4,14 
+23:2,12 
+figure 4:5 
+Finally 57:4 
+find 7:14 8:5,13,14 
+10:22 22:12 29:20 
+30:11 33:17 41:11 
+41:12,21,23 42:4 
+43:4,12,13 46:11 
+47:5 51:15,25 
+54:14 
+
+finding 5:25 7:6 
+12:9 15:20,25 
+23:14,14,17 29:2 
+31:24 55:17,21 
+
+finds 40:21 
+fine 22:10,17 28:1 
+
+28:10 52:25 
+
+extra 9:16 
+extremely 12:11,12  Finish 28:8 
+
+fingerprint 16:8 
+
+49:9 
+
+7:7,16 27:21 
+28:15 31:18 32:1 
+15:22 24:11,14 
+39:9 56:21 57:3 
+30:17,18 57:16,17  flagrantly 31:12 
+
+failure 22:8 
+flip 52:2 
+fair 43:17 
+Florida 33:2 
+fairly 20:7 45:19,19  flows 11:17 
+fairly­low 39:6 
+faith 26:1 
+falls 11:10 50:3 
+favor 49:10 
+fear 42:19 43:10 
+
+32:15 50:11 
+focusing 18:17 
+follow 50:13 
+following 8:21 13:2 
+
+focus 21:20 32:14 
+
+evolved 13:11 
+exactly 43:14 44:12 
+
+53:3 57:17 
+
+example 19:11 
+27:15 35:19 
+exception 9:22 
+
+24:12 
+
+exclude 18:15 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+27:9,14,18 36:20 
+H 
+36:23 47:24 52:10  hand 13:17 
+52:13 
+
+give 6:7 9:7 35:19 
+
+44:14 
+
+happen 9:21 22:22  hurt 37:18 
+I 
+
+22:23 43:19,20 
+50:17 53:11 
+
+hundred 32:19 
+hunting 29:7 
+
+follows 48:25 
+footnote 56:23 
+foreseeable 48:13 
+form 29:5 
+formal 26:12 
+formulate 25:15 
+forward 50:16 
+fought 37:11 
+found 3:14 14:25 
+16:13,18 19:6,8 
+19:10 20:19 26:1 
+36:8,17 37:7 
+40:19 47:3,5 
+
+four 54:7 56:22,22 
+Fourth 7:25 9:1,12 
+
+9:25 13:11 17:2 
+17:18 19:19 29:2 
+56:18 
+
+free 28:6 48:21 
+
+57:8 
+
+given 27:10 
+gives 15:25 30:13 
+globally 21:4 
+go 9:15 14:12 18:25  happening 56:8 
+32:15 36:22 46:13  happens 17:12 
+46:19 
+
+happened 15:16,19 
+17:8 43:17 44:12 
+54:16 57:18 
+
+54:17 
+hear 3:3 
+heart 29:5 
+heavily­policed 
+
+8:10 
+
+going 4:4 5:13 6:9 
+8:5,6,7,13 9:16 
+14:3,4 18:23,25 
+20:12 22:4 23:6 
+23:22 24:20 25:1  held 35:20 
+25:11 26:7 30:8 
+30:11 37:14 39:16 
+39:17 42:5,5,20 
+44:18 45:20,22 
+51:20,24 52:1,17 
+53:14 
+
+24:23 
+
+Herring 23:25 
+
+frequent 38:20 
+Friedman 49:19 
+friend 44:25 45:10 
+Friendly's 49:19 
+frisk 35:10 
+frisked 42:15,16 
+fruit 35:20 36:8,12  great 23:10 
+
+44:2 
+
+gotten 26:4 
+grab 17:16 44:14 
+
+good 6:5 7:14 26:1 
+
+37:7,10,19,25 
+
+greater 29:24 
+
+G 
+
+57:23 
+
+future 45:17 
+
+further 17:24 54:3  Green 1:15 2:3,13 
+3:5,6,8,23 4:7,25 
+5:3,22 6:10,17 7:4 
+7:22 8:15 9:9,19 
+10:9,20 11:1,5,16 
+12:6,22 13:5,9,24 
+14:6 15:14,17 
+16:11 17:1,7,19 
+54:7,8,10,25 
+55:10 56:2 
+ground 16:3 
+guarantee 7:8 
+guess 12:8 22:19,20 
+
+G 3:1 
+gained 7:2 
+garage 46:18 
+gathered 16:24 
+gathering 8:1 
+General 1:15,17 
+
+36:5 
+
+generalize 40:5 
+generally 24:4 
+gentleman 42:20 
+getting 19:2 46:20 
+Ginsburg 10:9,24 
+11:2 17:1,13,19 
+
+33:21 34:4 50:1 
+guilt 18:15 19:22 
+guns 8:14 37:1 
+guy 15:7 44:14 
+
+hey 26:12 
+high 12:12 21:20 
+
+23:15 32:25 40:2 
+high­crime 13:22 
+
+22:24 23:11 
+higher 13:22 
+highway 55:7 
+hold 28:11 42:2 
+holding 10:7 
+Honor 3:23 5:3 
+
+6:10 8:15 9:9,20 
+10:20 11:5,9,16 
+12:6,22 13:9,24 
+14:19 15:17 17:8 
+55:10 56:13 57:5 
+57:13 
+
+hope 6:8 31:24,24 
+
+42:11 
+
+hours 4:16,18 
+
+26:22 
+
+house 4:1,4,10,14 
+26:21,24 27:4,7 
+38:20,21 41:12 
+42:5 44:18 45:25 
+46:10,14 
+
+houses 27:4 45:21 
+
+45:22 
+
+huge 20:17 
+
+Page 62 
+
+include 39:17 
+includes 13:7 
+inconsistent 13:10 
+increase 6:25 12:5 
+
+12:21 53:17,19 
+independent 48:3 
+
+48:15,20,21 49:15 
+
+Indianapolis 56:6 
+individual 37:13 
+individualized 
+
+38:16 44:9 46:2 
+inevitable 25:10 
+infer 45:3 
+infractions 52:7 
+
+53:20 
+
+inherent 30:21 34:3 
+39:15 41:10 48:9 
+49:13 
+
+initial 11:6 17:21 
+
+57:2 
+
+innocent 47:16 
+inquiring 25:9 
+inquiry 6:13 7:5 
+
+8:16 12:6,23 13:3 
+13:10,17 19:21 
+25:3 43:23 45:11 
+56:16,19,21 57:1 
+57:21 
+
+insufficient 47:3 
+insurance 53:18 
+intended 41:20 
+
+48:14 
+
+interaction 33:24 
+
+40:18 
+
+interesting 4:22 
+intermittently 
+
+26:21 
+
+intervening 10:5,6 
+10:16 11:9,13,25 
+12:24 14:21,24 
+15:1,3,11 20:16 
+28:13 36:2 47:25 
+48:3,10,18 49:14 
+57:7,14,20 
+
+intrusive 9:2 20:7 
+
+26:11 
+
+ID 6:7 44:14 
+identification 5:20 
+
+9:2 
+
+identified 10:7 22:3 
+
+44:16 
+ill 45:8 
+illegal 16:10 23:16 
+
+30:3,14 37:8 
+53:13 54:22 
+illegally 18:22 
+30:11 32:11 
+
+Illinois 56:24 57:19 
+immediate 41:9 
+
+49:13 
+
+immediately 40:11 
+
+40:13 
+
+impact 53:25 
+imply 32:10,20 
+implying 41:4 
+importance 23:19 
+
+23:19 
+
+important 14:1 
+
+21:24 29:17 32:3 
+39:2 45:5,14 
+55:13 
+
+improve 9:5 
+incentive 6:1,6,25 
+7:24 22:9,14,16 
+28:25 30:13 36:18 
+47:23 50:15 52:5 
+52:6,21 53:6,21 
+54:1 
+
+incentive­to­sear... 
+
+22:16 
+
+incentives 7:18 
+
+23:4 
+
+incentivizing 23:16 
+incidence 29:24 
+incident 3:13 16:23 
+
+22:16 24:7,13 
+25:17,20,23 36:6 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+56:15 
+
+42:1,8 
+
+38:8,10 53:6 
+
+kind 8:9 12:18 25:3 
+
+kinds 33:19 
+kings 27:20 
+knew 44:5 
+know 4:1,2,3 7:23 
+
+17:1,13,19 18:1,6 
+18:9,9,19 19:5,13  Kennedy's 34:18 
+19:24 20:5,14,22 
+20:24 21:6,18,21 
+22:1,12,19 23:9 
+23:18,22 24:25 
+25:5,5 26:4,14 
+27:9,14,17,17,18 
+28:7,8,17,21 
+29:13 30:2,25 
+31:4,9,17 32:8,17 
+32:23 33:7,21 
+34:6,11,13,17,21 
+34:24 35:3,8,14 
+35:18,24 36:10,19 
+36:20,22,23 37:13 
+37:20,24 38:25 
+39:8,23 40:13,25 
+41:2,4,15,16 42:1 
+42:8,14,17,23,25 
+43:7,14,15,20 
+44:1,11 46:13,17 
+46:22 47:1,8,11 
+47:24 49:18,21 
+50:6 51:1,8,11,16 
+51:19 52:10,13,16  known 38:23 44:7 
+52:23,24 53:5,9 
+54:6,10,20,25 
+55:4 56:15 57:24 
+justification 32:6 
+
+8:12 9:1 10:14 
+12:3,15,20 15:7 
+15:24 20:8 21:1,4 
+21:25 23:5 25:11 
+26:9 27:7 29:19 
+30:9 31:21 32:7 
+32:11,16 33:11 
+36:1 38:11,18 
+39:25 40:8,15 
+41:8,14,14 44:5,8 
+44:11,21,23 45:1 
+45:9,13,19 46:2,3 
+49:24 51:6,24 
+52:11,11,24 53:12 
+
+knows 24:21 26:10 
+
+knowing 10:11 
+
+38:19,21 
+
+29:2 
+
+44:7 
+
+L 
+
+lay 26:16 
+leads 16:8 
+leaves 39:5 57:11 
+leaving 46:10 
+left 24:24 
+legal 20:17 28:12 
+
+54:21 
+
+legitimate 24:16 
+
+25:21 34:18 55:6 
+
+30:6 41:16 
+letting 16:7 
+level 13:3 
+limitation 45:18 
+limits 32:7 
+line 13:20 
+link 11:6 
+listing 23:24 
+little 44:5 
+live 44:24 
+lived 4:2 
+lives 44:25,25 
+
+45:10 
+
+location 15:12 
+long 27:5 
+long­term 27:3,6 
+longer 26:5 
+look 11:24 12:1 
+
+investigate 14:17 
+
+43:8 
+
+investigation 24:16 
+
+25:21 29:6 
+
+investigative 33:24 
+
+34:20 
+
+investigatory 10:22 
+
+26:13 34:14,15 
+
+involved 27:5 
+involves 56:4 
+involving 14:10 
+irrelevant 29:4 
+issue 15:22 55:24 
+issued 53:1 
+issuing 22:7 52:18 
+
+53:11,14 
+
+J 
+
+jail 37:14,17 
+Jersey 56:24 
+JOAN 1:20 2:10 
+
+28:19 
+
+JOHN 1:17 2:6 
+
+18:3 
+
+Johnson 10:7 14:25 
+
+57:18 
+
+JOSEPH 1:6 
+JR 1:6 
+judge 6:15 7:9,14 
+
+49:19 
+
+judged 3:15 
+judges 52:16 
+judgment 57:11 
+jurisdictions 56:9 
+jurisprudence 
+
+11:11 13:11 19:15 
+56:18 
+
+Justice 1:18 3:3,8 
+
+man 4:6 
+
+lens 11:25 12:2 
+Leon 23:25 24:23  March 22:2,2 
+lessened 20:6 
+let's 7:11 29:14 
+
+Page 63 
+
+21:17 33:1 
+
+lowering 20:20 
+
+M 
+
+magistrate 15:21 
+
+20:18 28:12 
+
+majority 55:23 
+making 17:21 
+
+29:21 35:9 
+
+marginal 8:20 10:2 
+Maryland 21:9 
+matches 14:24 
+matter 1:11 33:24 
+
+42:2 44:6 52:8 
+58:2 
+
+matters 52:9 
+mean 3:24 7:17 
+
+8:10 12:16 17:5 
+17:14 24:25 27:7 
+32:14,18 33:8,22 
+33:24 36:25 37:21 
+40:4 52:2 
+
+Meaning 54:23 
+means 11:18 
+measure 12:17 22:6 
+mentioned 23:23 
+merely 9:17 16:2 
+metropolitan 56:5 
+Milwaukee 56:5 
+
+50:22 
+
+justify 36:13 
+
+K 
+
+Kagan 6:17 7:4,10 
+
+Lake 1:15,20 29:15 
+
+29:15 
+
+large 56:4 
+late 40:20 
+
+16:3 25:19,20,21  mind 27:15 
+28:1,4 32:6,6 34:7  Minnesota 21:8 
+minor 6:5 22:7 
+38:14,16 48:21 
+54:19 
+
+7:22 8:3 11:13,23  Laughter 20:3 
+12:8,23 13:20 
+18:9 22:19 23:9 
+24:25 25:5 27:17 
+
+51:22 
+
+law 15:4 36:11 42:2 
+45:23 48:18 49:1 
+50:4 
+
+looked 15:4 21:7 
+
+49:10 
+
+looking 33:15 
+
+3:21,24 4:7,22 5:1 
+5:13,22 6:3,17,22  Kagan's 21:18 
+7:4,10,22 8:3,23 
+keep 26:6,6 53:21 
+9:13 10:9,24 11:2  Kennedy 13:6,14 
+13:25 14:6 23:18 
+11:13,23 12:8,23 
+13:5,6,13,14,20 
+23:22 25:5 27:17 
+30:25 31:4,9,17 
+13:25 14:6 15:2 
+15:15,24 16:11 
+36:19,22 39:8 
+
+45:15,15,16,21 
+50:15,16,22 
+
+misconduct 5:11 
+Missouri 56:24 
+lot 12:1 18:10,12,13  mistake 24:17 
+
+lawful 6:2 16:18,21 
+16:22,23,24 22:11 
+31:1,3 35:8,15,20 
+lots 22:25 52:18 
+36:12 37:15,22,25  Louisiana 10:8 
+14:25 57:18 
+
+18:18 27:22 32:18  Monday 1:9 
+mother 44:24 
+motivations 25:2,6 
+moved 25:13 
+low 10:1 12:11 21:9  moving 39:19 
+
+lawfully 3:12 16:25 
+lawyer 38:8 
+
+29:23 52:7,9,15 
+minutes 45:9 54:7 
+miscalculation 
+
+3:19 4:8 
+
+Alderson Reporting Company
+ 
+
+percent 6:4,9 29:14  position 31:15 35:4 
+
+5:18 6:19 8:24 
+9:6,7 10:13,17 
+14:2 15:6 19:6 
+20:10,12 22:5,8 
+23:4 29:1 33:8 
+39:21,22 40:16 
+50:19 54:1,23 
+55:7 
+
+policing 6:22 7:19 
+population 21:14 
+
+35:23 36:5,15 
+37:6 39:3,10 
+47:25 48:2 49:23 
+50:2,13,13,14 
+53:23 
+
+possession 55:19 
+possibility 8:12 
+
+23:6 
+
+Official 
+
+Page 64 
+
+once 5:15 16:23 
+
+particularly 12:18 
+
+24:2 36:24 
+
+13:19 14:18 
+
+8:9 
+
+once­in­a­blue­m...  pass 21:16 
+pat 36:25 
+pat­down 37:1 
+patting 37:4 
+pay 22:10,17 52:25  police 3:24 5:14,18 
+people 6:24 7:20 
+
+pointed 57:19 
+pointing 36:10 
+points 54:11 
+
+ongoing 27:5 
+open 28:23 
+opposite 49:23 
+
+26:5 27:14 40:22 
+45:2,3 51:5 52:20 
+57:4 
+
+objectively 3:18,22  one­half 29:14 
+
+municipal 22:5 
+murder 33:12 
+
+N 
+N 2:1,1 3:1 
+name 5:15 6:8 
+
+10:10,11,14,18,23 
+11:3,4 17:6,17 
+55:8 
+
+names 43:11 
+narrow 30:18 
+nationwide 18:16 
+
+22:21 
+
+O 2:1 3:1 
+objective 14:13 
+
+25:14 32:4 56:19 
+56:21 
+
+4:5,11 24:10,19 
+25:16 28:15 32:5 
+
+observation 4:16 
+Observed 26:21 
+obviously 32:24 
+
+49:12 
+
+54:18 
+
+oral 1:11 2:2,5,9 
+3:6 18:3 28:19 
+order 14:17,17 
+24:6,12 41:2 
+51:25 54:14 56:8 
+
+occurred 16:18 
+occurs 20:17 
+odd 13:21,23 23:12 
+offenses 18:15 22:7  Oregon 56:25 
+outlier 56:17 
+outside 15:12 23:11  peoples' 43:11 
+outstanding 12:10 
+
+8:11 12:17 21:14 
+21:15,16 22:9,25 
+24:20 25:22 27:1 
+27:2 30:11 32:9 
+32:19 37:18 41:18 
+43:16 46:4 50:20 
+50:23 51:9 52:19 
+54:1 
+
+12:18 18:11,13,18  percentage 6:23 
+7:20 21:2 32:9 
+21:3 29:15 30:8 
+30:12 51:9 
+permissible 31:1 
+
+24:18 29:18 
+need 17:14,22 
+
+19:25 20:1 32:2 
+36:13 39:21 45:24 
+46:2,3 
+
+natural 48:13 
+naturally 11:17 
+necessary 13:18,19  officer 3:14,25 4:9 
+5:24 6:15 7:8,10 
+8:24 9:22 14:2 
+15:6 16:1,12 17:5 
+17:7,15 24:6,9,17 
+24:19 25:22 26:1 
+26:18 29:1 30:3,4  overarching 19:20 
+30:9,13,16,19,22 
+32:5,10 33:8,16 
+34:9 35:1,9,10 
+37:4 38:18,23 
+40:11 42:10,18,19 
+43:16 44:4,7,13 
+45:12,16 46:9,24  P 3:1 
+47:2,6,20 49:4 
+51:5,7 54:23 
+55:18 
+
+needed 10:24 39:5 
+needs 48:3,4,5 
+neighborhoods 
+22:23,24 23:11 
+
+oversight 47:19 
+overwhelming 
+
+15:15 19:6 35:6 
+35:16 
+
+p.m 58:1 
+page 2:2 54:19 
+
+neutral 15:20 20:18 
+
+never 5:24 8:22 
+
+new 29:5 55:4 
+
+53:25 
+
+55:16 
+
+28:12 
+
+32:2 
+
+P 
+
+35:10 
+
+permit 37:3 
+permits 37:4 
+permitted 9:3 
+person 3:25 4:10 
+
+56:9 
+
+50:12 53:25 
+
+4:13,13 5:2,19 9:4  powerful 28:25 
+10:18 19:10 20:19 
+21:10,13 26:11,25  practice 29:8 54:20 
+30:10 33:12 35:11 
+37:16,17,18 40:18  precedence 8:22 
+precedent 49:25 
+43:2,22 
+precedents 19:18 
+preceding 19:9 
+precise 16:14 35:23 
+precisely 14:24 
+24:6,12 29:20 
+30:15,24 40:9 
+
+petition 55:16 
+Petitioner 1:4,16 
+
+person's 10:10,22 
+
+11:4 
+
+predicate 3:17 5:11 
+6:14 9:20 11:7,19 
+
+preexisting 14:22 
+
+57:15 
+
+officers 5:14 6:11 
+
+officer's 25:2 45:6 
+
+48:7,23 49:16 
+
+papers 55:23 
+parameters 51:6 
+parked 46:20 
+parking 46:18 
+6:19 7:23 9:11 
+17:3 22:8,14 23:4  part 6:11 24:1 
+23:16 29:1,6,19 
+30:1 33:3 38:9,11 
+39:21,22 41:23 
+45:17,18,21 46:5 
+50:19,21 51:14 
+54:1,13 55:8 
+
+particular 6:15 
+
+1:19 2:4,8,14 3:7 
+30:19 31:1 36:16 
+18:5 21:5 54:9 
+37:22 42:11 43:7  Petitioner's 20:9 
+43:8 45:5,14 48:9  pizza 27:7 
+49:17 50:14 52:2  place 12:19 
+52:4 
+plays 53:23 
+please 3:9 9:18 
+
+oh 15:6 41:6 53:10 
+Okay 11:23 37:24 
+
+47:8,11 
+
+10:4 14:13 15:22 
+32:24 55:15,18 
+56:11 57:22 
+
+preface 18:12 
+18:7 28:22 31:10  presents 44:3 
+
+point 5:9 10:10 
+
+preserving 25:25 
+
+21:18 22:20 23:18  pretend 21:7 
+
+56:24 
+non 15:2 
+norm 29:10 
+normal 41:13,13 
+noted 55:22 57:5 
+notion 24:1 
+number 8:11 21:9 
+
+21:11,14 22:13 
+26:8 32:9 33:2 
+40:2 41:23 51:19 
+56:4 
+
+numbers 23:10 
+32:15,18,24,25 
+
+O 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+put 5:20 37:14 
+
+42:19 
+
+38:12 40:23 43:3 
+43:9 47:7 
+
+Q 
+
+reasonably 38:22 
+44:6 45:12 51:5 
+
+respectfully 26:14 
+Respondent 1:21 
+2:11 14:8 16:20 
+18:14 24:15 28:20 
+57:5 
+
+reasons 17:14 55:3 
+REBUTTAL 2:12  Respondent's 
+21:25 22:10 
+
+54:8 
+
+quantum 24:17 
+question 3:11 4:1 
+5:23 6:21 11:24 
+12:9 14:7 17:11 
+23:2 34:17,18 
+36:24,24 56:14,15  record 42:8 44:22 
+57:12 
+52:12,13 54:16 
+56:6 
+
+received 4:14 
+receiving 4:10 
+
+questionable 9:8,15 
+
+responding 56:15 
+response 54:12 
+rest 56:20 
+result 5:11 36:14 
+
+48:14,23 
+
+probably 21:13,16 
+problem 21:23 22:1  questioning 13:20 
+
+38:7 39:20 42:13  questions 17:24 
+
+20:1 
+
+54:4 57:23 
+
+quite 7:18 14:5,5 
+
+R 
+
+R 1:15 2:3,13 3:1,6 
+
+54:8 
+
+raised 18:9 
+ran 33:18,23 45:2 
+random 24:20 
+
+47:14 54:14 56:7 
+
+revenue­raising 
+
+referred 31:5 52:15  resulted 3:18 
+reflects 21:14 
+related 32:18 48:6 
+relation 14:19 
+relationship 9:5 
+relatively 45:24 
+
+22:6 23:13 
+reverse 57:10 
+right 10:12 11:1,5 
+12:11 17:8 23:1 
+31:14,15 33:12 
+34:10,11,12,16 
+35:5 37:22,23 
+39:1 46:7,16,21 
+46:21 47:5 53:3 
+53:18 
+
+robbed 15:9 
+ROBERTS 3:3 
+
+46:1 
+
+relies 14:8 
+remainder 17:25 
+remaining 54:7 
+remains 56:19 
+remember 45:6 
+remotely 24:14 
+render 29:3 
+repeatedly 14:16 
+reply 17:2 21:5 
+
+Page 65 
+
+47:1,22 48:24 
+49:1 50:17,18,25 
+52:3,5 53:24 55:5 
+55:22,23 56:25 
+57:6,12 
+
+ruling 50:9 
+run 33:3,14 35:2 
+40:17 41:2,7,13 
+42:3 44:15 45:4 
+45:12 47:17 48:5 
+51:14,14 52:3 
+54:21 55:8 
+
+running 33:13 
+
+39:14,24 41:21 
+43:11 51:25 55:5 
+
+runs 30:23 33:9 
+
+40:12,14 54:22,25 
+55:3 
+
+S 
+
+S 2:1 3:1 
+safety 24:24 25:15 
+
+25:24 27:15 33:23 
+34:8 35:10 43:10 
+55:2,7,9,11,13 
+
+sales 27:6 
+
+pretty 12:20 44:2 
+prevent 21:23 
+principle 24:2,3 
+prior 11:11 12:25 
+
+15:20 
+
+probability 12:11 
+
+12:12 
+
+probable 9:15 
+
+14:10,22 15:20 
+16:1 20:19 45:23 
+45:24 46:6,6,11 
+57:15 
+
+procedure 37:15,15 
+proceeded 4:15 
+product 15:13 
+
+16:10 28:6 
+prongs 28:5 
+proper 32:13,15 
+proposed 28:23 
+proposition 42:9 
+prosecution 8:2 
+prosecutor 5:6 
+protect 33:10 37:4 
+prove 41:18 
+provide 52:18 
+proximity 46:4 
+
+49:11 
+
+randomly 52:19 
+rationale 55:12 
+rationales 55:2 
+read 17:14 
+really 4:3 6:19,20 
+6:24 24:15 25:8 
+31:20 32:20 38:13  representative 21:8 
+44:11 45:5 48:17 
+48:24 
+
+report 22:2,2 
+reported 4:19 
+
+56:23,24 
+
+reason 7:15 14:4 
+
+public 9:6 20:10,11 
+pulled 25:22 
+pulling 24:20 
+pulls 33:8 
+purely 34:14 
+purpose 13:8 14:2 
+23:17,19 24:9,10 
+24:11 25:9 31:23 
+32:3,5,6,21 39:14 
+39:24 40:6 41:6,7  reasonable 3:19,22  residents 6:4 21:2 
+41:11,19 42:3,4 
+42:12,25 47:3 
+56:14 
+
+18:21 23:7 27:19 
+29:20 30:10 43:4 
+43:21 44:2 52:3 
+55:18 
+
+respect 7:23 10:4 
+
+request 17:9 
+require 17:3 33:22 
+requirement 14:9  Robinson 16:22 
+requires 9:1 
+Rodriguez 31:6 
+resemble 15:23 
+reserve 17:25 
+resident 27:4,6 
+
+29:14 
+
+34:7 
+
+4:5 5:5 6:20 7:13 
+8:25 10:14,25 
+11:3 16:1 17:3,11 
+17:16,20,22 19:25 
+20:1 26:5 27:10 
+27:12 34:23 35:2 
+
+12:2 15:18 22:18 
+28:1 49:20 55:15 
+56:13,19 
+
+respected 19:19 
+
+purposefully 31:21 
+purposes 10:21 
+
+27:12 35:10 55:1 
+
+29:15 
+
+13:5 18:1 28:8,17  Salt 1:15,20 29:15 
+32:8,17,23 33:7 
+33:21 38:25 39:23  saw 3:25 4:14,18 
+40:13,25 41:4,16 
+43:15,20 44:1 
+46:22 47:1,8,11 
+49:18,21 53:5,9 
+54:6 57:24 
+
+20:23 27:24 30:6 
+37:1 43:12 55:7 
+55:11,11 
+
+saying 9:14,17 
+
+26:22 
+
+says 15:6,9 17:2,15 
+27:20 30:9 54:22 
+
+scenario 44:4 
+scene 22:8 
+scheme 23:13 
+search 3:13 6:20 
+
+7:2,3,16 16:16,23 
+16:25 22:15 23:5 
+23:15 24:13 25:17 
+32:11 35:15,17,20 
+36:6,12 37:3,9,16 
+38:1 46:6 
+
+routine 54:20 
+routinely 43:2,9 
+rule 3:10,20 5:14 
+5:15,24,25 6:12 
+9:10,10 12:3 
+16:14 18:14 19:24 
+21:25 22:10,21 
+24:6,21 28:23 
+29:9,25 46:22 
+
+Alderson Reporting Company
+ 
+
+Official 
+
+staggered 8:10 
+stand 5:18 
+standard 20:6,6,21 
+
+37:14 39:6 
+
+standing 6:6 46:7 
+standpoint 32:4 
+start 18:8 52:17 
+state 5:18 31:10,16 
+
+33:2 38:5 39:3 
+56:23 
+
+significant 6:23 
+
+7:20 8:12 19:12 
+22:13 23:6 
+
+simpler 27:23 
+simply 49:6 54:2 
+single 25:1 43:2 
+sir 28:9 
+situation 8:25 
+
+16:14 27:16 30:17 
+35:19 46:23 47:2  State's 39:1 
+stated 41:10 
+47:5,9 
+statement 17:2 
+States 1:1,12,19 2:7 
+18:4 21:1,2 56:1,2 
+56:4 
+
+situations 9:8 
+sizable 41:23 
+slate 29:3 
+solely 23:16 
+Solicitor 1:15,17 
+
+statistic 30:7 51:11 
+
+51:12 
+
+36:5 
+
+solve 21:25 22:10 
+somebody 6:19 
+
+12:10 23:5,6 33:8 
+
+statistics 20:25 
+29:17,19 40:1 
+41:22 51:2,4 
+
+searched 25:22 
+
+28:13 
+
+49:5 
+
+searches 24:7 54:15 
+searching 5:21 15:7 
+second 6:11 38:24 
+
+56:13 
+
+secondly 39:16 
+secured 16:4 
+see 4:23 5:1,2 6:8 
+13:8 14:3 16:6 
+26:7 43:21 50:16 
+50:17 51:24 
+
+seen 5:4,9 26:10 
+
+42:18 
+
+sees 38:20 
+seized 3:12 11:20 
+
+16:25 
+
+self­correct 52:1 
+sending 50:23 
+sense 12:1 15:23 
+
+28:11 34:2 
+
+stopping 4:6 5:2 
+9:17 20:11,12 
+29:6 41:11 47:9 
+50:19 52:19 
+
+stops 5:17 12:19 
+22:22,23 23:16 
+26:8 29:19 30:14 
+31:7 32:10 33:19 
+38:11 43:2 47:14 
+53:13 54:14 55:5 
+56:7 
+
+store 46:14,18 
+straightforward 
+45:19,20 57:22 
+street 6:6 50:20 
+
+54:2,22 
+
+strength 36:17 
+Strieff 1:6 3:4 
+
+33:17 44:5 
+
+sent 47:18 
+someplace 44:22 
+sentence 17:15 28:9  sorry 18:19 38:9 
+separate 6:13 19:8 
+
+42:16 53:8 
+
+19:9 30:21 
+sequitur 15:2 
+serious 18:15,15 
+19:11,21 26:2 
+serve 14:1 18:25 
+served 50:24 
+set 30:18 
+setting 22:22 
+settled 48:25 50:3 
+Seventh 56:2 
+short 5:5 38:19 
+short­stay 4:18,23 
+
+26:8,9 38:20 
+
+short­term 26:22 
+
+27:1 
+
+shot 43:17 46:20 
+shot's 44:2 
+show 14:13 23:10 
+
+41:22 
+
+shy 39:4,5 
+side 52:2 
+significance 20:17 
+
+sort 24:22 50:22 
+
+56:7 
+
+sorts 30:4 56:17 
+Sotomayor 3:21,24 
+4:7,22 5:1,13,22 
+6:3,22 8:23 9:13 
+13:13 15:2,15,24 
+16:11 18:9,19 
+19:5,13,24 20:5 
+20:14,22 26:4,14 
+34:6,11,13,21,24 
+41:2,15 42:14,17 
+42:23,25 43:7,14 
+46:13,17 52:23 
+54:20 55:1,4 
+
+sounds 25:3 
+South 29:15 
+specific 23:2 
+spectrum 12:15 
+speeding 53:19 
+Spontaneous 48:19 
+squarely 50:3 
+
+36:16 
+
+strike 33:1 
+strong 12:20 36:13 
+
+study 21:6 
+subject 21:15 
+subjective 13:7 
+24:11 25:2,6 
+56:14 
+
+stay 5:5 25:3 
+step 9:16 13:15 
+steps 9:21 
+stop 3:14,18 5:13 
+5:19 6:1,2,14,15 
+6:16,25 7:7,8,9 
+9:23 10:13,21,22 
+11:7 13:23 14:4 
+14:16,17,23 15:5 
+15:12,13,16,22 
+16:10,13 17:10,22  subjective­purpose 
+18:22 19:10,25 
+20:1,6,7,10 23:6,7  subjectively 24:19 
+25:16 26:6,11,12 
+26:13 27:3 28:15 
+29:21 30:3,10,10 
+30:21 31:2,3,11 
+32:7,21 34:2,3,13 
+34:15,20 38:5,5,8 
+38:8,8,10,23 
+39:13,15,19,20,24  suggesting 53:10 
+40:11,14,23 41:19  suggestion 54:13 
+42:3,4 43:7,8 45:4  Sun 11:18 
+46:25 47:7 49:2 
+50:19 54:2,21 
+
+subsequent 37:9 
+sufficient 6:13 
+sufficiently 11:19 
+suggested 25:6 
+
+superseding 24:4 
+
+submitted 21:6 
+
+57:25 58:2 
+
+14:1,9 
+
+28:16 
+
+28:12 
+
+Alderson Reporting Company
+ 
+
+Page 66 
+
+57:2,17 
+
+support 25:7,10 
+
+stopped 4:9 34:16 
+
+42:9 
+
+43:16 46:18 47:17  supported 17:11 
+49:4 55:18 
+supporting 1:19 
+
+2:8 18:5 
+
+suppose 32:17 
+
+51:18 
+
+supposed 12:4 
+suppress 3:11,12 
+
+19:14 36:12 47:4 
+
+suppressed 16:9 
+
+35:21 49:2,6 57:2 
+suppressible 10:10 
+
+10:12,15 11:4 
+16:5 37:10 
+
+suppressing 8:20 
+
+11:20 16:7 19:16 
+
+suppression 8:18 
+
+10:2 19:15 28:14 
+37:25 38:3 49:11 
+
+Supreme 1:1,12 
+
+27:20 48:11 50:4 
+54:4 57:6,11 
+
+sure 8:1,4 12:15 
+surefire 7:24 
+surprise 48:16 
+surprised 12:17 
+
+33:1 52:23 
+
+surveillance 4:16 
+suspect 16:18 20:8 
+suspicion 5:6 6:21 
+7:13 8:25 10:14 
+10:25 11:3 14:18 
+17:4,11,14,16,20 
+17:23 19:25 20:1 
+24:18 26:5 27:10 
+27:12 34:15,23 
+35:2 38:12,16 
+40:23 42:14 43:3 
+43:9 44:9 46:2 
+47:7 55:19 
+
+sweeping 29:12 
+
+T 
+
+T 2:1,1 
+take 9:16 12:19 
+
+Official 
+
+Page 67 
+
+21:11,18 22:19 
+29:11 31:17 36:5 
+50:21 
+
+taken 31:16 39:3 
+
+55:5 
+
+talk 6:19 7:15 9:4 
+9:17 15:3 39:20 
+
+talked 55:14 
+talking 9:24 20:15 
+
+20:15,20,24 30:17 
+
+target 29:21,23 
+
+33:5 
+
+taught 19:17 
+Taylor 25:8 31:22 
+
+21:13 29:13 30:2 
+54:18 
+
+true 13:14 19:13 
+
+truly 24:19 
+try 10:22 33:17 
+trying 4:4 41:5 
+
+7:22 8:15,23 9:4,9  tried 25:3 
+9:19,20 11:10,16 
+12:22 13:1,6,9,24 
+14:6,12,15,20,20 
+20:11 23:9,23 
+24:8,8,14,15,22 
+25:6,14,23 26:15 
+26:15 27:2 28:3 
+28:10,10 32:13,14  turn 23:22 33:5 
+32:15,20 39:2 
+40:16 42:6 49:5 
+50:11 52:16 54:17 
+55:1 56:9,16,18 
+57:8,13 
+
+turns 7:6 20:18 
+
+42:12,20 
+
+31:25 
+
+11:19 16:13 31:11  visit 26:9 
+31:12,23 35:4 
+38:3,5 
+
+visiting 45:9 
+visitor 4:24 27:1 
+visits 26:8 
+
+unlawfully­seized 
+
+3:11 
+
+unnecessary 29:11 
+unprecedented 
+
+unreasonable 4:11  walked 26:24 
+unreasonableness  walking 46:15 
+
+14:13 
+
+unrelated 14:23 
+
+W 
+waited 4:23 
+walk 43:22 54:1 
+
+47:16 
+
+walks 15:8 33:11 
+
+43:16 46:17 
+
+want 7:15 10:14 
+
+43:1 45:23 46:11 
+
+36:14 
+
+two 5:23 9:20 21:7 
+
+15:21 57:16 
+26:25 31:20 39:4  unusual 36:13 
+39:5,11 46:3 
+two­part 14:20 
+two­step 38:14 
+twofold 39:11 
+
+21:20 27:22 41:8 
+41:14 42:2 45:18 
+49:24 52:18 
+
+up­to­date 53:22 
+upheld 50:4 
+upset 51:12,13,17 
+use 37:18 
+usually 16:15 
+Utah 1:3,16,20 3:4  wants 18:14 40:15 
+
+wanted 33:12,16 
+wanting 44:2 
+
+36:3 
+
+thinks 33:9 
+teaching 11:18 13:2  third 57:4 
+tell 3:21 44:19,19 
+telling 11:3 
+tells 32:1 33:14 
+
+thoroughly 37:16 
+thought 10:24 
+
+36:20 41:25 42:4  TYLER 1:15 2:3 
+44:17 55:6 
+
+2:13 3:6 54:8 
+
+thousand 51:8 
+three 4:16,18 26:21 
+
+type 10:4,6 14:23 
+
+39:13 47:21 54:15 
+
+38:13 
+
+temporal 49:11 
+tend 12:19 
+terribly 38:19 
+Terry 10:21 14:16 
+19:10 20:6,15,16 
+20:20 22:22,23 
+29:5 31:2,3 32:7 
+38:11 39:5,6 
+45:18 47:4 50:20 
+51:6 
+
+test 11:14 14:20 
+25:14 27:23,25 
+31:19 57:22 
+testified 44:13 
+
+54:24 
+
+testimony 45:6 
+
+48:22 
+
+Thank 18:1 28:17 
+54:5,6,10 57:24 
+
+they'd 53:19,20 
+thing 52:5 53:11 
+things 9:8 16:9 
+
+20:12 30:21 37:17 
+
+27:20 28:5 49:9 
+54:11 
+
+three­prong 27:25 
+
+28:4 
+
+ticket 43:24 52:11 
+tie 38:17 
+time 17:25 18:25 
+
+33:8 
+
+times 41:6 43:18 
+tip 4:10,15,19 
+
+26:20 
+
+today 30:11 55:2 
+told 32:5 
+total 21:14 
+totality 38:15,22 
+totally 37:2 
+town 6:3 
+traffic 4:17,19 6:5 
+
+typically 3:10 
+
+12:19 
+
+U 
+
+ultimate 37:9 
+unanimously 48:11 
+unconstitutional 
+
+39:18 49:17 
+
+underlying 18:24 
+undermines 56:11 
+understand 6:10 
+
+18:20 19:16 22:21 
+31:10 35:3 40:25 
+43:1 49:22 
+
+understood 24:10 
+
+28:16 
+
+27:20,24 29:12 
+36:4 48:11,12 
+50:4 54:4 57:6,11 
+
+Utah's 28:23 29:9 
+
+47:22 50:13,14,18 
+52:5 53:24 
+
+V 
+
+v 1:5 3:4 4:12 10:7 
+14:25 36:3 56:2 
+57:18,19 
+valid 19:8 
+value 19:18,22 
+
+36:17 
+
+valve 24:24 25:15 
+
+25:24 27:15 55:13 
+
+variety 6:18 
+view 11:14,23 
+
+undertaken 31:23 
+
+29:12 
+
+57:1 
+
+viewed 32:4 
+
+43:4 
+
+warrant 3:13,14 
+
+5:16,20,25 6:2,9 
+6:12 7:1,6 8:6,13 
+10:15,19 11:8,8 
+12:10 13:8 14:3 
+14:22 15:8 16:21 
+17:6 18:20,25 
+19:9 21:12 23:7 
+23:14,17 24:4 
+25:18 29:3,20 
+30:8,12,16 31:1 
+32:12 33:9,10,15 
+33:23 34:17,22 
+36:1 37:2,12 
+40:17,22 41:3,17 
+41:21 43:5,12,12 
+43:13 47:13,13 
+48:5 49:4 50:22 
+51:9 52:1 54:14 
+54:21 55:12,15 
+57:15 
+
+26:22 38:20 52:7  unforeseeable 48:1  violate 17:17 36:18 
+52:9,15,17,17 
+55:5 
+
+50:15 
+
+unfortunate 44:13 
+United 1:1,12,18 
+2:7 18:4 21:1,2 
+56:1,2 
+
+violent 42:20 
+unlawful 3:15 11:7  virtually 53:1 
+
+29:4 
+
+violation 7:16 9:25  warranting 19:1 
+warrants 6:5,24 
+7:21 8:11 12:18 
+17:4,17,21 18:11 
+
+think 4:25 5:3,4,5,6  trafficking 26:2 
+
+5:10,22,23,24 
+6:21 7:5,5,12,13 
+
+27:5 45:22 
+training 4:20 
+
+Alderson Reporting Company
+ 
+
+Page 68 
+
+Official 
+
+yield 8:19,21 11:21 
+
+Z 
+
+0 
+
+1 
+
+1 29:14 30:7 38:14 
+
+41:21 56:23 
+10,000 51:16 
+101 55:16 
+11:05 1:13 3:2 
+12:05 58:1 
+14­1373 1:4 3:4 
+18 2:8 26:18 
+199 30:13 
+1997 56:3 
+
+2 
+
+2 38:15 41:22 
+20 45:9 56:3 
+200 30:7,10 
+2004 21:6 
+2015 22:2 
+2016 1:9 
+22 1:9 
+28 2:11 
+
+3 
+
+3 2:4 
+323,000 33:1 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+54 2:14 
+
+80 6:4,8 
+
+18:13,18 21:3,9 
+21:15,20 22:6,7 
+22:14,25 25:23 
+29:7,16,23,25 
+30:20,23 32:9,20 
+33:4,4,5,13,14,18 
+34:3,5 35:2 39:14 
+39:15,25 40:2,7 
+40:12,14 41:7,13 
+41:21,24 42:3 
+43:22 44:15 45:2 
+45:4,11 47:17 
+48:8 51:14,25 
+52:6,8,18,24 53:9 
+53:10,12,13,14 
+54:22 55:5,8 56:8 
+Washington 1:8,18 
+wasn't 4:1,13 5:7 
+25:20 27:7 36:2 
+42:15,16 44:8 
+55:20 
+
+watching 45:21 
+Watt 1:20 2:10 
+
+50:23 56:10 
+
+We'll 3:3 
+we're 9:13,14,16 
+
+12:3 20:14,15,20 
+20:22 25:1 30:17 
+38:2 45:15,15,16 
+50:4 54:3 55:7,11 
+55:11 
+
+we've 4:7 5:4 15:4 
+16:9 17:10 19:17 
+20:5 25:3 26:4 
+35:16 47:14 55:5 
+55:6,14,22 56:22 
+57:4 
+
+weapons 37:5 
+week 4:17 
+weighing 19:21 
+well­trained 38:22 
+44:6 45:12 51:5 
+
+went 45:7 
+White 4:12 
+will­you­talk­to­... 
+
+26:12 
+
+40:16 49:10 
+
+wipe 29:3 
+witness 15:8 48:22 
+Wong 11:18 
+work 8:17 10:3 
+
+28:18,19,21 29:17 
+30:15 31:3,5,14 
+31:19 32:13,22 
+33:3,13 34:1,10 
+34:12,19,22,25 
+35:6,13,16,22,25  works 49:11 51:4 
+36:15 37:6,19,23  world 12:9,12 
+38:2 39:2,10 40:8  worried 53:7 
+40:21 41:9,20 
+42:6,10,16,22,24 
+43:6,13,19,25 
+44:3 45:5 46:16 
+46:21,24 47:6,10 
+47:12 48:2 49:20 
+50:1,10 51:3,10 
+51:13,18,21,23 
+52:12,14,20 53:3 
+53:8,16 54:6 
+
+27:25 31:11 
+
+wouldn't 9:6 27:7 
+34:6,7 51:12,13 
+
+writing 30:16 
+wrong 12:13 14:5 
+
+X 
+
+Y 
+
+x 1:2,7 
+
+wave 55:9 
+way 7:24,25 8:3 
+
+13:10 20:12 24:8 
+25:14 28:4,4,10 
+32:15 40:21 47:18 
+
+Ybarra 46:4 
+yeah 21:21 44:24 
+
+52:14 
+
+years 26:18,19,19 
+
+56:3 
+
+Alderson Reporting Company
+ 
+
+

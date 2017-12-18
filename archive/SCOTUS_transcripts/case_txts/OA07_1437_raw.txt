@@ -1,0 +1,5365 @@
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+            
+CARLSBAD TECHNOLOGY, 
+: 
+                           
+:
+INC., 
+          
+ Petitioner 
+:
+                       
+:  No. 07-1437 
+           
+HIF BIO, INC., ET AL. 
+: 
+- - - - - - - - - - - - - - - - - x
+
+ v. 
+
+ Washington, D.C.
+ Tuesday, February 24, 2009
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+at 11:20 a.m. 
+APPEARANCES: 
+GLENN W. RHODES, ESQ., San Francisco, Cal.; on behalf of
+
+ the Petitioner. 
+
+THEODORE S. ALLISON, ESQ., Washington, D.C.; on behalf
+
+ of the Respondents. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+1
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF 
+GLENN W. RHODES, ESQ.
+
+                                
+
+PAGE 
+
+ On behalf of the Petitioner 
+
+                     
+
+3
+
+
+THEODORE S. ALLISON, ESQ.
+
+
+ On behalf of the Respondents 
+
+                   
+
+20
+
+
+REBUTTAL ARGUMENT OF
+
+GLENN W. RHODES, ESQ.
+
+
+ On behalf of the Petitioner 
+
+                    
+
+40
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+2
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (11:20 a.m.)
+ CHIEF JUSTICE ROBERTS:  We'll hear argument 
+
+next in Case 07-1437, Carlsbad Technology v. HIF Bio, 
+Inc.
+
+ Mr. Rhodes.
+
+ ORAL ARGUMENT OF GLENN W. RHODES
+
+ ON BEHALF OF THE PETITIONER
+ MR. RHODES:  Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The single issue presented in this case is 
+
+whether the bar to review under 1447(d) is applicable to 
+a district court's discretionary decision to decline the 
+exercise of supplemental jurisdiction.  In this case, 
+after the district court dismissed Respondent's federal 
+RICO claim, the district court remanded the remaining 
+state law claims under 1367(c).  That was not a remand 
+based upon a lack of subject matter jurisdiction because 
+jurisdiction was specifically conferred upon the court 
+by 1367(a).
+
+ It's been the rule for some 30 years that 
+the bar of 1447(d) is limited to the specific grounds 
+set forth in 1447(c).  And for reference the statutes 
+are on page 2 and 3 of Petitioner's blue brief.
+
+ Those two grounds are a remand that's based 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+3
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+upon a lack of subject matter jurisdiction and a remand 
+that is based upon any defect other than a lack of 
+subject matter jurisdiction if it's raised by a timely 
+motion for remand filed within 30 days of the notice of 
+removal.  The only prong of 1447(c) that's applicable in 
+this case is whether this remand is one that's based 
+upon a lack of subject matter jurisdiction.
+
+ Now, Congress clearly conferred jurisdiction 
+
+on the district courts in 1367(a), where the case 
+contains a Federal claim and related State law claims, 
+and a remand based upon a court's discretion to decline 
+to exercise supplemental jurisdiction is not a remand 
+that's based upon the court's lack of subject matter 
+jurisdiction.
+
+ Jurisdiction either exists or it does not. 
+
+A district court's power to hear a case and its power to 
+decline to exercise jurisdiction are part and parcel of 
+the same thing.  Absent the power to hear a case, a 
+district court cannot decline to exercise that -- or 
+cannot exercise discretion to decline to exercise that 
+jurisdiction.
+
+ Now, in this Court's Osborn v. Haley case, 
+
+it made reference back to Carnegie-Mellon and also 
+United Mine Workers v. Gibbs, that even if only State 
+law claims are remaining in the case after the Federal 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+4
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+claim has been resolved, the district court has 
+discretion consistent with Article III to retain 
+jurisdiction over that cause of action.
+
+ Now, this is inconsistent with the Federal 
+
+Circuit's analysis in this case that a remand based upon 
+1367(c) is a remand based upon a lack of subject matter 
+jurisdiction because in its view an independent basis 
+for that jurisdiction is lacking.
+
+ JUSTICE GINSBURG:  Isn't there something odd 
+
+about saying if it's really fundamental like the 
+presence or absence of subject matter jurisdiction, that 
+is not reviewable?  It's not disputed, right?  That if 
+the district court says, I lack subject matter 
+jurisdiction over, let's say, the RICO claim, as wrong 
+as that might be, that would not be reviewable, right?
+
+ MR. RHODES:  Justice Ginsburg, I agree with 
+that, because if the court does say that I am remanding 
+this because, either rightly or wrongly, I lack subject 
+matter jurisdiction, then that would fall squarely 
+within 1447(c) and (d).
+
+ JUSTICE GINSBURG:  Though that could be a 
+very grave error and yet, on a matter of discretion, 
+that that would be reviewable.  And I appreciate your 
+statutory argument, but it just seems odd to think that 
+Congress would want to be firm that if the remand is for 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+5
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+lack of subject matter jurisdiction, wrong or right, no 
+review, but it was a discretionary exercise, I could 
+keep this, but I choose not to, that that is reviewable.
+
+ That doesn't make a whole lot of sense to 
+
+say the judge could keep it or remand it, that that 
+action is reviewable, but the action of saying I don't 
+have jurisdiction, when indeed the court did have 
+jurisdiction, is just totally immune from review.
+
+ MR. RHODES:  I agree with you, Justice 
+
+Ginsburg, that that seems rather confusing.  I would 
+address my answer in this way:  The review ban of 
+1447(d) arose in the situations where apparently 
+Congress wanted to -- to inhibit the abuse by those 
+seeking only to delay the case by filing a motion for 
+remand.
+
+ For example, a case that is filed in State 
+
+court that clearly expresses no Federal question or 
+diversity issue, yet the defendant, in order to delay 
+the case, will then remove it to Federal court.  In 
+those situations Congress wants to prevent those kinds 
+of frivolous removals to Federal court.
+
+ But here in, our particular case -- and 
+
+maybe -- let me back up a minute.  Maybe we should look 
+at that in a different way, because even though you may 
+have a legitimate basis for removing the case to Federal 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+6
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+court and the district court disagrees with you, perhaps 
+the better policy is that those types of remands should 
+not be reviewable, even though sometimes a district 
+court is going to get them wrong.
+
+ But in this particular case, there was a 
+
+Federal RICO claim asserted against us in state court, 
+and as a defendant we were not removing that case on 
+some frivolous basis.  We were removing it because we 
+were entitled to be in Federal court.
+
+ It was only after the district judge 
+
+dismissed the Federal RICO count -- and there was no 
+motion for remand on this case filed by Respondents --
+the district court sua sponte decided that he was not 
+going to exercise his power to hear this case because he 
+thought there were legitimate State law claims and he 
+remanded on that basis.  Now, that's a discretionary 
+remand and normally we would be arguing that where 
+discretion is exercised by a district court it should be 
+reviewable for an abuse of discretion.
+
+ JUSTICE GINSBURG:  But wouldn't it be --
+here the district judge said:  I got rid of the RICO 
+claim; all that's left are State law claims, and there's 
+no Federal interest in this case any more.  They're all 
+State law claims, they belong to State court, good-bye. 
+I could keep it, I choose not to, because it isn't a 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+7
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+sound use of the resources of the Federal court.
+
+ Now, even if you're right that this is a 
+
+discretionary decision, so you can't say no jurisdiction 
+because the discretion implies that there is power, 
+isn't it 99 cases out of 100 that the court of appeals, 
+assuming reviewability, will say, we should defer to the 
+district judge about questions of this nature, the 
+district judge's decision that this isn't worth the time 
+of the Federal court?
+
+ MR. RHODES:  I'm not sure about the number 
+
+of percentage of cases that -- that there is going to be 
+a decision by the appellate court to say we shouldn't 
+interfere in that, Justice Ginsburg.
+
+ JUSTICE GINSBURG:  But wouldn't you -- as a 
+practical judgment, the Federal claim is gone, there is 
+pending jurisdiction or now supplemental jurisdiction 
+over the State claim, but the district court is told by 
+Congress:  It's your call; it's a matter of discretion. 
+And the judge gives one of the reasons that's 
+enumerated, that reason being that the State claims are 
+overwhelming in this case, the RICO claim is dismissed, 
+thinking it was worthless, so it's a State case.
+
+ Why would a court of appeals overturn such a 
+
+judgment?
+
+ MR. RHODES:  I think, Justice Ginsburg, I 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+8
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+can give you an answer to that because there is a recent 
+case that's in our brief, the Brookshire case from the 
+Fifth Circuit, where the district court exercised 
+jurisdiction over Federal and supplemental claims, and 
+did that for quite a while and ruled on a number of 
+dispositive motions; and then basically on the eve of 
+trial, after resolving the Federal claim, remanded it 
+back to the State court.
+
+ The Fifth Circuit, because it had the 
+
+ability to review that, under the statutory 
+construction, was able to review that on the basis of an 
+abuse of discretion and said that the district court had 
+definitely abused its discretion.  After retaining 
+jurisdiction for that length of time and then returning 
+it to State court, that was a waste of judicial 
+resources.
+
+ JUSTICE GINSBURG:  But that was because we 
+
+would have to retread the same ground in the State court 
+that had already been covered in the Federal court, but 
+that's not the kind of case that was presented here.  I 
+know the case has lingered for a long time, but there 
+was no processing of those State law claims.  The judge 
+concentrated on RICO, threw it out, and said "the rest 
+of the claims I'm not interested in."
+
+ So it's not a case like the Fifth Circuit 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+9
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+where there was a large investment of Federal court 
+energy and time and sending it back would mean going 
+over once again what had already transpired in the 
+Federal court.
+
+ MR. RHODES:  That is true.  This case is 
+different because what the -- what the district court 
+had labeled as legitimate State law claims as to, for 
+example, inventorship, we argued are within the 
+exclusive jurisdiction of the Federal court, and that is 
+why we appealed to the Federal Circuit in order to have 
+that issue resolved.
+
+ Here, if we went back to State court we 
+would be in the position of having to argue that the 
+State court -- that the State court lacked jurisdiction 
+to hear that claim because it was something that was 
+within the exclusive jurisdiction of the Federal court. 
+It seems that in this particular situation it would be 
+better to have the Federal Circuit to pass upon the 
+exclusivity of the inventorship issue under the patent 
+laws rather than to have to go back to State court and 
+work back up through the State court system to have that 
+resolved.
+
+ JUSTICE GINSBURG:  Could you explain why 
+that is a Federal question?  It's a dispute over the 
+ownership of this invention, right?  So it's not a 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+10 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+question of the validity of a patent or infringement of 
+a patent?  It's just the invention is like any res, and 
+two parties are disputing about ownership.  Why is --
+why does that become a Federal case?
+
+ MR. RHODES:  It became a Federal question 
+
+because in our view it arose under the patent laws 
+because when they filed their complaint, even though 
+they couched it in terms of purely State law claims, 
+they did allege that we had falsely claimed to be the 
+inventors; and the basis for that claim that we falsely 
+claimed to be the inventors was the oath and declaration 
+that was filed in connection with our patent 
+applications at the U.S. Patent and Trademark Office.
+
+ So what they were raising was an issue with 
+respect to our ability to claim to be the inventors of 
+what we claimed in our U.S. patent application. 
+Therefore, since that falls squarely under our 
+entitlement to -- to inventorship, of what we claim to 
+be the inventors, under Article I, section 8, it seemed 
+to us that that clearly fell within the exclusive 
+jurisdiction of the Federal court.
+
+ JUSTICE STEVENS:  May I just ask one sort of 
+
+a preliminary question?  If we just applied the plain 
+language of 1447(d), then this case was properly 
+remanded; the remand order is not subject to review.  Is 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+11 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+that correct?
+
+ MR. RHODES:  Yes.  If we just read 1447(d) 
+
+on its face, that's --
+
+JUSTICE STEVENS:  What really prevents us 
+
+from reaching that decision in this case?  Because 
+actually it's an open question because you were both 
+arguing about it here and you certainly disagree.  Why 
+couldn't we just simply say for this particular category 
+of remand orders, we'll just apply the plain language of 
+1447(d)?
+
+ MR. RHODES:  That would be going against the 
+
+rule that was set out in Thermtron that 1447(d) was 
+limited to only the specified grounds of 1447(c), which 
+are lack of --
+
+JUSTICE STEVENS:  I understand it would be a 
+modification of the dicta in Thermtron, but why wouldn't 
+that be a simple solution to this case?
+
+ MR. RHODES:  I'm not sure that would be a 
+simple solution to this case, Justice Stevens, and the 
+reason for that is that if we -- if the Court decides to 
+do that, then we return to those areas where total chaos 
+could really break out, and the reason for that is that 
+we would be in a situation where district courts can --
+can dress up in language that is lack of subject matter 
+jurisdiction and remand cases, knowing that there is not 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+12 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+going to be any review.
+
+ JUSTICE STEVENS:  No, no, that wouldn't 
+avoid the plain language of the statute.  Pretextual 
+district court orders wouldn't avoid the plain language 
+of the statute.
+
+ JUSTICE GINSBURG:  But the --
+CHIEF JUSTICE ROBERTS:  I think there's no 
+need to dress up anything.  I mean, as Justice Stevens 
+point, you wouldn't have to dress up anything; if you 
+send it back, it's not reviewable.
+
+ MR. RHODES:  If we were to read 1447(d) just 
+
+plainly on its face without --
+
+JUSTICE GINSBURG:  How could we do that in 
+light of Thermtron?  Thermtron went against the clear 
+text of the statute that says remands are not 
+reviewable, period; and in Thermtron the Court said, yes 
+they are sometimes, if we think it's so outrageous for a 
+district judge to say:  Yeah, I've got jurisdiction over 
+this case, but my docket is so crowded, and this is a --
+this is a small-change case; it belongs in State court. 
+The court, I think, was outraged by a district court 
+thinking that it could dump a case simply because it was 
+too busy with more important things.
+
+ That was the setting of Thermtron, and to 
+reach the result that the court reached, the court had 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+13 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+to go against the language of the statute when read in 
+absolute terms.  But anyway, the court did that, and 
+then they gave a rationale for what the new test was 
+going to be.  It was no longer going to be remands are 
+no longer -- remands are not reviewable; it's going to 
+be -- that applies only to the cases where -- what was 
+it, subsections (c) and (d) of 1447?  The -- it -- the 
+court read the statute to say less than it in fact did. 
+That's what Thermtron did.
+
+ MR. RHODES:  That is the exact holding of 
+
+Thermtron, that they were not going to construe that so 
+woodenly to allow a district court to abdicate its 
+mandatory jurisdiction.
+
+ CHIEF JUSTICE ROBERTS:  Well, "woodenly" is 
+a bit much.  I mean, they're going to read it not to say 
+what it says.  And Thermtron involved the court saying: 
+I'm not going to take this because I'm too busy with 
+other things.  I mean, it could be limited to that 
+unusual situation, couldn't it?
+
+ MR. RHODES:  Mr. Chief Justice, it could, 
+
+but --
+
+CHIEF JUSTICE ROBERTS:  And it would solve 
+the problem Justice Ginsburg pointed out earlier, that 
+this way you don't get to appeal big things like no 
+subject matter jurisdiction, but you do get to appeal 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+14 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+picayune things.
+
+ MR. RHODES:  Again, I'm not sure how we 
+
+would divide those up between big things and picayune 
+things.  But I think, to answer your question, we have 
+30 years of this particular rule under Thermtron being 
+uniformly applied by all the circuit courts of appeal, 
+and they have found this to be a workable, statutory 
+interpretation to give them a framework to handle these 
+kinds of cases.  And it's not a situation where the 
+circuit courts of appeal have run away from situations 
+like this, where remands have been based upon declining 
+to exercise discretionary power to send it back to State 
+court.  They have seemed to want to work within the 
+statutory framework to review those kinds of cases.
+
+ And I think it would be a large departure to 
+go back and try to modify what all the circuit courts of 
+appeal, except for maybe the Federal Circuit, had 
+adopted as a workable framework in order to solve these 
+kinds of problems.
+
+ JUSTICE GINSBURG:  Well, one clear way to do 
+it would be to overrule Thermtron, but neither party has 
+asked for that.  You haven't asked for it and the other 
+side hasn't asked for it.
+
+ MR. RHODES:  That's correct, Justice 
+
+Ginsburg. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+15 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+JUSTICE STEVENS:  You just have to 
+
+distinguish Thermtron.  You don't have to overrule it. 
+You'd still apply it on its facts.
+
+ That's a very different problem.  When the 
+
+judge says, I'm too busy to hear this, I'm going to send 
+it back to State court, that's what Thermtron resolved. 
+Here --
+
+MR. RHODES:  And yet --
+JUSTICE STEVENS:  That's not involved here.
+ JUSTICE GINSBURG:  But your concern is what 
+
+was the Court's reasoning, and you could apply the 
+Court's reasoning, its interpretation of 1447.
+
+ JUSTICE SCALIA:  You have to get rid of 
+
+Quackenbush, too, don't you?
+
+ MR. RHODES:  Yes, Quackenbush is a --
+JUSTICE SCALIA:  Throw that overboard, too?
+ MR. RHODES:  We would have to overthrow that 
+as well, and the reason for that is because Quackenbush 
+was a remand based upon -- an abstention-based remand 
+under Burford, and in that case, this Court found that 
+abstention-based remands did not fall within either 
+prong of 1447(c).  So -- in fact, this Court gave that 
+very little attention in Quackenbush before it moved on 
+to the 1291 issue.
+
+ CHIEF JUSTICE ROBERTS:  You thought the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+16
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+Respondents asked us to overrule Thermtron.  On page 22, 
+you say, "Respondents' implicit request for this Court 
+to overrule Thermtron should be rejected."
+
+ MR. RHODES:  Yes, we did say that, and I'm 
+
+not sure that they -- they expressly said you should 
+overrule Thermtron, but the strong suggestion in their 
+brief was perhaps you should.
+
+ JUSTICE ALITO:  Well, isn't it -- isn't it 
+
+also the case that Congress has amended the relevant 
+provisions of 1447 since Thermtron and they have not 
+seen fit to overrule or change those provisions?
+
+ MR. RHODES:  Given the fact that Congress 
+
+has twice amended 1447(c) after Thermtron, it seems that 
+they have actually ratified this Court's statutory 
+construction under Thermtron, and --
+
+CHIEF JUSTICE ROBERTS:  So this gets a lot 
+of attention across the street?  The reviewability of 
+remand orders gets --
+
+(Laughter.)
+ CHIEF JUSTICE ROBERTS:  I mean, in one of 
+
+those provisions they said this was only technical 
+amendments, and if they're just doing technical 
+amendments that doesn't mean they have to look at it and 
+approve the whole thing.
+
+ MR. RHODES:  No, Mr. Chief Justice, if they 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+17 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+wanted to get rid of Thermtron they could have done it 
+in a very direct way.
+
+ JUSTICE SCALIA:  Well, that's right, but 
+
+what if we want to get rid of it?
+
+ (Laughter.)
+ MR. RHODES:  I can't suggest what the Court 
+
+might finally decide other than to say that -- that, 
+again, the circuit courts of appeal have uniformly 
+applied this.  They seem to be --
+
+CHIEF JUSTICE ROBERTS:  Well, they don't 
+
+have a choice, right?  They can't say, I don't like the 
+Supreme Court rule so I'm not going to apply it, other 
+than the Federal Circuit.
+
+ (Laughter.)
+ MR. RHODES:  Actually, Mr. Chief Justice, 
+that was going to be my next point.  Not the Federal 
+Circuit -- but it does, again, provide a workable 
+framework for dealing with these issues, and it seems to 
+be a very large departure to go back and wipe out the 
+last 30 years of case law that has been developed to 
+handle these issues.  It would be a large departure.
+
+ If there's no other questions, I'll reserve 
+
+the remainder of my time for rebuttal.
+
+ JUSTICE STEVENS:  Let me just make one 
+
+comment on the large departure:  Would it be a large 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+18 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+departure if we just said, in the very narrow category 
+of cases where there has been a remand on the basis of 
+-- the district judge doesn't want to exercise 
+supplementary jurisdiction over State law claims, that's 
+not appealable, period?  Just say that's a slight 
+exception from Thermtron?
+
+ MR. RHODES:  Well, Mr. Chief Justice --
+
+sorry -- Justice Stevens, that would be an exception 
+under Thermtron that doesn't seem to be called for 
+because the way it's been interpreted, it has to be --
+and the way even the amendments in '88 and again in '96 
+-- it's only barred if it's for a lack of subject matter 
+jurisdiction, and plainly here a discretionary remand --
+
+JUSTICE STEVENS:  -- not for that basis? 
+
+They're not amendments of subsection (d), and subsection 
+(d) is what has the language that really reads right on 
+this case.
+
+ MR. RHODES:  Well, I think the other -- the 
+other problem with that is the whole doctrine of -- of 
+supplemental jurisdiction that was first laid out in 
+Carnegie-Mellon and United Mine Workers, where the 
+difference between remands under 1367(c) seem not to 
+overlap with the remands under 1447(d) and 1441.  So if 
+we made that an exception and we pulled this into 
+1447(d), it -- I'm not sure what the consequences would 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+19 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+be from doing that.
+
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+ Mr. Allison.
+
+ ORAL ARGUMENT OF THEODORE S. ALLISON
+
+ ON BEHALF OF THE RESPONDENTS
+ MR. ALLISON:  Mr. Chief Justice, and may it 
+
+please the Court:
+
+ Let me begin with Petitioner's counsel's 
+last remark, and that is that we don't know what the 
+consequences would be, except that we do know that by 
+applying the review bar to supplemental jurisdiction 
+remands, it would bring us closer to achieving the 
+purpose that has been expressed in the statutes of 
+Congress since 1887.
+
+ I know that the Court is familiar with the 
+late Chief Justice Rehnquist's dissenting opinion when 
+he was an Associate Justice in the Thermtron case and 
+Justice Rehnquist at that time wrote that there had been 
+no cases since the review bar was put into place in 
+1887, no cases where exceptions to review had been 
+recognized.  He believed that it was a plenary bar on 
+review.
+
+ JUSTICE GINSBURG:  But that was a dissenting 
+
+opinion, and that was how many years ago?  How many 
+years? 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+20 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+MR. ALLISON:  Justice Ginsburg, it -- it was 
+
+a dissenting opinion, and it was in 1976, and we 
+certainly would not cite it as authoritative except for 
+our confidence in Justice Rehnquist's review of the law 
+as it existed at that time.
+
+ JUSTICE GINSBURG:  But you have a majority 
+rationale that says, although 1447(d) reads in absolute 
+terms, in fact the only remands that it covers are those 
+based on a defect in the removal or lack of subject 
+matter jurisdiction.  So you can't say, well, Thermtron 
+had a result that we can limit to Thermtron's own 
+unusual facts because the court gave a rationale.  I 
+mean, courts give reasons for what they do.  And the 
+court drastically limited 1447(d) when it said 1447(d) 
+has to be read consonant with 1447(c), and 1447(c) deals 
+with only two kinds of remands, one for defective 
+removal and the other for lack of subject matter 
+jurisdiction.
+
+ MR. ALLISON:  That is correct, Justice 
+Ginsburg.  And, in fact, to harken to your earlier 
+question, to Your Honor's earlier question, we are not 
+asking for Thermtron to be overruled, but I think, in 
+effect, to be updated.
+
+ The Court in Thermtron did give a rationale, 
+
+and the rationale that it gave was that it viewed, the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+21
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+opinion for the Court by Justice White viewed 1447(c) as 
+being the sole source of Federal remand power.  And as 
+the Court noticed in the ensuing 30, 40 -- excuse me --
+yes, 40-odd years, there have been a number of other 
+sources of remand power recognized.
+
+ And we see no reason why the holding in 
+Thermtron should not be overruled but be updated to 
+recognize that the spirit of what the Court held in that 
+case would be served and would be harmonized with the 
+review bar as it has existed lo these 120 odd-years, 
+would be served by expanding the -- excuse me, 
+contracting the reach of Thermtron so that it is not 
+simply 1447(c) remands, but any remand authorized by 
+statute.
+
+ JUSTICE SOUTER:  Okay.  But no matter -- no 
+
+matter what adjective or what verb you use, that's 
+overruling a very clear rule of Thermtron.  And we 
+normally operate on a theory that when a conventional 
+statute is construed by this Court, it stays construed 
+until Congress changes it.
+
+ And I don't -- I don't see how you can 
+
+follow the line of reasoning that you're proposing, even 
+though you talk about updating and harmonizing, without 
+violating that basic stare decisis rule.
+
+ MR. ALLISON:  It's an essential question, 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+22 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+Justice Souter.  And I think the way we harmonize it is 
+to say that Thermtron has indeed been pared back by the 
+Court's subsequent decisions.  And, of course, it is our 
+second argument that the Court do something with the 
+rule in Thermtron.
+
+ Our primary argument gets to the question of 
+the statutory language and whether a Cohill remand falls 
+within it.  But our secondary argument is to say, 
+certainly, it's well recognized that Cohill disapproved 
+and pared down that portion of Thermtron that held that 
+the only remand power is the remand power expressed in 
+1447(c).
+
+ And a later case, in Quackenbush, the 
+
+question of whether mandamus or appeal was the 
+appropriate vehicle for challenging remand orders.  And 
+in that case, again, the Court said that we are 
+disavowing Thermtron's sweeping statement that mandamus 
+is the only vehicle for challenging a remand order.
+ JUSTICE SOUTER:  We did -- we did not 
+
+disavow the relationship between (c) and (d).
+
+ MR. ALLISON:  Indeed, the Court did not. 
+
+And we suggest again only -- it is only a suggestion in 
+our brief that the Court might wish to look at the 
+ensuing history since Thermtron and make a similar 
+limiting statement that recognizes that a lot of remand 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+23 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+authority has been established since Thermtron, and a 
+number of statutes by the Court's -- by the Court's 
+holding in Cohill.
+
+ JUSTICE GINSBURG:  What in addition to the 
+
+civil rights provision?
+
+ MR. ALLISON:  Well, indeed in Things 
+
+Remembered, the Court was considering whether a 1447's, 
+comma -- whether 1447's review bar applied to a remand 
+under 1452.  1452 is another statute that deals with 
+remands in the context of cases associated with 
+bankruptcy issues.  And in that case, there was a remand 
+for failing to follow a removal procedure, and the Court 
+held, citing Rice, United States versus Rice, based on 
+Congress's awareness of the universality of the review 
+ban.  That when another statute comes in place that 
+provides for remand, for the review bar applies whether 
+or not, of course --
+
+JUSTICE GINSBURG:  Then that's a specific 
+statute that would prevail over the general provision.
+ MR. ALLISON:  It's a little bit -- Justice 
+Ginsburg, it's a little bit different than the Court's 
+decision in Osborn, in which the much more specific 
+Westfall Act Provision was held to prevail over 1447.
+
+ In Things Remembered, it was simply the fact 
+that the review bar was held to apply to a remand, even 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+24 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+according -- under another statute, and, of course, 
+recognizing that there are now other statutory bases for 
+remand.  The interesting thing about 1452 -- and Justice 
+Ginsburg, I believe you wrote the concurrence on this --
+is that 1452 provides for remand on any equitable 
+ground, and that such remands are not subject to review 
+by appeal or otherwise.
+
+ So 1452, again, expresses, I think, a trend 
+in the thinking of Congress, if there is such a thing as 
+the thinking of Congress, that the review bar will be 
+expanded and will even include such discretionary 
+decisions by a district court as any equitable ground.
+
+ JUSTICE GINSBURG:  But Things Remembered, I 
+think, was raised very carefully, such to say that the 
+question that's before the Court now has not been 
+decided before, the precise question here --
+
+MR. ALLISON:  Yes.
+ JUSTICE GINSBURG:  -- discretionary remand?
+ MR. ALLISON:  That is --
+JUSTICE GINSBURG:  So -- and I think, I 
+
+looked again at Things Remembered, and it turned out to 
+be just as I remembered it --
+
+(Laughter.)
+ JUSTICE GINSBURG:  -- that it was neutral, 
+
+colorless.  It just said we haven't been confronted with 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+25 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+this issue.  And I think Powerex said the same thing, 
+although it said it in more definite terms, it is far 
+from clear.
+
+ MR. ALLISON:  That is true, and that is what 
+
+the federal circuit said -- meant when it said that 
+Powerex made the question precedential.  Because, 
+certainly, if Things Remembered had decided the issue 
+that's before the Court today, I think the issue 
+wouldn't be before the Court today.  And that is, of 
+course, why we're here.
+
+ But the Thermtron -- the Thermtron issue 
+really is our second argument, and the it is a very 
+gentle argument that the Court -- and if the Court 
+certainly wishes to continue discussing that, that is --
+that is very profitable for what we're doing here today.
+
+ But the first argument is that, harkening 
+back to your original questions, Justice Ginsburg, why 
+shouldn't a remand when only state law claims remain in 
+a case, and -- Cohill 1367(c)3 why should that not come 
+within the language of 1447(c), what I'll call the 
+jurisdictional clause, because it clearly is a matter 
+that is only of concern to state courts -- and I think 
+that the Court in United Mine Workers v. Gibbs made 
+clear that when all State -- all the federal claims have 
+left the case and only State law claims remain, that 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+26 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+it's almost presumptive that those should be sent back.
+ JUSTICE STEVENS:  Yes, but your opponent's 
+
+argument is that the claims that remain do include a 
+federal claim.
+
+ MR. ALLISON:  That is true, Justice Stevens. 
+
+That is his argument.  And I think what's important 
+about that argument is the inconsistency it sets up.  It 
+essentially casts a net that draws in these supplemental 
+jurisdiction cases.  And what the net does is it allows 
+the courts of appeals to review some artful pleading 
+issues, which is essentially what we have here.  We have 
+state law claims, and our opponents are suggesting that 
+these are, in fact, disguised federal claims that must 
+be heard in federal --
+
+JUSTICE STEVENS:  What about the ruling on 
+
+the RICO claim itself?  That was clearly a federal 
+issue.
+
+ MR. ALLISON:  Yes.  The RICO claim was 
+
+what -- was what gave the district court jurisdiction 
+over the case in the first place.  And it's interesting 
+that in the district court's decision, it made me 
+think -- it made me think a little bit of the Waco case, 
+because in the district court's decision, the district 
+court very clearly said, first, I have no jurisdiction 
+over these State law claims, and I'm going to remand 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+27 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+them, and now I will turn to the RICO claim which 
+creates a conundrum that I'm not sure --
+
+JUSTICE GINSBURG:  Maybe the district judge 
+
+didn't say that.  Maybe you can point me to the place 
+where it did.  But if it did say it, it's flatly wrong, 
+because there is -- that's what supplemental 
+jurisdiction is.  It's says you have jurisdiction, it's 
+a huge difference between you have no jurisdiction, you 
+are powerless, and you have power, but it's up to you to 
+exercise it or not.
+
+ MR. ALLISON:  Justice Ginsburg, that's why 
+we didn't -- we didn't press that point because I think 
+-- I think that even we can see that the court exercised 
+its jurisdiction to decide and dismiss the RICO claim, 
+although it's reminiscent of -- of -- of the decision 
+in Kircher --
+
+JUSTICE GINSBURG:  It wasn't a discretionary 
+
+decision about RICO.  RICO -- there was no Federal 
+claims stated.  That's out of it.
+ MR. ALLISON:  Right.
+ JUSTICE GINSBURG:  What the district court 
+
+has jurisdiction over are the supplemental claims, which 
+it can choose not to exercise, but it can say, "I don't 
+have jurisdiction," because Congress has given 
+supplemental jurisdiction, but then left it to the court 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+28 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+to remand on stated conditions.
+
+ But you -- you seem to conflate the absence 
+
+of subject matter jurisdiction with a discretionary 
+decision not to exercise subject matter jurisdiction 
+that the court undoubtedly has.
+
+ MR. ALLISON:  Well, Justice Ginsburg, I have 
+made every effort not to conflate those two -- those two 
+concepts, and in fact we did say that when -- when a 
+court acquires supplemental jurisdiction in a case, that 
+that is a species of subject matter jurisdiction at that 
+point, as the Court held in City of Chicago v 
+International College of Surgeons.
+
+ At that point the court does have a 
+
+mandatory discretion -- or mandatory jurisdiction to 
+exercise power over the entire Article III case; but we 
+then argue when the Federal claims leave the case that 
+jurisdiction changes.  That jurisdiction changes from a 
+mandatory one that the court, as in Thermtron, would 
+certainly be concerned if the district court had -- if 
+jurisdiction that's mandatory.  But it changes by 
+operation of 1367 from mandatory to discretionary; and 
+when Congress passed 1367 in 1990, Congress intended to 
+codify the existing law right up through Cohill on the 
+subject of supplemental jurisdiction, combining 
+ancillary and intended in those --
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+29 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS:  So your idea is 
+
+there is jurisdiction, but when the Federal claims fall 
+out then there is no jurisdiction?
+
+ MR. ALLISON:  Yes, Mr. Chief Justice.
+ CHIEF JUSTICE ROBERTS:  Okay, but that seems 
+to me to echo the fundamental misperception that if you 
+have Federal jurisdiction based on a particular event --
+let's say if you're dumping chemicals in the water; that 
+gives you a Federal cause of action; you have Federal 
+jurisdiction, there's a trial; it turns out you weren't 
+dumping chemicals with it.  You don't then say "there is 
+no jurisdiction; there was jurisdiction before, but once 
+the finding is made that the facts didn't support it, 
+then there was no jurisdiction."  You say, "there was 
+jurisdiction all the time and you lose."
+
+ MR. ALLISON:  There was -- there was indeed 
+jurisdiction.  And what we argue is that the nature of 
+the change, when it goes from mandatory, the concern of 
+Thermtron, to discretionary, which gives -- virtually 
+pushes out of the Federal Court to the State courts 
+anytime up until trial -- the nature of that 
+jurisdiction changes; and we believe that that is not 
+what Congress intended by the words "subject matter 
+jurisdiction" in 1447(c).
+
+ So if we come back to the words of the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+30
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+statute, the words of the statute should be construed 
+broadly in order to serve the purposes of -- of remand. 
+The Court has made clear that concerns of comity and 
+federalism say that we should construe 1447 in favor of 
+remand and I believe that that should extend to the 
+concept of the whole delay of concept and shuttling.
+
+ JUSTICE GINSBURG:  Then -- when what you are 
+
+doing is that you are using the label "subject manager 
+jurisdiction" in a way that seems to me, that -- there 
+are many categories that -- could be ambiguous at the 
+edges, but not subject matter jurisdiction.  Subject 
+matter jurisdiction means court, you have no power, 
+period.  There's no diversity, there's no Federal 
+question, there's no other basis for the Federal Court 
+to exercise jurisdiction; and to say, "Well, we can 
+extend the label subject matter jurisdiction to include 
+a case where the district court chooses not to hear 
+several claims, even though it has jurisdiction over 
+them."  I think is a -- is a -- a misapplication of the 
+notion subject matter jurisdiction.
+
+ MR. ALLISON:  It is -- it is a difficult, a 
+
+difficult conundrum.  I think maybe all conundra are 
+difficult, but this one particularly.  And, Justice 
+Ginsburg, in the opinion that you wrote for the Court in 
+the RBOC case, you very clearly pointed out that the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+31 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+word "jurisdiction" is used in a variety of ways by 
+legal scholars --
+
+JUSTICE GINSBURG:  Yes, but not subject 
+
+matter jurisdiction.  Jurisdiction -- personal 
+jurisdiction, subject matter jurisdiction.  When I did 
+in -- what I did in -- Arbaugh was explain that all 
+kinds of things like time limits on when you can sue, 
+have been labeled jurisdictional and mandatory, when 
+they are not.  They are simply statutes of limitation.
+ MR. ALLISON:  That -- that is correct, but 
+that is -- that is the nature of the problem -- that is 
+the nature of the problems that this Court confronted in 
+Kircher and Powerex -- again this is by analogy only. 
+We are not concerned about labels like that, if the 
+district court believes that it was remanding the case 
+because it lacked jurisdiction.
+
+ But I'm coming back to subject matter 
+
+jurisdiction, and I have found no case in this Court 
+that has given a definition -- Chicago with its 
+mandatory language was the closest I was able to find.
+
+ The Koffski case out of the Seventh Circuit 
+is the one case I was able to find from a higher court 
+that said that supplemental jurisdiction is technically 
+a form of subject matter jurisdiction.  What we argue --
+JUSTICE GINSBURG:  Why is it only technical? 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+32 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+It says court, you can exercise power.  Subject matter 
+jurisdiction is defined as the court has to hear a given 
+controversy, and under supplemental jurisdiction, there 
+is undoubted power in the district court to hear those 
+claims.
+
+ MR. ALLISON:  In a -- certainly I think in a 
+textbook sense, that is what subject matter -- when the 
+world is divided between subject matter and personal and 
+third, territorial, which I think is a relation -- has 
+relation to personal -- when the world is divided along 
+those lines, then subject matter takes on the broadest 
+possible meaning, but we have conflicting broad 
+policies.  On the one hand, we have a broad definition 
+of subject matter definition; on the other hand we have 
+a statute which should be construed to favor remand at 
+almost all lawful cost.
+
+ And -- and subject matter, if we step back 
+from our -- our dichotomy, personal and subject matter, 
+subject matter also means, as -- as Your Honor said at 
+the beginning of this argument, something that is --
+that is a subject with which the Federal courts should 
+be concerned, and on which they should expend their 
+resources; and we now have the circuit courts hearing 
+appeals from decisions, discretionary decisions because 
+they are technically within the realm of subject matter 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+33 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+jurisdiction.  But clearly, State law claims are not the 
+subject matter with which the Federal courts should 
+routinely be concerned, and that's why United Mine 
+Workers -- and Cohill echoed it -- says, these claims 
+should be sent back, and Cohill even -- both cases even 
+said that the propriety of remanding the claims should 
+be reviewed at every stage in the litigation.  That --
+that I think presents us a pretty strong policy by this 
+Court that remand is to be indulged at almost any lawful 
+cost.
+
+ JUSTICE GINSBURG:  You put it in terms in 
+your brief, if I understood your position correctly, 
+yes, there is subject matter jurisdiction over 
+supplemental claims, but once the district court chooses 
+not to exercise that jurisdiction, it -- and these were 
+the words you used -- it divests itself of jurisdiction.
+
+ MR. ALLISON:  Yes.  The -- the argument --
+
+and I was attempting to make a technical argument in the 
+brief, and I think today I'm speaking in slightly more 
+global terms -- but the technical argument is that when 
+a district court makes a decision, in the words of 
+Gibbs, that it would be inappropriate to exercise 
+jurisdiction over those claims, then the claims are to 
+be remanded.
+
+ JUSTICE ALITO:  What about if it changes its 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+34 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+mind?
+
+ MR. ALLISON:  Justice Alito, the question of 
+whether a -- question of reviewability because the cases 
+that we found that -- that talked about reconsideration 
+talked about reconsideration only because there was the 
+potential for review of these orders.
+
+ I think the norm for a remanded case is that 
+the order of remand is entered, and the order of remand 
+is certified and mailed to the State court, and the 
+district court no longer has jurisdiction at that point.
+ Now, certainly it could reconsider as it's 
+engaged in its decision process.  It could go back and 
+forth and reconsider it before it signs the order.  But 
+that's no different than -- than many other cases in 
+which the court can make a discretionary decision that 
+it has no jurisdiction.  The only --
+
+JUSTICE GINSBURG:  The discretionary 
+
+decision is that it chooses not to hear the case.  It's 
+not that -- there is no discretion there.  There's 
+nothing discretionary about saying we have no 
+jurisdiction.  "We have no jurisdiction" means we have 
+no power.  So the -- the two are just at odds with each 
+other.  No power, yes power, but we choose not to 
+exercise it.
+
+ MR. ALLISON:  And I think -- I think that 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+35 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+the -- again, the purpose of the review bar as it's been 
+expressed for over a hundred years has been to trust 
+district judges to make these decisions and then get the 
+case where it needs to be to be resolved on its merits. 
+So to say that the court chooses not to hear the case, 
+it -- it suggests something a little bit less gray than 
+the decision that I believe the court would make when it 
+decides that it's inappropriate to hear the case, in the 
+words of Gibbs.
+
+ JUSTICE SOUTER:  You -- you think that 
+
+choosing not to hear is distinguishable from a decision 
+that it is inappropriate to hear?
+
+ MR. ALLISON:  I -- I meant only to suggest 
+that it is not a -- it is not a choice.  It is a -- not 
+a -- an ill-considered choice.  Certainly, there's a 
+choice involved in the decision that it would be 
+inappropriate.  But I don't see -- and I -- I wanted to 
+resist a rhetorical question, but then I don't see how 
+anyone could say when a court is faced with -- with only 
+State-law claims that it could either decide or not and 
+it decides it would be inappropriate to retain 
+jurisdiction over those claims, that somehow it should 
+retain jurisdiction over those claims.
+
+ JUSTICE GINSBURG:  Well, that would argue 
+
+for a highly deferential standard of review, respecting 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+36 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+the district judge's determination that it's not what --
+it hasn't invested any time in these questions, and it 
+shouldn't because they are purely state-law questions. 
+That's -- but that's something quite different from --
+from a -- the -- the terminology that you used is 
+troublesome because a court doesn't have power to divest 
+itself of jurisdiction.
+
+ If Congress conferred jurisdiction, it has 
+it, and the Court can't divest itself of that.  It can, 
+if Congress permits it, decline to exercise 
+jurisdiction, but a court is not capable of divesting 
+itself of jurisdiction.
+
+ MR. ALLISON:  I believe -- well -- and --
+and this is a mechanical argument, but I believe that 
+when the court makes the decision and then -- and then 
+anticipates the remand, that that is divesting itself of 
+jurisdiction.  And perhaps it was -- perhaps it was a 
+poor -- a poor word choice.
+
+ JUSTICE SOUTER:  But even -- even on your 
+analysis it seems to me that the -- the cart is before 
+the horse, because it is -- it is not remanding because 
+it does not have jurisdiction.  What you are saying is 
+that after it remands, it loses jurisdiction, and those 
+are two very distinct categories.
+
+ The -- the premise for the declaration that 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+37 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+it does not have jurisdiction is a premise that even on 
+your argument does not arise until a following 
+agreement.  So there's no way you can fit it, it seems 
+to me, into the category of -- of remanding because at 
+the point of deciding to remand it has no jurisdiction. 
+That, in fact, is false.
+
+ MR. ALLISON:  It is simply a question, I 
+
+think, of -- of the choice of the word "divest" and what 
+that means.  I would -- I would analogize in order to 
+perhaps make it seem more -- more accurate -- I would 
+analogize it to what a district court now can do under 
+section 1447(e) where it makes a decision in applying 
+the law and using its discretion to allow joinder of a 
+nondiverse party.  That would then destroy diversity and 
+require the case to be remanded.
+
+ And I would say in that case that the court 
+makes a decision that divests it of jurisdiction, and it 
+is very technical to say that -- - that, yes, it lacks 
+jurisdiction as soon as it enters the order admitting 
+that party to the case.  But that may very well be the 
+same order that remands the case to the State court.
+ But I -- I do -- I do see that there is 
+
+power.  And if the case is going to turn on power, as 
+the Court -- or some of the language in Powerex 
+suggested that it might, then I don't know that we -- I 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+38 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+don't know that we make much headway.  But I -- I -- I 
+see 1447(c) lacks subject-matter jurisdiction as being 
+broad enough to comfortably take in the situation where 
+the State law claims not really within the subject 
+matter of the district court's power are determined 
+inappropriate for that court to hear and sent back.
+
+ And it would bring us that much closer to 
+
+realizing the purpose of the review bar that has existed 
+since 1887, taking a category of cases out of the 
+jurisdiction of the circuit courts.
+
+ I -- I had wanted to offer the Court some 
+
+statistics, as maybe proof-of-law professors might, 
+about the number of cases that are heard on this type of 
+appeal.  I can say that the cases that we found in our 
+footnotes 18 through 20 represent something close to the 
+universe of cases in which discretion was found to be 
+abused.  And that abuse of discretion is nowhere near as 
+egregious as the legal errors that a district court 
+might commit in making erroneous judgments that it has 
+no jurisdiction which were nonetheless subjected to the 
+review bar in Kircher and Powerex.
+
+ If there are no further questions, I will 
+
+stop now.
+
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+Thank you.  Mr. Rhodes, you have four minutes remaining. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+39 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+REBUTTAL ARGUMENT OF GLENN W. RHODES
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. RHODES:  I just had a few quick points I 
+
+would like to bring up.
+
+ First, I would just like to reiterate that 
+
+when Congress enacted 1367, that gave it Article III 
+jurisdiction in those matters, just as 1331 and 1332 do. 
+I would also like to reiterate that -- that stare 
+decisis should be maintained over this statutory 
+interpretation because it has proved to be workable 
+rather than not workable.
+
+ Again, the circuit courts -- even though as 
+Mr. Chief Justice has iterated that they have to follow 
+this, they have found it to be a workable framework. 
+And, again, as the Court expressed in Powerex, they 
+agreed that in Quackenbush that Thermtron was not 
+altered.  And Congress has -- has seemingly ratified 
+this Court's interpretation in Thermtron, and it has 
+been applied in Quackenbush.
+
+ CHIEF JUSTICE ROBERTS:  I suppose, though, 
+if it would be an abuse of discretion for the district 
+court to retain jurisdiction, then maybe there is --
+there never was jurisdiction, right?  You said they have 
+discretion to exercise or not.  If it turns out they 
+don't have discretion to exercise, you know, because 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+40
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+it's a huge State claim and a tiny Federal claim, why 
+wouldn't that properly be regarded as an absence of 
+jurisdiction?
+
+ MR. RHODES:  My response to that, Mr. Chief 
+
+Justice, is that until a court decides that it was an 
+abuse of discretion, the district court had jurisdiction 
+under 1367(c) to either exercise that power or not 
+exercise that power.
+
+ And unless there's any further questions for 
+
+me, I ask that the brief -- this be remanded to the 
+Federal circuit to decide on the merits of the appeal.
+
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, at 12:17 p.m., the case in the 
+
+above-entitle matter was submitted.) 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+41 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+A 
+
+abdicate 14:12 
+ability 9:10 
+
+able 9:11 32:20 
+
+above-entitle 
+
+above-entitled 
+
+11:15 
+
+32:22 
+
+41:15 
+
+1:12 
+
+absence 5:11 
+
+29:2 41:2 
+Absent 4:18 
+absolute 14:2 
+
+21:7 
+
+abstention-ba... 
+
+16:19,21 
+
+abuse 6:13 7:19 
+
+9:12 39:17 
+40:21 41:6 
+abused 9:13 
+
+39:17 
+
+accurate 38:10 
+achieving 20:12 
+acquires 29:9 
+Act 24:23 
+action 5:3 6:6,6 
+
+30:9 
+
+addition 24:4 
+address 6:11 
+adjective 22:16 
+admitting 38:19 
+adopted 15:18 
+ago 20:24 
+agree 5:16 6:9 
+agreed 40:16 
+agreement 38:3 
+AL 1:7 
+Alito 17:8 34:25 
+
+35:2 
+
+allege 11:9 
+Allison 1:18 2:5 
+20:3,4,6 21:1 
+21:19 22:25 
+23:21 24:6,20 
+25:17,19 26:4 
+27:5,18 28:11 
+
+28:20 29:6 
+30:4,16 31:21 
+32:10 33:6 
+34:17 35:2,25 
+36:13 37:13 
+38:7 
+
+allow 14:12 
+
+38:13 
+
+allows 27:9 
+altered 40:17 
+ambiguous 
+
+amended 17:9 
+
+31:10 
+
+17:13 
+
+amendments 
+
+17:22,23 19:11 
+19:15 
+
+analogize 38:9 
+
+38:11 
+
+analogy 32:13 
+analysis 5:5 
+
+37:20 
+
+ancillary 29:25 
+answer 6:11 9:1 
+
+15:4 
+
+anticipates 
+
+37:16 
+
+anytime 30:21 
+anyway 14:2 
+apparently 6:12 
+appeal 14:24,25 
+
+15:6,10,17 
+18:8 23:14 
+25:7 39:14 
+41:11 
+
+appealable 19:5 
+appealed 10:10 
+appeals 8:5,23 
+27:10 33:24 
+
+APPEARAN... 
+
+1:15 
+
+appellate 8:12 
+applicable 3:12 
+
+4:5 
+
+application 
+
+11:16 
+
+applications 
+
+11:13 
+
+applied 11:23 
+
+15:6 18:9 24:8 
+40:19 
+
+applies 14:6 
+
+24:16 
+
+apply 12:9 16:3 
+
+16:11 18:12 
+24:25 
+
+applying 20:11 
+
+38:12 
+
+appreciate 5:23 
+appropriate 
+
+23:15 
+
+approve 17:24 
+Arbaugh 32:6 
+areas 12:21 
+argue 10:13 
+29:16 30:17 
+32:24 36:24 
+argued 10:8 
+arguing 7:17 
+
+12:7 
+
+argument 1:13 
+
+2:2,7 3:3,7 
+5:24 20:4 23:4 
+23:6,8 26:12 
+26:13,16 27:3 
+27:6,7 33:20 
+34:17,18,20 
+37:14 38:2 
+40:1 
+
+arose 6:12 11:6 
+artful 27:10 
+Article 5:2 
+
+11:19 29:15 
+40:6 
+
+asked 15:22,22 
+
+15:23 17:1 
+asking 21:22 
+asserted 7:6 
+Associate 20:17 
+associated 24:10 
+assuming 8:6 
+attempting 
+
+34:18 
+
+attention 16:23 
+
+42 
+
+Alderson Reporting Company 
+
+avoid 13:3,4 
+awareness 24:14  Bio 1:7 3:4 
+a.m 1:14 3:2 
+
+authoritative 
+
+17:17 
+
+21:3 
+
+authority 24:1 
+authorized 
+
+22:13 
+
+B 
+
+back 4:23 6:23 
+9:8 10:2,12,20 
+10:21 13:10 
+15:12,16 16:6 
+18:19 23:2 
+26:17 27:1 
+30:25 32:17 
+33:17 34:5 
+35:12 39:6 
+
+ban 6:11 24:15 
+bankruptcy 
+
+24:11 
+
+bar 3:12,22 
+
+20:11,19,21 
+22:10 24:8,16 
+24:25 25:10 
+36:1 39:8,21 
+barred 19:12 
+based 3:18,25 
+
+4:2,6,11,13 5:5 
+5:6 15:11 
+16:19 21:9 
+24:13 30:7 
+
+bases 25:2 
+basic 22:24 
+basically 9:6 
+basis 5:7 6:25 
+7:8,16 9:11 
+11:10 19:2,14 
+31:14 
+
+beginning 33:20 
+behalf 1:16,18 
+
+2:4,6,9 3:8 
+20:5 40:2 
+believe 25:4 
+30:22 31:5 
+
+36:7 37:13,14 
+believed 20:21 
+believes 32:15 
+belong 7:24 
+belongs 13:20 
+better 7:2 10:18 
+big 14:24 15:3 
+
+bit 14:15 24:20 
+24:21 27:22 
+36:6 
+
+blue 3:24 
+break 12:22 
+brief 3:24 9:2 
+17:7 23:23 
+34:12,19 41:10 
+bring 20:12 39:7 
+
+40:4 
+
+39:3 
+
+broad 33:12,13 
+
+broadest 33:11 
+broadly 31:2 
+Brookshire 9:2 
+Burford 16:20 
+busy 13:23 
+14:17 16:5 
+
+C 
+
+c 2:1 3:1 14:7 
+
+23:20 
+Cal 1:16 
+call 8:18 26:20 
+called 19:9 
+capable 37:11 
+carefully 25:14 
+Carlsbad 1:3 
+
+3:4 
+
+Carnegie-Mel... 
+
+4:23 19:21 
+
+cart 37:20 
+case 3:4,11,14 
+
+4:6,9,16,18,22 
+4:25 5:5 6:14 
+6:16,19,22,25 
+7:5,7,12,14,23 
+8:21,22 9:2,2 
+9:20,21,25 
+
+Official - Subject to Final Review 
+
+34:14,23,23 
+36:20,22,23 
+39:4 
+
+clause 26:21 
+clear 13:14 
+
+15:20 22:17 
+26:3,24 31:3 
+clearly 4:8 6:17 
+
+conferred 3:19 
+
+4:8 37:8 
+
+confidence 21:4 
+conflate 29:2,7 
+conflicting 
+
+33:12 
+
+confronted 
+
+25:25 32:12 
+confusing 6:10 
+
+close 39:15 
+closer 20:12 
+
+11:20 26:21 
+27:16,24 31:25  Congress 4:8 
+34:1 
+5:25 6:13,20 
+8:18 17:9,12 
+20:14 22:20 
+25:9,10 28:24 
+29:22,22 30:23 
+37:8,10 40:6 
+40:17 
+
+39:7 
+
+14:14,20,22 
+16:25 17:16,20 
+17:25 18:10,15 
+19:7 20:2,6,16 
+30:1,4,5 39:24 
+40:13,20 41:4 
+41:12 
+
+10:5 11:4,24 
+12:5,17,19 
+13:19,20,22 
+16:20 17:9 
+18:20 19:17 
+20:17 22:9 
+23:13,16 24:11 
+26:19,25 27:20  choice 18:11 
+27:22 29:9,15 
+36:14,15,16 
+29:16 31:17,25 
+37:18 38:8 
+32:15,18,21,22  choose 6:3 7:25 
+35:7,18 36:4,5 
+36:8 38:15,16 
+38:20,21,23 
+41:13,14 
+cases 8:5,11 
+12:25 14:6 
+10:10,18 15:6 
+15:9,14 19:2 
+15:10,16,17 
+20:19,20 24:10 
+18:8,13,17 
+27:9 34:5 35:3 
+26:5 32:21 
+35:14 39:9,13 
+33:23 39:10 
+39:14,16 
+casts 27:8 
+40:12 41:11 
+categories 31:10  Circuit's 5:5 
+
+28:23 35:23 
+chooses 31:17 
+34:14 35:18 
+36:5 
+
+closest 32:20 
+codify 29:23 
+choosing 36:11 
+circuit 9:3,9,25  Cohill 23:7,9 
+24:3 26:19 
+29:23 34:4,5 
+College 29:12 
+colorless 25:25 
+combining 
+
+29:24 
+
+come 26:19 
+
+37:24 
+
+30:25 
+
+category 12:8 
+
+cause 5:3 30:9 
+certainly 12:7 
+
+comes 24:15 
+comfortably 
+
+cite 21:3 
+citing 24:13 
+19:1 38:4 39:9  City 29:11 
+civil 24:5 
+claim 3:16 4:10 
+5:1,14 7:6,22 
+8:15,17,21 9:7 
+10:15 11:10,15  comment 18:25 
+11:18 27:4,16 
+27:18 28:1,14 
+41:1,1 
+
+21:3 23:9 26:7 
+26:14 29:19 
+33:6 35:11 
+36:15 
+
+commit 39:19 
+complaint 11:7 
+concentrated 
+
+coming 32:17 
+comity 31:3 
+comma 24:8 
+
+39:3 
+
+certified 35:9 
+challenging 
+23:15,18 
+
+change 17:11 
+
+30:18 
+
+changes 22:20 
+29:17,17,20 
+30:22 34:25 
+
+chaos 12:21 
+chemicals 30:8 
+
+Chicago 29:11 
+
+30:11 
+
+32:19 
+
+Chief 3:3,9 13:7 
+
+claimed 11:9,11 
+
+9:23 
+
+11:16 
+
+concept 31:6,6 
+claims 3:17 4:10  concepts 29:8 
+concern 16:10 
+26:22 30:18 
+
+4:25 7:15,22 
+7:24 8:20 9:4 
+9:22,24 10:7 
+11:8 19:4 
+26:18,24,25 
+concerns 31:3 
+27:3,12,13,25 
+28:19,22 29:16  concurrence 
+30:2 31:18 
+33:5 34:1,4,6 
+
+32:14 33:22 
+34:3 
+
+conditions 29:1 
+
+concerned 29:19 
+
+25:4 
+
+43 
+
+Alderson Reporting Company 
+
+15:24 21:19 
+32:10 
+
+correctly 34:12 
+cost 33:16 34:10 
+couched 11:8 
+counsel 20:2 
+39:24 41:12 
+counsel's 20:8 
+count 7:11 
+course 23:3 
+24:17 25:1 
+26:10 
+
+court 1:1,13 
+
+3:10,15,16,19 
+4:19 5:1,13,17 
+6:7,17,19,21 
+7:1,1,4,6,9,13 
+7:18,24 8:1,5,9 
+8:12,17,23 9:3 
+9:8,12,15,18 
+9:19 10:1,4,6,9 
+10:12,14,14,16 
+10:20,21 11:21 
+12:20 13:4,16 
+13:20,21,21,25 
+13:25 14:2,8 
+14:12,16 15:13 
+16:6,20,22 
+17:2 18:6,12 
+20:7,15 21:12 
+21:14,24 22:1 
+22:3,8,19 23:4 
+23:16,21,23 
+24:7,12 25:12 
+25:15 26:8,9 
+26:13,13,23 
+27:19,24 28:13 
+28:21,25 29:5 
+29:9,11,13,18 
+29:19 30:20 
+31:3,12,14,17 
+31:24 32:12,15 
+32:18,22 33:1 
+33:2,4 34:9,14 
+34:21 35:9,10 
+35:15 36:5,7 
+36:19 37:6,9 
+
+Congress's 
+
+24:14 
+
+connection 
+
+11:12 
+
+consequences 
+19:25 20:10 
+considering 
+
+24:7 
+
+consistent 5:2 
+consonant 21:15 
+construction 
+9:11 17:15 
+
+construe 14:11 
+
+31:4 
+
+construed 22:19 
+
+22:19 31:1 
+33:15 
+
+contains 4:10 
+context 24:10 
+continue 26:14 
+contracting 
+
+22:12 
+
+controversy 
+
+33:3 
+
+conundra 31:22 
+conundrum 
+28:2 31:22 
+conventional 
+
+22:18 
+
+correct 12:1 
+
+Official - Subject to Final Review 
+
+37:11,15 38:11 
+38:16,21,24 
+39:6,11,18 
+40:15,22 41:5 
+41:6 
+
+decisis 22:24 
+
+36:3 
+
+40:9 
+
+disavow 23:20 
+disavowing 
+
+23:17 
+
+declaration 
+
+discretion 4:11 
+
+39:5,18 40:21 
+41:6 
+
+diversity 6:18 
+31:13 38:14 
+divest 37:6,9 
+
+11:11 37:25 
+courts 4:9 12:23  decline 3:13 
+
+4:11,17,19,20 
+37:10 
+
+15:6,10,16 
+18:8 21:13 
+declining 15:11 
+26:22 27:10 
+30:20 33:21,23  defect 4:2 21:9 
+defective 21:16 
+34:2 39:10 
+defendant 6:18 
+40:12 
+
+court's 3:13 
+
+7:7 
+
+defer 8:6 
+
+4:11,13,16,22 
+16:11,12 17:14  deferential 
+23:3 24:2,2,21 
+27:21,23 39:5 
+40:18 
+
+36:25 
+
+38:8 
+
+37:16 
+
+divesting 37:11 
+
+4:20 5:2,22 
+7:18,19 8:4,18 
+9:12,13 29:14 
+35:19 38:13 
+39:16,17 40:21  divests 34:16 
+40:24,25 41:6 
+discretionary 
+3:13 6:2 7:16 
+8:3 15:12 
+19:13 25:11,18  doctrine 19:19 
+28:17 29:3,21 
+30:19 33:24 
+35:15,17,20 
+
+divide 15:3 
+divided 33:8,10 
+docket 13:19 
+
+38:17 
+
+doing 17:22 20:1 
+
+discussing 26:14 
+disguised 27:13  draws 27:8 
+
+21:14 
+
+entitled 7:9 
+entitlement 
+
+11:18 
+
+enumerated 
+
+equitable 25:5 
+
+8:20 
+
+25:12 
+
+erroneous 39:19 
+error 5:22 
+errors 39:18 
+ESQ 1:16,18 2:3 
+
+2:5,8 
+
+essential 22:25 
+essentially 27:8 
+
+27:11 
+
+covered 9:19 
+covers 21:8 
+creates 28:2 
+crowded 13:19 
+
+D 
+
+d 3:1 5:20 14:7 
+
+19:15,16 23:20 
+
+days 4:4 
+dealing 18:18 
+deals 21:15 24:9 
+decide 18:7 
+
+28:14 36:20 
+41:11 
+
+decided 7:13 
+25:16 26:7 
+decides 12:20 
+36:8,21 41:5 
+deciding 38:5 
+decision 3:13 
+8:3,8,12 12:5 
+24:22 27:21,23 
+28:15,18 29:4 
+34:21 35:12,15 
+35:18 36:7,11 
+36:16 37:15 
+38:12,17 
+
+decisions 23:3 
+
+25:12 33:24,24 
+
+defined 33:2 
+definite 26:2 
+definitely 9:13 
+definition 32:19  dismiss 28:14 
+dismissed 3:15 
+
+33:13,14 
+
+delay 6:14,18 
+
+7:11 8:21 
+
+31:6 
+
+dispositive 9:6 
+departure 15:15  dispute 10:24 
+disputed 5:12 
+disputing 11:3 
+dissenting 20:16 
+
+18:19,21,25 
+19:1 
+
+destroy 38:14 
+determination 
+
+20:23 21:2 
+distinct 37:24 
+
+determined 39:5  distinguish 16:2 
+developed 18:20  distinguishable 
+dichotomy 
+
+36:11 
+
+37:1 
+
+33:18 
+
+dicta 12:16 
+difference 19:22 
+
+28:8 
+
+different 6:24 
+
+10:6 16:4 
+24:21 35:14 
+37:4 
+
+difficult 31:21 
+
+31:22,23 
+direct 18:2 
+disagree 12:7 
+disagrees 7:1 
+disapproved 
+
+23:9 
+
+district 3:13,15 
+3:16 4:9,16,19 
+5:1,13 7:1,3,10 
+7:13,18,21 8:7 
+8:8,17 9:3,12 
+10:6 12:23 
+13:4,18,21 
+14:12 19:3 
+25:12 27:19,21 
+27:23,23 28:3 
+28:21 29:19 
+31:17 32:15 
+33:4 34:14,21 
+35:10 36:3 
+37:1 38:11 
+
+26:15 31:8 
+drastically 
+
+established 24:1 
+ET 1:7 
+eve 9:6 
+event 30:7 
+dress 12:24 13:8  exact 14:10 
+
+13:9 
+
+dump 13:22 
+dumping 30:8 
+
+30:11 
+
+D.C 1:9,18 
+
+E
+
+E 2:1 3:1,1 
+earlier 14:23
+
+21:20,21
+echo 30:6
+echoed 34:4
+edges 31:11
+effect 21:23
+effort 29:7
+egregious 39:18
+either 4:15 5:18 
+
+16:21 36:20
+41:7
+
+enacted 40:6
+energy 10:2
+engaged 35:12
+ensuing 22:3
+
+23:24
+
+entered 35:8
+enters 38:19
+entire 29:15
+
+example 6:16 
+
+10:8 
+
+exception 19:6,8
+
+19:24 
+
+exceptions
+
+20:20 
+
+exclusive 10:9 
+10:16 11:20 
+
+exclusivity
+
+10:19 
+
+excuse 22:3,11
+exercise 3:14 
+
+4:12,17,19,20
+4:20 6:2 7:14 
+15:12 19:3 
+28:10,23 29:4 
+29:15 31:15 
+33:1 34:15,22
+35:24 37:10 
+40:24,25 41:7 
+41:8 
+
+exercised 7:18 
+
+9:3 28:13 
+existed 21:5 
+22:10 39:8 
+
+existing 29:23 
+exists 4:15 
+
+44 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+22:9 
+
+harkening 26:16 
+harmonize 23:1 
+
+harmonizing 
+
+9:17 10:23 
+13:6,13 14:23 
+15:20,25 16:10  harmonized 
+20:23 21:1,6 
+21:20 24:4,18 
+24:21 25:4,13 
+25:18,20,24 
+26:17 28:3,11 
+28:17,21 29:6 
+31:7,24 32:3 
+32:25 34:11 
+35:17 36:24 
+give 9:1 15:8 
+
+7:14 10:15 
+16:5 31:17 
+33:2,4 35:18 
+36:5,8,11,12 
+39:6 
+
+headway 39:1 
+hear 3:3 4:16,18 
+
+22:23 
+
+21:13,24 
+given 17:12 
+
+28:24 32:19 
+33:2 
+
+gives 8:19 30:9 
+
+30:19 
+
+GLENN 1:16 
+
+2:3,8 3:7 40:1 
+
+global 34:20 
+go 10:20 14:1 
+15:16 18:19 
+35:12 
+
+heard 27:14 
+
+39:13 
+
+hearing 33:23 
+held 22:8 23:10 
+
+24:13,23,25 
+29:11 
+
+HIF 1:7 3:4 
+higher 32:22 
+highly 36:25 
+history 23:24 
+holding 14:10 
+
+22:6 24:3 
+
+goes 30:18 
+
+15:14,18 18:18 
+40:14 
+
+Honor 33:19 
+four 39:25 
+Honor's 21:21 
+framework 15:8  going 7:4,14 
+horse 37:21 
+8:11 10:2 
+huge 28:8 41:1 
+12:11 13:1 
+14:4,4,5,11,15  hundred 36:2 
+14:17 16:5 
+18:12,16 27:25 
+38:23 
+
+Francisco 1:16 
+frivolous 6:21 
+
+I
+idea 30:1
+III 5:2 29:15 
+
+expanded 25:11 
+expanding 
+
+22:11 
+
+expend 33:22 
+explain 10:23 
+
+32:6 
+
+expressed 20:13 
+
+23:11 36:2 
+40:15 
+
+expresses 6:17 
+
+25:8 
+
+expressly 17:5 
+extend 31:5,16 
+
+F 
+
+face 12:3 13:12 
+faced 36:19 
+fact 14:8 16:22 
+17:12 21:8,20 
+24:24 27:13 
+29:8 38:6 
+
+facts 16:3 21:12 
+
+30:13 
+
+failing 24:12 
+fall 5:19 16:21 
+
+30:2 
+
+34:2 41:1,11 
+federalism 31:4 
+fell 11:20 
+Fifth 9:3,9,25 
+filed 4:4 6:16 
+7:12 11:7,12 
+
+filing 6:14 
+finally 18:7 
+find 32:20,22 
+finding 30:13 
+firm 5:25 
+first 19:20 26:16 
+27:20,24 40:5 
+
+fit 17:11 38:3 
+flatly 28:5 
+follow 22:22 
+24:12 40:13 
+following 38:2 
+footnotes 39:15 
+form 32:24 
+forth 3:23 35:13 
+found 15:7 
+
+16:20 32:18 
+35:4 39:14,16 
+40:14 
+
+7:8 
+
+5:10 30:6 
+
+fundamental 
+
+further 39:22 
+
+falls 11:17 23:7 
+false 38:6 
+falsely 11:9,10 
+familiar 20:15 
+far 26:2 
+favor 31:4 33:15 
+February 1:10 
+federal 3:15 
+4:10,25 5:4 
+6:17,19,21,25 
+7:6,9,11,23 8:1 
+8:9,15 9:4,7,19 
+10:1,4,9,10,16  G 3:1 
+general 24:19 
+10:18,24 11:4 
+gentle 26:13 
+11:5,21 15:17 
+18:13,16 22:2  Gibbs 4:24 
+26:5,24 27:4 
+27:13,14,16 
+28:18 29:16 
+30:2,7,9,9,20 
+31:13,14 33:21 
+
+26:23 34:22 
+36:9 
+
+41:9 
+
+G
+
+good-bye 7:24 
+grave 5:22 
+gray 36:6 
+ground 9:18 
+
+25:6,12 
+
+grounds 3:22,25 
+
+12:13 
+H
+
+Haley 4:22 
+hand 33:13,14 
+
+ill-considered
+
+40:6
+
+36:15
+
+immune 6:8
+implicit 17:2
+implies 8:4
+important 13:23 
+
+27:6 
+
+inappropriate 
+34:22 36:8,12 
+36:17,21 39:6 
+
+include 25:11 
+27:3 31:16 
+
+Ginsburg 5:9,16  handle 15:8 
+
+5:21 6:10 7:20 
+8:13,14,25 
+
+18:21 
+
+harken 21:20 
+
+45 
+
+Alderson Reporting Company 
+
+inconsistency 
+
+27:7 
+
+inconsistent 5:4 
+independent 5:7 
+indulged 34:9 
+infringement 
+
+11:1 
+
+inhibit 6:13 
+intended 29:22 
+29:25 30:23 
+interest 7:23 
+interested 9:24 
+interesting 25:3 
+
+27:20 
+
+interfere 8:13 
+International 
+
+29:12 
+
+interpretation
+
+15:8 16:12 
+40:10,18
+interpreted
+
+invention 10:25 
+
+19:10 
+
+11:2 
+
+inventors 11:10 
+
+11:11,15,19
+inventorship
+
+10:8,19 11:18 
+
+invested 37:2 
+investment 10:1 
+involved 14:16 
+
+16:9 36:16 
+
+issue 3:11 6:18 
+
+10:11,19 11:14 
+16:24 26:1,7,8
+26:11 27:17 
+issues 18:18,21
+24:11 27:11 
+iterated 40:13 
+
+J
+
+joinder 38:13 
+judge 6:5 7:10 
+7:21 8:7,19 
+9:22 13:18 
+16:5 19:3 28:3 
+
+judges 36:3 
+
+Official - Subject to Final Review 
+
+judge's 8:8 37:1 
+judgment 8:15 
+
+8:24 
+
+judgments 
+
+39:19 
+
+judicial 9:15 
+jurisdiction 
+
+3:14,18,19 4:1 
+4:3,7,8,12,14 
+4:15,17,21 5:3 
+5:7,8,11,14,19 
+6:1,7,8 8:3,16 
+8:16 9:4,14 
+10:9,14,16 
+11:21 12:25 
+13:18 14:13,25 
+19:4,13,20 
+20:11 21:10,18 
+27:9,19,24 
+28:7,7,8,14,22 
+28:24,25 29:3 
+29:4,9,10,14 
+29:17,17,20,24 
+30:2,3,7,10,12 
+30:12,14,15,17 
+30:22,24 31:9 
+31:11,12,15,16 
+31:18,20 32:1 
+32:4,4,5,5,16 
+32:18,23,24 
+33:2,3 34:1,13 
+34:15,16,23 
+35:10,16,21,21 
+36:22,23 37:7 
+37:8,11,12,17 
+37:22,23 38:1 
+38:5,17,19 
+39:2,10,20 
+40:7,22,23 
+41:3,6 
+
+jurisdictional 
+26:21 32:8 
+
+Justice 3:3,9 5:9 
+
+5:16,21 6:9 
+7:20 8:13,14 
+8:25 9:17 
+10:23 11:22 
+
+12:4,15,19 
+13:2,6,7,8,13 
+14:14,20,22,23 
+15:20,24 16:1 
+16:9,10,13,16 
+16:25 17:8,16 
+17:20,25 18:3 
+18:10,15,24 
+19:7,8,14 20:2 
+20:6,16,17,18 
+20:23 21:1,4,6 
+21:19 22:1,15 
+23:1,19 24:4 
+24:18,20 25:3 
+25:13,18,20,24 
+26:17 27:2,5 
+27:15 28:3,11 
+28:17,21 29:6 
+30:1,4,5 31:7 
+31:23 32:3,25 
+34:11,25 35:2 
+35:17 36:10,24 
+37:19 39:24 
+40:13,20 41:5 
+41:12 
+
+K 
+
+keep 6:3,5 7:25 
+kind 9:20 
+kinds 6:20 15:9 
+15:14,19 21:16 
+32:7 
+
+Kircher 28:16 
+32:13 39:21 
+
+know 9:21 20:9 
+20:10,15 38:25 
+39:1 40:25 
+
+knowing 12:25 
+Koffski 32:21 
+
+L 
+
+label 31:8,16 
+labeled 10:7 
+
+32:8 
+
+labels 32:14 
+lack 3:18 4:1,2,7 
+4:13 5:6,13,18 
+
+6:1 12:14,24 
+19:12 21:9,17 
+
+lacked 10:14 
+
+32:16 
+
+lacking 5:8 
+lacks 38:18 39:2 
+laid 19:20 
+language 11:24 
+12:9,24 13:3,4 
+14:1 19:16 
+23:7 26:20 
+32:20 38:24 
+
+large 10:1 15:15 
+18:19,21,25,25 
+
+late 20:16 
+Laughter 17:19 
+18:5,14 25:23 
+law 3:17 4:10,25 
+
+7:15,22,24 
+9:22 10:7 11:8 
+18:20 19:4 
+21:4 26:18,25 
+27:12,25 29:23 
+34:1 38:13 
+39:4 
+
+lawful 33:16 
+
+34:9 
+
+laws 10:20 11:6 
+leave 29:16 
+left 7:22 26:25 
+
+28:25 
+
+legal 32:2 39:18 
+legitimate 6:25 
+
+7:15 10:7 
+length 9:14 
+let's 5:14 30:8 
+light 13:14 
+limit 21:11 
+limitation 32:9 
+limited 3:22
+12:13 14:18
+21:14
+
+limiting 23:25
+limits 32:7
+line 22:22
+lines 33:11
+lingered 9:21 
+
+litigation 34:7 
+little 16:23 
+
+24:20,21 27:22 
+36:6 
+
+lo 22:10 
+long 9:21 
+longer 14:4,5 
+
+meaning 33:12 
+means 31:12 
+33:19 35:21 
+38:9 
+
+meant 26:5 
+
+36:13 
+
+mechanical 
+
+look 6:23 17:23  merits 36:4 
+
+35:10 
+
+23:23 
+
+looked 25:21 
+lose 30:15 
+loses 37:23 
+lot 6:4 17:16 
+
+23:25 
+M
+
+mailed 35:9
+maintained 40:9
+majority 21:6
+making 39:19
+manager 31:8
+mandamus
+23:14,17
+mandatory
+
+14:13 29:14,14
+29:18,20,21
+30:18 32:8,20
+
+37:14 
+
+41:11 
+
+mind 35:1 
+Mine 4:24 19:21 
+
+26:23 34:3 
+minute 6:23 
+minutes 39:25 
+misapplication
+
+misperception
+
+31:19 
+
+30:6 
+
+modification 
+
+12:16 
+
+modify 15:16 
+motion 4:4 6:14 
+
+7:12 
+
+motions 9:6 
+moved 16:23 
+
+N
+
+matter 1:12 3:18  N 2:1,1 3:1 
+narrow 19:1
+nature 8:7 30:17 
+30:21 32:11,12
+
+4:1,3,7,13 5:6 
+5:11,13,19,22 
+6:1 8:18 12:24 
+near 39:17
+14:25 19:12 
+21:10,17 22:15  need 13:8
+needs 36:4
+22:16 26:21 
+neither 15:21
+29:3,4,10 
+30:23 31:11,12  net 27:8,9
+31:16,20 32:4 
+32:5,17,24 
+33:1,7,8,11,14  new 14:3
+33:17,18,19,25  nondiverse
+34:2,13 39:5 
+41:15 
+
+neutral 25:24
+never 40:23
+
+38:14
+
+norm 35:7
+normally 7:17
+
+matters 40:7 
+mean 10:2 13:8 
+
+22:18
+
+14:15,18 17:20  notice 4:4
+17:23 21:13 
+
+noticed 22:3
+
+46 
+
+Alderson Reporting Company 
+
+22:4 24:2 
+39:13 
+
+22:17 
+
+overthrow 
+
+16:17 
+
+notion 31:20 
+number 8:10 9:5  overruling 
+
+22:7 
+
+8:21 
+
+overturn 8:23 
+overwhelming 
+
+O 
+O 2:1 3:1 
+oath 11:11 
+odd 5:9,24 
+odds 35:22 
+odd-years 22:10 
+offer 39:11 
+Office 11:13 
+Okay 22:15 30:5  page 2:2 3:24 
+once 10:3 30:12 
+
+ownership 
+10:25 11:3 
+
+P 3:1 
+
+17:1 
+
+P
+
+34:14 
+
+parcel 4:17 
+pared 23:2,10 
+part 4:17 
+
+open 12:6 
+operate 22:18 
+operation 29:21  particular 6:22 
+opinion 20:16 
+7:5 10:17 12:8 
+15:5 30:7 
+20:24 21:2 
+particularly 
+22:1 31:24 
+
+31:23 
+
+opponents 27:12 
+opponent's 27:2  parties 11:3 
+oral 1:12 2:2 3:7  party 15:21 
+38:14,20 
+order 6:18 10:10  pass 10:18 
+
+20:4 
+
+11:25 15:18 
+23:18 31:2 
+35:8,8,13 38:9 
+38:19,21 
+
+passed 29:22 
+patent 10:19 
+
+11:1,2,6,12,13 
+11:16 
+
+orders 12:9 13:4  pending 8:16 
+
+17:18 23:15 
+35:6 
+
+original 26:17 
+Osborn 4:22 
+
+24:22 
+
+outraged 13:21 
+outrageous 
+
+13:17 
+
+overboard 
+
+16:16 
+
+overlap 19:23 
+overrule 15:21 
+16:2 17:1,3,6 
+17:11 
+
+overruled 21:22 
+
+percentage 8:11 
+period 13:16 
+19:5 31:13 
+
+permits 37:10 
+personal 32:4 
+33:8,10,18 
+Petitioner 1:5 
+1:17 2:4,9 3:8 
+40:2 
+
+Petitioner's 3:24 
+
+20:8 
+
+picayune 15:1,3 
+place 20:19 
+
+24:15 27:20 
+28:4 
+
+question 6:17 
+10:24 11:1,5 
+11:23 12:6 
+15:4 21:21,21 
+22:25 23:6,14
+25:15,16 26:6 
+31:14 35:2,3
+36:18 38:7 
+questions 8:7 
+18:22 26:17 
+37:2,3 39:22 
+41:9 
+
+quite 9:5 37:4 
+
+R
+
+R 3:1
+raised 4:3 25:14 
+raising 11:14
+ratified 17:14
+
+40:17
+
+rationale 14:3
+21:7,12,24,25
+
+RBOC 31:25
+reach 13:25
+
+22:12
+
+reached 13:25
+reaching 12:5
+read 12:2 13:11 
+
+14:1,8,15
+21:15
+
+reads 19:16 21:7 
+realizing 39:8
+really 5:10 12:4 
+
+12:22 19:16
+26:12 39:4
+realm 33:25
+reason 8:20
+
+12:20,22 16:18 
+22:6
+
+reasoning 16:11
+
+16:12 22:22
+reasons 8:19
+
+21:13
+
+16:14,15,18,23 
+23:13 40:16,19  recognize 22:8
+
+rebuttal 2:7
+18:23 40:1
+
+Official - Subject to Final Review 
+
+plain 11:23 12:9  press 28:12 
+presumptive 
+
+13:3,4 
+
+plainly 13:12 
+
+27:1 
+
+19:13 
+
+Pretextual 13:3 
+pretty 34:8 
+
+pleading 27:10 
+please 3:10 20:7  prevail 24:19,23 
+prevent 6:20 
+plenary 20:21 
+point 13:9 18:16  prevents 12:4 
+primary 23:6 
+problem 14:23 
+
+28:4,12 29:11 
+29:13 35:10 
+38:5 
+
+16:4 19:19 
+32:11 
+
+problems 15:19  quick 40:3 
+
+pointed 14:23 
+
+31:25 
+
+points 40:3 
+policies 33:13 
+policy 7:2 34:8 
+poor 37:18,18 
+portion 23:10 
+position 10:13 
+
+34:12 
+
+possible 33:12 
+potential 35:6 
+power 4:16,16 
+4:18 7:14 8:4 
+15:12 22:2,5 
+23:11,11 28:9 
+29:15 31:12 
+33:1,4 35:22 
+35:23,23 37:6 
+38:23,23 39:5 
+41:7,8 
+
+Powerex 26:1,6 
+
+32:13 38:24 
+39:21 40:15 
+powerless 28:9 
+practical 8:15 
+precedential 
+
+26:6 
+
+precise 25:16 
+preliminary 
+
+premise 37:25 
+
+11:23 
+
+38:1 
+
+presence 5:11 
+presented 3:11 
+
+9:20 
+
+presents 34:8 
+
+32:12 
+
+procedure 24:12 
+process 35:12 
+processing 9:22 
+professors 39:12 
+profitable 26:15 
+prong 4:5 16:22 
+proof-of-law
+
+properly 11:24 
+
+39:12 
+
+41:2 
+
+proposing 22:22 
+propriety 34:6 
+proved 40:10 
+provide 18:17 
+provides 24:16 
+
+25:5 
+
+provision 24:5 
+
+24:19,23
+
+provisions 17:10 
+
+17:11,21
+
+pulled 19:24 
+purely 11:8 37:3 
+purpose 20:13 
+
+36:1 39:8 
+
+purposes 31:2 
+pushes 30:20 
+put 20:19 34:11 
+p.m 41:14 
+Q
+
+Quackenbush 
+
+47 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+recognized 
+20:21 22:5 
+23:9 
+
+recognizes 
+
+7:16 9:7 11:25 
+34:24 35:7 
+38:15 41:10 
+
+36:23 40:22 
+remanding 5:17  retaining 9:13 
+
+25:2 
+
+23:25 
+
+recognizing 
+
+reconsideration 
+
+reconsider 
+35:11,13 
+
+32:15 34:6 
+37:21 38:4 
+remands 7:2 
+13:15 14:4,5 
+15:11 16:21 
+19:22,23 20:12 
+21:8,16 22:13 
+24:10 25:6 
+37:23 38:21 
+regarded 41:2 
+remark 20:9 
+Rehnquist 20:18  remembered 
+Rehnquist's 
+20:16 21:4 
+
+24:7,24 25:13 
+25:21,22 26:7 
+
+reference 3:23 
+
+35:4,5 
+
+4:23 
+
+reiterate 40:5,8 
+rejected 17:3 
+related 4:10 
+relation 33:9,10 
+relationship 
+
+23:20 
+
+relevant 17:9 
+remain 26:18,25 
+
+reminiscent 
+
+28:15 
+
+removal 4:5 
+
+21:9,17 24:12 
+removals 6:21 
+remove 6:19 
+removing 6:25 
+
+27:3 
+
+remainder 
+
+18:23 
+
+remaining 3:16 
+
+4:25 39:25 
+
+7:7,8 
+
+reviewed 34:7 
+rhetorical 36:18 
+represent 39:15  Rhodes 1:16 2:3 
+request 17:2 
+require 38:15 
+res 11:2 
+reserve 18:22 
+resist 36:18 
+resolved 5:1 
+
+2:8 3:6,7,9 
+5:16 6:9 8:10 
+8:25 10:5 11:5 
+12:2,11,18 
+13:11 14:10,20 
+15:2,24 16:8 
+16:15,17 17:4 
+17:12,25 18:6 
+18:15 19:7,18 
+39:25 40:1,3 
+41:4 
+
+10:11,22 16:6 
+36:4 
+
+resolving 9:7 
+resources 8:1 
+9:16 33:23 
+respect 11:15 
+
+remand 3:17,25 
+4:1,4,6,11,12 
+5:5,6,25 6:5,15 
+7:12,17 11:25 
+12:9,25 16:19 
+16:19 17:18 
+19:2,13 22:2,5 
+22:13 23:7,11 
+23:11,15,18,25  respecting 36:25  RICO 3:16 5:14 
+24:8,11,16,25  Respondents 
+7:6,11,21 8:21 
+9:23 27:16,18 
+1:19 2:6 7:12 
+25:3,5,18 
+26:18 27:25 
+17:1,2 20:5 
+28:1,14,18,18 
+rid 7:21 16:13 
+Respondent's 
+29:1 31:2,5 
+33:15 34:9 
+35:8,8 37:16 
+38:5 
+
+Rice 24:13,13 
+
+18:1,4 
+
+3:15 
+
+response 41:4 
+rest 9:23 
+result 13:25 
+
+right 5:12,15 6:1 
+8:2 10:25 18:3 
+18:11 19:16 
+
+remanded 3:16 
+
+21:11 
+
+retain 5:2 36:21 
+
+28:20 29:23 
+40:23 
+
+sent 27:1 34:5 
+
+39:6 
+
+serve 31:2 
+served 22:9,11 
+set 3:23 12:12 
+sets 27:7 
+
+rightly 5:18 
+rights 24:5 
+ROBERTS 3:3 
+retread 9:18 
+return 12:21 
+13:7 14:14,22 
+returning 9:14 
+16:25 17:16,20  setting 13:24 
+review 3:12 6:2 
+Seventh 32:21 
+18:10 20:2 
+shuttling 31:6 
+30:1,5 39:24 
+6:8,11 9:10,11 
+side 15:23 
+11:25 13:1 
+40:20 41:12 
+15:14 20:11,19  routinely 34:3 
+signs 35:13 
+rule 3:21 12:12 
+similar 23:24 
+20:20,22 21:4 
+simple 12:17,19 
+22:10 24:8,14 
+simply 12:8 
+24:16,25 25:6 
+25:10 27:10 
+35:6 36:1,25 
+39:8,21 
+
+13:22 22:13 
+24:24 32:9 
+38:7 
+
+15:5 18:12 
+22:17,24 23:5 
+
+reviewability 
+
+8:6 17:17 35:3 
+reviewable 5:12 
+5:15,23 6:3,6 
+7:3,19 13:10 
+13:16 14:5 
+
+ruled 9:5 
+ruling 27:15 
+run 15:10 
+S
+
+S 1:18 2:1,5 3:1 
+
+20:4
+
+San 1:16
+saying 5:10 6:6 
+
+14:16 35:20
+37:22
+
+says 5:13 13:15 
+
+14:16 16:5
+21:7 28:7 33:1 
+34:4
+
+SCALIA 16:13
+
+16:16 18:3
+scholars 32:2
+second 23:4
+
+26:12
+
+secondary 23:8
+section 11:19
+
+38:12
+
+see 22:6,21
+
+28:13 36:17,18
+38:22 39:2
+seeking 6:14
+seemingly 40:17
+seen 17:11
+send 13:10
+15:12 16:5
+sending 10:2
+sense 6:4 33:7 
+
+single 3:11 
+situation 10:17 
+12:23 14:19 
+15:9 39:3 
+
+situations 6:12 
+
+6:20 15:10 
+
+slight 19:5 
+slightly 34:19 
+small-change
+
+13:20 
+sole 22:2 
+solution 12:17 
+
+12:19 
+
+solve 14:22 
+
+15:18 
+
+soon 38:19 
+sorry 19:8 
+sort 11:22 
+sound 8:1 
+source 22:2 
+sources 22:5 
+Souter 22:15 
+
+23:1,19 36:10 
+37:19 
+
+speaking 34:19 
+species 29:10 
+specific 3:22 
+
+24:18,22
+
+specifically 3:19 
+specified 12:13 
+
+48 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+spirit 22:8 
+sponte 7:13 
+squarely 5:19 
+
+11:17 
+
+stage 34:7 
+standard 36:25 
+stare 22:24 40:8 
+state 3:17 4:10 
+4:24 6:16 7:6 
+7:15,22,24,24 
+8:17,20,22 9:8 
+9:15,18,22 
+10:7,12,14,14 
+10:20,21 11:8 
+13:20 15:12 
+16:6 19:4 
+26:18,22,24,25 
+27:12,25 30:20 
+34:1 35:9 
+38:21 39:4 
+41:1 
+
+stated 28:19 
+
+29:1 
+
+23:25 
+
+24:13 
+
+37:3 
+
+States 1:1,13 
+
+state-law 36:20 
+
+14:1,8 22:14 
+22:19 24:9,15 
+24:19 25:1 
+31:1,1 33:15 
+statutes 3:23 
+20:13 24:2 
+32:9 
+
+statutory 5:24 
+9:10 15:7,14 
+17:14 23:7 
+25:2 40:9 
+stays 22:19 
+step 33:17 
+Stevens 11:22 
+12:4,15,19 
+13:2,8 16:1,9 
+
+statement 23:17 
+
+submitted 41:13 
+
+statistics 39:12 
+statute 13:3,5,15  suggest 18:6 
+23:22 36:13 
+
+support 30:13 
+suppose 40:20 
+Supreme 1:1,13 
+
+18:24 19:8,14 
+27:2,5,15 
+stop 39:23 
+street 17:17 
+strong 17:6 34:8  sure 8:10 12:18 
+sua 7:13 
+subject 3:18 4:1 
+
+15:2 17:5 
+19:25 28:2 
+
+18:12 
+
+T
+
+4:3,7,13 5:6,11  Surgeons 29:12 
+sweeping 23:17 
+5:13,18 6:1 
+system 10:21 
+11:25 12:24 
+14:25 19:12 
+21:9,17 25:6 
+29:3,4,10,24 
+30:23 31:8,11 
+31:11,16,20 
+32:3,5,17,24 
+33:1,7,8,11,14 
+33:17,18,19,21 
+33:25 34:2,13 
+39:4 
+
+T 2:1,1
+take 14:17 39:3 
+takes 33:11
+talk 22:23
+talked 35:4,5
+technical 17:21
+
+17:22 32:25
+34:18,20 38:18 
+
+subjected 39:20 
+subject-matter 
+
+39:2 
+
+41:15 
+
+subsection 
+19:15,15 
+
+subsections 14:7 
+subsequent 23:3 
+sue 32:7 
+
+suggested 38:25 
+suggesting 
+
+suggestion 17:6 
+
+27:12 
+
+23:22 
+
+suggests 36:6 
+supplemental 
+
+3:14 4:12 8:16 
+9:4 19:20 
+20:11 27:8 
+28:6,22,25 
+29:9,24 32:23 
+33:3 34:14 
+
+supplementary 
+
+19:4 
+
+technically
+
+32:23 33:25
+
+Technology 1:3 
+
+terminology 
+
+3:4 
+
+37:5 
+
+terms 11:8 14:2 
+
+21:8 26:2 
+34:11,20 
+
+territorial 33:9 
+test 14:3 
+text 13:15 
+textbook 33:7 
+Thank 20:2 
+
+39:24,25 41:12 
+
+THEODORE 
+1:18 2:5 20:4 
+
+theory 22:18 
+Thermtron 
+
+12:12,16 13:14 
+13:14,16,24 
+14:9,11,16 
+15:5,21 16:2,6 
+17:1,3,6,10,13 
+17:15 18:1 
+19:6,9 20:17 
+21:10,22,24
+
+22:7,12,17 
+23:2,5,10,24 
+24:1 26:11,11 
+29:18 30:19 
+40:16,18 
+
+Thermtron's 
+21:11 23:17 
+
+thing 4:18 17:24 
+
+25:3,9 26:1 
+things 13:23 
+
+14:18,24 15:1 
+15:3,4 24:6,24 
+25:13,21 26:7 
+32:7 
+
+think 5:24 8:25 
+
+13:7,17,21 
+15:4,15 19:18 
+21:22 23:1 
+25:8,14,20 
+26:1,8,22 27:6 
+27:22,22 28:12 
+28:13 31:19,22
+33:6,9 34:8,19 
+35:7,25,25
+36:10 38:8 
+thinking 8:22 
+13:22 25:9,10
+
+third 33:9 
+thought 7:15 
+
+16:25 
+
+threw 9:23 
+Throw 16:16 
+time 8:8 9:14,21 
+
+10:2 18:23 
+20:18 21:5 
+30:15 32:7 
+37:2 
+
+timely 4:3 
+tiny 41:1 
+today 26:8,9,15
+
+34:19 
+told 8:17 
+total 12:21 
+totally 6:8 
+Trademark 
+
+11:13 
+
+transpired 10:3 
+
+trend 25:8 
+trial 9:7 30:10 
+
+30:21 
+
+troublesome 
+
+true 10:5 26:4 
+
+37:6 
+
+27:5 
+
+trust 36:2 
+try 15:16 
+Tuesday 1:10 
+turn 28:1 38:23 
+turned 25:21 
+turns 30:10 
+
+40:24 
+
+twice 17:13 
+two 3:25 11:3 
+21:16 29:7,7
+35:22 37:24 
+
+type 39:13 
+types 7:2 
+U
+
+understand
+
+understood
+
+12:15
+
+34:12
+
+undoubted 33:4
+undoubtedly
+
+29:5
+
+18:8
+
+uniformly 15:6
+
+United 1:1,13
+4:24 19:21
+24:13 26:23
+34:3
+
+universality
+
+24:14
+
+universe 39:16
+unusual 14:19
+
+updated 21:23
+
+21:12
+
+22:7
+
+updating 22:23
+use 8:1 22:16 
+U.S 11:13,16
+
+V
+
+49 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+9 
+96 19:11 
+99 8:5 
+
+19:22 41:7 
+
+1367(c)3 26:19 
+1441 19:23 
+1447 14:7 16:12 
+
+17:10 24:23 
+31:4 
+
+1447's 24:7,8 
+1447(c) 3:23 4:5 
+
+5:20 12:13 
+16:22 17:13 
+21:15,15 22:1 
+22:13 23:12 
+26:20 30:24 
+39:2 
+
+1447(d) 3:12,22
+
+6:12 11:24 
+12:2,10,12 
+13:11 19:23,25 
+21:7,14,14
+
+1447(e) 38:12 
+1452 24:9,9 25:3 
+
+25:5,8 
+18 39:15 
+1887 20:14,20 
+
+39:9 
+
+1976 21:2 
+1990 29:22 
+
+18:20 20:24,25  20 2:6 39:15 
+22:4 36:2 
+
+v 1:6 3:4 4:22,24  words 30:23,25 
+31:1 34:16,21 
+36:9 
+
+26:23 29:11 
+validity 11:1 
+variety 32:1 
+vehicle 23:15,18 
+verb 22:16 
+versus 24:13 
+view 5:7 11:6 
+viewed 21:25 
+
+22:1 
+
+work 10:21 
+
+15:13 
+
+workable 15:7 
+15:18 18:17 
+40:10,11,14 
+Workers 4:24 
+19:21 26:23 
+34:4 
+
+W 
+
+violating 22:24 
+virtually 30:19  world 33:8,10 
+
+worth 8:8 
+worthless 8:22 
+W 1:16 2:3,8 3:7  wouldn't 7:20 
+40:1 
+8:14 12:16 
+Waco 27:22 
+13:2,4,9 26:9 
+want 5:25 15:13 
+41:2 
+
+18:4 19:3 
+wanted 6:13 
+18:1 36:17 
+39:11 
+
+wants 6:20 
+Washington 1:9 
+
+1:18 
+
+wasn't 28:17 
+waste 9:15 
+water 30:8 
+way 6:11,24 
+14:24 15:20 
+18:2 19:10,11 
+23:1 31:9 38:3 
+
+ways 32:1 
+went 10:12 
+
+13:14 
+
+weren't 30:10 
+Westfall 24:23 
+we'll 3:3 12:9 
+we're 26:10,15 
+White 22:1 
+wipe 18:19 
+wish 23:23 
+wishes 26:14 
+woodenly 14:12 
+
+word 32:1 37:18 
+
+14:14 
+
+38:8 
+
+wrong 5:14 6:1 
+
+7:4 28:5 
+
+wrongly 5:18 
+wrote 20:18 
+25:4 31:24 
+
+X 
+
+x 1:2,8 
+
+Y 
+
+Yeah 13:18 
+years 3:21 15:5 
+
+0 
+
+07-1437 1:6 3:4 
+
+1 
+
+100 8:5 
+11:20 1:14 3:2 
+12:17 41:14 
+120 22:10 
+1291 16:24 
+1331 40:7 
+1332 40:7 
+1367 29:21,22 
+
+40:6 
+
+1367(a) 3:20 4:9 
+1367(c) 3:17 5:6 
+
+2 
+
+2 3:24 
+
+2009 1:10 
+22 17:1 
+24 1:10 
+
+3 
+3 2:4 3:24 
+30 3:21 4:4 15:5 
+
+18:20 22:3 
+
+4 
+
+40 2:9 22:3 
+40-odd 22:4 
+
+8 
+
+8 11:19 
+88 19:11 
+
+50 
+
+Alderson Reporting Company 
+
+

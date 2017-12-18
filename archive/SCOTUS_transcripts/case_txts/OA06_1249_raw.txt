@@ -1,0 +1,7207 @@
+Official - Subject to Final Review 
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+- - - - - - - - - - - - - - - - - x 
+WYETH, 
+:
+                          
+:
+          
+ Petitioner 
+:  No. 06-1249 
+                       
+DIANA LEVINE. 
+: 
+                   
+- - - - - - - - - - - - - - - - - x
+
+ v. 
+
+ Washington, D.C.
+ Monday, November 3, 2008
+
+ The above-entitled matter came on for oral 
+
+argument before the Supreme Court of the United States 
+at 10:06 a.m. 
+APPEARANCES: 
+SETH P. WAXMAN, ESQ., Washington, D.C.; on behalf of
+
+ the Petitioner. 
+
+EDWIN S. KNEEDLER, ESQ., Deputy Solicitor General,
+
+ Department of Justice, Washington, D.C.; on behalf of
+ the United States, as amicus curiae, supporting the
+ Petitioner. 
+
+DAVID C. FREDERICK, ESQ., Washington, D.C.; on behalf of
+
+ the Respondent. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+1
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+C O N T E N T S
+
+
+ORAL ARGUMENT OF 
+SETH P. WAXMAN, ESQ.
+
+                                
+
+PAGE 
+
+ On behalf of the Petitioner 
+
+                     
+
+3
+
+
+EDWIN S. KNEEDLER, ESQ.
+
+
+ On behalf of the United States, as amicus
+ curiae, supporting the Petitioner 
+
+              
+
+14
+
+
+DAVID C. FREDERICK, ESQ.
+
+
+ On behalf of the Respondent 
+
+                    
+
+24
+
+
+REBUTTAL ARGUMENT OF
+
+SETH P. WAXMAN, ESQ.
+
+
+ On behalf of the Petitioner 
+
+                    
+
+51
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+2
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+P R O C E E D I N G S
+
+ (10:06 a.m.)
+ CHIEF JUSTICE ROBERTS:  We'll hear argument 
+
+first this morning in Case 06-1249, Wyeth v. Levine.
+
+ Mr. Waxman.
+ ORAL ARGUMENT OF SETH P. WAXMAN
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. WAXMAN:  Mr. Chief Justice, and may it 
+
+please the Court:
+
+ This case concerns conflict pre-emption 
+
+under the Supremacy Clause, and the conflict presented 
+here is stark.  Repeatedly over the years, the FDA 
+approved Phenergan injection as safe and effective under 
+all the conditions and methods of use described in the 
+labeling, including what is referred to as "IV push" 
+injection.  Yet a State jury, evaluating the same risk 
+that the FDA had considered, determined that the precise 
+labeling that FDA had required Wyeth to use in fact 
+rendered Phenergan "unreasonably dangerous."  That --
+
+JUSTICE KENNEDY:  Just at the outset, I'll 
+just make one comment.  You argue that it's impossible 
+for Wyeth to comply with the State law and at the same 
+time the Federal label.  As a textual matter, as a 
+logical matter, I just -- I don't understand that.  I 
+think I could design a label that's completely 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+3
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+consistent and that meets the requirements that the 
+Respondents wish to urge.
+
+ Now, if you want to say that any alteration 
+
+of the label violates Federal law, that's something 
+else.  But as a textual matter, as a logical matter, as 
+a semantic matter, I don't agree with it.
+
+ MR. WAXMAN:  Well, let me make sure, because 
+I do think we do agree, and I want to make sure that I'm 
+understood, Justice Kennedy.  I think what you've 
+articulated is the test which is, is it possible for a 
+regulated party to comply at the same time with both 
+Federal law and State law?  In other words, could they 
+use, as they were required by Federal law to do, to use 
+the precise label that in approving the application in 
+1998 the FDA required Wyeth to use, and also use the 
+label that the Vermont jury determined should be used, 
+and that was stated in the complaint and in the opening 
+and the closing a statement that you may not, should not 
+use IV administration or IV push, in other words that 
+you should contra -- the label should contra-indicate 
+something --
+
+JUSTICE GINSBURG:  Mr. Waxman --
+MR. WAXMAN:  -- that --
+JUSTICE GINSBURG:  It didn't say -- it 
+
+didn't say IV across the board.  It said IV push is the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+4
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+claim, and that was -- as I understand this, the FDA was 
+aware of the IV use and a certain risk.  But did it 
+ever, ever discreetly consider IV push versus IV 
+administered the usual way by a drip bag?
+
+ MR. WAXMAN:  Yes it did, Justice Ginsburg, 
+
+and I want to cite you to the portions of the record 
+that demonstrate that it did.  But before I do so, I 
+just want to underscore a point that I think is clear 
+from both our brief and the Solicitor General's brief, 
+which is that isn't the test of preemption in any event. 
+The question is what did the labeling say and upon what 
+information was the labeling decision made.
+
+ But as to your particular question, there 
+are -- first of all, there was testimony in the record 
+from multiple parties, including experts from both 
+sides, that the FDA was aware of all of the forms of 
+administration and the risk, including IV push.  Their 
+experts simply disagreed with the judgment that the 
+labeling requires.  But most saliently, the labeling in 
+this case, which is reproduced, in sort of microscopic 
+size unfortunately, on the last two pages of the 
+petitioner appendix and the last two pages of the joint 
+appendix, have four separate reference that, as we 
+explained in footnote 11 of our reply brief, only apply 
+to IV push. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+5
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+There is a reference to the use of the Tubex 
+
+system.  That is a direct IV push system.  There is a 
+reference to rigid plungers and small-bore needles. 
+Again nothing to do with drip.  There is a reference to 
+a maximum rate of administration.  Drip is gravity.  The 
+testimony in the case was that an instruction that a 
+particular rate of administration not be exceeded only 
+referred to IV push.  And finally, there are cautions on 
+the label about how the ordinary aspiration of blood to 
+see if its bright or dark, which is only done in the 
+context of a needle that is being used to push something 
+into a vein, is not reliable in the context of this case 
+because Phenergan discolors arterial blood immediately.
+
+ So the labeling plainly comprehended and 
+
+warned about the specific risks of IV push 
+administration, and that's not all.  There is an 
+advisory -- an advisory committee in 1976 was asked to 
+look at precisely the risk of arterial exposure to 
+Phenergan injection or any other irritant drug that is 
+administered intravenously and it made specific 
+recommendations, including recommendations that go 
+directly to IV push.
+
+ JUSTICE ALITO:  How could the -- how could 
+the FDA concluded that IV push was safe and effective 
+when on the benefit side of this you don't have a 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+6
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+life-saving drug, you have a drug that relieves nausea, 
+and on the risk side you have the risk of gangrene?
+
+ MR. WAXMAN:  I mean, there was testimony --
+Justice Alito, I can go over the testimony, but there 
+is -- there was testimony in this very case about those 
+very circumstances in which direct IV injection is 
+indicated.  And there is also test -- there is also 
+evidence in the FDA record, including if you look at the 
+1987 correspondence that the FDA sent to Wyeth in the 
+context of talking about what warnings had to be 
+provided.  The FDA provided Wyeth 20 citations to 20 
+medical journals that addressed this problem, and in 
+footnote 13 of our reply brief we've cited the ones that 
+specifically address the circumstances in which IV push 
+administration is an important tool.  The point here is, 
+I think, that --
+
+JUSTICE GINSBURG:  But that doesn't answer 
+
+the question of was it -- the risk of gangrene and 
+amputation is there.  No matter what benefit there was, 
+how could the benefit outweigh that substantial risk?
+
+ MR. WAXMAN:  Justice Ginsburg, this is 
+
+labeling that is directed at medical professionals.  It 
+is labeling that is directed at physicians, who have to 
+be able to determine what method, what pharmaceutical 
+and what method of administration to use, given the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+7
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+constellation of risks and benefits that a particular 
+patient --
+
+JUSTICE KENNEDY:  The FDA was never 
+
+concerned with risks versus benefit?
+
+ MR. WAXMAN:  The FDA -- well, the FDA 
+
+certainly is.  And the issue, Justice Kennedy, here is 
+the FDA has to decide what information to provide to 
+clinicians so that they can make judgments about what to 
+use.  And it -- what it did here is it provided ample, 
+lavish warnings about the risk of intra-arterial 
+injection and exposure of an irritant drug like 
+Phenergan to arterial blood.  It provided in the 
+labeling to the physicians a cascading hierarchy of 
+methods of administration.  It said intramuscular 
+injection is the preferred method.  It then said with 
+respect to intravenous injection that it is, as with any 
+irritant drug, it is usually preferable to inject it 
+into an IV infusion set that is known to be running 
+properly, in other words where a line has already been 
+established into the vein and the IV push occurs into 
+the line that's already established.
+
+ All that information was available to 
+physicians and the FDA has to understand and does 
+understand that in labeling to allow medical 
+professionals to make their judgments, taking options 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+8
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+away from physicians is not always better.  It may 
+not -- it may not even often be better.  What the FDA 
+has to decide in terms of telling physicians what's on 
+the table and what's off the table and in terms of 
+what's on the table what the relevant risks are is, is 
+this ever -- would this ever be medically warranted? 
+The testimony in this case and in the administrative 
+record was yes, there are circumstances --
+
+CHIEF JUSTICE ROBERTS:  I'd like you to 
+
+address the distinction between the medical device area 
+and the drug area because in the medical device area, of 
+course, you have an express pre-emption clause, while 
+here in contrast you don't.
+
+ MR. WAXMAN:  Yes.  I mean, I think, 
+
+Mr. Chief Justice, you've identified the respect in 
+which this is difference than the medical device area. 
+But for the salient purposes, I think the Riegel case 
+directly points the Court to the nature of the 
+determination that the FDA makes with respect to class 3 
+drugs.  It goes through the same preclearance process. 
+As we pointed out in our brief and as I think Justice 
+Scalia's opinion in Riegel points out, the balancing 
+time-intensive, data- intensive inquiry for medical 
+devices was patterned after what is done for drugs, and 
+it reflects a balancing of risks and benefits of the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+9
+
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+particular drug in light of the conditions and methods 
+of administration prescribed in the labeling.
+
+ CHIEF JUSTICE ROBERTS:  If that's true you 
+
+would have expected the Federal Drug Act to have a 
+similar express pre-emption provision.  And one reason 
+perhaps that it didn't is that when the Drug Act was 
+passed you had an established background of State 
+actions; when the Medical Device Act was passed you 
+didn't.
+
+ MR. WAXMAN:  Well, let me address both the 
+
+established background of State actions and then the 
+pre-emption clause difference, if I may.  The Respondent 
+and her amici have identified 97 cases going back 150 
+years in which tort actions have been brought with 
+respect to pharmaceuticals.  Very few of those cases --
+and they are recent -- are implicated by the rule that 
+the Vermont Supreme Court applied in this case, which is 
+where a fully informed FDA, informed of all the 
+information that Wyeth had, approved a labeling 
+standard, but a court looking at the same evidence can 
+reach a different conclusion about what is on the label. 
+The most -- those cases I believe all post-date 
+Cipollone.  Many of them postdate Geier.  And by my 
+count, there are fewer than 20 such cases out of all of 
+the cases that have been decided and those issues --
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+10 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+that issue had never come up and never could have come 
+up when Congress enacted the 1938 Act, because it was 
+only the 1938 Act that established a drug-specific, 
+preclearance regime, and really in 1962, in which the 
+FDA was required not just to evaluate safety in terms of 
+licensing the distribution of the drug, but to balance 
+safety against effectiveness.
+
+ And so the -- the constellation of common 
+law cases -- I mean, let me just say we are -- we are 
+not seeking here a rule of field preemption.  We are not 
+seeking to preclude tort remedies for conduct that 
+violates Federal law.
+
+ What we are saying here is -- and this goes, 
+
+I think, finally to your point about the express 
+pre-emption clause -- the presence of expressed 
+pre-emption clauses or the absence, the presence of a 
+savings clause or the absence, does not and cannot 
+affect the operation of conflict pre-emption under the 
+Federal Constitution.
+
+ Now, members of this Court are concerned 
+
+about applying a broad, vague, or free-wheeling analysis 
+of implied conflict pre-emption, but this case is 
+heartland.  A jury was asked to look at the same 
+information and conclude that the precise language that 
+the FDA just didn't allow, the FDA required Wyeth to 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+11 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+use, rendered that drug unreasonably unsafe.
+
+ JUSTICE SOUTER:  Well, it required it 
+
+because that is what the FDA had approved as a label. 
+But as -- excuse me -- as I understand it, the -- the 
+company, Wyeth, could have gone back to the FDA at any 
+time and said, either based on experience or just our 
+rethinking of the data that we have, we think the label 
+ought to be changed to say "Don't use IV push."  Wyeth 
+could have done that at any time, and it simply didn't 
+do it.
+
+ And the -- the reason I raise this is 
+
+because it could have done it at any time, where, going 
+back to Justice Kennedy's first question, where is the 
+conflict?
+
+ MR. WAXMAN:  The liability in this case was 
+not predicated on the fact that Wyeth didn't go to the 
+-- remember, the FDA had approved this label two years 
+before Miss Levine was injured.  In approving the label, 
+it rejected stronger proposed language that Wyeth had 
+presented.  There was nothing that was -- Wyeth was --
+JUSTICE SOUTER:  But as I understand it, 
+Wyeth's argument is not this argument.  Wyeth is not 
+saying the reason there is a conflict here is that we 
+tried to give the kind of warning that the Vermont jury, 
+in effect, says we should have given and the FDA didn't 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+12 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+allow us to do it, so that, in fact, there is a conflict 
+between a specific rejection by the FDA of the Vermont 
+rule and the rule that the Vermont jury applied.
+
+ MR. WAXMAN:  Right.
+ JUSTICE SOUTER:  As I understand it, Wyeth's 
+argument is:  Whatever is on the label, in fact, is the 
+standard of conflict.  It doesn't matter whether we 
+tried or could have tried or didn't try.  You simply 
+look at the label and you look at what the Vermont jury 
+did; and if there is a -- if there is a difference 
+between them, there is a conflict.  Am I right about 
+your argument?
+
+ MR. WAXMAN:  Yes, you are right.  We -- we 
+have both an impossibility form of conflict because, in 
+the absence of any new information or new analyses of 
+old information, we could not make the change in advance 
+of getting approval.  And we also have an -- an 
+objects-and-purposes form of conflict pre-emption 
+because the Vermont jury decided on the same information 
+that the labeling that the FDA had approved and required 
+was unreasonably unsafe.
+
+ And we cannot have a world in which the very 
+
+day after an intensive process -- the FDA says you may 
+distribute this drug, but you must use this specific 
+language -- either, A, manufacturers can just run in and 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+13 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+change the label and ask for permission down the road; 
+or, B, that a State jury -- let's take the easier case 
+-- a State legislature or 50 State legislatures can 
+decide:  Because you could have gone back and asked, we 
+can impose an obligation on you that you must have done 
+so or must have changed the labeling.  That just is 
+inconsistent with --
+
+JUSTICE SOUTER:  Well, is it -- is it strict 
+
+liability or negligence?  In other words, are they 
+saying you must have done so, or are they saying because 
+you could have done so and didn't you did not conform to 
+the standard of care?
+
+ MR. WAXMAN:  Either a negligence theory or a 
+
+strict-liability theory would be pre-empted.
+
+ May I reserve the balance of my time.
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel.
+ Mr. Kneedler.
+
+ ORAL ARGUMENT OF EDWIN S. KNEEDLER
+ ON BEHALF OF THE UNITED STATES,
+
+ AS AMICUS CURIAE,
+
+ SUPPORTING THE PETITIONER
+
+ MR. KNEEDLER:  Mr. Chief Justice, and may it 
+
+please the Court:
+
+ The State law duties on which Respondent's 
+
+tort claims are based are pre-empted because they 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+14 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+conflict with the FDA's determination that Phenergan 
+injection is safe and effective under the conditions of 
+use recommended or suggested in the labeling.
+
+ JUSTICE GINSBURG:  Mr. Kneedler, at the 
+
+outset, would you clarify something that is central, I 
+think, to this case?  Some of the briefs tell us that 
+this represents a change of policy on the part of the 
+FDA, that in fact the FDA once approved and said torts 
+were -- tort suits were a helpful adjunct to the FDA's 
+own efforts to protect consumers.  They helped because 
+they prodded manufacturers to -- to disclose risks that 
+were either unknown or under- evaluated.  Was that once 
+the FDA's policy; and, if so, when did it change?
+ MR. KNEEDLER:  The -- the FDA, to my 
+
+knowledge, has never taken the position that -- that, as 
+a general matter, a manufacturer may change a label 
+without -- without the existence of new information that 
+justifies a revision.  The Respondents and the amici 
+relied primarily on some snippets of rule-making 
+proceedings and things like that in which FDA has 
+referred to the existence of tort remedies.  But we are 
+not arguing for the proposition that tort remedies are 
+-- are pre-empted as a general matter.
+
+ JUSTICE SCALIA:  But when -- when would 
+
+there be a tort remedy?  What -- what situation would 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+15 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+you envision?
+
+ MR. KNEEDLER:  As Mr. Waxman mentioned, if 
+
+-- if the State standard was the same as the Federal 
+standard, there wouldn't be any conflict.  And, for 
+example, if -- and not to mention the fact if there was 
+adulteration of -- of the product or if the -- if the 
+product in the box was not the same --
+
+JUSTICE SCALIA:  What if they found out 
+
+about new information which would, if properly 
+considered, alter what the labeling ought to be?  Would 
+there be a tort remedy for the failure to bring that new 
+information to the attention of --
+
+MR. KNEEDLER:  Well, the position we are 
+
+arguing for here would not cover that situation, but --
+but there could be a further situation of pre-emption, 
+if I could just explain why.  I think --
+
+JUSTICE SCALIA:  You mean if you failed to 
+
+provide the FDA the new information that you think 
+negates the provisions on the -- on the label, you still 
+couldn't be sued?
+
+ MR. KNEEDLER:  No.  If you -- if you failed 
+
+to provide it altogether, there would not be a -- a 
+pre-emption defense if there were -- if your 
+failure-to-warn claim was based on the new information 
+that you didn't furnish. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+16 
+
+Alderson Reporting Company 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+Official - Subject to Final Review 
+
+I was -- I was going to identify the 
+
+    
+
+And FDA has 
+
+situation where -- and this has come up in the anti-
+depressant drug situation, for example, where there is 
+evolving information.  There has been a rule- making 
+petition, in fact several over the years, to the FDA to 
+change the labeling to warn against -- to warn about the 
+possibility of suicidal ideation. 
+rejected that even though it's -- it's new information 
+arising after the drug was approved.  If the information 
+is brought to the FDA's attention and FDA rejects the 
+proposed change, then you would you have conflict 
+pre-emption again.  But if the information was never 
+brought to the FDA's attention in the first place, then 
+-- then there would -- it would be not inconsistent with 
+Federal law to have a tort suit based on that.  If it's 
+-- if it's been proposed and rejected, then you're back 
+with a conflict.
+
+ JUSTICE SCALIA:  What if -- what if you 
+brought it to the FDA's attention and the FDA just 
+hasn't acted on it?  You would be authorized to change 
+the label on your own.
+
+ MR. KNEEDLER:  You would be authorized, but 
+
+if FDA then rejects -- rejects the labeling --
+
+JUSTICE SCALIA:  I understand, but in the 
+interim, you could -- could you be subject to a State 
+
+17
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+tort suit for not changing the label when -- when you 
+had the power to do so?
+
+ MR. KNEEDLER:  I -- if -- if FDA has taken 
+no action at all, then I think you -- you could be.  I 
+this it's very likely that FDA would have acted by the 
+-- by the time that -- I mean, I suppose there could be 
+a window in there before it was approved.
+
+ JUSTICE GINSBURG:  But why is that -- why is 
+
+that likely, considering the huge number of drugs?  I 
+mean, one figure said that there are 11,000 drugs that 
+have this approval.  Is the FDA really monitoring every 
+one of those to see if there is some new information 
+that should change the label?
+
+ MR. KNEEDLER:  If I could make two points 
+
+about that:  The first is, as I said, we are not arguing 
+that there is pre-emption in a situation where there is 
+new information that is not brought to FDA's attention.
+
+ But the second point is that in the 2007 
+
+amendments to the Act, Congress recognized the 
+difficulties with this and gave FDA important new 
+enforcement tools and resources to go after the problem 
+of things that arise after a drug is improved --
+approved, that has given FDA the authority to direct a 
+change in the label, which it did not have before.
+
+ It has given the FDA the authority to order 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+18 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+new clinical studies, and it has ordered FDA to set up a 
+data system where it will get electronic notification of 
+-- of adverse events.
+
+ I -- I should point out in the -- in the one 
+year since these amendments were passed, FDA has, I -- I 
+think, in 21 instances ordered clinical trials.  In four 
+instances it has ordered a revision of labeling.  It has 
+hired 430 new employees in the Center for Drug 
+Evaluation and Research to address the post-marketing 
+situation.
+
+ JUSTICE BREYER:  Why isn't -- why isn't the 
+
+fact that some certain number of people are getting 
+gangrene, why isn't that new information?
+
+ MR. KNEEDLER:  The risk -- the way FDA --
+and this is set forth in the changes being affected 
+regulation amendment that was --
+
+JUSTICE BREYER:  That was all passed long 
+
+after the events here took place, I think.
+
+ MR. KNEEDLER:  But -- but --
+JUSTICE BREYER:  So at the time, you read 
+
+the regulation, I think a person would think that he was 
+free drug manufacturer if he learned something new to 
+strengthen -- strengthens the contraindication, put it 
+in.
+
+ MR. KNEEDLER:  As FDA explained in 2008, 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+19 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+when it promulgated this regulation, it's been FDA's 
+long-standing interpretation that only new information 
+would justify a change.
+
+ JUSTICE BREYER:  Why wouldn't that be new?
+ MR. KNEEDLER:  New information means new 
+
+information about a risk that is greater in severity or 
+frequency.  If you have --
+
+JUSTICE BREYER:  If you get a certain number 
+
+of cases.
+
+ MR. KNEEDLER:  There is no claim -- there is 
+
+no claim here that either of those -- in the record in 
+this case, that either of those was true.
+
+ JUSTICE BREYER:  That's because nobody 
+
+brought up this new information point.  So if nobody 
+brought up the new information point at the trial and if 
+the burden is on the manufacturer to show that it's 
+pre-empted, isn't that the manufacturer's fault, because 
+if you simply read the regulation, you wouldn't find any 
+of all this complicated stuff about certain kinds of new 
+information.
+
+ MR. KNEEDLER:  That's a legal question not a 
+
+factual.  And it was argued to the Vermont --
+
+JUSTICE BREYER:  Yes it's a legal question.
+ MR. KNEEDLER:  It was argued to the Vermont 
+Supreme Court, and I don't think -- I don't think that 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+20 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+Respondent -- Respondent has noted that it wasn't 
+raised, but I don't think it's argued that it's waived. 
+And I think for the Court to fully address this 
+situation, I think it would be good to take into account 
+FDA's -- certainly going forward that is the regulatory 
+regime --
+
+JUSTICE BREYER:  But we are not making an 
+
+advisory opinion.  We are deciding this case.  And this 
+case here you say new information of a certain kind 
+would be okay, nobody argued it.  You read the reg, and 
+it doesn't seem to make all these distinctions end of 
+case.  Since the manufacturer has the burden of going 
+into this, which apparently it didn't do.  So, now we 
+have decided this case, and we go on to the next one.
+
+ MR. KNEEDLER:  Okay.  If I could make just 
+
+one further --
+
+JUSTICE BREYER:  What's your response to 
+
+that?
+
+ MR. KNEEDLER:  If I could make one further 
+
+point about that.  And that is the -- this act sets up a 
+prior approval situation.  In other words, Congress 
+wanted the FDA to look at the drug in advance, 
+balance -- against benefits as this Court said in 
+Rutherford, and -- Brown & Williamson, strike a balance 
+and approve it. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+21 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+It would be fundamentally inconsistent with 
+
+a prior approval system to have a regime in which the 
+very next day State law could require the manufacturer 
+to change the very labeling that FDA has struck a 
+balance --
+
+JUSTICE KENNEDY:  I don't understand what 
+we're talking about here.  The new information was not 
+brought up by either side --
+
+MR. KNEEDLER:  Right.
+ JUSTICE KENNEDY:  -- showing increased 
+
+frequency or increased severity?
+
+ MR. KNEEDLER:  That's correct.
+ JUSTICE KENNEDY:  Right?
+ And supposedly, it was burden of the drug 
+
+company to show --
+
+MR. KNEEDLER:  No.  The drug company says 
+
+it's pre-empted, and the only escape hatch from the 
+preemption is new information.
+
+ JUSTICE KENNEDY:  You agree with -- you 
+
+agree with Mr. Waxman that the FDA specifically 
+addressed the risks and benefits of IV push as opposed 
+to the risks of arterial exposures?
+
+ MR. KNEEDLER:  It specifically addressed in 
+the labeling that the FDA approved, and I think that's 
+all that needs to be looked at in -- it's just as in 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+22
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+Riegle, where the preemption turns on that device, in 
+that case, and the labeling that was presented.  Here 
+the preemption turns on the labeling and the drug that 
+was presented.  And FDA regulations prohibit the change 
+unless there is new information.
+
+ If I could make one other point about 
+
+Riegle.  Riegle does contain an FDA -- an expressed 
+preemption provision.  But the reason why this Court 
+found preemption in Riegle under that provision is very 
+instructive here, because as Mr. Waxman pointed out, the 
+premarket approval process in the two situations are 
+essentially the same.
+
+ And what you had on the one hand was Federal 
+action having the force of law like under the file rate 
+doctrine or some administrative determination having the 
+force of law approving a license or -- or a drug, a 
+legal prohibition against changing that without new 
+information.  And on the state side, you have a rule of 
+law under the common law of torts imposing a different 
+obligation.  Those are squarely termed --
+
+JUSTICE KENNEDY:  You're talking about 
+
+changing but you can supplement without changing the 
+label.
+
+ MR. KNEEDLER:  No -- no, you cannot.  Any --
+any change in the wording of -- of the label is a change 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+23 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+that requires FDA approval unless it is --
+
+JUSTICE SCALIA:  You can supplement only 
+
+when there is new information?
+
+ MR. KNEEDLER:  When there is new information 
+and even then, it has to be in the form of a new drug --
+a supplemental drug application to the agency.
+ CHIEF JUSTICE ROBERTS:  Thank you, 
+
+Mr. Kneedler.
+
+ Mr. Frederick.
+ ORAL ARGUMENT OF DAVID C. FREDERICK
+
+ ON BEHALF OF THE RESPONDENT
+
+ MR. FREDERICK:  Thank you, Mr. Chief 
+
+Justice.
+
+ I'd like to start with regulation 201.80, 
+
+which is set forth in an addendum to our brief at 19-A. 
+The second sentence of which reads:  "The labeling shall 
+be revised -- this is after an applicant, a sponsor has 
+obtained approval of the drug label -- "it shall be 
+revised to include a warning as soon as there is 
+reasonable evidence of an association of a serious risk 
+with a drug.  A causal relationship need not have been 
+proved."
+
+ The testimony at trial established that 
+
+Wyeth knew or should have known from at least the '70s 
+that there was a significance issue concerning IV push 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+24 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+risks.
+
+ And, Justice Alito, in answer to your 
+
+question --
+
+JUSTICE SCALIA:  Excuse me.  Those -- those 
+
+risks were set forth on the labeling approved by the 
+FDA.  Surely that sentence means it shall be revised to 
+include a warning as soon, as soon as there is 
+reasonable evidence of an association of a serious 
+hazard that the FDA has not considered.  And that is not 
+already addressed on the labeling.  I mean to read it 
+as -- as opening up stuff that's already been considered 
+by the FDA would -- would -- would make a -- a mush out 
+of it.
+
+ MR. FREDERICK:  FDA never considered any 
+
+comparative risks of IV push versus IV drip.  The 
+evidence on this was clear.  Wyeth had a --
+
+CHIEF JUSTICE ROBERTS:  What about the 
+
+various portions of the label in the record that 
+Mr. Waxman addressed and Mr. Kneedler, representing the 
+FDA, said they specifically considered IV push risks?
+
+ MR. FREDERICK:  What the evidence showed was 
+
+that FDA certainly was aware that there are different 
+forms of intravenous administration of drugs, but it 
+never considered that the risk of IV push so greatly 
+increased the risks of a catastrophic injury --
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+25 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+CHIEF JUSTICE ROBERTS:  Well, they have to. 
+When they determine that it's safe to use it under those 
+circumstances that necessarily includes a consideration 
+of the risk.  People can say it's safe for you to walk 
+down the sidewalk.  That doesn't mean there is no risk 
+that you get hit by lightning or something else.  It 
+just means in evaluating them together, they determine 
+that it's worth the candle in particular cases where a 
+physician determines that that's the indicated method.
+
+ MR. FREDERICK:  Mr. Chief Justice, here 
+
+there was no way FDA could have made this determination 
+because the risks of IV push are so catastrophic 
+compared to the benefit which the testimony at trial 
+showed --
+
+JUSTICE SCALIA:  Well, you're just 
+
+contradicting the label.  The fact is they could not 
+have approved that label unless they made that 
+determination.
+
+ Now, if you're telling me the FDA acted 
+
+irresponsible -- irresponsibly, then sue the FDA.
+
+ MR. FREDERICK:  No.
+ JUSTICE SCALIA:  But the labeling made it 
+very clear that the preferred method of administering 
+this medicine was -- was -- was muscular and -- and that 
+there were serious risks involved in -- in the IV push. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+26
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+Moreover, your client didn't follow the 
+
+labeling or your client's physician didn't follow the 
+labeling prescription for IV push, did he?
+
+ MR. FREDERICK:  The testimony at trial 
+
+showed that the doctor acted with a standard of care 
+that was not negligent, and that was based on expert 
+testimony.
+
+ JUSTICE SCALIA:  No.  No.  Wait, wait.  He 
+
+administered a -- a level of the drug that was vastly in 
+excess of -- of -- of what the labeling said could 
+safely be used for IV push.
+
+ MR. FREDERICK:  And the testimony at trial 
+
+showed that that had no bearing on her injury, 
+because --
+
+JUSTICE SCALIA:  Had no bearing.  Are you 
+
+serious?
+
+ MR. FREDERICK:  Yes.  It did.  The testimony 
+
+at trial from Dr. Green disputed that point.  Both 
+courts below rejected that notion.
+
+ But the idea that a label is set in stone 
+for all time misunderstands the way the process works. 
+When FDA approves a drug with a drug label, it does so 
+on the basis of small clinical trials with very few, 
+sometimes as few as a thousand or a couple of thousand 
+people.  And when the drug is marketed and goes to lots 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+27
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+and lots of people that are not healthy, that are in 
+different conditions, new problems arise.  That's why 
+the general -- the GAO found that over 51 percent of 
+drugs have adverse drug events not known.
+
+ JUSTICE SCALIA:  You established that there 
+were new problems?  I mean, if there were new problems, 
+then -- then they could have simply supplemented the 
+labeling.  But did you establish that there were 
+problems that had not been considered already by the 
+FDA?
+
+ I mean, the labeling says, you know, that 
+this is dangerous to use -- use IV push.  It made it 
+very clear that it's dangerous.
+
+ MR. FREDERICK:  That was not our burden and 
+that was not how the testimony came in at trial.  But as 
+the amicus brief by Dr. Budhwani, et al. at pages 54 
+establishes had Wyeth been a reasonably prudent 
+manufacturer over the years, it would have known that 
+the risks of IV push so far outweigh any bearing 
+negligible benefits, that it would have offered a 
+stronger instruction, it would have moved to revise its 
+label either with FDA approval or --
+
+JUSTICE SCALIA:  It proposed a more 
+
+restrictive label to the FDA, didn't it?  And the FDA 
+said, no, you use this label.  In other words, it's --
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+28 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+what you're saying was not its call.  It was the call of 
+the FDA.
+
+ MR. FREDERICK:  Footnote one of the Vermont 
+Supreme Court's opinion disputes that point, because it 
+says the label was different.  And if you compare what 
+was submitted to FDA versus what FDA looked at, there 
+was no reference to IV push risks creating the risk of 
+catastrophic harm versus negligible, Justice Scalia.
+
+ CHIEF JUSTICE ROBERTS:  I thought your -- I 
+thought your theory was that this type of administration 
+of the drug should not be allowed.  The label should not 
+say here are the risks, here are the benefits.  You --
+your jury theory was you cannot suggest in the labeling 
+that physicians should have this available.
+
+ MR. FREDERICK:  Well, as the jury was 
+
+instructed, Mr. Chief Justice, and the evidence came in 
+at trial, it was -- it was somewhat larger than that in 
+the sense that a State failure to warn claim doesn't 
+prescribe particular wording.  It simply says that the 
+existing wording is inadequate.  And if the case comes 
+to this Court --
+
+CHIEF JUSTICE ROBERTS:  Well, it simply says 
+that if you go ahead with the label like this, you don't 
+have to pay $10 million whenever it comes wrong.  That's 
+having the effect, as our case has established, imposing 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+29 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+a limitation on the label.
+
+ MR. FREDERICK:  But the label itself is not 
+set in stone, Mr. Chief Justice.  Manufacturers change 
+their labels all the time as new drug risks come in. 
+And the regulations provide that the manufacturer is 
+responsible not only for the label, but for monitoring 
+post-market information.
+
+ CHIEF JUSTICE ROBERTS:  So your case depends 
+upon us determining that the risk at issue here that was 
+presented to the jury was a new risk that the FDA did 
+not consider?
+
+ MR. FREDERICK:  No.  It's not dependent on 
+that at all, Mr. Chief Justice.  It is dependent on a 
+finding that the manufacturer had a duty of due care and 
+it didn't live up to that.
+
+ JUSTICE SCALIA:  What if it referred to new 
+drug risks, then, in your preceding sentence, where you 
+are saying manufacturers change it all the time as new 
+drug risks become apparent?
+
+ MR. FREDERICK:  The testimony --
+JUSTICE SCALIA:  What you mean is whether or 
+not new drug risks become apparent, they have to change, 
+right?
+
+ MR. FREDERICK:  The question is what does 
+the manufacturer know and when did this manufacturer 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+30 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+know it?  And here, the testimony at trial showed that 
+an antinausea drug called Vistrol -- this is at page 79 
+of the joint appendix -- caused amputations in two 
+cases.  Pfizer voluntarily removed IV push injection for 
+that drug.  This was information in Wyeth's files; Wyeth 
+knew this from the 1970s; and yet it did nothing to 
+change the Phenergan label.
+
+ CHIEF JUSTICE ROBERTS:  Suppose --
+JUSTICE SOUTER:  With respect to the 
+
+obligation in this case, may I go back to an earlier 
+question that Justice Scalia asked you?  And I -- I --
+if you responded to this particular point, I didn't get 
+it.
+
+ He said that he understood that Wyeth had in 
+
+fact asked the FDA to modify the label, at least to 
+strengthen the warning against IV push, and that request 
+was -- was denied, so that in fact that -- that created 
+the conflict.  What is your response to -- to the 
+factual basis for that -- for that comment?
+
+ MR. FREDERICK:  Well, the FDA itself said in 
+
+the Solicitor General's brief at page 25 that it was 
+deemed to be a nonsubstantive change.  These were 
+changes that were being made --
+
+JUSTICE SOUTER:  Well, regardless of what 
+
+their, their semantic label was, was there a request at 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+31 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+least to -- to beef up the warning against using IV 
+push?  And if so, did the -- did the FDA reject it and 
+say no, you can't do that.
+
+ MR. FREDERICK:  It was a different label and 
+
+it was a different strength of warning, but it didn't 
+have to do with the relative risks and benefits of IV 
+push versus IV drip.
+
+ JUSTICE SOUTER:  What would it --
+MR. FREDERICK:  That was the crucial point.
+ JUSTICE SOUTER:  What would it have said?
+ MR. FREDERICK:  This is set out at footnote 
+1 of the Vermont Supreme Court opinion, which is set out 
+in the joint -- in the petition appendix at pages 4a to 
+5a, and it goes on for two pages.  But essentially what 
+the -- what the comparison was was talking about the 
+preferability of injecting it through the tubing of an 
+intravenous infusion set that is known to be functioning 
+satisfactorily, which would suggest to most medical 
+practitioners and was it the case in the trial testimony 
+given by Dr. Green below, that that would suggest an IV 
+drip, not IV push.
+
+ When FDA then rejected it for -- for 
+nonsubstantive reasons, it went back to the prior 
+verbiage which is set out at 5a, which simply says if 
+you put this drug in an artery the concentration can be 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+32 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+such that it will -- it will cause harm.
+
+ But our point is that these kinds of risks 
+
+come to light frequently with drugs that are on the 
+market and the need to revise these labels is the duty 
+of the manufacturer.  Section 314. --
+
+JUSTICE SOUTER:  But you -- you also, to be 
+clear on it, as I understand it, you do not accept the 
+position that the FDA puts forward, that the obligation 
+depends upon the accrual of new information.
+ MR. FREDERICK:  Well, how you --
+JUSTICE SOUTER:  Any information, new or 
+old, as I understand it, on your argument raises this 
+obligation to -- to act.
+
+ MR. FREDERICK:  I think that the dispute is 
+-- is what constitutes new information, because we don't 
+take issue with the notion that new information can be 
+new analysis of prior submitted data; and what the 
+amicus brief by Dr. Budhwani et al. Points out is that 
+there was a lot of unpublished information about the 
+harms of Phenergan that was known to Wyeth or should 
+have been known to Wyeth in the '80s and '90s that would 
+have justified a change under the CEE regulations.
+
+ JUSTICE ALITO:  Well, suppose the record 
+
+showed that the FDA clearly considered whether IV push 
+should be contraindicated and concluded it should not be 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+33 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+and prescribed the label that now appears on the drug; 
+and then, as some of the other arguments have 
+referenced, the very day after the FDA made that ruling, 
+Ms. Levine was injured.  Would you still -- would she 
+still have a claim in your view, a non-pre-empted claim?
+ MR. FREDERICK:  That be pre-empted.  And the 
+
+reason it would be pre-empted is because the FDA would 
+have considered and rejected on the basis of the same 
+information or similar information the very duty that 
+underlies the State claim.
+
+ JUSTICE ALITO:  So your argument is -- is 
+
+predicated on the existence of new information.  If 
+there was no new information, then the claim is 
+pre-empted?
+
+ MR. FREDERICK:  No, it's -- well, it is 
+
+not -- I think there are two things to keep analytically 
+clear.  One is can the manufacturer come forward with a 
+label change on the basis of -- of information that is 
+assessing the risk or reassessing the risk, and under 
+the -- under the regulations it's absolutely clear it 
+can do that before FDA has approved it.  It is subject 
+to FDA disapproval.
+
+ JUSTICE SCALIA:  And -- and is entitled to 
+
+amend the labeling automatically.
+
+ MR. FREDERICK:  That's correct. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+34 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA:  I envision a -- a scheme 
+under which manufacturers who are worried about jury 
+liability of -- of the magnitude that occurred in this 
+case saying, gee, why should we take chances?  And every 
+time there is a jury verdict on some -- on some other --
+some other ground not -- not prohibited by the label, 
+they just add that to the label; and they submit it 
+to -- to the FDA and the -- and until -- unless and 
+until the FDA conducts an investigation and disapproves 
+that label, that labeling change occurs.
+
+ How many -- how many -- you mentioned a 
+number of -- of times that -- that label alterations 
+are -- are proposed.  I mean, this is going to be a 
+massive operation for the FDA.
+
+ MR. FREDERICK:  Justice Scalia, that would 
+
+promote public safety, because it puts into the hands of 
+doctors the information that enables them to make 
+individualized risk determinations.
+
+ JUSTICE SCALIA:  It would not promote public 
+
+safety if you believe that the name of this game is 
+balancing benefits and costs.
+
+ MR. FREDERICK:  And Congress said --
+JUSTICE SCALIA:  And if you are simply 
+
+eliminating certain drugs which people who -- who have 
+real desperate need for could -- could be benefited by, 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+35
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+you're not benefiting the public.
+
+ MR. FREDERICK:  No, and in fact that's 
+
+contrary to the policy determination Congress made.  In 
+the misbranding provision, which is Section 352(f), it 
+calls -- that the label is misbranded unless its 
+labeling bears adequate directions for use and such 
+adequate warnings against use in those pathological 
+conditions or by children where its use may be dangerous 
+to health or against unsafe dosage or methods or 
+duration of administration or application.
+
+ JUSTICE SCALIA:  And that applies even if 
+
+it's approved by the FDA?
+
+ MR. FREDERICK:  Yes.  It's misbranded.  And 
+
+in the 1979 --
+
+JUSTICE SCALIA:  You're saying FDA approval 
+
+doesn't -- doesn't give you any protection at all?
+
+ MR. FREDERICK:  It -- it provides you a 
+
+basis for marketing your --- your product.
+
+ JUSTICE SCALIA:  But -- but -- but the 
+
+marketing may be a misbranding?
+
+ MR. FREDERICK:  In -- the FDA itself said so 
+
+in 1979 in 44 Federal Register, which we cite in our 
+brief, that even an original label may be misbranded if 
+the drug manufacturer subsequently learns that it was 
+not adequate for the safe use of the drug. 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+36 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA:  Well then, gee, then all of 
+the qualifications you were making earlier about whether 
+it's new information or a new assessment, that's 
+irrelevant.
+
+ MR. FREDERICK:  No, it's --
+JUSTICE SCALIA:  You're saying whenever it's 
+
+unsafe, whatever the FDA has approved, you have a 
+lawsuit.
+
+ MR. FREDERICK:  No.  What I'm saying is that 
+
+the information developed after the original label is 
+approved, and it is not a floor and a ceiling --
+
+JUSTICE SCALIA:  There -- there was nothing 
+about new information in what you just said.  You said 
+it's misbranded if it's not safe, new information or 
+not.
+
+ MR. FREDERICK:  And that's --
+JUSTICE SCALIA:  Is that -- is that -- is 
+
+that your position?
+
+ MR. FREDERICK:  Our position is that the 
+
+duty is on the manufacturer to make a safe label, and if 
+the label is --
+
+JUSTICE SOUTER:  But getting to Justice 
+
+Scalia's point, as I understand your answer to an 
+earlier question, on the day that the FDA approves the 
+label, if there is no further information indicating 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+37
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+danger, then any liability that is based upon what the 
+-- the kind of information that the FDA knew would be 
+pre-empted.  The only time -- you're saying pre-emption 
+does not occur when there is -- forget the word "new" 
+for a moment -- when there is further information, 
+information in addition to what the FDA was told, 
+whether it's 1,000 years old or discovered yesterday; 
+and if there is liability predicated on further 
+information beyond what the FDA was told, then there is 
+not pre-emption.
+
+ Is that a fair statement of your position?
+ MR. FREDERICK:  That's fair, but let me just 
+
+make clear that our test would require the FDA to 
+consider and reject the specific basis on which the 
+State law --
+
+JUSTICE SCALIA:  If that's a fair statement 
+then you have to retract your -- your earlier assertion 
+that whenever it's not safe it's misbranded.  I mean --
+
+MR. FREDERICK:  I'm not going to retract 
+
+that, Justice Scalia.
+
+ JUSTICE SCALIA:  -- which is it?  Whenever 
+
+it's not safe, it's misbranded, or what you just 
+responded to Justice Souter?
+
+ MR. FREDERICK:  The basis -- the basis of 
+
+the FDA's approval is on the basis of limited 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+38 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+information, which Congress has said for public safety 
+reasons -- we are not doing a balancing here; we are 
+doing this for public safety --
+
+And if the label is not adequate for public 
+
+safety it is a misbranded drug.
+
+ JUSTICE SOUTER:  Okay, but if -- if the 
+
+so-called misbranding is determined to be misbranding, 
+based upon information which was given to the FDA, as I 
+understand your position, you would admit that there was 
+pre-emption.
+
+ MR. FREDERICK:  I -- I think there is 
+
+pre-emption, but that does not mean --
+
+JUSTICE SOUTER:  Okay.  So there --
+MR. FREDERICK:  Maybe there is no --
+JUSTICE SOUTER:  In other words, there is 
+
+that one exception at least to the broad statement that 
+you gave in answer to Justice Scalia?
+
+ MR. FREDERICK:  Let me try to untangle it 
+this way.  The fact that there is pre-emption and you 
+cannot bring as State law failure-to-warn claim doesn't 
+mean that the drug isn't misbranded under the Federal 
+standard the FDA --
+
+JUSTICE SOUTER:  But the -- but the 
+
+misbranding is of no consequence to liability.
+
+ MR. FREDERICK:  Well, if --
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+39 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+JUSTICE SOUTER:  In other words, I think 
+
+you're saying if there -- if there would be pre-emption 
+it may be misbranded, but there cannot be any recovery 
+in a State tort suit.
+
+ MR. FREDERICK:  That's correct.  The -- the 
+
+point --
+
+JUSTICE SOUTER:  Okay.  So misbranding under 
+
+those circumstances is a purely theoretical concept.
+
+ MR. FREDERICK:  In that very hypothetical, 
+
+yes.
+
+ JUSTICE SOUTER:  Okay.
+ MR. FREDERICK:  But the point is that the 
+failure is that the failure-to-warn claim tracks the 
+misbranding provision; and if you look at the jury 
+instructions in this case, the wording is very close to 
+the wording of the misbranding provision in terms of the 
+adequacy of the warning that must be provided.
+ JUSTICE STEVENS:  Mr. Frederick --
+MR. FREDERICK:  All State law is doing is 
+
+providing a remedy that is absent from Federal law.
+
+ JUSTICE STEVENS:  Mr. Frederick, I'd like to 
+
+put the misbranding point to one side and just 
+concentrate on pre-emption.  And I understood you to 
+agree with Justice Alito that there is a hypothetical 
+case in which there would be pre-emption, and would you 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+40
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+tell me what particular fact distinguishes your case 
+from his hypothetical?
+
+ MR. FREDERICK:  The fact is there was no 
+
+consideration and rejection of a stronger IV push 
+warning.  There was no consideration by the FDA of IV 
+push as a means of administration distinct from other 
+intravenous forms that would lead to a different kind of 
+risk-benefit balancing.  So with the -- in the case 
+where there would be pre-emption, FDA would be asked, we 
+-- we want to put a stronger warning as against this --
+FDA says:  We don't think there is scientific evidence. 
+Do not put that warning on the label.
+
+ CHIEF JUSTICE ROBERTS:  So now, your friends 
+on the other side said there was specific consideration 
+of IV push as opposed to simply arterial exposure, and 
+that that is laid forth in the labeling.  So, as I 
+understood your answer to be, all we have to do is 
+simply look at the record, and if we think the FDA 
+considered specifically IV push risks as opposed to 
+general arterial exposure, then you lose, and if we 
+determine that they did not, then they lose.
+
+ MR. FREDERICK:  And the Vermont Supreme 
+
+Court was quite emphatic about this, Mr. Chief Justice.
+ CHIEF JUSTICE ROBERTS:  Well, I don't know 
+if the Vermont Supreme Court was emphatic about it.  I 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+41 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+mean, the record is either -- addresses the FDA -- I'm 
+more interested in what the FDA was emphatic about, and 
+they either address IV push separately or they don't.
+
+ MR. FREDERICK:  And you search in the joint 
+
+appendix in vain for communications between Wyeth and 
+FDA communicating about the particular risks of IV push.
+ JUSTICE GINSBURG:  What -- can you turn to 
+the references that Mr. Waxman and Mr. Kneedler made? 
+They said oh, yes, IV push was considered discretely 
+from IV drip bags.
+
+ MR. FREDERICK:  I will acknowledge that the 
+references in some instances suggest IV push.  There is 
+no doubt that the FDA knew that IV push was a method of 
+intravenous administration, but our point is a starker 
+one, and that is that the FDA never was put to the test 
+of deciding comparative risks and benefits of IV push 
+versus IV drip.  And it's that point that is crucial, 
+because the catastrophic risks of IV push are so 
+dramatic, no reasonable person could have made a safety 
+determination to allow this drug with its risks when 
+there are corresponding benefits that create exactly the 
+same kind of treatment of care for the patient.
+
+ JUSTICE SOUTER:  Well, is your argument that 
+
+they couldn't have considered these comparative risks, 
+because if they had, they would have come out 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+42 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+differently; because they didn't come out differently, 
+we have to infer that they didn't consider it?
+
+ MR. FREDERICK:  It's two things:  One, they 
+
+didn't consider it and that's clearly --
+
+JUSTICE SOUTER:  No, I --
+MR. FREDERICK:  Second,
+ JUSTICE SOUTER:  Apart from your analysis 
+
+that they couldn't have or they would have come out 
+differently, how did we know that they didn't consider 
+it?
+
+ MR. FREDERICK:  There are communications 
+
+that went back and forth between the company.  These are 
+set out in the joint appendix.  They make no reference 
+to IV push risks as distinct from --
+
+JUSTICE SOUTER:  And do these -- when you 
+
+say "communications," do you mean starting with the 
+original application for approval of the label?
+
+ MR. FREDERICK:  The original application 
+actually is not known.  It wasn't in Wyeth's files. 
+This drug was approved in 1955.  We don't know where the 
+original label was, Justice Souter.
+
+ JUSTICE SOUTER:  So, you are saying all the 
+
+correspondence that we do know about, that is extant, 
+fails to mention comparative risk.
+
+ MR. FREDERICK:  That's correct.  And --
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+43 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+JUSTICE SCALIA:  But the label doesn't.  I 
+
+mean, the label ask discusses the high risk from IV push 
+and sets forth particular cautions for that -- for that 
+specific means of administration.
+
+ MR. FREDERICK:  It does not, Justice Scalia. 
+
+The label says -- it's talking about intravenous 
+administration.  It does not distinguish between IV drip 
+and IV push.  And Dr. Matthew testified at trial that, 
+based on the label, he would not have been able to make 
+a treatment determination to distinguish between the 
+two, and that had he had that information, he clearly 
+would have given this drug to Diana Levine through the 
+intravenous drip method.  The label simply didn't --
+
+JUSTICE KENNEDY:  If we conclude that new 
+
+information is the criterion for deciding this case, if 
+we reject the argument that misbranding at the outset 
+allows State law to supplement the duty, but that if 
+there's new information, then the label has to be 
+changed -- if it that's the line we draw, can this 
+verdict be sustained?
+
+ MR. FREDERICK:  Yes, I think it can be 
+
+sustained on the basis of --
+
+JUSTICE KENNEDY:  And the Vermont court's 
+
+opinion?
+
+ MR. FREDERICK:  I don't think that the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+44
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+Vermont Supreme Court's opinion totally, because it does 
+go into the area that you're talking about, Justice 
+Kennedy, but if I could refer the Court to trial record 
+testimony, which is set out in the joint appendix and 
+more elaborately in the trial record itself, which makes 
+clear that Wyeth knew or should have known about these 
+comparative risks.  It should have had a basis for 
+changing its label or proposing to FDA a different 
+label, and that would be sufficient to satisfy the 
+Federal standards as well as the State duty of due care. 
+And we think the judgment on that basis could be 
+sustained.
+
+ JUSTICE STEVENS:  May I ask this:  When did 
+the duty on the part of Wyeth to have a different label 
+arise, in your view?
+
+ MR. FREDERICK:  I think it probably arose in 
+
+the early '70s when a -- when there was a published --
+or there was an incident --
+
+JUSTICE STEVENS:  Did it arise before or 
+
+after submitting the original drug application?
+
+ MR. FREDERICK:  A strong argument can be 
+
+made that it would have been before the 1970s 
+application when they were reformatting.  These are old 
+drugs.  We don't have evidence from the 1950s that would 
+have suggested that the original label determination in 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+45 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+1955 would have caused a difference but certainly by the 
+1970s when -- when Wyeth was reformatting this as an old 
+drug to comply with new standards, it should have known 
+and it certainly should have known by the 1990s when 
+several amputations had occurred from IV push Phenergan, 
+which were in Wyeth's files.  The people who analyzed 
+these records, you know, were emphatic that Wyeth knew 
+or should have known by the 1990s.  And that was clear 
+by the testimony of experts that -- that showed the 
+comparison between Vistrol and Phenergan and on the 
+basis of the IV push injuries that had occurred that 
+were nonpublished.  They appeared to have been reported 
+to FDA, but Wyeth never took the trouble to do the 
+synthesis, to connect the dots between these very 
+terrible tragedies that had occurred from its drug, to 
+bring about a labeling change or a modification that 
+would have saved lives.  And that is a failure on the 
+part of the manufacturer not to comply with its 
+standards of due care and with the regulations which 
+require health risk information to be the basis of 
+modifications to the labeling.
+
+ JUSTICE STEVENS:  Does that boil down to a 
+claim that there was new information that was available 
+between the original approval and the time of the 
+lawsuit? 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+46 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+MR. FREDERICK:  Well, by "original 
+
+approval," do you mean 1955 or do you mean in 1998 and 
+2000?
+
+ JUSTICE STEVENS:  Either one.  But is your 
+theory really a theory based on new information or new 
+judgment about old information?
+
+ MR. FREDERICK:  It would be on the basis, I 
+think, of both.  I think we would be able to establish 
+that there was a justification on the basis of 
+information before the reformatted labeling took place, 
+and that was testimony by Dr. Green at trial on the 
+basis of Vistrol, the other amputation that had occurred 
+with Phenergan in 1965.
+
+ And the -- the important point here is that 
+
+on the basis of new information, if you are going to 
+conclude that there is a standard that has to be met, I 
+would urge you to consider two things:  One is that the 
+burden of showing absence of new information is going to 
+fall on the manufacturer because it is asserting a 
+pre-emption defense, but the way pre-emption gets argued 
+in the courts, it is done oftentimes before discovery is 
+permitted.  So, if there is information in the drug 
+manufacturer's files that would be relevant to a 
+determination of the breach of duty by the drug 
+manufacturer, if you decide pre-emption has to be done 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+47
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+before discovery can be done, there would be no way to 
+get that information.
+
+ JUSTICE KENNEDY:  Well, to put the burden on 
+
+the manufacturer seems to me inconsistent with what 10 
+States have said, that there is a rebuttable presumption 
+and inconsistent also with the instructions the jury 
+received in this case, that you can consider the FDA 
+label.  So, I think, to me, what you say there is not 
+borne out by what happened in this case or by those 
+other States' --
+
+MR. FREDERICK:  Well, let me -- let me 
+
+address that question because your question goes to the 
+regulatory compliance defense and that is not a 
+pre-emption defense.  It is a defense based on State law 
+that the manufacturer in fact was not negligent because 
+it complied with the applicable regulations.  In that --
+under that scenario, Justice Kennedy, the plaintiff is 
+going to be able to obtain discovery and make arguments 
+to the trial court about whether or not that compliance 
+negated or did not negate negligence.  But pre-emption 
+is a Federal defense that would be asserted typically at 
+the outset of the lawsuit before information is 
+obtained.  And notably, before 2000, FDA did not have 
+subpoena power of drug manufacturers.  It did not have 
+the power to force labeling changes.  It didn't even 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+48 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+have the power to force drug manufacturers to make 
+post-marketing studies.
+
+ JUSTICE BREYER:  The --the part I'm trying 
+to figure out is this:  Suppose it was before trial.  I 
+don't care, before or after.  The plaintiff comes in 
+with a claim.  All right.  Manufacturer:  That's 
+pre-empted.  The claim is that you should have told the 
+FDA and added something to your label. 
+Manufacturer:  That's preempted.  Plaintiff:  Well, you 
+haven't read this reg here.  The reg here which has been 
+in existence since 1965 says that we can go and add 
+something.  I mean you can go and add something to show 
+a contra indication, and that's the end of it.
+
+ Now, in fact, 30 years later, I guess, 
+without the horrible things happening that Justice 
+Scalia mentioned, or maybe they did -- I don't know. 
+But 30 years later the FDA makes another mention of new 
+information.  I take it that's in 1982.  That's the 
+first time that happened.
+
+ Now, if I'm right about that, what happens 
+when no one says a word about that?  Of course, if the 
+manufacturer had said something about that, then maybe 
+the plaintiff would have said:  And it was new.  It was 
+new, but the manufacturer doesn't say a word.  Are you 
+following what I'm saying? 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+49 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+MR. FREDERICK: I'm not totally, Justice 
+Breyer, I confess, but let me try to address it this 
+way.
+
+ JUSTICE BREYER:  I mean, I'm wondering still 
+
+what happens.  I believe what happened here is that in 
+the argument in the lower courts, in the trial court, 
+nobody said anything about the FDA's claim that the 
+information necessary to just go ahead and change the 
+label had to be new.  Am I right about that?
+
+ MR. FREDERICK:  You are absolutely right 
+
+about that.
+
+ JUSTICE BREYER:  So what I'm trying to 
+
+figure out -- and I don't know if "burden of proof" is 
+the right word -- where nobody says a word about it, who 
+wins?  If they had said a word about it, you need new 
+information, maybe the manufacturer -- the plaintiff 
+could have shown that the manufacturer had new 
+information.
+
+ MR. FREDERICK: I think the duty is always 
+going to be on the manufacturer, Justice Breyer.  The 
+regulations at 314.80(b) establish that the -- that the 
+manufacturer has the responsibility to do post-
+marketing analysis and post-marketing surveys to 
+determine the continuing safety of its drugs.  If the 
+manufacturer doesn't do that, it isn't complying with 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+50
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+the Federal regulations which have an ongoing duty on 
+them.
+
+ And so in the case where there is silence, I 
+
+would respectfully submit the manufacturer is not 
+complying with its regulatory duty to ensure that there 
+is current information about all of the side- effect 
+risks of its drugs.
+
+ Thank you.
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+Mr. Waxman, you have three minutes remaining.
+
+ REBUTTAL ARGUMENT OF SETH P. WAXMAN
+
+ ON BEHALF OF THE PETITIONER
+
+ MR. WAXMAN:  Thank you, Mr. Chief Justice.
+ I want to make -- I do want to go to -- make a 
+preliminary point about all the talk about misbranding 
+here.  The statute has two criminal prohibitions.  One 
+is misbranding, which is the original 1906 reactive 
+penalty.  If the FDA subsequently finds that something 
+is false or misleading, it CAN come after you for 
+misbranding.  But this case involves the criminal 
+prohibition against distributing drugs for which there 
+is not an approved, effective application.  And that's 
+what's at stake here.
+
+ Now, the notion that there was any -- any 
+
+misunderstanding in the trial court about whether there 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+51 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+was new information or whether there was -- there were 
+incidents that the FDA didn't know about, or it didn't 
+evaluate the risk, is just flat wrong.  The plaintiff 
+tried this -- the plaintiff's experts said the FDA knew 
+about this risk.  Wyeth knew about this risk for 
+decades.
+
+ That is what is so wrong.  That is why he 
+
+stood up and said the FDA doesn't decide this question. 
+You decide this question.  And there was never, ever a 
+suggestion in the record in this case, nor could there 
+have been, that Wyeth ever failed to bring every single 
+adverse-event report to the FDA's attention, every 
+analysis that it did to the FDA's attention.
+
+ And what the record does show is that after 
+-- between the time of the 1955 approval of the new-drug 
+application and the 1998 rejection of the SDNA, the 
+Supplemental New -- SNDA, the Supplemental New Drug 
+Application, that did have more extensive, stronger 
+warnings in this case, Wyeth filed five -- and these are 
+all in the joint appendix -- five supplemental, new-drug 
+applications, each one asking for more language, more 
+warnings, about direct IV injection.  It's not called 
+"push."  It's IV injection versus drip, which is a 
+And, in fact, Mr. Frederick 
+gravity method. 
+says:  Well, you know, in this case there could have 
+
+        
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+52 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+been stronger warnings, and that -- and this case wasn't 
+really about -- the jury wasn't really asked to -- it 
+didn't really say that the label had to contra indicate 
+something that the FDA-labeling required.
+
+ That is exactly the opposite of what the 
+trial lawyer told the jury at opening and at closing. 
+What he said is this was unreasonably unsafe because it 
+didn't say:  Do not use by intravenous administration.
+ With respect to whether or not the warning 
+-- the last SNDA which we submitted, which was in 1987 
+and is reprinted in the joint appendix -- not only is it 
+an original, but there is a typewritten version that 
+actually has the text in the type size that one can 
+actually read.  At the summary-judgment stage that the 
+pre-emption issue was decided -- may I finish my answer?
+
+ CHIEF JUSTICE ROBERTS:  Sure.
+ MR. WAXMAN:  Summary judgment was decided at 
+
+the -- pre-emption was decided at summary judgment 
+before trial.  So there was no evidence about what was 
+new or wasn't new.  In Ms. Levine's motion for summary 
+judgment, she uses the word "new" information about 
+labeling change.  And, with respect to the proposed 1987 
+language, the '88 change that we asked for, she said --
+and I'm reading from page 24 of her motion for summary 
+judgment -- "In 1988, Wyeth drafted changes to the 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+53 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+warning which advised that the use of a free-flowing IV 
+would ensure adequate dilution and reduce the risk of 
+arterial injectia.  Although not strong enough, this 
+improved the labeling instruction; if followed, would 
+have prevented the inadvertent administration of 
+Phenergan into an artery for the reasons described."
+
+ CHIEF JUSTICE ROBERTS:  Thank you, counsel. 
+
+The case is submitted.
+
+ (Whereupon, the case was submitted.) 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+54 
+
+Alderson Reporting Company 
+
+A 
+
+able 7:24 44:9 
+
+47:8 48:18 
+
+above-entitled 
+
+1:11 
+
+absence 11:16 
+11:17 13:15 
+47:18 
+
+absent 40:20 
+absolutely 34:20 
+
+50:10 
+
+accept 33:7 
+account 21:4 
+accrual 33:9 
+acknowledge 
+
+42:11 
+
+act 10:4,6,8 11:2 
+
+11:3 18:19 
+21:20 33:13 
+
+acted 17:20 18:5 
+
+26:19 27:5 
+action 18:4 
+
+actions 10:8,11 
+
+23:14 
+
+10:14 
+
+add 35:7 49:11 
+
+49:12 
+
+added 49:8 
+addendum 
+
+24:15 
+
+addition 38:6 
+address 7:14 
+9:10 10:10 
+19:9 21:3 42:3 
+48:12 50:2 
+
+addressed 7:12 
+22:21,23 25:10 
+25:19 
+
+addresses 42:1 
+adequacy 40:17 
+adequate 36:6,7 
+
+36:25 39:4 
+54:2 
+
+adjunct 15:9 
+administered 
+5:4 6:20 27:9 
+administering 
+
+Official - Subject to Final Review 
+
+26:23 
+
+administration 
+
+amici 10:13 
+
+15:18 
+
+13:3 
+
+applies 36:11 
+
+14:20 28:16 
+33:18 
+
+4:19 5:17 6:5,7  amicus 1:19 2:6  apply 5:24 
+6:16 7:15,25 
+8:14 10:2 
+25:23 29:10 
+36:10 41:6 
+42:14 44:4,7 
+53:8 54:5 
+
+ample 8:9 
+amputation 
+7:19 47:12 
+amputations 
+
+applying 11:21 
+approval 13:17 
+
+administrative 
+
+9:7 23:15 
+admit 39:9 
+adulteration 
+
+advance 13:16 
+
+16:6 
+
+21:22 
+
+31:3 46:5 
+
+analyses 13:15 
+analysis 11:21 
+
+33:17 43:7 
+50:23 52:13 
+analytically 
+
+34:16 
+
+28:4 
+
+adverse 19:3 
+
+adverse-event 
+
+analyzed 46:6 
+answer 7:17 
+25:2 37:23 
+39:17 41:17 
+advised 54:1 
+53:15 
+advisory 6:17,17  anti 17:2 
+
+52:12 
+
+antinausea 31:2  approving 4:14 
+Apart 43:7 
+apparent 30:19 
+
+area 9:10,11,11 
+
+12:18 23:16 
+
+22:19,20 40:24  apparently 
+
+18:11 21:21 
+22:2 23:11 
+24:1,18 28:22 
+36:15 38:25 
+43:17 46:24 
+47:2 52:15 
+
+approve 21:25 
+approved 3:13 
+10:19 12:3,17 
+13:20 15:8 
+17:9 18:7,23 
+22:24 25:5 
+26:17 34:21 
+36:12 37:7,11 
+43:20 51:22 
+
+approves 27:22 
+
+37:24 
+
+9:16 45:2 
+argue 3:21 
+argued 20:22,24 
+21:2,10 47:20 
+
+arguing 15:22
+16:14 18:15
+argument 1:12
+2:2,10 3:3,6 
+12:22,22 13:6 
+13:12 14:18
+24:10 33:12
+34:11 42:23
+44:16 45:21
+50:6 51:11
+
+30:22 
+
+21:13 
+
+1:14 
+
+APPEARAN... 
+
+appeared 46:12 
+appears 34:1 
+appendix 5:22 
+
+5:23 31:3 
+32:13 42:5 
+43:13 45:4 
+52:20 53:11 
+
+21:8 
+
+affect 11:18 
+agency 24:6 
+agree 4:6,8 
+
+ahead 29:23 
+
+50:8 
+
+al 28:16 33:18 
+Alito 6:23 7:4 
+25:2 33:23 
+34:11 40:24 
+
+allow 8:24 11:25 
+
+13:1 42:20 
+
+allowed 29:11 
+allows 44:17 
+alter 16:10 
+alteration 4:3 
+alterations 
+
+35:12 
+
+altogether 16:22 
+amend 34:24 
+amendment 
+
+19:16 
+
+amendments 
+18:19 19:5 
+
+applicable 48:16 
+applicant 24:17 
+application 4:14  arguments 34:2
+
+48:18
+
+24:6 36:10 
+43:17,18 45:20  arising 17:9
+arose 45:16
+45:23 51:22 
+arterial 6:13,18
+52:16,18 
+
+applications 
+
+52:21 
+
+applied 10:17 
+
+8:12 22:22
+41:15,20 54:3 
+
+artery 32:25
+
+55 
+
+Alderson Reporting Company 
+
+54:6
+
+articulated 4:10
+asked 6:17
+11:23 14:4
+31:11,15 41:9 
+53:2,23
+
+asking 52:21
+aspiration 6:9
+asserted 48:21
+asserting 47:19
+assertion 38:17
+assessing 34:19
+assessment 37:3
+association
+24:20 25:8
+
+attention 16:12
+
+17:10,13,19
+18:17 52:12,13
+authority 18:23
+
+18:25
+
+authorized
+17:20,22
+
+automatically
+
+34:24
+
+available 8:22
+29:14 46:23
+aware 5:2,16
+
+25:22
+
+a.m 1:13 3:2 
+
+B
+
+B 14:2
+back 10:13 12:5 
+
+12:13 14:4
+17:16 31:10
+32:23 43:12
+background
+
+10:7,11
+
+bag 5:4
+bags 42:10
+balance 11:6
+
+14:15 21:23,24
+22:5
+
+balancing 9:22
+
+9:25 35:21
+39:2 41:8
+based 12:6
+
+14:25 16:24 
+17:15 27:6 
+38:1 39:8 44:9 
+47:5 48:14 
+basis 27:23 
+
+31:19 34:8,18 
+36:18 38:14,24 
+38:24,25 44:22 
+45:7,11 46:11 
+46:20 47:7,9 
+47:12,15 
+
+bearing 27:13 
+27:15 28:19 
+
+bears 36:6 
+beef 32:1 
+behalf 1:15,18 
+
+1:21 2:4,6,9,12 
+3:7 14:19 
+24:11 51:12 
+believe 10:22 
+35:20 50:5 
+benefit 6:25 
+7:19,20 8:4 
+26:13 
+
+benefited 35:25 
+benefiting 36:1 
+benefits 8:1 9:25 
+
+21:23 22:21 
+28:20 29:12 
+32:6 35:21 
+42:16,21 
+better 9:1,2 
+beyond 38:9 
+blood 6:9,13 
+
+8:12 
+
+board 4:25 
+boil 46:22 
+borne 48:9 
+box 16:7 
+breach 47:24 
+Breyer 19:11,17 
+
+19:20 20:4,8 
+20:13,23 21:7 
+21:17 49:3 
+50:2,4,12,20 
+brief 5:9,9,24 
+
+7:13 9:21 
+
+Official - Subject to Final Review 
+
+24:15 28:16 
+31:21 33:18 
+36:23 
+
+briefs 15:6 
+bright 6:10 
+bring 16:11 
+
+39:20 46:16 
+52:11 
+
+broad 11:21 
+
+39:16 
+
+52:10,19,25 
+53:1 54:8,9 
+cases 10:13,15 
+10:22,24,25 
+11:9 20:9 26:8 
+31:4 
+
+catastrophic 
+25:25 26:12 
+29:8 42:18 
+causal 24:21 
+cause 33:1 
+caused 31:3 46:1 
+
+brought 10:14 
+17:10,13,19 
+18:17 20:14,15  cautions 6:8 
+22:8 
+
+44:3 
+
+CEE 33:22 
+
+Brown 21:24 
+Budhwani 28:16  ceiling 37:11 
+Center 19:8 
+central 15:5 
+certain 5:2 
+
+33:18 
+
+burden 20:16 
+21:12 22:14 
+28:14 47:18 
+48:3 50:13 
+
+24:12 25:17 
+26:1,10 29:9 
+29:16,22 30:3 
+30:8,13 31:8 
+41:13,23,24 
+51:9,13 53:16 
+54:7 
+
+comment 3:21 
+
+49:5 
+
+31:19 
+
+committee 6:17 
+common 11:8 
+
+23:19 
+
+communicating 
+
+42:6 
+
+children 36:8 
+Cipollone 10:23 
+circumstances 
+
+communicatio... 
+42:5 43:11,16 
+7:6,14 9:8 26:3  company 12:5 
+40:8 
+
+22:15,16 43:12 
+
+citations 7:11 
+cite 5:6 36:22 
+cited 7:13 
+claim 5:1 16:24 
+
+comparative 
+
+25:15 42:16,24 
+43:24 45:7 
+compare 29:5 
+
+20:10,11 29:18  compared 26:13 
+34:5,5,10,13 
+39:20 40:13 
+46:23 49:6,7 
+50:7 
+
+comparison 
+32:15 46:10 
+
+complaint 4:17 
+completely 3:25 
+compliance
+48:13,19
+
+10:12 11:15,17  complied 48:16 
+
+19:12 20:8,19 
+21:9 35:24 
+certainly 8:6 
+21:5 25:22 
+46:1,4 
+
+chances 35:4 
+change 13:16 
+14:1 15:7,13 
+15:16 17:6,11 
+17:20 18:13,24 
+20:3 22:4 23:4 
+23:25,25 30:3 
+30:18,22 31:7 
+31:22 33:22 
+34:18 35:10 
+46:16 50:8 
+53:22,23 
+
+changed 12:8 
+14:6 44:19 
+
+changes 19:15 
+31:23 48:25 
+53:25 
+
+changing 18:1 
+23:17,22,22 
+45:8 
+
+Chief 3:3,8 9:9 
+
+9:15 10:3 
+14:16,22 24:7 
+
+claims 14:25 
+clarify 15:5 
+class 9:19 
+clause 3:11 9:12 
+
+clauses 11:16 
+clear 5:8 25:16 
+26:23 28:13 
+33:7 34:17,20 
+38:13 45:6 
+46:8 
+
+clearly 33:24 
+43:4 44:11 
+
+client 27:1 
+client's 27:2 
+clinical 19:1,6 
+
+27:23 
+
+clinicians 8:8 
+close 40:15 
+closing 4:18 
+
+53:6 
+
+come 11:1,1 
+
+17:2 30:4 33:3 
+34:17 42:25 
+43:1,8 51:19 
+comes 29:20,24 
+
+C
+
+C 1:21 2:1,8 3:1 
+
+24:10
+
+call 29:1,1
+called 31:2
+
+52:22
+
+calls 36:5
+candle 26:8
+care 14:12 27:5 
+
+30:14 42:22
+45:10 46:19
+49:5
+
+cascading 8:13
+case 3:4,10 5:20 
+6:6,12 7:5 9:7 
+9:17 10:17
+11:22 12:15
+14:2 15:6
+20:12 21:8,9
+21:12,14 23:2 
+29:20,25 30:8 
+31:10 32:19
+35:4 40:15,25
+41:1,8 44:15 
+48:7,9 51:3,20 
+
+complicated
+
+20:19 
+
+comply 3:22 
+4:11 46:3,18
+
+complying
+
+50:25 51:5 
+
+comprehended
+
+concentrate 
+
+6:14 
+
+40:23 
+
+32:25 
+
+concentration 
+
+concept 40:8 
+concerned 8:4 
+
+11:20 
+
+concerning
+
+24:25 
+
+concerns 3:10 
+conclude 11:24 
+
+44:14 47:16 
+
+concluded 6:24 
+
+33:25 
+
+conclusion 
+
+56 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+10:21 
+
+conditions 3:14 
+10:1 15:2 28:2 
+36:8 
+
+conduct 11:11 
+conducts 35:9 
+confess 50:2 
+conflict 3:10,11 
+
+continuing 
+
+50:24 
+
+contra 4:20 
+49:13 53:3 
+contradicting 
+
+contraindicated 
+
+26:16 
+
+33:25 
+
+11:18,22 12:14  contraindicati... 
+12:23 13:1,7 
+13:11,14,18 
+15:1 16:4 
+17:11,17 31:18  contra-indicate 
+
+contrary 36:3 
+contrast 9:13 
+
+19:23 
+
+conform 14:11 
+Congress 11:2 
+18:19 21:21 
+35:22 36:3 
+39:1 
+
+connect 46:14 
+consequence 
+
+39:24 
+
+consider 5:3 
+30:11 38:14 
+43:2,4,9 47:17 
+48:7 
+
+consideration 
+
+4:20 
+
+correct 22:12 
+34:25 40:5 
+43:25 
+
+correspondence 
+
+7:9 43:23 
+
+corresponding 
+
+42:21 
+
+costs 35:21 
+counsel 14:16 
+
+51:9 54:7 
+count 10:24 
+couple 27:24 
+course 9:12 
+
+18:9 
+
+49:21 
+
+considering 
+
+26:3 41:4,5,14 
+considered 3:17 
+16:10 25:9,11 
+25:14,20,24 
+28:9 33:24 
+34:8 41:19 
+42:9,24 
+
+court 1:1,12 3:9 
+9:18 10:17,20 
+11:20 14:23 
+20:25 21:3,23 
+23:8 29:21 
+32:12 41:23,25 
+45:3 48:19 
+consistent 4:1 
+50:6 51:25 
+constellation 8:1  courts 27:19 
+47:21 50:6 
+court's 29:4 
+44:23 45:1 
+cover 16:14 
+create 42:21 
+created 31:17 
+creating 29:7 
+criminal 51:16 
+
+Constitution 
+
+consumers 
+
+constitutes 
+
+33:15 
+
+11:19 
+
+15:10 
+
+11:8 
+
+contain 23:7 
+context 6:11,12 
+
+51:20 
+
+7:10 
+
+criterion 44:15 
+
+crucial 32:9 
+
+curiae 1:19 2:7 
+
+42:17 
+
+14:20 
+
+current 51:6 
+
+D
+
+D 3:1
+danger 38:1
+dangerous 3:19
+28:12,13 36:8 
+
+dark 6:10
+data 9:23 12:7 
+
+19:2 33:17
+
+DAVID 1:21 2:8 
+
+24:10
+
+day 13:23 22:3 
+
+34:3 37:24
+decades 52:6
+decide 8:7 9:3 
+
+14:4 47:25
+52:8,9
+
+decided 10:25
+13:19 21:14
+53:15,17,18
+deciding 21:8
+42:16 44:15
+decision 5:12
+deemed 31:22
+defense 16:23
+
+47:20 48:13,14
+48:14,21
+
+demonstrate 5:7
+denied 31:17
+Department
+
+1:18
+
+dependent
+30:12,13
+
+depends 30:8
+
+33:9
+
+depressant 17:3
+Deputy 1:17
+described 3:14
+
+54:6
+
+design 3:25
+desperate 35:25
+determination
+
+discovery 47:21 
+
+48:1,18 
+
+9:19 15:1 
+23:15 26:11,18 
+36:3 42:20 
+44:10 45:25 
+47:24 
+
+discreetly 5:3 
+discretely 42:9 
+discusses 44:2 
+determinations  dispute 33:14 
+disputed 27:18 
+disputes 29:4 
+distinct 41:6 
+
+determine 7:24 
+26:2,7 41:21 
+50:24 
+
+43:14 
+
+35:18 
+
+determined 3:17  distinction 9:10 
+
+4:16 39:7 
+
+determines 26:9 
+determining 
+
+30:9 
+
+distinctions 
+
+distinguish 44:7 
+
+21:11 
+
+44:10 
+
+developed 37:10  distinguishes
+device 9:10,11 
+
+41:1 
+
+9:16 10:8 23:1  distribute 13:24 
+
+devices 9:24 
+Diana 1:6 44:12 
+difference 9:16 
+
+10:12 13:10 
+46:1 
+
+distributing
+
+51:21 
+
+distribution 
+
+11:6 
+
+doctor 27:5 
+doctors 35:17 
+doctrine 23:15 
+
+different 10:21 
+23:19 25:22 
+28:2 29:5 32:4  doing 39:2,3
+32:5 41:7 45:8 
+45:14 
+
+dosage 36:9 
+differently 43:1  dots 46:14 
+
+40:19 
+
+directed 7:22,23  draw 44:19 
+directions 36:6 
+directly 6:22 
+
+43:1,9 
+
+difficulties 
+
+18:20 
+
+dilution 54:2 
+direct 6:2 7:6 
+18:23 52:22 
+
+9:18 
+
+disagreed 5:18 
+disapproval 
+
+34:22 
+
+disapproves 
+
+35:9 
+
+disclose 15:11 
+discolors 6:13 
+discovered 38:7 
+
+doubt 42:13 
+Dr 27:18 28:16 
+32:20 33:18 
+44:8 47:11 
+drafted 53:25 
+dramatic 42:19 
+
+drip 5:4 6:4,5 
+25:15 32:7,21
+42:10,17 44:7 
+44:13 52:23 
+
+drug 6:19 7:1,1 
+8:11,17 9:11 
+10:1,4,6 11:6 
+12:1 13:24 
+17:3,9 18:22 
+19:8,22 21:22 
+22:14,16 23:3 
+
+57 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+45:24 53:19 
+13:25 14:13 
+15:12 20:11,12  evolving 17:4 
+exactly 42:21 
+22:8 28:22 
+42:1,3 47:4 
+
+53:5 
+
+elaborately 45:5  example 16:5 
+electronic 19:2 
+eliminating 
+
+17:3 
+
+29:18 40:13 
+46:17 
+
+failure-to-warn 
+
+16:24 39:20 
+40:13 
+
+exceeded 6:7 
+exception 39:16 
+excess 27:10 
+excuse 12:4 25:4 
+existence 15:17  FDA 3:12,17,18 
+
+fair 38:11,12,16 
+fall 47:19 
+false 51:19 
+far 28:19 
+fault 20:17 
+
+35:24 
+
+emphatic 41:23 
+
+41:25 42:2 
+46:7 
+
+employees 19:8 
+enables 35:17 
+enacted 11:2 
+enforcement 
+
+18:21 
+
+15:21 34:12 
+49:11 
+
+existing 29:20 
+expected 10:4 
+experience 12:6 
+
+ensure 51:5 54:2  expert 27:6 
+entitled 34:23 
+envision 16:1 
+
+46:9 52:4 
+
+experts 5:15,18 
+
+35:1 
+
+escape 22:17 
+ESQ 1:15,17,21 
+
+2:3,5,8,11 
+
+essentially 23:12 
+
+32:14 
+
+establish 28:8 
+47:8 50:21 
+
+explain 16:16 
+explained 5:24 
+
+19:25 
+
+exposure 6:18 
+8:11 41:15,20 
+exposures 22:22 
+express 9:12 
+10:5 11:14 
+
+8:21 10:7,11 
+11:3 24:23 
+28:5 29:25 
+establishes 
+
+28:17 
+
+et 28:16 33:18 
+evaluate 11:5 
+
+52:3 
+
+evaluated 15:12 
+evaluating 3:16 
+
+26:7 
+
+Evaluation 19:9 
+event 5:10 
+events 19:3,18 
+
+28:4 
+
+evidence 7:8 
+10:20 24:20 
+25:8,16,21 
+29:16 41:11 
+
+23:7 
+
+extant 43:23 
+extensive 52:18 
+
+F
+
+fact 3:18 12:16 
+
+13:1,6 15:8 
+16:5 17:5
+19:12 26:16
+31:15,17 36:2 
+39:19 41:1,3
+48:15 49:14
+52:24
+
+factual 20:22
+
+failed 16:17,21
+
+31:19
+
+52:11
+
+fails 43:24
+failure 16:11
+
+4:15 5:1,16 
+6:24 7:8,9,11 
+8:3,5,5,7,23 
+9:2,19 10:18 
+11:5,25,25 
+12:3,5,17,25 
+13:2,20,23 
+15:8,8,14,20 
+16:18 17:5,7 
+17:10,19,23 
+18:3,5,11,20 
+18:23,25 19:1 
+19:5,14,25 
+21:22 22:4,20 
+22:24 23:4,7 
+24:1 25:6,9,12 
+25:14,20,22 
+26:11,19,20 
+27:22 28:10,22 
+28:24,24 29:2 
+29:6,6 30:10 
+31:15,20 32:2 
+32:22 33:8,24 
+34:3,7,21,22 
+35:8,9,14 
+36:12,15,21 
+37:7,24 38:2,6 
+38:9,13 39:8 
+39:22 41:5,9 
+41:11,18 42:1 
+42:2,6,13,15 
+45:8 46:13 
+48:7,23 49:8 
+49:17 51:18 
+52:2,4,8 
+
+FDA's 15:1,9,13 
+
+24:18,21 27:9 
+27:22,22,25 
+28:4 29:11 
+30:4,17,19,22 
+31:2,5 32:25 
+34:1 36:24,25 
+39:5,21 42:20 
+43:20 44:12 
+45:20 46:3,15 
+47:22,24 48:24 
+49:1 52:17 
+drugs 9:20,24 
+18:9,10 25:23 
+28:4 33:3 
+35:24 45:24 
+50:24 51:7,21 
+
+drug-specific 
+
+due 30:14 45:10 
+
+11:3 
+
+46:19 
+
+duration 36:10 
+duties 14:24 
+duty 30:14 33:4 
+
+34:9 37:20 
+44:17 45:10,14 
+47:24 50:19 
+51:1,5 
+
+1:21 
+
+E 
+E 2:1 3:1,1 
+earlier 31:10 
+
+37:2,24 38:17 
+
+early 45:17 
+easier 14:2 
+EDWIN 1:17 
+
+2:5 14:18 
+effect 12:25 
+29:25 51:6 
+effective 3:13 
+
+6:24 15:2 
+51:22 
+
+effectiveness 
+
+11:7 
+
+efforts 15:10 
+either 12:6 
+
+D.C 1:8,15,18 
+
+established 8:20  expressed 11:15 
+
+58 
+
+Alderson Reporting Company 
+
+17:10,13,19 
+18:17 20:1 
+21:5 38:25 
+50:7 52:12,13 
+FDA-labeling 
+
+53:4 
+
+Federal 3:23 4:4 
+
+4:12,13 10:4 
+11:12,19 16:3 
+17:15 23:13 
+36:22 39:21 
+40:20 45:10 
+48:21 51:1 
+fewer 10:24 
+field 11:10 
+figure 18:10 
+49:4 50:13 
+
+file 23:14 
+filed 52:19 
+files 31:5 43:19 
+
+46:6 47:23 
+
+finally 6:8 11:14 
+find 20:18 
+finding 30:14 
+finds 51:18 
+finish 53:15 
+first 3:4 5:14 
+12:13 17:13 
+18:15 49:19 
+five 52:19,20
+flat 52:3 
+floor 37:11 
+follow 27:1,2
+followed 54:4 
+following 49:25 
+footnote 5:24 
+
+7:13 29:3 
+32:11 
+
+force 23:14,16
+48:25 49:1 
+forget 38:4 
+form 13:14,18
+
+24:5 
+
+forms 5:16 
+25:23 41:7 
+forth 19:15 
+24:15 25:5 
+
+Official - Subject to Final Review 
+
+41:16 43:12 
+44:3 
+
+forward 21:5 
+33:8 34:17 
+
+found 16:8 23:9 
+
+28:3 
+
+four 5:23 19:6 
+Frederick 1:21 
+2:8 24:9,10,12 
+25:14,21 26:10 
+26:21 27:4,12 
+27:17 28:14 
+29:3,15 30:2 
+30:12,20,24 
+31:20 32:4,9 
+32:11 33:10,14 
+34:6,15,25 
+35:15,22 36:2 
+36:13,17,21 
+37:5,9,16,19 
+38:12,19,24 
+39:11,14,18,25 
+40:5,9,12,18 
+40:19,21 41:3 
+41:22 42:4,11 
+43:3,6,11,18 
+43:25 44:5,21 
+44:25 45:16,21 
+47:1,7 48:11 
+50:1,10,19 
+52:24 
+
+free 19:22 
+free-flowing 
+
+54:1 
+
+11:21 
+
+22:11 
+
+free-wheeling 
+
+frequency 20:7 
+
+frequently 33:3 
+friends 41:13 
+fully 10:18 21:3 
+functioning 
+
+fundamentally 
+
+32:17 
+
+22:1 
+
+furnish 16:25 
+further 16:15 
+
+21:16,19 37:25  ground 35:6 
+guess 49:14 
+38:5,8 
+G 
+
+H
+
+G 3:1 
+game 35:20 
+gangrene 7:2,18  happened 48:9
+
+hand 23:13
+hands 35:16
+
+19:13 
+
+GAO 28:3 
+gee 35:4 37:1 
+Geier 10:23 
+general 1:17 
+
+15:16,23 28:3 
+41:20 
+
+General's 5:9 
+
+31:21 
+
+49:19 50:5
+happening
+
+49:15
+
+happens 49:20
+
+50:5
+
+harm 29:8 33:1 
+harms 33:20
+hatch 22:17
+hazard 25:9
+health 36:9
+
+46:20
+
+getting 13:17 
+19:12 37:22 
+Ginsburg 4:22 
+4:24 5:5 7:17 
+7:21 15:4 18:8  heartland 11:23
+42:7 
+
+helped 15:10
+give 12:24 36:16  helpful 15:9
+given 7:25 12:25  hierarchy 8:13
+
+healthy 28:1
+hear 3:3
+
+18:23,25 32:20  high 44:2
+hired 19:8
+39:8 44:12 
+go 6:21 7:4 
+hit 26:6
+horrible 49:15
+huge 18:9
+hypothetical
+
+12:16 18:21 
+21:14 29:23 
+31:10 45:2 
+49:11,12 50:8 
+51:14
+
+40:9,24 41:2 
+
+goes 9:20 11:13 
+
+27:25 32:14
+48:12
+
+going 10:13
+12:12 17:1
+21:5,12 35:13 
+38:19 47:15,18
+48:18 50:20
+
+good 21:4
+gravity 6:5
+
+52:24
+
+greater 20:6
+greatly 25:24
+Green 27:18
+32:20 47:11
+
+I
+idea 27:20
+ideation 17:7
+identified 9:15
+
+10:13
+
+identify 17:1
+immediately
+
+6:13
+
+implicated
+
+10:16
+
+implied 11:22
+important 7:15
+
+18:20 47:14
+impose 14:5
+imposing 23:19
+
+impossibility 
+
+29:25 
+
+13:14 
+
+impossible 3:21 
+improved 18:22 
+
+54:4 
+
+inadequate 
+
+29:20 
+
+inadvertent 
+
+54:5 
+
+incident 45:18 
+incidents 52:2 
+include 24:19 
+
+25:7 
+
+includes 26:3 
+including 3:15 
+5:15,17 6:21 
+7:8 
+
+inconsistent 
+14:7 17:14 
+22:1 48:4,6 
+
+increased 22:10 
+
+22:11 25:25 
+indicate 53:3 
+indicated 7:7 
+
+26:9 
+
+indicating 37:25 
+indication 49:13 
+individualized 
+
+35:18 
+
+infer 43:2 
+information 
+5:12 8:7,22 
+10:19 11:24 
+13:15,16,19 
+15:17 16:9,12 
+16:18,24 17:4 
+17:8,9,12 
+18:12,17 19:13 
+20:2,5,6,14,15 
+20:20 21:9 
+22:7,18 23:5 
+23:18 24:3,4 
+30:7 31:5 33:9 
+33:11,15,16,19 
+34:9,9,12,13 
+34:18 35:17 
+
+37:3,10,13,14 
+37:25 38:2,5,6 
+38:9 39:1,8
+44:11,15,18
+46:20,23 47:5 
+47:6,10,15,18 
+47:22 48:2,22
+49:18 50:8,16
+50:18 51:6 
+52:1 53:21 
+
+informed 10:18 
+
+infusion 8:18 
+
+10:18 
+
+32:17 
+
+inject 8:17 
+injectia 54:3 
+injecting 32:16 
+injection 3:13 
+3:16 6:19 7:6 
+8:11,15,16
+15:2 31:4 
+52:22,23
+
+injured 12:18 
+
+34:4 
+
+injuries 46:11 
+injury 25:25 
+
+27:13 
+
+inquiry 9:23 
+instances 19:6,7
+
+42:12 
+
+instructed 29:16 
+instruction 6:6
+
+28:21 54:4
+instructions
+40:15 48:6
+instructive
+
+intensive 9:23
+
+23:10
+
+13:23
+
+interested 42:2
+interim 17:25
+interpretation
+
+intramuscular
+
+20:2
+
+8:14
+
+intravenous
+8:16 25:23 
+
+59 
+
+Alderson Reporting Company 
+
+intra-arterial 
+
+8:25 
+
+32:17 41:7 
+42:14 44:6,13 
+53:8 
+
+intravenously 
+
+6:20 
+
+8:10 
+
+35:9 
+
+investigation 
+
+involved 26:25 
+involves 51:20 
+irrelevant 37:4 
+irresponsible 
+
+irresponsibly 
+
+26:20 
+
+26:20 
+
+irritant 6:19 
+
+8:11,17 
+
+issue 8:6 11:1 
+24:25 30:9 
+33:16 53:15 
+issues 10:25 
+IV 3:15 4:19,19 
+4:25,25 5:2,3,3 
+5:17,25 6:2,8 
+6:15,22,24 7:6 
+7:14 8:18,20 
+12:8 22:21 
+24:25 25:15,15 
+25:20,24 26:12 
+26:25 27:3,11 
+28:12,19 29:7 
+31:4,16 32:1,6 
+32:7,20,21 
+33:24 41:4,5 
+41:15,19 42:3 
+42:6,9,10,12 
+42:13,16,17,18 
+43:14 44:2,7,8 
+46:5,11 52:22 
+52:23 54:1 
+
+J 
+
+joint 5:22 31:3 
+
+32:13 42:4 
+43:13 45:4 
+52:20 53:11 
+
+Official - Subject to Final Review 
+
+journals 7:12 
+judgment 5:18 
+
+45:11 47:6 
+53:17,18,21,25 
+
+judgments 8:8 
+
+jury 3:16 4:16 
+11:23 12:24 
+13:3,9,19 14:2 
+29:13,15 30:10 
+35:2,5 40:14 
+48:6 53:2,6 
+
+Justice 1:18 3:3 
+3:8,20 4:9,22 
+4:24 5:5 6:23 
+7:4,17,21 8:3,6 
+9:9,15,21 10:3 
+12:2,13,21 
+13:5 14:8,16 
+14:22 15:4,24 
+16:8,17 17:18 
+17:24 18:8 
+19:11,17,20 
+20:4,8,13,23 
+21:7,17 22:6 
+22:10,13,19 
+23:21 24:2,7 
+24:13 25:2,4 
+25:17 26:1,10 
+26:15,22 27:8 
+27:15 28:5,23 
+29:8,9,16,22 
+30:3,8,13,16 
+30:21 31:8,9 
+31:11,24 32:8 
+32:10 33:6,11 
+33:23 34:11,23 
+35:1,15,19,23 
+36:11,15,19 
+37:1,6,12,17 
+37:22,22 38:16 
+38:20,21,23 
+39:6,13,15,17 
+39:23 40:1,7 
+40:11,18,21,24 
+41:13,23,24 
+42:7,23 43:5,7 
+
+43:15,21,22 
+44:1,5,14,23 
+45:2,13,19 
+46:22 47:4 
+48:3,17 49:3 
+49:15 50:1,4 
+50:12,20 51:9 
+51:13 53:16 
+54:7 
+
+justification 
+
+47:9 
+
+justified 33:22 
+justifies 15:18 
+justify 20:3 
+
+K 
+keep 34:16 
+Kennedy 3:20 
+4:9 8:3,6 22:6 
+22:10,13,19 
+23:21 44:14,23 
+45:3 48:3,17 
+
+Kennedy's 
+
+12:13 
+
+kind 12:24 21:9 
+
+38:2 41:7 
+42:22 
+
+kinds 20:19 33:2 
+Kneedler 1:17 
+2:5 14:17,18 
+14:22 15:4,14 
+16:2,13,21 
+17:22 18:3,14 
+19:14,19,25 
+20:5,10,21,24 
+21:15,19 22:9 
+22:12,16,23 
+23:24 24:4,8 
+25:19 42:8 
+
+knew 24:24 31:6 
+
+38:2 42:13 
+45:6 46:7 52:4 
+52:5 
+
+know 28:11 
+30:25 31:1 
+41:24 43:9,20 
+43:23 46:7 
+
+49:16 50:13 
+52:2,25 
+
+knowledge 
+
+15:15 
+
+known 8:18 
+
+24:24 28:4,18 
+32:17 33:20,21 
+43:19 45:6 
+46:3,4,8 
+L
+
+label 3:23,25 4:4 
+4:14,16,20 6:9 
+10:21 12:3,7
+12:17,18 13:6 
+13:9 14:1
+15:16 16:19
+17:21 18:1,13
+18:24 23:23,25
+24:18 25:18
+26:16,17 27:20 
+27:22 28:22,24
+28:25 29:5,11
+29:23 30:1,2,6
+31:7,15,25
+32:4 34:1,18
+35:6,7,10,12
+36:5,23 37:10 
+37:20,21,25
+39:4 41:12
+43:17,21 44:1 
+44:2,6,9,13,18
+45:8,9,14,25
+48:8 49:8 50:9 
+53:3
+
+labeling 3:15,18
+5:11,12,19,19
+6:14 7:22,23
+8:13,24 10:2 
+10:19 13:20
+14:6 15:3
+16:10 17:6,23
+19:7 22:4,24
+23:2,3 24:16 
+25:5,10 26:22 
+27:2,3,10 28:8 
+28:11 29:13
+
+34:24 35:10 
+36:6 41:16 
+46:16,21 47:10 
+48:25 53:22 
+54:4 
+
+labels 30:4 33:4 
+laid 41:16 
+language 11:24 
+
+12:19 13:25 
+52:21 53:23 
+larger 29:17 
+lavish 8:10 
+law 3:22 4:4,12 
+4:12,13 11:9 
+11:12 14:24 
+17:15 22:3 
+23:14,16,19,19
+38:15 39:20 
+40:19,20 44:17 
+48:14 
+
+lawsuit 37:8 
+46:25 48:22 
+
+lawyer 53:6 
+lead 41:7 
+learned 19:22 
+learns 36:24 
+legal 20:21,23
+
+23:17 
+
+legislature 14:3 
+legislatures 14:3 
+let's 14:2 
+level 27:9 
+Levine 1:6 3:4 
+
+12:18 34:4 
+44:12 
+
+Levine's 53:20 
+liability 12:15 
+
+14:9 35:3 38:1 
+38:8 39:24 
+license 23:16 
+licensing 11:6 
+life-saving 7:1 
+light 10:1 33:3 
+lightning 26:6 
+limitation 30:1 
+limited 38:25 
+line 8:19,21 
+
+60 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+44:19 
+
+51:15,17,20 
+
+3:24 4:5,5,6 
+7:19 13:7 
+15:16,23 
+
+live 30:15 
+lives 46:17 
+logical 3:24 4:5  Matthew 44:8 
+long 19:17 
+maximum 6:5 
+long-standing  mean 7:3 9:14  misunderstands 
+
+misunderstan... 
+
+misleading 
+
+51:25 
+
+51:19 
+
+20:2 
+
+look 6:18 7:8 
+11:23 13:9,9 
+21:22 40:14 
+41:18 
+
+27:21 
+
+46:16 
+
+11:9 16:17 
+18:6,10 25:10  modification 
+26:5 28:6,11 
+30:21 35:13 
+38:18 39:12,21 
+42:1 43:16 
+44:2 47:2,2 
+49:12 50:4 
+
+modifications 
+
+46:21 
+
+29:6 
+
+looked 22:25 
+
+modify 31:15 
+moment 38:5 
+looking 10:20 
+Monday 1:9 
+lose 41:20,21 
+means 20:5 25:6  monitoring 
+lot 33:19 
+18:11 30:6 
+lots 27:25 28:1  medical 7:12,22  morning 3:4 
+lower 50:6 
+M 
+
+26:7 41:6 44:4 
+
+motion 53:20,24 
+moved 28:21 
+multiple 5:15 
+muscular 26:24 
+
+medicine 26:24  mush 25:12 
+meets 4:1 
+
+46:13 52:9 
+new 13:15,15 
+
+obtain 48:18 
+obtained 24:18 
+
+48:23 
+
+35:10 
+
+oftentimes 
+
+occurs 8:20 
+
+46:5,11,15 
+47:12 
+
+occur 38:4 
+occurred 35:3 
+
+15:17 16:9,11 
+16:18,24 17:8 
+18:12,17,20 
+19:1,8,13,22 
+20:2,4,5,5,14 
+20:15,19 21:9 
+22:7,18 23:5 
+23:17 24:3,4,5  offered 28:20 
+28:2,6,6 30:4 
+30:10,16,18,22 
+33:9,11,15,16 
+33:17 34:12,13  okay 21:10,15 
+39:6,13 40:7 
+37:3,3,13,14 
+40:11 
+38:4 44:14,18 
+46:3,23 47:5,5  old 13:16 33:12 
+47:15,18 49:17 
+49:23,24 50:9 
+50:15,17 52:1 
+52:17,17 53:20  ones 7:13 
+53:20,21 
+
+38:7 45:23 
+46:2 47:6 
+once 15:8,12
+
+47:21 
+oh 42:9 
+
+ongoing 51:1 
+new-drug 52:15  opening 4:17 
+25:11 53:6 
+
+52:20 
+
+nonpublished 
+
+operation 11:18 
+
+46:12 
+
+nonsubstantive 
+
+31:22 32:23 
+
+non-pre-empted 
+
+34:5 
+
+35:14 
+
+opinion 9:22 
+21:8 29:4 
+32:12 44:24 
+45:1 
+
+41:15,19
+
+opposed 22:21 
+
+notably 48:23 
+noted 21:1 
+notification 19:2  opposite 53:5 
+options 8:25 
+notion 27:19 
+oral 1:11 2:2 3:6 
+33:16 51:24 
+November 1:9 
+number 18:9 
+19:12 20:8 
+35:12 
+O
+O 2:1 3:1 
+
+order 18:25 
+ordered 19:1,6,7
+ordinary 6:9 
+original 36:23 
+
+14:18 24:10 
+
+37:10 43:17,18
+43:21 45:20,25
+46:24 47:1 
+51:17 53:12 
+
+ought 12:8 
+
+16:10 
+
+outset 3:20 15:5 
+
+8:24 9:10,11 
+9:16,23 10:8 
+32:18 
+magnitude 35:3  medically 9:6 
+making 17:4 
+21:7 37:2 
+manufacturer  members 11:20 
+15:16 19:22 
+20:16 21:12 
+22:3 28:18 
+30:5,14,25,25 
+33:5 34:17 
+36:24 37:20 
+46:18 47:19,25 
+48:4,15 49:6,9 
+49:22,24 50:16 
+50:17,20,22,25 
+51:4 
+
+met 47:16 
+method 7:24,25 
+8:15 26:9,23 
+42:13 44:13 
+52:24 
+
+mention 16:5 
+43:24 49:17 
+
+mentioned 16:2 
+
+methods 3:14 
+
+35:11 49:16 
+
+8:14 10:1 36:9 
+
+manufacturers 
+
+13:25 15:11 
+30:3,18 35:2 
+48:24 49:1 
+
+manufacturer's 
+
+20:17 47:23 
+market 33:4 
+marketed 27:25 
+marketing 
+
+36:18,20 50:23 
+
+massive 35:14 
+matter 1:11 3:23 
+
+microscopic 
+
+5:20 
+
+million 29:24 
+minutes 51:10 
+misbranded 
+36:5,13,23 
+37:14 38:18,22 
+39:5,21 40:3 
+misbranding 
+
+36:4,20 39:7,7 
+39:24 40:7,14 
+40:16,22 44:16 
+
+N
+
+N 2:1,1 3:1 
+name 35:20
+nature 9:18
+nausea 7:1
+necessarily 26:3
+necessary 50:8
+need 24:21 33:4 
+
+35:25 50:15
+
+needle 6:11
+needles 6:3
+needs 22:25
+negate 48:20
+negated 48:20
+negates 16:19
+negligence 14:9
+
+14:13 48:20
+negligent 27:6
+
+48:15 
+
+29:8 
+
+negligible 28:20  objects-and-p... 
+
+13:18
+
+never 8:3 11:1,1  obligation 14:5
+
+15:15 17:12 
+25:14,24 42:15 
+
+23:20 31:10
+33:8,13
+
+61 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+44:16 48:22 
+outweigh 7:20 
+
+28:19 
+
+pharmaceutic...  post-date 10:22  pre-empted 
+
+10:15 
+
+post-market 
+
+Phenergan 3:13 
+
+30:7 
+
+14:14,25 15:23 
+20:17 22:17 
+34:6,7,14 38:3 
+49:7 
+
+proposed 12:19 
+17:11,16 28:23 
+35:13 53:22 
+
+proposing 45:8 
+proposition
+
+pre-emption 
+
+15:22 
+
+3:10 9:12 10:5  protect 15:10 
+10:12 11:15,16  protection 36:16 
+11:18,22 13:18  proved 24:22 
+16:15,23 17:12  provide 8:7 
+18:16 38:3,10 
+39:10,12,19 
+40:2,23,25 
+41:9 47:20,20 
+47:25 48:14,20  provides 36:17 
+providing 40:20 
+53:15,18 
+primarily 15:19  provision 10:5 
+prior 21:21 22:2 
+23:8,9 36:4 
+40:14,16 
+
+16:18,22 30:5 
+provided 7:11 
+7:11 8:9,12 
+40:17 
+
+32:23 33:17 
+
+post-marketing 
+
+19:9 49:2 
+50:23 
+
+power 18:2 
+
+48:24,25 49:1 
+
+practitioners 
+
+32:19 
+
+preceding 30:17 
+precise 3:17 
+4:14 11:24 
+
+precisely 6:18 
+preclearance 
+
+9:20 11:4 
+
+preclude 11:11 
+predicated 
+
+12:16 34:12 
+38:8 
+
+P 
+
+P 1:15 2:3,11 3:1 
+
+3:19 6:13,19 
+8:12 15:1 31:7 
+33:20 46:5,10 
+3:6 51:11 
+47:13 54:6 
+page 2:2 31:2,21  physician 26:9 
+53:24 
+pages 5:21,22 
+
+27:2 
+
+28:16 32:13,14 
+part 15:7 45:14 
+
+46:18 49:3 
+
+particular 5:13 
+
+6:7 8:1 10:1 
+26:8 29:19 
+31:12 41:1 
+42:6 44:3 
+parties 5:15 
+party 4:11 
+passed 10:7,8 
+
+19:5,17 
+
+pathological 
+
+36:7 
+
+patient 8:2 
+
+42:22 
+
+patterned 9:24 
+pay 29:24 
+penalty 51:18 
+people 19:12 
+26:4 27:25 
+28:1 35:24 
+46:6 
+
+physicians 7:23 
+8:13,23 9:1,3 
+29:14 
+
+place 17:13 
+
+19:18 47:10 
+plainly 6:14 
+plaintiff 48:17 
+
+49:5,9,23 
+50:16 52:3 
+
+plaintiff's 52:4 
+please 3:9 14:23 
+plungers 6:3 
+point 5:8 7:15 
+11:14 18:18 
+19:4 20:14,15 
+21:20 23:6 
+27:18 29:4 
+31:12 32:9 
+33:2 37:23 
+40:6,12,22 
+42:14,17 47:14 
+51:15 
+
+pointed 9:21 
+
+23:10 
+
+probably 45:16 
+
+preempted 49:9  problem 7:12 
+preemption 
+5:10 11:10 
+22:18 23:1,3,8 
+23:9 
+
+proceedings 
+
+28:6,9 
+
+18:21 
+
+problems 28:2,6 
+
+preferability 
+
+32:16 
+
+preferable 8:17 
+preferred 8:15 
+
+26:23 
+
+preliminary 
+
+51:15 
+
+premarket 
+
+23:11 
+
+15:20 
+
+process 9:20 
+13:23 23:11 
+27:21 
+
+prodded 15:11 
+product 16:6,7 
+
+36:18 
+
+professionals 
+
+7:22 8:25 
+
+prescribe 29:19  prohibit 23:4 
+prescribed 10:2  prohibited 35:6 
+
+prescription 
+
+34:1 
+
+27:3 
+
+prohibition 
+
+23:17 51:21 
+prohibitions 
+
+provisions 16:19 
+prudent 28:17 
+public 35:16,19
+36:1 39:1,3,4 
+published 45:17 
+purely 40:8 
+purposes 9:17 
+push 3:15 4:19 
+4:25 5:3,17,25 
+6:2,8,11,15,22
+6:24 7:14 8:20 
+12:8 22:21 
+24:25 25:15,20 
+25:24 26:12,25 
+27:3,11 28:12 
+28:19 29:7 
+31:4,16 32:2,7 
+32:21 33:24 
+41:4,6,15,19
+42:3,6,9,12,13
+42:16,18 43:14 
+44:2,8 46:5,11 
+52:23 
+
+put 19:23 32:25 
+40:22 41:10,12 
+42:15 48:3 
+
+puts 33:8 35:16 
+
+percent 28:3 
+points 9:18,22 
+permission 14:1 
+18:14 33:18 
+permitted 47:22  policy 15:7,13 
+person 19:21 
+42:19 
+
+portions 5:6 
+
+36:3 
+
+25:18 
+
+petition 17:5 
+
+32:13 
+
+petitioner 1:4,16 
+
+1:20 2:4,7,12 
+3:7 5:22 14:21 
+51:12 
+
+position 15:15 
+
+presence 11:15 
+
+11:16 
+
+16:13 33:8 
+37:18,19 38:11  presented 3:11 
+12:20 23:2,4 
+39:9 
+30:10 
+
+promote 35:16 
+
+promulgated 
+
+51:16 
+
+35:19 
+
+20:1 
+
+possibility 17:7 
+possible 4:10 
+
+Pfizer 31:4 
+pharmaceutical  post 50:22 
+7:24 
+
+postdate 10:23 
+
+presumption 
+
+48:5 
+
+proof 50:13 
+properly 8:19 
+
+prevented 54:5 
+
+16:9 
+
+62 
+
+Alderson Reporting Company 
+
+Q 
+
+qualifications 
+
+37:2 
+
+question 5:11,13 
+
+7:18 12:13 
+20:21,23 25:3 
+30:24 31:11 
+37:24 48:12,12 
+52:8,9 
+
+quite 41:23 
+
+R 
+
+R 3:1 
+raise 12:11 
+raised 21:2 
+raises 33:12 
+rate 6:5,7 23:14 
+reach 10:21 
+reactive 51:17 
+read 19:20 
+
+20:18 21:10 
+25:10 49:10 
+53:14 
+
+reading 53:24 
+reads 24:16 
+real 35:25 
+really 11:4 
+18:11 47:5 
+53:2,2,3 
+
+reason 10:5 
+
+12:11,23 23:8 
+34:7 
+
+reasonable 
+24:20 25:8 
+42:19 
+
+reasonably 
+
+28:17 
+
+reasons 32:23 
+
+39:2 54:6 
+reassessing 
+
+34:19 
+
+rebuttable 48:5 
+REBUTTAL 
+2:10 51:11 
+received 48:7 
+recognized 
+
+18:19 
+
+Official - Subject to Final Review 
+
+recommendat...  rejected 12:19 
+17:8,16 27:19 
+32:22 34:8 
+
+recommended 
+
+6:21,21 
+
+rejection 13:2 
+
+41:4 52:16 
+
+rejects 17:10,23 
+
+relationship 
+
+17:23 
+
+24:21 
+
+relative 32:6 
+relevant 9:5 
+
+47:23 
+
+reliable 6:12 
+relied 15:19 
+relieves 7:1 
+remaining 51:10 
+remedies 11:11 
+
+15:21,22 
+
+remedy 15:25 
+16:11 40:20 
+
+remember 
+
+12:17 
+
+removed 31:4 
+rendered 3:19 
+
+12:1 
+
+Repeatedly 3:12 
+reply 5:24 7:13 
+report 52:12 
+reported 46:12 
+representing 
+
+15:3 
+
+record 5:6,14 
+7:8 9:8 20:11 
+25:18 33:23 
+41:18 42:1 
+45:3,5 52:10 
+52:14 
+
+records 46:7 
+recovery 40:3 
+reduce 54:2 
+refer 45:3 
+reference 5:23 
+6:1,3,4 29:7 
+43:13 
+
+referenced 34:3 
+references 42:8 
+
+42:12 
+
+referred 3:15 
+
+6:8 15:21 
+30:16 
+
+reflects 9:25 
+reformatted 
+
+47:10 
+
+reformatting 
+45:23 46:2 
+
+reg 21:10 49:10 
+
+49:10 
+
+regardless 31:24 
+regime 11:4 
+21:6 22:2 
+
+reserve 14:15 
+resources 18:21 
+respect 8:16 
+
+9:15,19 10:15 
+31:9 53:9,22 
+
+respectfully 
+
+51:4 
+
+responded 
+
+31:12 38:23 
+Respondent 
+
+1:22 2:9 10:12 
+21:1,1 24:11 
+Respondents 
+
+4:2 15:18 
+
+Respondent's 
+
+14:24 
+
+54:2
+
+risks 6:15 8:1,4 
+9:5,25 15:11 
+22:21,22 25:1 
+25:5,15,20,25
+26:12,25 28:19 
+29:7,12 30:4 
+30:17,19,22
+32:6 33:2
+41:19 42:6,16
+42:18,20,24 
+43:14 45:7 
+51:7
+
+risk-benefit
+
+41:8
+
+road 14:1
+
+31:18 
+
+50:22 
+
+responsibility 
+
+response 21:17  ROBERTS 3:3
+9:9 10:3 14:16 
+24:7 25:17
+26:1 29:9,22
+30:8 31:8
+41:13,24 51:9 
+53:16 54:7
+
+responsible 30:6 
+restrictive 28:24 
+rethinking 12:7 
+retract 38:17,19  rule 10:16 11:10 
+revise 28:21 
+
+13:3,3 17:4 
+23:18
+
+revised 24:17,19  rule-making
+
+33:4 
+
+25:6 
+
+15:19
+
+19:7 
+
+25:19 
+
+revision 15:18 
+
+ruling 34:3
+run 13:25
+running 8:18
+represents 15:7  Riegle 23:1,7,7,9  Rutherford
+reprinted 53:11 
+reproduced 
+
+Riegel 9:17,22 
+
+21:24
+
+Register 36:22 
+regulated 4:11 
+regulation 19:16  request 31:16,25 
+
+5:20 
+
+19:21 20:1,18 
+24:14 
+
+require 22:3 
+38:13 46:20 
+regulations 23:4  required 3:18 
+4:13,15 11:5 
+11:25 12:2 
+13:20 53:4 
+requirements 
+
+30:5 33:22 
+34:20 46:19 
+48:16 50:21 
+51:1 
+
+regulatory 21:5 
+
+48:13 51:5 
+reject 32:2 
+
+38:14 44:16 
+
+requires 5:19 
+
+4:1 
+
+24:1 
+
+Research 19:9 
+
+right 13:4,11,13 
+22:9,13 30:23 
+49:6,20 50:9 
+50:10,14
+
+rigid 6:3
+risk 3:16 5:2,17 
+6:18 7:2,2,18
+7:20 8:10
+19:14 20:6
+24:20 25:24
+26:4,5 29:7 
+30:9,10 34:19 
+34:19 35:18
+43:24 44:2
+46:20 52:3,5,5
+
+S
+
+S 1:17 2:1,5 3:1 
+
+14:18
+
+safe 3:13 6:24 
+15:2 26:2,4
+36:25 37:14,20
+38:18,22
+safely 27:11
+safety 11:5,7
+
+35:16,20 39:1 
+39:3,5 42:19 
+50:24
+
+salient 9:17
+
+63 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+snippets 15:19 
+Solicitor 1:17 
+
+24:15 25:5 
+27:20 30:3 
+32:11,12,17,24  somewhat 29:17 
+soon 24:19 25:7 
+43:13 45:4 
+
+5:9 31:21 
+
+saliently 5:19 
+satisfactorily 
+
+32:18 
+
+satisfy 45:9 
+saved 46:17 
+savings 11:17 
+saying 11:13 
+
+31:25 
+
+sense 29:18 
+sent 7:9 
+sentence 24:16 
+
+25:6 30:17 
+separate 5:23 
+separately 42:3 
+
+12:23 14:10,10  serious 24:20 
+29:1 30:18 
+25:8 26:25 
+35:4 36:15 
+27:16 
+37:6,9 38:3 
+40:2 43:22 
+49:25 
+
+set 8:18 19:1,15 
+
+says 12:25 13:23 
+
+22:16 28:11 
+29:5,19,22 
+32:24 41:11 
+44:6 49:11,21 
+50:14 52:25 
+Scalia 15:24 
+
+SETH 1:15 2:3 
+2:11 3:6 51:11 
+sets 21:20 44:3 
+severity 20:6 
+
+22:11 
+
+show 20:16 
+
+showed 25:21 
+
+22:15 49:12 
+52:14 
+
+26:14 27:5,13 
+31:1 33:24 
+46:9 
+
+16:8,17 17:18 
+17:24 24:2 
+25:4 26:15,22 
+27:8,15 28:5 
+28:23 29:8 
+30:16,21 31:11 
+34:23 35:1,15 
+35:19,23 36:11  showing 22:10 
+36:15,19 37:1 
+37:6,12,17 
+38:16,20,21 
+39:17 44:1,5 
+49:16 
+
+shown 50:17 
+side 6:25 7:2 
+22:8 23:18 
+40:22 41:14 
+51:6 
+
+47:18 
+
+situation 15:25 
+16:14,15 17:2 
+17:3 18:16 
+19:10 21:4,21 
+situations 23:11 
+size 5:21 53:13 
+small 27:23 
+small-bore 6:3 
+SNDA 52:17 
+
+53:10 
+
+25:7 
+
+sort 5:20 
+Souter 12:2,21 
+13:5 14:8 31:9 
+31:24 32:8,10 
+33:6,11 37:22 
+38:23 39:6,13 
+39:15,23 40:1 
+40:7,11 42:23 
+43:5,7,15,21 
+43:22 
+
+so-called 39:7 
+specific 6:15,20 
+13:2,24 38:14 
+41:14 44:4 
+
+state 3:16,22 
+4:12 10:7,11 
+14:2,3,3,24 
+16:3 17:25 
+22:3 23:18 
+29:18 34:10 
+38:15 39:20 
+40:4,19 44:17 
+45:10 48:14 
+
+stated 4:17 
+statement 4:18 
+
+38:11,16 39:16 
+States 1:1,12,19 
+2:6 14:19 48:5 
+48:10 
+
+statute 51:16 
+STEVENS 
+
+54:8,9 
+
+submitting 
+
+45:20 
+
+subpoena 48:24 
+subsequently 
+36:24 51:18 
+
+substantial 7:20 
+sue 26:20 
+sued 16:20 
+sufficient 45:9 
+suggest 29:13 
+
+32:18,20 42:12 
+
+suggested 15:3 
+
+45:25 
+
+suggestion 
+
+52:10 
+
+suicidal 17:7 
+
+40:18,21 45:13  suit 17:15 18:1 
+45:19 46:22 
+47:4 
+
+suits 15:9 
+
+40:4 
+
+stone 27:20 30:3  summary 53:17 
+stood 52:8 
+strength 32:5 
+strengthen 
+
+summary-jud... 
+
+53:18,20,24 
+
+53:14 
+
+19:23 31:16 
+strengthens 
+
+19:23 
+
+strict 14:8 
+strict-liability 
+
+14:14 
+
+stronger 12:19 
+28:21 41:4,10 
+52:18 53:1 
+struck 22:4 
+studies 19:1 
+
+49:2 
+
+stuff 20:19 
+
+25:11 
+
+34:21 
+
+submit 35:7 
+
+51:4 
+
+submitted 29:6 
+
+33:17 53:10 
+
+supplement 
+23:22 24:2 
+44:17 
+
+supplemental 
+24:6 52:17,17 
+52:20 
+
+supplemented 
+
+28:7 
+
+supporting 1:19 
+
+2:7 14:21 
+
+suppose 18:6 
+31:8 33:23 
+49:4 
+
+supposedly 
+
+22:14 
+
+Supremacy 3:11 
+Supreme 1:1,12 
+
+10:17 20:25 
+29:4 32:12 
+41:22,25 45:1 
+sure 4:7,8 53:16 
+Surely 25:6 
+surveys 50:23 
+
+specifically 7:14 
+
+strike 21:24 
+22:20,23 25:20  strong 45:21 
+41:19 
+
+54:3 
+
+Scalia's 9:22 
+
+37:23 
+
+scenario 48:17 
+scheme 35:1 
+scientific 41:11 
+SDNA 52:16 
+search 42:4 
+second 18:18 
+24:16 43:6 
+Section 33:5 
+
+36:4 
+
+see 6:10 18:12 
+seeking 11:10,11 
+semantic 4:6 
+
+sides 5:16 
+sidewalk 26:5 
+significance 
+
+24:25 
+
+silence 51:3 
+similar 10:5 
+
+34:9 
+
+sponsor 24:17 
+squarely 23:20 
+stage 53:14 
+stake 51:23 
+standard 10:20 
+
+13:7 14:12 
+16:3,4 27:5 
+39:22 47:16 
+
+13:8 20:18 
+28:7 29:19,22 
+32:24 35:23 
+41:15,18 44:13  start 24:14 
+
+46:3,19 
+stark 3:12 
+starker 42:14 
+
+single 52:11 
+
+starting 43:16 
+
+simply 5:18 12:9  standards 45:10 
+
+subject 17:25 
+
+64 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+thought 29:9,10  Tubex 6:1 
+thousand 27:24 
+
+sustained 44:20 
+
+44:22 45:12 
+
+synthesis 46:14 
+system 6:2,2 
+19:2 22:2 
+
+T 
+
+T 2:1,1 
+table 9:4,4,5 
+take 14:2 21:4 
+
+33:16 35:4 
+49:18 
+
+taken 15:15 18:3 
+talk 51:15 
+talking 7:10 
+22:7 23:21 
+32:15 44:6 
+45:2 
+
+tell 15:6 41:1 
+telling 9:3 26:19 
+termed 23:20 
+terms 9:3,4 11:5 
+
+40:16 
+
+terrible 46:15 
+test 4:10 5:10 
+
+7:7 38:13 
+42:15 
+
+testified 44:8 
+testimony 5:14 
+6:6 7:3,4,5 9:7 
+24:23 26:13 
+27:4,7,12,17 
+28:15 30:20 
+31:1 32:19 
+45:4 46:9 
+47:11 
+
+text 53:13 
+textual 3:23 4:5 
+Thank 14:16 
+
+24:7,12 51:8,9 
+51:13 54:7 
+
+theoretical 40:8 
+theory 14:13,14 
+29:10,13 47:5 
+47:5 
+
+things 15:20 
+18:22 34:16 
+
+43:3 47:17 
+49:15 
+
+think 3:25 4:8,9 
+5:8 7:16 9:14 
+9:17,21 11:14 
+12:7 15:6 
+16:16,18 18:4 
+19:6,18,21,21 
+20:25,25 21:2 
+21:3,4 22:24 
+33:14 34:16 
+39:11 40:1 
+41:11,18 44:21 
+44:25 45:11,16 
+47:8,8 48:8 
+50:19 
+
+27:24 
+
+three 51:10 
+time 3:23 4:11 
+
+12:6,9,12 
+14:15 18:6 
+19:20 27:21 
+30:4,18 35:5 
+38:3 46:24 
+49:19 52:15 
+
+times 35:12 
+time-intensive 
+
+9:23 
+
+53:6 
+
+told 38:6,9 49:7 
+
+tool 7:15 
+tools 18:21 
+tort 10:14 11:11 
+14:25 15:9,21 
+15:22,25 16:11 
+17:15 18:1 
+40:4 
+
+torts 15:8 23:19 
+totally 45:1 50:1 
+tracks 40:13 
+tragedies 46:15 
+treatment 42:22 
+
+44:10 
+
+trial 20:15 24:23 
+26:13 27:4,12 
+
+unknown 15:12 
+unpublished 
+
+33:19 
+
+unreasonably 
+
+3:19 12:1 
+13:21 53:7 
+unsafe 12:1 
+13:21 36:9 
+37:7 53:7 
+
+untangle 39:18 
+urge 4:2 47:17 
+use 3:14,18 4:13 
+4:13,15,15,19
+5:2 6:1 7:25 
+8:9 12:1,8
+13:24 15:3 
+26:2 28:12,12
+28:25 36:6,7,8
+36:25 53:8 
+54:1 
+
+uses 53:21 
+usual 5:4 
+usually 8:17 
+
+11:12 
+
+Vistrol 31:2 
+46:10 47:12 
+
+voluntarily 31:4 
+
+W
+wait 27:8,8
+waived 21:2
+walk 26:4
+want 4:3,8 5:6,8 
+41:10 51:14,14
+
+wanted 21:22
+warn 17:6,6
+
+29:18
+
+warned 6:15
+warning 12:24
+
+24:19 25:7
+31:16 32:1,5
+40:17 41:5,10
+41:12 53:9
+54:1
+
+warnings 7:10
+
+8:10 36:7
+52:19,22 53:1 
+warranted 9:6
+Washington 1:8
+
+27:18 28:15 
+29:17 31:1 
+32:19 44:8 
+45:3,5 47:11 
+48:19 49:4 
+50:6 51:25 
+53:6,19 
+
+trials 19:6 27:23 
+tried 12:24 13:8 
+
+13:8 52:4 
+
+trouble 46:13 
+true 10:3 20:12 
+try 13:8 39:18 
+
+50:2 
+
+trying 49:3 
+
+50:12 
+
+tubing 32:16 
+turn 42:7 
+turns 23:1,3 
+two 5:21,22 
+
+12:17 18:14 
+23:11 31:3 
+32:14 34:16 
+43:3 44:11 
+47:17 51:16 
+
+type 29:10 53:13 
+typewritten
+
+53:12 
+
+typically 48:21 
+
+U
+
+1:15,18,21
+wasn't 21:1
+
+V
+v 1:5 3:4 
+vague 11:21 
+vain 42:5 
+various 25:18 
+vastly 27:9 
+vein 6:12 8:20  Waxman 1:15
+verbiage 32:24 
+verdict 35:5 
+
+43:19 53:1,2
+53:20
+
+44:20 
+
+5:1 8:23,24 
+12:4,21 13:5 
+17:24 22:6 
+33:7,12 37:23 
+39:9 
+
+underlies 34:10 
+underscore 5:8 
+understand 3:24  Vermont 4:16 
+10:17 12:24 
+13:2,3,9,19 
+20:22,24 29:3 
+32:12 41:22,25 
+44:23 45:1 
+version 53:12 
+versus 5:3 8:4 
+25:15 29:6,8 
+32:7 42:17 
+52:23 
+
+31:14 40:23 
+41:17 
+
+understood 4:9 
+
+unfortunately 
+
+5:21 
+
+United 1:1,12,19  view 34:5 45:15 
+
+2:6 14:19 
+
+violates 4:4 
+
+2:3,11 3:5,6,8 
+4:7,22,23 5:5 
+7:3,21 8:5 9:14 
+10:10 12:15
+13:4,13 14:13 
+16:2 22:20
+23:10 25:19
+42:8 51:10,11
+51:13 53:17
+way 5:4 19:14 
+26:11 27:21
+39:19 47:20
+48:1 50:3
+went 32:23
+
+43:12
+
+We'll 3:3
+
+65 
+
+Alderson Reporting Company 
+
+Official - Subject to Final Review 
+
+21 19:6 
+24 2:9 53:24 
+25 31:21 
+3
+
+3 1:9 2:4 9:19 
+30 49:14,17 
+314 33:5
+314.80(b) 50:21 
+352(f) 36:4
+
+4
+4a 32:13
+430 19:8
+44 36:22
+5
+
+5a 32:14,24
+50 14:3
+51 2:12 28:3 
+54 28:16
+7
+
+70s 24:24 45:17 
+79 31:2
+
+8
+80s 33:21
+88 53:23
+9
+90s 33:21
+97 10:13
+
+we're 22:7 
+we've 7:13 
+Williamson 
+
+21:24 
+
+12:17 17:5 
+28:18 38:7 
+49:14,17 
+
+yesterday 38:7 
+
+$ 
+$10 29:24 
+0 
+
+window 18:7 
+wins 50:15 
+wish 4:2 
+wondering 50:4 
+word 38:4 49:21 
+49:24 50:14,14 
+50:15 53:21 
+1 
+wording 23:25 
+29:19,20 40:15  1,000 38:7 
+40:16 
+words 4:12,19 
+
+1 32:12 
+
+06-1249 1:5 3:4 
+
+8:19 14:9 
+21:21 28:25 
+39:15 40:1 
+works 27:21 
+world 13:22 
+worried 35:2 
+worth 26:8 
+wouldn't 16:4 
+
+20:4,18 
+
+wrong 29:24 
+
+52:3,7 
+
+10 48:4 
+10:06 1:13 3:2 
+11 5:24
+11,000 18:10 
+13 7:13 
+14 2:7 
+150 10:13 
+19-A 24:15
+1906 51:17
+1938 11:2,3
+1950s 45:24 
+1955 43:20 46:1 
+
+47:2 52:15
+
+1970s 31:6 45:22 
+
+49:11 
+
+1962 11:4
+1965 47:13
+
+Wyeth 1:3 3:4 
+3:18,22 4:15 
+7:9,11 10:19 
+11:25 12:5,8 
+12:16,19,20,22 
+24:24 25:16 
+1976 6:17
+28:17 31:5,14 
+1979 36:14,22
+33:20,21 42:5 
+1982 49:18
+45:6,14 46:2,7  1987 7:9 53:10 
+46:13 52:5,11 
+52:19 53:25 
+Wyeth's 12:22 
+
+53:22
+
+46:2
+
+1988 53:25
+1990s 46:4,8
+1998 4:15 47:2 
+
+13:5 31:5 
+43:19 46:6 
+
+52:16 
+
+X 
+
+x 1:2,7 
+
+Y
+
+year 19:5 
+years 3:12 10:14 
+
+2 
+
+20 7:11,11 10:24 
+2000 47:3 48:23 
+2007 18:18
+
+2008 1:9 19:25 
+201.80 24:14 
+
+66 
+
+Alderson Reporting Company 
+
+
