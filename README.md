@@ -9,6 +9,8 @@ Introduction
 
 Predicting the behavior of the Supreme Court can have many implications. Political scientists and legal experts have long presented and debated their predictions. The decisions of the court have a major impact on American society. Therefore, the ability to predict those decisions in advance could have a number of uses, depending on the case. Our project will attempt to predict the verdicts of the U.S. Supreme Court based on the oral arguments of the cases. Since court proceedings involve complex arguments, many parties with different speaking styles, and are based on a very large legal code, this topic represents a significant challenge.
 
+See the file "Using NLP to Predict the Behavior of the SCOTUS.pdf" in the current folder for additional information.
+
 
 Files and Folder Descriptions:
 
